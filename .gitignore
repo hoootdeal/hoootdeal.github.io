@@ -1,0 +1,7 @@
+data.json.lock
+.DS_Store
+# data.json 원자적 치환(tmp+os.replace)의 임시파일 — 정상 경로에서는 남지 않지만,
+# 프로세스가 강제 종료되면 잔여물이 이 저장소에 쌓인다(_commit_and_push는 data.json만
+# add하므로 push되지는 않는다). 아래 파손본 사본도 조사용 산출물이라 추적 대상이 아니다.
+*.tmp
+data.json.corrupt-*

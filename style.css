@@ -1,0 +1,381 @@
+:root {
+  --accent: #6c5ce7;
+  --accent-light: #9b59f5;
+  --accent-bg: #f0e8ff;
+  --yellow: #fee500;
+  --yellow-text: #3c1e1e;
+  --bg: #eceef2;
+  --card-bg: #ffffff;
+  --text: #1a1a1a;
+  --text-muted: #6e6e73;
+  --border: #ebebeb;
+  --card-shadow: 0 4px 20px rgba(0, 0, 0, 0.07), 0 1px 4px rgba(0, 0, 0, 0.04);
+  --banner-c1: #d97706;
+  --banner-c2: #0d9488;
+  --banner-c3: #db2777;
+  /* 가격은 theme.accent(브랜드색, 상품마다 달라질 수 있음)에 기대지 않고 --text를 그대로
+     써서 라이트/다크 어디서나 항상 고대비를 보장한다 — 할인율만 별도 강조색(--discount)을
+     쓴다. 라이트/다크 각각 배경 대비가 확보된 색을 별도로 지정(단일 색으로는 두 배경 모두
+     만족 못 함, 예: theme.accent #6B35C8는 어두운 카드 배경에서 거의 안 보였음) */
+  --discount: #e0392b;
+  /* BEST50 1~3위 행의 틴트와 4위 이하 순위 숫자 색. 상품 사진 위가 아니라 카드 면 위에
+     얹히는 값이라(구 배지와 다른 점) 테마별로 따로 잡는다 — 다크에서 라이트 틴트를 쓰면
+     흰 판이 되고, 라이트에서 다크 틴트를 쓰면 행 하나만 검게 뜬다. */
+  --rank-tint: #f4eeff;
+  --rank-tint-border: #ddd0f7;
+  --rank-dim: #a6a6ae;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --accent-bg: #2a2140;
+    --bg: #0e0e10;
+    --card-bg: #1c1c1e;
+    --text: #f5f5f7;
+    --text-muted: #a1a1a6;
+    --border: #2c2c2e;
+    --card-shadow: 0 4px 20px rgba(0, 0, 0, 0.35), 0 1px 4px rgba(0, 0, 0, 0.2);
+    --discount: #ff6b5e;
+    --rank-tint: #241b3b;
+    --rank-tint-border: #3d2f63;
+    --rank-dim: #7c7d88;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Segoe UI", Pretendard,
+    "Noto Sans KR", sans-serif;
+  display: flex;
+  justify-content: center;
+  padding: 24px 16px 40px;
+}
+
+main {
+  width: 100%;
+  max-width: 480px;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-align: left;
+  margin-bottom: 16px;
+}
+
+.profile-avatar {
+  width: 46px;
+  height: 46px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: var(--card-shadow);
+}
+
+.profile-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.profile-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.profile h1 {
+  font-size: 16px;
+  margin: 0;
+  font-weight: 700;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@keyframes cta-breathe {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgba(254, 229, 0, 0.55);
+  }
+  60% {
+    box-shadow: 0 0 0 6px rgba(254, 229, 0, 0);
+  }
+}
+
+.openchat-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 13px;
+  margin-bottom: 12px;
+  background: var(--yellow);
+  color: var(--yellow-text);
+  font-size: 14px;
+  font-weight: 700;
+  border-radius: 14px;
+  text-decoration: none;
+  box-shadow: var(--card-shadow);
+  transition: transform 0.15s ease;
+  animation: cta-breathe 2.2s ease-out infinite;
+}
+
+.openchat-button:hover {
+  transform: translateY(-2px);
+}
+
+.banner-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.banner-card {
+  display: block;
+  padding: 10px 14px;
+  background: var(--card-bg);
+  border-radius: 14px;
+  box-shadow: var(--card-shadow);
+  border: 1px solid var(--border);
+  text-decoration: none;
+  color: var(--text);
+  border-left: 4px solid var(--accent);
+  transition: transform 0.15s ease;
+}
+
+.banner-card.banner-c1 {
+  border-left-color: var(--banner-c1);
+}
+
+.banner-card.banner-c2 {
+  border-left-color: var(--banner-c2);
+}
+
+.banner-card.banner-c3 {
+  border-left-color: var(--banner-c3);
+}
+
+.banner-card:hover {
+  transform: translateY(-2px);
+}
+
+.banner-card strong {
+  display: block;
+  font-size: 13px;
+  font-weight: 700;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.banner-card small {
+  display: block;
+  color: var(--text-muted);
+  font-size: 11px;
+  margin-top: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* 탭은 3개를 균등 분할해 화면 폭을 꽉 채운다(2026-08-17) — 탭 전환이 이 페이지의 주요
+   동작이라 좌측에 몰려 있는 것보다 폭을 다 쓰는 편이 그 사실을 드러낸다. 탭이 늘어나면
+   각 탭이 좁아질 뿐 넘치지 않는다(flex: 1 + 최소 폭 없음). */
+.mall-tabs {
+  display: flex;
+  gap: 6px;
+  margin: 12px 0 0;
+}
+
+.mall-tab-btn {
+  flex: 1;
+  min-height: 40px;
+  padding: 0 6px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text-muted);
+  background: var(--card-bg);
+  border: 1.5px solid var(--border);
+  border-radius: 20px;
+  cursor: pointer;
+  white-space: nowrap;
+  font-family: inherit;
+  transition: all 0.15s ease;
+}
+
+.mall-tab-btn:active {
+  transform: scale(0.97);
+}
+
+.mall-tab-btn.active {
+  color: #fff;
+  background: var(--accent);
+  border-color: var(--accent);
+  box-shadow: 0 4px 12px rgba(108, 92, 231, 0.3);
+}
+
+.mall-disclosure {
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text-muted);
+  margin: 8px 2px 0;
+  min-height: 14px;
+  white-space: pre-line;
+}
+
+.mall-updated-at {
+  font-size: 12px;
+  line-height: 1.4;
+  color: var(--text-muted);
+  margin: 8px 2px 0;
+  text-align: right;
+}
+
+/* ── 상품 목록: 1열 리스트(2026-08-17 개편) ──────────────────────────────────
+   2단 카드 격자에서 리스트로 바꾼 이유: 상품명이 "산해직송 파김치, 1kg, 1개"처럼
+   긴 식품·생활용품 위주라 격자 폭(약 180px)에서는 이름이 늘 두 줄로 잘렸다.
+   리스트는 한 화면 노출 수가 줄어드는 대신 이름·가격·할인율이 같은 축에 정렬돼
+   위아래 상품끼리 바로 비교된다. */
+.products-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+/* 행 전체가 링크다(격자에선 이미지만 링크였다) — 리스트에서는 이름·가격까지 눌리는 게
+   자연스럽고 모바일 탭 타깃도 커진다.
+   min-height를 고정하는 이유: 랭킹 탭은 순위 컬럼이 붙어 상품명이 더 자주 두 줄이 되는데,
+   높이를 안 묶으면 그 탭만 행이 커 보인다(탭을 오갈 때 크기가 달라 보이는 문제). */
+.product-row {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  padding: 10px;
+  min-height: 94px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 15px;
+  box-shadow: var(--card-shadow);
+  color: inherit;
+  text-decoration: none;
+  transition: transform 0.15s ease;
+}
+
+.product-row:hover {
+  transform: translateY(-1px);
+}
+
+.product-row img {
+  width: 74px;
+  height: 74px;
+  flex-shrink: 0;
+  border-radius: 12px;
+  object-fit: cover;
+  display: block;
+  background: var(--border);
+}
+
+/* 랭킹 탭(BEST50) 전용 순위 컬럼. 격자 시절의 이미지 위 배지를 대체한다 — 리스트에서는
+   숫자가 세로로 정렬돼 그 자체로 랭킹표처럼 읽히므로 판·그림자가 필요 없다. */
+.product-rank {
+  /* 고정 width가 아니라 min-width다 — `LINKTREE_TOSS_BEST_TOP_N`을 100 이상으로 올리면
+     세 자리 순위가 24px 컬럼을 6px가량 넘어 썸네일을 침범한다(현재 운영값 50에서는
+     두 자리라 24px로 전부 정렬된다). */
+  min-width: 24px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.04em;
+  color: var(--rank-dim);
+  font-variant-numeric: tabular-nums;
+}
+
+/* 1~3위는 **행 배경**으로 강조한다(2026-08-17 사용자 확정) — 크기·여백·글자 크기는
+   4위 이하와 완전히 동일하게 두고 색만 바꾼다. 상위권 3개가 하나의 덩어리로 읽힌다. */
+.product-row-top {
+  background: var(--rank-tint);
+  border-color: var(--rank-tint-border);
+}
+
+.product-row-top .product-rank {
+  color: var(--accent);
+}
+
+.product-info {
+  min-width: 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.product-name {
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.35;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.product-price-row {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  margin-top: 5px;
+}
+
+/* 가격·할인율은 절대 줄지 않는다(flex-shrink: 0) — 셋을 한 줄에 두는 구조라 폭이 모자라면
+   무엇이든 밀리는데, 잘려도 되는 건 경과시간뿐이다(아래에서 말줄임 처리). */
+.product-price {
+  font-size: 16px;
+  color: var(--text);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+/* 할인율을 가격 **앞**에 둔다 — 이 페이지에서 사람을 멈춰 세우는 값이라 먼저 읽혀야 한다. */
+.product-discount {
+  font-size: 13.5px;
+  color: var(--discount);
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.product-price-at {
+  margin-left: auto;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 10.5px;
+  color: var(--text-muted);
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.status {
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 14px;
+  margin-top: 40px;
+}
