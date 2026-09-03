@@ -32,6 +32,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "머그바 안동식 순살찜닭, 800g, 2개",
+          "price": "15,900원",
+          "discount_rate": 25,
+          "priceAt": "09.03 09:43",
+          "image": "https://shopping.toss.im/live/temp/2026-03-13/03779698-9a0b-44b3-92f6-ecca3712391f.jpeg",
+          "url": "https://toss.im/_m/7vf9qGp8",
+          "_ts": 1788396190.980884
+        },
+        {
           "name": "건조기용 피죤 보타닉, 애플 밤, 120매, 2개",
           "price": "14,500원",
           "discount_rate": 57,
