@@ -78,6 +78,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "산해직송 국내산 전라도 파김치, 1kg, 1팩",
+          "price": "10,900원",
+          "discount_rate": 68,
+          "priceAt": "09.03 18:12",
+          "image": "https://shopping.toss.im/live/taca/ai/YTc3Y2Y2/QUoxSFBMQ1l5YkdHampjMFp1TVc0eG5neWR6ZEFBcTFHd0dQWUFZSFA4Uk0.png",
+          "url": "https://toss.im/_m/19un0qrd",
+          "_ts": 1788426732.7369359
+        },
+        {
           "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
           "price": "12,600원",
           "discount_rate": 54,
@@ -562,15 +571,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/ZGI4ZWU2/TE5ScEMwdHJ6bk41eEVjNVd0UzQxaU9VdE5PMWxMZWNPUFJyY2twbVhLdz0.png",
           "url": "https://toss.im/_m/NEwjeKOD",
           "_ts": 1788000848.57791
-        },
-        {
-          "name": "똑순이 알고니 알탕, 700g, 2개",
-          "price": "13,900원",
-          "discount_rate": 44,
-          "priceAt": "08.29 18:11",
-          "image": "https://shopping.toss.im/live/temp/2026-04-03/509167b1-d26e-4383-abdf-63fadee64c54.jpeg",
-          "url": "https://toss.im/_m/jr1xrTLo",
-          "_ts": 1787994691.402535
         }
       ]
     },
