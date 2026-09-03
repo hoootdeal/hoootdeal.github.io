@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "랩신 센서티브 포밍 핸드워시 리필 파우더리 허브향, 200ml, 6개",
+          "price": "6,290원",
+          "discount_rate": 38,
+          "priceAt": "09.03 17:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/146246912141170-5ebc1a54-0e17-4ef2-9e09-946a64a3716f.jpg",
+          "url": "https://link.coupang.com/a/gJ2DdHTD52",
+          "_ts": 1788425891.1071842
+        },
+        {
           "name": "말리 코코넛워터, 1L, 2개",
           "price": "4,980원",
           "discount_rate": 39,
@@ -562,15 +571,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-04-03/509167b1-d26e-4383-abdf-63fadee64c54.jpeg",
           "url": "https://toss.im/_m/jr1xrTLo",
           "_ts": 1787994691.402535
-        },
-        {
-          "name": "산지로드 소갈비살, 1kg, 1개",
-          "price": "27,900원",
-          "discount_rate": 39,
-          "priceAt": "08.29 17:51",
-          "image": "https://shopping.toss.im/live/temp/2026-03-18/f18cf1b8-618f-4397-942d-09fed91a1455.jpeg",
-          "url": "https://toss.im/_m/9fN1lYFa",
-          "_ts": 1787993491.041754
         }
       ]
     },
