@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 저당 생쫄면 2인분, 460g, 2개",
+          "price": "7,480원",
+          "discount_rate": 50,
+          "priceAt": "09.03 16:52",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/b25448fe-6c46-4c4c-b636-c011fdad45cb305958750321944481.png",
+          "url": "https://link.coupang.com/a/gJXVMyPKSq",
+          "_ts": 1788421955.2604191
+        },
+        {
           "name": "백설 햄스빌 담백한 굿베이컨, 110g, 6개",
           "price": "8,980원",
           "discount_rate": 49,
@@ -535,15 +544,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-03-18/f18cf1b8-618f-4397-942d-09fed91a1455.jpeg",
           "url": "https://toss.im/_m/9fN1lYFa",
           "_ts": 1787993491.041754
-        },
-        {
-          "name": "어촌명가 당일제조 수제 간장 참소라장, 500g, 2개",
-          "price": "15,390원",
-          "discount_rate": 74,
-          "priceAt": "08.29 15:44",
-          "image": "https://shopping.toss.im/live/temp/2026-03-24/dda5d835-3f09-4141-a762-bc1949e9d07a.jpeg",
-          "url": "https://toss.im/_m/BR9Wigtc",
-          "_ts": 1787985881.42626
         }
       ]
     },
