@@ -24,7 +24,17 @@
       "id": "coupang",
       "name": "쿠팡 모아보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
-      "products": []
+      "products": [
+        {
+          "name": "백설 햄스빌 담백한 굿베이컨, 110g, 6개",
+          "price": "8,980원",
+          "discount_rate": 49,
+          "priceAt": "09.03 15:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/656690119600158-ad84138e-cc38-4106-8029-20841f5c94b1.jpg",
+          "url": "https://link.coupang.com/a/gJQuAKkHtY",
+          "_ts": 1788415872.489401
+        }
+      ]
     },
     {
       "id": "toss",
