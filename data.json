@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "해태제과 버터링 딥황치즈, 155g, 1개",
+          "price": "5,180원",
+          "discount_rate": 10,
+          "priceAt": "09.04 14:28",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/12/11/8/9cf08e07-e666-469e-aa00-983f701d356d.jpg",
+          "url": "https://link.coupang.com/a/gLsyjs4tki",
+          "_ts": 1788499702.773178
+        },
+        {
           "name": "데체코 슈고 올 아라비아따 파스타 소스, 400g, 3개",
           "price": "7,280원",
           "discount_rate": 59,
@@ -634,15 +643,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NjNiNTlm/ZU9ZUzlFZmo3NFg4RDZoNERXbVhhL3EwMEphVGtCYWxaUFRxVnF0U0pTaz0.png",
           "url": "https://toss.im/_m/RHfz6Q1g",
           "_ts": 1788074979.875505
-        },
-        {
-          "name": "프로버블리 어성초 중성 비누, 110g, 7개",
-          "price": "12,900원",
-          "discount_rate": 41,
-          "priceAt": "08.30 14:15",
-          "image": "https://shopping.toss.im/live/temp/2026-08-13/5551192d-84be-4338-992c-a06f2d6c3077.jpeg",
-          "url": "https://toss.im/_m/dIVA31nt",
-          "_ts": 1788066924.915904
         }
       ]
     },
