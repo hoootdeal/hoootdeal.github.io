@@ -222,6 +222,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "농협안심 새청무 탄탄대로 쌀, 상등급, 10kg, 1개",
+          "price": "31,500원",
+          "discount_rate": 43,
+          "priceAt": "09.04 19:14",
+          "image": "https://shopping.toss.im/live/taca/ai/Zjg1MDlh/SncvU1dsaTJKYXl4NGR1aEx4bTIxbGh2UzBxYnN2V2xwTmthU1ZsazViWT0.png",
+          "url": "https://toss.im/_m/dJOG7g9w",
+          "_ts": 1788516849.0189078
+        },
+        {
           "name": "신일 접이식 선풍기, SIF-D07AO, 화이트, 1개",
           "price": "25,947원",
           "discount_rate": 56,
