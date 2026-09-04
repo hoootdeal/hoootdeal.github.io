@@ -168,6 +168,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "구워먹는 할루미치즈, 200g, 3개",
+          "price": "7,600원",
+          "discount_rate": 65,
+          "priceAt": "09.04 15:52",
+          "image": "https://shopping.toss.im/live/temp/2026-06-30/ade7ab0a-5ebe-489c-a02a-66196e0122ca.png",
+          "url": "https://toss.im/_m/bYiJDbZ5",
+          "_ts": 1788504776.631945
+        },
+        {
           "name": "메이홉 바디트리머, MA-0400, 오로라 화이트, 1개",
           "price": "34,800원",
           "discount_rate": 50,
