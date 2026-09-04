@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "극강시원 어깨 등 갈고리 안마기 마사지기, 우드, 1개",
+          "price": "4,600원",
+          "discount_rate": 65,
+          "priceAt": "09.04 19:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4f89/01873211a2df235b738d6835ccd7164e9444a71c928bc8ca4c11f3595cdc.jpg",
+          "url": "https://link.coupang.com/a/gLOrM6nlq8",
+          "_ts": 1788518204.9751658
+        },
+        {
           "name": "바겐슈타이거 스텐 계량볼, 혼합색상, 750ml, 1개",
           "price": "3,340원",
           "discount_rate": 63,
@@ -715,15 +724,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-13/12251a6b-52f2-454b-a7a2-4505757a22ed.jpeg",
           "url": "https://toss.im/_m/lxAu6C2B",
           "_ts": 1788089872.9397728
-        },
-        {
-          "name": "CJ제일제당 고메 소바바치킨 순살 5종, 소이허니 240g 1개 + 양념 240g 1개 + 마쏘킥 240g 1개 + 레드핫 240g 1개 + 황금홀릭 240g 1개, 1세트",
-          "price": "23,900원",
-          "discount_rate": 42,
-          "priceAt": "08.30 19:33",
-          "image": "https://shopping.toss.im/live/temp/2026-06-10/0545516d-8844-4dce-9c31-5dee5efd03bb.jpeg",
-          "url": "https://toss.im/_m/nqnUmWad",
-          "_ts": 1788086039.241874
         }
       ]
     },
