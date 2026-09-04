@@ -177,6 +177,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이진물산 볶은 땅콩, 24/28, 1kg, 1봉",
+          "price": "7,400원",
+          "discount_rate": 32,
+          "priceAt": "09.04 16:51",
+          "image": "https://shopping.toss.im/live/taca/ai/NDNlMWU2/QUtkMWlSMEF6dWVBWGFudkZDZzUveG5DVFBLTFB0QWcrV2ViV0h2ZURVUXY.png",
+          "url": "https://toss.im/_m/1niSOoeC",
+          "_ts": 1788508291.616609
+        },
+        {
           "name": "구워먹는 할루미치즈, 200g, 3개",
           "price": "7,600원",
           "discount_rate": 65,
@@ -670,15 +679,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YWM3NTgw/QUxNWlkrUEoyWTltYnAwTjQvWVp0RHpCNGMzeGorRy9tN0xsYnA2VGpQbnM.png",
           "url": "https://toss.im/_m/xGC58thx",
           "_ts": 1788077726.460097
-        },
-        {
-          "name": "제주 삼다수, 라벨 랜덤, 2L, 12병",
-          "price": "12,990원",
-          "discount_rate": 23,
-          "priceAt": "08.30 16:29",
-          "image": "https://shopping.toss.im/live/taca/ai/NjNiNTlm/ZU9ZUzlFZmo3NFg4RDZoNERXbVhhL3EwMEphVGtCYWxaUFRxVnF0U0pTaz0.png",
-          "url": "https://toss.im/_m/RHfz6Q1g",
-          "_ts": 1788074979.875505
         }
       ]
     },
