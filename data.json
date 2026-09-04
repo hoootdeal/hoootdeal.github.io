@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "필립스 2000 시리즈 보이는 에어프라이어 4.2L, NA220/00, 블랙",
+          "price": "56,770원",
+          "discount_rate": 28,
+          "priceAt": "09.04 17:21",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1469166397053158-e1b7b31f-521a-4fbf-ab61-6ee230404ea0.png",
+          "url": "https://link.coupang.com/a/gLEVGP3mYC",
+          "_ts": 1788510114.558443
+        },
+        {
           "name": "해피콜 플렉스팬 샤이니 인덕션 프라이팬, 20cm, 1개",
           "price": "13,200원",
           "discount_rate": 26,
@@ -670,15 +679,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-18/c00ef28b-3a97-4ed5-8845-c06e14deee5c.png",
           "url": "https://toss.im/_m/Jn6WcfP5",
           "_ts": 1788079547.8905
-        },
-        {
-          "name": "더맛 우삼겹, 250g, 4개",
-          "price": "16,900원",
-          "discount_rate": 47,
-          "priceAt": "08.30 17:15",
-          "image": "https://shopping.toss.im/live/taca/ai/YWM3NTgw/QUxNWlkrUEoyWTltYnAwTjQvWVp0RHpCNGMzeGorRy9tN0xsYnA2VGpQbnM.png",
-          "url": "https://toss.im/_m/xGC58thx",
-          "_ts": 1788077726.460097
         }
       ]
     },
