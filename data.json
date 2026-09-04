@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오레오오즈 시리얼, 450g, 2개",
+          "price": "10,970원",
+          "discount_rate": 38,
+          "priceAt": "09.04 14:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/239114803017380-dc4ab663-350c-4501-b274-3b2970c32128.jpg",
+          "url": "https://link.coupang.com/a/gLsDYmKpP2",
+          "_ts": 1788499915.538947
+        },
+        {
           "name": "해태제과 버터링 딥황치즈, 155g, 1개",
           "price": "5,180원",
           "discount_rate": 10,
