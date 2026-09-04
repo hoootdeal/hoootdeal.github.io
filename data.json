@@ -105,6 +105,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
+          "price": "8,800원",
+          "discount_rate": 70,
+          "priceAt": "09.04 11:21",
+          "image": "https://shopping.toss.im/live/temp/2026-04-07/020b76ca-3a1a-45e9-ad26-e430ccf4c508.jpeg",
+          "url": "https://toss.im/_m/5abj1peg",
+          "_ts": 1788488488.310206
+        },
+        {
           "name": "닭다리 통살 춘천닭갈비, 500g, 2개",
           "price": "10,900원",
           "discount_rate": 67,
@@ -598,15 +607,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZTk3MmIz/QUlld0xROXFXOExZc1lhL01lRHNXcmxhUjdEZXBiZzlKMXR0d2w1KzFLMlo.png",
           "url": "https://toss.im/_m/lNEL1cpn",
           "_ts": 1788057903.5062988
-        },
-        {
-          "name": "달구벌 돼지 생막창 세트, 500g, 2봉",
-          "price": "12,900원",
-          "discount_rate": 35,
-          "priceAt": "08.30 11:13",
-          "image": "https://shopping.toss.im/live/taca/ai/Y2RhZjBj/ZHdRQ0pDc0FINGhQRnd5S1FPejYyT2FNQU53Yy9nQmMrYnpKL2J0MDUyaz0.png",
-          "url": "https://toss.im/_m/ZfW7XEJD",
-          "_ts": 1788056007.9453309
         }
       ]
     },
