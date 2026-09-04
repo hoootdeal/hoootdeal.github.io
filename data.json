@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아로마티카 바이탈라이징 로즈마리 수분장벽 선크림, 50ml, 3개",
+          "price": "16,750원",
+          "discount_rate": 80,
+          "priceAt": "09.04 11:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/260403214919630-d47a657a-415f-45a4-a498-e7c39555aacb.jpg",
+          "url": "https://link.coupang.com/a/gLhP21rE84",
+          "_ts": 1788490710.8274748
+        },
+        {
           "name": "스파오 아동용 COOL 절개 와이드 스웨트팬츠 C, 140",
           "price": "9,870원",
           "discount_rate": 62,
@@ -598,15 +607,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-01-07/c4efa185-5b09-467a-b5d9-9eecf9ce16e9.jpeg",
           "url": "https://toss.im/_m/H1G67iye",
           "_ts": 1788059117.951803
-        },
-        {
-          "name": "슈틸루스터 클린 풋 전동 무선 발각질제거기, 올리브, 1개",
-          "price": "14,900원",
-          "discount_rate": 81,
-          "priceAt": "08.30 11:45",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTk3MmIz/QUlld0xROXFXOExZc1lhL01lRHNXcmxhUjdEZXBiZzlKMXR0d2w1KzFLMlo.png",
-          "url": "https://toss.im/_m/lNEL1cpn",
-          "_ts": 1788057903.5062988
         }
       ]
     },
