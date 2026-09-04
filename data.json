@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "데체코 슈고 올 아라비아따 파스타 소스, 400g, 3개",
+          "price": "7,280원",
+          "discount_rate": 59,
+          "priceAt": "09.04 14:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/82779938193982-0669573f-ac72-470a-88d7-1d441736f783.jpg",
+          "url": "https://link.coupang.com/a/gLqYsG0BTo",
+          "_ts": 1788498380.315646
+        },
+        {
           "name": "[써모스] 진공단열 차망 티텀블러 500ml 보온보냉 JTB-500FI 티타임 선물용, 샌드베이지, 1ml, 1개",
           "price": "26,220원",
           "discount_rate": 26,
@@ -625,15 +634,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-13/5551192d-84be-4338-992c-a06f2d6c3077.jpeg",
           "url": "https://toss.im/_m/dIVA31nt",
           "_ts": 1788066924.915904
-        },
-        {
-          "name": "푸드앳홈 명태회무침, 1kg, 1개",
-          "price": "14,900원",
-          "discount_rate": 56,
-          "priceAt": "08.30 13:48",
-          "image": "https://shopping.toss.im/live/product/57609/6d62b623-d7be-4494-a51c-679007c8d4a5.jpg",
-          "url": "https://toss.im/_m/Jf7ncJui",
-          "_ts": 1788065334.708686
         }
       ]
     },
