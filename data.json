@@ -186,6 +186,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "신일 접이식 선풍기, SIF-D07AO, 화이트, 1개",
+          "price": "25,947원",
+          "discount_rate": 56,
+          "priceAt": "09.04 17:48",
+          "image": "https://shopping.toss.im/live/temp/2026-04-22/752aea19-0040-4231-8793-7c764df2c813.jpeg",
+          "url": "https://toss.im/_m/tX8AVwy9",
+          "_ts": 1788511713.346635
+        },
+        {
           "name": "이진물산 볶은 땅콩, 24/28, 1kg, 1봉",
           "price": "7,400원",
           "discount_rate": 32,
@@ -670,15 +679,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-10/0545516d-8844-4dce-9c31-5dee5efd03bb.jpeg",
           "url": "https://toss.im/_m/nqnUmWad",
           "_ts": 1788086039.241874
-        },
-        {
-          "name": "닭다리살 파닭꼬치, 40-50g, 20개, 1세트",
-          "price": "16,500원",
-          "discount_rate": 51,
-          "priceAt": "08.30 17:45",
-          "image": "https://shopping.toss.im/live/temp/2026-08-18/c00ef28b-3a97-4ed5-8845-c06e14deee5c.png",
-          "url": "https://toss.im/_m/Jn6WcfP5",
-          "_ts": 1788079547.8905
         }
       ]
     },
