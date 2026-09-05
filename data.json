@@ -258,6 +258,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "소소락 강릉 장칼국수 6인분, 면다해 칼국수 1kg + 소스 50g 6봉, 1세트",
+          "price": "6,900원",
+          "discount_rate": 25,
+          "priceAt": "09.05 20:15",
+          "image": "https://shopping.toss.im/live/taca/ai/N2IwMGFh/QU9UNDVZTHRGOGN6N0wzbms3U005VVJ4cEJBTVFCZEVmUVJ6R0lnWC9BQis.png",
+          "url": "https://toss.im/_m/P2ROahtj",
+          "_ts": 1788606950.377889
+        },
+        {
           "name": "정다운농원 국내산 천도복숭아, 가정용, 45-55과, 4kg, 1박스",
           "price": "14,500원",
           "discount_rate": 46,
@@ -769,24 +778,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/OTZhMDAx/QUxacmVTeXMyLzh6bXRCTk05K05sdGJKTkRiTVduVFMwbXR0S2xaaTFQMHA.png",
           "url": "https://toss.im/_m/hVdbEx8v",
           "_ts": 1788176502.6669812
-        },
-        {
-          "name": "채선당 소고기 샤브샤브, 895g, 1개 + 굴림만두전골, 790g, 1개",
-          "price": "19,900원",
-          "discount_rate": 50,
-          "priceAt": "08.31 19:52",
-          "image": "https://shopping.toss.im/live/temp/2025-11-10/3c3578d5-31af-4321-acc4-98f6645c65c6.jpeg",
-          "url": "https://toss.im/_m/T4iZF3Eu",
-          "_ts": 1788173526.026528
-        },
-        {
-          "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
-          "price": "12,988원",
-          "discount_rate": 50,
-          "priceAt": "08.31 19:22",
-          "image": "https://shopping.toss.im/live/temp/2025-08-16/583742ce-0d94-4d21-b53f-341a22dc0bc6.jpeg",
-          "url": "https://toss.im/_m/tbZhu1or",
-          "_ts": 1788171737.417229
         }
       ]
     },
