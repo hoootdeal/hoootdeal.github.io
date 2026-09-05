@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "포미 토마토 소스, 500g, 3개, 500g × 3개",
+          "price": "4,470원",
+          "discount_rate": 44,
+          "priceAt": "09.05 14:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/148860490947127-69687a79-203c-46b6-85a9-d230584e1a34.jpg",
+          "url": "https://link.coupang.com/a/gM73wXN0ua",
+          "_ts": 1788586615.4335659
+        },
+        {
           "name": "조양FNG HACCP인증 국산 다진마늘, 1kg, 1개",
           "price": "9,430원",
           "discount_rate": 37,
