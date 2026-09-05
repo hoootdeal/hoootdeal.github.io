@@ -258,6 +258,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "신영 고기 왕만두, 1.4kg, 1개 + 김치 왕만두, 1.4kg, 1개",
+          "price": "21,900원",
+          "discount_rate": 50,
+          "priceAt": "09.05 18:10",
+          "image": "https://shopping.toss.im/live/taca/ai/NWU3NDdk/QUprMk5tblBKdmQ1WlBFejY0MlB6SFYwdVdtVzVuVnpsQmdnTFZZcXJaMnE.png",
+          "url": "https://toss.im/_m/tItIJ3z4",
+          "_ts": 1788599443.297972
+        },
+        {
           "name": "Bhc 뿌링팝콘, 60g, 12개",
           "price": "7,900원",
           "discount_rate": 63,
@@ -769,15 +778,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-08-16/583742ce-0d94-4d21-b53f-341a22dc0bc6.jpeg",
           "url": "https://toss.im/_m/tbZhu1or",
           "_ts": 1788171737.417229
-        },
-        {
-          "name": "에이팔란스 제트 쿨링 휴대용 냉각 손선풍기 K300 Pro, 블랙, 1개",
-          "price": "9,900원",
-          "discount_rate": 90,
-          "priceAt": "08.31 17:40",
-          "image": "https://shopping.toss.im/live/taca/ai/MmRjODJl/TThsL0V1RDJtY2NlVy9BK3c4TUg4UHc1a3dzRDlud2s3eU1EdmpqUXZFRT0.png",
-          "url": "https://toss.im/_m/xrYLaqUv",
-          "_ts": 1788165654.7123652
         }
       ]
     },
