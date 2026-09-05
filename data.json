@@ -258,6 +258,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "글루글루 하루가글, 레몬향 1개 + 프레쉬쿨향 1개, 36정, 2개",
+          "price": "10,900원",
+          "discount_rate": 42,
+          "priceAt": "09.05 16:37",
+          "image": "https://shopping.toss.im/live/temp/2025-10-31/d4955c23-ff02-41bb-8893-9d27615958f0.jpeg",
+          "url": "https://toss.im/_m/14lz9KmC",
+          "_ts": 1788593869.193272
+        },
+        {
           "name": "삼보수산 홍합, 4kg, 1박스",
           "price": "9,900원",
           "discount_rate": 34,
@@ -760,15 +769,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MmRjODJl/TThsL0V1RDJtY2NlVy9BK3c4TUg4UHc1a3dzRDlud2s3eU1EdmpqUXZFRT0.png",
           "url": "https://toss.im/_m/xrYLaqUv",
           "_ts": 1788165654.7123652
-        },
-        {
-          "name": "신선하랑 구운 계란 중란, 60구, 1개",
-          "price": "18,900원",
-          "discount_rate": 45,
-          "priceAt": "08.31 16:22",
-          "image": "https://shopping.toss.im/live/taca/ai/ZWVlZDdh/WVh2UDRkNm5NSHN1L0NCTEpWcDljM0ZVL0p4N1FOOFg4VURieEVmd0l6cz0.png",
-          "url": "https://toss.im/_m/pDLrVIFs",
-          "_ts": 1788160974.984715
         }
       ]
     },
