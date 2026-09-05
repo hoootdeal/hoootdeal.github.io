@@ -240,6 +240,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "임성근 뼈없는 갈비탕, 800g, 10팩",
+          "price": "45,900원",
+          "discount_rate": 34,
+          "priceAt": "09.05 13:42",
+          "image": "https://shopping.toss.im/live/taca/ai/Y2VlM2Zl/Vnd4cHN4TXAwMWZhV2ROTjFNa1lqZWFUT3BucWN6TlJZMWtadWFXbVBKWT0.png",
+          "url": "https://toss.im/_m/RQZ7Ce6s",
+          "_ts": 1788583372.211869
+        },
+        {
           "name": "양계장사람들 난각번호2번 프리미엄 유정란, 특란, 60구, 1개",
           "price": "23,900원",
           "discount_rate": 40,
