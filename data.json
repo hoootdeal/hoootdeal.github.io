@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "써모스 뉴 데일리 원터치 텀블러, 페일그레이(PGY), 500ml, 1개",
+          "price": "19,470원",
+          "discount_rate": 29,
+          "priceAt": "09.05 15:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/23/10/6/06fcf3fb-a466-4bd9-9e07-d55f032cff2b.jpg",
+          "url": "https://link.coupang.com/a/gNaR4OnXIO",
+          "_ts": 1788588977.232548
+        },
+        {
           "name": "포미 토마토 소스, 500g, 3개, 500g × 3개",
           "price": "4,470원",
           "discount_rate": 44,
@@ -751,15 +760,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
           "url": "https://toss.im/_m/1EIShi5g",
           "_ts": 1788158628.356193
-        },
-        {
-          "name": "외갓집 진심 육개장, 600g, 3개",
-          "price": "8,990원",
-          "discount_rate": 70,
-          "priceAt": "08.31 14:39",
-          "image": "https://shopping.toss.im/live/taca/ai/ZGE1NWEw/T2h3UEtmbzVhVDJvUGExdGtQM2R2UVBrTnFVLzhXdTAvd083VWdBYi9NQT0.png",
-          "url": "https://toss.im/_m/jExyqCM5",
-          "_ts": 1788154761.992105
         }
       ]
     },
