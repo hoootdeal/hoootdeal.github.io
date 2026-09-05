@@ -240,6 +240,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "양계장사람들 난각번호2번 프리미엄 유정란, 특란, 60구, 1개",
+          "price": "23,900원",
+          "discount_rate": 40,
+          "priceAt": "09.05 12:43",
+          "image": "https://shopping.toss.im/live/temp/2026-05-26/9539c69b-24ae-47c9-b11e-6f9673332717.png",
+          "url": "https://toss.im/_m/x5TQX90r",
+          "_ts": 1788579786.3044858
+        },
+        {
           "name": "슈퍼딥큐 캡슐세제 플라워코튼향, 8g, 100개입, 2개",
           "price": "10,900원",
           "discount_rate": 72,
@@ -733,15 +742,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NDhjNDZl/UnRqd2NwOXIwNE5wTmo3ZXBQYk5pUnJENDNabVdEdUo4YXl5bkY2RlRYQT0.png",
           "url": "https://toss.im/_m/J2TOVeGj",
           "_ts": 1788152485.173975
-        },
-        {
-          "name": "찬바다 신안 활새우, 1kg, 1팩",
-          "price": "25,900원",
-          "discount_rate": 48,
-          "priceAt": "08.31 12:33",
-          "image": "https://shopping.toss.im/live/temp/2025-08-20/2129a656-1fc1-40ea-8909-b38c6da15b96.png",
-          "url": "https://toss.im/_m/lKvnXr1l",
-          "_ts": 1788147219.7648041
         }
       ]
     },
