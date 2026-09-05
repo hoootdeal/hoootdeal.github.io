@@ -258,6 +258,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "연세우유 멸균우유, 저지방, 190ml, 48개",
+          "price": "24,900원",
+          "discount_rate": 43,
+          "priceAt": "09.05 15:42",
+          "image": "https://shopping.toss.im/live/temp/2026-03-26/8553408c-608d-4a27-a221-1878b4e0614a.jpeg",
+          "url": "https://toss.im/_m/9S85bP01",
+          "_ts": 1788590523.771897
+        },
+        {
           "name": "센토 프라임 초미세 딥클린 점보 칫솔, 12개입, 2개",
           "price": "15,900원",
           "discount_rate": 68,
