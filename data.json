@@ -258,6 +258,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "매일야채 고농축 토마토의 힘, 125ml, 24개",
+          "price": "18,800원",
+          "discount_rate": 39,
+          "priceAt": "09.05 21:36",
+          "image": "https://shopping.toss.im/live/taca/ai/OWFhZjVj/ZUhPMDUrZGV5aDVKTm16bXZFdnRPdEtSTnVFNVRhMDVONDJYNGNlMGFGND0.png",
+          "url": "https://toss.im/_m/dArUGxsx",
+          "_ts": 1788611797.688411
+        },
+        {
           "name": "소소락 강릉 장칼국수 6인분, 면다해 칼국수 1kg + 소스 50g 6봉, 1세트",
           "price": "6,900원",
           "discount_rate": 25,
@@ -760,24 +769,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZWNlZWJm/YVhJMlN6dHlnM3kzSTNtRjdJM1NZMGJzRFp3eWF6SnovZFRzdFAyVTAwcz0.png",
           "url": "https://toss.im/_m/X4a9035g",
           "_ts": 1788226116.578248
-        },
-        {
-          "name": "사조 살코기 참치, 카놀라유, 100g, 10개",
-          "price": "15,900원",
-          "discount_rate": 38,
-          "priceAt": "08.31 21:33",
-          "image": "https://shopping.toss.im/live/temp/2026-01-12/65d04ec8-90c9-4d25-bf28-1a845d29bdb9.jpeg",
-          "url": "https://toss.im/_m/zq3Hmkbw",
-          "_ts": 1788179606.0617118
-        },
-        {
-          "name": "삼육김 광천 올리브 녹차김 도시락김, 4g, 16봉, 2개",
-          "price": "9,400원",
-          "discount_rate": 41,
-          "priceAt": "08.31 20:41",
-          "image": "https://shopping.toss.im/live/taca/ai/OTZhMDAx/QUxacmVTeXMyLzh6bXRCTk05K05sdGJKTkRiTVduVFMwbXR0S2xaaTFQMHA.png",
-          "url": "https://toss.im/_m/hVdbEx8v",
-          "_ts": 1788176502.6669812
         }
       ]
     },
