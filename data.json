@@ -258,6 +258,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "Bhc 뿌링팝콘, 60g, 12개",
+          "price": "7,900원",
+          "discount_rate": 63,
+          "priceAt": "09.05 17:16",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/ZDcyZDAw/QVBNN055dy9KSTdaZ2VORDVpemJlcHZ5T0VLMFJjNnN6a2hrSVNGcktkN2U.png",
+          "url": "https://toss.im/_m/jZmvUQxt",
+          "_ts": 1788596188.0088031
+        },
+        {
           "name": "글루글루 하루가글, 레몬향 1개 + 프레쉬쿨향 1개, 36정, 2개",
           "price": "10,900원",
           "discount_rate": 42,
