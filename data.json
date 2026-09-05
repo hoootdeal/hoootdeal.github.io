@@ -258,6 +258,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "삼보수산 홍합, 4kg, 1박스",
+          "price": "9,900원",
+          "discount_rate": 34,
+          "priceAt": "09.05 16:07",
+          "image": "https://shopping.toss.im/live/taca/ai/Y2Q4ODU4/QUlmVHRoYVVZNFpoMjlPcDNEVmV1Mm5yUGFkMlluV3NnWWliTXNZa2VzbCs.png",
+          "url": "https://toss.im/_m/xqcMg0Ru",
+          "_ts": 1788592076.268935
+        },
+        {
           "name": "연세우유 멸균우유, 저지방, 190ml, 48개",
           "price": "24,900원",
           "discount_rate": 43,
@@ -760,15 +769,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZWVlZDdh/WVh2UDRkNm5NSHN1L0NCTEpWcDljM0ZVL0p4N1FOOFg4VURieEVmd0l6cz0.png",
           "url": "https://toss.im/_m/pDLrVIFs",
           "_ts": 1788160974.984715
-        },
-        {
-          "name": "스파클 생수, 무라벨, 500ml, 80개",
-          "price": "16,490원",
-          "discount_rate": 31,
-          "priceAt": "08.31 15:43",
-          "image": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
-          "url": "https://toss.im/_m/1EIShi5g",
-          "_ts": 1788158628.356193
         }
       ]
     },
