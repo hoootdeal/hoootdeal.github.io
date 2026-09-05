@@ -258,6 +258,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "정다운농원 국내산 천도복숭아, 가정용, 45-55과, 4kg, 1박스",
+          "price": "14,500원",
+          "discount_rate": 46,
+          "priceAt": "09.05 18:50",
+          "image": "https://shopping.toss.im/live/taca/ai/YWNkNGFk/QU5BVWo0V2VoWjZrSXcwb0k1azRMZkVGbTBoK1hXbVRvS1JOL01JcmRBNS8.png",
+          "url": "https://toss.im/_m/dBB2JDpm",
+          "_ts": 1788601859.567862
+        },
+        {
           "name": "신영 고기 왕만두, 1.4kg, 1개 + 김치 왕만두, 1.4kg, 1개",
           "price": "21,900원",
           "discount_rate": 50,
