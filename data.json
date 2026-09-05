@@ -240,6 +240,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "센토 프라임 초미세 딥클린 점보 칫솔, 12개입, 2개",
+          "price": "15,900원",
+          "discount_rate": 68,
+          "priceAt": "09.05 14:09",
+          "image": "https://shopping.toss.im/live/temp/2025-11-05/3285eccd-790e-4bb3-a732-f548238d5a0b.jpeg",
+          "url": "https://toss.im/_m/379jTRJj",
+          "_ts": 1788584963.639104
+        },
+        {
           "name": "임성근 뼈없는 갈비탕, 800g, 10팩",
           "price": "45,900원",
           "discount_rate": 34,
@@ -742,15 +751,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZGE1NWEw/T2h3UEtmbzVhVDJvUGExdGtQM2R2UVBrTnFVLzhXdTAvd083VWdBYi9NQT0.png",
           "url": "https://toss.im/_m/jExyqCM5",
           "_ts": 1788154761.992105
-        },
-        {
-          "name": "한울 정성가득 비빔밥용 나물세트, 125g, 10개",
-          "price": "26,900원",
-          "discount_rate": 39,
-          "priceAt": "08.31 14:01",
-          "image": "https://shopping.toss.im/live/taca/ai/NDhjNDZl/UnRqd2NwOXIwNE5wTmo3ZXBQYk5pUnJENDNabVdEdUo4YXl5bkY2RlRYQT0.png",
-          "url": "https://toss.im/_m/J2TOVeGj",
-          "_ts": 1788152485.173975
         }
       ]
     },
