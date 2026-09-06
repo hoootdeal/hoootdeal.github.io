@@ -303,6 +303,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "추추 추어탕, 500g, 4개",
+          "price": "12,771원",
+          "discount_rate": 29,
+          "priceAt": "09.06 21:49",
+          "image": "https://shopping.toss.im/live/taca/ai/MTg4Njhm/U1d5OS9La2dQbkVVdFhnNzhqQnVDNnRmSDZpVlNNSG5RNk1YUnFwV0xDND0.png",
+          "url": "https://toss.im/_m/VvXw5KJ",
+          "_ts": 1788698959.739655
+        },
+        {
           "name": "셰프초이스 한판 닭갈비, 1.5kg, 1개",
           "price": "15,900원",
           "discount_rate": 23,
@@ -805,15 +814,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZGE0NTBj/QUp1Y3p1WWM0eHNjalphMW1YSkxiYllaa3VNTnhPU1o0MHNZT1dzejhNYWM.png",
           "url": "https://toss.im/_m/RBFm2Tah",
           "_ts": 1788309748.532745
-        },
-        {
-          "name": "손질 가리비 관자, 500g, 2개",
-          "price": "14,200원",
-          "discount_rate": 28,
-          "priceAt": "09.01 21:44",
-          "image": "https://shopping.toss.im/ef300893-9edf-4949-af2f-84bb7b92c5c4.jpg",
-          "url": "https://toss.im/_m/PxfIkgKD",
-          "_ts": 1788266672.889371
         }
       ]
     },
