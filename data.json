@@ -303,6 +303,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "초록매실 스파클링 제로, 350ml, 20개",
+          "price": "10,400원",
+          "discount_rate": 47,
+          "priceAt": "09.06 15:26",
+          "image": "https://shopping.toss.im/live/taca/ai/OTg1MDQ2/QUpadXBhRjlLNHZaZmxSQ1k2bVRHMGxVN0tjbktaQ05pVkpycThOTm5CYWw.png",
+          "url": "https://toss.im/_m/Pb5l6IFj",
+          "_ts": 1788675982.08863
+        },
+        {
           "name": "푸드센터 소갈비살, 200g, 5팩",
           "price": "29,500원",
           "discount_rate": 70,
@@ -805,33 +814,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZTc1N2Jl/Wnl4NG00NXpDeTE1ek01bHJ6RnBUMnM1eFp6eHByU05zUEY2Y3BiQnRZMD0.png",
           "url": "https://toss.im/_m/fo1pXx16",
           "_ts": 1788247376.9649332
-        },
-        {
-          "name": "피죤 드릴펑, 1L, 3개 + 2L, 1개",
-          "price": "9,900원",
-          "discount_rate": 61,
-          "priceAt": "09.01 15:23",
-          "image": "https://shopping.toss.im/live/temp/2026-02-20/8967c0a1-3e5f-4929-a496-26d84cacbef8.jpeg",
-          "url": "https://toss.im/_m/XUEcLSdr",
-          "_ts": 1788243832.6167822
-        },
-        {
-          "name": "맛생각 시골 전통 된장찌개, 600g, 5개",
-          "price": "16,500원",
-          "discount_rate": 52,
-          "priceAt": "09.01 14:27",
-          "image": "https://shopping.toss.im/live/temp/2026-06-15/a8bbce69-1c12-4b6f-915a-53a9bbc47f2f.jpeg",
-          "url": "https://toss.im/_m/flcjiNhh",
-          "_ts": 1788240454.543481
-        },
-        {
-          "name": "맛장군 열무김치, 2kg, 1팩",
-          "price": "10,900원",
-          "discount_rate": 69,
-          "priceAt": "09.01 13:29",
-          "image": "https://shopping.toss.im/live/temp/2026-04-21/af86d4da-e1ab-4491-b61f-c32e0c5c1f69.jpeg",
-          "url": "https://toss.im/_m/JHR2htoh",
-          "_ts": 1788236943.249581
         }
       ]
     },
