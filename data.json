@@ -294,6 +294,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "푸드센터 소갈비살, 200g, 5팩",
+          "price": "29,500원",
+          "discount_rate": 70,
+          "priceAt": "09.06 12:16",
+          "image": "https://shopping.toss.im/live/temp/2025-07-21/93a16065-9d8e-4a9a-83c8-c07c8cca1f2d.png",
+          "url": "https://toss.im/_m/7POgWtAx",
+          "_ts": 1788664602.2126179
+        },
+        {
           "name": "바른 돼지국밥, 500g, 5개",
           "price": "11,380원",
           "discount_rate": 57,
@@ -814,15 +823,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-04-21/af86d4da-e1ab-4491-b61f-c32e0c5c1f69.jpeg",
           "url": "https://toss.im/_m/JHR2htoh",
           "_ts": 1788236943.249581
-        },
-        {
-          "name": "리벤스 로얄플러스 물티슈, 캡형, 70매, 10팩",
-          "price": "9,800원",
-          "discount_rate": 68,
-          "priceAt": "09.01 11:51",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDdjNzBj/TDJXKys3VE9kLy9hM3YrL3l0UC96NkY3M3Y0M0lXbjdKNkcyODFyVS8rMD0.png",
-          "url": "https://toss.im/_m/n8n3ctr2",
-          "_ts": 1788231098.557759
         }
       ]
     },
