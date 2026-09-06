@@ -303,6 +303,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "애슐리 볶음밥 올인원 10종 세트, 1개",
+          "price": "18,900원",
+          "discount_rate": 58,
+          "priceAt": "09.06 19:37",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/YTUyZjk2/S1YyaXdQcEJwZTAxK29mcUM4ZjlZVWw1V0dGc29hRTVWRENEeDA1ZXUyWT0.png",
+          "url": "https://toss.im/_m/j5dwfSTy",
+          "_ts": 1788691020.889749
+        },
+        {
           "name": "스파클 생수, 무라벨, 500ml, 80개",
           "price": "8,800원",
           "discount_rate": 63,
@@ -805,33 +814,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-20/7b04afd4-2cee-48aa-b2ff-242c7f95039b.png",
           "url": "https://toss.im/_m/h0fOoTcv",
           "_ts": 1788264692.68261
-        },
-        {
-          "name": "서서갈비, 1kg, 2팩",
-          "price": "17,900원",
-          "discount_rate": 40,
-          "priceAt": "09.01 19:19",
-          "image": "https://shopping.toss.im/live/temp/2026-08-04/e5977a29-cc54-45d4-9a35-20b18a0406dd.jpeg",
-          "url": "https://toss.im/_m/LO0hKu7l",
-          "_ts": 1788257988.55121
-        },
-        {
-          "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
-          "price": "9,990원",
-          "discount_rate": 70,
-          "priceAt": "09.01 19:18",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/Y2VjZDA0/QU0zUE1sbU83WnJNYzlITWJKdE1PMndsdzBsdFdFeHprN1cwNWowT0xJM1Q.png",
-          "url": "https://toss.im/_m/HcEDASsr",
-          "_ts": 1788257939.168641
-        },
-        {
-          "name": "대숲맑은 담양쌀, 특등급, 10kg, 1개",
-          "price": "32,900원",
-          "discount_rate": 40,
-          "priceAt": "09.01 18:17",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MmE2ZjNi/THdaYTlIbXJsWVcwcitaYUMxWnB0dm1RM29WVUszSnBVNmVwMXFsVVZpaz0.png",
-          "url": "https://toss.im/_m/Pb9ctOkw",
-          "_ts": 1788254270.31632
         }
       ]
     },
