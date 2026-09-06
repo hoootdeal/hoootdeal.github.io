@@ -285,6 +285,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "삼형제 쪽파 파김치, 2kg, 1개",
+          "price": "9,800원",
+          "discount_rate": 39,
+          "priceAt": "09.06 11:12",
+          "image": "https://shopping.toss.im/live/taca/ai/NzMyZDQw/QVBPZi9qZFR6TjV1eHMxWnpUOFpNem44T2MyWjBmRHpkZ3YwcmJ1OVE5Wms.png",
+          "url": "https://toss.im/_m/zmhFToB9",
+          "_ts": 1788660720.582708
+        },
+        {
           "name": "한입 삼겹살, 500g, 3개",
           "price": "9,990원",
           "discount_rate": 66,
@@ -796,15 +805,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZDdjNzBj/TDJXKys3VE9kLy9hM3YrL3l0UC96NkY3M3Y0M0lXbjdKNkcyODFyVS8rMD0.png",
           "url": "https://toss.im/_m/n8n3ctr2",
           "_ts": 1788231098.557759
-        },
-        {
-          "name": "광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
-          "price": "9,900원",
-          "discount_rate": 43,
-          "priceAt": "09.01 10:28",
-          "image": "https://shopping.toss.im/live/taca/ai/ZWNlZWJm/YVhJMlN6dHlnM3kzSTNtRjdJM1NZMGJzRFp3eWF6SnovZFRzdFAyVTAwcz0.png",
-          "url": "https://toss.im/_m/X4a9035g",
-          "_ts": 1788226116.578248
         }
       ]
     },
