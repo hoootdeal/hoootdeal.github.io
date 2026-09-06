@@ -294,6 +294,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바른 돼지국밥, 500g, 5개",
+          "price": "11,380원",
+          "discount_rate": 57,
+          "priceAt": "09.06 11:36",
+          "image": "https://shopping.toss.im/live/temp/2026-06-15/fc748c01-e1e5-4ced-899e-85bb69ecf463.jpeg",
+          "url": "https://toss.im/_m/bdYlBmS",
+          "_ts": 1788662218.318719
+        },
+        {
           "name": "이조은산소 무농약 산소 칼륨 콩나물, 1kg, 1개",
           "price": "5,300원",
           "discount_rate": 23,
@@ -553,15 +562,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-03-23/435879d1-af55-41e6-bb95-f3b5194565c0.png",
           "url": "https://toss.im/_m/risPXOjx",
           "_ts": 1788440415.007736
-        },
-        {
-          "name": "바른 돼지국밥, 500g, 5개",
-          "price": "11,380원",
-          "discount_rate": 57,
-          "priceAt": "09.03 21:06",
-          "image": "https://shopping.toss.im/live/temp/2026-06-15/fc748c01-e1e5-4ced-899e-85bb69ecf463.jpeg",
-          "url": "https://toss.im/_m/bdYlBmS",
-          "_ts": 1788437201.836612
         },
         {
           "name": "산과들에 원데이발란스 그린라벨, 20g, 100봉",
