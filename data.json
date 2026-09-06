@@ -285,6 +285,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "한입 삼겹살, 500g, 3개",
+          "price": "9,990원",
+          "discount_rate": 66,
+          "priceAt": "09.06 10:13",
+          "image": "https://shopping.toss.im/live/temp/2026-03-13/7e3b93b8-3ab1-4310-940f-65a2d3b20cc4.jpeg",
+          "url": "https://toss.im/_m/ZuAk9fmy",
+          "_ts": 1788657200.016109
+        },
+        {
           "name": "매일야채 고농축 토마토의 힘, 125ml, 24개",
           "price": "18,800원",
           "discount_rate": 39,
