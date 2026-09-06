@@ -303,6 +303,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "프리미엄 머스크 멜론, 특, 4kg, 2수, 1박스",
+          "price": "15,800원",
+          "discount_rate": 31,
+          "priceAt": "09.06 16:31",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/Njg2Yjgw/TWV6cnNZSHN6U2xlazBDWnNOU2Voak1ObEhocWxtdUowbGI3VjFTSmhYND0.png",
+          "url": "https://toss.im/_m/J7vqNoPf",
+          "_ts": 1788679897.7303538
+        },
+        {
           "name": "초록매실 스파클링 제로, 350ml, 20개",
           "price": "10,400원",
           "discount_rate": 47,
@@ -805,15 +814,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/MmE2ZjNi/THdaYTlIbXJsWVcwcitaYUMxWnB0dm1RM29WVUszSnBVNmVwMXFsVVZpaz0.png",
           "url": "https://toss.im/_m/Pb9ctOkw",
           "_ts": 1788254270.31632
-        },
-        {
-          "name": "풀무원샘물 라벨랜덤, 500ml, 20개",
-          "price": "4,604원",
-          "discount_rate": 48,
-          "priceAt": "09.01 16:22",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTc1N2Jl/Wnl4NG00NXpDeTE1ek01bHJ6RnBUMnM1eFp6eHByU05zUEY2Y3BiQnRZMD0.png",
-          "url": "https://toss.im/_m/fo1pXx16",
-          "_ts": 1788247376.9649332
         }
       ]
     },
