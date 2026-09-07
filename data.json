@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 델리 토마토 케찹, 800g, 2개",
+          "price": "4,580원",
+          "discount_rate": 29,
+          "priceAt": "09.07 17:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/30058371332163-14b87995-d5a6-4b80-9f97-e345d4be8245.jpg",
+          "url": "https://link.coupang.com/a/gQCxPvJVIW",
+          "_ts": 1788768362.6346529
+        },
+        {
           "name": "트립온 대용량 접이식 여행가방 보스턴백, 50 x 16.5 x 37cm, 블랙",
           "price": "7,900원",
           "discount_rate": 33,
@@ -859,15 +868,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZTlkNTg1/Y1F2bllTMGNoR1B5RFNabmQreWNMN09oNWhYQTVMbStVUk5lRkVIV00vbz0.png",
           "url": "https://toss.im/_m/pMT83Tdr",
           "_ts": 1788339784.469653
-        },
-        {
-          "name": "CJ제일제당 스팸 클래식, 340g, 10개",
-          "price": "36,900원",
-          "discount_rate": 39,
-          "priceAt": "09.02 16:55",
-          "image": "https://shopping.toss.im/live/taca/ai/YTcxM2Mz/QUwwMFgxTjZoYnphM1ZCbkp5NnZqWHBxcjFLTnAvcXRjbEVFOC90WVFCNnY.png",
-          "url": "https://toss.im/_m/n2clDnWp",
-          "_ts": 1788335736.824736
         }
       ]
     },
