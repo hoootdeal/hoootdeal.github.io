@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "펩시 제로슈거 라임향, 210ml, 30개",
+          "price": "11,820원",
+          "discount_rate": 19,
+          "priceAt": "09.07 22:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg",
+          "url": "https://link.coupang.com/a/gQYjFpH69k",
+          "_ts": 1788786641.954245
+        },
+        {
           "name": "프렌치카페 로스터리 카푸치노 200 ml 10p + 카라멜 마키아또 200 ml 10p, 1세트, 2종, 200ml",
           "price": "11,760원",
           "discount_rate": 44,
@@ -886,15 +895,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-03-13/03779698-9a0b-44b3-92f6-ecca3712391f.jpeg",
           "url": "https://toss.im/_m/7vf9qGp8",
           "_ts": 1788396190.980884
-        },
-        {
-          "name": "건조기용 피죤 보타닉, 애플 밤, 120매, 2개",
-          "price": "14,500원",
-          "discount_rate": 57,
-          "priceAt": "09.02 21:10",
-          "image": "https://shopping.toss.im/live/temp/2026-09-01/33d231c1-9a8b-4c74-a075-25bf1a37b6b9.jpeg",
-          "url": "https://toss.im/_m/1VLGD8i3",
-          "_ts": 1788351028.529034
         }
       ]
     },
