@@ -339,6 +339,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
+          "price": "9,900원",
+          "discount_rate": 41,
+          "priceAt": "09.07 19:13",
+          "image": "https://shopping.toss.im/live/taca/ai/YjM4MDY0/ZW15MThmWGpjczZ0SGNTSG53d2UvaDYwK0lmNzNIaG5ZVkFOZVZWK291QT0.png",
+          "url": "https://toss.im/_m/LRmDYdV4",
+          "_ts": 1788776027.195588
+        },
+        {
           "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
           "price": "11,300원",
           "discount_rate": 31,
@@ -868,15 +877,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZTZmNjA3/ZlJrb2MvMlh3Y0tDOG05ZUZsQjIzTkF1SlBrSDZDZ2ovUUg5QnNBVzI3UT0.png",
           "url": "https://toss.im/_m/nume4A77",
           "_ts": 1788346992.469183
-        },
-        {
-          "name": "펩시콜라 제로 슈거 업소용, 라임향, 500ml, 20개",
-          "price": "15,082원",
-          "discount_rate": 49,
-          "priceAt": "09.02 19:06",
-          "image": "https://shopping.toss.im/live/taca/ai/YjlmOThj/QU5tV3BqM3JWTG5VZnFQY28rNnYwZEN4eTdLTHVidE1WRTFVTGp6WjBOSEQ.png",
-          "url": "https://toss.im/_m/vEH13GJy",
-          "_ts": 1788343598.57841
         }
       ]
     },
