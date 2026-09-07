@@ -312,6 +312,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "군산 메밀 소바 간장, 7인분, 175g, 1개",
+          "price": "8,900원",
+          "discount_rate": 55,
+          "priceAt": "09.07 14:01",
+          "image": "https://shopping.toss.im/live/taca/ai/MWI3Njky/TnNsa1c0UWdSQUFvWURaL3BTMHFVTEUwMlE2VWVTSDJVUGEvL3EvUXYrQT0.png",
+          "url": "https://toss.im/_m/Rz4gG8mx",
+          "_ts": 1788757296.841006
+        },
+        {
           "name": "애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
           "price": "21,900원",
           "discount_rate": 26,
