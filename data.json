@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "트라이 키즈 남아용 프레쉬 코튼 런닝 5p, 85, 백색",
+          "price": "8,050원",
+          "discount_rate": 68,
+          "priceAt": "09.07 18:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/952630484350091-92f6cbd3-82a5-4cbb-9ef2-d8d7ee6585c5.jpg",
+          "url": "https://link.coupang.com/a/gQHB8kWgPA",
+          "_ts": 1788772618.722327
+        },
+        {
           "name": "오뚜기 델리 토마토 케찹, 800g, 2개",
           "price": "4,580원",
           "discount_rate": 29,
@@ -859,15 +868,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YjlmOThj/QU5tV3BqM3JWTG5VZnFQY28rNnYwZEN4eTdLTHVidE1WRTFVTGp6WjBOSEQ.png",
           "url": "https://toss.im/_m/vEH13GJy",
           "_ts": 1788343598.57841
-        },
-        {
-          "name": "클리오 덴티메이트 오리지널 초극세모, 10개입, 3개",
-          "price": "9,900원",
-          "discount_rate": 33,
-          "priceAt": "09.02 18:03",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTlkNTg1/Y1F2bllTMGNoR1B5RFNabmQreWNMN09oNWhYQTVMbStVUk5lRkVIV00vbz0.png",
-          "url": "https://toss.im/_m/pMT83Tdr",
-          "_ts": 1788339784.469653
         }
       ]
     },
