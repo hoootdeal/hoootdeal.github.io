@@ -339,6 +339,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "페페브루노 엑스트라버진 올리브오일, 500ml, 2개",
+          "price": "15,900원",
+          "discount_rate": 67,
+          "priceAt": "09.07 20:27",
+          "image": "https://shopping.toss.im/live/temp/2026-01-29/793cd7a4-c856-482d-b13d-ed4d9b8cb564.jpeg",
+          "url": "https://toss.im/_m/ZwNTC882",
+          "_ts": 1788780440.56636
+        },
+        {
           "name": "제이닭 통닭가슴살, 숯불치킨맛, 100g, 10개 + 돈까스맛, 100g, 10개 + 떡볶이맛, 100g, 10개",
           "price": "34,800원",
           "discount_rate": 34,
