@@ -339,6 +339,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
+          "price": "11,300원",
+          "discount_rate": 31,
+          "priceAt": "09.07 18:45",
+          "image": "https://shopping.toss.im/live/temp/2026-02-23/f7ec2348-80ca-421b-b004-8d0cd8992bb3.jpeg",
+          "url": "https://toss.im/_m/rCvx3naA",
+          "_ts": 1788774330.7359738
+        },
+        {
           "name": "순살 양념 목살구이, 600g, 3개",
           "price": "16,900원",
           "discount_rate": 57,
