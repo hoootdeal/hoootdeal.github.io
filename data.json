@@ -375,6 +375,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "명성 햅쌀 경기미, 특등급, 10kg, 1개",
+          "price": "32,900원",
+          "discount_rate": 37,
+          "priceAt": "09.08 21:55",
+          "image": "https://shopping.toss.im/live/taca/ai/MDUwYmNh/ZUhRNGVNZXp4WVk2U2I0anQwSDQxRWkySk56RDZkTWpQd2ErczVCWlNVdz0.png",
+          "url": "https://toss.im/_m/VCx8RUxy",
+          "_ts": 1788872151.24823
+        },
+        {
           "name": "맛생각 시골 전통 된장찌개, 600g, 5개",
           "price": "16,500원",
           "discount_rate": 52,
