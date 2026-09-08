@@ -375,24 +375,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/278278701727590-5dd82b33-1c34-4efe-9c84-80925a1e629f.jpg",
           "url": "https://link.coupang.com/a/gJ1b1tdncy",
           "_ts": 1788424704.25373
-        },
-        {
-          "name": "청정원 고소한 마요네즈, 300g, 2개",
-          "price": "3,910원",
-          "discount_rate": 34,
-          "priceAt": "09.03 17:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/90537317427466-8bc4a583-5edc-4346-9941-5ffc8870e6d8.jpg",
-          "url": "https://link.coupang.com/a/gJZp01Vq6C",
-          "_ts": 1788423198.160504
-        },
-        {
-          "name": "풀무원 저당 생쫄면 2인분, 460g, 2개",
-          "price": "7,480원",
-          "discount_rate": 50,
-          "priceAt": "09.03 16:52",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/b25448fe-6c46-4c4c-b636-c011fdad45cb305958750321944481.png",
-          "url": "https://link.coupang.com/a/gJXVMyPKSq",
-          "_ts": 1788421955.2604191
         }
       ]
     },
@@ -401,6 +383,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "맛장군 열무김치, 2kg, 1팩",
+          "price": "10,900원",
+          "discount_rate": 69,
+          "priceAt": "09.08 17:27",
+          "image": "https://shopping.toss.im/live/temp/2026-04-21/af86d4da-e1ab-4491-b61f-c32e0c5c1f69.jpeg",
+          "url": "https://toss.im/_m/JHR2htoh",
+          "_ts": 1788856049.68844
+        },
         {
           "name": "바세린 딥 모이스처 인텐시브 바디로션, 1000ml, 1+1 구성, 총 2개",
           "price": "12,800원",
