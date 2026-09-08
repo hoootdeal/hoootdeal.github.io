@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오리온 미쯔 황치즈 6p, 222g, 1개",
+          "price": "3,360원",
+          "discount_rate": 28,
+          "priceAt": "09.08 16:41",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/19/10/2/714d9d96-7e7d-4bb7-a31d-00e49679ba88.jpg",
+          "url": "https://link.coupang.com/a/gSfE9Aqwnc",
+          "_ts": 1788853262.971953
+        },
+        {
           "name": "1++ 투뿔 한우선물세트 소고기 구이용 1kg, 1세트",
           "price": "79,800원",
           "discount_rate": 53,
@@ -384,15 +393,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/b25448fe-6c46-4c4c-b636-c011fdad45cb305958750321944481.png",
           "url": "https://link.coupang.com/a/gJXVMyPKSq",
           "_ts": 1788421955.2604191
-        },
-        {
-          "name": "백설 햄스빌 담백한 굿베이컨, 110g, 6개",
-          "price": "8,980원",
-          "discount_rate": 49,
-          "priceAt": "09.03 15:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/656690119600158-ad84138e-cc38-4106-8029-20841f5c94b1.jpg",
-          "url": "https://link.coupang.com/a/gJQuAKkHtY",
-          "_ts": 1788415872.489401
         }
       ]
     },
@@ -913,42 +913,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-03/6b083d0c-c74f-467a-9ec8-a46fe748c635.png",
           "url": "https://toss.im/_m/PMmtWFLt",
           "_ts": 1788424189.937093
-        },
-        {
-          "name": "허글리 슬림핏 KF94 마스크, 새부리형, 중형, 스킨베이지, 100매",
-          "price": "7,900원",
-          "discount_rate": 80,
-          "priceAt": "09.03 15:31",
-          "image": "https://shopping.toss.im/live/taca/ai/MGRhYTUx/QVB1QUcyVlBKL2w4Ukp5YjRkd1BrU1J6OUxra2NlZTVMZm40Wk1rT0cyYmI.png",
-          "url": "https://toss.im/_m/R9rmtWne",
-          "_ts": 1788417064.29661
-        },
-        {
-          "name": "땡큐파머스 무항생제 유정란 난각번호 1번 자연방사, 대란, 20구, 1박스",
-          "price": "10,900원",
-          "discount_rate": 35,
-          "priceAt": "09.03 15:11",
-          "image": "https://shopping.toss.im/live/taca/ai/MmUyNGU4/TTJNbjhVUzNnSjN3bkdmb1FiUHVwL3Y0SzdoUzZkMUN2SHhkeVEwVFhWND0.png",
-          "url": "https://toss.im/_m/ZmuOFEBC",
-          "_ts": 1788415863.357926
-        },
-        {
-          "name": "동원샘물 생수, 라벨랜덤, 2L, 6개",
-          "price": "3,480원",
-          "discount_rate": 42,
-          "priceAt": "09.03 14:50",
-          "image": "https://shopping.toss.im/live/taca/ai/ZGY3NDk5/SEtXT016T2NlTVRqWE5jcm5ITmlsRXFyT05SempOVTdxMVJTcjV4d3JGQT0.png",
-          "url": "https://toss.im/_m/9If0HUxC",
-          "_ts": 1788414655.957282
-        },
-        {
-          "name": "뷰카 오브제 듀얼 초미세 탄력모 칫솔, 18개입, 1개",
-          "price": "9,900원",
-          "discount_rate": 58,
-          "priceAt": "09.03 14:29",
-          "image": "https://shopping.toss.im/live/taca/ai/YTMxYTJl/QUxPODg2dnc0WGpEdVBUM01jZTBYd3NlSGo0K292VFI2OHBUL3dHRjVBRDA.png",
-          "url": "https://toss.im/_m/HLALUbbg",
-          "_ts": 1788413390.1275678
         }
       ]
     },
