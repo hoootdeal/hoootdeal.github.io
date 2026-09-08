@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "2080 퓨어치약 핑크마일드민트향, 150g, 6개",
+          "price": "5,850원",
+          "discount_rate": 28,
+          "priceAt": "09.09 08:51",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1842737200743764-732d396e-3133-4196-b15d-063b78dfbf57.jpg",
+          "url": "https://link.coupang.com/a/gTm2DlmaSO",
+          "_ts": 1788911514.93389
+        },
+        {
           "name": "클룹 제로소다 오렌지 탄산음료, 250ml, 24개",
           "price": "8,120원",
           "discount_rate": 42,
@@ -375,33 +384,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/260403214919630-d47a657a-415f-45a4-a498-e7c39555aacb.jpg",
           "url": "https://link.coupang.com/a/gLhP21rE84",
           "_ts": 1788490710.8274748
-        },
-        {
-          "name": "스파오 아동용 COOL 절개 와이드 스웨트팬츠 C, 140",
-          "price": "9,870원",
-          "discount_rate": 62,
-          "priceAt": "09.04 08:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/29/15/2/03227037-bb52-4f6a-9c7b-8b752b0835bb.jpg",
-          "url": "https://link.coupang.com/a/gK32XgB6c0",
-          "_ts": 1788479133.144984
-        },
-        {
-          "name": "폰타나 그릴드 머쉬룸 크림 수프 10p + 크루통 3p 세트, 210g, 1세트",
-          "price": "15,790원",
-          "discount_rate": 55,
-          "priceAt": "09.04 08:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/82bd/1cf0655a4ebc75b71cd43cb99b111538aeaafaf21c992cb7952f071e649b.jpg",
-          "url": "https://link.coupang.com/a/gK3XvD64C4",
-          "_ts": 1788479079.705699
-        },
-        {
-          "name": "차일드라이프 액상 칼슘 마그네슘 오렌지맛, 473ml, 1개",
-          "price": "21,310원",
-          "discount_rate": 20,
-          "priceAt": "09.04 08:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/712413295656607-f5bb5f63-1b3c-48bc-bb69-dfa7c5d7025b.png",
-          "url": "https://link.coupang.com/a/gK3TbOM2zQ",
-          "_ts": 1788479004.140553
         }
       ]
     },
