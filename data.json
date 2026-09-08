@@ -393,6 +393,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "사조 살코기 참치, 카놀라유, 100g, 10개",
+          "price": "15,900원",
+          "discount_rate": 38,
+          "priceAt": "09.08 12:20",
+          "image": "https://shopping.toss.im/live/temp/2026-01-12/65d04ec8-90c9-4d25-bf28-1a845d29bdb9.jpeg",
+          "url": "https://toss.im/_m/zq3Hmkbw",
+          "_ts": 1788837615.815145
+        },
+        {
           "name": "PVC 스틸 어깨뿔방지 옷걸이, 화이트, 30개",
           "price": "13,900원",
           "discount_rate": 48,
