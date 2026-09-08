@@ -357,24 +357,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/712413295656607-f5bb5f63-1b3c-48bc-bb69-dfa7c5d7025b.png",
           "url": "https://link.coupang.com/a/gK3TbOM2zQ",
           "_ts": 1788479004.140553
-        },
-        {
-          "name": "랩신 센서티브 포밍 핸드워시 리필 파우더리 허브향, 200ml, 6개",
-          "price": "6,290원",
-          "discount_rate": 38,
-          "priceAt": "09.03 17:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/146246912141170-5ebc1a54-0e17-4ef2-9e09-946a64a3716f.jpg",
-          "url": "https://link.coupang.com/a/gJ2DdHTD52",
-          "_ts": 1788425891.1071842
-        },
-        {
-          "name": "말리 코코넛워터, 1L, 2개",
-          "price": "4,980원",
-          "discount_rate": 39,
-          "priceAt": "09.03 17:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/278278701727590-5dd82b33-1c34-4efe-9c84-80925a1e629f.jpg",
-          "url": "https://link.coupang.com/a/gJ1b1tdncy",
-          "_ts": 1788424704.25373
         }
       ]
     },
@@ -383,6 +365,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "웰쉐프 훈제 닭다리, 180g, 10개",
+          "price": "25,400원",
+          "discount_rate": 45,
+          "priceAt": "09.08 18:30",
+          "image": "https://shopping.toss.im/live/taca/ai/M2ZhOTEy/QU5qTnpPZEtXdGF6alNNSGEwTnB0a3VWeitYSlk1RWVrNW9VMCtIUThmZ2M.png",
+          "url": "https://toss.im/_m/jOUS1sZ4",
+          "_ts": 1788859859.721355
+        },
         {
           "name": "맛장군 열무김치, 2kg, 1팩",
           "price": "10,900원",
@@ -886,24 +877,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MmNlNjFi/QUszS3g4YldOeXgvK2x4K0ZsOFlzbm1CSEsxclpHUlhvVld4TXBXNkJQVk8.png",
           "url": "https://toss.im/_m/9ioxW5md",
           "_ts": 1788430293.627087
-        },
-        {
-          "name": "산해직송 국내산 전라도 파김치, 1kg, 1팩",
-          "price": "10,900원",
-          "discount_rate": 68,
-          "priceAt": "09.03 18:12",
-          "image": "https://shopping.toss.im/live/taca/ai/YTc3Y2Y2/QUoxSFBMQ1l5YkdHampjMFp1TVc0eG5neWR6ZEFBcTFHd0dQWUFZSFA4Uk0.png",
-          "url": "https://toss.im/_m/19un0qrd",
-          "_ts": 1788426732.7369359
-        },
-        {
-          "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
-          "price": "12,600원",
-          "discount_rate": 54,
-          "priceAt": "09.03 17:29",
-          "image": "https://shopping.toss.im/live/temp/2026-07-03/6b083d0c-c74f-467a-9ec8-a46fe748c635.png",
-          "url": "https://toss.im/_m/PMmtWFLt",
-          "_ts": 1788424189.937093
         }
       ]
     },
