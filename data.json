@@ -366,6 +366,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "일동후디스 소화편한 우유 바나나, 190ml, 24개입, 1박스",
+          "price": "11,900원",
+          "discount_rate": 64,
+          "priceAt": "09.08 19:41",
+          "image": "https://shopping.toss.im/live/temp/2025-07-08/47b90ec2-d0b5-4570-90e7-615669c33e23.jpeg",
+          "url": "https://toss.im/_m/xSnWAZEz",
+          "_ts": 1788864092.309609
+        },
+        {
           "name": "웰쉐프 훈제 닭다리, 180g, 10개",
           "price": "25,400원",
           "discount_rate": 45,
@@ -868,15 +877,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-03-23/435879d1-af55-41e6-bb95-f3b5194565c0.png",
           "url": "https://toss.im/_m/risPXOjx",
           "_ts": 1788440415.007736
-        },
-        {
-          "name": "산과들에 원데이발란스 그린라벨, 20g, 100봉",
-          "price": "29,790원",
-          "discount_rate": 27,
-          "priceAt": "09.03 19:11",
-          "image": "https://shopping.toss.im/live/taca/ai/MmNlNjFi/QUszS3g4YldOeXgvK2x4K0ZsOFlzbm1CSEsxclpHUlhvVld4TXBXNkJQVk8.png",
-          "url": "https://toss.im/_m/9ioxW5md",
-          "_ts": 1788430293.627087
         }
       ]
     },
