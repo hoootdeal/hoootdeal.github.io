@@ -420,6 +420,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쏘울너츠 100% 땅콩버터, 크런치 500g 1개 + 스무스 500g 1개, 2개",
+          "price": "9,900원",
+          "discount_rate": 60,
+          "priceAt": "09.09 13:22",
+          "image": "https://shopping.toss.im/live/temp/2026-01-07/c4efa185-5b09-467a-b5d9-9eecf9ce16e9.jpeg",
+          "url": "https://toss.im/_m/H1G67iye",
+          "_ts": 1788927752.4700658
+        },
+        {
           "name": "대박농수산 제주 햇 브로콜리, 특품, 1kg, 1박스",
           "price": "9,900원",
           "discount_rate": 47,
