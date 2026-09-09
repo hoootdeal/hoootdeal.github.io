@@ -402,6 +402,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "백제 쌀국수, 멸치맛, 92g, 10개",
+          "price": "11,900원",
+          "discount_rate": 25,
+          "priceAt": "09.09 21:41",
+          "image": "https://shopping.toss.im/live/taca/ai/ZjczM2Rj/QUxaT2xQbndnOEw4SmswMnpvU3plM3pFbWMyVG5oTS8zT0pNZjBZN0xjQUI.png",
+          "url": "https://toss.im/_m/PsQSUKti",
+          "_ts": 1788957701.0415502
+        },
+        {
           "name": "대한농산 맞춤 혼합곡 21곡, 2kg, 2개",
           "price": "8,900원",
           "discount_rate": 70,
@@ -913,15 +922,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZTkxNDFk/QUxKbTVtWmhtZG1aejVsbVo4MFptWm5QbWV6enpubXpONTVrelBQYkdYZk0.png",
           "url": "https://toss.im/_m/Xgwj6hA3",
           "_ts": 1788568798.93116
-        },
-        {
-          "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
-          "price": "12,900원",
-          "discount_rate": 65,
-          "priceAt": "09.04 21:39",
-          "image": "https://shopping.toss.im/live/temp/2025-12-02/5e5f2029-7f7c-4511-bbc1-606a56a117b1.jpeg",
-          "url": "https://toss.im/_m/lqS07rCp",
-          "_ts": 1788525580.731394
         }
       ]
     },
