@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "닥터자르트 에브리 선 데이 모이스처라이징 선크림 SPF50+ PA++++, 30ml, 2개",
+          "price": "7,610원",
+          "discount_rate": 56,
+          "priceAt": "09.09 14:13",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/420402067337818-5e3810ac-5051-437c-bed8-2fa275697402.png",
+          "url": "https://link.coupang.com/a/gTJ1sCx1We",
+          "_ts": 1788930809.480384
+        },
+        {
           "name": "아넬르 여성 전동 제모기 면도기 얼굴 인중 겨드랑이 솜털 잔털정리기, 전기면도기, 건전지타입-아넬르화이트",
           "price": "4,500원",
           "discount_rate": 53,
@@ -402,15 +411,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/12/11/8/9cf08e07-e666-469e-aa00-983f701d356d.jpg",
           "url": "https://link.coupang.com/a/gLsyjs4tki",
           "_ts": 1788499702.773178
-        },
-        {
-          "name": "데체코 슈고 올 아라비아따 파스타 소스, 400g, 3개",
-          "price": "7,280원",
-          "discount_rate": 59,
-          "priceAt": "09.04 14:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/82779938193982-0669573f-ac72-470a-88d7-1d441736f783.jpg",
-          "url": "https://link.coupang.com/a/gLqYsG0BTo",
-          "_ts": 1788498380.315646
         }
       ]
     },
