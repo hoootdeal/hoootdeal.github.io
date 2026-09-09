@@ -411,15 +411,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/239114803017380-dc4ab663-350c-4501-b274-3b2970c32128.jpg",
           "url": "https://link.coupang.com/a/gLsDYmKpP2",
           "_ts": 1788499915.538947
-        },
-        {
-          "name": "해태제과 버터링 딥황치즈, 155g, 1개",
-          "price": "5,180원",
-          "discount_rate": 10,
-          "priceAt": "09.04 14:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/12/11/8/9cf08e07-e666-469e-aa00-983f701d356d.jpg",
-          "url": "https://link.coupang.com/a/gLsyjs4tki",
-          "_ts": 1788499702.773178
         }
       ]
     },
@@ -428,6 +419,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "펩시콜라 제로슈거 라임향, 355ml, 48개",
+          "price": "29,900원",
+          "discount_rate": 39,
+          "priceAt": "09.09 14:29",
+          "image": "https://shopping.toss.im/live/taca/ai/ZTQyMDEw/TlE5bWU5SnhtMHVOaHVXMGNVcythMDQwNDZQeHd3d2NMUXZ6WTlMMERKdz0.png",
+          "url": "https://toss.im/_m/FKobKvnj",
+          "_ts": 1788931765.436631
+        },
         {
           "name": "행남자기 라인듀오 2인 홈세트, 14피스, 화이트, 1세트",
           "price": "17,900원",
