@@ -384,15 +384,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/98ec6368-459e-4ee2-bfa6-a450c3eb878d_fixing_v2.png",
           "url": "https://link.coupang.com/a/gMNMXFvhdc",
           "_ts": 1788569590.650534
-        },
-        {
-          "name": "극강시원 어깨 등 갈고리 안마기 마사지기, 우드, 1개",
-          "price": "4,600원",
-          "discount_rate": 65,
-          "priceAt": "09.04 19:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4f89/01873211a2df235b738d6835ccd7164e9444a71c928bc8ca4c11f3595cdc.jpg",
-          "url": "https://link.coupang.com/a/gLOrM6nlq8",
-          "_ts": 1788518204.9751658
         }
       ]
     },
@@ -401,6 +392,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "대한농산 맞춤 혼합곡 21곡, 2kg, 2개",
+          "price": "8,900원",
+          "discount_rate": 70,
+          "priceAt": "09.09 20:20",
+          "image": "https://shopping.toss.im/live/taca/ai/ZWI1NzBm/QVBHMFpvZmZ3ZTloWXZSWTVaNXgrM1J5OUY2bG14RGgyUEwwVjZjdWxLRjY.png",
+          "url": "https://toss.im/_m/zAU7Jbin",
+          "_ts": 1788952808.765316
+        },
         {
           "name": "농가살리기 딸기색 찹쌀떡, 60g, 30개입, 1박스",
           "price": "13,900원",
@@ -922,15 +922,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MDY3Zjli/YUU3WGMxaXN4bE5ydFk1eThCNlpaViswZXMwUUo5cUV0dnlHbG9BQmJGST0.png",
           "url": "https://toss.im/_m/JvS5Asqn",
           "_ts": 1788520979.319913
-        },
-        {
-          "name": "순삭 떡볶이, 보통맛, 200g, 5팩",
-          "price": "8,500원",
-          "discount_rate": 59,
-          "priceAt": "09.04 19:44",
-          "image": "https://shopping.toss.im/live/taca/ai/ZmFhZDlk/V1hQR1p1eGpHUTJWNTRNZGx0ZmhMWEtiQkxtb2JTVDF4ZW5Ua0g2bEZ2bz0.png",
-          "url": "https://toss.im/_m/pVYD985q",
-          "_ts": 1788518647.952814
         }
       ]
     },
