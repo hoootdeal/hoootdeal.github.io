@@ -393,42 +393,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4f89/01873211a2df235b738d6835ccd7164e9444a71c928bc8ca4c11f3595cdc.jpg",
           "url": "https://link.coupang.com/a/gLOrM6nlq8",
           "_ts": 1788518204.9751658
-        },
-        {
-          "name": "바겐슈타이거 스텐 계량볼, 혼합색상, 750ml, 1개",
-          "price": "3,340원",
-          "discount_rate": 63,
-          "priceAt": "09.04 19:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c81b/2acb65d24d521bb28624a7f193a357d5aa46c85fc4c6298f270fd1901260.jpg",
-          "url": "https://link.coupang.com/a/gLMJTChlDM",
-          "_ts": 1788516681.1779032
-        },
-        {
-          "name": "일루미엘 물결 수분 네모 토너 패드, 60매입, 1개",
-          "price": "9,800원",
-          "discount_rate": 32,
-          "priceAt": "09.04 18:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/ce125a3c-f945-4713-866c-5747fbfc4fe0_composition_base_0.png",
-          "url": "https://link.coupang.com/a/gLKVzAzxDN",
-          "_ts": 1788515142.8815832
-        },
-        {
-          "name": "못말리는신짱, 245g, 3개",
-          "price": "4,730원",
-          "discount_rate": 47,
-          "priceAt": "09.04 18:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10131357650040-b5658473-aa83-4395-bfba-6ba1045456be.jpg",
-          "url": "https://link.coupang.com/a/gLKKSYha4i",
-          "_ts": 1788514986.865199
-        },
-        {
-          "name": "RUN EDGE 물병 수납 러닝벨트 러닝가방 하이드레이션 벨트, 블랙, FREE, 1개",
-          "price": "3,900원",
-          "discount_rate": 43,
-          "priceAt": "09.04 18:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e408/d653d568ed5f18b9016d5f91b6d6c4cf69ca8603966018299fb47b5cc030.png",
-          "url": "https://link.coupang.com/a/gLKCi2n0YC",
-          "_ts": 1788514877.68248
         }
       ]
     },
@@ -437,6 +401,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "농가살리기 딸기색 찹쌀떡, 60g, 30개입, 1박스",
+          "price": "13,900원",
+          "discount_rate": 55,
+          "priceAt": "09.09 19:28",
+          "image": "https://shopping.toss.im/live/taca/ai/MWQxOGNm/UGhuK01CWWI1eUlnTUpWNGNIRFM1T0R3QWc5YTl6OEhEd2NmVGdWTGZlQT0.png",
+          "url": "https://toss.im/_m/J6l1N19i",
+          "_ts": 1788949721.8308759
+        },
         {
           "name": "웅진식품 애사비 오리지널, 500ml, 24개",
           "price": "14,900원",
@@ -958,15 +931,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZmFhZDlk/V1hQR1p1eGpHUTJWNTRNZGx0ZmhMWEtiQkxtb2JTVDF4ZW5Ua0g2bEZ2bz0.png",
           "url": "https://toss.im/_m/pVYD985q",
           "_ts": 1788518647.952814
-        },
-        {
-          "name": "농협안심 새청무 탄탄대로 쌀, 상등급, 10kg, 1개",
-          "price": "31,500원",
-          "discount_rate": 43,
-          "priceAt": "09.04 19:14",
-          "image": "https://shopping.toss.im/live/taca/ai/Zjg1MDlh/SncvU1dsaTJKYXl4NGR1aEx4bTIxbGh2UzBxYnN2V2xwTmthU1ZsazViWT0.png",
-          "url": "https://toss.im/_m/dJOG7g9w",
-          "_ts": 1788516849.0189078
         }
       ]
     },
