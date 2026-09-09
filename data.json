@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "KURUA 냉감 경추베개, 1개, 45x70cm, 블루",
+          "price": "4,900원",
+          "discount_rate": 60,
+          "priceAt": "09.09 20:23",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dbd6/a39142845521c093907e26b9952272cdd9d8485a54ec3fa9873f9fc8bfe5.png",
+          "url": "https://link.coupang.com/a/gUaq1jwpgq",
+          "_ts": 1788952985.478994
+        },
+        {
           "name": "롯데웰푸드 티코 밀크초코 아이스크림 (냉동), 34ml, 15개입, 3개",
           "price": "14,670원",
           "discount_rate": 20,
@@ -913,15 +922,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-12-02/5e5f2029-7f7c-4511-bbc1-606a56a117b1.jpeg",
           "url": "https://toss.im/_m/lqS07rCp",
           "_ts": 1788525580.731394
-        },
-        {
-          "name": "비엣꿀 베트남 천연벌꿀 아카시아꿀, 2kg, 1개",
-          "price": "12,900원",
-          "discount_rate": 41,
-          "priceAt": "09.04 20:22",
-          "image": "https://shopping.toss.im/live/taca/ai/MDY3Zjli/YUU3WGMxaXN4bE5ydFk1eThCNlpaViswZXMwUUo5cUV0dnlHbG9BQmJGST0.png",
-          "url": "https://toss.im/_m/JvS5Asqn",
-          "_ts": 1788520979.319913
         }
       ]
     },
