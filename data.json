@@ -429,6 +429,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "대한민국농수산 구운란, 대란, 30구, 1판",
+          "price": "12,900원",
+          "discount_rate": 53,
+          "priceAt": "09.09 15:28",
+          "image": "https://shopping.toss.im/live/taca/ai/Njc4ZTE4/TThmOGMxc2NRK2RzZWE4T3hPYmRISnFXeVBtZFdYVkRhcS9xcnFkVU5IUT0.png",
+          "url": "https://toss.im/_m/PrJXFzH3",
+          "_ts": 1788935303.279259
+        },
+        {
           "name": "펩시콜라 제로슈거 라임향, 355ml, 48개",
           "price": "29,900원",
           "discount_rate": 39,
