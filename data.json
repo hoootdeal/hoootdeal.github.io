@@ -411,6 +411,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "애슐리 크리스피 핫도그, 소시지탱글, 80g, 10개 + 모짜탱글, 80g, 10개",
+          "price": "19,990원",
+          "discount_rate": 39,
+          "priceAt": "09.09 10:13",
+          "image": "https://shopping.toss.im/live/temp/2025-05-28/6f48a091-3860-456b-97e9-c8de04715557.jpeg",
+          "url": "https://toss.im/_m/Hn40q8Ga",
+          "_ts": 1788916437.498208
+        },
+        {
           "name": "명성 햅쌀 경기미, 특등급, 10kg, 1개",
           "price": "32,900원",
           "discount_rate": 37,
