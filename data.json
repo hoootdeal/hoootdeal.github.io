@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "왁뿌볼 말랑이 만들기 세트 고무공 6cm, 3개, 투명",
+          "price": "3,200원",
+          "discount_rate": 75,
+          "priceAt": "09.09 11:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/317a/fc0ae57d55fcbc735e22a13d475337c911cb20313da88ce565acf99d2863.jpg",
+          "url": "https://link.coupang.com/a/gTw1hcMfxk",
+          "_ts": 1788919892.222503
+        },
+        {
           "name": "리타 토마토 주스, 200ml, 48개",
           "price": "15,010원",
           "discount_rate": 67,
@@ -940,15 +949,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-04-07/020b76ca-3a1a-45e9-ad26-e430ccf4c508.jpeg",
           "url": "https://toss.im/_m/5abj1peg",
           "_ts": 1788488488.310206
-        },
-        {
-          "name": "닭다리 통살 춘천닭갈비, 500g, 2개",
-          "price": "10,900원",
-          "discount_rate": 67,
-          "priceAt": "09.04 10:59",
-          "image": "https://shopping.toss.im/live/product/64907/4f140fbd-07d6-4860-b0ff-48898892a6a3.png",
-          "url": "https://toss.im/_m/lszSbbDk",
-          "_ts": 1788487154.755033
         }
       ]
     },
