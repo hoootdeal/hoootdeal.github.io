@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데웰푸드 티코 밀크초코 아이스크림 (냉동), 34ml, 15개입, 3개",
+          "price": "14,670원",
+          "discount_rate": 20,
+          "priceAt": "09.09 17:59",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1718206757538245-eb7f428c-8ec6-4348-be69-866710f81b68.jpg",
+          "url": "https://link.coupang.com/a/gTZ9V2GfxA",
+          "_ts": 1788944359.5678458
+        },
+        {
           "name": "퓨전에프엔씨 포켓몬스터 장패드 + 무선 키보드 + 마우스 세트, 일반형, 팬텀, PK740R",
           "price": "19,500원",
           "discount_rate": 44,
@@ -420,15 +429,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e408/d653d568ed5f18b9016d5f91b6d6c4cf69ca8603966018299fb47b5cc030.png",
           "url": "https://link.coupang.com/a/gLKCi2n0YC",
           "_ts": 1788514877.68248
-        },
-        {
-          "name": "필립스 2000 시리즈 보이는 에어프라이어 4.2L, NA220/00, 블랙",
-          "price": "56,770원",
-          "discount_rate": 28,
-          "priceAt": "09.04 17:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1469166397053158-e1b7b31f-521a-4fbf-ab61-6ee230404ea0.png",
-          "url": "https://link.coupang.com/a/gLEVGP3mYC",
-          "_ts": 1788510114.558443
         }
       ]
     },
@@ -958,24 +958,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/Zjg1MDlh/SncvU1dsaTJKYXl4NGR1aEx4bTIxbGh2UzBxYnN2V2xwTmthU1ZsazViWT0.png",
           "url": "https://toss.im/_m/dJOG7g9w",
           "_ts": 1788516849.0189078
-        },
-        {
-          "name": "신일 접이식 선풍기, SIF-D07AO, 화이트, 1개",
-          "price": "25,947원",
-          "discount_rate": 56,
-          "priceAt": "09.04 17:48",
-          "image": "https://shopping.toss.im/live/temp/2026-04-22/752aea19-0040-4231-8793-7c764df2c813.jpeg",
-          "url": "https://toss.im/_m/tX8AVwy9",
-          "_ts": 1788511713.346635
-        },
-        {
-          "name": "이진물산 볶은 땅콩, 24/28, 1kg, 1봉",
-          "price": "7,400원",
-          "discount_rate": 32,
-          "priceAt": "09.04 16:51",
-          "image": "https://shopping.toss.im/live/taca/ai/NDNlMWU2/QUtkMWlSMEF6dWVBWGFudkZDZzUveG5DVFBLTFB0QWcrV2ViV0h2ZURVUXY.png",
-          "url": "https://toss.im/_m/1niSOoeC",
-          "_ts": 1788508291.616609
         }
       ]
     },
