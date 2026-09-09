@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "무식이네 파스텔 노이즈 물빠짐 거꾸로 양치컵, 핑크, 2개",
+          "price": "2,560원",
+          "discount_rate": 68,
+          "priceAt": "09.09 14:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/0scwjmkk/a9e95d3a68334b689cf8d21d70a7af98.jpg",
+          "url": "https://link.coupang.com/a/gTMkAAEiGW",
+          "_ts": 1788932748.20468
+        },
+        {
           "name": "닥터지 레드 블레미쉬 시카 S 크림 2X, 70ml, 1개",
           "price": "7,290원",
           "discount_rate": 35,
@@ -402,15 +411,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/10/20/14/6/f5b3361d-5696-48a8-b308-c44f89f8ec77.jpg",
           "url": "https://link.coupang.com/a/gLzh47xZTw",
           "_ts": 1788505485.65995
-        },
-        {
-          "name": "오레오오즈 시리얼, 450g, 2개",
-          "price": "10,970원",
-          "discount_rate": 38,
-          "priceAt": "09.04 14:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/239114803017380-dc4ab663-350c-4501-b274-3b2970c32128.jpg",
-          "url": "https://link.coupang.com/a/gLsDYmKpP2",
-          "_ts": 1788499915.538947
         }
       ]
     },
@@ -949,15 +949,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-30/ade7ab0a-5ebe-489c-a02a-66196e0122ca.png",
           "url": "https://toss.im/_m/bYiJDbZ5",
           "_ts": 1788504776.631945
-        },
-        {
-          "name": "메이홉 바디트리머, MA-0400, 오로라 화이트, 1개",
-          "price": "34,800원",
-          "discount_rate": 50,
-          "priceAt": "09.04 14:42",
-          "image": "https://shopping.toss.im/live/taca/ai/NWI4MDJm/QU9OWTg1NGNMc0ZiY3M2OFBjUHdEa1E4SDhQQWpqaytoY1BCUEQ5Q3RkVnE.png",
-          "url": "https://toss.im/_m/BIBLNNpo",
-          "_ts": 1788500564.3431091
         }
       ]
     },
