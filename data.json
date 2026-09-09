@@ -411,24 +411,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4648/4cfff6daadefc36564afb347ad0a4ec6306457b38045478adf0e9bec2f80.jpg",
           "url": "https://link.coupang.com/a/gLn7VZ923U",
           "_ts": 1788496009.359164
-        },
-        {
-          "name": "몽돌 여성용 보트넥 레이어드 나시 + 골지 티셔츠 세트 DTS087, Free, Black",
-          "price": "17,830원",
-          "discount_rate": 37,
-          "priceAt": "09.04 12:40",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/w2cv2qmv/5375aea0ba9f46cca2f62afc9a71edb6.jpg",
-          "url": "https://link.coupang.com/a/gLkN8nhaYm",
-          "_ts": 1788493208.484674
-        },
-        {
-          "name": "아로마티카 바이탈라이징 로즈마리 수분장벽 선크림, 50ml, 3개",
-          "price": "16,750원",
-          "discount_rate": 80,
-          "priceAt": "09.04 11:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/260403214919630-d47a657a-415f-45a4-a498-e7c39555aacb.jpg",
-          "url": "https://link.coupang.com/a/gLhP21rE84",
-          "_ts": 1788490710.8274748
         }
       ]
     },
@@ -437,6 +419,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "대박농수산 제주 햇 브로콜리, 특품, 1kg, 1박스",
+          "price": "9,900원",
+          "discount_rate": 47,
+          "priceAt": "09.09 12:56",
+          "image": "https://shopping.toss.im/live/taca/ai/NDhkMGM1/QU9BT3MwUVJYdmFJVXZGQkJOMnpmcldWQndoNktHL01XR1BjQUx0bGVQQU8.png",
+          "url": "https://toss.im/_m/PKXx7LiC",
+          "_ts": 1788926169.84048
+        },
         {
           "name": "클라 듀얼 울트라 클린 캡슐세제, 클린코튼 8g 100개입 1개 + 프리지아 8g 100개입 1개, 1세트",
           "price": "11,900원",
@@ -949,15 +940,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NDE0MDQ4/WW0zZXk3U0RHMkU0Y1dRZTNtUFJObTFqTHRPV0lYbE1qdUd6cVRsRXpQWT0.png",
           "url": "https://toss.im/_m/NtQJKnFC",
           "_ts": 1788498828.1796422
-        },
-        {
-          "name": "배터지는 고기듬뿍 감자탕, 5kg, 1개",
-          "price": "19,700원",
-          "discount_rate": 50,
-          "priceAt": "09.04 12:39",
-          "image": "https://shopping.toss.im/live/taca/ai/Y2M5ODkw/QVBHTWRuemkyY3NQenVCck0rb1ovRDZHUlkvejk5eWVEM1g2L3ZpTkF2bmc.png",
-          "url": "https://toss.im/_m/zEMjMari",
-          "_ts": 1788493185.6230001
         }
       ]
     },
