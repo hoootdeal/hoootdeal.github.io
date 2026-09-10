@@ -465,6 +465,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "햇반 윤기가득쌀밥, 210g, 36개",
+          "price": "34,900원",
+          "discount_rate": 31,
+          "priceAt": "09.10 13:08",
+          "image": "https://shopping.toss.im/live/taca/ai/MmQ2ZTQ4/WjhmeUQ5bWM1QWN5bkpJOERkdVptSE9rSTNoN1lVeTUzSm0zUnZzazNnYz0.png",
+          "url": "https://toss.im/_m/dgwwuRWv",
+          "_ts": 1789013280.033282
+        },
+        {
           "name": "과일꾼 스테비아 레드 방울토마토, 500g, 4팩",
           "price": "14,880원",
           "discount_rate": 54,
@@ -985,15 +994,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/Y2VlM2Zl/Vnd4cHN4TXAwMWZhV2ROTjFNa1lqZWFUT3BucWN6TlJZMWtadWFXbVBKWT0.png",
           "url": "https://toss.im/_m/RQZ7Ce6s",
           "_ts": 1788583372.211869
-        },
-        {
-          "name": "양계장사람들 난각번호2번 프리미엄 유정란, 특란, 60구, 1개",
-          "price": "23,900원",
-          "discount_rate": 40,
-          "priceAt": "09.05 12:43",
-          "image": "https://shopping.toss.im/live/temp/2026-05-26/9539c69b-24ae-47c9-b11e-6f9673332717.png",
-          "url": "https://toss.im/_m/x5TQX90r",
-          "_ts": 1788579786.3044858
         }
       ]
     },
