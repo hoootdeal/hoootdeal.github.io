@@ -429,15 +429,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/148860490947127-69687a79-203c-46b6-85a9-d230584e1a34.jpg",
           "url": "https://link.coupang.com/a/gM73wXN0ua",
           "_ts": 1788586615.4335659
-        },
-        {
-          "name": "조양FNG HACCP인증 국산 다진마늘, 1kg, 1개",
-          "price": "9,430원",
-          "discount_rate": 37,
-          "priceAt": "09.05 09:53",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/98ec6368-459e-4ee2-bfa6-a450c3eb878d_fixing_v2.png",
-          "url": "https://link.coupang.com/a/gMNMXFvhdc",
-          "_ts": 1788569590.650534
         }
       ]
     },
@@ -446,6 +437,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "동원 통그릴 비엔나, 1kg, 2봉",
+          "price": "17,900원",
+          "discount_rate": 48,
+          "priceAt": "09.10 10:00",
+          "image": "https://shopping.toss.im/live/taca/ai/NmJkMTQy/YzNTWXpvekxaemxuRzFyTXVuU041MlAwT3MyTUMvTVpOeStNNXVMMGN4az0.png",
+          "url": "https://toss.im/_m/5pdX5zzn",
+          "_ts": 1789002024.31311
+        },
         {
           "name": "백제 쌀국수, 멸치맛, 92g, 10개",
           "price": "11,900원",
@@ -958,15 +958,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-15/54322204-148e-48cf-a711-fba1c5920742.png",
           "url": "https://toss.im/_m/fslwtFDD",
           "_ts": 1788575877.381453
-        },
-        {
-          "name": "목우촌 주부9단 프랑크 소시지, 500g, 3개",
-          "price": "14,500원",
-          "discount_rate": 46,
-          "priceAt": "09.05 09:39",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTkxNDFk/QUxKbTVtWmhtZG1aejVsbVo4MFptWm5QbWV6enpubXpONTVrelBQYkdYZk0.png",
-          "url": "https://toss.im/_m/Xgwj6hA3",
-          "_ts": 1788568798.93116
         }
       ]
     },
