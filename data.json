@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "고래사어묵 어묵탕 한그릇 (냉동), 200g, 1개",
+          "price": "4,500원",
+          "discount_rate": 10,
+          "priceAt": "09.10 10:27",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/611413588396936-a09279e7-2ebd-43ff-b0c5-a68d708a41b5.jpg",
+          "url": "https://link.coupang.com/a/gU8MD8yDpk",
+          "_ts": 1789003655.3277838
+        },
+        {
           "name": "곰곰 옛날 삼겹살 구이용 (냉동), 1kg, 1개",
           "price": "11,610원",
           "discount_rate": 39,
