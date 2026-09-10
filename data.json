@@ -438,6 +438,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크리넥스 데코&소프트 3겹, 33m, 24롤, 2팩",
+          "price": "35,900원",
+          "discount_rate": 36,
+          "priceAt": "09.10 10:24",
+          "image": "https://shopping.toss.im/live/temp/2025-10-10/b7fcdfca-5ce9-4ace-8f6c-264edf32db81.jpeg",
+          "url": "https://toss.im/_m/hHF8Far8",
+          "_ts": 1789003498.807538
+        },
+        {
           "name": "동원 통그릴 비엔나, 1kg, 2봉",
           "price": "17,900원",
           "discount_rate": 48,
