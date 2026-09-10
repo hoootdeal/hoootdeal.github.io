@@ -465,6 +465,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "웰루츠 냉동 애플망고, 페루산, 1kg, 2개",
+          "price": "9,900원",
+          "discount_rate": 50,
+          "priceAt": "09.10 21:50",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDQxN2Fm/QU1KenpNU1hTNU14N1laNTI1bVR1SG1iRXVXT2JHRTdMMHZGWTIvTTBPenc.png",
+          "url": "https://toss.im/_m/3zEYJvrd",
+          "_ts": 1789044611.214856
+        },
+        {
           "name": "구워먹는 할루미치즈, 200g, 3개",
           "price": "7,600원",
           "discount_rate": 65,
@@ -922,15 +931,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-03-13/7e3b93b8-3ab1-4310-940f-65a2d3b20cc4.jpeg",
           "url": "https://toss.im/_m/ZuAk9fmy",
           "_ts": 1788657294.017026
-        },
-        {
-          "name": "매일야채 고농축 토마토의 힘, 125ml, 24개",
-          "price": "18,800원",
-          "discount_rate": 39,
-          "priceAt": "09.05 21:36",
-          "image": "https://shopping.toss.im/live/taca/ai/OWFhZjVj/ZUhPMDUrZGV5aDVKTm16bXZFdnRPdEtSTnVFNVRhMDVONDJYNGNlMGFGND0.png",
-          "url": "https://toss.im/_m/dArUGxsx",
-          "_ts": 1788611797.688411
         }
       ]
     },
