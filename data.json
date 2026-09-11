@@ -537,6 +537,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "농협안심 새청무 탄탄대로 쌀, 상등급, 10kg, 1개",
+          "price": "32,900원",
+          "discount_rate": 41,
+          "priceAt": "09.11 13:31",
+          "image": "https://shopping.toss.im/live/taca/ai/Zjg1MDlh/SncvU1dsaTJKYXl4NGR1aEx4bTIxbGh2UzBxYnN2V2xwTmthU1ZsazViWT0.png",
+          "url": "https://toss.im/_m/dJOG7g9w",
+          "_ts": 1789101117.210796
+        },
+        {
           "name": "빌리스홈 초고농축 올인원 캡슐세제 퍼펙트 클린 라벤더, 200개, 1600g, 1팩",
           "price": "8,900원",
           "discount_rate": 55,
