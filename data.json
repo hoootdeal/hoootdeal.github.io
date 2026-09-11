@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스탠리 에브리데이 서버번 머그, 소프트 오키드, 473ml, 1개",
+          "price": "21,800원",
+          "discount_rate": 43,
+          "priceAt": "09.11 18:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/13/17/5/e30de582-c170-4b95-8184-ad853ab9eff5.png",
+          "url": "https://link.coupang.com/a/gXllXaw3tA",
+          "_ts": 1789118323.049078
+        },
+        {
           "name": "애슐리 피자바이트 스윗포테이토 (냉동), 54g, 3개, 6개입",
           "price": "19,250원",
           "discount_rate": 51,
@@ -1075,15 +1084,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/YTUyZjk2/S1YyaXdQcEJwZTAxK29mcUM4ZjlZVWw1V0dGc29hRTVWRENEeDA1ZXUyWT0.png",
           "url": "https://toss.im/_m/j5dwfSTy",
           "_ts": 1788691020.889749
-        },
-        {
-          "name": "스파클 생수, 무라벨, 500ml, 80개",
-          "price": "8,800원",
-          "discount_rate": 63,
-          "priceAt": "09.06 18:17",
-          "image": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
-          "url": "https://toss.im/_m/DiFTIObn",
-          "_ts": 1788686247.226868
         }
       ]
     },
