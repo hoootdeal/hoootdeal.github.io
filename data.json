@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "애슐리 피자바이트 스윗포테이토 (냉동), 54g, 3개, 6개입",
+          "price": "19,250원",
+          "discount_rate": 51,
+          "priceAt": "09.11 18:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5982c69a-f082-4fb4-a600-724ce5fd71db5992442961004845290.png",
+          "url": "https://link.coupang.com/a/gXkbLgkAXk",
+          "_ts": 1789117345.254855
+        },
+        {
           "name": "일본컵라면 닛신식품 돈베에 키츠네우동(히가시) 96gx12개, 96g, 12개",
           "price": "18,920원",
           "discount_rate": 30,
@@ -1066,15 +1075,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
           "url": "https://toss.im/_m/DiFTIObn",
           "_ts": 1788686247.226868
-        },
-        {
-          "name": "가성비가브랜드다 이염방지 세탁시트, 200매, 1개",
-          "price": "6,800원",
-          "discount_rate": 65,
-          "priceAt": "09.06 17:53",
-          "image": "https://shopping.toss.im/live/taca/ai/YzE0MjUz/Smt6SnRteVpNMnphVGR1YkxXeHRKR1pza3lSdGpMYkdtU1poTnJKWnlOaz0.png",
-          "url": "https://toss.im/_m/9PquE6f2",
-          "_ts": 1788684835.179945
         }
       ]
     },
