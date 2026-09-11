@@ -582,6 +582,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "동아제약 검가드 오리지널 에스 휴대용 구강청결제, 100ml, 10개",
+          "price": "6,900원",
+          "discount_rate": 72,
+          "priceAt": "09.11 17:36",
+          "image": "https://shopping.toss.im/live/temp/2026-07-16/f61bac3a-a61e-4875-b2ba-ce596ba487e9.jpeg",
+          "url": "https://toss.im/_m/nSHo2hlm",
+          "_ts": 1789115786.748217
+        },
+        {
           "name": "성경식품 재래 전장김, 30g, 10개",
           "price": "15,500원",
           "discount_rate": 35,
