@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "물먹는뽀송 매일매일이 뽀송한 옷장용 옷걸이형 제습제 본품, 400g, 12개",
+          "price": "11,800원",
+          "discount_rate": 35,
+          "priceAt": "09.11 17:30",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3327093067472765-3c380dd8-be05-4b3f-91b2-3fc64ad352a4.jpg",
+          "url": "https://link.coupang.com/a/gXhVVKEn6q",
+          "_ts": 1789115450.650879
+        },
+        {
           "name": "루아러블 갤럭시 핏3 실리콘 스포츠 밴드 스트랩",
           "price": "1,320원",
           "discount_rate": 78,
@@ -1039,15 +1048,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YzE0MjUz/Smt6SnRteVpNMnphVGR1YkxXeHRKR1pza3lSdGpMYkdtU1poTnJKWnlOaz0.png",
           "url": "https://toss.im/_m/9PquE6f2",
           "_ts": 1788684835.179945
-        },
-        {
-          "name": "프리미엄 머스크 멜론, 특, 4kg, 2수, 1박스",
-          "price": "15,800원",
-          "discount_rate": 31,
-          "priceAt": "09.06 16:31",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/Njg2Yjgw/TWV6cnNZSHN6U2xlazBDWnNOU2Voak1ObEhocWxtdUowbGI3VjFTSmhYND0.png",
-          "url": "https://toss.im/_m/J7vqNoPf",
-          "_ts": 1788679897.7303538
         }
       ]
     },
