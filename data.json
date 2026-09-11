@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "웅진빅토리아 탄산수 캔 플레인, 350ml, 24개",
+          "price": "8,600원",
+          "discount_rate": 25,
+          "priceAt": "09.11 14:24",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fa34/88de39bd5467c75ad66356e21b73f734405e3af2d587fbcf14445642a801.jpg",
+          "url": "https://link.coupang.com/a/gW4BtNzQY0",
+          "_ts": 1789104258.801627
+        },
+        {
           "name": "로멀리 스탠드 트리 냄비 받침대, 우드, 3개",
           "price": "4,900원",
           "discount_rate": 76,
