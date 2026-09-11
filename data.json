@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "슈펜 남녀공용 슈베어 미디움 라운드 탑 백팩 HPADZGAC03, 19 BLACK, 가로 37.5cm x 세로 39.5cm x 폭 12.5cm",
+          "price": "11,870원",
+          "discount_rate": 65,
+          "priceAt": "09.11 12:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/19/17/9/a4e9ea68-3188-4e35-8cb7-6a6b8d13ca7f.jpg",
+          "url": "https://link.coupang.com/a/gWWmVQfOdo",
+          "_ts": 1789097345.461805
+        },
+        {
           "name": "신라면 골드 125g, 8개",
           "price": "5,500원",
           "discount_rate": 33,
@@ -501,15 +510,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1493043474218892-74797bf9-ece5-4904-9d58-2ae81a985421.jpg",
           "url": "https://link.coupang.com/a/gQmUy8TgXY",
           "_ts": 1788755235.6700218
-        },
-        {
-          "name": "백설 포도씨유, 900ml, 3개, 900ml × 3개",
-          "price": "12,420원",
-          "discount_rate": 36,
-          "priceAt": "09.06 12:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f811/cd18c66aec116bc0c20a60b087b50d2f94aff9c4f1c175bf3161c2e43d56.jpg",
-          "url": "https://link.coupang.com/a/gODDoUvNQa",
-          "_ts": 1788665186.752995
         }
       ]
     },
@@ -958,15 +958,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/OTg1MDQ2/QUpadXBhRjlLNHZaZmxSQ1k2bVRHMGxVN0tjbktaQ05pVkpycThOTm5CYWw.png",
           "url": "https://toss.im/_m/Pb5l6IFj",
           "_ts": 1788675982.08863
-        },
-        {
-          "name": "푸드센터 소갈비살, 200g, 5팩",
-          "price": "29,500원",
-          "discount_rate": 70,
-          "priceAt": "09.06 12:16",
-          "image": "https://shopping.toss.im/live/temp/2025-07-21/93a16065-9d8e-4a9a-83c8-c07c8cca1f2d.png",
-          "url": "https://toss.im/_m/7POgWtAx",
-          "_ts": 1788664602.2126179
         }
       ]
     },
