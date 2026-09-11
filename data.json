@@ -654,6 +654,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "찹쌀 누룽지 과자, 담백한 맛, 24g, 36봉",
+          "price": "11,900원",
+          "discount_rate": 29,
+          "priceAt": "09.11 21:13",
+          "image": "https://shopping.toss.im/live/temp/2026-08-18/a460b0f2-9377-4264-bfb7-16c45b58b903.png",
+          "url": "https://toss.im/_m/NZ6qP2Cp",
+          "_ts": 1789128828.680994
+        },
+        {
           "name": "아우라 훈제 초벌 막창, 300g, 3팩",
           "price": "19,900원",
           "discount_rate": 56,
