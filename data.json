@@ -537,6 +537,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "고향식품 김치 콩비지 찌개, 500g, 10개",
+          "price": "28,900원",
+          "discount_rate": 58,
+          "priceAt": "09.11 14:22",
+          "image": "https://shopping.toss.im/live/taca/ai/YTE4ODdl/QU9QTmVtbmp5N0lwZzRsN3pRYkg2MmtYbVpXc1BnM2lwYW9QR3FWVk90Vlc.png",
+          "url": "https://toss.im/_m/vOfBPDY4",
+          "_ts": 1789104140.3898602
+        },
+        {
           "name": "농협안심 새청무 탄탄대로 쌀, 상등급, 10kg, 1개",
           "price": "32,900원",
           "discount_rate": 41,
