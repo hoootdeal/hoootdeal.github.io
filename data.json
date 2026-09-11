@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "M-8XL 남성 빅사이즈 트레이닝복 세트 투피스 세트 오버핏 반팔티, 블랙, XL",
+          "price": "3,000원",
+          "discount_rate": null,
+          "priceAt": "09.11 11:41",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/069d/df12296dd4d5e7e988b4643ed3445097caa64a0729982885d7c3d40f3aa8.jpg",
+          "url": "https://link.coupang.com/a/gWSY1Mvkfk",
+          "_ts": 1789094501.629733
+        },
+        {
           "name": "풀무원 다논 요거톡 스타볼 요거트, 132.25g, 2개",
           "price": "1,980원",
           "discount_rate": 40,
@@ -931,24 +940,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-07-21/93a16065-9d8e-4a9a-83c8-c07c8cca1f2d.png",
           "url": "https://toss.im/_m/7POgWtAx",
           "_ts": 1788664602.2126179
-        },
-        {
-          "name": "바른 돼지국밥, 500g, 5개",
-          "price": "11,380원",
-          "discount_rate": 57,
-          "priceAt": "09.06 11:36",
-          "image": "https://shopping.toss.im/live/temp/2026-06-15/fc748c01-e1e5-4ced-899e-85bb69ecf463.jpeg",
-          "url": "https://toss.im/_m/bdYlBmS",
-          "_ts": 1788662218.318719
-        },
-        {
-          "name": "이조은산소 무농약 산소 칼륨 콩나물, 1kg, 1개",
-          "price": "5,300원",
-          "discount_rate": 23,
-          "priceAt": "09.06 11:35",
-          "image": "https://shopping.toss.im/live/taca/ai/MmUwZGZh/QU42M01rdWx0S1d6MGFrOXV4dHMwNDI3ZEdXVXZWWkxWclZrUzJ3bW9mVGI.png",
-          "url": "https://toss.im/_m/drGU5MNz",
-          "_ts": 1788662106.538238
         }
       ]
     },
