@@ -555,6 +555,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바리스타룰스 원데이 무라벨, 아메리카노, 350ml, 20개",
+          "price": "10,900원",
+          "discount_rate": 78,
+          "priceAt": "09.11 15:35",
+          "image": "https://shopping.toss.im/live/temp/2025-06-23/63c350e7-bdb7-484c-a4f5-ba1697cd9fb5.jpeg",
+          "url": "https://toss.im/_m/pKdAErYo",
+          "_ts": 1789108516.061667
+        },
+        {
           "name": "리벤스 시그니처 G-에디션 물티슈, 캡형, 70매, 10팩",
           "price": "9,900원",
           "discount_rate": 69,
