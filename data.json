@@ -573,6 +573,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "성경식품 재래 전장김, 30g, 10개",
+          "price": "15,500원",
+          "discount_rate": 35,
+          "priceAt": "09.11 16:05",
+          "image": "https://shopping.toss.im/live/taca/ai/ZjhjMWU0/QUpPVTlIYnNMa3RMTnRHSmVrN1J0N1pybEJQYnUyRm5ucHJCV3pmTGtOeGs.png",
+          "url": "https://toss.im/_m/x4hhFL2h",
+          "_ts": 1789110322.480723
+        },
+        {
           "name": "바리스타룰스 원데이 무라벨, 아메리카노, 350ml, 20개",
           "price": "10,900원",
           "discount_rate": 78,
