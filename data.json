@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하인즈 홀 필드 토마토, 400g, 2개, 400g × 2개",
+          "price": "2,850원",
+          "discount_rate": 50,
+          "priceAt": "09.11 09:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2f0a028d-0b25-4aaa-a793-0a27a268a1d69200179650947669576.png",
+          "url": "https://link.coupang.com/a/gWIeZvPR4C",
+          "_ts": 1789085483.619918
+        },
+        {
           "name": "백산수 무라벨, 2L, 12개",
           "price": "9,400원",
           "discount_rate": 20,
