@@ -474,24 +474,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/01/08/14/6/3e33514c-5468-48ff-9f1f-688a3206770a.jpg",
           "url": "https://link.coupang.com/a/gOyCGvVXIO",
           "_ts": 1788660976.1623192
-        },
-        {
-          "name": "한성기업 김밥패키지 5인분, 505g, 2세트",
-          "price": "8,320원",
-          "discount_rate": 24,
-          "priceAt": "09.06 09:37",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/bfbbb84e-113f-4d09-a52f-8298a3017f2c2560060806167937167.png",
-          "url": "https://link.coupang.com/a/gOrxI43ju8",
-          "_ts": 1788655023.293222
-        },
-        {
-          "name": "프로월드컵 아동용 쿠로미 라라 EVA 샌들, 블랙, 210",
-          "price": "3,950원",
-          "discount_rate": null,
-          "priceAt": "09.06 09:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/11415682408060-07536afa-d075-4cdc-8345-f14b1373bc4e.jpg",
-          "url": "https://link.coupang.com/a/gOroAXrlgy",
-          "_ts": 1788654913.272396
         }
       ]
     },
@@ -500,6 +482,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "보양옥 곤드레나물밥, 250g, 10개",
+          "price": "21,400원",
+          "discount_rate": 57,
+          "priceAt": "09.11 10:33",
+          "image": "https://shopping.toss.im/live/taca/ai/MzI2NTVi/ZlM1bnRieml1Mk1zODZXU3NZdkdkdFBQaXRNQVRtOVp2K0xXQ1BDTmt5RT0.png",
+          "url": "https://toss.im/_m/5U03d6w4",
+          "_ts": 1789090400.132556
+        },
         {
           "name": "웰루츠 냉동 애플망고, 페루산, 1kg, 2개",
           "price": "9,900원",
@@ -958,15 +949,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NzMyZDQw/QVBPZi9qZFR6TjV1eHMxWnpUOFpNem44T2MyWjBmRHpkZ3YwcmJ1OVE5Wms.png",
           "url": "https://toss.im/_m/zmhFToB9",
           "_ts": 1788660720.582708
-        },
-        {
-          "name": "한입 삼겹살, 500g, 3개",
-          "price": "9,990원",
-          "discount_rate": 66,
-          "priceAt": "09.06 10:14",
-          "image": "https://shopping.toss.im/live/temp/2026-03-13/7e3b93b8-3ab1-4310-940f-65a2d3b20cc4.jpeg",
-          "url": "https://toss.im/_m/ZuAk9fmy",
-          "_ts": 1788657294.017026
         }
       ]
     },
