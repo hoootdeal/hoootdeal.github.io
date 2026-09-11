@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "자가비 과자 오사쯔맛, 45g, 6개",
+          "price": "6,910원",
+          "discount_rate": 30,
+          "priceAt": "09.11 18:21",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/38eda31b-af1b-4137-a373-34e86eb882f413890643351482359408.png",
+          "url": "https://link.coupang.com/a/gXly1hSWfA",
+          "_ts": 1789118499.7314181
+        },
+        {
           "name": "스탠리 에브리데이 서버번 머그, 소프트 오키드, 473ml, 1개",
           "price": "21,800원",
           "discount_rate": 43,
