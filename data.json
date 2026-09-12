@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "신라면 로제 큰사발면 108g, 16개",
+          "price": "11,240원",
+          "discount_rate": 32,
+          "priceAt": "09.12 19:51",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/39370374752525-053d489f-d702-482f-ad6d-46b5d0689261.jpg",
+          "url": "https://link.coupang.com/a/gY6Tbdj66e",
+          "_ts": 1789210289.7794392
+        },
+        {
           "name": "무식이네 고압 수압상승 3단 조절 필터 샤워기 헤드 + 리필 필터 16p 세트, 다크그레이, 1세트",
           "price": "3,900원",
           "discount_rate": 56,
@@ -1210,15 +1219,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NzQzZjY5/QU1aMFBFZ0JNUHdublFBZzZ4ai9RNGtRY0tiTm04Q2pPYjRYYktJc21HWFY.png",
           "url": "https://toss.im/_m/lHUvXxUu",
           "_ts": 1788779222.469121
-        },
-        {
-          "name": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
-          "price": "9,900원",
-          "discount_rate": 41,
-          "priceAt": "09.07 19:13",
-          "image": "https://shopping.toss.im/live/taca/ai/YjM4MDY0/ZW15MThmWGpjczZ0SGNTSG53d2UvaDYwK0lmNzNIaG5ZVkFOZVZWK291QT0.png",
-          "url": "https://toss.im/_m/LRmDYdV4",
-          "_ts": 1788776027.195588
         }
       ]
     },
