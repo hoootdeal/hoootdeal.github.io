@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "잇츠스킨 파워10 포뮬라 씨오 이펙터 에센스 탄력보스, 30ml, 1개",
+          "price": "3,700원",
+          "discount_rate": 63,
+          "priceAt": "09.12 22:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5643227456802085-d31ebc62-edfd-4a98-a973-6a3b5ef32edf.jpg",
+          "url": "https://link.coupang.com/a/gZjl1tNreS",
+          "_ts": 1789220757.238889
+        },
+        {
           "name": "신라면 로제 큰사발면 108g, 16개",
           "price": "11,240원",
           "discount_rate": 32,
@@ -717,15 +726,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/78f9/c728c8411374bfeeb55f8a6005ead5aebf95806524af611ba9c463e217f8.jpg",
           "url": "https://link.coupang.com/a/gRCFhNQIAS",
           "_ts": 1788820519.698411
-        },
-        {
-          "name": "펩시 제로슈거 라임향, 210ml, 30개",
-          "price": "11,820원",
-          "discount_rate": 19,
-          "priceAt": "09.07 22:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg",
-          "url": "https://link.coupang.com/a/gQYjFpH69k",
-          "_ts": 1788786641.954245
         }
       ]
     },
