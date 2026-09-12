@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "더미식 육즙새우교자 (냉동), 315g, 8개",
+          "price": "15,360원",
+          "discount_rate": 53,
+          "priceAt": "09.12 14:13",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/a1c1b301-aabe-46a2-9eb2-5f8e99f689313528027260052355079.png",
+          "url": "https://link.coupang.com/a/gYIIwn3hHo",
+          "_ts": 1789189995.548407
+        },
+        {
           "name": "코주부 프리미엄 육포 + 쇼핑백 선물세트, 250g, 1세트",
           "price": "26,990원",
           "discount_rate": 32,
@@ -1210,15 +1219,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-12-15/cc2d8525-4d20-4db7-b3c5-9315d1f15aaf.jpeg",
           "url": "https://toss.im/_m/DtNK8jj8",
           "_ts": 1788760222.5511758
-        },
-        {
-          "name": "군산 메밀 소바 간장, 7인분, 175g, 1개",
-          "price": "8,900원",
-          "discount_rate": 55,
-          "priceAt": "09.07 14:01",
-          "image": "https://shopping.toss.im/live/taca/ai/MWI3Njky/TnNsa1c0UWdSQUFvWURaL3BTMHFVTEUwMlE2VWVTSDJVUGEvL3EvUXYrQT0.png",
-          "url": "https://toss.im/_m/Rz4gG8mx",
-          "_ts": 1788757296.841006
         }
       ]
     },
