@@ -744,6 +744,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바람골 황태미역국, 650g, 6개",
+          "price": "9,900원",
+          "discount_rate": 58,
+          "priceAt": "09.12 15:07",
+          "image": "https://shopping.toss.im/live/temp/2026-05-20/ef855d44-ffa1-4398-8074-3761182cf43a.jpeg",
+          "url": "https://toss.im/_m/r1twOkR4",
+          "_ts": 1789193228.601473
+        },
+        {
           "name": "엔코스 트리플 이펙트 올인원 로션, 120ml, 1개",
           "price": "10,600원",
           "discount_rate": 69,
@@ -1219,15 +1228,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-02-28/198e66dc-0a26-422b-b0dc-8047dd7f7af6.png",
           "url": "https://toss.im/_m/x3kyHHDy",
           "_ts": 1788761536.3901381
-        },
-        {
-          "name": "이불 옷 정리 압축파우치, MEGA, 2개입, 1세트",
-          "price": "15,900원",
-          "discount_rate": 36,
-          "priceAt": "09.07 14:50",
-          "image": "https://shopping.toss.im/live/temp/2025-12-15/cc2d8525-4d20-4db7-b3c5-9315d1f15aaf.jpeg",
-          "url": "https://toss.im/_m/DtNK8jj8",
-          "_ts": 1788760222.5511758
         }
       ]
     },
