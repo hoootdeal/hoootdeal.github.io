@@ -726,15 +726,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg",
           "url": "https://link.coupang.com/a/gQYjFpH69k",
           "_ts": 1788786641.954245
-        },
-        {
-          "name": "프렌치카페 로스터리 카푸치노 200 ml 10p + 카라멜 마키아또 200 ml 10p, 1세트, 2종, 200ml",
-          "price": "11,760원",
-          "discount_rate": 44,
-          "priceAt": "09.07 20:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/255917112342814-5e75a2b5-b2fa-4e23-8166-0a9fab77f5e5.png",
-          "url": "https://link.coupang.com/a/gQR9tzUFTE",
-          "_ts": 1788781464.80419
         }
       ]
     },
@@ -743,6 +734,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "더 맛있는 방울 토마토 스테비아, 500g, 2개",
+          "price": "10,900원",
+          "discount_rate": 58,
+          "priceAt": "09.12 21:08",
+          "image": "https://shopping.toss.im/live/taca/ai/ZWRhMGRj/QUtiZExQT2VTZGJZMnpiTEhIbW1uZVpteTJaajh6bVl1VGg1Y2trWlpFMm0.png",
+          "url": "https://toss.im/_m/7kSlNYZk",
+          "_ts": 1789214911.3548002
+        },
         {
           "name": "원김치 쪽파김치, 가정용, 2kg, 1개",
           "price": "9,900원",
@@ -1201,24 +1201,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NTNmNTJh/Y2Zob2NuWjg5YlAyZExabjNaeGgrWVdjUHc4dEFUeHB3NVR5US9aQlQ3dz0.png",
           "url": "https://toss.im/_m/roSpDwqi",
           "_ts": 1788830638.6442208
-        },
-        {
-          "name": "페페브루노 엑스트라버진 올리브오일, 500ml, 2개",
-          "price": "15,900원",
-          "discount_rate": 67,
-          "priceAt": "09.07 20:27",
-          "image": "https://shopping.toss.im/live/temp/2026-01-29/793cd7a4-c856-482d-b13d-ed4d9b8cb564.jpeg",
-          "url": "https://toss.im/_m/ZwNTC882",
-          "_ts": 1788780440.56636
-        },
-        {
-          "name": "제이닭 통닭가슴살, 숯불치킨맛, 100g, 10개 + 돈까스맛, 100g, 10개 + 떡볶이맛, 100g, 10개",
-          "price": "34,800원",
-          "discount_rate": 34,
-          "priceAt": "09.07 20:07",
-          "image": "https://shopping.toss.im/live/taca/ai/NzQzZjY5/QU1aMFBFZ0JNUHdublFBZzZ4ai9RNGtRY0tiTm04Q2pPYjRYYktJc21HWFY.png",
-          "url": "https://toss.im/_m/lHUvXxUu",
-          "_ts": 1788779222.469121
         }
       ]
     },
