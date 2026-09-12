@@ -726,15 +726,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6248/ad4f1d56371bd56bcf0330467b52e03302bbcae8c939803f33f9c21a530e.jpg",
           "url": "https://link.coupang.com/a/gQy3ZfwD36",
           "_ts": 1788765438.975382
-        },
-        {
-          "name": "에이지투웨니스 아미노 약산성 모이스처 클렌징폼, 150ml, 1개",
-          "price": "5,760원",
-          "discount_rate": 68,
-          "priceAt": "09.07 13:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1493043474218892-74797bf9-ece5-4904-9d58-2ae81a985421.jpg",
-          "url": "https://link.coupang.com/a/gQmUy8TgXY",
-          "_ts": 1788755235.6700218
         }
       ]
     },
@@ -743,6 +734,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "제주 삼다수, 라벨 랜덤, 2L, 12병",
+          "price": "11,800원",
+          "discount_rate": 30,
+          "priceAt": "09.12 13:51",
+          "image": "https://shopping.toss.im/live/temp/2026-07-23/986f1161-88cc-437e-91e2-f389fbb30351.jpeg",
+          "url": "https://toss.im/_m/RHfz6Q1g",
+          "_ts": 1789188688.9652202
+        },
         {
           "name": "배터지는 고기듬뿍 감자탕, 5kg, 1개",
           "price": "19,700원",
