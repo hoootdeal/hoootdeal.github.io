@@ -735,6 +735,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "모둠 광천 김자반, 40g, 10봉",
+          "price": "10,900원",
+          "discount_rate": 50,
+          "priceAt": "09.12 10:01",
+          "image": "https://shopping.toss.im/live/taca/ai/Nzc5ZWMz/WnR1dGFWTHRZY3hhSkIwellhM0czT0pKMXRhazB5a3JXV1JVNXQxRW90UT0.png",
+          "url": "https://toss.im/_m/7nNHXved",
+          "_ts": 1789174865.888059
+        },
+        {
           "name": "익스트림 단백질 20g 슬림쉐이크, 그레인, 45g, 7포, 1세트",
           "price": "11,800원",
           "discount_rate": 66,
