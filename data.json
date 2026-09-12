@@ -735,6 +735,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "원김치 쪽파김치, 가정용, 2kg, 1개",
+          "price": "9,900원",
+          "discount_rate": 33,
+          "priceAt": "09.12 19:11",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MDkxZDUx/QU52Z21LSFI4ZUg3QkoxLzhPZGVRMTF5ZEJvNkdnTnJSZTNWSjhpRGZ0VWk.png",
+          "url": "https://toss.im/_m/bHi6PwVp",
+          "_ts": 1789207907.3590121
+        },
+        {
           "name": "오즈랜드 오트 초코칩쿠키, 480g, 1개",
           "price": "7,600원",
           "discount_rate": 55,
