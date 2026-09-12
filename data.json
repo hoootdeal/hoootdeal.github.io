@@ -726,24 +726,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/952630484350091-92f6cbd3-82a5-4cbb-9ef2-d8d7ee6585c5.jpg",
           "url": "https://link.coupang.com/a/gQHB8kWgPA",
           "_ts": 1788772618.722327
-        },
-        {
-          "name": "오뚜기 델리 토마토 케찹, 800g, 2개",
-          "price": "4,580원",
-          "discount_rate": 29,
-          "priceAt": "09.07 17:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/30058371332163-14b87995-d5a6-4b80-9f97-e345d4be8245.jpg",
-          "url": "https://link.coupang.com/a/gQCxPvJVIW",
-          "_ts": 1788768362.6346529
-        },
-        {
-          "name": "트립온 대용량 접이식 여행가방 보스턴백, 50 x 16.5 x 37cm, 블랙",
-          "price": "7,900원",
-          "discount_rate": 33,
-          "priceAt": "09.07 16:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6248/ad4f1d56371bd56bcf0330467b52e03302bbcae8c939803f33f9c21a530e.jpg",
-          "url": "https://link.coupang.com/a/gQy3ZfwD36",
-          "_ts": 1788765438.975382
         }
       ]
     },
@@ -752,6 +734,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "횡재미가 저당 파로 담은 7곡 혼합잡곡, 2kg, 1개",
+          "price": "10,910원",
+          "discount_rate": 54,
+          "priceAt": "09.12 17:43",
+          "image": "https://shopping.toss.im/live/temp/2026-06-19/0cba90fe-9497-451c-a538-b2e4cbf161b0.png",
+          "url": "https://toss.im/_m/59CZTVJ9",
+          "_ts": 1789202611.500799
+        },
         {
           "name": "바람골 황태미역국, 650g, 6개",
           "price": "9,900원",
