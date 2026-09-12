@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "첵스초코 쿠키앤크림 시리얼, 420g, 4개",
+          "price": "20,580원",
+          "discount_rate": 50,
+          "priceAt": "09.13 07:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4b30/292fa1ffaa957ebb83c68dd264389cc49c0ab905450b742d40eedbc99575.png",
+          "url": "https://link.coupang.com/a/gZSH2NxTmS",
+          "_ts": 1789250441.27438
+        },
+        {
           "name": "잇츠스킨 파워10 포뮬라 씨오 이펙터 에센스 탄력보스, 30ml, 1개",
           "price": "3,700원",
           "discount_rate": 63,
