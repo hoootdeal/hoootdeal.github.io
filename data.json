@@ -744,6 +744,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "배터지는 고기듬뿍 감자탕, 5kg, 1개",
+          "price": "19,700원",
+          "discount_rate": 50,
+          "priceAt": "09.12 12:29",
+          "image": "https://shopping.toss.im/live/taca/ai/Y2M5ODkw/QVBHTWRuemkyY3NQenVCck0rb1ovRDZHUlkvejk5eWVEM1g2L3ZpTkF2bmc.png",
+          "url": "https://toss.im/_m/zEMjMari",
+          "_ts": 1789183759.756159
+        },
+        {
           "name": "ACRO 스마트 디지털 체중계, ibody-100, 화이트, 1개",
           "price": "13,900원",
           "discount_rate": 60,
@@ -1210,15 +1219,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MWI3Njky/TnNsa1c0UWdSQUFvWURaL3BTMHFVTEUwMlE2VWVTSDJVUGEvL3EvUXYrQT0.png",
           "url": "https://toss.im/_m/Rz4gG8mx",
           "_ts": 1788757296.841006
-        },
-        {
-          "name": "애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
-          "price": "21,900원",
-          "discount_rate": 26,
-          "priceAt": "09.07 12:04",
-          "image": "https://shopping.toss.im/live/taca/ai/MzU3NmU1/QjdiRW5JU01zV0tieEIzV2Q4eW1tWSt5VHkxblc1bFVubU5HcHkwallGUT0.png",
-          "url": "https://toss.im/_m/xK2iiMbv",
-          "_ts": 1788750259.446224
         }
       ]
     },
