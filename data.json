@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바겐슈타이거 블랙 마블 도마, 1세트, 소 + 중 + 대",
+          "price": "15,620원",
+          "discount_rate": 75,
+          "priceAt": "09.12 15:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/94519049264378-210878d9-3c16-46d2-9310-7caf82f5272f.jpg",
+          "url": "https://link.coupang.com/a/gYP9na1zHM",
+          "_ts": 1789196236.5773299
+        },
+        {
           "name": "더미식 육즙새우교자 (냉동), 315g, 8개",
           "price": "15,360원",
           "discount_rate": 53,
@@ -1210,24 +1219,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-02-23/f7ec2348-80ca-421b-b004-8d0cd8992bb3.jpeg",
           "url": "https://toss.im/_m/rCvx3naA",
           "_ts": 1788774330.7359738
-        },
-        {
-          "name": "순살 양념 목살구이, 600g, 3개",
-          "price": "16,900원",
-          "discount_rate": 57,
-          "priceAt": "09.07 15:50",
-          "image": "https://shopping.toss.im/live/taca/ai/MTkyMTNl/QUp0cFQ3Q0pXZmd5QjZ5NVNYY0dRSDdqUWlGdzU4TS96S29CZU5JYVgwemc.png",
-          "url": "https://toss.im/_m/vWnaDt72",
-          "_ts": 1788763815.654887
-        },
-        {
-          "name": "농심 신라면, 120g, 20개",
-          "price": "18,800원",
-          "discount_rate": 62,
-          "priceAt": "09.07 15:12",
-          "image": "https://shopping.toss.im/live/temp/2026-02-28/198e66dc-0a26-422b-b0dc-8047dd7f7af6.png",
-          "url": "https://toss.im/_m/x3kyHHDy",
-          "_ts": 1788761536.3901381
         }
       ]
     },
