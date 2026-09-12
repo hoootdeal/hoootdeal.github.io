@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "파워에이드 마운틴블라스트, 340ml, 24개",
+          "price": "10,440원",
+          "discount_rate": 51,
+          "priceAt": "09.13 08:11",
+          "image": "https://img3c.coupangcdn.com/image/retail/images/87003838066451-5a6dc3db-4b87-4a14-90c7-d6fba01a6be9.jpg",
+          "url": "https://link.coupang.com/a/gZXKM289WS",
+          "_ts": 1789254677.100393
+        },
+        {
           "name": "첵스초코 쿠키앤크림 시리얼, 420g, 4개",
           "price": "20,580원",
           "discount_rate": 50,
@@ -726,15 +735,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/27a1/8b56bc9aab7f69e169a2da90af950adec713bcc56b68cae2533bfe385ed8.jpg",
           "url": "https://link.coupang.com/a/gRHaycjkoC",
           "_ts": 1788824301.611308
-        },
-        {
-          "name": "[색상선택형] 삼성전자 비스포크 313L 스탠드형 3도어 김치냉장고 김치플러스 키친핏 방문설치, 코타화이트, RQ33DB74D201",
-          "price": "1,190,000원",
-          "discount_rate": 22,
-          "priceAt": "09.08 07:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/78f9/c728c8411374bfeeb55f8a6005ead5aebf95806524af611ba9c463e217f8.jpg",
-          "url": "https://link.coupang.com/a/gRCFhNQIAS",
-          "_ts": 1788820519.698411
         }
       ]
     },
