@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "환타 제로 파인애플 탄산음료, 350ml, 24개",
+          "price": "11,990원",
+          "discount_rate": 15,
+          "priceAt": "09.13 14:16",
+          "image": "https://img1c.coupangcdn.com/image/retail/images/482266311580231-3e48047e-9beb-413c-b8aa-50f348bd3cbe.jpg",
+          "url": "https://link.coupang.com/a/g0nOUlphqm",
+          "_ts": 1789276563.649537
+        },
+        {
           "name": "수스다 홀스퀘어 올림머리 집게 헤어핀, 179_블랙",
           "price": "1,410원",
           "discount_rate": 71,
@@ -1228,15 +1237,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/OWI0MTMx/QU1NN00wUzJOOGt6TE5uTitIa25OcTkwZGpnSHg2YUxMenpaN1pNODJSSnM.png",
           "url": "https://toss.im/_m/lWD7X0G5",
           "_ts": 1788844683.424984
-        },
-        {
-          "name": "옥돌김치 333 포기김치, 3kg, 1개",
-          "price": "19,900원",
-          "discount_rate": 60,
-          "priceAt": "09.08 13:57",
-          "image": "https://shopping.toss.im/live/taca/ai/YTI0ODc5/QU9QQjR4a0tjeHlRK3lQU1ROZ3dnZTRiSTFyOC9wTURKV0lMaCtmb3lKVjA.png",
-          "url": "https://toss.im/_m/fA5XpmX4",
-          "_ts": 1788843463.588813
         }
       ]
     },
