@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에이지투웨니스 멜라 디펜스 기미 노세범 선스틱 SPF50+ PA++++, 20g, 2개",
+          "price": "10,600원",
+          "discount_rate": 80,
+          "priceAt": "09.13 09:14",
+          "image": "https://static.coupangcdn.com/image/retail/images/8bef07a1-3ed5-4b3b-b007-431edf8727bc3580962705101219622.png",
+          "url": "https://link.coupang.com/a/gZ2hp30QWi",
+          "_ts": 1789258477.7744188
+        },
+        {
           "name": "파워에이드 마운틴블라스트, 340ml, 24개",
           "price": "10,440원",
           "discount_rate": 51,
@@ -717,24 +726,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/e8asimiz/6e0f49cb40f745b1bc66b3e3c3b9e5b6.jpg",
           "url": "https://link.coupang.com/a/gRKq4QONmD",
           "_ts": 1788827044.62168
-        },
-        {
-          "name": "홈스타 핑크파워 욕실 찌든때 클리너, 750ml, 2개",
-          "price": "9,050원",
-          "discount_rate": 24,
-          "priceAt": "09.08 08:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/259610319417673-0c82f803-0be8-4422-af2a-de9110469104.jpg",
-          "url": "https://link.coupang.com/a/gRHnHlTHcy",
-          "_ts": 1788824479.2575748
-        },
-        {
-          "name": "쿠라콘 시오콤부 염장다시마 대용량, 47g, 3개",
-          "price": "9,370원",
-          "discount_rate": 26,
-          "priceAt": "09.08 08:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/27a1/8b56bc9aab7f69e169a2da90af950adec713bcc56b68cae2533bfe385ed8.jpg",
-          "url": "https://link.coupang.com/a/gRHaycjkoC",
-          "_ts": 1788824301.611308
         }
       ]
     },
