@@ -717,15 +717,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dd2f/681c483da1a745a9310a1d3f8502ae69a2bff3023af2a70ac59c5df82afe.png",
           "url": "https://link.coupang.com/a/gRXOxy3NG8",
           "_ts": 1788838276.5626721
-        },
-        {
-          "name": "엘쏘 대용량 화장품 파우치 수납 고급 가방, 스카이, FREE",
-          "price": "3,400원",
-          "discount_rate": 84,
-          "priceAt": "09.08 09:24",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/e8asimiz/6e0f49cb40f745b1bc66b3e3c3b9e5b6.jpg",
-          "url": "https://link.coupang.com/a/gRKq4QONmD",
-          "_ts": 1788827044.62168
         }
       ]
     },
@@ -734,6 +725,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "광천김 파래 도시락김 카카오프렌즈, 4g, 27봉",
+          "price": "9,900원",
+          "discount_rate": 44,
+          "priceAt": "09.13 10:05",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/ZGI4ZWU2/TE5ScEMwdHJ6bk41eEVjNVd0UzQxaU9VdE5PMWxMZWNPUFJyY2twbVhLdz0.png",
+          "url": "https://toss.im/_m/NEwjeKOD",
+          "_ts": 1789261500.462738
+        },
         {
           "name": "일양약품 굿모닝 간건강 밀크씨슬, 800mg, 30정, 2박스",
           "price": "8,445원",
