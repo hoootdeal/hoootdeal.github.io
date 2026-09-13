@@ -825,6 +825,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "마포나루터 돼지목살왕구이, 500g, 3팩",
+          "price": "13,900원",
+          "discount_rate": 36,
+          "priceAt": "09.13 18:51",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDJkNTQz/WHIrYmkydUdhOFRjaEc0bGRBTm9FdExleGhkZFB4eG9OZGprMkdocVp6VT0.png",
+          "url": "https://toss.im/_m/rFRW60W6",
+          "_ts": 1789293102.103352
+        },
+        {
           "name": "스파클 생수, 무라벨, 500ml, 80개",
           "price": "8,800원",
           "discount_rate": 63,
@@ -1291,15 +1300,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-07-08/47b90ec2-d0b5-4570-90e7-615669c33e23.jpeg",
           "url": "https://toss.im/_m/xSnWAZEz",
           "_ts": 1788864092.309609
-        },
-        {
-          "name": "웰쉐프 훈제 닭다리, 180g, 10개",
-          "price": "25,400원",
-          "discount_rate": 45,
-          "priceAt": "09.08 18:30",
-          "image": "https://shopping.toss.im/live/taca/ai/M2ZhOTEy/QU5qTnpPZEtXdGF6alNNSGEwTnB0a3VWeitYSlk1RWVrNW9VMCtIUThmZ2M.png",
-          "url": "https://toss.im/_m/jOUS1sZ4",
-          "_ts": 1788859859.721355
         }
       ]
     },
