@@ -780,15 +780,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2022/03/11/12/7/e21d7114-4589-4bb7-8bf5-fbf4cc6b529d.jpg",
           "url": "https://link.coupang.com/a/gSy2DZuUua",
           "_ts": 1788869530.862101
-        },
-        {
-          "name": "오리온 미쯔 황치즈 6p, 222g, 1개",
-          "price": "3,360원",
-          "discount_rate": 28,
-          "priceAt": "09.08 16:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/19/10/2/714d9d96-7e7d-4bb7-a31d-00e49679ba88.jpg",
-          "url": "https://link.coupang.com/a/gSfE9Aqwnc",
-          "_ts": 1788853262.971953
         }
       ]
     },
@@ -797,6 +788,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "스파클 생수, 무라벨, 500ml, 80개",
+          "price": "8,800원",
+          "discount_rate": 63,
+          "priceAt": "09.13 16:49",
+          "image": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
+          "url": "https://toss.im/_m/DiFTIObn",
+          "_ts": 1789285776.891051
+        },
         {
           "name": "대한민국농수산 배터지게 푸짐한 소고기 모둠, 1kg, 1세트",
           "price": "38,900원",
