@@ -780,6 +780,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "교동 오징어무국, 500g, 3팩",
+          "price": "11,200원",
+          "discount_rate": 32,
+          "priceAt": "09.13 14:46",
+          "image": "https://shopping.toss.im/live/taca/ai/NjQ0NWQy/TXo5ek1DTXlibmFGYzhSU2hDS3NCa3psbjV0NTNEK0M1WDB5OHRRODZNST0.png",
+          "url": "https://toss.im/_m/RjMh8hRu",
+          "_ts": 1789278374.072315
+        },
+        {
           "name": "반할만떡 당면만두, 420g, 4개",
           "price": "11,900원",
           "discount_rate": 30,
