@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "착한구두 여성용 샌더슨 페니 레더 로퍼 LFLTR3e851, 블랙, 235",
+          "price": "26,900원",
+          "discount_rate": 22,
+          "priceAt": "09.13 20:31",
+          "image": "https://image14.coupangcdn.com/image/retail/images/111055149307548-9b716a78-fe02-43ba-b8f8-91df40f176be.jpg",
+          "url": "https://link.coupang.com/a/g0ODq6sH6G",
+          "_ts": 1789299076.239748
+        },
+        {
           "name": "셰프초이스 케이프라이드 동그랑땡(냉장), 1kg, 1개, 1kg × 1개",
           "price": "8,940원",
           "discount_rate": 34,
@@ -1309,15 +1318,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MDUwYmNh/ZUhRNGVNZXp4WVk2U2I0anQwSDQxRWkySk56RDZkTWpQd2ErczVCWlNVdz0.png",
           "url": "https://toss.im/_m/VCx8RUxy",
           "_ts": 1788872151.24823
-        },
-        {
-          "name": "맛생각 시골 전통 된장찌개, 600g, 5개",
-          "price": "16,500원",
-          "discount_rate": 52,
-          "priceAt": "09.08 20:18",
-          "image": "https://shopping.toss.im/live/temp/2026-06-15/a8bbce69-1c12-4b6f-915a-53a9bbc47f2f.jpeg",
-          "url": "https://toss.im/_m/flcjiNhh",
-          "_ts": 1788866281.229934
         }
       ]
     },
