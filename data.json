@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "코카콜라 제로제로, 190ml, 30개",
+          "price": "12,590원",
+          "discount_rate": 42,
+          "priceAt": "09.13 12:44",
+          "image": "https://static.coupangcdn.com/image/retail/images/76227677833552-feae0a48-4e94-4932-9f8a-612194c626e8.jpg",
+          "url": "https://link.coupang.com/a/g0hg66dMiW",
+          "_ts": 1789271066.781047
+        },
+        {
           "name": "헬리코박터 프로젝트 윌 미니, 15개, 80ml",
           "price": "9,120원",
           "discount_rate": 26,
@@ -735,15 +744,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/19/10/2/714d9d96-7e7d-4bb7-a31d-00e49679ba88.jpg",
           "url": "https://link.coupang.com/a/gSfE9Aqwnc",
           "_ts": 1788853262.971953
-        },
-        {
-          "name": "1++ 투뿔 한우선물세트 소고기 구이용 1kg, 1세트",
-          "price": "79,800원",
-          "discount_rate": 53,
-          "priceAt": "09.08 12:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dd2f/681c483da1a745a9310a1d3f8502ae69a2bff3023af2a70ac59c5df82afe.png",
-          "url": "https://link.coupang.com/a/gRXOxy3NG8",
-          "_ts": 1788838276.5626721
         }
       ]
     },
