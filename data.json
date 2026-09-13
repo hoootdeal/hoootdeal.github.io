@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "멍냥빌리지 강아지 프루티파이, 216g, 1개, 배맛",
+          "price": "7,800원",
+          "discount_rate": 61,
+          "priceAt": "09.13 14:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/549679278324159-73012c5c-dcd4-4346-8645-24224b53548a.jpg",
+          "url": "https://link.coupang.com/a/g0ozswzfY4",
+          "_ts": 1789277192.234185
+        },
+        {
           "name": "환타 제로 파인애플 탄산음료, 350ml, 24개",
           "price": "11,990원",
           "discount_rate": 15,
@@ -1228,15 +1237,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-04-21/af86d4da-e1ab-4491-b61f-c32e0c5c1f69.jpeg",
           "url": "https://toss.im/_m/JHR2htoh",
           "_ts": 1788856049.68844
-        },
-        {
-          "name": "바세린 딥 모이스처 인텐시브 바디로션, 1000ml, 1+1 구성, 총 2개",
-          "price": "12,800원",
-          "discount_rate": 55,
-          "priceAt": "09.08 14:18",
-          "image": "https://shopping.toss.im/live/taca/ai/OWI0MTMx/QU1NN00wUzJOOGt6TE5uTitIa25OcTkwZGpnSHg2YUxMenpaN1pNODJSSnM.png",
-          "url": "https://toss.im/_m/lWD7X0G5",
-          "_ts": 1788844683.424984
         }
       ]
     },
