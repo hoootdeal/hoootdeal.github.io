@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "더미식 김치교자 (냉동), 1.05kg, 1개",
+          "price": "8,590원",
+          "discount_rate": 20,
+          "priceAt": "09.14 07:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/0yljqghq/6622cfc21c184f83ab37ddc7ef9186ee.jpg",
+          "url": "https://link.coupang.com/a/g1zGfLS07w",
+          "_ts": 1789338576.5822332
+        },
+        {
           "name": "올바르고 반듯한 감자 모짜 찰핫도그 6개입 (냉동), 540g, 3개",
           "price": "16,420원",
           "discount_rate": 35,
