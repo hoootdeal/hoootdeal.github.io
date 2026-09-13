@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "편안한42 예쁜 여성 여름바지 시원한 와이드팬츠 냉장고바지, 라이트그레이, M",
+          "price": "3,900원",
+          "discount_rate": 77,
+          "priceAt": "09.13 11:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/eab9/0ebbe1c843876c8223fcbf3ddc84a671e920d4180f075382cec66522d856.jpg",
+          "url": "https://link.coupang.com/a/gZ9SRDcNZQ",
+          "_ts": 1789264860.861193
+        },
+        {
           "name": "완전두유 검은콩 17곡 고칼슘, 190ml, 60개",
           "price": "18,800원",
           "discount_rate": 51,
@@ -1210,15 +1219,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YmU0OWI0/TTIySkpjMlQwcXFXMnJaVnNaYk1tbVpvQzBack4wbVRUSXpXN1piaE9UVT0.png",
           "url": "https://toss.im/_m/zEQi0wzi",
           "_ts": 1788836428.087063
-        },
-        {
-          "name": "광천김 곱창김 도시락김, 5g, 27개",
-          "price": "10,900원",
-          "discount_rate": 47,
-          "priceAt": "09.08 10:23",
-          "image": "https://shopping.toss.im/live/taca/ai/NTNmNTJh/Y2Zob2NuWjg5YlAyZExabjNaeGgrWVdjUHc4dEFUeHB3NVR5US9aQlQ3dz0.png",
-          "url": "https://toss.im/_m/roSpDwqi",
-          "_ts": 1788830638.6442208
         }
       ]
     },
