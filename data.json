@@ -834,6 +834,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "호정가 옛날도나스, 960g, 16개입 1박스",
+          "price": "8,900원",
+          "discount_rate": 44,
+          "priceAt": "09.13 19:41",
+          "image": "https://shopping.toss.im/live/taca/ai/NWU3MDU2/UHBTbmFldHRybnkwbkcyd1dUejE1R081RXNXdXRGckhZa0hWWHI2QlZWST0.png",
+          "url": "https://toss.im/_m/1VtdXxNu",
+          "_ts": 1789296094.562866
+        },
+        {
           "name": "마포나루터 돼지목살왕구이, 500g, 3팩",
           "price": "13,900원",
           "discount_rate": 36,
@@ -1300,15 +1309,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-15/a8bbce69-1c12-4b6f-915a-53a9bbc47f2f.jpeg",
           "url": "https://toss.im/_m/flcjiNhh",
           "_ts": 1788866281.229934
-        },
-        {
-          "name": "일동후디스 소화편한 우유 바나나, 190ml, 24개입, 1박스",
-          "price": "11,900원",
-          "discount_rate": 64,
-          "priceAt": "09.08 19:41",
-          "image": "https://shopping.toss.im/live/temp/2025-07-08/47b90ec2-d0b5-4570-90e7-615669c33e23.jpeg",
-          "url": "https://toss.im/_m/xSnWAZEz",
-          "_ts": 1788864092.309609
         }
       ]
     },
