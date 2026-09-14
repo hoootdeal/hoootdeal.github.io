@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "윌리브 국산 스텐 노바 수저세트, 실버, 숟가락(10P) + 젓가락(10P), 1세트",
+          "price": "11,680원",
+          "discount_rate": 34,
+          "priceAt": "09.14 12:19",
+          "image": "https://img3c.coupangcdn.com/image/1025_amir_coupang_oct_80k/5831/2d4757f0428a2a596dc8a8f4e9968c008033ab197be62c851d3fa377611d.jpg",
+          "url": "https://link.coupang.com/a/g1Um8fe6EK",
+          "_ts": 1789355949.913117
+        },
+        {
           "name": "이클립스 페퍼민트향 캔디, 34g, 10개",
           "price": "11,680원",
           "discount_rate": 31,
@@ -798,15 +807,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fe9d/eb7d31ed9430dba2cb4ff02011b19ab6937666e372327dc3db4087c0e40a.png",
           "url": "https://link.coupang.com/a/gTGCQfxv3c",
           "_ts": 1788927955.9654741
-        },
-        {
-          "name": "네스카페 에스프레소 커피 원액 블랙, 500ml, 1개",
-          "price": "4,330원",
-          "discount_rate": 41,
-          "priceAt": "09.09 11:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/08/10/7/6b12b7fa-91c9-42ac-b687-170e1c0a82ee.jpg",
-          "url": "https://link.coupang.com/a/gTxOhnLAIu",
-          "_ts": 1788920555.335235
         }
       ]
     },
