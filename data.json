@@ -852,6 +852,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하이뮨 프로틴밸런스 액티브 다크초코, 330ml, 12개",
+          "price": "19,900원",
+          "discount_rate": 65,
+          "priceAt": "09.14 19:39",
+          "image": "https://shopping.toss.im/live/temp/2026-03-03/0a361c03-695c-44c9-bb69-ccfb55995fd7.jpeg",
+          "url": "https://toss.im/_m/Rku6vuQD",
+          "_ts": 1789382389.063515
+        },
+        {
           "name": "맘스터치 시그니처 치킨텐더, 1kg, 2개",
           "price": "19,900원",
           "discount_rate": 20,
@@ -1318,15 +1327,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZWI1NzBm/QVBHMFpvZmZ3ZTloWXZSWTVaNXgrM1J5OUY2bG14RGgyUEwwVjZjdWxLRjY.png",
           "url": "https://toss.im/_m/zAU7Jbin",
           "_ts": 1788952808.765316
-        },
-        {
-          "name": "농가살리기 딸기색 찹쌀떡, 60g, 30개입, 1박스",
-          "price": "13,900원",
-          "discount_rate": 55,
-          "priceAt": "09.09 19:28",
-          "image": "https://shopping.toss.im/live/taca/ai/MWQxOGNm/UGhuK01CWWI1eUlnTUpWNGNIRFM1T0R3QWc5YTl6OEhEd2NmVGdWTGZlQT0.png",
-          "url": "https://toss.im/_m/J6l1N19i",
-          "_ts": 1788949721.8308759
         }
       ]
     },
