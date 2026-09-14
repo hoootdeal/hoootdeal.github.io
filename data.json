@@ -861,6 +861,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "집밥앤 광천김, 4g, 32봉",
+          "price": "8,900원",
+          "discount_rate": 56,
+          "priceAt": "09.14 21:23",
+          "image": "https://shopping.toss.im/live/taca/ai/NmQ0ZjFj/QUp3ejBtV3RrTkdlYXg0MmVkTmt1aG04Wk51NXJWaHhwS3lRVE1SUXRLelc.png",
+          "url": "https://toss.im/_m/VYqA4hux",
+          "_ts": 1789388632.530611
+        },
+        {
           "name": "하이뮨 프로틴밸런스 액티브 다크초코, 330ml, 12개",
           "price": "19,900원",
           "discount_rate": 65,
