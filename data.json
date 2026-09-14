@@ -843,6 +843,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "맘스터치 시그니처 치킨텐더, 1kg, 2개",
+          "price": "19,900원",
+          "discount_rate": 20,
+          "priceAt": "09.14 18:50",
+          "image": "https://shopping.toss.im/live/taca/ai/ODdlMGY5/WnR6a3k4emJsWnJwa3pNZWJiT21NZWptS0dXa3pxR1RrUnpUWTNSWVljST0.png",
+          "url": "https://toss.im/_m/3dG91zF4",
+          "_ts": 1789379451.52617
+        },
+        {
           "name": "동국제약 덴트릭스 잇몸플러스 치약, 160g, 10개",
           "price": "32,900원",
           "discount_rate": 83,
