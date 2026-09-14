@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하이뮨 프로틴 밸런스 L, 608g, 1개",
+          "price": "24,840원",
+          "discount_rate": 28,
+          "priceAt": "09.14 09:10",
+          "image": "https://img5a.coupangcdn.com/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
+          "url": "https://link.coupang.com/a/g1GRLwY1Uy",
+          "_ts": 1789344608.080214
+        },
+        {
           "name": "HanilMedical 좌우분리난방 황토참숯 온돌마루 전기매트 온기로 SJ-2700, 특대형(183 x 270 cm)",
           "price": "103,680원",
           "discount_rate": 68,
@@ -807,60 +816,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/943976918757108-379f34b2-ab8d-426d-9172-13a692f83766.png",
           "url": "https://link.coupang.com/a/gTqJyAIsZo",
           "_ts": 1788914614.925753
-        },
-        {
-          "name": "따옴 빙그레 캐옴 고농축 토마토, 120ml, 24개",
-          "price": "8,490원",
-          "discount_rate": 29,
-          "priceAt": "09.09 08:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/07/28/16/3/c730f064-35ed-4e36-88e9-7d6f9cdc805e.png",
-          "url": "https://link.coupang.com/a/gTnknUclk4",
-          "_ts": 1788911755.133761
-        },
-        {
-          "name": "2080 퓨어치약 핑크마일드민트향, 150g, 6개",
-          "price": "5,850원",
-          "discount_rate": 28,
-          "priceAt": "09.09 08:51",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1842737200743764-732d396e-3133-4196-b15d-063b78dfbf57.jpg",
-          "url": "https://link.coupang.com/a/gTm2DlmaSO",
-          "_ts": 1788911514.93389
-        },
-        {
-          "name": "클룹 제로소다 오렌지 탄산음료, 250ml, 24개",
-          "price": "8,120원",
-          "discount_rate": 42,
-          "priceAt": "09.09 08:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1047634301456-ec4c8dd0-ac90-4d29-982a-4aa837eafe33.jpg",
-          "url": "https://link.coupang.com/a/gTmngbG872",
-          "_ts": 1788910954.851934
-        },
-        {
-          "name": "비로르 채칼 멀티 필러 야채 감자칼, 실버, 1개",
-          "price": "3,900원",
-          "discount_rate": 43,
-          "priceAt": "09.09 08:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/13/17/6/7663be50-1113-4b25-9cfa-a363721e592d.png",
-          "url": "https://link.coupang.com/a/gTltAM8rD2",
-          "_ts": 1788910199.680396
-        },
-        {
-          "name": "키드오 딸기 크래커 샌드위치, 90g, 5개",
-          "price": "4,750원",
-          "discount_rate": 52,
-          "priceAt": "09.09 08:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/69ad16af-62ce-4775-9664-9acd844533986092667871627830297.png",
-          "url": "https://link.coupang.com/a/gTklJbGhNc",
-          "_ts": 1788909254.018744
-        },
-        {
-          "name": "디에스도씨 여성용 통기성 면 3부 속바지 3p, FREE, 그레이",
-          "price": "6,540원",
-          "discount_rate": 70,
-          "priceAt": "09.09 08:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/8939632494750770-64cd4da5-41fa-4ae4-9f23-05d3e1cab380.jpg",
-          "url": "https://link.coupang.com/a/gTjNGPszAq",
-          "_ts": 1788908793.4696589
         }
       ]
     },
