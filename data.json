@@ -816,6 +816,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "가성비가브랜드다 뽑아쓰는 3겹 키친타올, 100매, 9팩",
+          "price": "8,900원",
+          "discount_rate": 55,
+          "priceAt": "09.14 14:53",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/ODI5NTc4/WTA3MXpNdHpabzA2Ymt4YVZqQlIyempNTngrR1VQSWdPSEJqaGNaaS9PYz0.png",
+          "url": "https://toss.im/_m/Dq1vP8nn",
+          "_ts": 1789365212.5913348
+        },
+        {
           "name": "외갓집 진심 육개장 진, 600g, 3개",
           "price": "10,990원",
           "discount_rate": 63,
