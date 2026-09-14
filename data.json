@@ -834,6 +834,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "동국제약 덴트릭스 잇몸플러스 치약, 160g, 10개",
+          "price": "32,900원",
+          "discount_rate": 83,
+          "priceAt": "09.14 17:26",
+          "image": "https://shopping.toss.im/live/temp/2026-07-24/85ac3f54-52ea-4eae-944e-48bd634fba77.png",
+          "url": "https://toss.im/_m/V68kQWXl",
+          "_ts": 1789374402.688844
+        },
+        {
           "name": "달콤쫀득 영동 상주 햇곶감, 500g, 3봉",
           "price": "23,900원",
           "discount_rate": 65,
