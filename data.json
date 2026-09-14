@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이니스프리 유채꿀 립밤, 초보습, 3.5g, 2개",
+          "price": "7,300원",
+          "discount_rate": 37,
+          "priceAt": "09.14 09:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1252132436498334-e861791b-12c0-4bca-be83-689a7c900c66.jpg",
+          "url": "https://link.coupang.com/a/g1KcdYmP7Y",
+          "_ts": 1789347405.676148
+        },
+        {
           "name": "하이뮨 프로틴 밸런스 L, 608g, 1개",
           "price": "24,840원",
           "discount_rate": 28,
@@ -807,15 +816,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/9a20bf54-3898-4602-8a67-52e4d863267912200077908151079812.png",
           "url": "https://link.coupang.com/a/gTtSKi56fQ",
           "_ts": 1788917258.402642
-        },
-        {
-          "name": "아이깨끗해 핸드워시 순 파우더향 리필용, 1.8L, 2개",
-          "price": "15,380원",
-          "discount_rate": 24,
-          "priceAt": "09.09 09:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/943976918757108-379f34b2-ab8d-426d-9172-13a692f83766.png",
-          "url": "https://link.coupang.com/a/gTqJyAIsZo",
-          "_ts": 1788914614.925753
         }
       ]
     },
