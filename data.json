@@ -825,6 +825,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아임닭 맛있는 닭가슴살 김치 볶음밥, 200g, 20개",
+          "price": "24,800원",
+          "discount_rate": 64,
+          "priceAt": "09.14 10:13",
+          "image": "https://shopping.toss.im/live/temp/2026-03-26/38cd653b-5602-471f-8306-a61ed4942d87.jpeg",
+          "url": "https://toss.im/_m/zQPcGMgw",
+          "_ts": 1789348386.060199
+        },
+        {
           "name": "냉동 흰다리새우살, 특대, 200g, 3개",
           "price": "12,800원",
           "discount_rate": 34,
