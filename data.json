@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러, 피오니, 591ml, 1개",
+          "price": "23,100원",
+          "discount_rate": 48,
+          "priceAt": "09.14 18:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/316763255177504-cb5da269-f6bc-49f9-b634-de94e6e07cbf.png",
+          "url": "https://link.coupang.com/a/g2lXRgqnw4",
+          "_ts": 1789379117.471583
+        },
+        {
           "name": "해태제과 오예스 미니, 192g, 4개, 192g × 4개",
           "price": "6,360원",
           "discount_rate": 36,
@@ -825,15 +834,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dbd6/a39142845521c093907e26b9952272cdd9d8485a54ec3fa9873f9fc8bfe5.png",
           "url": "https://link.coupang.com/a/gUaq1jwpgq",
           "_ts": 1788952985.478994
-        },
-        {
-          "name": "롯데웰푸드 티코 밀크초코 아이스크림 (냉동), 34ml, 15개입, 3개",
-          "price": "14,670원",
-          "discount_rate": 20,
-          "priceAt": "09.09 17:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1718206757538245-eb7f428c-8ec6-4348-be69-866710f81b68.jpg",
-          "url": "https://link.coupang.com/a/gTZ9V2GfxA",
-          "_ts": 1788944359.5678458
         }
       ]
     },
@@ -1309,15 +1309,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MWQxOGNm/UGhuK01CWWI1eUlnTUpWNGNIRFM1T0R3QWc5YTl6OEhEd2NmVGdWTGZlQT0.png",
           "url": "https://toss.im/_m/J6l1N19i",
           "_ts": 1788949721.8308759
-        },
-        {
-          "name": "웅진식품 애사비 오리지널, 500ml, 24개",
-          "price": "14,900원",
-          "discount_rate": 48,
-          "priceAt": "09.09 18:27",
-          "image": "https://shopping.toss.im/live/taca/ai/MjJhNmY0/QUpsanJKbTFZMjM3dm9kMmxFSDRtMk9TbkdscmRwUkphMzRVYkp4L0hiYVU.png",
-          "url": "https://toss.im/_m/9YsxSnDp",
-          "_ts": 1788946046.586588
         }
       ]
     },
