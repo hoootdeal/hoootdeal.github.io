@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 비타미니즈 망고, 140ml, 12개",
+          "price": "3,960원",
+          "discount_rate": 80,
+          "priceAt": "09.14 15:44",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/50428de4-eff3-4dda-864c-07ca5dccabfd1844988698604249919.png",
+          "url": "https://link.coupang.com/a/g182DGXOTI",
+          "_ts": 1789368268.934092
+        },
+        {
           "name": "나랑드사이다 제로 그린애플, 500ml, 48개",
           "price": "25,540원",
           "discount_rate": 31,
@@ -1282,15 +1291,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-08/f7c48fff-0d9a-4073-8793-c9fe21d2b987.jpeg",
           "url": "https://toss.im/_m/R7CGVEC5",
           "_ts": 1788938171.55003
-        },
-        {
-          "name": "대한민국농수산 구운란, 대란, 30구, 1판",
-          "price": "12,900원",
-          "discount_rate": 53,
-          "priceAt": "09.09 15:28",
-          "image": "https://shopping.toss.im/live/taca/ai/Njc4ZTE4/TThmOGMxc2NRK2RzZWE4T3hPYmRISnFXeVBtZFdYVkRhcS9xcnFkVU5IUT0.png",
-          "url": "https://toss.im/_m/PrJXFzH3",
-          "_ts": 1788935303.279259
         }
       ]
     },
