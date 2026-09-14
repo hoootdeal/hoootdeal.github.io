@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이클립스 페퍼민트향 캔디, 34g, 10개",
+          "price": "11,680원",
+          "discount_rate": 31,
+          "priceAt": "09.14 10:48",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/340320592512674-09f9e7cf-ea39-4d44-9c9a-f04174e183d8.jpg",
+          "url": "https://link.coupang.com/a/g1NRmkOrRY",
+          "_ts": 1789350482.78927
+        },
+        {
           "name": "이니스프리 유채꿀 립밤, 초보습, 3.5g, 2개",
           "price": "7,300원",
           "discount_rate": 37,
@@ -807,15 +816,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/317a/fc0ae57d55fcbc735e22a13d475337c911cb20313da88ce565acf99d2863.jpg",
           "url": "https://link.coupang.com/a/gTw1hcMfxk",
           "_ts": 1788919892.222503
-        },
-        {
-          "name": "리타 토마토 주스, 200ml, 48개",
-          "price": "15,010원",
-          "discount_rate": 67,
-          "priceAt": "09.09 10:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/9a20bf54-3898-4602-8a67-52e4d863267912200077908151079812.png",
-          "url": "https://link.coupang.com/a/gTtSKi56fQ",
-          "_ts": 1788917258.402642
         }
       ]
     },
@@ -1300,15 +1300,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/Y2E5ZWQ4/QUxURXdjY3o0ekpNMDVrOW5CN3puTXpHYk41eXc3SHllekRNYlpIdGdjMno.png",
           "url": "https://toss.im/_m/f8p1RWIu",
           "_ts": 1788919899.590774
-        },
-        {
-          "name": "애슐리 크리스피 핫도그, 소시지탱글, 80g, 10개 + 모짜탱글, 80g, 10개",
-          "price": "19,990원",
-          "discount_rate": 39,
-          "priceAt": "09.09 10:13",
-          "image": "https://shopping.toss.im/live/temp/2025-05-28/6f48a091-3860-456b-97e9-c8de04715557.jpeg",
-          "url": "https://toss.im/_m/Hn40q8Ga",
-          "_ts": 1788916437.498208
         }
       ]
     },
