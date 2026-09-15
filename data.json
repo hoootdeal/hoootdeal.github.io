@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "파미고 유기농 엑스트라버진 올리브오일, 500ml, 1개, 500ml × 1개",
+          "price": "11,880원",
+          "discount_rate": 31,
+          "priceAt": "09.15 19:22",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/09/19/14/4/c3081671-d3e1-41f6-98fb-c79de2aea88b.jpg",
+          "url": "https://link.coupang.com/a/g33veO3nlA",
+          "_ts": 1789467727.994853
+        },
+        {
           "name": "연세두유 뼈를 생각한 고칼슘 두유 검은콩, 190ml, 24개",
           "price": "8,920원",
           "discount_rate": 23,
@@ -1417,15 +1426,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-30/ade7ab0a-5ebe-489c-a02a-66196e0122ca.png",
           "url": "https://toss.im/_m/bYiJDbZ5",
           "_ts": 1789039284.734872
-        },
-        {
-          "name": "신발 세탁망, 그레이, 19x39cm, 2개",
-          "price": "6,900원",
-          "discount_rate": 32,
-          "priceAt": "09.10 19:21",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjZkMTZh/QUtWNnBVcWRZbFU1ZGVKdjhzdk9ucms1NWpCZFlCM0NEL3dHT2hnWGVLM2w.png",
-          "url": "https://toss.im/_m/5loz6wKa",
-          "_ts": 1789035707.34215
         }
       ]
     },
