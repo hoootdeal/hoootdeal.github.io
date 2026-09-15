@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쿠쿠 직수형 비데, CBT-C4031W, 고객직접설치",
+          "price": "90,000원",
+          "discount_rate": 30,
+          "priceAt": "09.16 07:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c7d5/8512b889484eb2352308a6cdd446e2df0bc74f19a9f039f7a0113968e4d5.jpg",
+          "url": "https://link.coupang.com/a/g4RZNJw028",
+          "_ts": 1789510123.941331
+        },
+        {
           "name": "브라미 면스판 여성 나시 3P, 화이트+블랙+그레이, S~M(44~55)",
           "price": "3,900원",
           "discount_rate": 72,
@@ -906,15 +915,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/07/07/15/6/023b0aa2-db03-4ee0-816a-bdcef060e14e.jpg",
           "url": "https://link.coupang.com/a/gWDLfbhiKW",
           "_ts": 1789081721.571121
-        },
-        {
-          "name": "테리파머 호텔 수건 200g 30수 면사, 스톤그레이, 10개, 스톤그레이 × 10개",
-          "price": "25,380원",
-          "discount_rate": 35,
-          "priceAt": "09.11 07:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b8cb/6ba127e0ebd810a7af315a80900e315ee53693ecc18812c25609036cf3ef.jpg",
-          "url": "https://link.coupang.com/a/gWyWDd9EXc",
-          "_ts": 1789077676.8259652
         }
       ]
     },
