@@ -879,6 +879,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "삼육김 광천 올리브 녹차김 도시락김, 4g, 16봉, 2개",
+          "price": "9,400원",
+          "discount_rate": 41,
+          "priceAt": "09.15 16:10",
+          "image": "https://shopping.toss.im/live/taca/ai/OTZhMDAx/QUxacmVTeXMyLzh6bXRCTk05K05sdGJKTkRiTVduVFMwbXR0S2xaaTFQMHA.png",
+          "url": "https://toss.im/_m/hVdbEx8v",
+          "_ts": 1789456255.634177
+        },
+        {
           "name": "추추 추어탕, 500g, 4개",
           "price": "12,771원",
           "discount_rate": 29,
