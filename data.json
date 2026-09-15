@@ -924,6 +924,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "별미촌 전라도 오이부추김치, 1kg, 1개",
+          "price": "9,900원",
+          "discount_rate": 41,
+          "priceAt": "09.15 19:46",
+          "image": "https://shopping.toss.im/live/taca/ai/OGNhYWRi/R0JnZzRWclByNXdpbXdEeW0yVjY4SlUxM0txaFdYUHdOV3JZZjZTYXlWaz0.png",
+          "url": "https://toss.im/_m/3sWcEpim",
+          "_ts": 1789469173.973023
+        },
+        {
           "name": "펩시콜라 제로슈거 라임향, 355ml, 48개",
           "price": "29,900원",
           "discount_rate": 39,
