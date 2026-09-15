@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "코카콜라 오리지널, 190ml, 30개",
+          "price": "13,270원",
+          "discount_rate": 16,
+          "priceAt": "09.16 08:34",
+          "image": "https://img4c.coupangcdn.com/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
+          "url": "https://link.coupang.com/a/g4X9nUSZFs",
+          "_ts": 1789515290.2609
+        },
+        {
           "name": "어몽어스 여아용 장목 양말 5족 세트, 혼합색상, 5호",
           "price": "3,300원",
           "discount_rate": 56,
@@ -915,24 +924,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/680940503730844-f8d6fc83-a616-42bb-aa8f-6f5ca415d121.jpg",
           "url": "https://link.coupang.com/a/gWGqYRIbFA",
           "_ts": 1789083965.4121091
-        },
-        {
-          "name": "글라스락 브레드이발소 스트로우캡 머그 360ml, 1개, 투명",
-          "price": "4,760원",
-          "discount_rate": 75,
-          "priceAt": "09.11 08:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/02/03/11/5/9719e804-10e5-41ab-b93a-e373427d8752.jpg",
-          "url": "https://link.coupang.com/a/gWFmdqiPZI",
-          "_ts": 1789083063.923914
-        },
-        {
-          "name": "일리온 C타입 USB-A 3.0 SD카드 MicroSD카드 OTG 멀티 카드리더기, 메탈, 1개, 단일상품",
-          "price": "5,640원",
-          "discount_rate": 28,
-          "priceAt": "09.11 08:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/07/07/15/6/023b0aa2-db03-4ee0-816a-bdcef060e14e.jpg",
-          "url": "https://link.coupang.com/a/gWDLfbhiKW",
-          "_ts": 1789081721.571121
         }
       ]
     },
