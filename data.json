@@ -825,24 +825,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/advertiser/1788420668333/d4ca3bed-b406-409c-a3c4-dda4b8076f55.png",
           "url": "https://link.coupang.com/a/gVcYdbVcrI",
           "_ts": 1789007168.813403
-        },
-        {
-          "name": "참스토리 도가니탕, 500g, 4개, 500g × 4개",
-          "price": "15,710원",
-          "discount_rate": 36,
-          "priceAt": "09.10 10:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1330/0de96db383857f8597182292bc8add66e8d0f2139c7950e147a505df086c.jpg",
-          "url": "https://link.coupang.com/a/gU8NFZwa4q",
-          "_ts": 1789003669.5776079
-        },
-        {
-          "name": "고래사어묵 어묵탕 한그릇 (냉동), 200g, 1개",
-          "price": "4,500원",
-          "discount_rate": 10,
-          "priceAt": "09.10 10:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/611413588396936-a09279e7-2ebd-43ff-b0c5-a68d708a41b5.jpg",
-          "url": "https://link.coupang.com/a/gU8MD8yDpk",
-          "_ts": 1789003655.3277838
         }
       ]
     },
@@ -851,6 +833,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "한울 정성가득 비빔밥용 나물세트, 125g, 10개",
+          "price": "28,900원",
+          "discount_rate": 35,
+          "priceAt": "09.15 11:18",
+          "image": "https://shopping.toss.im/live/taca/ai/NDhjNDZl/UnRqd2NwOXIwNE5wTmo3ZXBQYk5pUnJENDNabVdEdUo4YXl5bkY2RlRYQT0.png",
+          "url": "https://toss.im/_m/J2TOVeGj",
+          "_ts": 1789438692.296771
+        },
         {
           "name": "바른 돼지국밥, 500g, 5개",
           "price": "15,900원",
@@ -1309,24 +1300,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZWM2YTc4/YWVXV0laWWFhYzc4Zno5QjFQckovaXRsYmUvSjV6d2JOakRUNVRaeDAyVT0.png",
           "url": "https://toss.im/_m/D38hz5z9",
           "_ts": 1789010190.54169
-        },
-        {
-          "name": "크리넥스 데코&소프트 3겹, 33m, 24롤, 2팩",
-          "price": "35,900원",
-          "discount_rate": 36,
-          "priceAt": "09.10 10:24",
-          "image": "https://shopping.toss.im/live/temp/2025-10-10/b7fcdfca-5ce9-4ace-8f6c-264edf32db81.jpeg",
-          "url": "https://toss.im/_m/hHF8Far8",
-          "_ts": 1789003498.807538
-        },
-        {
-          "name": "동원 통그릴 비엔나, 1kg, 2봉",
-          "price": "17,900원",
-          "discount_rate": 48,
-          "priceAt": "09.10 10:00",
-          "image": "https://shopping.toss.im/live/taca/ai/NmJkMTQy/YzNTWXpvekxaemxuRzFyTXVuU041MlAwT3MyTUMvTVpOeStNNXVMMGN4az0.png",
-          "url": "https://toss.im/_m/5pdX5zzn",
-          "_ts": 1789002024.31311
         }
       ]
     },
