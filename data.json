@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "티오피 마스터 라떼 캔커피, 380ml, 24개",
+          "price": "22,890원",
+          "discount_rate": 22,
+          "priceAt": "09.15 12:19",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/894628220549354-9ab7a180-dcc7-4927-99e0-856d2b307933.jpg",
+          "url": "https://link.coupang.com/a/g3zhP2zgL7",
+          "_ts": 1789442360.0421062
+        },
+        {
           "name": "리큐 진한겔 하이브리드 플로랄향 일반용 액상세제 리필, 2.1L, 4개",
           "price": "11,520원",
           "discount_rate": 36,
@@ -1309,15 +1318,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MmQ2ZTQ4/WjhmeUQ5bWM1QWN5bkpJOERkdVptSE9rSTNoN1lVeTUzSm0zUnZzazNnYz0.png",
           "url": "https://toss.im/_m/dgwwuRWv",
           "_ts": 1789013280.033282
-        },
-        {
-          "name": "과일꾼 스테비아 레드 방울토마토, 500g, 4팩",
-          "price": "14,880원",
-          "discount_rate": 54,
-          "priceAt": "09.10 12:16",
-          "image": "https://shopping.toss.im/live/taca/ai/ZWM2YTc4/YWVXV0laWWFhYzc4Zno5QjFQckovaXRsYmUvSjV6d2JOakRUNVRaeDAyVT0.png",
-          "url": "https://toss.im/_m/D38hz5z9",
-          "_ts": 1789010190.54169
         }
       ]
     },
