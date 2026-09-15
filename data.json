@@ -906,15 +906,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b8cb/6ba127e0ebd810a7af315a80900e315ee53693ecc18812c25609036cf3ef.jpg",
           "url": "https://link.coupang.com/a/gWyWDd9EXc",
           "_ts": 1789077676.8259652
-        },
-        {
-          "name": "하림 치킨너겟 (냉동), 1.2kg, 2개",
-          "price": "18,080원",
-          "discount_rate": 32,
-          "priceAt": "09.10 21:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/424283706870531-9d941192-eb54-4577-8881-29749d9369ef.jpg",
-          "url": "https://link.coupang.com/a/gVScldiCoC",
-          "_ts": 1789041786.646656
         }
       ]
     },
@@ -923,6 +914,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "농심 신라면, 120g, 20개",
+          "price": "18,800원",
+          "discount_rate": 62,
+          "priceAt": "09.15 21:31",
+          "image": "https://shopping.toss.im/live/temp/2026-02-28/198e66dc-0a26-422b-b0dc-8047dd7f7af6.png",
+          "url": "https://toss.im/_m/x3kyHHDy",
+          "_ts": 1789475485.5630138
+        },
         {
           "name": "해성 완도 염장미역줄기, 4kg, 1개",
           "price": "7,890원",
