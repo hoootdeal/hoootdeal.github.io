@@ -825,15 +825,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4e56ffc5-2074-4028-b7af-4dc3eb7895242212519757066687345.png",
           "url": "https://link.coupang.com/a/gVPP82Wq0i",
           "_ts": 1789039807.212069
-        },
-        {
-          "name": "무선 청소기 4in1 다용도 핸디형, KH-288, 건그레이",
-          "price": "23,040원",
-          "discount_rate": 54,
-          "priceAt": "09.10 11:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/advertiser/1788420668333/d4ca3bed-b406-409c-a3c4-dda4b8076f55.png",
-          "url": "https://link.coupang.com/a/gVcYdbVcrI",
-          "_ts": 1789007168.813403
         }
       ]
     },
@@ -842,6 +833,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "터치 라이트 아토캡 고농축 캡슐세제, 8g, 120개입, 1개",
+          "price": "7,890원",
+          "discount_rate": 50,
+          "priceAt": "09.15 11:53",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MDVjMTIx/RWtYZzhmbERxT0hGaDdMVGZVYjh5emh6NGsyRmhzUEdRYytybXhZNEhqdz0.png",
+          "url": "https://toss.im/_m/PPxtyam7",
+          "_ts": 1789440806.162928
+        },
         {
           "name": "한울 정성가득 비빔밥용 나물세트, 125g, 10개",
           "price": "28,900원",
