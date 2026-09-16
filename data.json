@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크라운제과 참쌀 선과, 253g, 2개",
+          "price": "5,740원",
+          "discount_rate": 23,
+          "priceAt": "09.16 13:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/dfa2/9640da7513fa9cd0789933232510f33ec7d1a54aac1b94b9662a2231efc5.jpg",
+          "url": "https://link.coupang.com/a/g5inpjLB48",
+          "_ts": 1789532273.656839
+        },
+        {
           "name": "레모나 드링크, 100ml, 20개",
           "price": "6,760원",
           "discount_rate": 66,
