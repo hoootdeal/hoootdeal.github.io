@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "멘토스 미니 레인보우 츄잉캔디, 1kg, 1개",
+          "price": "7,310원",
+          "discount_rate": 28,
+          "priceAt": "09.16 19:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/b431/fb9a1865a9227e0df66b3384da6cca1adcafe81ee6dfcddf8ae7b278f112.jpg",
+          "url": "https://link.coupang.com/a/g5HzzKAlGe",
+          "_ts": 1789553428.5967412
+        },
+        {
           "name": "자바펜 나노3겔&C 다색펜 0.4mm 4p, 오렌지 + 라임 +..., 1세트, 오렌지 + 라임 + 민트 + 라벤더",
           "price": "2,240원",
           "discount_rate": 72,
@@ -861,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2019/05/13/16/4/b3b7f060-0e2c-4721-9cf0-1567fb162222.jpg",
           "url": "https://link.coupang.com/a/gXpf9fMTHo",
           "_ts": 1789121601.447849
-        },
-        {
-          "name": "클린생활 바닥청소 스프레이 밀대걸레 물걸레+극세사패드 6개, 1개",
-          "price": "6,900원",
-          "discount_rate": 57,
-          "priceAt": "09.11 18:51",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7690/8faf2cd3cece13d90727a1e176db57754105121cf07f732e157746381ebd.png",
-          "url": "https://link.coupang.com/a/gXnH4tdW3w",
-          "_ts": 1789120300.8304949
         }
       ]
     },
