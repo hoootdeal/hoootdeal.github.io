@@ -870,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7690/8faf2cd3cece13d90727a1e176db57754105121cf07f732e157746381ebd.png",
           "url": "https://link.coupang.com/a/gXnH4tdW3w",
           "_ts": 1789120300.8304949
-        },
-        {
-          "name": "자가비 과자 오사쯔맛, 45g, 6개",
-          "price": "6,910원",
-          "discount_rate": 30,
-          "priceAt": "09.11 18:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/38eda31b-af1b-4137-a373-34e86eb882f413890643351482359408.png",
-          "url": "https://link.coupang.com/a/gXly1hSWfA",
-          "_ts": 1789118499.7314181
         }
       ]
     },
@@ -887,6 +878,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "롯데칠성음료 펩시 제로슈거 라임, 업소용, 245ml, 30개",
+          "price": "9,990원",
+          "discount_rate": 44,
+          "priceAt": "09.16 18:26",
+          "image": "https://shopping.toss.im/live/taca/ai/YTI5M2Zm/QU9LVVlwd3p2NzlCdld1TVk5enZudUZXcTFFcnN4Q3JuS3ZVUUw2dlZKOWg.png",
+          "url": "https://toss.im/_m/fNZBizIa",
+          "_ts": 1789550813.178308
+        },
         {
           "name": "프로코 실내건조 7종효소 라벤더 세탁세제, 2.5L, 4개",
           "price": "8,900원",
