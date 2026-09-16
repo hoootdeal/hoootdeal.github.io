@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "뉴발란스 베이직 로고 파일 중목 양말 4켤레, 네이비, S(230~255mm)",
+          "price": "12,290원",
+          "discount_rate": 20,
+          "priceAt": "09.16 14:31",
+          "image": "https://image12.coupangcdn.com/image/retail/images/82039800731796-a2456dd6-7e93-48b7-a7ed-290c0aa75f2a.jpg",
+          "url": "https://link.coupang.com/a/g5nBu4Vx1g",
+          "_ts": 1789536661.8007748
+        },
+        {
           "name": "삼성전자 Galaxy Z Fold8 자급제 SM-F971N, 크림, 256GB",
           "price": "2,073,070원",
           "discount_rate": 9,
@@ -897,15 +906,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1012/8ebe90f12d44febde7b979213b6c364ae773c76d5c39fb01c1985a7677d8.png",
           "url": "https://link.coupang.com/a/gW9bIDxzem",
           "_ts": 1789108108.4415958
-        },
-        {
-          "name": "웅진빅토리아 탄산수 캔 플레인, 350ml, 24개",
-          "price": "8,600원",
-          "discount_rate": 25,
-          "priceAt": "09.11 14:24",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fa34/88de39bd5467c75ad66356e21b73f734405e3af2d587fbcf14445642a801.jpg",
-          "url": "https://link.coupang.com/a/gW4BtNzQY0",
-          "_ts": 1789104258.801627
         }
       ]
     },
@@ -1435,15 +1435,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/M2EzZjI0/QUxsTS8yR3BEdi9OemFiLzNmYnMyOXZ3L1B5K0h6SDNzMi9SZjMycjBQZms.png",
           "url": "https://toss.im/_m/J08VlNFD",
           "_ts": 1789105602.455785
-        },
-        {
-          "name": "고향식품 김치 콩비지 찌개, 500g, 10개",
-          "price": "28,900원",
-          "discount_rate": 58,
-          "priceAt": "09.11 14:22",
-          "image": "https://shopping.toss.im/live/taca/ai/YTE4ODdl/QU9QTmVtbmp5N0lwZzRsN3pRYkg2MmtYbVpXc1BnM2lwYW9QR3FWVk90Vlc.png",
-          "url": "https://toss.im/_m/vOfBPDY4",
-          "_ts": 1789104140.3898602
         }
       ]
     },
