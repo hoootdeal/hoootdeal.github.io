@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오리온 촉촉한황치즈칩 16p, 320g, 2개",
+          "price": "10,480원",
+          "discount_rate": null,
+          "priceAt": "09.16 09:25",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6c8e7314-f64c-452d-9f5e-22270d41c0aa116225590910195472.png",
+          "url": "https://link.coupang.com/a/g41L4O4Wlw",
+          "_ts": 1789518335.4588852
+        },
+        {
           "name": "코카콜라 오리지널, 190ml, 30개",
           "price": "13,270원",
           "discount_rate": 16,
@@ -906,24 +915,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/26/13/1/491b5040-68bd-4ba1-9c37-17fb5e44822b.jpg",
           "url": "https://link.coupang.com/a/gWOLD59P6i",
           "_ts": 1789090962.057645
-        },
-        {
-          "name": "하인즈 홀 필드 토마토, 400g, 2개, 400g × 2개",
-          "price": "2,850원",
-          "discount_rate": 50,
-          "priceAt": "09.11 09:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2f0a028d-0b25-4aaa-a793-0a27a268a1d69200179650947669576.png",
-          "url": "https://link.coupang.com/a/gWIeZvPR4C",
-          "_ts": 1789085483.619918
-        },
-        {
-          "name": "백산수 무라벨, 2L, 12개",
-          "price": "9,400원",
-          "discount_rate": 20,
-          "priceAt": "09.11 08:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/680940503730844-f8d6fc83-a616-42bb-aa8f-6f5ca415d121.jpg",
-          "url": "https://link.coupang.com/a/gWGqYRIbFA",
-          "_ts": 1789083965.4121091
         }
       ]
     },
