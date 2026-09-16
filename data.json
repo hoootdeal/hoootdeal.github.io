@@ -870,6 +870,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "득근파티 스팀 통 닭가슴살, 6종 혼합, 100g, 30팩",
+          "price": "35,900원",
+          "discount_rate": 32,
+          "priceAt": "09.16 20:03",
+          "image": "https://shopping.toss.im/live/temp/2026-09-09/5f274c5e-a217-49d0-a682-7ceeb9d0c62e.jpeg",
+          "url": "https://toss.im/_m/7p78PUS6",
+          "_ts": 1789556629.050525
+        },
+        {
           "name": "한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 2개",
           "price": "15,880원",
           "discount_rate": 53,
@@ -1381,15 +1390,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-18/a460b0f2-9377-4264-bfb7-16c45b58b903.png",
           "url": "https://toss.im/_m/NZ6qP2Cp",
           "_ts": 1789128828.680994
-        },
-        {
-          "name": "아우라 훈제 초벌 막창, 300g, 3팩",
-          "price": "19,900원",
-          "discount_rate": 56,
-          "priceAt": "09.11 19:47",
-          "image": "https://shopping.toss.im/live/taca/ai/ODBkYzQ3/UTVXV0c0ZUZ4bmlZMEtYSVpkTW1xN2ZaUnZ4am1NYjVwTlRXazhxYU5SRT0.png",
-          "url": "https://toss.im/_m/1pTX71My",
-          "_ts": 1789123640.0578518
         }
       ]
     },
