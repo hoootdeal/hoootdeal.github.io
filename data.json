@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "핏쉴드 땀흡수 헤어밴드, 4개, 블랙, FREE",
+          "price": "5,500원",
+          "discount_rate": 82,
+          "priceAt": "09.16 18:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f210/e8d6960f8b8ff44e774d496fe7d9de7b0d7f97e07d6a53bb679c882f3cd9.png",
+          "url": "https://link.coupang.com/a/g5CKmyvBrE",
+          "_ts": 1789549377.687503
+        },
+        {
           "name": "시치미 쓱 데일리 물티슈 캡형, 50g, 100개입, 10개",
           "price": "4,900원",
           "discount_rate": 58,
@@ -870,15 +879,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/13/17/5/e30de582-c170-4b95-8184-ad853ab9eff5.png",
           "url": "https://link.coupang.com/a/gXllXaw3tA",
           "_ts": 1789118323.049078
-        },
-        {
-          "name": "애슐리 피자바이트 스윗포테이토 (냉동), 54g, 3개, 6개입",
-          "price": "19,250원",
-          "discount_rate": 51,
-          "priceAt": "09.11 18:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5982c69a-f082-4fb4-a600-724ce5fd71db5992442961004845290.png",
-          "url": "https://link.coupang.com/a/gXkbLgkAXk",
-          "_ts": 1789117345.254855
         }
       ]
     },
@@ -1399,15 +1399,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/N2NlY2I0/QVBTem02VHkyLzJrUzkzVHRqOU5CSmY4UEJyVzBIMS9XZ1B6L21qL0F2Z0I.png",
           "url": "https://toss.im/_m/ZoBYqomn",
           "_ts": 1789121569.181412
-        },
-        {
-          "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
-          "price": "6,720원",
-          "discount_rate": 75,
-          "priceAt": "09.11 18:02",
-          "image": "https://shopping.toss.im/live/temp/2026-07-03/6b083d0c-c74f-467a-9ec8-a46fe748c635.png",
-          "url": "https://toss.im/_m/PMmtWFLt",
-          "_ts": 1789117363.75248
         }
       ]
     },
