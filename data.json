@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "삼성전자 Galaxy Z Fold8 자급제 SM-F971N, 크림, 256GB",
+          "price": "2,073,070원",
+          "discount_rate": 9,
+          "priceAt": "09.16 13:22",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4861142705485-439f97e4-04d1-48dd-9be4-c90253323634.jpg",
+          "url": "https://link.coupang.com/a/g5iIDI5IrI",
+          "_ts": 1789532561.884532
+        },
+        {
           "name": "크라운제과 참쌀 선과, 253g, 2개",
           "price": "5,740원",
           "discount_rate": 23,
