@@ -906,15 +906,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5b3d/71ba50227b00fe560f2160f08ce92226e59ed7885c31d630cf3c418e5dd3.png",
           "url": "https://link.coupang.com/a/gXac06etrw",
           "_ts": 1789108965.7471738
-        },
-        {
-          "name": "헤넬 더 블루밍 무실리콘 단백질 트리트먼트 손상모 헤어팩, 1개, 200ml",
-          "price": "3,900원",
-          "discount_rate": 85,
-          "priceAt": "09.11 15:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1012/8ebe90f12d44febde7b979213b6c364ae773c76d5c39fb01c1985a7677d8.png",
-          "url": "https://link.coupang.com/a/gW9bIDxzem",
-          "_ts": 1789108108.4415958
         }
       ]
     },
@@ -923,6 +914,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "햇반 윤기가득쌀밥, 210g, 36개",
+          "price": "35,000원",
+          "discount_rate": 31,
+          "priceAt": "09.16 15:28",
+          "image": "https://shopping.toss.im/live/taca/ai/MmQ2ZTQ4/WjhmeUQ5bWM1QWN5bkpJOERkdVptSE9rSTNoN1lVeTUzSm0zUnZzazNnYz0.png",
+          "url": "https://toss.im/_m/dgwwuRWv",
+          "_ts": 1789540110.563725
+        },
         {
           "name": "지오클린 레몬 주방세제, 4L, 2개",
           "price": "9,900원",
