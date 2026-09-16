@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쉬즈홈 마리앤 피치스킨 차렵이불 세트",
+          "price": "21,650원",
+          "discount_rate": 67,
+          "priceAt": "09.17 07:51",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1261586181827950-dc3538d7-db0c-4b79-8546-5e87729f3148.jpg",
+          "url": "https://link.coupang.com/a/g6zXIdS2KG",
+          "_ts": 1789599095.161249
+        },
+        {
           "name": "하림 치킨너겟 2 (냉동), 1kg, 2개, 1kg × 2개",
           "price": "13,690원",
           "discount_rate": 31,
@@ -825,51 +834,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/117940981533540-8444e8f3-fd03-4637-aa37-210a8062d5bd.jpeg",
           "url": "https://link.coupang.com/a/gYk1DXV19U",
           "_ts": 1789170103.089698
-        },
-        {
-          "name": "깨끗한나라 아껴쓰는 천연펄프 키친타올, 140매, 8개",
-          "price": "4,350원",
-          "discount_rate": 31,
-          "priceAt": "09.12 07:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/128725592798850-d7c9dded-a243-4965-9ae4-c31540633ea5.jpg",
-          "url": "https://link.coupang.com/a/gYfiRDQPxQ",
-          "_ts": 1789165297.9751658
-        },
-        {
-          "name": "리큐 모락셀라 악취케어 실내건조 캡슐세제, 40개입, 11g, 1개",
-          "price": "7,950원",
-          "discount_rate": 64,
-          "priceAt": "09.12 07:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/107461647269741-950de33a-06c9-46e8-8433-452f44a1eae0.png",
-          "url": "https://link.coupang.com/a/gYeSxa0Kd2",
-          "_ts": 1789164941.600224
-        },
-        {
-          "name": "유니레버 썬 식기세척기용 타블렛 세제 베이킹소다 앤 소금 50개입, 500g, 2개, 500g × 2개",
-          "price": "12,500원",
-          "discount_rate": 40,
-          "priceAt": "09.12 07:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/415626065407355-d0563bdf-b7fe-4df5-a5ba-0669ac0d5378.png",
-          "url": "https://link.coupang.com/a/gYeC5RdHuS",
-          "_ts": 1789164733.261801
-        },
-        {
-          "name": "해태제과 버터링 딥황치즈, 1개, 155g",
-          "price": "4,200원",
-          "discount_rate": 22,
-          "priceAt": "09.12 07:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/12/11/8/9cf08e07-e666-469e-aa00-983f701d356d.jpg",
-          "url": "https://link.coupang.com/a/gYelak4D9M",
-          "_ts": 1789164490.431382
-        },
-        {
-          "name": "제주삼다수 무라벨, 1L, 45개",
-          "price": "25,510원",
-          "discount_rate": 30,
-          "priceAt": "09.12 07:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/66a48f91-3018-4899-8c7f-47888df7bbe65553589435051258631.png",
-          "url": "https://link.coupang.com/a/gYdZj1C8Jg",
-          "_ts": 1789164193.9637709
         }
       ]
     },
