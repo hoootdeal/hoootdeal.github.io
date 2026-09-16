@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "신라면 건면 97g, 20개",
+          "price": "13,600원",
+          "discount_rate": 24,
+          "priceAt": "09.16 19:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dbeb/f458dd1e3c47841abdbe25ecd60b045f3224d9226d2645e74776d1668118.jpg",
+          "url": "https://link.coupang.com/a/g5IiE7Qla0",
+          "_ts": 1789554039.913016
+        },
+        {
           "name": "멘토스 미니 레인보우 츄잉캔디, 1kg, 1개",
           "price": "7,310원",
           "discount_rate": 28,
@@ -861,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/da725a53-5a42-4e23-bbf5-ef8b2aa633602158277263568154485.png",
           "url": "https://link.coupang.com/a/gXqJZaRHwG",
           "_ts": 1789122849.7290041
-        },
-        {
-          "name": "데니그리스 사과식초 허니크랜베리, 500ml, 1개",
-          "price": "5,980원",
-          "discount_rate": 67,
-          "priceAt": "09.11 19:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2019/05/13/16/4/b3b7f060-0e2c-4721-9cf0-1567fb162222.jpg",
-          "url": "https://link.coupang.com/a/gXpf9fMTHo",
-          "_ts": 1789121601.447849
         }
       ]
     },
@@ -1390,15 +1390,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ODBkYzQ3/UTVXV0c0ZUZ4bmlZMEtYSVpkTW1xN2ZaUnZ4am1NYjVwTlRXazhxYU5SRT0.png",
           "url": "https://toss.im/_m/1pTX71My",
           "_ts": 1789123640.0578518
-        },
-        {
-          "name": "사리원 닭곰탕, 600g, 4팩",
-          "price": "14,900원",
-          "discount_rate": 62,
-          "priceAt": "09.11 19:12",
-          "image": "https://shopping.toss.im/live/taca/ai/N2NlY2I0/QVBTem02VHkyLzJrUzkzVHRqOU5CSmY4UEJyVzBIMS9XZ1B6L21qL0F2Z0I.png",
-          "url": "https://toss.im/_m/ZoBYqomn",
-          "_ts": 1789121569.181412
         }
       ]
     },
