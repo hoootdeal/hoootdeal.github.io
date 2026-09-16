@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "락토핏 골드 80포, 160g, 2개",
+          "price": "29,670원",
+          "discount_rate": 15,
+          "priceAt": "09.16 10:39",
+          "image": "https://img2c.coupangcdn.com/image/retail/images/108592638728467-74fa9f25-7d4b-4956-9523-4a5af40e7f8f.jpg",
+          "url": "https://link.coupang.com/a/g462wihjhI",
+          "_ts": 1789522755.265768
+        },
+        {
           "name": "오리온 촉촉한황치즈칩 16p, 320g, 2개",
           "price": "10,480원",
           "discount_rate": null,
@@ -1444,15 +1453,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-23/055ff865-d00c-483d-8621-71cf4028d910.jpeg",
           "url": "https://toss.im/_m/Z35QHPu3",
           "_ts": 1789095183.373821
-        },
-        {
-          "name": "보양옥 곤드레나물밥, 250g, 10개",
-          "price": "21,400원",
-          "discount_rate": 57,
-          "priceAt": "09.11 10:33",
-          "image": "https://shopping.toss.im/live/taca/ai/MzI2NTVi/ZlM1bnRieml1Mk1zODZXU3NZdkdkdFBQaXRNQVRtOVp2K0xXQ1BDTmt5RT0.png",
-          "url": "https://toss.im/_m/5U03d6w4",
-          "_ts": 1789090400.132556
         }
       ]
     },
