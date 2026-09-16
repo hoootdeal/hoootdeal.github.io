@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "자바펜 나노3겔&C 다색펜 0.4mm 4p, 오렌지 + 라임 +..., 1세트, 오렌지 + 라임 + 민트 + 라벤더",
+          "price": "2,240원",
+          "discount_rate": 72,
+          "priceAt": "09.16 18:21",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3f48/d11de8ee3af2363096aa5378138f07ac08749bbe62339cea3376aecb506b.jpg",
+          "url": "https://link.coupang.com/a/g5D2HyAlbg",
+          "_ts": 1789550465.259341
+        },
+        {
           "name": "핏쉴드 땀흡수 헤어밴드, 4개, 블랙, FREE",
           "price": "5,500원",
           "discount_rate": 82,
@@ -870,15 +879,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/38eda31b-af1b-4137-a373-34e86eb882f413890643351482359408.png",
           "url": "https://link.coupang.com/a/gXly1hSWfA",
           "_ts": 1789118499.7314181
-        },
-        {
-          "name": "스탠리 에브리데이 서버번 머그, 소프트 오키드, 473ml, 1개",
-          "price": "21,800원",
-          "discount_rate": 43,
-          "priceAt": "09.11 18:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/13/17/5/e30de582-c170-4b95-8184-ad853ab9eff5.png",
-          "url": "https://link.coupang.com/a/gXllXaw3tA",
-          "_ts": 1789118323.049078
         }
       ]
     },
