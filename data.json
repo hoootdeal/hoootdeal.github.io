@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "센카 퍼펙트 휩 프레시 클렌징 폼, 100g, 3개",
+          "price": "15,400원",
+          "discount_rate": 16,
+          "priceAt": "09.16 16:17",
+          "image": "https://img3c.coupangcdn.com/image/retail/images/649404505332720-51a60066-9e61-43ac-b120-a1f24ba094c9.jpg",
+          "url": "https://link.coupang.com/a/g5venvvIqq",
+          "_ts": 1789543067.039978
+        },
+        {
           "name": "오리온초코파이 정, 468g, 2개",
           "price": "6,100원",
           "discount_rate": 24,
@@ -888,24 +897,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3327093067472765-3c380dd8-be05-4b3f-91b2-3fc64ad352a4.jpg",
           "url": "https://link.coupang.com/a/gXhVVKEn6q",
           "_ts": 1789115450.650879
-        },
-        {
-          "name": "루아러블 갤럭시 핏3 실리콘 스포츠 밴드 스트랩",
-          "price": "1,320원",
-          "discount_rate": 78,
-          "priceAt": "09.11 15:45",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/eraqecwb/0b72f149416447de8982463d7a4508f0.jpg",
-          "url": "https://link.coupang.com/a/gXapZWYZZk",
-          "_ts": 1789109141.143801
-        },
-        {
-          "name": "[단하루] 당도검증 정품 황도/백도 프리미엄 로얄과 4kg, 1개, 황도/백도 랜덤 4kg",
-          "price": "20,000원",
-          "discount_rate": 50,
-          "priceAt": "09.11 15:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5b3d/71ba50227b00fe560f2160f08ce92226e59ed7885c31d630cf3c418e5dd3.png",
-          "url": "https://link.coupang.com/a/gXac06etrw",
-          "_ts": 1789108965.7471738
         }
       ]
     },
@@ -1426,24 +1417,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-16/f61bac3a-a61e-4875-b2ba-ce596ba487e9.jpeg",
           "url": "https://toss.im/_m/nSHo2hlm",
           "_ts": 1789115786.748217
-        },
-        {
-          "name": "성경식품 재래 전장김, 30g, 10개",
-          "price": "15,500원",
-          "discount_rate": 35,
-          "priceAt": "09.11 16:05",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjhjMWU0/QUpPVTlIYnNMa3RMTnRHSmVrN1J0N1pybEJQYnUyRm5ucHJCV3pmTGtOeGs.png",
-          "url": "https://toss.im/_m/x4hhFL2h",
-          "_ts": 1789110322.480723
-        },
-        {
-          "name": "바리스타룰스 원데이 무라벨, 아메리카노, 350ml, 20개",
-          "price": "10,900원",
-          "discount_rate": 78,
-          "priceAt": "09.11 15:35",
-          "image": "https://shopping.toss.im/live/temp/2025-06-23/63c350e7-bdb7-484c-a4f5-ba1697cd9fb5.jpeg",
-          "url": "https://toss.im/_m/pKdAErYo",
-          "_ts": 1789108516.061667
         }
       ]
     },
