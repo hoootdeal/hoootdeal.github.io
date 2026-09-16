@@ -915,6 +915,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "교동 소고기 미역국, 500g, 5개",
+          "price": "14,200원",
+          "discount_rate": 48,
+          "priceAt": "09.16 14:05",
+          "image": "https://shopping.toss.im/live/temp/2026-09-10/3c1be388-b167-46ca-a268-0321e362b07e.jpeg",
+          "url": "https://toss.im/_m/PEmw1FH8",
+          "_ts": 1789535121.9852002
+        },
+        {
           "name": "산과들에 원데이 발란스 그린라벨, 20g, 30봉",
           "price": "7,630원",
           "discount_rate": 52,
