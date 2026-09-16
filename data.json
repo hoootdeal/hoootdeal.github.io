@@ -924,6 +924,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "애슐리 볶음밥, 갈릭스테이크 230g 2봉 + 케이준 230g 2봉 + 통새우 230g 2봉, 6봉",
+          "price": "10,990원",
+          "discount_rate": 47,
+          "priceAt": "09.16 09:56",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MmFhYzdh/QUkvUWJsYTRxY3NXNU56dDRhZ3Q1UjVHTm5xRzJoZGwvSnBvOE1QZnZ4dG8.png",
+          "url": "https://toss.im/_m/lX9g0xTj",
+          "_ts": 1789520214.25037
+        },
+        {
           "name": "농심 신라면, 120g, 20개",
           "price": "18,800원",
           "discount_rate": 62,
