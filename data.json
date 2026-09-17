@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청정원 행복 7호 세트",
+          "price": "17,980원",
+          "discount_rate": 39,
+          "priceAt": "09.17 09:21",
+          "image": "https://static.coupangcdn.com/image/retail/images/348797447480285-6b5f6b4b-3d97-4b2d-89c7-9f12f2810876.jpg",
+          "url": "https://link.coupang.com/a/g6GmvzjsTQ",
+          "_ts": 1789604468.108012
+        },
+        {
           "name": "오리온 미쯔 황치즈 6p, 222g, 1개",
           "price": "3,360원",
           "discount_rate": 24,
@@ -852,15 +861,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/59504bcf-96cf-4151-b550-fc1fd820e3314292081261543805013.png",
           "url": "https://link.coupang.com/a/gYoCUR66Pk",
           "_ts": 1789173127.644182
-        },
-        {
-          "name": "틈새라면 빨계떡 120g, 10개",
-          "price": "7,630원",
-          "discount_rate": 20,
-          "priceAt": "09.12 08:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/117940981533540-8444e8f3-fd03-4637-aa37-210a8062d5bd.jpeg",
-          "url": "https://link.coupang.com/a/gYk1DXV19U",
-          "_ts": 1789170103.089698
         }
       ]
     },
