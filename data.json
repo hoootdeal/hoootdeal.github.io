@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "사조참치 살코기 안심따개, 150g, 24개",
+          "price": "35,700원",
+          "discount_rate": 21,
+          "priceAt": "09.17 22:05",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/415145421659532-6268a7a6-ef0e-4713-98f4-48036ae131af.jpg",
+          "url": "https://link.coupang.com/a/g7yYr3eEua",
+          "_ts": 1789650327.365184
+        },
+        {
           "name": "페브리즈 화장실용 강력 플러스 비치형 프레쉬 스카이향 탈취제 본품 3p",
           "price": "10,870원",
           "discount_rate": 38,
@@ -1417,15 +1426,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/ZGI4ZWU2/TE5ScEMwdHJ6bk41eEVjNVd0UzQxaU9VdE5PMWxMZWNPUFJyY2twbVhLdz0.png",
           "url": "https://toss.im/_m/NEwjeKOD",
           "_ts": 1789261500.462738
-        },
-        {
-          "name": "일양약품 굿모닝 간건강 밀크씨슬, 800mg, 30정, 2박스",
-          "price": "8,445원",
-          "discount_rate": 91,
-          "priceAt": "09.12 21:57",
-          "image": "https://shopping.toss.im/live/taca/ai/ZWRlOGU5/QU45c1phZG01T05qRzJZNWsyWU13ekdqcENXNWpteVpzMlRNWmROYWNkcE0.png",
-          "url": "https://toss.im/_m/PLyJolWe",
-          "_ts": 1789217820.419942
         }
       ]
     },
