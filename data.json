@@ -861,6 +861,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "뷰카 오브제 듀얼 초미세 탄력모 칫솔, 18개입, 1개",
+          "price": "9,900원",
+          "discount_rate": 58,
+          "priceAt": "09.17 11:21",
+          "image": "https://shopping.toss.im/live/taca/ai/YTMxYTJl/QUxPODg2dnc0WGpEdVBUM01jZTBYd3NlSGo0K292VFI2OHBUL3dHRjVBRDA.png",
+          "url": "https://toss.im/_m/HLALUbbg",
+          "_ts": 1789611692.0866828
+        },
+        {
           "name": "지도표성경김 재래 식탁김, 4g, 24봉",
           "price": "9,000원",
           "discount_rate": 54,
@@ -1363,15 +1372,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/Y2M5ODkw/QVBHTWRuemkyY3NQenVCck0rb1ovRDZHUlkvejk5eWVEM1g2L3ZpTkF2bmc.png",
           "url": "https://toss.im/_m/zEMjMari",
           "_ts": 1789183759.756159
-        },
-        {
-          "name": "ACRO 스마트 디지털 체중계, ibody-100, 화이트, 1개",
-          "price": "13,900원",
-          "discount_rate": 60,
-          "priceAt": "09.12 11:11",
-          "image": "https://shopping.toss.im/live/taca/ai/NDE5NTlk/SE53WHhQclVlTFFMRlBIVXVWeVB4RGdjK0R4bm1XZWI4am53T1kvRG5PYz0.png",
-          "url": "https://toss.im/_m/fv2BoqnD",
-          "_ts": 1789179101.219845
         }
       ]
     },
