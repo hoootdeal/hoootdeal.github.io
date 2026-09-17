@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "디유 비비드 2중 진공 원터치 보온병, 핑크 + 카키, 350ml, 1세트",
+          "price": "8,880원",
+          "discount_rate": 69,
+          "priceAt": "09.18 08:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1212417057569140-56b4f6c7-a4c6-4be5-9856-140e49ffec1c.jpg",
+          "url": "https://link.coupang.com/a/g8guJy7fR6",
+          "_ts": 1789686863.285992
+        },
+        {
           "name": "오뚜기 진라면 약간매운맛 120g, 20개",
           "price": "9,900원",
           "discount_rate": 31,
@@ -951,15 +960,6 @@
           "image": "https://static.coupangcdn.com/image/retail/images/8bef07a1-3ed5-4b3b-b007-431edf8727bc3580962705101219622.png",
           "url": "https://link.coupang.com/a/gZ2hp30QWi",
           "_ts": 1789258477.7744188
-        },
-        {
-          "name": "파워에이드 마운틴블라스트, 340ml, 24개",
-          "price": "10,440원",
-          "discount_rate": 51,
-          "priceAt": "09.13 08:11",
-          "image": "https://img3c.coupangcdn.com/image/retail/images/87003838066451-5a6dc3db-4b87-4a14-90c7-d6fba01a6be9.jpg",
-          "url": "https://link.coupang.com/a/gZXKM289WS",
-          "_ts": 1789254677.100393
         }
       ]
     },
