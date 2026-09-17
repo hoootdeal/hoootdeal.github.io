@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하이뮨 프로틴 밸런스 액티브 식물성 단백질 음료",
+          "price": "22,610원",
+          "discount_rate": 25,
+          "priceAt": "09.17 19:59",
+          "image": "https://img5c.coupangcdn.com/image/retail/images/86509264762290-55c19421-ff97-46a6-9e50-c388b1d1babb.jpg",
+          "url": "https://link.coupang.com/a/g7pX4WP58C",
+          "_ts": 1789642760.885392
+        },
+        {
           "name": "가쯔 벌레 퇴치 휴대용 스마트 전기모기채 2p, 21 x 50.6 cm, 그린",
           "price": "3,510원",
           "discount_rate": 56,
@@ -897,15 +906,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5643227456802085-d31ebc62-edfd-4a98-a973-6a3b5ef32edf.jpg",
           "url": "https://link.coupang.com/a/gZjl1tNreS",
           "_ts": 1789220757.238889
-        },
-        {
-          "name": "신라면 로제 큰사발면 108g, 16개",
-          "price": "11,240원",
-          "discount_rate": 32,
-          "priceAt": "09.12 19:51",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/39370374752525-053d489f-d702-482f-ad6d-46b5d0689261.jpg",
-          "url": "https://link.coupang.com/a/gY6Tbdj66e",
-          "_ts": 1789210289.7794392
         }
       ]
     },
@@ -1399,15 +1399,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZWRhMGRj/QUtiZExQT2VTZGJZMnpiTEhIbW1uZVpteTJaajh6bVl1VGg1Y2trWlpFMm0.png",
           "url": "https://toss.im/_m/7kSlNYZk",
           "_ts": 1789214911.3548002
-        },
-        {
-          "name": "원김치 쪽파김치, 가정용, 2kg, 1개",
-          "price": "9,900원",
-          "discount_rate": 33,
-          "priceAt": "09.12 19:11",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MDkxZDUx/QU52Z21LSFI4ZUg3QkoxLzhPZGVRMTF5ZEJvNkdnTnJSZTNWSjhpRGZ0VWk.png",
-          "url": "https://toss.im/_m/bHi6PwVp",
-          "_ts": 1789207907.3590121
         }
       ]
     },
