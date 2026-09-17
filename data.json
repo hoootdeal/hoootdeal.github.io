@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쏘픽 일회용 마스크 대형, 블랙, 2개, 50매입",
+          "price": "4,670원",
+          "discount_rate": 37,
+          "priceAt": "09.17 16:33",
+          "image": "https://image10.coupangcdn.com/image/retail/images/272996331344959-fa142b65-1a8b-4e2d-bdcf-903b0184dee5.jpg",
+          "url": "https://link.coupang.com/a/g7beZmWt7k",
+          "_ts": 1789630394.411245
+        },
+        {
           "name": "스너글 딥클린 캡슐 세탁세제 허거블 코튼 클린 앤 케어, 27개입, 1개, 27개입 × 1개",
           "price": "8,750원",
           "discount_rate": 34,
@@ -888,15 +897,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3214/37f1ed515d8408389fa5e359ecc3db93ad20100a32441c49acb9bb06efd3.png",
           "url": "https://link.coupang.com/a/gYZdCKcEV2",
           "_ts": 1789203850.1245692
-        },
-        {
-          "name": "바겐슈타이거 블랙 마블 도마, 1세트, 소 + 중 + 대",
-          "price": "15,620원",
-          "discount_rate": 75,
-          "priceAt": "09.12 15:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/94519049264378-210878d9-3c16-46d2-9310-7caf82f5272f.jpg",
-          "url": "https://link.coupang.com/a/gYP9na1zHM",
-          "_ts": 1789196236.5773299
         }
       ]
     },
