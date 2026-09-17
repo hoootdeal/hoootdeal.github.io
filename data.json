@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "발룬피니 내열강화유리 김치통 밀폐용기, 2.6L, 1개",
+          "price": "7,980원",
+          "discount_rate": 29,
+          "priceAt": "09.17 14:02",
+          "image": "https://img2c.coupangcdn.com/image/retail/images/2026/01/22/11/3/9747285c-4d48-48f3-b8ef-cb827d9fd240.jpg",
+          "url": "https://link.coupang.com/a/g60sSImQcC",
+          "_ts": 1789621347.921792
+        },
+        {
           "name": "오뚜기 렌지에 돌려먹는 고등어구이 (냉동), 70g, 10개",
           "price": "33,800원",
           "discount_rate": 22,
@@ -1390,15 +1399,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-03-12/392fc0d2-3fe0-4321-9806-1576fa92b7bd.jpeg",
           "url": "https://toss.im/_m/JbvgELJu",
           "_ts": 1789192032.2326772
-        },
-        {
-          "name": "제주 삼다수, 라벨 랜덤, 2L, 12병",
-          "price": "11,800원",
-          "discount_rate": 30,
-          "priceAt": "09.12 13:51",
-          "image": "https://shopping.toss.im/live/temp/2026-07-23/986f1161-88cc-437e-91e2-f389fbb30351.jpeg",
-          "url": "https://toss.im/_m/RHfz6Q1g",
-          "_ts": 1789188688.9652202
         }
       ]
     },
