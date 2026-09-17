@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "가쯔 벌레 퇴치 휴대용 스마트 전기모기채 2p, 21 x 50.6 cm, 그린",
+          "price": "3,510원",
+          "discount_rate": 56,
+          "priceAt": "09.17 18:51",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/17864152102650-aad4b5f2-73fa-4032-9f6c-3583e092ae7b.jpg",
+          "url": "https://link.coupang.com/a/g7k6OYET0e",
+          "_ts": 1789638681.238505
+        },
+        {
           "name": "네오체어 위너 메쉬 사무용 의자, 베이지, 62 x 55 x 88 cm",
           "price": "38,900원",
           "discount_rate": 15,
@@ -897,15 +906,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/39370374752525-053d489f-d702-482f-ad6d-46b5d0689261.jpg",
           "url": "https://link.coupang.com/a/gY6Tbdj66e",
           "_ts": 1789210289.7794392
-        },
-        {
-          "name": "무식이네 고압 수압상승 3단 조절 필터 샤워기 헤드 + 리필 필터 16p 세트, 다크그레이, 1세트",
-          "price": "3,900원",
-          "discount_rate": 56,
-          "priceAt": "09.12 18:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3214/37f1ed515d8408389fa5e359ecc3db93ad20100a32441c49acb9bb06efd3.png",
-          "url": "https://link.coupang.com/a/gYZdCKcEV2",
-          "_ts": 1789203850.1245692
         }
       ]
     },
@@ -1408,24 +1408,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/MDkxZDUx/QU52Z21LSFI4ZUg3QkoxLzhPZGVRMTF5ZEJvNkdnTnJSZTNWSjhpRGZ0VWk.png",
           "url": "https://toss.im/_m/bHi6PwVp",
           "_ts": 1789207907.3590121
-        },
-        {
-          "name": "오즈랜드 오트 초코칩쿠키, 480g, 1개",
-          "price": "7,600원",
-          "discount_rate": 55,
-          "priceAt": "09.12 18:49",
-          "image": "https://shopping.toss.im/live/taca/ai/OGZkM2Iw/S3huT3hpbkV4NXZTMWxOYVpMUHJqdFR3b1U2dkVHeVJaeFIxS3RNSW5LVT0.png",
-          "url": "https://toss.im/_m/hJm1Z1H9",
-          "_ts": 1789206554.9042401
-        },
-        {
-          "name": "횡재미가 저당 파로 담은 7곡 혼합잡곡, 2kg, 1개",
-          "price": "10,910원",
-          "discount_rate": 54,
-          "priceAt": "09.12 17:43",
-          "image": "https://shopping.toss.im/live/temp/2026-06-19/0cba90fe-9497-451c-a538-b2e4cbf161b0.png",
-          "url": "https://toss.im/_m/59CZTVJ9",
-          "_ts": 1789202611.500799
         }
       ]
     },
