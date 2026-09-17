@@ -933,6 +933,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에이스 퍼플리 세탁세제, 라벤더, 2.5L, 4개",
+          "price": "8,300원",
+          "discount_rate": 56,
+          "priceAt": "09.17 21:45",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/NzY5MTkz/ZmpUNEpGaTBFUE5TZGdHVGNkTDd5dXAwTTVhcjFBQldSVUMxaXhXTG5EUT0.png",
+          "url": "https://toss.im/_m/3iGjMbAi",
+          "_ts": 1789649130.929017
+        },
+        {
           "name": "훈제 점보 통 닭다리, 250g, 10팩",
           "price": "26,900원",
           "discount_rate": 32,
