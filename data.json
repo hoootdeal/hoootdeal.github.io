@@ -852,15 +852,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/a1c1b301-aabe-46a2-9eb2-5f8e99f689313528027260052355079.png",
           "url": "https://link.coupang.com/a/gYIIwn3hHo",
           "_ts": 1789189995.548407
-        },
-        {
-          "name": "코주부 프리미엄 육포 + 쇼핑백 선물세트, 250g, 1세트",
-          "price": "26,990원",
-          "discount_rate": 32,
-          "priceAt": "09.12 11:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3a81/45c4c867e7a7bf74421cf6dd83f4b40a605adccf27b5e5719e676f3da0a7.jpg",
-          "url": "https://link.coupang.com/a/gYyj0ON9ae",
-          "_ts": 1789181267.1819232
         }
       ]
     },
@@ -869,6 +860,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "맛장군 열무김치, 2kg, 1팩",
+          "price": "10,900원",
+          "discount_rate": 69,
+          "priceAt": "09.17 12:00",
+          "image": "https://shopping.toss.im/live/temp/2026-04-21/af86d4da-e1ab-4491-b61f-c32e0c5c1f69.jpeg",
+          "url": "https://toss.im/_m/JHR2htoh",
+          "_ts": 1789614054.261924
+        },
         {
           "name": "뷰카 오브제 듀얼 초미세 탄력모 칫솔, 18개입, 1개",
           "price": "9,900원",
