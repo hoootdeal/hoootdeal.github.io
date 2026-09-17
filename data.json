@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데햄 롯데비엔나 소시지, 1kg, 2개",
+          "price": "12,310원",
+          "discount_rate": 22,
+          "priceAt": "09.17 15:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1845005791427809-5a063503-ff48-4bf3-9fe9-67b1586937d2.jpg",
+          "url": "https://link.coupang.com/a/g65DBp0pPM",
+          "_ts": 1789625690.7437341
+        },
+        {
           "name": "발룬피니 내열강화유리 김치통 밀폐용기, 2.6L, 1개",
           "price": "7,980원",
           "discount_rate": 29,
@@ -870,15 +879,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/94519049264378-210878d9-3c16-46d2-9310-7caf82f5272f.jpg",
           "url": "https://link.coupang.com/a/gYP9na1zHM",
           "_ts": 1789196236.5773299
-        },
-        {
-          "name": "더미식 육즙새우교자 (냉동), 315g, 8개",
-          "price": "15,360원",
-          "discount_rate": 53,
-          "priceAt": "09.12 14:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/a1c1b301-aabe-46a2-9eb2-5f8e99f689313528027260052355079.png",
-          "url": "https://link.coupang.com/a/gYIIwn3hHo",
-          "_ts": 1789189995.548407
         }
       ]
     },
@@ -1381,24 +1381,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-19/0cba90fe-9497-451c-a538-b2e4cbf161b0.png",
           "url": "https://toss.im/_m/59CZTVJ9",
           "_ts": 1789202611.500799
-        },
-        {
-          "name": "바람골 황태미역국, 650g, 6개",
-          "price": "9,900원",
-          "discount_rate": 58,
-          "priceAt": "09.12 15:07",
-          "image": "https://shopping.toss.im/live/temp/2026-05-20/ef855d44-ffa1-4398-8074-3761182cf43a.jpeg",
-          "url": "https://toss.im/_m/r1twOkR4",
-          "_ts": 1789193228.601473
-        },
-        {
-          "name": "엔코스 트리플 이펙트 올인원 로션, 120ml, 1개",
-          "price": "10,600원",
-          "discount_rate": 69,
-          "priceAt": "09.12 14:47",
-          "image": "https://shopping.toss.im/live/temp/2026-03-12/392fc0d2-3fe0-4321-9806-1576fa92b7bd.jpeg",
-          "url": "https://toss.im/_m/JbvgELJu",
-          "_ts": 1789192032.2326772
         }
       ]
     },
