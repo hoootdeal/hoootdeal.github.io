@@ -978,6 +978,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "순삭 떡볶이, 보통맛, 200g, 5팩",
+          "price": "8,500원",
+          "discount_rate": 59,
+          "priceAt": "09.18 11:27",
+          "image": "https://shopping.toss.im/live/taca/ai/ZmFhZDlk/V1hQR1p1eGpHUTJWNTRNZGx0ZmhMWEtiQkxtb2JTVDF4ZW5Ua0g2bEZ2bz0.png",
+          "url": "https://toss.im/_m/pVYD985q",
+          "_ts": 1789698473.3101592
+        },
+        {
           "name": "에이스 퍼플리 세탁세제, 라벤더, 2.5L, 4개",
           "price": "8,300원",
           "discount_rate": 56,
