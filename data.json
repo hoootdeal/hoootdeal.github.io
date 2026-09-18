@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "마다꾸미 요술 매직 파티 막대풍선 100p, 펄믹스, 1개",
+          "price": "6,490원",
+          "discount_rate": 45,
+          "priceAt": "09.18 12:55",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/09/10/15/9/9c859229-b915-4c4e-9605-b26e0dc5152f.jpg",
+          "url": "https://link.coupang.com/a/g8AzYnuzM4",
+          "_ts": 1789703725.9750059
+        },
+        {
           "name": "옵티프리 익스프레스 렌즈세정액, 470ml, 3개",
           "price": "15,640원",
           "discount_rate": 21,
@@ -960,15 +969,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/10/16/18/4/ff6fbba4-b3c6-4d89-bdfc-25b97db5fe4b.jpg",
           "url": "https://link.coupang.com/a/g0jmvZWBLo",
           "_ts": 1789272819.043954
-        },
-        {
-          "name": "코카콜라 제로제로, 190ml, 30개",
-          "price": "12,590원",
-          "discount_rate": 42,
-          "priceAt": "09.13 12:44",
-          "image": "https://static.coupangcdn.com/image/retail/images/76227677833552-feae0a48-4e94-4932-9f8a-612194c626e8.jpg",
-          "url": "https://link.coupang.com/a/g0hg66dMiW",
-          "_ts": 1789271066.781047
         }
       ]
     },
@@ -1453,15 +1453,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NjQ0NWQy/TXo5ek1DTXlibmFGYzhSU2hDS3NCa3psbjV0NTNEK0M1WDB5OHRRODZNST0.png",
           "url": "https://toss.im/_m/RjMh8hRu",
           "_ts": 1789278374.072315
-        },
-        {
-          "name": "반할만떡 당면만두, 420g, 4개",
-          "price": "11,900원",
-          "discount_rate": 30,
-          "priceAt": "09.13 12:20",
-          "image": "https://shopping.toss.im/live/taca/ai/MzI1Yjk1/SjVxekV1RVNOell5Wk1XNjVadVhFOVNTVmxwelp0SENSS2xqcERnN2Z4Yz0.png",
-          "url": "https://toss.im/_m/JxTO3G1g",
-          "_ts": 1789269645.371243
         }
       ]
     },
