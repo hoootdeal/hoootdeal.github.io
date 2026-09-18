@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오레오 웨하스 스틱 초코, 510g, 1개",
+          "price": "10,390원",
+          "discount_rate": 18,
+          "priceAt": "09.19 07:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/983889761555206-bc10601f-3b3e-4879-9ae0-d8c5214104a6.jpg",
+          "url": "https://link.coupang.com/a/g9QydZ0EQS",
+          "_ts": 1789769192.223608
+        },
+        {
           "name": "롯데웰푸드 쌀로별 고소한맛, 78g, 10개",
           "price": "7,800원",
           "discount_rate": 34,
