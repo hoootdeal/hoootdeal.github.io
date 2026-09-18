@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "알텐바흐 인덕션 헥사 통5중 스텐 프라이팬, 22cm, 1개",
+          "price": "30,010원",
+          "discount_rate": 22,
+          "priceAt": "09.18 17:25",
+          "image": "https://image3.coupangcdn.com/image/1025_amir_coupang_oct_80k/7be5/8b6eee1da3a3375199bfda97eb139d177d505c806e1ea1d1414cc7fe2d5b.jpg",
+          "url": "https://link.coupang.com/a/g8TUzyZo96",
+          "_ts": 1789719957.7739022
+        },
+        {
           "name": "르샤트라1802 올인원 퍼퓸 캡슐세제 피오니, 30개입, 1개",
           "price": "7,700원",
           "discount_rate": 31,
@@ -951,15 +960,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/62cb77fe-9ba3-4311-a64c-4e3cac62c5d913776102724482393880.png",
           "url": "https://link.coupang.com/a/g0Cqa2Ma5c",
           "_ts": 1789288819.444693
-        },
-        {
-          "name": "AHC 바이탈 골든 콜라겐 크림, 50g, 1개",
-          "price": "7,400원",
-          "discount_rate": 21,
-          "priceAt": "09.13 17:15",
-          "image": "https://image5.coupangcdn.com/image/1025_amir_coupang_oct_80k/ad85/69bfa0d8e3edb64451168ca0bc5f0604766aa807b0ed140e92254712502a.jpg",
-          "url": "https://link.coupang.com/a/g0AEV8rn5M",
-          "_ts": 1789287341.710204
         }
       ]
     },
