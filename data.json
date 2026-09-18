@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "고릴라랩 2배 더 빵빵해진 이염방지 뚱시트, 200매, 1개",
+          "price": "12,240원",
+          "discount_rate": 25,
+          "priceAt": "09.18 15:26",
+          "image": "https://image1.coupangcdn.com/image/retail/images/6872475470442-bcaaa998-13bc-45ea-8d69-6c0a906b2a2d.jpg",
+          "url": "https://link.coupang.com/a/g8LlPbDjVY",
+          "_ts": 1789712770.883273
+        },
+        {
           "name": "백설 오리엔탈 드레싱, 595g, 2개",
           "price": "6,880원",
           "discount_rate": 45,
@@ -951,15 +960,6 @@
           "image": "https://image12.coupangcdn.com/image/retail/images/2025/06/03/9/1/9b9abc04-98ae-4f3a-867a-7030c24d5ac1.png",
           "url": "https://link.coupang.com/a/g0vZSHYjxk",
           "_ts": 1789283427.183706
-        },
-        {
-          "name": "베이블퓨어리 트라이크 유모차 T2, 블랙",
-          "price": "34,270원",
-          "discount_rate": 40,
-          "priceAt": "09.13 15:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/58734222294237-d64edf4b-a6d1-4658-8e70-7641b17434f4.jpg",
-          "url": "https://link.coupang.com/a/g0rldpOC5Y",
-          "_ts": 1789279519.162051
         }
       ]
     },
