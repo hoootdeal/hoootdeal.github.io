@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청우 쫀득 초코칩 커피, 200g, 2개",
+          "price": "6,320원",
+          "discount_rate": 43,
+          "priceAt": "09.18 19:41",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/8a90/dd64a2a456cf72e3db5ddb9f29c8f0e9831fa6fd1862812ea3f0fb64bd94.jpg",
+          "url": "https://link.coupang.com/a/g83BMCnBpA",
+          "_ts": 1789728099.008099
+        },
+        {
           "name": "라비킷 낙상방지 침대가드",
           "price": "63,120원",
           "discount_rate": 19,
@@ -933,15 +942,6 @@
           "image": "https://image14.coupangcdn.com/image/retail/images/111055149307548-9b716a78-fe02-43ba-b8f8-91df40f176be.jpg",
           "url": "https://link.coupang.com/a/g0ODq6sH6G",
           "_ts": 1789299076.239748
-        },
-        {
-          "name": "셰프초이스 케이프라이드 동그랑땡(냉장), 1kg, 1개, 1kg × 1개",
-          "price": "8,940원",
-          "discount_rate": 34,
-          "priceAt": "09.13 19:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1860455587084475-171bd368-708e-4c54-a5b4-9237f20d392e.jpg",
-          "url": "https://link.coupang.com/a/g0JHM5LyYC",
-          "_ts": 1789294938.335117
         }
       ]
     },
@@ -1453,15 +1453,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YjM4MDY0/ZW15MThmWGpjczZ0SGNTSG53d2UvaDYwK0lmNzNIaG5ZVkFOZVZWK291QT0.png",
           "url": "https://toss.im/_m/LRmDYdV4",
           "_ts": 1789298027.820139
-        },
-        {
-          "name": "호정가 옛날도나스, 960g, 16개입 1박스",
-          "price": "8,900원",
-          "discount_rate": 44,
-          "priceAt": "09.13 19:41",
-          "image": "https://shopping.toss.im/live/taca/ai/NWU3MDU2/UHBTbmFldHRybnkwbkcyd1dUejE1R081RXNXdXRGckhZa0hWWHI2QlZWST0.png",
-          "url": "https://toss.im/_m/1VtdXxNu",
-          "_ts": 1789296094.562866
         }
       ]
     },
