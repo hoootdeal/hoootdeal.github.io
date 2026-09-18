@@ -933,33 +933,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1860455587084475-171bd368-708e-4c54-a5b4-9237f20d392e.jpg",
           "url": "https://link.coupang.com/a/g0JHM5LyYC",
           "_ts": 1789294938.335117
-        },
-        {
-          "name": "라꽁비에뜨 AOP 버터, 150g, 2개, 150g × 2개",
-          "price": "18,620원",
-          "discount_rate": 40,
-          "priceAt": "09.13 17:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/63716124994729-f4c72fd7-5b22-48ac-a2e2-854daab7be48.jpg",
-          "url": "https://link.coupang.com/a/g0DaKGMjeu",
-          "_ts": 1789289451.146077
-        },
-        {
-          "name": "간 건강 밀크씨슬 캡슐 해독과 배독 효과 간 기능 개선 간 건강을 지키는 자연 유래 성분 자연 성분, 120회분, 1개",
-          "price": "11,900원",
-          "discount_rate": 50,
-          "priceAt": "09.13 17:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5f74/885ed0285d7d06d648e05308a780539f0eac263092a67ad5b35987eac706.jpg",
-          "url": "https://link.coupang.com/a/g0CIzh0mxo",
-          "_ts": 1789289068.64222
-        },
-        {
-          "name": "아트위드미 화이트 빅 마쉬멜로우 3 x 1.5 cm, 1kg, 5개",
-          "price": "5,220원",
-          "discount_rate": 92,
-          "priceAt": "09.13 17:40",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/62cb77fe-9ba3-4311-a64c-4e3cac62c5d913776102724482393880.png",
-          "url": "https://link.coupang.com/a/g0Cqa2Ma5c",
-          "_ts": 1789288819.444693
         }
       ]
     },
@@ -968,6 +941,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "동원샘물 생수, 라벨랜덤, 2L, 6개",
+          "price": "3,480원",
+          "discount_rate": 42,
+          "priceAt": "09.18 18:03",
+          "image": "https://shopping.toss.im/live/taca/ai/ZGY3NDk5/SEtXT016T2NlTVRqWE5jcm5ITmlsRXFyT05SempOVTdxMVJTcjV4d3JGQT0.png",
+          "url": "https://toss.im/_m/9If0HUxC",
+          "_ts": 1789722211.233425
+        },
         {
           "name": "자동 변기세정제 맥스, 320g, 4개",
           "price": "6,990원",
