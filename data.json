@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "누크 퍼스트초이스 러너 야광 스파우트컵",
+          "price": "13,100원",
+          "discount_rate": 26,
+          "priceAt": "09.18 11:02",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fc59/bbe90b1667fd08ecb25e34a2a0c87acc117abefe754e113d0bc44ac5a838.jpg",
+          "url": "https://link.coupang.com/a/g8swMNLN7s",
+          "_ts": 1789696966.648016
+        },
+        {
           "name": "청정원 행복 8호 선물세트",
           "price": "22,660원",
           "discount_rate": 28,
@@ -951,15 +960,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/37cb053b-9af5-44e6-822b-e3f6fc27245f_fixing_v2.png",
           "url": "https://link.coupang.com/a/g0cCZuOP0K",
           "_ts": 1789267165.416131
-        },
-        {
-          "name": "편안한42 예쁜 여성 여름바지 시원한 와이드팬츠 냉장고바지, 라이트그레이, M",
-          "price": "3,900원",
-          "discount_rate": 77,
-          "priceAt": "09.13 11:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/eab9/0ebbe1c843876c8223fcbf3ddc84a671e920d4180f075382cec66522d856.jpg",
-          "url": "https://link.coupang.com/a/gZ9SRDcNZQ",
-          "_ts": 1789264860.861193
         }
       ]
     },
