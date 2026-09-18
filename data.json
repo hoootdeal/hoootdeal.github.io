@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크라운 츄러스 초코 츄러스, 150g, 2개, 150g × 2개",
+          "price": "2,670원",
+          "discount_rate": 55,
+          "priceAt": "09.19 08:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/bdae2706-7684-4463-a5cb-f32f0a7bb1a36442967186101321666.png",
+          "url": "https://link.coupang.com/a/g9VDXGjMPI",
+          "_ts": 1789773467.572018
+        },
+        {
           "name": "김정문알로에 큐어 인텐시브 2X 크림, 50g, 2개",
           "price": "11,560원",
           "discount_rate": 33,
@@ -933,33 +942,6 @@
           "image": "https://img5a.coupangcdn.com/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
           "url": "https://link.coupang.com/a/g1GRLwY1Uy",
           "_ts": 1789344608.080214
-        },
-        {
-          "name": "HanilMedical 좌우분리난방 황토참숯 온돌마루 전기매트 온기로 SJ-2700, 특대형(183 x 270 cm)",
-          "price": "103,680원",
-          "discount_rate": 68,
-          "priceAt": "09.14 07:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/192172990025163-e48f8278-d976-4521-9d71-65257045644f.jpg",
-          "url": "https://link.coupang.com/a/g1z1NlHA6e",
-          "_ts": 1789338868.435596
-        },
-        {
-          "name": "더미식 김치교자 (냉동), 1.05kg, 1개",
-          "price": "8,590원",
-          "discount_rate": 20,
-          "priceAt": "09.14 07:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/0yljqghq/6622cfc21c184f83ab37ddc7ef9186ee.jpg",
-          "url": "https://link.coupang.com/a/g1zGfLS07w",
-          "_ts": 1789338576.5822332
-        },
-        {
-          "name": "올바르고 반듯한 감자 모짜 찰핫도그 6개입 (냉동), 540g, 3개",
-          "price": "16,420원",
-          "discount_rate": 35,
-          "priceAt": "09.14 07:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6ca2cc64-83db-40ab-a165-7a7fc4e37f564914861519495637803.png",
-          "url": "https://link.coupang.com/a/g1zDrMl7f2",
-          "_ts": 1789338538.800666
         }
       ]
     },
