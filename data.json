@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청정원 행복 8호 선물세트",
+          "price": "22,660원",
+          "discount_rate": 28,
+          "priceAt": "09.18 10:33",
+          "image": "https://static.coupangcdn.com/image/retail/images/523893603426202-5405bc7b-40e2-402d-9fbd-ddcc3f43d75a.jpg",
+          "url": "https://link.coupang.com/a/g8qrgRRbm8",
+          "_ts": 1789695211.473525
+        },
+        {
           "name": "글라스락 퍼플에디션 정사각 도어포켓 밀폐용기, 920ml, 2개",
           "price": "10,980원",
           "discount_rate": 47,
@@ -951,15 +960,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/eab9/0ebbe1c843876c8223fcbf3ddc84a671e920d4180f075382cec66522d856.jpg",
           "url": "https://link.coupang.com/a/gZ9SRDcNZQ",
           "_ts": 1789264860.861193
-        },
-        {
-          "name": "완전두유 검은콩 17곡 고칼슘, 190ml, 60개",
-          "price": "18,800원",
-          "discount_rate": 51,
-          "priceAt": "09.13 10:20",
-          "image": "https://image5.coupangcdn.com/image/retail/images/317162269483160-4890680e-57f9-4445-a75e-aedb4ca9e4c9.jpg",
-          "url": "https://link.coupang.com/a/gZ6Zx3Uwhw",
-          "_ts": 1789262432.597527
         }
       ]
     },
@@ -1444,15 +1444,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-09-11/48787df6-2666-4e32-8bc9-c74ead3bf294.png",
           "url": "https://toss.im/_m/fzpBXHcw",
           "_ts": 1789267965.411485
-        },
-        {
-          "name": "광천김 파래 도시락김 카카오프렌즈, 4g, 27봉",
-          "price": "9,900원",
-          "discount_rate": 44,
-          "priceAt": "09.13 10:05",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/ZGI4ZWU2/TE5ScEMwdHJ6bk41eEVjNVd0UzQxaU9VdE5PMWxMZWNPUFJyY2twbVhLdz0.png",
-          "url": "https://toss.im/_m/NEwjeKOD",
-          "_ts": 1789261500.462738
         }
       ]
     },
