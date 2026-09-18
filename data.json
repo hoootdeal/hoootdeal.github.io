@@ -960,15 +960,6 @@
           "image": "https://static.coupangcdn.com/image/retail/images/76227677833552-feae0a48-4e94-4932-9f8a-612194c626e8.jpg",
           "url": "https://link.coupang.com/a/g0hg66dMiW",
           "_ts": 1789271066.781047
-        },
-        {
-          "name": "헬리코박터 프로젝트 윌 미니, 15개, 80ml",
-          "price": "9,120원",
-          "discount_rate": 26,
-          "priceAt": "09.13 11:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/37cb053b-9af5-44e6-822b-e3f6fc27245f_fixing_v2.png",
-          "url": "https://link.coupang.com/a/g0cCZuOP0K",
-          "_ts": 1789267165.416131
         }
       ]
     },
@@ -977,6 +968,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "뷰카 클래식 고불소 구취 케어 치약, 아쿠아 민트향, 110g, 4개",
+          "price": "9,900원",
+          "discount_rate": 52,
+          "priceAt": "09.18 11:59",
+          "image": "https://shopping.toss.im/live/taca/ai/ZGI5Nzhl/QU5KVDJuVFB3N2JrV25KcmROclVVelBMUkVwU21hU1dXMnAwV3RUYVVhV3I.png",
+          "url": "https://toss.im/_m/TZQosn7A",
+          "_ts": 1789700372.866772
+        },
         {
           "name": "순삭 떡볶이, 보통맛, 200g, 5팩",
           "price": "8,500원",
@@ -1453,15 +1453,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MzI1Yjk1/SjVxekV1RVNOell5Wk1XNjVadVhFOVNTVmxwelp0SENSS2xqcERnN2Z4Yz0.png",
           "url": "https://toss.im/_m/JxTO3G1g",
           "_ts": 1789269645.371243
-        },
-        {
-          "name": "앙쥬 24K 골드 스킨케어 8종세트, 쇼핑백 증정, 1세트",
-          "price": "35,900원",
-          "discount_rate": 94,
-          "priceAt": "09.13 11:52",
-          "image": "https://shopping.toss.im/live/temp/2026-09-11/48787df6-2666-4e32-8bc9-c74ead3bf294.png",
-          "url": "https://toss.im/_m/fzpBXHcw",
-          "_ts": 1789267965.411485
         }
       ]
     },
