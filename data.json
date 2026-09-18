@@ -969,6 +969,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "코피코 커피맛 캔디 블리스터 팩, 32g, 12개입, 1박스",
+          "price": "9,490원",
+          "discount_rate": 20,
+          "priceAt": "09.18 16:20",
+          "image": "https://shopping.toss.im/live/temp/2025-10-31/31101a23-b7a0-4a96-8c04-0a4f7a0c6352.jpeg",
+          "url": "https://toss.im/_m/XfThTScb",
+          "_ts": 1789716035.3191738
+        },
+        {
           "name": "수뜰리에 소프트 섬유유연제 비누향, 2.5L, 4개",
           "price": "8,390원",
           "discount_rate": 78,
