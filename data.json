@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "코카콜라 오리지널",
+          "price": "11,520원",
+          "discount_rate": 34,
+          "priceAt": "09.18 11:17",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/33597756644270-a896be4b-096d-4ab8-94c7-8d5adf8f1762.jpg",
+          "url": "https://link.coupang.com/a/g8tzt5mPlI",
+          "_ts": 1789697841.772351
+        },
+        {
           "name": "누크 퍼스트초이스 러너 야광 스파우트컵",
           "price": "13,100원",
           "discount_rate": 26,
