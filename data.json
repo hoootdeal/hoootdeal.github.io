@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "글라스락 퍼플에디션 정사각 도어포켓 밀폐용기, 920ml, 2개",
+          "price": "10,980원",
+          "discount_rate": 47,
+          "priceAt": "09.18 09:25",
+          "image": "https://image1.coupangcdn.com/image/retail/images/103484849112517-65dab56a-a289-4807-9aef-f983a412b883.jpg",
+          "url": "https://link.coupang.com/a/g8lBXNW7iu",
+          "_ts": 1789691158.141344
+        },
+        {
           "name": "디유 비비드 2중 진공 원터치 보온병, 핑크 + 카키, 350ml, 1세트",
           "price": "8,880원",
           "discount_rate": 69,
@@ -951,15 +960,6 @@
           "image": "https://image5.coupangcdn.com/image/retail/images/317162269483160-4890680e-57f9-4445-a75e-aedb4ca9e4c9.jpg",
           "url": "https://link.coupang.com/a/gZ6Zx3Uwhw",
           "_ts": 1789262432.597527
-        },
-        {
-          "name": "에이지투웨니스 멜라 디펜스 기미 노세범 선스틱 SPF50+ PA++++, 20g, 2개",
-          "price": "10,600원",
-          "discount_rate": 80,
-          "priceAt": "09.13 09:14",
-          "image": "https://static.coupangcdn.com/image/retail/images/8bef07a1-3ed5-4b3b-b007-431edf8727bc3580962705101219622.png",
-          "url": "https://link.coupang.com/a/gZ2hp30QWi",
-          "_ts": 1789258477.7744188
         }
       ]
     },
