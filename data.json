@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "백설 오리엔탈 드레싱, 595g, 2개",
+          "price": "6,880원",
+          "discount_rate": 45,
+          "priceAt": "09.18 14:18",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c6b97896-85fe-4f6a-b1bd-141f5bb1902e382625218941333039.png",
+          "url": "https://link.coupang.com/a/g8Gu1HZNkG",
+          "_ts": 1789708696.1102238
+        },
+        {
           "name": "크리오 퍼펙션 이중미세모 칫솔, 10개입, 3세트",
           "price": "7,660원",
           "discount_rate": 26,
@@ -960,15 +969,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/549679278324159-73012c5c-dcd4-4346-8645-24224b53548a.jpg",
           "url": "https://link.coupang.com/a/g0ozswzfY4",
           "_ts": 1789277192.234185
-        },
-        {
-          "name": "환타 제로 파인애플 탄산음료, 350ml, 24개",
-          "price": "11,990원",
-          "discount_rate": 15,
-          "priceAt": "09.13 14:16",
-          "image": "https://img1c.coupangcdn.com/image/retail/images/482266311580231-3e48047e-9beb-413c-b8aa-50f348bd3cbe.jpg",
-          "url": "https://link.coupang.com/a/g0nOUlphqm",
-          "_ts": 1789276563.649537
         }
       ]
     },
