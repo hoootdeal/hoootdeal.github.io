@@ -933,15 +933,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6ca2cc64-83db-40ab-a165-7a7fc4e37f564914861519495637803.png",
           "url": "https://link.coupang.com/a/g1zDrMl7f2",
           "_ts": 1789338538.800666
-        },
-        {
-          "name": "두발로 여성용 프리미엄 무지 장목 양말 10켤레, 색상혼합B 랜덤발송, 220~250mm",
-          "price": "10,900원",
-          "discount_rate": 17,
-          "priceAt": "09.13 21:42",
-          "image": "https://image14.coupangcdn.com/image/retail/images/32956861008636-5ceae5e9-c8aa-4efe-bc49-df6bae8afe2f.jpg",
-          "url": "https://link.coupang.com/a/g0TI1ZJ9gG",
-          "_ts": 1789303350.421213
         }
       ]
     },
@@ -950,6 +941,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "바람골 황태미역국, 650g, 6개",
+          "price": "9,900원",
+          "discount_rate": 58,
+          "priceAt": "09.18 21:52",
+          "image": "https://shopping.toss.im/live/temp/2026-05-20/ef855d44-ffa1-4398-8074-3761182cf43a.jpeg",
+          "url": "https://toss.im/_m/r1twOkR4",
+          "_ts": 1789735971.922722
+        },
         {
           "name": "산과들에 하루견과 마이포켓넛츠, 20g, 50봉",
           "price": "14,900원",
