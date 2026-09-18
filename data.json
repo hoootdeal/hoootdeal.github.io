@@ -969,6 +969,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "자동 변기세정제 맥스, 320g, 4개",
+          "price": "6,990원",
+          "discount_rate": 53,
+          "priceAt": "09.18 17:40",
+          "image": "https://shopping.toss.im/live/temp/2026-08-26/4e3daee7-51fd-498a-b856-0a5fae0723e1.png",
+          "url": "https://toss.im/_m/50EgoECa",
+          "_ts": 1789720809.5986528
+        },
+        {
           "name": "대한 쭈꾸미볶음, 보통맛, 300g, 2팩",
           "price": "13,900원",
           "discount_rate": 53,
