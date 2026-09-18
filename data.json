@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "김정문알로에 큐어 인텐시브 2X 크림, 50g, 2개",
+          "price": "11,560원",
+          "discount_rate": 33,
+          "priceAt": "09.19 07:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/259424950878761-cbe62968-11a4-40c8-9cb7-329eb58adf7d.jpg",
+          "url": "https://link.coupang.com/a/g9RySQ95si",
+          "_ts": 1789770039.7311869
+        },
+        {
           "name": "오레오 웨하스 스틱 초코, 510g, 1개",
           "price": "10,390원",
           "discount_rate": 18,
