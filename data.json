@@ -951,6 +951,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "목이버섯 장아찌, 1kg, 1개",
+          "price": "8,900원",
+          "discount_rate": 44,
+          "priceAt": "09.18 19:15",
+          "image": "https://shopping.toss.im/live/temp/2026-01-07/f46ae24c-fc0a-4a54-928f-418676a2a5bd.jpeg",
+          "url": "https://toss.im/_m/dbwBgxRg",
+          "_ts": 1789726536.128356
+        },
+        {
           "name": "동원샘물 생수, 라벨랜덤, 2L, 6개",
           "price": "3,480원",
           "discount_rate": 42,
@@ -1453,15 +1462,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NWU3MDU2/UHBTbmFldHRybnkwbkcyd1dUejE1R081RXNXdXRGckhZa0hWWHI2QlZWST0.png",
           "url": "https://toss.im/_m/1VtdXxNu",
           "_ts": 1789296094.562866
-        },
-        {
-          "name": "마포나루터 돼지목살왕구이, 500g, 3팩",
-          "price": "13,900원",
-          "discount_rate": 36,
-          "priceAt": "09.13 18:51",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDJkNTQz/WHIrYmkydUdhOFRjaEc0bGRBTm9FdExleGhkZFB4eG9OZGprMkdocVp6VT0.png",
-          "url": "https://toss.im/_m/rFRW60W6",
-          "_ts": 1789293102.103352
         }
       ]
     },
