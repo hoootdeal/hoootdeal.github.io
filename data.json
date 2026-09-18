@@ -969,6 +969,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "대한 쭈꾸미볶음, 보통맛, 300g, 2팩",
+          "price": "13,900원",
+          "discount_rate": 53,
+          "priceAt": "09.18 17:11",
+          "image": "https://shopping.toss.im/live/taca/ai/OThkMWI3/Y1ozQ0tmY0QvU2I1SmR3WC9JbThBOXdzRllZZVRMdWorbkYybW9WV2hmdz0.png",
+          "url": "https://toss.im/_m/ZGMVpRnx",
+          "_ts": 1789719080.492257
+        },
+        {
           "name": "코피코 커피맛 캔디 블리스터 팩, 32g, 12개입, 1박스",
           "price": "9,490원",
           "discount_rate": 20,
@@ -1453,15 +1462,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZDJkNTQz/WHIrYmkydUdhOFRjaEc0bGRBTm9FdExleGhkZFB4eG9OZGprMkdocVp6VT0.png",
           "url": "https://toss.im/_m/rFRW60W6",
           "_ts": 1789293102.103352
-        },
-        {
-          "name": "스파클 생수, 무라벨, 500ml, 80개",
-          "price": "8,800원",
-          "discount_rate": 63,
-          "priceAt": "09.13 16:49",
-          "image": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
-          "url": "https://toss.im/_m/DiFTIObn",
-          "_ts": 1789285776.891051
         }
       ]
     },
