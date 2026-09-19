@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청정원 행복 2호 세트 + 쇼핑백",
+          "price": "19,530원",
+          "discount_rate": 22,
+          "priceAt": "09.19 11:36",
+          "image": "https://image15.coupangcdn.com/image/retail/images/203132945002589-d73ef936-b5a9-4354-98af-758511db0c10.jpg",
+          "url": "https://link.coupang.com/a/g99PswWgoK",
+          "_ts": 1789785378.0942929
+        },
+        {
           "name": "루아러블 갤럭시 핏3 실리콘 스포츠 밴드 스트랩",
           "price": "1,320원",
           "discount_rate": 78,
