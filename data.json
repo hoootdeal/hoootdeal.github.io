@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이니스프리 그린티 씨드 히알루론산 세럼 80ml + 10ml 세트, 1개",
+          "price": "11,820원",
+          "discount_rate": 24,
+          "priceAt": "09.19 17:21",
+          "image": "https://img4a.coupangcdn.com/image/retail/images/7128178532575-dfd39168-9558-445d-8da2-320767e40b16.jpg",
+          "url": "https://link.coupang.com/a/hayu6GlQTk",
+          "_ts": 1789806093.9515479
+        },
+        {
           "name": "사무실 과자세트 비스킷 쿠키 파이 6입 세트 (쵸코하임 + 화이트하임 + 초코파이 + 촉촉한초코칩 2p + 오뜨 쇼콜라), 1세트, 6p",
           "price": "12,900원",
           "discount_rate": 21,
@@ -888,33 +897,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/82362122697973-ed25e376-721d-4544-99a7-2cd62b6957e0.jpg",
           "url": "https://link.coupang.com/a/g2iwlT8nOm",
           "_ts": 1789376226.389146
-        },
-        {
-          "name": "릴리바이레드 스키니 메스 브로우 마스카라 3.5g, 05토프브라운, 1개",
-          "price": "2,370원",
-          "discount_rate": 68,
-          "priceAt": "09.14 16:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/112543137144767-99341301-9398-4eb3-8025-de029bba4e39.jpg",
-          "url": "https://link.coupang.com/a/g2emeVon48",
-          "_ts": 1789372729.631916
-        },
-        {
-          "name": "스웨이 식기세척기 액체 캡슐 세제 레몬향 55입, 440g, 3개",
-          "price": "24,870원",
-          "discount_rate": 31,
-          "priceAt": "09.14 16:49",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/34881012709903-cecae2e0-ba6c-4955-8186-030e257db2d8.jpg",
-          "url": "https://link.coupang.com/a/g2dFxYxOBo",
-          "_ts": 1789372153.673296
-        },
-        {
-          "name": "티오피 더 블랙, 380ml, 24개",
-          "price": "22,890원",
-          "discount_rate": 22,
-          "priceAt": "09.14 16:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/98334283722249-0722c970-ae62-4c53-bfe1-4f85155868d6.jpg",
-          "url": "https://link.coupang.com/a/g2cW7rq3qu",
-          "_ts": 1789371550.3483899
         }
       ]
     },
@@ -1426,15 +1408,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-24/85ac3f54-52ea-4eae-944e-48bd634fba77.png",
           "url": "https://toss.im/_m/V68kQWXl",
           "_ts": 1789374402.688844
-        },
-        {
-          "name": "달콤쫀득 영동 상주 햇곶감, 500g, 3봉",
-          "price": "23,900원",
-          "discount_rate": 65,
-          "priceAt": "09.14 16:28",
-          "image": "https://shopping.toss.im/live/taca/ai/NzA2ZTQ1/QUptYllsaW5uNnRXdDJnMFppVG1KSXdsakprN2Radk1sbGl6R0NicXA3SmE.png",
-          "url": "https://toss.im/_m/JHoxZyYq",
-          "_ts": 1789370903.1657999
         }
       ]
     },
