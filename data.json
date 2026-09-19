@@ -888,15 +888,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7e60bf59-3f87-489e-8105-db5ff8497bb96599076439544131262.png",
           "url": "https://link.coupang.com/a/g2zwGgqiLk",
           "_ts": 1789390504.295414
-        },
-        {
-          "name": "무식이네 스윗클린 물빠짐 거꾸로 양치컵, 오트밀, 2개, 오트밀 × 2개",
-          "price": "2,360원",
-          "discount_rate": 53,
-          "priceAt": "09.14 21:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/5f2tsqt5/a794c4dda83d46f0b44022f8e0d2154b.jpg",
-          "url": "https://link.coupang.com/a/g2wrKDhiRE",
-          "_ts": 1789387919.021618
         }
       ]
     },
@@ -905,6 +896,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "샘트리 맛 병아리콩 오리지널, 400g, 1개",
+          "price": "9,900원",
+          "discount_rate": 50,
+          "priceAt": "09.19 21:27",
+          "image": "https://shopping.toss.im/live/taca/ai/NDA2NzJj/UG5sbE5jK3JXTWM2c1MxNTVLMHpiTk0yMmJNTlZKL2tSVmEzN05WaWFCcz0.png",
+          "url": "https://toss.im/_m/x4Iyy6q8",
+          "_ts": 1789820861.0592482
+        },
         {
           "name": "프로즌 원팩 곱도리탕, 590g, 2개",
           "price": "14,751원",
@@ -1399,15 +1399,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-15/fc748c01-e1e5-4ced-899e-85bb69ecf463.jpeg",
           "url": "https://toss.im/_m/bdYlBmS",
           "_ts": 1789390513.2878458
-        },
-        {
-          "name": "집밥앤 광천김, 4g, 32봉",
-          "price": "8,900원",
-          "discount_rate": 56,
-          "priceAt": "09.14 21:23",
-          "image": "https://shopping.toss.im/live/taca/ai/NmQ0ZjFj/QUp3ejBtV3RrTkdlYXg0MmVkTmt1aG04Wk51NXJWaHhwS3lRVE1SUXRLelc.png",
-          "url": "https://toss.im/_m/VYqA4hux",
-          "_ts": 1789388632.530611
         }
       ]
     },
