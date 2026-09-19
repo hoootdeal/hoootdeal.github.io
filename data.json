@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "세타필 모이스춰라이징 크림, 550g, 1개",
+          "price": "13,960원",
+          "discount_rate": 15,
+          "priceAt": "09.19 18:31",
+          "image": "https://image14.coupangcdn.com/image/retail/images/107773577349111-724cc438-f29e-4636-9a1c-0a4b7bcb57b6.jpg",
+          "url": "https://link.coupang.com/a/haDvv5eX8K",
+          "_ts": 1789810297.971002
+        },
+        {
           "name": "이니스프리 그린티 씨드 히알루론산 세럼 80ml + 10ml 세트, 1개",
           "price": "11,820원",
           "discount_rate": 24,
@@ -888,15 +897,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/316763255177504-cb5da269-f6bc-49f9-b634-de94e6e07cbf.png",
           "url": "https://link.coupang.com/a/g2lXRgqnw4",
           "_ts": 1789379117.471583
-        },
-        {
-          "name": "해태제과 오예스 미니, 192g, 4개, 192g × 4개",
-          "price": "6,360원",
-          "discount_rate": 36,
-          "priceAt": "09.14 17:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/82362122697973-ed25e376-721d-4544-99a7-2cd62b6957e0.jpg",
-          "url": "https://link.coupang.com/a/g2iwlT8nOm",
-          "_ts": 1789376226.389146
         }
       ]
     },
