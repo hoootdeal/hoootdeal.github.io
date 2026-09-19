@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "가그린 후레쉬 브레스 치약 스피아민트, 120g, 3개",
+          "price": "5,450원",
+          "discount_rate": 42,
+          "priceAt": "09.19 09:33",
+          "image": "https://img5a.coupangcdn.com/image/retail/images/2864558274265733-cc849538-73c6-4c67-ac3e-e5a495c13131.jpg",
+          "url": "https://link.coupang.com/a/g902ViqxXM",
+          "_ts": 1789778004.642591
+        },
+        {
           "name": "크라운 츄러스 초코 츄러스, 150g, 2개, 150g × 2개",
           "price": "2,670원",
           "discount_rate": 55,
@@ -933,15 +942,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1252132436498334-e861791b-12c0-4bca-be83-689a7c900c66.jpg",
           "url": "https://link.coupang.com/a/g1KcdYmP7Y",
           "_ts": 1789347405.676148
-        },
-        {
-          "name": "하이뮨 프로틴 밸런스 L, 608g, 1개",
-          "price": "24,840원",
-          "discount_rate": 28,
-          "priceAt": "09.14 09:10",
-          "image": "https://img5a.coupangcdn.com/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
-          "url": "https://link.coupang.com/a/g1GRLwY1Uy",
-          "_ts": 1789344608.080214
         }
       ]
     },
