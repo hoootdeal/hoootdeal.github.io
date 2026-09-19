@@ -888,15 +888,6 @@
           "image": "https://img3c.coupangcdn.com/image/retail/images/612679576866745-4943478e-3529-417a-9e9e-1f447e90c1d1.jpg",
           "url": "https://link.coupang.com/a/g2uesGJF5o",
           "_ts": 1789386058.352562
-        },
-        {
-          "name": "아워티 올 더 타임 핑크 선물, 레몬 얼그레이티 4p + 오렌지 자몽 블랙티 4p + 베리썸 히비스커스티 4p + 납작복숭아 콜드브루티 4p, 1세트",
-          "price": "13,080원",
-          "discount_rate": 34,
-          "priceAt": "09.14 19:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3613874792841315-e18fa4c7-64b0-44bb-b324-44071cc422bb.jpg",
-          "url": "https://link.coupang.com/a/g2nJHpmM0G",
-          "_ts": 1789380606.339707
         }
       ]
     },
@@ -905,6 +896,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "스파클 생수, 무라벨, 500ml, 80개",
+          "price": "16,490원",
+          "discount_rate": 31,
+          "priceAt": "09.19 19:17",
+          "image": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
+          "url": "https://toss.im/_m/1EIShi5g",
+          "_ts": 1789813025.238475
+        },
         {
           "name": "펩시 클리어 스퀘어 데스크 선풍기 PEP-ZERO33, 화이트, 1개",
           "price": "4,900원",
@@ -1399,15 +1399,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-03-03/0a361c03-695c-44c9-bb69-ccfb55995fd7.jpeg",
           "url": "https://toss.im/_m/Rku6vuQD",
           "_ts": 1789382389.063515
-        },
-        {
-          "name": "맘스터치 시그니처 치킨텐더, 1kg, 2개",
-          "price": "19,900원",
-          "discount_rate": 20,
-          "priceAt": "09.14 18:50",
-          "image": "https://shopping.toss.im/live/taca/ai/ODdlMGY5/WnR6a3k4emJsWnJwa3pNZWJiT21NZWptS0dXa3pxR1RrUnpUWTNSWVljST0.png",
-          "url": "https://toss.im/_m/3dG91zF4",
-          "_ts": 1789379451.52617
         }
       ]
     },
