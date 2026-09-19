@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에드잇 다용도 욕실 수납 정리함, 12개, 반투명",
+          "price": "4,500원",
+          "discount_rate": 70,
+          "priceAt": "09.19 18:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/db4c/f3c6a47c8378208cdc3f7ce7d6de71a79dbdf97d53c29c30c1cac310f822.png",
+          "url": "https://link.coupang.com/a/haEvdDTX1E",
+          "_ts": 1789811132.70855
+        },
+        {
           "name": "세타필 모이스춰라이징 크림, 550g, 1개",
           "price": "13,960원",
           "discount_rate": 15,
@@ -888,15 +897,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3613874792841315-e18fa4c7-64b0-44bb-b324-44071cc422bb.jpg",
           "url": "https://link.coupang.com/a/g2nJHpmM0G",
           "_ts": 1789380606.339707
-        },
-        {
-          "name": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러, 피오니, 591ml, 1개",
-          "price": "23,100원",
-          "discount_rate": 48,
-          "priceAt": "09.14 18:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/316763255177504-cb5da269-f6bc-49f9-b634-de94e6e07cbf.png",
-          "url": "https://link.coupang.com/a/g2lXRgqnw4",
-          "_ts": 1789379117.471583
         }
       ]
     },
