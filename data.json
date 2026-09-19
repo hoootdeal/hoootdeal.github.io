@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "코카콜라 제로제로, 350ml, 24개",
+          "price": "15,520원",
+          "discount_rate": 17,
+          "priceAt": "09.19 14:30",
+          "image": "https://image9.coupangcdn.com/image/retail/images/704893215543382-183fd7ca-cc8c-4620-a84b-cb45ab0dcab8.jpg",
+          "url": "https://link.coupang.com/a/hamfl3lkyq",
+          "_ts": 1789795804.971406
+        },
+        {
           "name": "Apple 맥북 프로 14 M5칩스페이스 블랙 · M5 10코어 · 10코어 GPU · 16GB · 1TB · 한글",
           "price": "2,757,770원",
           "discount_rate": 7,
