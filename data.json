@@ -915,24 +915,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/50428de4-eff3-4dda-864c-07ca5dccabfd1844988698604249919.png",
           "url": "https://link.coupang.com/a/g182DGXOTI",
           "_ts": 1789368268.934092
-        },
-        {
-          "name": "나랑드사이다 제로 그린애플, 500ml, 48개",
-          "price": "25,540원",
-          "discount_rate": 31,
-          "priceAt": "09.14 14:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/a155421d-a24e-4c10-9f42-78962dad905f2353200982579548630.png",
-          "url": "https://link.coupang.com/a/g15HB3S4Wq",
-          "_ts": 1789365465.070594
-        },
-        {
-          "name": "비오비타 배배 골드 유산균, 45g, 1개",
-          "price": "17,570원",
-          "discount_rate": 23,
-          "priceAt": "09.14 14:52",
-          "image": "https://image1.coupangcdn.com/image/retail/images/149915169116884-14a2c624-df7b-42d8-9b5a-dc6a8bded144.jpg",
-          "url": "https://link.coupang.com/a/g15jDT3bpI",
-          "_ts": 1789365136.5660958
         }
       ]
     },
@@ -941,6 +923,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+          "price": "6,200원",
+          "discount_rate": 81,
+          "priceAt": "09.19 15:34",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/Y2VjZDA0/QU0zUE1sbU83WnJNYzlITWJKdE1PMndsdzBsdFdFeHprN1cwNWowT0xJM1Q.png",
+          "url": "https://toss.im/_m/HcEDASsr",
+          "_ts": 1789799650.5866702
+        },
         {
           "name": "터치 프리미엄 워싱소다, 5kg, 1팩",
           "price": "6,900원",
@@ -1435,24 +1426,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NzA2ZTQ1/QUptYllsaW5uNnRXdDJnMFppVG1KSXdsakprN2Radk1sbGl6R0NicXA3SmE.png",
           "url": "https://toss.im/_m/JHoxZyYq",
           "_ts": 1789370903.1657999
-        },
-        {
-          "name": "일동후디스 후디스 그릭요거트 플레인, 450g, 2개",
-          "price": "7,400원",
-          "discount_rate": 46,
-          "priceAt": "09.14 15:13",
-          "image": "https://shopping.toss.im/live/temp/2026-03-26/b2e851bb-8003-418b-aa3e-0aa7d03b5daf.jpeg",
-          "url": "https://toss.im/_m/3Oo9aGod",
-          "_ts": 1789366418.446424
-        },
-        {
-          "name": "가성비가브랜드다 뽑아쓰는 3겹 키친타올, 100매, 9팩",
-          "price": "8,900원",
-          "discount_rate": 55,
-          "priceAt": "09.14 14:53",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/ODI5NTc4/WTA3MXpNdHpabzA2Ymt4YVZqQlIyempNTngrR1VQSWdPSEJqaGNaaS9PYz0.png",
-          "url": "https://toss.im/_m/Dq1vP8nn",
-          "_ts": 1789365212.5913348
         }
       ]
     },
