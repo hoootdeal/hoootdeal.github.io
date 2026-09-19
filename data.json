@@ -906,6 +906,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "펩시 클리어 스퀘어 데스크 선풍기 PEP-ZERO33, 화이트, 1개",
+          "price": "4,900원",
+          "discount_rate": 87,
+          "priceAt": "09.19 17:35",
+          "image": "https://shopping.toss.im/live/temp/2026-04-10/65e6c7e8-f738-4a13-9e4f-16611ea80d58.jpeg",
+          "url": "https://toss.im/_m/pKA0kxHy",
+          "_ts": 1789806947.444109
+        },
+        {
           "name": "대박농수산 제주 햇 브로콜리, 특품, 1kg, 1박스",
           "price": "9,900원",
           "discount_rate": 47,
@@ -1399,15 +1408,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ODdlMGY5/WnR6a3k4emJsWnJwa3pNZWJiT21NZWptS0dXa3pxR1RrUnpUWTNSWVljST0.png",
           "url": "https://toss.im/_m/3dG91zF4",
           "_ts": 1789379451.52617
-        },
-        {
-          "name": "동국제약 덴트릭스 잇몸플러스 치약, 160g, 10개",
-          "price": "32,900원",
-          "discount_rate": 83,
-          "priceAt": "09.14 17:26",
-          "image": "https://shopping.toss.im/live/temp/2026-07-24/85ac3f54-52ea-4eae-944e-48bd634fba77.png",
-          "url": "https://toss.im/_m/V68kQWXl",
-          "_ts": 1789374402.688844
         }
       ]
     },
