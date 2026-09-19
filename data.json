@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "Apple 맥북 프로 14 M5칩스페이스 블랙 · M5 10코어 · 10코어 GPU · 16GB · 1TB · 한글",
+          "price": "2,757,770원",
+          "discount_rate": 7,
+          "priceAt": "09.19 13:22",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/10/22/11/8/589b44e4-d8d2-4785-b9e0-d4591f676bfa.jpg",
+          "url": "https://link.coupang.com/a/haho2Gmy84",
+          "_ts": 1789791738.60909
+        },
+        {
           "name": "[임박할인] 신라면툼바 큰사발 113g (소비기한 26.10.15)",
           "price": "11,600원",
           "discount_rate": 66,
@@ -915,15 +924,6 @@
           "image": "https://image1.coupangcdn.com/image/retail/images/149915169116884-14a2c624-df7b-42d8-9b5a-dc6a8bded144.jpg",
           "url": "https://link.coupang.com/a/g15jDT3bpI",
           "_ts": 1789365136.5660958
-        },
-        {
-          "name": "무연마제 어린이집 양치컵 스텐304 이름 이모티콘 각인 유치원 단체 KC인증, 단면, 1개, 실버계열",
-          "price": "8,900원",
-          "discount_rate": 31,
-          "priceAt": "09.14 13:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d2c4/5a177971027f4a0b73530cd99edab3be7421e89bb4b33b605180b0404879.jpg",
-          "url": "https://link.coupang.com/a/g1YA6RXb4e",
-          "_ts": 1789359495.973273
         }
       ]
     },
