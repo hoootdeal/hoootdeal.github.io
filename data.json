@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "미에로화이바 스파클링제로슈가 캔, 250ml, 30개",
+          "price": "13,820원",
+          "discount_rate": 15,
+          "priceAt": "09.19 20:59",
+          "image": "https://img3a.coupangcdn.com/image/retail/images/2026/01/26/10/5/1490f9e9-5360-4d6e-a0f3-63dc89f978f6.jpg",
+          "url": "https://link.coupang.com/a/haN4hqaHGC",
+          "_ts": 1789819161.8099399
+        },
+        {
           "name": "듀오백 듀얼젤 집중 쿨링 쿠션 기능성방석, 그레이, 460 x 420 x 40 mm",
           "price": "16,920원",
           "discount_rate": 33,
@@ -888,15 +897,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/5f2tsqt5/a794c4dda83d46f0b44022f8e0d2154b.jpg",
           "url": "https://link.coupang.com/a/g2wrKDhiRE",
           "_ts": 1789387919.021618
-        },
-        {
-          "name": "조지아 크래프트 아메리카노, 470ml, 24개",
-          "price": "16,990원",
-          "discount_rate": 19,
-          "priceAt": "09.14 20:40",
-          "image": "https://img3c.coupangcdn.com/image/retail/images/612679576866745-4943478e-3529-417a-9e9e-1f447e90c1d1.jpg",
-          "url": "https://link.coupang.com/a/g2uesGJF5o",
-          "_ts": 1789386058.352562
         }
       ]
     },
