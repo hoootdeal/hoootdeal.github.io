@@ -951,6 +951,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "비비고 왕교자, 1.05kg, 3개",
+          "price": "25,555원",
+          "discount_rate": 43,
+          "priceAt": "09.19 10:30",
+          "image": "https://shopping.toss.im/live/taca/ai/YTIwNTAw/QUpETGFieVdlbnA4UE02aHNzOW9ucGw1RWVRTFV6Tmt3L09GL2lNOGVSSDg.png",
+          "url": "https://toss.im/_m/HqEabjwC",
+          "_ts": 1789781432.8399942
+        },
+        {
           "name": "바람골 황태미역국, 650g, 6개",
           "price": "9,900원",
           "discount_rate": 58,
