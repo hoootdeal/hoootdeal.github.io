@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "포트메리온 보타닉가든 직사각형 접시",
+          "price": "10,690원",
+          "discount_rate": 78,
+          "priceAt": "09.20 07:11",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6732/143990ced420c61ab13318fa337f3f64ea9461dbe1874713a9f0b7001576.jpg",
+          "url": "https://link.coupang.com/a/hbvNDkgGRg",
+          "_ts": 1789855881.231937
+        },
+        {
           "name": "미에로화이바 스파클링제로슈가 캔, 250ml, 30개",
           "price": "13,820원",
           "discount_rate": 15,
