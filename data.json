@@ -897,6 +897,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "프로즌 원팩 곱도리탕, 590g, 2개",
+          "price": "14,751원",
+          "discount_rate": 33,
+          "priceAt": "09.19 19:42",
+          "image": "https://shopping.toss.im/live/taca/ai/ZWRlOWM4/TVp2Yk9XZlpwcDhXa0I0Mm4wNXBiWjVabm5kNWViejN0ZURMUmk2anRndz0.png",
+          "url": "https://toss.im/_m/ZdO61yGu",
+          "_ts": 1789814570.4395351
+        },
+        {
           "name": "스파클 생수, 무라벨, 500ml, 80개",
           "price": "16,490원",
           "discount_rate": 31,
@@ -1390,15 +1399,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NmQ0ZjFj/QUp3ejBtV3RrTkdlYXg0MmVkTmt1aG04Wk51NXJWaHhwS3lRVE1SUXRLelc.png",
           "url": "https://toss.im/_m/VYqA4hux",
           "_ts": 1789388632.530611
-        },
-        {
-          "name": "하이뮨 프로틴밸런스 액티브 다크초코, 330ml, 12개",
-          "price": "19,900원",
-          "discount_rate": 65,
-          "priceAt": "09.14 19:39",
-          "image": "https://shopping.toss.im/live/temp/2026-03-03/0a361c03-695c-44c9-bb69-ccfb55995fd7.jpeg",
-          "url": "https://toss.im/_m/Rku6vuQD",
-          "_ts": 1789382389.063515
         }
       ]
     },
