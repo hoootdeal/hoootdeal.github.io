@@ -933,6 +933,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "복음자리 식물성 크림치즈, 딸기 190g 1개 + 블루베리 190g 1개, 2개",
+          "price": "12,500원",
+          "discount_rate": 21,
+          "priceAt": "09.19 14:21",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/ZDNjMGM0/QU5uY2JaT3lmTEprenJGdVQwV3hXYk9hd2JlcG5KUG16eHZCcmVNYndWSzA.png",
+          "url": "https://toss.im/_m/LICrAybn",
+          "_ts": 1789795316.433089
+        },
+        {
           "name": "맛꾼 구운란, 대란, 30구, 1개",
           "price": "12,900원",
           "discount_rate": 35,
@@ -1426,15 +1435,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/ODI5NTc4/WTA3MXpNdHpabzA2Ymt4YVZqQlIyempNTngrR1VQSWdPSEJqaGNaaS9PYz0.png",
           "url": "https://toss.im/_m/Dq1vP8nn",
           "_ts": 1789365212.5913348
-        },
-        {
-          "name": "외갓집 진심 육개장 진, 600g, 3개",
-          "price": "10,990원",
-          "discount_rate": 63,
-          "priceAt": "09.14 14:03",
-          "image": "https://shopping.toss.im/live/taca/ai/ZGE1NWEw/T2h3UEtmbzVhVDJvUGExdGtQM2R2UVBrTnFVLzhXdTAvd083VWdBYi9NQT0.png",
-          "url": "https://toss.im/_m/jExyqCM5",
-          "_ts": 1789362228.665819
         }
       ]
     },
