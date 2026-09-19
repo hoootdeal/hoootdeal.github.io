@@ -879,15 +879,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/82615689077121-a07649b2-43cb-46d6-8823-0ea9cd7a193c.jpg",
           "url": "https://link.coupang.com/a/g3iItp6NHM",
           "_ts": 1789428444.846945
-        },
-        {
-          "name": "더페이스샵 스타일리스트 5분 스피디 헤어 컬러 크림 염색제, 밝은갈색, 2개",
-          "price": "6,010원",
-          "discount_rate": 62,
-          "priceAt": "09.14 21:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7e60bf59-3f87-489e-8105-db5ff8497bb96599076439544131262.png",
-          "url": "https://link.coupang.com/a/g2zwGgqiLk",
-          "_ts": 1789390504.295414
         }
       ]
     },
@@ -896,6 +887,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "도가니탕의 정석, 500g, 5개",
+          "price": "15,900원",
+          "discount_rate": 60,
+          "priceAt": "09.19 21:57",
+          "image": "https://shopping.toss.im/live/taca/ai/N2VlNjg1/YlRlOHJFVC8yd3c5WitNTlBKTERacll6Nnp6NHp3ODVvZHI0Tkgrb2wxST0.png",
+          "url": "https://toss.im/_m/HMQVCVDk",
+          "_ts": 1789822642.0788858
+        },
         {
           "name": "샘트리 맛 병아리콩 오리지널, 400g, 1개",
           "price": "9,900원",
@@ -1390,15 +1390,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NDhjNDZl/UnRqd2NwOXIwNE5wTmo3ZXBQYk5pUnJENDNabVdEdUo4YXl5bkY2RlRYQT0.png",
           "url": "https://toss.im/_m/J2TOVeGj",
           "_ts": 1789438692.296771
-        },
-        {
-          "name": "바른 돼지국밥, 500g, 5개",
-          "price": "15,900원",
-          "discount_rate": 40,
-          "priceAt": "09.14 21:55",
-          "image": "https://shopping.toss.im/live/temp/2026-06-15/fc748c01-e1e5-4ced-899e-85bb69ecf463.jpeg",
-          "url": "https://toss.im/_m/bdYlBmS",
-          "_ts": 1789390513.2878458
         }
       ]
     },
