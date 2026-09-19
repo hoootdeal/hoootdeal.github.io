@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "[임박할인] 신라면툼바 큰사발 113g (소비기한 26.10.15)",
+          "price": "11,600원",
+          "discount_rate": 66,
+          "priceAt": "09.19 13:15",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f1ce/b9786593874ea0ed3d41a5fb0e769435fd3c42af121a4fa4b72e27bcd674.jpg",
+          "url": "https://link.coupang.com/a/hagSMB9Gou",
+          "_ts": 1789791301.1943622
+        },
+        {
           "name": "파워에이드 마운틴블라스트, 240ml, 30개",
           "price": "11,360원",
           "discount_rate": 21,
@@ -915,24 +924,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d2c4/5a177971027f4a0b73530cd99edab3be7421e89bb4b33b605180b0404879.jpg",
           "url": "https://link.coupang.com/a/g1YA6RXb4e",
           "_ts": 1789359495.973273
-        },
-        {
-          "name": "아워티 올 더 타임 퍼플 선물세트, 레몬 얼그레이 티 ..., 1세트, 레몬 얼그레이 티 + 오렌지 자몽 블랙티 + 핑크 리치 캐모마일 티 + 딸기 피치 루이보스 티",
-          "price": "11,090원",
-          "discount_rate": 44,
-          "priceAt": "09.14 13:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/1b1050a7-9693-445c-9fbc-73505f61e30f_fixing_v2.png",
-          "url": "https://link.coupang.com/a/g1Xy6HmFNI",
-          "_ts": 1789358630.802547
-        },
-        {
-          "name": "덴티본조르노 구취 치약, 100g, 6개, 100g × 6개",
-          "price": "11,180원",
-          "discount_rate": 31,
-          "priceAt": "09.14 12:49",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/415126869030880-b4240e83-75e2-4cdb-b3f4-8140032be6c4.jpg",
-          "url": "https://link.coupang.com/a/g1WxhJkleC",
-          "_ts": 1789357767.4672909
         }
       ]
     },
