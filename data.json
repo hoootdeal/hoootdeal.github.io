@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "가그린 오리지널 구강청결제, 1.2L, 2개",
+          "price": "9,590원",
+          "discount_rate": 17,
+          "priceAt": "09.20 17:42",
+          "image": "https://img1a.coupangcdn.com/image/retail/images/247823989174287-50f6a974-15b6-4485-983f-8cee4707fcfb.jpg",
+          "url": "https://link.coupang.com/a/hceT0BkfCe",
+          "_ts": 1789893750.90097
+        },
+        {
           "name": "롯데웰푸드 스크류바 미니 (냉동), 6개, 12개입, 25ml",
           "price": "14,830원",
           "discount_rate": 47,
@@ -861,15 +870,6 @@
           "image": "https://image15.coupangcdn.com/image/retail/images/68161817442765-816e34e0-3423-44c7-a710-db604bac51ab.jpg",
           "url": "https://link.coupang.com/a/g32TLfVsnA",
           "_ts": 1789467219.395467
-        },
-        {
-          "name": "KURUA 100% 쿨잠 쿨매트 여름 냉감 패드 쿨링 냉패드 여름 침대 매트리스 카페트, 슈퍼싱글, 화이트",
-          "price": "9,300원",
-          "discount_rate": 37,
-          "priceAt": "09.15 17:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/955d/b21542c1453c2d8ce6066ff667b190eaebbd956a2d7484603e56a53dd2f6.png",
-          "url": "https://link.coupang.com/a/g3VTVFOSxU",
-          "_ts": 1789461347.171318
         }
       ]
     },
@@ -1381,15 +1381,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZTQyMDEw/TlE5bWU5SnhtMHVOaHVXMGNVcythMDQwNDZQeHd3d2NMUXZ6WTlMMERKdz0.png",
           "url": "https://toss.im/_m/FKobKvnj",
           "_ts": 1789464514.593741
-        },
-        {
-          "name": "베베앙 로얄 물티슈, 70매, 10팩",
-          "price": "10,900원",
-          "discount_rate": 56,
-          "priceAt": "09.15 17:31",
-          "image": "https://shopping.toss.im/live/taca/ai/MGRmNTA2/QU5UbGIyK2RyZTVjMnpCNlcvNmsydFA2eFArWUFIOFFzMjF6dFNlVXpKU2s.png",
-          "url": "https://toss.im/_m/D6sau5hB",
-          "_ts": 1789461113.0864189
         }
       ]
     },
