@@ -870,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/955d/b21542c1453c2d8ce6066ff667b190eaebbd956a2d7484603e56a53dd2f6.png",
           "url": "https://link.coupang.com/a/g3VTVFOSxU",
           "_ts": 1789461347.171318
-        },
-        {
-          "name": "배홍동 막국수 114g, 12개",
-          "price": "7,500원",
-          "discount_rate": 29,
-          "priceAt": "09.15 16:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/603635707696969-e3ae84a1-3930-41a5-becf-a4a9a0c7b5a0.jpg",
-          "url": "https://link.coupang.com/a/g3Sd2LhcXc",
-          "_ts": 1789458260.9845939
         }
       ]
     },
@@ -887,6 +878,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "이천농산 황토특선미 2026년 햅쌀, 상등급, 10kg, 1개",
+          "price": "34,900원",
+          "discount_rate": 30,
+          "priceAt": "09.20 17:14",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MzkzNDI4/QUtyMDlTakRXd2U1dmo5UjRPMGNoeXRmT2ZnVGtjQ3ZEMWJZS3F1ZFRKVkU.png",
+          "url": "https://toss.im/_m/775LQ5tr",
+          "_ts": 1789892045.439771
+        },
         {
           "name": "던킨 미니 글레이즈드, 15g, 10개, 3팩",
           "price": "13,480원",
