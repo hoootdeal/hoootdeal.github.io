@@ -861,15 +861,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/95f8/cf728e54eeac1fc736a8fda0b9355d31533bb644829abdc91ba60f3309a8.png",
           "url": "https://link.coupang.com/a/g4lXu1u8rc",
           "_ts": 1789483226.171681
-        },
-        {
-          "name": "피죤 레귤러 섬유유연제 핑크로즈 본품, 3.1L, 4개",
-          "price": "13,600원",
-          "discount_rate": 19,
-          "priceAt": "09.15 21:02",
-          "image": "https://img5a.coupangcdn.com/image/retail/images/534761818801708-1cc9467c-b924-4012-95fb-917b49a57fee.jpg",
-          "url": "https://link.coupang.com/a/g4aFAWtUMS",
-          "_ts": 1789473747.460217
         }
       ]
     },
@@ -878,6 +869,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "제주돼지 갈비맛 양념구이, 1kg, 1개",
+          "price": "11,800원",
+          "discount_rate": 30,
+          "priceAt": "09.20 21:34",
+          "image": "https://shopping.toss.im/live/temp/2026-09-09/fa252ba3-b6fd-4d8d-83d6-42bad36edbfb.jpg",
+          "url": "https://toss.im/_m/Bywwu3ac",
+          "_ts": 1789907656.410491
+        },
         {
           "name": "맘스터치 시그니처 치킨텐더, 1kg, 2개",
           "price": "19,480원",
@@ -1363,15 +1363,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/MmFhYzdh/QUkvUWJsYTRxY3NXNU56dDRhZ3Q1UjVHTm5xRzJoZGwvSnBvOE1QZnZ4dG8.png",
           "url": "https://toss.im/_m/lX9g0xTj",
           "_ts": 1789520214.25037
-        },
-        {
-          "name": "농심 신라면, 120g, 20개",
-          "price": "18,800원",
-          "discount_rate": 62,
-          "priceAt": "09.15 21:31",
-          "image": "https://shopping.toss.im/live/temp/2026-02-28/198e66dc-0a26-422b-b0dc-8047dd7f7af6.png",
-          "url": "https://toss.im/_m/x3kyHHDy",
-          "_ts": 1789475485.5630138
         }
       ]
     },
