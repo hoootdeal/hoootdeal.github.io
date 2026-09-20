@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "익스트림 올인원 포 맨 멀티비타민, 30회분, 1개",
+          "price": "26,660원",
+          "discount_rate": 23,
+          "priceAt": "09.20 13:10",
+          "image": "https://img1a.coupangcdn.com/image/retail/images/104421252091794-12134597-c7a9-4f79-a780-efa64c7de3d1.jpg",
+          "url": "https://link.coupang.com/a/hbVuaw4tRQ",
+          "_ts": 1789877448.1182761
+        },
+        {
           "name": "스빈또 NEW 스웨덴 수세미 100g, 1개입, 2개",
           "price": "6,590원",
           "discount_rate": 30,
@@ -1390,15 +1399,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/OWY3NWZk/VEdNVnlPSXptWmxYYytZM21NaG5jckNKNVNOcm5Jem1ZeGlNVnNqaE01az0.png",
           "url": "https://toss.im/_m/1FDS4ohd",
           "_ts": 1789449475.921912
-        },
-        {
-          "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
-          "price": "11,498원",
-          "discount_rate": 55,
-          "priceAt": "09.15 13:08",
-          "image": "https://shopping.toss.im/live/temp/2025-08-16/583742ce-0d94-4d21-b53f-341a22dc0bc6.jpeg",
-          "url": "https://toss.im/_m/5Aq8NaeC",
-          "_ts": 1789445334.529878
         }
       ]
     },
