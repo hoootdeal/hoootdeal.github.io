@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "포테토칩 오리지널, 60g, 10개",
+          "price": "9,900원",
+          "discount_rate": 20,
+          "priceAt": "09.20 09:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/273640124100121-fc80b112-29c5-4da6-8c9a-1ea7bc12a6a7.jpg",
+          "url": "https://link.coupang.com/a/hbHEaPKHeu",
+          "_ts": 1789865829.933849
+        },
+        {
           "name": "테리파머 호텔 수건 200g 30수 면사, 아마존그린, 10개",
           "price": "24,990원",
           "discount_rate": 39,
@@ -879,15 +888,6 @@
           "image": "https://image9.coupangcdn.com/image/retail/images/761007085729374-b567084c-ea9c-4308-b1f9-a6abb12ade79.jpg",
           "url": "https://link.coupang.com/a/g3vcsinLBk",
           "_ts": 1789438928.7138612
-        },
-        {
-          "name": "띵룸 가볍게 드는 심플 데일리 여성 미니 숄더백 호보백, One size, 블랙",
-          "price": "4,900원",
-          "discount_rate": 74,
-          "priceAt": "09.15 09:49",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2419/0596223fd8fd0aa10824668df6c8256f83eee8ce35817e799182be7df59a.jpg",
-          "url": "https://link.coupang.com/a/g3oBYKc3ga",
-          "_ts": 1789433396.341416
         }
       ]
     },
