@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "해찬들 저당 고추장, 500g, 1개",
+          "price": "5,980원",
+          "discount_rate": 20,
+          "priceAt": "09.20 18:46",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/407381086789127-6713efec-9abd-486e-a994-d906849985a1.jpg",
+          "url": "https://link.coupang.com/a/hcjsku9LnU",
+          "_ts": 1789897575.043029
+        },
+        {
           "name": "가그린 오리지널 구강청결제, 1.2L, 2개",
           "price": "9,590원",
           "discount_rate": 17,
@@ -1372,15 +1381,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/OGNhYWRi/R0JnZzRWclByNXdpbXdEeW0yVjY4SlUxM0txaFdYUHdOV3JZZjZTYXlWaz0.png",
           "url": "https://toss.im/_m/3sWcEpim",
           "_ts": 1789469173.973023
-        },
-        {
-          "name": "펩시콜라 제로슈거 라임향, 355ml, 48개",
-          "price": "29,900원",
-          "discount_rate": 39,
-          "priceAt": "09.15 18:28",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTQyMDEw/TlE5bWU5SnhtMHVOaHVXMGNVcythMDQwNDZQeHd3d2NMUXZ6WTlMMERKdz0.png",
-          "url": "https://toss.im/_m/FKobKvnj",
-          "_ts": 1789464514.593741
         }
       ]
     },
