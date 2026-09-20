@@ -852,33 +852,6 @@
           "image": "https://img5a.coupangcdn.com/image/retail/images/534761818801708-1cc9467c-b924-4012-95fb-917b49a57fee.jpg",
           "url": "https://link.coupang.com/a/g4aFAWtUMS",
           "_ts": 1789473747.460217
-        },
-        {
-          "name": "708090 여성용 숏 니트 가디건 두꺼운 지퍼 외투, 그레이, FREE 40-70kg",
-          "price": "7,100원",
-          "discount_rate": null,
-          "priceAt": "09.15 19:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/688f/293a678007584b9519d7aa3bfa6eacf06d26213bf1c708570e00ff8b5e3d.jpg",
-          "url": "https://link.coupang.com/a/g33TEhPtgy",
-          "_ts": 1789468057.8188958
-        },
-        {
-          "name": "파미고 유기농 엑스트라버진 올리브오일, 500ml, 1개, 500ml × 1개",
-          "price": "11,880원",
-          "discount_rate": 31,
-          "priceAt": "09.15 19:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/09/19/14/4/c3081671-d3e1-41f6-98fb-c79de2aea88b.jpg",
-          "url": "https://link.coupang.com/a/g33veO3nlA",
-          "_ts": 1789467727.994853
-        },
-        {
-          "name": "연세두유 뼈를 생각한 고칼슘 두유 검은콩, 190ml, 24개",
-          "price": "8,920원",
-          "discount_rate": 23,
-          "priceAt": "09.15 19:13",
-          "image": "https://image15.coupangcdn.com/image/retail/images/68161817442765-816e34e0-3423-44c7-a710-db604bac51ab.jpg",
-          "url": "https://link.coupang.com/a/g32TLfVsnA",
-          "_ts": 1789467219.395467
         }
       ]
     },
@@ -887,6 +860,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "호정가 찹쌀약과 세트, 1kg, 1박스",
+          "price": "8,900원",
+          "discount_rate": 44,
+          "priceAt": "09.20 19:52",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/YzQ2YjA3/QUpwUDIzeGgzT3g4dGJ6QmJhVzBiZUgydFoySGJiQjZ4NlZEZ3A1NlVWVnk.png",
+          "url": "https://toss.im/_m/hiwXIfHx",
+          "_ts": 1789901546.0912561
+        },
         {
           "name": "이천농산 황토특선미 2026년 햅쌀, 상등급, 10kg, 1개",
           "price": "34,900원",
@@ -1372,15 +1354,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MDBlY2Zm/QU1FYzljZFdjS2dVaXgxeUxBTHlMOEJ3V3VxdnZoNFM4bWs4Zy82dFFYUXY.png",
           "url": "https://toss.im/_m/3HLpu4Dy",
           "_ts": 1789472777.381087
-        },
-        {
-          "name": "별미촌 전라도 오이부추김치, 1kg, 1개",
-          "price": "9,900원",
-          "discount_rate": 41,
-          "priceAt": "09.15 19:46",
-          "image": "https://shopping.toss.im/live/taca/ai/OGNhYWRi/R0JnZzRWclByNXdpbXdEeW0yVjY4SlUxM0txaFdYUHdOV3JZZjZTYXlWaz0.png",
-          "url": "https://toss.im/_m/3sWcEpim",
-          "_ts": 1789469173.973023
         }
       ]
     },
