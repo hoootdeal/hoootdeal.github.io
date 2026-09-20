@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스빈또 NEW 스웨덴 수세미 100g, 1개입, 2개",
+          "price": "6,590원",
+          "discount_rate": 30,
+          "priceAt": "09.20 12:08",
+          "image": "https://image14.coupangcdn.com/image/retail/images/685841542680670-bd9cc04c-d9ec-4f45-af95-5e36fbe13703.jpg",
+          "url": "https://link.coupang.com/a/hbQ0EH2JKC",
+          "_ts": 1789873689.687676
+        },
+        {
           "name": "포테토칩 오리지널, 60g, 10개",
           "price": "9,900원",
           "discount_rate": 20,
@@ -1399,15 +1408,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-05-26/9539c69b-24ae-47c9-b11e-6f9673332717.png",
           "url": "https://toss.im/_m/x5TQX90r",
           "_ts": 1789441993.884744
-        },
-        {
-          "name": "터치 라이트 아토캡 고농축 캡슐세제, 8g, 120개입, 1개",
-          "price": "7,890원",
-          "discount_rate": 50,
-          "priceAt": "09.15 11:53",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MDVjMTIx/RWtYZzhmbERxT0hGaDdMVGZVYjh5emh6NGsyRmhzUEdRYytybXhZNEhqdz0.png",
-          "url": "https://toss.im/_m/PPxtyam7",
-          "_ts": 1789440806.162928
         }
       ]
     },
