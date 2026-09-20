@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "G7 퓨어블랙 원두커피믹스, 2g, 200개입, 1개",
+          "price": "30,000원",
+          "discount_rate": 17,
+          "priceAt": "09.20 14:51",
+          "image": "https://image11.coupangcdn.com/image/vendor_inventory/3ea0/ff2ccddf9849355d1a8172ed9c56c6dbe60dab8d3fd19af9c48c115b9e82.jpg",
+          "url": "https://link.coupang.com/a/hb2G2N9mTI",
+          "_ts": 1789883500.649248
+        },
+        {
           "name": "익스트림 올인원 포 맨 멀티비타민, 30회분, 1개",
           "price": "26,660원",
           "discount_rate": 23,
