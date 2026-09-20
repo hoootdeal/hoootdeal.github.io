@@ -870,24 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c5ac/3d4cf3115380f3b17d4d84ed4e77b7e9b18e792a07423dd6be49394bd129.jpg",
           "url": "https://link.coupang.com/a/g3LdnV0sdo",
           "_ts": 1789452374.205796
-        },
-        {
-          "name": "치토스 스모키바베큐맛, 82g, 4개",
-          "price": "3,740원",
-          "discount_rate": 23,
-          "priceAt": "09.15 14:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1072939813257024-0428b99e-381b-4380-ad1d-6a2de5867217.jpg",
-          "url": "https://link.coupang.com/a/g3IRAAhyF2",
-          "_ts": 1789450399.4335208
-        },
-        {
-          "name": "네스틱 유아용 컵 3종 세트, 피치퍼즈 + 레몬옐로우 + 올리브그린, 1세트, 200ml",
-          "price": "9,160원",
-          "discount_rate": 34,
-          "priceAt": "09.15 13:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/07/09/17/7/56da4626-30b1-45dd-ac4f-ecb17720ffdd.jpg",
-          "url": "https://link.coupang.com/a/g3FbODD6ke",
-          "_ts": 1789447315.5652978
         }
       ]
     },
@@ -896,6 +878,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "아임닭 탱글탱글 닭가슴살 비엔나, 120g, 10팩",
+          "price": "15,900원",
+          "discount_rate": 59,
+          "priceAt": "09.20 14:37",
+          "image": "https://shopping.toss.im/live/temp/2026-09-09/0bbe2d2e-3438-4436-9aff-eab1d9e56316.jpg",
+          "url": "https://toss.im/_m/bylx5A3q",
+          "_ts": 1789882638.772536
+        },
         {
           "name": "운동화 세탁망, 40x20cm, 2개",
           "price": "6,800원",
@@ -1399,15 +1390,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MTg4Njhm/U1d5OS9La2dQbkVVdFhnNzhqQnVDNnRmSDZpVlNNSG5RNk1YUnFwV0xDND0.png",
           "url": "https://toss.im/_m/VvXw5KJ",
           "_ts": 1789453453.574192
-        },
-        {
-          "name": "골드럽 섬유유연제 로즈핑크, 3.2L, 4개",
-          "price": "11,800원",
-          "discount_rate": 61,
-          "priceAt": "09.15 14:17",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/OWY3NWZk/VEdNVnlPSXptWmxYYytZM21NaG5jckNKNVNOcm5Jem1ZeGlNVnNqaE01az0.png",
-          "url": "https://toss.im/_m/1FDS4ohd",
-          "_ts": 1789449475.921912
         }
       ]
     },
