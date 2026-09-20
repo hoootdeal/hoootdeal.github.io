@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 보들보들 치즈볶음면 매운맛 130g, 4개",
+          "price": "3,180원",
+          "discount_rate": 36,
+          "priceAt": "09.21 07:42",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4a8a/09921f4989d18f6b79b045e3724c9f202e06e832714eb6ae15670cf333e1.jpg",
+          "url": "https://link.coupang.com/a/hdcXKO3AHs",
+          "_ts": 1789944179.975796
+        },
+        {
           "name": "헤인느 먼지없는 프리미엄 호텔 수건, 다크그레이, 10개",
           "price": "24,800원",
           "discount_rate": 17,
@@ -825,33 +834,6 @@
           "image": "https://img4c.coupangcdn.com/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
           "url": "https://link.coupang.com/a/g4X9nUSZFs",
           "_ts": 1789515290.2609
-        },
-        {
-          "name": "어몽어스 여아용 장목 양말 5족 세트, 혼합색상, 5호",
-          "price": "3,300원",
-          "discount_rate": 56,
-          "priceAt": "09.16 07:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2021/08/23/15/7/067841aa-55d7-4d95-9ddd-9181bb3d1b56.jpg",
-          "url": "https://link.coupang.com/a/g4STEKJ4E0",
-          "_ts": 1789510880.726333
-        },
-        {
-          "name": "일리 볼드 로스트 인텐소 캡슐커피, 6.7g, 21개입, 1개",
-          "price": "10,960원",
-          "discount_rate": 30,
-          "priceAt": "09.16 07:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/43903717961606-a77261af-97df-4b32-8f79-b8fb1957807c.jpg",
-          "url": "https://link.coupang.com/a/g4SaJohFUy",
-          "_ts": 1789510272.2497978
-        },
-        {
-          "name": "쿠쿠 직수형 비데, CBT-C4031W, 고객직접설치",
-          "price": "90,000원",
-          "discount_rate": 30,
-          "priceAt": "09.16 07:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c7d5/8512b889484eb2352308a6cdd446e2df0bc74f19a9f039f7a0113968e4d5.jpg",
-          "url": "https://link.coupang.com/a/g4RZNJw028",
-          "_ts": 1789510123.941331
         }
       ]
     },
