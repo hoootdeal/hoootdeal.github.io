@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바삭칩 바삭팝콘 스팸맛, 55g, 4개",
+          "price": "3,230원",
+          "discount_rate": 58,
+          "priceAt": "09.20 15:35",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/15f5d9bf-8024-4ab6-8789-8d55e1db24594917939009497738894.png",
+          "url": "https://link.coupang.com/a/hb5PALQPW8",
+          "_ts": 1789886135.182539
+        },
+        {
           "name": "G7 퓨어블랙 원두커피믹스, 2g, 200개입, 1개",
           "price": "30,000원",
           "discount_rate": 17,
@@ -861,24 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/603635707696969-e3ae84a1-3930-41a5-becf-a4a9a0c7b5a0.jpg",
           "url": "https://link.coupang.com/a/g3Sd2LhcXc",
           "_ts": 1789458260.9845939
-        },
-        {
-          "name": "키즈벨 키네오 국내 꿈크는 성장기 밀크 칼슘 MBP 초유 어린이 청소년 키즈 영양제 가바 멜라토닌 특허원료 SR103, 30정, 1개",
-          "price": "18,950원",
-          "discount_rate": 31,
-          "priceAt": "09.15 15:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9f00/d095ac72858d83d9381a1159deccedd1e0c991a98851bf98b105eece9b35.jpg",
-          "url": "https://link.coupang.com/a/g3MMIXwwqO",
-          "_ts": 1789453693.2375329
-        },
-        {
-          "name": "Usborne동물 오케스트라, 상품상세 설명 참조, 어스본코리아",
-          "price": "9,480원",
-          "discount_rate": 44,
-          "priceAt": "09.15 15:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c5ac/3d4cf3115380f3b17d4d84ed4e77b7e9b18e792a07423dd6be49394bd129.jpg",
-          "url": "https://link.coupang.com/a/g3LdnV0sdo",
-          "_ts": 1789452374.205796
         }
       ]
     },
@@ -1399,15 +1390,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/OTZhMDAx/QUxacmVTeXMyLzh6bXRCTk05K05sdGJKTkRiTVduVFMwbXR0S2xaaTFQMHA.png",
           "url": "https://toss.im/_m/hVdbEx8v",
           "_ts": 1789456255.634177
-        },
-        {
-          "name": "추추 추어탕, 500g, 4개",
-          "price": "12,771원",
-          "discount_rate": 29,
-          "priceAt": "09.15 15:24",
-          "image": "https://shopping.toss.im/live/taca/ai/MTg4Njhm/U1d5OS9La2dQbkVVdFhnNzhqQnVDNnRmSDZpVlNNSG5RNk1YUnFwV0xDND0.png",
-          "url": "https://toss.im/_m/VvXw5KJ",
-          "_ts": 1789453453.574192
         }
       ]
     },
