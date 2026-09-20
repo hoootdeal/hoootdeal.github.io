@@ -870,6 +870,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "맘스터치 시그니처 치킨텐더, 1kg, 2개",
+          "price": "19,480원",
+          "discount_rate": 21,
+          "priceAt": "09.20 20:55",
+          "image": "https://shopping.toss.im/live/taca/ai/ODdlMGY5/WnR6a3k4emJsWnJwa3pNZWJiT21NZWptS0dXa3pxR1RrUnpUWTNSWVljST0.png",
+          "url": "https://toss.im/_m/3dG91zF4",
+          "_ts": 1789905347.937335
+        },
+        {
           "name": "호정가 찹쌀약과 세트, 1kg, 1박스",
           "price": "8,900원",
           "discount_rate": 44,
@@ -1354,15 +1363,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-02-28/198e66dc-0a26-422b-b0dc-8047dd7f7af6.png",
           "url": "https://toss.im/_m/x3kyHHDy",
           "_ts": 1789475485.5630138
-        },
-        {
-          "name": "해성 완도 염장미역줄기, 4kg, 1개",
-          "price": "7,890원",
-          "discount_rate": 50,
-          "priceAt": "09.15 20:46",
-          "image": "https://shopping.toss.im/live/taca/ai/MDBlY2Zm/QU1FYzljZFdjS2dVaXgxeUxBTHlMOEJ3V3VxdnZoNFM4bWs4Zy82dFFYUXY.png",
-          "url": "https://toss.im/_m/3HLpu4Dy",
-          "_ts": 1789472777.381087
         }
       ]
     },
