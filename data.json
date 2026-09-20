@@ -870,6 +870,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "산들에담다 GAP 노지 감귤, 특품, 로얄과, 5kg, 1박스",
+          "price": "13,790원",
+          "discount_rate": 76,
+          "priceAt": "09.20 22:26",
+          "image": "https://shopping.toss.im/live/temp/2026-08-28/12aca3f7-0d09-47b5-bcb8-a9dc0453c75d.png",
+          "url": "https://toss.im/_m/TU00S5Xa",
+          "_ts": 1789910810.384893
+        },
+        {
           "name": "제주돼지 갈비맛 양념구이, 1kg, 1개",
           "price": "11,800원",
           "discount_rate": 30,
