@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데웰푸드 스크류바 미니 (냉동), 6개, 12개입, 25ml",
+          "price": "14,830원",
+          "discount_rate": 47,
+          "priceAt": "09.20 16:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/201601581394180-de818e5d-9cbc-4eb1-9488-c9537b5ae7ca.png",
+          "url": "https://link.coupang.com/a/hcabPALW0q",
+          "_ts": 1789889794.099767
+        },
+        {
           "name": "바삭칩 바삭팝콘 스팸맛, 55g, 4개",
           "price": "3,230원",
           "discount_rate": 58,
@@ -1381,15 +1390,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MGRmNTA2/QU5UbGIyK2RyZTVjMnpCNlcvNmsydFA2eFArWUFIOFFzMjF6dFNlVXpKU2s.png",
           "url": "https://toss.im/_m/D6sau5hB",
           "_ts": 1789461113.0864189
-        },
-        {
-          "name": "삼육김 광천 올리브 녹차김 도시락김, 4g, 16봉, 2개",
-          "price": "9,400원",
-          "discount_rate": 41,
-          "priceAt": "09.15 16:10",
-          "image": "https://shopping.toss.im/live/taca/ai/OTZhMDAx/QUxacmVTeXMyLzh6bXRCTk05K05sdGJKTkRiTVduVFMwbXR0S2xaaTFQMHA.png",
-          "url": "https://toss.im/_m/hVdbEx8v",
-          "_ts": 1789456255.634177
         }
       ]
     },
