@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스타벅스 하우스 블렌드 분쇄원두, 200g, 1개",
+          "price": "8,440원",
+          "discount_rate": 40,
+          "priceAt": "09.21 12:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8491/12a8235187f8416a12fd79e4f615e480b6bc3ab324d8594616ffa0fb70ba.jpg",
+          "url": "https://link.coupang.com/a/hdwE6osw2e",
+          "_ts": 1789960719.520824
+        },
+        {
           "name": "제오닉 명절음식 전 보관용기 3.7L 2P, 1개, 2개",
           "price": "11,320원",
           "discount_rate": 21,
