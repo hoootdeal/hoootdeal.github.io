@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "필립스 3000 시리즈 전기면도기, S3243/12, 스톰블루",
+          "price": "48,920원",
+          "discount_rate": 25,
+          "priceAt": "09.21 15:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/330745046063118-654954a0-462b-4384-b2c4-aca211b51092.jpg",
+          "url": "https://link.coupang.com/a/hdIoyM3HAi",
+          "_ts": 1789970569.5100439
+        },
+        {
           "name": "해태제과 버터링 골드, 194g, 4개",
           "price": "8,070원",
           "discount_rate": 23,
@@ -1354,15 +1363,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MmQ2ZTQ4/WjhmeUQ5bWM1QWN5bkpJOERkdVptSE9rSTNoN1lVeTUzSm0zUnZzazNnYz0.png",
           "url": "https://toss.im/_m/dgwwuRWv",
           "_ts": 1789540110.563725
-        },
-        {
-          "name": "지오클린 레몬 주방세제, 4L, 2개",
-          "price": "9,900원",
-          "discount_rate": 67,
-          "priceAt": "09.16 14:57",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/ZDFjYWQ4/UzIxN2JIU3p0TktyTFdpMnpQa05JemVFdHRJblVOTWwyeXkwMHBGRWFWbz0.png",
-          "url": "https://toss.im/_m/1oqBBcLj",
-          "_ts": 1789538242.231105
         }
       ]
     },
