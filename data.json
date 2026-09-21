@@ -888,6 +888,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "미미네 오리지널 국물떡볶이, 오리지널, 570g, 4봉",
+          "price": "9,900원",
+          "discount_rate": 57,
+          "priceAt": "09.21 16:36",
+          "image": "https://shopping.toss.im/live/temp/2025-06-16/175dd140-c026-4092-b0fe-83912e77fb2b.png",
+          "url": "https://toss.im/_m/HHO7iX4b",
+          "_ts": 1789976180.48525
+        },
+        {
           "name": "프렘 더 슬림 음식물처리기, P260, 화이트, 1개",
           "price": "179,000원",
           "discount_rate": 55,
