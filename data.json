@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "몽돌 여성용 골지 브이넥 가디건 MDCD034, S, Oatmeal",
+          "price": "14,100원",
+          "discount_rate": 76,
+          "priceAt": "09.21 12:37",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/26/17/4/270a937a-0354-4b0e-8cc6-d7e2eba51009.jpg",
+          "url": "https://link.coupang.com/a/hdx1C99WTY",
+          "_ts": 1789961864.471927
+        },
+        {
           "name": "스타벅스 하우스 블렌드 분쇄원두, 200g, 1개",
           "price": "8,440원",
           "discount_rate": 40,
@@ -834,15 +843,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/9f48cc22-beb1-46a9-8532-770df8e7cf4189186741850651276.png",
           "url": "https://link.coupang.com/a/g5fA6Fiubc",
           "_ts": 1789529943.845611
-        },
-        {
-          "name": "발이 좋아하는 풋 브러쉬 발씻는 매트, 2개, 1개입, 그레이",
-          "price": "3,900원",
-          "discount_rate": 57,
-          "priceAt": "09.16 12:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/7ea63514-03bd-47ed-83e9-2559740ae0582199980871833637846.jpg",
-          "url": "https://link.coupang.com/a/g5e2So78Hk",
-          "_ts": 1789529477.8371048
         }
       ]
     },
