@@ -888,6 +888,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "더 빅토리아, 청포도 500ml 20개 + 파인애플 500ml 20개, 40개",
+          "price": "16,400원",
+          "discount_rate": 39,
+          "priceAt": "09.21 18:18",
+          "image": "https://shopping.toss.im/live/taca/ai/ZWMxOGNm/QUtFZHdZMUw2MkpGNzd5QUdIclJvWk8xa1RiRU1wSlNHMDF0bFhic1JLNys.png",
+          "url": "https://toss.im/_m/Fufoffe8",
+          "_ts": 1789982339.3926778
+        },
+        {
           "name": "이진물산 볶은 땅콩, 24/28, 1kg, 1봉",
           "price": "7,400원",
           "discount_rate": 32,
