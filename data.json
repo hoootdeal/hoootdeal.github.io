@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "창억떡 갓 만든 흑임자 인절미, 1kg, 1개입, 1개",
+          "price": "19,990원",
+          "discount_rate": 4,
+          "priceAt": "09.21 16:19",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/54741823847064-b8c5238e-7672-4f63-a458-d12d2957192e.jpg",
+          "url": "https://link.coupang.com/a/hdNTFG74eG",
+          "_ts": 1789975190.8341608
+        },
+        {
           "name": "포미 착즙 토마토 주스, 750ml, 2개",
           "price": "4,500원",
           "discount_rate": 30,
@@ -852,15 +861,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1076790575012128-e5953f6b-4938-4372-a2f4-63519b59f461.jpg",
           "url": "https://link.coupang.com/a/g5zAmn06bQ",
           "_ts": 1789546721.640626
-        },
-        {
-          "name": "센카 퍼펙트 휩 프레시 클렌징 폼, 100g, 3개",
-          "price": "15,400원",
-          "discount_rate": 16,
-          "priceAt": "09.16 16:17",
-          "image": "https://img3c.coupangcdn.com/image/retail/images/649404505332720-51a60066-9e61-43ac-b120-a1f24ba094c9.jpg",
-          "url": "https://link.coupang.com/a/g5venvvIqq",
-          "_ts": 1789543067.039978
         }
       ]
     },
