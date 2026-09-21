@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데웰푸드 티코 밀크초코 아이스크림 (냉동), 34ml, 15개입, 4개",
+          "price": "18,600원",
+          "discount_rate": 24,
+          "priceAt": "09.21 18:03",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/9142380833236-4b13c06b-210d-4777-9b45-83a9696a5d89.jpg",
+          "url": "https://link.coupang.com/a/hdVhuyefSK",
+          "_ts": 1789981391.039607
+        },
+        {
           "name": "Apple 2024 에어팟 4 액티브 노이즈 캔슬링 블루투스 이어폰, MXP93KH/A, 화이트",
           "price": "170,100원",
           "discount_rate": 25,
@@ -870,15 +879,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3f48/d11de8ee3af2363096aa5378138f07ac08749bbe62339cea3376aecb506b.jpg",
           "url": "https://link.coupang.com/a/g5D2HyAlbg",
           "_ts": 1789550465.259341
-        },
-        {
-          "name": "핏쉴드 땀흡수 헤어밴드, 4개, 블랙, FREE",
-          "price": "5,500원",
-          "discount_rate": 82,
-          "priceAt": "09.16 18:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f210/e8d6960f8b8ff44e774d496fe7d9de7b0d7f97e07d6a53bb679c882f3cd9.png",
-          "url": "https://link.coupang.com/a/g5CKmyvBrE",
-          "_ts": 1789549377.687503
         }
       ]
     },
@@ -1381,15 +1381,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YTI5M2Zm/QU9LVVlwd3p2NzlCdld1TVk5enZudUZXcTFFcnN4Q3JuS3ZVUUw2dlZKOWg.png",
           "url": "https://toss.im/_m/fNZBizIa",
           "_ts": 1789550813.178308
-        },
-        {
-          "name": "프로코 실내건조 7종효소 라벤더 세탁세제, 2.5L, 4개",
-          "price": "8,900원",
-          "discount_rate": 59,
-          "priceAt": "09.16 17:58",
-          "image": "https://shopping.toss.im/live/temp/2026-09-15/cbb4bafa-5fef-46ed-b90c-fc5210967f97.jpeg",
-          "url": "https://toss.im/_m/ZXUr1BKe",
-          "_ts": 1789549120.1466508
         }
       ]
     },
