@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데웰푸드 셀렉션 더 싱글 초코 아이스크림 (냉동), 50ml, 10개입, 4박스",
+          "price": "18,600원",
+          "discount_rate": 61,
+          "priceAt": "09.21 19:33",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/681684896047848-02c0cc9f-bd15-4da6-a871-e80b7118bca6.jpg",
+          "url": "https://link.coupang.com/a/hd1JttZhM4",
+          "_ts": 1789986806.942254
+        },
+        {
           "name": "베베숲 오리진 유아물티슈 캡형, 50g, 100매, 10개",
           "price": "10,900원",
           "discount_rate": 16,
@@ -861,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5272/89dcd57989ddae7beab1982fead6d43946887908b43a0d3575f7b36dee25.jpg",
           "url": "https://link.coupang.com/a/g5Mv6ezonQ",
           "_ts": 1789557580.2316248
-        },
-        {
-          "name": "신라면 건면 97g, 20개",
-          "price": "13,600원",
-          "discount_rate": 24,
-          "priceAt": "09.16 19:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dbeb/f458dd1e3c47841abdbe25ecd60b045f3224d9226d2645e74776d1668118.jpg",
-          "url": "https://link.coupang.com/a/g5IiE7Qla0",
-          "_ts": 1789554039.913016
         }
       ]
     },
