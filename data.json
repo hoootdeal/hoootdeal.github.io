@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "포미 착즙 토마토 주스, 750ml, 2개",
+          "price": "4,500원",
+          "discount_rate": 30,
+          "priceAt": "09.21 15:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/343418861604237-03a70c05-66fb-436e-9f0f-9c928808741a.jpg",
+          "url": "https://link.coupang.com/a/hdL5ief4Im",
+          "_ts": 1789973668.5862908
+        },
+        {
           "name": "필립스 3000 시리즈 전기면도기, S3243/12, 스톰블루",
           "price": "48,920원",
           "discount_rate": 25,
