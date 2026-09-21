@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "해태제과 버터링 골드, 194g, 4개",
+          "price": "8,070원",
+          "discount_rate": 23,
+          "priceAt": "09.21 14:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/86397055896339-0d9fce75-b103-43f6-b8a5-14d4adfa101b.jpg",
+          "url": "https://link.coupang.com/a/hdHTHfrKLs",
+          "_ts": 1789970151.856092
+        },
+        {
           "name": "CLA 데일리 보건용 마스크 대형 KF94, 25개입, 4개, 화이트",
           "price": "9,500원",
           "discount_rate": 46,
@@ -843,15 +852,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/324399455263208-bdc18c17-200b-4bde-97b3-cd8f22dcbfd7.jpg",
           "url": "https://link.coupang.com/a/g5qmwIengy",
           "_ts": 1789538979.238733
-        },
-        {
-          "name": "뉴발란스 베이직 로고 파일 중목 양말 4켤레, 네이비, S(230~255mm)",
-          "price": "12,290원",
-          "discount_rate": 20,
-          "priceAt": "09.16 14:31",
-          "image": "https://image12.coupangcdn.com/image/retail/images/82039800731796-a2456dd6-7e93-48b7-a7ed-290c0aa75f2a.jpg",
-          "url": "https://link.coupang.com/a/g5nBu4Vx1g",
-          "_ts": 1789536661.8007748
         }
       ]
     },
