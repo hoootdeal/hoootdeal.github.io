@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "베베숲 오리진 유아물티슈 캡형, 50g, 100매, 10개",
+          "price": "10,900원",
+          "discount_rate": 16,
+          "priceAt": "09.21 19:11",
+          "image": "https://image15.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+          "url": "https://link.coupang.com/a/hd0cuLbaOi",
+          "_ts": 1789985519.721288
+        },
+        {
           "name": "롯데웰푸드 티코 밀크초코 아이스크림 (냉동), 34ml, 15개입, 4개",
           "price": "18,600원",
           "discount_rate": 24,
@@ -861,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dbeb/f458dd1e3c47841abdbe25ecd60b045f3224d9226d2645e74776d1668118.jpg",
           "url": "https://link.coupang.com/a/g5IiE7Qla0",
           "_ts": 1789554039.913016
-        },
-        {
-          "name": "멘토스 미니 레인보우 츄잉캔디, 1kg, 1개",
-          "price": "7,310원",
-          "discount_rate": 28,
-          "priceAt": "09.16 19:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/b431/fb9a1865a9227e0df66b3384da6cca1adcafe81ee6dfcddf8ae7b278f112.jpg",
-          "url": "https://link.coupang.com/a/g5HzzKAlGe",
-          "_ts": 1789553428.5967412
         }
       ]
     },
