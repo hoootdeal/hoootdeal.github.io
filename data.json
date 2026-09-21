@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스크럽대디 마미 수세미 랜덤발송, 3개입, 2개",
+          "price": "13,000원",
+          "discount_rate": 50,
+          "priceAt": "09.21 13:50",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/39300534859435-be186de8-39c9-4f2d-b36d-143d0fefbb3a.jpg",
+          "url": "https://link.coupang.com/a/hdDd7ALP1U",
+          "_ts": 1789966231.038698
+        },
+        {
           "name": "그린스토아 넥가드 목 경추 스트레칭 자세교정 보조쿠션",
           "price": "6,570원",
           "discount_rate": 53,
@@ -1345,15 +1354,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-09-10/3c1be388-b167-46ca-a268-0321e362b07e.jpeg",
           "url": "https://toss.im/_m/PEmw1FH8",
           "_ts": 1789535121.9852002
-        },
-        {
-          "name": "산과들에 원데이 발란스 그린라벨, 20g, 30봉",
-          "price": "7,630원",
-          "discount_rate": 52,
-          "priceAt": "09.16 13:35",
-          "image": "https://shopping.toss.im/live/taca/ai/MmNlNjFi/QUszS3g4YldOeXgvK2x4K0ZsOFlzbm1CSEsxclpHUlhvVld4TXBXNkJQVk8.png",
-          "url": "https://toss.im/_m/H283inx8",
-          "_ts": 1789533358.736564
         }
       ]
     },
