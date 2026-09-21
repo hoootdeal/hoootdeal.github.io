@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하늘청 식혜 오리지날, 1.8L, 2개",
+          "price": "9,780원",
+          "discount_rate": 30,
+          "priceAt": "09.22 08:56",
+          "image": "https://img1a.coupangcdn.com/image/vendor_inventory/58c6/8b0e982ed31324512c30f77681ea1e6973cc9d0625eda7fb4fc200ee6e52.jpg",
+          "url": "https://link.coupang.com/a/heW7EiyToO",
+          "_ts": 1790034992.544333
+        },
+        {
           "name": "[브랜드인증] 겐조 플라워 바이 겐조 오 드 퍼퓸, 100ml, 1개",
           "price": "63,010원",
           "discount_rate": 31,
@@ -861,42 +870,6 @@
           "image": "https://static.coupangcdn.com/image/retail/images/348797447480285-6b5f6b4b-3d97-4b2d-89c7-9f12f2810876.jpg",
           "url": "https://link.coupang.com/a/g6GmvzjsTQ",
           "_ts": 1789604468.108012
-        },
-        {
-          "name": "오리온 미쯔 황치즈 6p, 222g, 1개",
-          "price": "3,360원",
-          "discount_rate": 24,
-          "priceAt": "09.17 08:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/19/10/2/714d9d96-7e7d-4bb7-a31d-00e49679ba88.jpg",
-          "url": "https://link.coupang.com/a/g6AThuBDpI",
-          "_ts": 1789599874.465035
-        },
-        {
-          "name": "웅진 캐치 티니핑 유기농 보리차, 200ml, 24개",
-          "price": "11,520원",
-          "discount_rate": 25,
-          "priceAt": "09.17 07:59",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/481167118489568-6ba7dd93-9c6a-495b-a0d1-bf1460303715.jpg",
-          "url": "https://link.coupang.com/a/g6AuXVpA60",
-          "_ts": 1789599545.0389361
-        },
-        {
-          "name": "크린랩 크린백 17cm x 25cm, 미니(XS), 100개입, 3개",
-          "price": "2,550원",
-          "discount_rate": 46,
-          "priceAt": "09.17 07:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/e908/ebb6799839520c1dfa49d7f03ff01b80e3a70978ef8cee0d580cd09d1941.jpg",
-          "url": "https://link.coupang.com/a/g6AlBHLQu5",
-          "_ts": 1789599418.9629362
-        },
-        {
-          "name": "쉬즈홈 마리앤 피치스킨 차렵이불 세트",
-          "price": "21,650원",
-          "discount_rate": 67,
-          "priceAt": "09.17 07:51",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1261586181827950-dc3538d7-db0c-4b79-8546-5e87729f3148.jpg",
-          "url": "https://link.coupang.com/a/g6zXIdS2KG",
-          "_ts": 1789599095.161249
         }
       ]
     },
