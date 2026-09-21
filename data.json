@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "고로고로 초강력 테이프클리너 리필, 6개, 단일 색상",
+          "price": "8,120원",
+          "discount_rate": 28,
+          "priceAt": "09.22 07:28",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/65c6/0869a349b04e0d02bd0f9f2407d877c519e33a674a2e0fa602f58524c3fa.jpg",
+          "url": "https://link.coupang.com/a/heQNowktk4",
+          "_ts": 1790029680.266005
+        },
+        {
           "name": "KURUA 닿자마자 즉각쿨링 실키아이스 냉감 여름 냉감 차렵이불 세트, 이불+베개커버 세트, 퀸, 소프트블루",
           "price": "8,000원",
           "discount_rate": 64,
@@ -879,15 +888,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1261586181827950-dc3538d7-db0c-4b79-8546-5e87729f3148.jpg",
           "url": "https://link.coupang.com/a/g6zXIdS2KG",
           "_ts": 1789599095.161249
-        },
-        {
-          "name": "하림 치킨너겟 2 (냉동), 1kg, 2개, 1kg × 2개",
-          "price": "13,690원",
-          "discount_rate": 31,
-          "priceAt": "09.17 07:02",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/425303835215979-2a387de4-8051-4ec1-8257-e73db093af0c.jpg",
-          "url": "https://link.coupang.com/a/g6wroM9yk8",
-          "_ts": 1789596138.5591629
         }
       ]
     },
