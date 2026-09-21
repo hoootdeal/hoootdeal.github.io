@@ -834,15 +834,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/dfa2/9640da7513fa9cd0789933232510f33ec7d1a54aac1b94b9662a2231efc5.jpg",
           "url": "https://link.coupang.com/a/g5inpjLB48",
           "_ts": 1789532273.656839
-        },
-        {
-          "name": "레모나 드링크, 100ml, 20개",
-          "price": "6,760원",
-          "discount_rate": 66,
-          "priceAt": "09.16 12:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/9f48cc22-beb1-46a9-8532-770df8e7cf4189186741850651276.png",
-          "url": "https://link.coupang.com/a/g5fA6Fiubc",
-          "_ts": 1789529943.845611
         }
       ]
     },
@@ -851,6 +842,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "후디스 소화 편한 우유 오리지널, 190ml, 24개",
+          "price": "11,900원",
+          "discount_rate": 64,
+          "priceAt": "09.21 12:52",
+          "image": "https://shopping.toss.im/live/temp/2025-07-08/9c4e33f1-ab70-473e-9266-1aa0db486c23.jpeg",
+          "url": "https://toss.im/_m/Z7sd87HD",
+          "_ts": 1789962744.022068
+        },
         {
           "name": "애슐리 볶음밥 올인원 10종 세트, 1개",
           "price": "21,900원",
