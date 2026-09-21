@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하인즈 50% 슈가 앤 솔트 토마토 케찹, 435g, 5개",
+          "price": "15,100원",
+          "discount_rate": 49,
+          "priceAt": "09.21 14:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/e32ff5df-291f-4980-b156-3133853a2ce78847409944842249243.png",
+          "url": "https://link.coupang.com/a/hdEBzK7PMG",
+          "_ts": 1789967389.025849
+        },
+        {
           "name": "스크럽대디 마미 수세미 랜덤발송, 3개입, 2개",
           "price": "13,000원",
           "discount_rate": 50,
@@ -1345,15 +1354,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/ZDFjYWQ4/UzIxN2JIU3p0TktyTFdpMnpQa05JemVFdHRJblVOTWwyeXkwMHBGRWFWbz0.png",
           "url": "https://toss.im/_m/1oqBBcLj",
           "_ts": 1789538242.231105
-        },
-        {
-          "name": "교동 소고기 미역국, 500g, 5개",
-          "price": "14,200원",
-          "discount_rate": 48,
-          "priceAt": "09.16 14:05",
-          "image": "https://shopping.toss.im/live/temp/2026-09-10/3c1be388-b167-46ca-a268-0321e362b07e.jpeg",
-          "url": "https://toss.im/_m/PEmw1FH8",
-          "_ts": 1789535121.9852002
         }
       ]
     },
