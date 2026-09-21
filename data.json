@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "그린스토아 넥가드 목 경추 스트레칭 자세교정 보조쿠션",
+          "price": "6,570원",
+          "discount_rate": 53,
+          "priceAt": "09.21 13:30",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/f3fc1409-a3af-4a99-8907-ad4ab214398e_fixing_v2.png",
+          "url": "https://link.coupang.com/a/hdBLEk7PoW",
+          "_ts": 1789965006.1579819
+        },
+        {
           "name": "몽돌 여성용 골지 브이넥 가디건 MDCD034, S, Oatmeal",
           "price": "14,100원",
           "discount_rate": 76,
@@ -816,24 +825,6 @@
           "image": "https://image12.coupangcdn.com/image/retail/images/82039800731796-a2456dd6-7e93-48b7-a7ed-290c0aa75f2a.jpg",
           "url": "https://link.coupang.com/a/g5nBu4Vx1g",
           "_ts": 1789536661.8007748
-        },
-        {
-          "name": "삼성전자 Galaxy Z Fold8 자급제 SM-F971N, 크림, 256GB",
-          "price": "2,073,070원",
-          "discount_rate": 9,
-          "priceAt": "09.16 13:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4861142705485-439f97e4-04d1-48dd-9be4-c90253323634.jpg",
-          "url": "https://link.coupang.com/a/g5iIDI5IrI",
-          "_ts": 1789532561.884532
-        },
-        {
-          "name": "크라운제과 참쌀 선과, 253g, 2개",
-          "price": "5,740원",
-          "discount_rate": 23,
-          "priceAt": "09.16 13:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/dfa2/9640da7513fa9cd0789933232510f33ec7d1a54aac1b94b9662a2231efc5.jpg",
-          "url": "https://link.coupang.com/a/g5inpjLB48",
-          "_ts": 1789532273.656839
         }
       ]
     },
