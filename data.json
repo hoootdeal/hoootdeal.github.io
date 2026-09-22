@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "깨끗한나라 톡톡 뽑아쓰는 무표백 천연펄프 키친타올, 100매, 6개",
+          "price": "6,720원",
+          "discount_rate": 19,
+          "priceAt": "09.22 14:17",
+          "image": "https://image12.coupangcdn.com/image/retail/images/2449081076052563-ce8cce5e-dfa5-46f6-a22c-1148fcc97e59.jpg",
+          "url": "https://link.coupang.com/a/hfj2nZeRdQ",
+          "_ts": 1790054231.995553
+        },
+        {
           "name": "하림 용가리 치킨 (냉동), 1kg, 2개",
           "price": "16,750원",
           "discount_rate": 31,
@@ -861,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1845005791427809-5a063503-ff48-4bf3-9fe9-67b1586937d2.jpg",
           "url": "https://link.coupang.com/a/g65DBp0pPM",
           "_ts": 1789625690.7437341
-        },
-        {
-          "name": "발룬피니 내열강화유리 김치통 밀폐용기, 2.6L, 1개",
-          "price": "7,980원",
-          "discount_rate": 29,
-          "priceAt": "09.17 14:02",
-          "image": "https://img2c.coupangcdn.com/image/retail/images/2026/01/22/11/3/9747285c-4d48-48f3-b8ef-cb827d9fd240.jpg",
-          "url": "https://link.coupang.com/a/g60sSImQcC",
-          "_ts": 1789621347.921792
         }
       ]
     },
