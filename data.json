@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "더빅토리아 청귤 탄산음료, 500ml, 20개",
+          "price": "8,770원",
+          "discount_rate": 17,
+          "priceAt": "09.22 15:23",
+          "image": "https://image4.coupangcdn.com/image/retail/images/2025/12/05/12/0/0b82b4d2-c60c-4100-a471-94f79adcc79d.jpg",
+          "url": "https://link.coupang.com/a/hfoL4YEn7s",
+          "_ts": 1790058210.172374
+        },
+        {
           "name": "깨끗한나라 톡톡 뽑아쓰는 무표백 천연펄프 키친타올, 100매, 6개",
           "price": "6,720원",
           "discount_rate": 19,
@@ -843,24 +852,6 @@
           "image": "https://image10.coupangcdn.com/image/retail/images/272996331344959-fa142b65-1a8b-4e2d-bdcf-903b0184dee5.jpg",
           "url": "https://link.coupang.com/a/g7beZmWt7k",
           "_ts": 1789630394.411245
-        },
-        {
-          "name": "스너글 딥클린 캡슐 세탁세제 허거블 코튼 클린 앤 케어, 27개입, 1개, 27개입 × 1개",
-          "price": "8,750원",
-          "discount_rate": 34,
-          "priceAt": "09.17 15:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/06/03/9/7/f81f7fb4-b6f9-4cd4-8b57-b94bd5127f68.png",
-          "url": "https://link.coupang.com/a/g66fRnJors",
-          "_ts": 1789626208.293678
-        },
-        {
-          "name": "유니레버 썬 식기세척기용 타블렛 세제 레몬 50개입, 500g, 1개",
-          "price": "6,420원",
-          "discount_rate": 34,
-          "priceAt": "09.17 15:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/88224746440515-5cff185e-3909-4bd4-b42b-8f31b0930bbc.jpg",
-          "url": "https://link.coupang.com/a/g65RXbhzgW",
-          "_ts": 1789625884.2032902
         }
       ]
     },
@@ -1372,15 +1363,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-25/d1cbf35f-74b2-4757-9af7-57b15db20589.png",
           "url": "https://toss.im/_m/tne3MLKa",
           "_ts": 1789631440.355289
-        },
-        {
-          "name": "제이킨 피부괄사 3종, 전신괄사 + 문어괄사 + 하트괄사, 1세트",
-          "price": "4,900원",
-          "discount_rate": 66,
-          "priceAt": "09.17 15:21",
-          "image": "https://shopping.toss.im/live/taca/ai/YmI1NGJk/QUpobU9jOXRzYlNac25uSVpEbW03Wm1lVTF0TXkweFlNekR6VXNubkhLY00.png",
-          "url": "https://toss.im/_m/vZvjPdLp",
-          "_ts": 1789626119.649248
         }
       ]
     },
