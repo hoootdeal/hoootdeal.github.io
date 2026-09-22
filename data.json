@@ -861,15 +861,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/88224746440515-5cff185e-3909-4bd4-b42b-8f31b0930bbc.jpg",
           "url": "https://link.coupang.com/a/g65RXbhzgW",
           "_ts": 1789625884.2032902
-        },
-        {
-          "name": "롯데햄 롯데비엔나 소시지, 1kg, 2개",
-          "price": "12,310원",
-          "discount_rate": 22,
-          "priceAt": "09.17 15:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1845005791427809-5a063503-ff48-4bf3-9fe9-67b1586937d2.jpg",
-          "url": "https://link.coupang.com/a/g65DBp0pPM",
-          "_ts": 1789625690.7437341
         }
       ]
     },
@@ -878,6 +869,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
+          "price": "11,900원",
+          "discount_rate": 27,
+          "priceAt": "09.22 15:16",
+          "image": "https://shopping.toss.im/live/temp/2026-02-23/f7ec2348-80ca-421b-b004-8d0cd8992bb3.jpeg",
+          "url": "https://toss.im/_m/rCvx3naA",
+          "_ts": 1790057793.03222
+        },
         {
           "name": "C2Y 퓨어 아쿠아 휩 클렌징 폼, 120ml, 4개",
           "price": "9,800원",
