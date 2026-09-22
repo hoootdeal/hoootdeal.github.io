@@ -870,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/064c4b68-f078-4ecb-8790-d059da2014a16382546310252756337.png",
           "url": "https://link.coupang.com/a/g6UDP2bH1U",
           "_ts": 1789616458.666858
-        },
-        {
-          "name": "모던하우스 온 심플 커트러리 세트",
-          "price": "4,790원",
-          "discount_rate": 38,
-          "priceAt": "09.17 11:32",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/01/27/9/2/02bc597c-ad60-478b-b171-8dbd6ba0eedb.jpg",
-          "url": "https://link.coupang.com/a/g6PI9q4krA",
-          "_ts": 1789612331.598303
         }
       ]
     },
@@ -887,6 +878,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "반할만떡 당면만두, 420g, 4개",
+          "price": "12,900원",
+          "discount_rate": 24,
+          "priceAt": "09.22 12:16",
+          "image": "https://shopping.toss.im/live/temp/2026-03-10/ea282bd6-b38e-44fe-9916-b3f864460b0b.jpeg",
+          "url": "https://toss.im/_m/JxTO3G1g",
+          "_ts": 1790047018.4668841
+        },
         {
           "name": "이불 옷 정리 압축파우치, MEGA, 2개입, 1세트",
           "price": "15,900원",
@@ -1372,24 +1372,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NGM0OWVk/QUpqWUxNaHRaS0dreHoyMnlESHN6TVo4TVJOZ205THdFUmt6VDhMd2g2dzg.png",
           "url": "https://toss.im/_m/JUR8fw3B",
           "_ts": 1789619068.2577422
-        },
-        {
-          "name": "맛장군 열무김치, 2kg, 1팩",
-          "price": "10,900원",
-          "discount_rate": 69,
-          "priceAt": "09.17 12:00",
-          "image": "https://shopping.toss.im/live/temp/2026-04-21/af86d4da-e1ab-4491-b61f-c32e0c5c1f69.jpeg",
-          "url": "https://toss.im/_m/JHR2htoh",
-          "_ts": 1789614054.261924
-        },
-        {
-          "name": "뷰카 오브제 듀얼 초미세 탄력모 칫솔, 18개입, 1개",
-          "price": "9,900원",
-          "discount_rate": 58,
-          "priceAt": "09.17 11:21",
-          "image": "https://shopping.toss.im/live/taca/ai/YTMxYTJl/QUxPODg2dnc0WGpEdVBUM01jZTBYd3NlSGo0K292VFI2OHBUL3dHRjVBRDA.png",
-          "url": "https://toss.im/_m/HLALUbbg",
-          "_ts": 1789611692.0866828
         }
       ]
     },
