@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "시치미 쓱 데일리 물티슈 캡형, 50g, 100개입, 10개",
+          "price": "4,900원",
+          "discount_rate": 57,
+          "priceAt": "09.23 07:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1076790575012128-e5953f6b-4938-4372-a2f4-63519b59f461.jpg",
+          "url": "https://link.coupang.com/a/hguCk55Zg4",
+          "_ts": 1790115171.585419
+        },
+        {
           "name": "전두유 더진한 국산콩 무가당 두유, 190ml, 64개",
           "price": "24,400원",
           "discount_rate": 15,
@@ -825,24 +834,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/25/11/5/ed4892ab-f96c-4b11-9053-7dac3759d38a.jpg",
           "url": "https://link.coupang.com/a/g8dij5Asxg",
           "_ts": 1789684176.341547
-        },
-        {
-          "name": "바겐슈타이거 엘로아 플래티넘 실리콘 수저 세트",
-          "price": "14,840원",
-          "discount_rate": 31,
-          "priceAt": "09.18 07:12",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/12/18/0/97d5eee5-5c9c-436f-b4ce-e870a368adb7.jpg",
-          "url": "https://link.coupang.com/a/g8b43WW3iu",
-          "_ts": 1789683156.0063071
-        },
-        {
-          "name": "데니그리스 사과식초 허니, 500ml, 1개",
-          "price": "3,900원",
-          "discount_rate": 52,
-          "priceAt": "09.18 07:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2019/05/13/16/6/19627e02-8f2e-4958-91fb-998bb2cb854d.jpg",
-          "url": "https://link.coupang.com/a/g8bGHhUvYW",
-          "_ts": 1789682827.2353868
         }
       ]
     },
