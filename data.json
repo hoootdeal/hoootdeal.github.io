@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "샤크 에보파워 핸디 무선 청소기, 미드나잇블루, WV210KR",
+          "price": "93,320원",
+          "discount_rate": 16,
+          "priceAt": "09.22 18:51",
+          "image": "https://image5.coupangcdn.com/image/vendor_inventory/43b8/5eb64c7f961ed67c21c54cf27f18352521fa14a5b2daf080531372589473.jpg",
+          "url": "https://link.coupang.com/a/hfDEQAkZaK",
+          "_ts": 1790070704.95349
+        },
+        {
           "name": "테팔 인덕션 티타늄 1X 원픽 냄비팬 꿀고구마 옐로, 22cm, 1개",
           "price": "27,900원",
           "discount_rate": 21,
@@ -852,15 +861,6 @@
           "image": "https://img5c.coupangcdn.com/image/retail/images/86509264762290-55c19421-ff97-46a6-9e50-c388b1d1babb.jpg",
           "url": "https://link.coupang.com/a/g7pX4WP58C",
           "_ts": 1789642760.885392
-        },
-        {
-          "name": "가쯔 벌레 퇴치 휴대용 스마트 전기모기채 2p, 21 x 50.6 cm, 그린",
-          "price": "3,510원",
-          "discount_rate": 56,
-          "priceAt": "09.17 18:51",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/17864152102650-aad4b5f2-73fa-4032-9f6c-3583e092ae7b.jpg",
-          "url": "https://link.coupang.com/a/g7k6OYET0e",
-          "_ts": 1789638681.238505
         }
       ]
     },
