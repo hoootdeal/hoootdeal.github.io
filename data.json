@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "통잉 여성 산리오 시리즈 기모 털실내화 ST47845, 화이트, 230mm",
+          "price": "3,710원",
+          "discount_rate": 91,
+          "priceAt": "09.22 09:34",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/13b8/38a962785e43f419d8b03917c9b7c95121124d54850388ef1f6fcdbe91e4.JPG",
+          "url": "https://link.coupang.com/a/heZQ9rrxF6",
+          "_ts": 1790037287.9955342
+        },
+        {
           "name": "하늘청 식혜 오리지날, 1.8L, 2개",
           "price": "9,780원",
           "discount_rate": 30,
@@ -861,15 +870,6 @@
           "image": "https://image7.coupangcdn.com/image/retail/images/2616921517619673-f9f14c5a-3e8a-4992-8c3f-6e12359a8eb9.jpg",
           "url": "https://link.coupang.com/a/g6LAozAvxA",
           "_ts": 1789608854.854489
-        },
-        {
-          "name": "청정원 행복 7호 세트",
-          "price": "17,980원",
-          "discount_rate": 39,
-          "priceAt": "09.17 09:21",
-          "image": "https://static.coupangcdn.com/image/retail/images/348797447480285-6b5f6b4b-3d97-4b2d-89c7-9f12f2810876.jpg",
-          "url": "https://link.coupang.com/a/g6GmvzjsTQ",
-          "_ts": 1789604468.108012
         }
       ]
     },
