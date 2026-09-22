@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "테팔 인덕션 티타늄 1X 원픽 냄비팬 꿀고구마 옐로, 22cm, 1개",
+          "price": "27,900원",
+          "discount_rate": 21,
+          "priceAt": "09.22 17:42",
+          "image": "https://img2c.coupangcdn.com/image/retail/images/1381848859681366-4b79b70f-6e8d-46dc-b884-3cf7d715024c.jpg",
+          "url": "https://link.coupang.com/a/hfyJRrZ9e8",
+          "_ts": 1790066575.025482
+        },
+        {
           "name": "스폰텍스 TRIO COLORS 스크럽 스펀지 3종 세트, 1세트, 3개입",
           "price": "5,500원",
           "discount_rate": 29,
@@ -852,24 +861,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/17864152102650-aad4b5f2-73fa-4032-9f6c-3583e092ae7b.jpg",
           "url": "https://link.coupang.com/a/g7k6OYET0e",
           "_ts": 1789638681.238505
-        },
-        {
-          "name": "네오체어 위너 메쉬 사무용 의자, 베이지, 62 x 55 x 88 cm",
-          "price": "38,900원",
-          "discount_rate": 15,
-          "priceAt": "09.17 17:39",
-          "image": "https://img5a.coupangcdn.com/image/retail/images/1417877461934594-c773d1d0-8ee6-4604-a4d6-8bce4b169315.jpg",
-          "url": "https://link.coupang.com/a/g7f0xUw13k",
-          "_ts": 1789634398.198415
-        },
-        {
-          "name": "쏘픽 일회용 마스크 대형, 블랙, 2개, 50매입",
-          "price": "4,670원",
-          "discount_rate": 37,
-          "priceAt": "09.17 16:33",
-          "image": "https://image10.coupangcdn.com/image/retail/images/272996331344959-fa142b65-1a8b-4e2d-bdcf-903b0184dee5.jpg",
-          "url": "https://link.coupang.com/a/g7beZmWt7k",
-          "_ts": 1789630394.411245
         }
       ]
     },
@@ -1381,15 +1372,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/N2JiOGU1/T2p4cU5OWlRHMkZuU2Fjamo2U0hVNTlOWE02ZVo5U2svTU9aeE9CTzh4RT0.png",
           "url": "https://toss.im/_m/7bAFYnab",
           "_ts": 1789647438.730289
-        },
-        {
-          "name": "던킨 제로 아이스티 화이트피치 6개 + 샤인앤라임 6개, 500ml, 1세트",
-          "price": "6,600원",
-          "discount_rate": 72,
-          "priceAt": "09.17 16:50",
-          "image": "https://shopping.toss.im/live/temp/2026-08-25/d1cbf35f-74b2-4757-9af7-57b15db20589.png",
-          "url": "https://toss.im/_m/tne3MLKa",
-          "_ts": 1789631440.355289
         }
       ]
     },
