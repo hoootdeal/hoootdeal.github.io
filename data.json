@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "전두유 더진한 국산콩 무가당 두유, 190ml, 64개",
+          "price": "24,400원",
+          "discount_rate": 15,
+          "priceAt": "09.22 20:57",
+          "image": "https://image11.coupangcdn.com/image/retail/images/158454736164523-82dcc8d7-5d38-4289-b032-4ba9dfbb6baf.png",
+          "url": "https://link.coupang.com/a/hfMDNyLRJI",
+          "_ts": 1790078248.7935739
+        },
+        {
           "name": "뽀시래기 고양이 전연령용 엘라이신 든든한 사료, 면역/항산화, 15kg, 1개",
           "price": "9,990원",
           "discount_rate": 77,
@@ -861,15 +870,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/155378146588045-5047be3c-e3cc-4f11-a7e3-4f72b74abe84.jpg",
           "url": "https://link.coupang.com/a/g7xu7ZzdbU",
           "_ts": 1789649084.03891
-        },
-        {
-          "name": "사세 매콤달콤 닭강정 (냉동), 440g, 3개",
-          "price": "7,780원",
-          "discount_rate": 24,
-          "priceAt": "09.17 20:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2b889cb8-034b-4c13-89b8-ae06b20501183808227963473969358.png",
-          "url": "https://link.coupang.com/a/g7suHwRB8K",
-          "_ts": 1789644881.342836
         }
       ]
     },
