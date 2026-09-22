@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오리온 촉촉한황치즈칩 16p, 320g, 3개",
+          "price": "15,720원",
+          "discount_rate": 27,
+          "priceAt": "09.22 15:43",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/40f6f4da-0b53-45cb-b4f2-85a16fa254a114940367354948124383.png",
+          "url": "https://link.coupang.com/a/hfqc9pCAg0",
+          "_ts": 1790059415.330513
+        },
+        {
           "name": "더빅토리아 청귤 탄산음료, 500ml, 20개",
           "price": "8,770원",
           "discount_rate": 17,
