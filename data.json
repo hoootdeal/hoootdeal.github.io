@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "JMW 무빙쿠션 데일리 고데기 W2010ME + 캡, RealBlack + CopperOrange",
+          "price": "43,680원",
+          "discount_rate": 33,
+          "priceAt": "09.23 08:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/3b03/3fe7c515514839c478e009cb766df8420bf37b8cfc5380cda3ecb6523400.jpg",
+          "url": "https://link.coupang.com/a/hgBTikpkGW",
+          "_ts": 1790121278.443128
+        },
+        {
           "name": "푹핏 1+1 바른슬리퍼연구소 실내 사무실 거실 구름 슬리퍼, 2개, 240mm, 카키",
           "price": "5,680원",
           "discount_rate": 42,
@@ -825,15 +834,6 @@
           "image": "https://image1.coupangcdn.com/image/retail/images/103484849112517-65dab56a-a289-4807-9aef-f983a412b883.jpg",
           "url": "https://link.coupang.com/a/g8lBXNW7iu",
           "_ts": 1789691158.141344
-        },
-        {
-          "name": "디유 비비드 2중 진공 원터치 보온병, 핑크 + 카키, 350ml, 1세트",
-          "price": "8,880원",
-          "discount_rate": 69,
-          "priceAt": "09.18 08:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1212417057569140-56b4f6c7-a4c6-4be5-9856-140e49ffec1c.jpg",
-          "url": "https://link.coupang.com/a/g8guJy7fR6",
-          "_ts": 1789686863.285992
         }
       ]
     },
