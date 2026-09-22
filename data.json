@@ -879,6 +879,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "허만두 김치손만두, 1.4kg, 2개",
+          "price": "15,300원",
+          "discount_rate": 40,
+          "priceAt": "09.22 19:42",
+          "image": "https://shopping.toss.im/live/taca/ai/MDNhMzlk/QUxObDBpVmY2WkllcTJGTEhoNnhkMm0wa3l0NWxxVE5rc2FUVGFHZFVpemw.png",
+          "url": "https://toss.im/_m/XWYCDROt",
+          "_ts": 1790073768.144863
+        },
+        {
           "name": "펩시콜라 제로슈거 라임향, 355ml, 48개",
           "price": "29,900원",
           "discount_rate": 39,
