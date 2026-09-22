@@ -870,6 +870,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "펩시콜라 제로슈거 라임향, 355ml, 48개",
+          "price": "29,900원",
+          "discount_rate": 39,
+          "priceAt": "09.22 18:59",
+          "image": "https://shopping.toss.im/live/taca/ai/ZTQyMDEw/TlE5bWU5SnhtMHVOaHVXMGNVcythMDQwNDZQeHd3d2NMUXZ6WTlMMERKdz0.png",
+          "url": "https://toss.im/_m/FKobKvnj",
+          "_ts": 1790071161.848567
+        },
+        {
           "name": "케라시스 두피 비듬케어 딥클린 쿨링 단백질 샴푸, 980ml, 3개",
           "price": "12,255원",
           "discount_rate": 77,
