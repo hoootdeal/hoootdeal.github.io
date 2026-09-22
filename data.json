@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "프레지덩 스프레더블 치즈 포션, 17.5g, 8개입, 4개",
+          "price": "10,800원",
+          "discount_rate": 51,
+          "priceAt": "09.23 07:40",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3125919039537746-2f0e2d60-6077-4f94-9adc-db9b4606ca1b.png",
+          "url": "https://link.coupang.com/a/hgwzxtdwDQ",
+          "_ts": 1790116812.266579
+        },
+        {
           "name": "시치미 쓱 데일리 물티슈 캡형, 50g, 100개입, 10개",
           "price": "4,900원",
           "discount_rate": 57,
@@ -816,24 +825,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1212417057569140-56b4f6c7-a4c6-4be5-9856-140e49ffec1c.jpg",
           "url": "https://link.coupang.com/a/g8guJy7fR6",
           "_ts": 1789686863.285992
-        },
-        {
-          "name": "오뚜기 진라면 약간매운맛 120g, 20개",
-          "price": "9,900원",
-          "discount_rate": 31,
-          "priceAt": "09.18 07:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/9559944713935-cf415708-03d7-49ee-929e-6c3570387802.jpg",
-          "url": "https://link.coupang.com/a/g8dN7VoLmK",
-          "_ts": 1789684606.2004962
-        },
-        {
-          "name": "뉴에라 아동용 MLB 베이직 로고 맨투맨 뉴욕 양키스, 160",
-          "price": "19,900원",
-          "discount_rate": 68,
-          "priceAt": "09.18 07:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/25/11/5/ed4892ab-f96c-4b11-9053-7dac3759d38a.jpg",
-          "url": "https://link.coupang.com/a/g8dij5Asxg",
-          "_ts": 1789684176.341547
         }
       ]
     },
