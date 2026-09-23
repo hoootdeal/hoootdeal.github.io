@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "[1+1 교차가능] 헬로키티 소프 샌들, 01_헬로키티소프샌들, 핑크190+핑크190, 190",
+          "price": "4,480원",
+          "discount_rate": 24,
+          "priceAt": "09.24 07:59",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e158/c947bf2fe080d50d4e3f48d39cbd95c767741d0b3f872a3156a3cc885618.jpg",
+          "url": "https://link.coupang.com/a/hicPukLQPY",
+          "_ts": 1790204349.359203
+        },
+        {
           "name": "샤워메이트 뉴 산양유 비누 버베나, 90g, 12개입",
           "price": "6,860원",
           "discount_rate": 30,
@@ -834,15 +843,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/bdae2706-7684-4463-a5cb-f32f0a7bb1a36442967186101321666.png",
           "url": "https://link.coupang.com/a/g9VDXGjMPI",
           "_ts": 1789773467.572018
-        },
-        {
-          "name": "김정문알로에 큐어 인텐시브 2X 크림, 50g, 2개",
-          "price": "11,560원",
-          "discount_rate": 33,
-          "priceAt": "09.19 07:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/259424950878761-cbe62968-11a4-40c8-9cb7-329eb58adf7d.jpg",
-          "url": "https://link.coupang.com/a/g9RySQ95si",
-          "_ts": 1789770039.7311869
         }
       ]
     },
