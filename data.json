@@ -834,15 +834,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/8a90/dd64a2a456cf72e3db5ddb9f29c8f0e9831fa6fd1862812ea3f0fb64bd94.jpg",
           "url": "https://link.coupang.com/a/g83BMCnBpA",
           "_ts": 1789728099.008099
-        },
-        {
-          "name": "라비킷 낙상방지 침대가드",
-          "price": "63,120원",
-          "discount_rate": 19,
-          "priceAt": "09.18 18:38",
-          "image": "https://image11.coupangcdn.com/image/rs_quotation_api/w6hzmmtd/2d0ad005584d4b7d980ee944b07243e2.jpg",
-          "url": "https://link.coupang.com/a/g8Y5iBgU32",
-          "_ts": 1789724300.963839
         }
       ]
     },
@@ -851,6 +842,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "사조참치, 마일드참치, 85g, 8개",
+          "price": "12,900원",
+          "discount_rate": 33,
+          "priceAt": "09.23 19:15",
+          "image": "https://shopping.toss.im/live/temp/2025-05-27/dd9db3d5-1536-454f-8a47-6bfbc886445f.jpeg",
+          "url": "https://toss.shopping/_m/r0YdEqXk",
+          "_ts": 1790158542.734001
+        },
         {
           "name": "웅진식품 애사비 오리지널, 500ml, 24개",
           "price": "14,900원",
@@ -1363,15 +1363,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MmJkNjdj/V2lTM2cvVnA2THpZODZjY1pvdDQwWjhleTF0elBPOWhwWGhXci9LVXNWST0.png",
           "url": "https://toss.im/_m/dSF6qTS5",
           "_ts": 1789733822.9826229
-        },
-        {
-          "name": "목이버섯 장아찌, 1kg, 1개",
-          "price": "8,900원",
-          "discount_rate": 44,
-          "priceAt": "09.18 19:15",
-          "image": "https://shopping.toss.im/live/temp/2026-01-07/f46ae24c-fc0a-4a54-928f-418676a2a5bd.jpeg",
-          "url": "https://toss.im/_m/dbwBgxRg",
-          "_ts": 1789726536.128356
         }
       ]
     },
