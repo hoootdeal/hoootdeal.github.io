@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "피지 모락셀라 섬유유연제 필요없는 실내건조 냄새제거 부스터 캡슐세제 화이트머스크향, 26개입, 1개",
+          "price": "12,900원",
+          "discount_rate": 13,
+          "priceAt": "09.23 18:05",
+          "image": "https://image2.coupangcdn.com/image/retail/images/2025/12/02/18/0/6af2ac73-a9a5-4d61-8fa9-b2de89d256d0.png",
+          "url": "https://link.coupang.com/a/hhfe4Uvcbc",
+          "_ts": 1790154319.469584
+        },
+        {
           "name": "씨그램 레몬 무라벨, 350ml, 24개",
           "price": "9,680원",
           "discount_rate": 25,
@@ -1336,24 +1345,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-01-07/f46ae24c-fc0a-4a54-928f-418676a2a5bd.jpeg",
           "url": "https://toss.im/_m/dbwBgxRg",
           "_ts": 1789726536.128356
-        },
-        {
-          "name": "동원샘물 생수, 라벨랜덤, 2L, 6개",
-          "price": "3,480원",
-          "discount_rate": 42,
-          "priceAt": "09.18 18:03",
-          "image": "https://shopping.toss.im/live/taca/ai/ZGY3NDk5/SEtXT016T2NlTVRqWE5jcm5ITmlsRXFyT05SempOVTdxMVJTcjV4d3JGQT0.png",
-          "url": "https://toss.im/_m/9If0HUxC",
-          "_ts": 1789722211.233425
-        },
-        {
-          "name": "자동 변기세정제 맥스, 320g, 4개",
-          "price": "6,990원",
-          "discount_rate": 53,
-          "priceAt": "09.18 17:40",
-          "image": "https://shopping.toss.im/live/temp/2026-08-26/4e3daee7-51fd-498a-b856-0a5fae0723e1.png",
-          "url": "https://toss.im/_m/50EgoECa",
-          "_ts": 1789720809.5986528
         }
       ]
     },
