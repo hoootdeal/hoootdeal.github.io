@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "샤워메이트 뉴 산양유 비누 버베나, 90g, 12개입",
+          "price": "6,860원",
+          "discount_rate": 30,
+          "priceAt": "09.24 07:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/5f91/2bb4e999c612d780f5864cd9ef9a1e2ce0761ffa4ae2407dec90664b8947.jpg",
+          "url": "https://link.coupang.com/a/hh9edQO7NI",
+          "_ts": 1790201324.889463
+        },
+        {
           "name": "EZn이지엔 프리미엄 더블지퍼백, 특대(XL), 50개입, 1개",
           "price": "9,490원",
           "discount_rate": 25,
@@ -834,15 +843,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/259424950878761-cbe62968-11a4-40c8-9cb7-329eb58adf7d.jpg",
           "url": "https://link.coupang.com/a/g9RySQ95si",
           "_ts": 1789770039.7311869
-        },
-        {
-          "name": "오레오 웨하스 스틱 초코, 510g, 1개",
-          "price": "10,390원",
-          "discount_rate": 18,
-          "priceAt": "09.19 07:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/983889761555206-bc10601f-3b3e-4879-9ae0-d8c5214104a6.jpg",
-          "url": "https://link.coupang.com/a/g9QydZ0EQS",
-          "_ts": 1789769192.223608
         }
       ]
     },
