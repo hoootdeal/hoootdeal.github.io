@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아토팜 MLE 페이스 유아로션, 80ml, 1개",
+          "price": "7,970원",
+          "discount_rate": 54,
+          "priceAt": "09.23 15:25",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2740021607357893-4b77647a-519d-475a-ad45-77b3e8195f2f.JPG",
+          "url": "https://link.coupang.com/a/hg3Q6lAYo0",
+          "_ts": 1790144757.9869819
+        },
+        {
           "name": "나우푸드 비오틴 5000mcg 베지 캡슐, 120정, 3개",
           "price": "25,290원",
           "discount_rate": 24,
@@ -1363,15 +1372,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-10-31/31101a23-b7a0-4a96-8c04-0a4f7a0c6352.jpeg",
           "url": "https://toss.im/_m/XfThTScb",
           "_ts": 1789716035.3191738
-        },
-        {
-          "name": "수뜰리에 소프트 섬유유연제 비누향, 2.5L, 4개",
-          "price": "8,390원",
-          "discount_rate": 78,
-          "priceAt": "09.18 14:59",
-          "image": "https://shopping.toss.im/live/temp/2026-08-10/1e4fe51d-5eff-40b9-82e5-057e3a8529d9.png",
-          "url": "https://toss.im/_m/RrVPGMGo",
-          "_ts": 1789711170.8591301
         }
       ]
     },
