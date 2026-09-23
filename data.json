@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "듀라셀 알카라인 AA 건전지, 20개입, 1개",
+          "price": "9,730원",
+          "discount_rate": 27,
+          "priceAt": "09.23 12:04",
+          "image": "https://image8.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+          "url": "https://link.coupang.com/a/hgPtKaF6MC",
+          "_ts": 1790132686.913503
+        },
+        {
           "name": "팁코 쇼군 NFC 오렌지 주스 100%, 1L, 5개",
           "price": "15,610원",
           "discount_rate": 45,
@@ -816,15 +825,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/09/10/15/9/9c859229-b915-4c4e-9605-b26e0dc5152f.jpg",
           "url": "https://link.coupang.com/a/g8AzYnuzM4",
           "_ts": 1789703725.9750059
-        },
-        {
-          "name": "옵티프리 익스프레스 렌즈세정액, 470ml, 3개",
-          "price": "15,640원",
-          "discount_rate": 21,
-          "priceAt": "09.18 12:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2109925691261047-b4d4d0c9-a540-47b7-82cc-61f9d673564f.jpg",
-          "url": "https://link.coupang.com/a/g8wU7sfAsK",
-          "_ts": 1789700650.040391
         }
       ]
     },
@@ -1363,15 +1363,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-15/a8bbce69-1c12-4b6f-915a-53a9bbc47f2f.jpeg",
           "url": "https://toss.im/_m/flcjiNhh",
           "_ts": 1789705691.8497999
-        },
-        {
-          "name": "뷰카 클래식 고불소 구취 케어 치약, 아쿠아 민트향, 110g, 4개",
-          "price": "9,900원",
-          "discount_rate": 52,
-          "priceAt": "09.18 11:59",
-          "image": "https://shopping.toss.im/live/taca/ai/ZGI5Nzhl/QU5KVDJuVFB3N2JrV25KcmROclVVelBMUkVwU21hU1dXMnAwV3RUYVVhV3I.png",
-          "url": "https://toss.im/_m/TZQosn7A",
-          "_ts": 1789700372.866772
         }
       ]
     },
