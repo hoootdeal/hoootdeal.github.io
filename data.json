@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스프라이트 제로 사이다, 350ml, 24개",
+          "price": "12,840원",
+          "discount_rate": 16,
+          "priceAt": "09.23 20:50",
+          "image": "https://img3c.coupangcdn.com/image/retail/images/679853967015513-452dcf75-38f5-4485-865b-f658447bcb86.jpg",
+          "url": "https://link.coupang.com/a/hhq2aVMBbw",
+          "_ts": 1790164224.6669812
+        },
+        {
           "name": "오리온 태양의 맛 썬, 30g, 15개",
           "price": "7,800원",
           "discount_rate": 25,
@@ -825,24 +834,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/40025784947932-7317c59d-59ab-4c9f-80c0-9a58ef80276e.png",
           "url": "https://link.coupang.com/a/g9dmt35gvk",
           "_ts": 1789736292.7781818
-        },
-        {
-          "name": "귤탐 당도선별 11Brix 감귤, 1.2kg(꼬마과), 1개, 1.2kg(꼬마과) × 1개",
-          "price": "7,930원",
-          "discount_rate": 27,
-          "priceAt": "09.18 20:03",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/74808270163148-5946beef-c96f-4b26-91e7-53a42200388a.jpg",
-          "url": "https://link.coupang.com/a/g848ixSHka",
-          "_ts": 1789729386.586399
-        },
-        {
-          "name": "청우 쫀득 초코칩 커피, 200g, 2개",
-          "price": "6,320원",
-          "discount_rate": 43,
-          "priceAt": "09.18 19:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/8a90/dd64a2a456cf72e3db5ddb9f29c8f0e9831fa6fd1862812ea3f0fb64bd94.jpg",
-          "url": "https://link.coupang.com/a/g83BMCnBpA",
-          "_ts": 1789728099.008099
         }
       ]
     },
