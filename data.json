@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "해태제과 오예스 미니 크림소다맛, 192g, 3개",
+          "price": "6,660원",
+          "discount_rate": 30,
+          "priceAt": "09.23 13:47",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/abcf4484-56ab-46df-9f7f-1b880a182c2411906668487223699428.png",
+          "url": "https://link.coupang.com/a/hgWODbiBbM",
+          "_ts": 1790138847.617611
+        },
+        {
           "name": "무식이네 스윗클린 물빠짐 거꾸로 양치컵, 오트밀, 3개",
           "price": "3,390원",
           "discount_rate": 52,
