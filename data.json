@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "EZn이지엔 프리미엄 더블지퍼백, 특대(XL), 50개입, 1개",
+          "price": "9,490원",
+          "discount_rate": 25,
+          "priceAt": "09.23 22:23",
+          "image": "https://image8.coupangcdn.com/image/retail/images/398075880292278-1c713f40-06cc-4a51-b9c7-18cdd34f9af5.jpg",
+          "url": "https://link.coupang.com/a/hhxIUQwpkO",
+          "_ts": 1790169833.431165
+        },
+        {
           "name": "포포팬시 위드뽀로로 빼꼼 타포린백, 핑크, 미니(310 x 245 x 130 mm), 1개",
           "price": "1,800원",
           "discount_rate": 55,
@@ -834,15 +843,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/983889761555206-bc10601f-3b3e-4879-9ae0-d8c5214104a6.jpg",
           "url": "https://link.coupang.com/a/g9QydZ0EQS",
           "_ts": 1789769192.223608
-        },
-        {
-          "name": "롯데웰푸드 쌀로별 고소한맛, 78g, 10개",
-          "price": "7,800원",
-          "discount_rate": 34,
-          "priceAt": "09.18 21:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/40025784947932-7317c59d-59ab-4c9f-80c0-9a58ef80276e.png",
-          "url": "https://link.coupang.com/a/g9dmt35gvk",
-          "_ts": 1789736292.7781818
         }
       ]
     },
@@ -1372,15 +1372,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YTIwNTAw/QUpETGFieVdlbnA4UE02aHNzOW9ucGw1RWVRTFV6Tmt3L09GL2lNOGVSSDg.png",
           "url": "https://toss.im/_m/HqEabjwC",
           "_ts": 1789781432.8399942
-        },
-        {
-          "name": "바람골 황태미역국, 650g, 6개",
-          "price": "9,900원",
-          "discount_rate": 58,
-          "priceAt": "09.18 21:52",
-          "image": "https://shopping.toss.im/live/temp/2026-05-20/ef855d44-ffa1-4398-8074-3761182cf43a.jpeg",
-          "url": "https://toss.im/_m/r1twOkR4",
-          "_ts": 1789735971.922722
         }
       ]
     },
