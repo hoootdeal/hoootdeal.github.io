@@ -816,15 +816,6 @@
           "image": "https://image11.coupangcdn.com/image/rs_quotation_api/w6hzmmtd/2d0ad005584d4b7d980ee944b07243e2.jpg",
           "url": "https://link.coupang.com/a/g8Y5iBgU32",
           "_ts": 1789724300.963839
-        },
-        {
-          "name": "알텐바흐 인덕션 헥사 통5중 스텐 프라이팬, 22cm, 1개",
-          "price": "30,010원",
-          "discount_rate": 22,
-          "priceAt": "09.18 17:25",
-          "image": "https://image3.coupangcdn.com/image/1025_amir_coupang_oct_80k/7be5/8b6eee1da3a3375199bfda97eb139d177d505c806e1ea1d1414cc7fe2d5b.jpg",
-          "url": "https://link.coupang.com/a/g8TUzyZo96",
-          "_ts": 1789719957.7739022
         }
       ]
     },
@@ -833,6 +824,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "HBAF 시즈닝 아몬드, 허니버터 120g 1개 + 와사비 120g 1개 + 군옥수수 120g 1개 + 마늘빵 120g 1개 + 카라멜 120g 1개, 1세트",
+          "price": "13,900원",
+          "discount_rate": 48,
+          "priceAt": "09.23 17:32",
+          "image": "https://shopping.toss.im/live/taca/ai/NWJkNDJi/Y3p2SG5IR3Z0TndCNFV0cXpPYjJOMjlNdk9HenROTXQySlFQK0t3Uk1KYz0.png",
+          "url": "https://toss.shopping/_m/NQTO7kWv",
+          "_ts": 1790152343.742815
+        },
         {
           "name": "롯데칠성음료 펩시 제로슈거 라임, 업소용, 1.25L, 12개",
           "price": "15,890원",
@@ -1354,15 +1354,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-26/4e3daee7-51fd-498a-b856-0a5fae0723e1.png",
           "url": "https://toss.im/_m/50EgoECa",
           "_ts": 1789720809.5986528
-        },
-        {
-          "name": "대한 쭈꾸미볶음, 보통맛, 300g, 2팩",
-          "price": "13,900원",
-          "discount_rate": 53,
-          "priceAt": "09.18 17:11",
-          "image": "https://shopping.toss.im/live/taca/ai/OThkMWI3/Y1ozQ0tmY0QvU2I1SmR3WC9JbThBOXdzRllZZVRMdWorbkYybW9WV2hmdz0.png",
-          "url": "https://toss.im/_m/ZGMVpRnx",
-          "_ts": 1789719080.492257
         }
       ]
     },
