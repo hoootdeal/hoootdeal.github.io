@@ -825,24 +825,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2109925691261047-b4d4d0c9-a540-47b7-82cc-61f9d673564f.jpg",
           "url": "https://link.coupang.com/a/g8wU7sfAsK",
           "_ts": 1789700650.040391
-        },
-        {
-          "name": "코카콜라 오리지널",
-          "price": "11,520원",
-          "discount_rate": 34,
-          "priceAt": "09.18 11:17",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/33597756644270-a896be4b-096d-4ab8-94c7-8d5adf8f1762.jpg",
-          "url": "https://link.coupang.com/a/g8tzt5mPlI",
-          "_ts": 1789697841.772351
-        },
-        {
-          "name": "누크 퍼스트초이스 러너 야광 스파우트컵",
-          "price": "13,100원",
-          "discount_rate": 26,
-          "priceAt": "09.18 11:02",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fc59/bbe90b1667fd08ecb25e34a2a0c87acc117abefe754e113d0bc44ac5a838.jpg",
-          "url": "https://link.coupang.com/a/g8swMNLN7s",
-          "_ts": 1789696966.648016
         }
       ]
     },
@@ -851,6 +833,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "베라 무해력 4ZERO 클래식, 3겹, 30롤, 25m, 2팩",
+          "price": "18,590원",
+          "discount_rate": 53,
+          "priceAt": "09.23 11:34",
+          "image": "https://shopping.toss.im/live/temp/2026-07-14/26d21fa5-b884-434a-9fe8-f571cd72703e.jpeg",
+          "url": "https://toss.im/_m/NR8WRrkx",
+          "_ts": 1790130895.621432
+        },
         {
           "name": "오프라이스 한촌 사골 양지고기 설렁탕, 500g, 5개",
           "price": "14,900원",
@@ -1381,15 +1372,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZGI5Nzhl/QU5KVDJuVFB3N2JrV25KcmROclVVelBMUkVwU21hU1dXMnAwV3RUYVVhV3I.png",
           "url": "https://toss.im/_m/TZQosn7A",
           "_ts": 1789700372.866772
-        },
-        {
-          "name": "순삭 떡볶이, 보통맛, 200g, 5팩",
-          "price": "8,500원",
-          "discount_rate": 59,
-          "priceAt": "09.18 11:27",
-          "image": "https://shopping.toss.im/live/taca/ai/ZmFhZDlk/V1hQR1p1eGpHUTJWNTRNZGx0ZmhMWEtiQkxtb2JTVDF4ZW5Ua0g2bEZ2bz0.png",
-          "url": "https://toss.im/_m/pVYD985q",
-          "_ts": 1789698473.3101592
         }
       ]
     },
