@@ -816,24 +816,6 @@
           "image": "https://image1.coupangcdn.com/image/retail/images/6872475470442-bcaaa998-13bc-45ea-8d69-6c0a906b2a2d.jpg",
           "url": "https://link.coupang.com/a/g8LlPbDjVY",
           "_ts": 1789712770.883273
-        },
-        {
-          "name": "백설 오리엔탈 드레싱, 595g, 2개",
-          "price": "6,880원",
-          "discount_rate": 45,
-          "priceAt": "09.18 14:18",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c6b97896-85fe-4f6a-b1bd-141f5bb1902e382625218941333039.png",
-          "url": "https://link.coupang.com/a/g8Gu1HZNkG",
-          "_ts": 1789708696.1102238
-        },
-        {
-          "name": "크리오 퍼펙션 이중미세모 칫솔, 10개입, 3세트",
-          "price": "7,660원",
-          "discount_rate": 26,
-          "priceAt": "09.18 14:11",
-          "image": "https://image7.coupangcdn.com/image/retail/images/1014740460361801-af9d6850-83fc-4204-8159-dab81794b309.png",
-          "url": "https://link.coupang.com/a/g8FZrIhaPk",
-          "_ts": 1789708269.675672
         }
       ]
     },
@@ -842,6 +824,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "AHC 프리미어 앰플 인 아이크림 코어 리프팅, 12ml, 10개",
+          "price": "19,900원",
+          "discount_rate": 81,
+          "priceAt": "09.23 14:50",
+          "image": "https://shopping.toss.im/live/taca/ai/ODhlMjJh/QUkzWTYrUGFyejM0RnJZNWVBNWp6QWJUZU9JUGVIbk1qL0FCWjNpd0VUL3c.png",
+          "url": "https://toss.im/_m/bgtM6MT5",
+          "_ts": 1790142648.9757068
+        },
         {
           "name": "선비찬 두부송송 청국장찌개, 550g, 3개",
           "price": "11,700원",
@@ -1372,15 +1363,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-10/1e4fe51d-5eff-40b9-82e5-057e3a8529d9.png",
           "url": "https://toss.im/_m/RrVPGMGo",
           "_ts": 1789711170.8591301
-        },
-        {
-          "name": "양계장청년 난각1번 자연방사 상황버섯 먹여 키운 무항생제 유정란, 60구, 1박스",
-          "price": "33,000원",
-          "discount_rate": 33,
-          "priceAt": "09.18 14:26",
-          "image": "https://shopping.toss.im/live/taca/ai/ZThhMTYy/SVRad25ld3lFVXdHN1dOenROZms3RXNwSE9RU3hCc0hFcDIyOGExakcyWT0.png",
-          "url": "https://toss.im/_m/LJ31bWmn",
-          "_ts": 1789709208.023618
         }
       ]
     },
