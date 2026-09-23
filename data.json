@@ -843,6 +843,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "리프레쉬 맥반석오징어, 13-25미 내외, 300g, 1봉",
+          "price": "14,900원",
+          "discount_rate": 44,
+          "priceAt": "09.23 21:12",
+          "image": "https://shopping.toss.im/live/temp/2026-04-07/9c81eb45-6040-431f-b33c-02f399d09cdc.jpeg",
+          "url": "https://toss.shopping/_m/DDn7xhWj",
+          "_ts": 1790165525.498724
+        },
+        {
           "name": "사조참치, 마일드참치, 85g, 8개",
           "price": "12,900원",
           "discount_rate": 33,
