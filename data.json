@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "팁코 쇼군 NFC 오렌지 주스 100%, 1L, 5개",
+          "price": "15,610원",
+          "discount_rate": 45,
+          "priceAt": "09.23 10:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/15402324366960-b5ed6e68-6fef-4eb0-9d0e-d4db1ca40fdd.jpg",
+          "url": "https://link.coupang.com/a/hgKugTiTE4",
+          "_ts": 1790128495.376885
+        },
+        {
           "name": "파워에이드 제로, 600ml, 20개",
           "price": "14,990원",
           "discount_rate": 20,
@@ -834,15 +843,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fc59/bbe90b1667fd08ecb25e34a2a0c87acc117abefe754e113d0bc44ac5a838.jpg",
           "url": "https://link.coupang.com/a/g8swMNLN7s",
           "_ts": 1789696966.648016
-        },
-        {
-          "name": "청정원 행복 8호 선물세트",
-          "price": "22,660원",
-          "discount_rate": 28,
-          "priceAt": "09.18 10:33",
-          "image": "https://static.coupangcdn.com/image/retail/images/523893603426202-5405bc7b-40e2-402d-9fbd-ddcc3f43d75a.jpg",
-          "url": "https://link.coupang.com/a/g8qrgRRbm8",
-          "_ts": 1789695211.473525
         }
       ]
     },
