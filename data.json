@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "씨그램 레몬 무라벨, 350ml, 24개",
+          "price": "9,680원",
+          "discount_rate": 25,
+          "priceAt": "09.23 16:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4b4b/f778aed46c3b77d9d1a8393227a39479289394c36277675afa9577cea01b.jpg",
+          "url": "https://link.coupang.com/a/hhakvP40wS",
+          "_ts": 1790150194.2286348
+        },
+        {
           "name": "아토팜 MLE 페이스 유아로션, 80ml, 1개",
           "price": "7,970원",
           "discount_rate": 54,
@@ -816,15 +825,6 @@
           "image": "https://image3.coupangcdn.com/image/1025_amir_coupang_oct_80k/7be5/8b6eee1da3a3375199bfda97eb139d177d505c806e1ea1d1414cc7fe2d5b.jpg",
           "url": "https://link.coupang.com/a/g8TUzyZo96",
           "_ts": 1789719957.7739022
-        },
-        {
-          "name": "르샤트라1802 올인원 퍼퓸 캡슐세제 피오니, 30개입, 1개",
-          "price": "7,700원",
-          "discount_rate": 31,
-          "priceAt": "09.18 16:16",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/11/25/12/2/79dfcf5e-20b2-496b-bdb0-5475a84cf2a8.png",
-          "url": "https://link.coupang.com/a/g8OVKzyRz2",
-          "_ts": 1789715775.561292
         }
       ]
     },
@@ -1363,15 +1363,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/OThkMWI3/Y1ozQ0tmY0QvU2I1SmR3WC9JbThBOXdzRllZZVRMdWorbkYybW9WV2hmdz0.png",
           "url": "https://toss.im/_m/ZGMVpRnx",
           "_ts": 1789719080.492257
-        },
-        {
-          "name": "코피코 커피맛 캔디 블리스터 팩, 32g, 12개입, 1박스",
-          "price": "9,490원",
-          "discount_rate": 20,
-          "priceAt": "09.18 16:20",
-          "image": "https://shopping.toss.im/live/temp/2025-10-31/31101a23-b7a0-4a96-8c04-0a4f7a0c6352.jpeg",
-          "url": "https://toss.im/_m/XfThTScb",
-          "_ts": 1789716035.3191738
         }
       ]
     },
