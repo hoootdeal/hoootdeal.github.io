@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "칼로쿡 전자레인지 저당질 밥솥 4인용, 민트, 1개",
+          "price": "15,390원",
+          "discount_rate": 14,
+          "priceAt": "09.24 21:01",
+          "image": "https://img1a.coupangcdn.com/image/retail/images/2026/04/08/10/1/b7c4cf3e-6be7-45af-a7d8-082128b96b36.jpg",
+          "url": "https://link.coupang.com/a/hi6HlexaV2",
+          "_ts": 1790251270.3697438
+        },
+        {
           "name": "하우스레시피 바인 가방걸이 스탠드행거, 화이트, 45.5 x 28.5 x 100 cm",
           "price": "17,550원",
           "discount_rate": 22,
@@ -834,15 +843,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6732/143990ced420c61ab13318fa337f3f64ea9461dbe1874713a9f0b7001576.jpg",
           "url": "https://link.coupang.com/a/hbvNDkgGRg",
           "_ts": 1789855881.231937
-        },
-        {
-          "name": "미에로화이바 스파클링제로슈가 캔, 250ml, 30개",
-          "price": "13,820원",
-          "discount_rate": 15,
-          "priceAt": "09.19 20:59",
-          "image": "https://img3a.coupangcdn.com/image/retail/images/2026/01/26/10/5/1490f9e9-5360-4d6e-a0f3-63dc89f978f6.jpg",
-          "url": "https://link.coupang.com/a/haN4hqaHGC",
-          "_ts": 1789819161.8099399
         }
       ]
     },
