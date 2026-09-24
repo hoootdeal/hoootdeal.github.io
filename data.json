@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "콘푸로스트 컵 시리얼, 40g, 12개",
+          "price": "7,820원",
+          "discount_rate": 33,
+          "priceAt": "09.25 07:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1263360543263002-51d988a5-9c68-44d3-9d47-ccce5dab362f.jpg",
+          "url": "https://link.coupang.com/a/hjOJnVvgRw",
+          "_ts": 1790288228.2310011
+        },
+        {
           "name": "스너글 딥클린 캡슐 세탁세제 허거블 코튼 클린 앤 케어, 27개입, 1개",
           "price": "8,740원",
           "discount_rate": 34,
@@ -843,15 +852,6 @@
           "image": "https://image15.coupangcdn.com/image/retail/images/1486597538643439-1319e2c2-7d91-4072-af28-b88dbc7db4af.jpg",
           "url": "https://link.coupang.com/a/hbA5dudRbo",
           "_ts": 1789860318.441497
-        },
-        {
-          "name": "포트메리온 보타닉가든 직사각형 접시",
-          "price": "10,690원",
-          "discount_rate": 78,
-          "priceAt": "09.20 07:11",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6732/143990ced420c61ab13318fa337f3f64ea9461dbe1874713a9f0b7001576.jpg",
-          "url": "https://link.coupang.com/a/hbvNDkgGRg",
-          "_ts": 1789855881.231937
         }
       ]
     },
