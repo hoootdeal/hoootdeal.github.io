@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 지구식단 얇은 두유면, 150g, 3개",
+          "price": "4,000원",
+          "discount_rate": 29,
+          "priceAt": "09.24 13:44",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/17626714541620-0fe515fe-80ed-4d1f-b326-751910c13c34.jpg",
+          "url": "https://link.coupang.com/a/hiBxs08sr6",
+          "_ts": 1790225094.325633
+        },
+        {
           "name": "한일의료기 프리미엄 카본 탄소 전기매트 HLD-BB220S(24), 애쉬그레이, 싱글(100 × 180 cm)",
           "price": "29,900원",
           "discount_rate": 27,
@@ -834,24 +843,6 @@
           "image": "https://image9.coupangcdn.com/image/retail/images/704893215543382-183fd7ca-cc8c-4620-a84b-cb45ab0dcab8.jpg",
           "url": "https://link.coupang.com/a/hamfl3lkyq",
           "_ts": 1789795804.971406
-        },
-        {
-          "name": "Apple 맥북 프로 14 M5칩스페이스 블랙 · M5 10코어 · 10코어 GPU · 16GB · 1TB · 한글",
-          "price": "2,757,770원",
-          "discount_rate": 7,
-          "priceAt": "09.19 13:22",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/10/22/11/8/589b44e4-d8d2-4785-b9e0-d4591f676bfa.jpg",
-          "url": "https://link.coupang.com/a/haho2Gmy84",
-          "_ts": 1789791738.60909
-        },
-        {
-          "name": "[임박할인] 신라면툼바 큰사발 113g (소비기한 26.10.15)",
-          "price": "11,600원",
-          "discount_rate": 66,
-          "priceAt": "09.19 13:15",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f1ce/b9786593874ea0ed3d41a5fb0e769435fd3c42af121a4fa4b72e27bcd674.jpg",
-          "url": "https://link.coupang.com/a/hagSMB9Gou",
-          "_ts": 1789791301.1943622
         }
       ]
     },
