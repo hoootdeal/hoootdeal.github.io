@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스카치브라이트 베이직 제로 스크래치 스펀지 수세미, 8개입, 1개",
+          "price": "6,990원",
+          "discount_rate": 30,
+          "priceAt": "09.25 08:30",
+          "image": "https://image1.coupangcdn.com/image/retail/images/374857959409947-07e13cd2-bf10-4480-81b1-e7c748917fa7.jpg",
+          "url": "https://link.coupang.com/a/hjTZGkqJu8",
+          "_ts": 1790292647.151725
+        },
+        {
           "name": "콘푸로스트 컵 시리얼, 40g, 12개",
           "price": "7,820원",
           "discount_rate": 33,
@@ -843,15 +852,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8fc5/2a3fa00c1c86fcd8c6b5f14cbf4f0bdaa3ed1cc242f476c58edf835e82d9.jpg",
           "url": "https://link.coupang.com/a/hbDtqFRSRo",
           "_ts": 1789862324.778711
-        },
-        {
-          "name": "에이지투웨니스 바이옴리프트 스킨케어 2종 세트, 1세트",
-          "price": "14,090원",
-          "discount_rate": 45,
-          "priceAt": "09.20 08:25",
-          "image": "https://image15.coupangcdn.com/image/retail/images/1486597538643439-1319e2c2-7d91-4072-af28-b88dbc7db4af.jpg",
-          "url": "https://link.coupang.com/a/hbA5dudRbo",
-          "_ts": 1789860318.441497
         }
       ]
     },
