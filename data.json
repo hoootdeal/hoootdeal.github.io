@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스너글 딥클린 캡슐 세탁세제 허거블 코튼 클린 앤 케어, 27개입, 1개",
+          "price": "8,740원",
+          "discount_rate": 34,
+          "priceAt": "09.24 22:23",
+          "image": "https://image12.coupangcdn.com/image/retail/images/2026/06/03/9/7/f81f7fb4-b6f9-4cd4-8b57-b94bd5127f68.png",
+          "url": "https://link.coupang.com/a/hjcAMMIolo",
+          "_ts": 1790256206.590419
+        },
+        {
           "name": "칼로쿡 전자레인지 저당질 밥솥 4인용, 민트, 1개",
           "price": "15,390원",
           "discount_rate": 14,
@@ -1381,24 +1390,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-05-11/8a12ad75-d5c4-4c6f-8afe-dc47556479e7.png",
           "url": "https://toss.im/_m/fsHvdF92",
           "_ts": 1789867627.388159
-        },
-        {
-          "name": "도가니탕의 정석, 500g, 5개",
-          "price": "15,900원",
-          "discount_rate": 60,
-          "priceAt": "09.19 21:57",
-          "image": "https://shopping.toss.im/live/taca/ai/N2VlNjg1/YlRlOHJFVC8yd3c5WitNTlBKTERacll6Nnp6NHp3ODVvZHI0Tkgrb2wxST0.png",
-          "url": "https://toss.im/_m/HMQVCVDk",
-          "_ts": 1789822642.0788858
-        },
-        {
-          "name": "샘트리 맛 병아리콩 오리지널, 400g, 1개",
-          "price": "9,900원",
-          "discount_rate": 50,
-          "priceAt": "09.19 21:27",
-          "image": "https://shopping.toss.im/live/taca/ai/NDA2NzJj/UG5sbE5jK3JXTWM2c1MxNTVLMHpiTk0yMmJNTlZKL2tSVmEzN05WaWFCcz0.png",
-          "url": "https://toss.im/_m/x4Iyy6q8",
-          "_ts": 1789820861.0592482
         }
       ]
     },
