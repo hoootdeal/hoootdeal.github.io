@@ -852,15 +852,6 @@
           "image": "https://image14.coupangcdn.com/image/retail/images/107773577349111-724cc438-f29e-4636-9a1c-0a4b7bcb57b6.jpg",
           "url": "https://link.coupang.com/a/haDvv5eX8K",
           "_ts": 1789810297.971002
-        },
-        {
-          "name": "이니스프리 그린티 씨드 히알루론산 세럼 80ml + 10ml 세트, 1개",
-          "price": "11,820원",
-          "discount_rate": 24,
-          "priceAt": "09.19 17:21",
-          "image": "https://img4a.coupangcdn.com/image/retail/images/7128178532575-dfd39168-9558-445d-8da2-320767e40b16.jpg",
-          "url": "https://link.coupang.com/a/hayu6GlQTk",
-          "_ts": 1789806093.9515479
         }
       ]
     },
@@ -869,6 +860,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "널담 고단백 저당 네모 바게트 5종, 2세트",
+          "price": "10,900원",
+          "discount_rate": 57,
+          "priceAt": "09.24 17:37",
+          "image": "https://shopping.toss.im/live/taca/ai/ODM2MDAy/WXhneWsxaHBNeU9lM0ZzWjgweHBocDdMcE54TE03YXhhN1lsaGsyZVduST0.png",
+          "url": "https://toss.shopping/_m/JlHmwWTy",
+          "_ts": 1790239048.92694
+        },
         {
           "name": "대한민국농수산 바나나, 3kg, 1박스",
           "price": "8,900원",
@@ -1381,15 +1381,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
           "url": "https://toss.im/_m/1EIShi5g",
           "_ts": 1789813025.238475
-        },
-        {
-          "name": "펩시 클리어 스퀘어 데스크 선풍기 PEP-ZERO33, 화이트, 1개",
-          "price": "4,900원",
-          "discount_rate": 87,
-          "priceAt": "09.19 17:35",
-          "image": "https://shopping.toss.im/live/temp/2026-04-10/65e6c7e8-f738-4a13-9e4f-16611ea80d58.jpeg",
-          "url": "https://toss.im/_m/pKA0kxHy",
-          "_ts": 1789806947.444109
         }
       ]
     },
