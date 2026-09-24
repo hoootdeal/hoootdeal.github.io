@@ -852,6 +852,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "노랑 곱빼기 왕 떡갈비, 160g, 5봉",
+          "price": "7,350원",
+          "discount_rate": 63,
+          "priceAt": "09.24 15:15",
+          "image": "https://shopping.toss.im/955d5c28-ce13-4baa-9f0a-f06de476fcc0.jpg",
+          "url": "https://toss.im/_m/zeNByVJ4",
+          "_ts": 1790230543.842104
+        },
+        {
           "name": "이브네 코트니 생리대, 중형, 16매입, 4팩",
           "price": "7,900원",
           "discount_rate": 63,
