@@ -843,24 +843,6 @@
           "image": "https://image14.coupangcdn.com/image/retail/images/346582377022126-a03f4cc1-aa4f-4378-9f5f-8c6cd5cd9316.jpg",
           "url": "https://link.coupang.com/a/haJsiqNmmG",
           "_ts": 1789815288.652831
-        },
-        {
-          "name": "에드잇 다용도 욕실 수납 정리함, 12개, 반투명",
-          "price": "4,500원",
-          "discount_rate": 70,
-          "priceAt": "09.19 18:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/db4c/f3c6a47c8378208cdc3f7ce7d6de71a79dbdf97d53c29c30c1cac310f822.png",
-          "url": "https://link.coupang.com/a/haEvdDTX1E",
-          "_ts": 1789811132.70855
-        },
-        {
-          "name": "세타필 모이스춰라이징 크림, 550g, 1개",
-          "price": "13,960원",
-          "discount_rate": 15,
-          "priceAt": "09.19 18:31",
-          "image": "https://image14.coupangcdn.com/image/retail/images/107773577349111-724cc438-f29e-4636-9a1c-0a4b7bcb57b6.jpg",
-          "url": "https://link.coupang.com/a/haDvv5eX8K",
-          "_ts": 1789810297.971002
         }
       ]
     },
@@ -869,6 +851,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "랑카스 하이올레익 땅콩버터 100%, 스무스, 500g, 2개",
+          "price": "9,500원",
+          "discount_rate": 63,
+          "priceAt": "09.24 19:04",
+          "image": "https://shopping.toss.im/live/temp/2026-09-01/fc609b3f-ac9b-4a30-8da4-cbd61d5afbe5.jpeg",
+          "url": "https://toss.shopping/_m/Jb75db32",
+          "_ts": 1790244247.3387961
+        },
         {
           "name": "맥스앤맥스 퍼플톡톡 밀폐용기 20종세트, 350mm 5개, 450mm 5개, 500ml 5개, 600ml 5개, 1세트",
           "price": "5,530원",
