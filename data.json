@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "브랜든 2세대 여행용 부피순삭 압축 파우치 세트, 라이트베이지, S+S+M+M+L",
+          "price": "56,610원",
+          "discount_rate": 24,
+          "priceAt": "09.24 10:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1752199045963745-fbfff72c-ceb7-4f26-911c-182d78b57ff1.jpg",
+          "url": "https://link.coupang.com/a/hin2V38zqm",
+          "_ts": 1790213767.603264
+        },
+        {
           "name": "도브 바디 스크럽 석류 앤드 시어버터, 298g, 1개",
           "price": "8,780원",
           "discount_rate": 35,
@@ -834,15 +843,6 @@
           "image": "https://image15.coupangcdn.com/image/retail/images/203132945002589-d73ef936-b5a9-4354-98af-758511db0c10.jpg",
           "url": "https://link.coupang.com/a/g99PswWgoK",
           "_ts": 1789785378.0942929
-        },
-        {
-          "name": "루아러블 갤럭시 핏3 실리콘 스포츠 밴드 스트랩",
-          "price": "1,320원",
-          "discount_rate": 78,
-          "priceAt": "09.19 10:25",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/eraqecwb/0b72f149416447de8982463d7a4508f0.jpg",
-          "url": "https://link.coupang.com/a/g94Ke93Ytg",
-          "_ts": 1789781110.199723
         }
       ]
     },
@@ -1363,15 +1363,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-02-03/cda6a953-de9c-4f7e-a6dc-5e616092971c.png",
           "url": "https://toss.im/_m/7KdZUUC3",
           "_ts": 1789784883.194966
-        },
-        {
-          "name": "비비고 왕교자, 1.05kg, 3개",
-          "price": "25,555원",
-          "discount_rate": 43,
-          "priceAt": "09.19 10:30",
-          "image": "https://shopping.toss.im/live/taca/ai/YTIwNTAw/QUpETGFieVdlbnA4UE02aHNzOW9ucGw1RWVRTFV6Tmt3L09GL2lNOGVSSDg.png",
-          "url": "https://toss.im/_m/HqEabjwC",
-          "_ts": 1789781432.8399942
         }
       ]
     },
