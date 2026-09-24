@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "밀크바오밥 바디로션 베이비파우더향, 500ml, 1개",
+          "price": "7,630원",
+          "discount_rate": 25,
+          "priceAt": "09.24 14:59",
+          "image": "https://img3a.coupangcdn.com/image/retail/images/346071975695843-a2457961-ef76-48ba-b6c4-2a6cd236164b.jpg",
+          "url": "https://link.coupang.com/a/hiGT0ag1o4",
+          "_ts": 1790229597.869689
+        },
+        {
           "name": "풀무원 지구식단 얇은 두유면, 150g, 3개",
           "price": "4,000원",
           "discount_rate": 29,
@@ -834,15 +843,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/25273728735648-0f48dbf2-23a5-4b3b-b059-e157f055d193.png",
           "url": "https://link.coupang.com/a/hatandwoM0",
           "_ts": 1789801614.299542
-        },
-        {
-          "name": "코카콜라 제로제로, 350ml, 24개",
-          "price": "15,520원",
-          "discount_rate": 17,
-          "priceAt": "09.19 14:30",
-          "image": "https://image9.coupangcdn.com/image/retail/images/704893215543382-183fd7ca-cc8c-4620-a84b-cb45ab0dcab8.jpg",
-          "url": "https://link.coupang.com/a/hamfl3lkyq",
-          "_ts": 1789795804.971406
         }
       ]
     },
@@ -1372,24 +1372,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/Y2VjZDA0/QU0zUE1sbU83WnJNYzlITWJKdE1PMndsdzBsdFdFeHprN1cwNWowT0xJM1Q.png",
           "url": "https://toss.im/_m/HcEDASsr",
           "_ts": 1789799650.5866702
-        },
-        {
-          "name": "터치 프리미엄 워싱소다, 5kg, 1팩",
-          "price": "6,900원",
-          "discount_rate": 56,
-          "priceAt": "09.19 14:46",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MzRjNTkx/Y3R6cEdIWllteVdOc283RGplSTg2WFBqOEwzakM4MldpRTNRWHRCMUQ2RT0.png",
-          "url": "https://toss.im/_m/3rm8GqZA",
-          "_ts": 1789796789.54531
-        },
-        {
-          "name": "복음자리 식물성 크림치즈, 딸기 190g 1개 + 블루베리 190g 1개, 2개",
-          "price": "12,500원",
-          "discount_rate": 21,
-          "priceAt": "09.19 14:21",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/ZDNjMGM0/QU5uY2JaT3lmTEprenJGdVQwV3hXYk9hd2JlcG5KUG16eHZCcmVNYndWSzA.png",
-          "url": "https://toss.im/_m/LICrAybn",
-          "_ts": 1789795316.433089
         }
       ]
     },
