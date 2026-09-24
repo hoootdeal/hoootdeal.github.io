@@ -843,15 +843,6 @@
           "image": "https://img3a.coupangcdn.com/image/retail/images/2026/01/26/10/5/1490f9e9-5360-4d6e-a0f3-63dc89f978f6.jpg",
           "url": "https://link.coupang.com/a/haN4hqaHGC",
           "_ts": 1789819161.8099399
-        },
-        {
-          "name": "듀오백 듀얼젤 집중 쿨링 쿠션 기능성방석, 그레이, 460 x 420 x 40 mm",
-          "price": "16,920원",
-          "discount_rate": 33,
-          "priceAt": "09.19 19:54",
-          "image": "https://image14.coupangcdn.com/image/retail/images/346582377022126-a03f4cc1-aa4f-4378-9f5f-8c6cd5cd9316.jpg",
-          "url": "https://link.coupang.com/a/haJsiqNmmG",
-          "_ts": 1789815288.652831
         }
       ]
     },
@@ -860,6 +851,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "더건강플러스 엑스트라버진 올리브오일, 1L, 1개",
+          "price": "8,900원",
+          "discount_rate": 77,
+          "priceAt": "09.24 20:00",
+          "image": "https://shopping.toss.im/live/temp/2026-06-05/28f63f1a-246e-4e36-82ad-12f0fbb50755.jpeg",
+          "url": "https://toss.im/_m/Ru0unTgn",
+          "_ts": 1790247651.218972
+        },
         {
           "name": "봄내푸드 춘천닭갈비, 500g, 2개",
           "price": "9,800원",
@@ -1390,15 +1390,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NDA2NzJj/UG5sbE5jK3JXTWM2c1MxNTVLMHpiTk0yMmJNTlZKL2tSVmEzN05WaWFCcz0.png",
           "url": "https://toss.im/_m/x4Iyy6q8",
           "_ts": 1789820861.0592482
-        },
-        {
-          "name": "프로즌 원팩 곱도리탕, 590g, 2개",
-          "price": "14,751원",
-          "discount_rate": 33,
-          "priceAt": "09.19 19:42",
-          "image": "https://shopping.toss.im/live/taca/ai/ZWRlOWM4/TVp2Yk9XZlpwcDhXa0I0Mm4wNXBiWjVabm5kNWViejN0ZURMUmk2anRndz0.png",
-          "url": "https://toss.im/_m/ZdO61yGu",
-          "_ts": 1789814570.4395351
         }
       ]
     },
