@@ -861,6 +861,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
+          "price": "5,990원",
+          "discount_rate": 65,
+          "priceAt": "09.24 12:19",
+          "image": "https://shopping.toss.im/live/taca/ai/ZWNlZWJm/YVhJMlN6dHlnM3kzSTNtRjdJM1NZMGJzRFp3eWF6SnovZFRzdFAyVTAwcz0.png",
+          "url": "https://toss.im/_m/X4a9035g",
+          "_ts": 1790219974.7759612
+        },
+        {
           "name": "동구밭 샴푸 앤 트리트먼트바 세트, 로즈마리향 100g 2개 + 네롤리향 100g 2개, 4개",
           "price": "13,900원",
           "discount_rate": 76,
