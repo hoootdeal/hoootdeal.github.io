@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "동원샘물 생수 무라벨, 500ml, 80개",
+          "price": "12,220원",
+          "discount_rate": 23,
+          "priceAt": "09.24 11:55",
+          "image": "https://image15.coupangcdn.com/image/retail/images/357720569582466-2d8eed79-3147-4d8f-b47a-64d1ea94e082.jpg",
+          "url": "https://link.coupang.com/a/hitGKzWNQO",
+          "_ts": 1790218503.93034
+        },
+        {
           "name": "슈펜키즈 아동용 WARM UP 패딩 아웃도어 슬립온 HPKV7EFV4U, 36 Light Beige, 190",
           "price": "4,740원",
           "discount_rate": 88,
@@ -843,15 +852,6 @@
           "image": "https://image4.coupangcdn.com/image/retail/images/2026/01/21/12/8/d56ab80a-0568-4828-8b35-17062ff3ede1.jpg",
           "url": "https://link.coupang.com/a/haePgPSU8q",
           "_ts": 1789789574.982214
-        },
-        {
-          "name": "청정원 행복 2호 세트 + 쇼핑백",
-          "price": "19,530원",
-          "discount_rate": 22,
-          "priceAt": "09.19 11:36",
-          "image": "https://image15.coupangcdn.com/image/retail/images/203132945002589-d73ef936-b5a9-4354-98af-758511db0c10.jpg",
-          "url": "https://link.coupang.com/a/g99PswWgoK",
-          "_ts": 1789785378.0942929
         }
       ]
     },
@@ -1372,15 +1372,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-01-27/1bf55bed-c772-4d55-9035-2a657f24e3b3.jpeg",
           "url": "https://toss.im/_m/p1cLXmI8",
           "_ts": 1789788071.5338838
-        },
-        {
-          "name": "라버비 초고농축 건조기시트, 허그코튼, 120매입, 2개",
-          "price": "15,900원",
-          "discount_rate": 80,
-          "priceAt": "09.19 11:28",
-          "image": "https://shopping.toss.im/live/temp/2026-02-03/cda6a953-de9c-4f7e-a6dc-5e616092971c.png",
-          "url": "https://toss.im/_m/7KdZUUC3",
-          "_ts": 1789784883.194966
         }
       ]
     },
