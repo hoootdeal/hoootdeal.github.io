@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "도브 바디 스크럽 석류 앤드 시어버터, 298g, 1개",
+          "price": "8,780원",
+          "discount_rate": 35,
+          "priceAt": "09.24 10:03",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/19/14/8/3d835a32-fee5-489c-999d-463f6c331eb2.png",
+          "url": "https://link.coupang.com/a/hilHDIiBoW",
+          "_ts": 1790211799.806551
+        },
+        {
           "name": "번개표 절전형 뉴 개별 스위치 멀티탭 4구 WI-MC31645, 1.5m, 블랙, 1개",
           "price": "10,730원",
           "discount_rate": 36,
@@ -834,15 +843,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/eraqecwb/0b72f149416447de8982463d7a4508f0.jpg",
           "url": "https://link.coupang.com/a/g94Ke93Ytg",
           "_ts": 1789781110.199723
-        },
-        {
-          "name": "가그린 후레쉬 브레스 치약 스피아민트, 120g, 3개",
-          "price": "5,450원",
-          "discount_rate": 42,
-          "priceAt": "09.19 09:33",
-          "image": "https://img5a.coupangcdn.com/image/retail/images/2864558274265733-cc849538-73c6-4c67-ac3e-e5a495c13131.jpg",
-          "url": "https://link.coupang.com/a/g902ViqxXM",
-          "_ts": 1789778004.642591
         }
       ]
     },
