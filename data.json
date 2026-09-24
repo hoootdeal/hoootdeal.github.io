@@ -843,15 +843,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f1ce/b9786593874ea0ed3d41a5fb0e769435fd3c42af121a4fa4b72e27bcd674.jpg",
           "url": "https://link.coupang.com/a/hagSMB9Gou",
           "_ts": 1789791301.1943622
-        },
-        {
-          "name": "파워에이드 마운틴블라스트, 240ml, 30개",
-          "price": "11,360원",
-          "discount_rate": 21,
-          "priceAt": "09.19 12:46",
-          "image": "https://image4.coupangcdn.com/image/retail/images/2026/01/21/12/8/d56ab80a-0568-4828-8b35-17062ff3ede1.jpg",
-          "url": "https://link.coupang.com/a/haePgPSU8q",
-          "_ts": 1789789574.982214
         }
       ]
     },
@@ -860,6 +851,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "올바른 슈퍼 프로바이오틱스 생유산균 19 비타민D, 30포, 2박스",
+          "price": "8,900원",
+          "discount_rate": 77,
+          "priceAt": "09.24 12:54",
+          "image": "https://shopping.toss.im/live/temp/2025-08-11/61535351-7e00-43fe-beda-ae65d776c7de.png",
+          "url": "https://toss.im/_m/l2TTnNWo",
+          "_ts": 1790222092.910534
+        },
         {
           "name": "광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
           "price": "5,990원",
@@ -1381,15 +1381,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/ZDNjMGM0/QU5uY2JaT3lmTEprenJGdVQwV3hXYk9hd2JlcG5KUG16eHZCcmVNYndWSzA.png",
           "url": "https://toss.im/_m/LICrAybn",
           "_ts": 1789795316.433089
-        },
-        {
-          "name": "맛꾼 구운란, 대란, 30구, 1개",
-          "price": "12,900원",
-          "discount_rate": 35,
-          "priceAt": "09.19 12:21",
-          "image": "https://shopping.toss.im/live/temp/2026-01-27/1bf55bed-c772-4d55-9035-2a657f24e3b3.jpeg",
-          "url": "https://toss.im/_m/p1cLXmI8",
-          "_ts": 1789788071.5338838
         }
       ]
     },
