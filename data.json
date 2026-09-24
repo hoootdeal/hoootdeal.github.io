@@ -843,15 +843,6 @@
           "image": "https://img4a.coupangcdn.com/image/retail/images/7128178532575-dfd39168-9558-445d-8da2-320767e40b16.jpg",
           "url": "https://link.coupang.com/a/hayu6GlQTk",
           "_ts": 1789806093.9515479
-        },
-        {
-          "name": "사무실 과자세트 비스킷 쿠키 파이 6입 세트 (쵸코하임 + 화이트하임 + 초코파이 + 촉촉한초코칩 2p + 오뜨 쇼콜라), 1세트, 6p",
-          "price": "12,900원",
-          "discount_rate": 21,
-          "priceAt": "09.19 16:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/25273728735648-0f48dbf2-23a5-4b3b-b059-e157f055d193.png",
-          "url": "https://link.coupang.com/a/hatandwoM0",
-          "_ts": 1789801614.299542
         }
       ]
     },
@@ -860,6 +851,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "대한민국농수산 바나나, 3kg, 1박스",
+          "price": "8,900원",
+          "discount_rate": 70,
+          "priceAt": "09.24 16:20",
+          "image": "https://shopping.toss.im/live/temp/2026-06-09/d22aa28d-944e-4074-bd28-cf4de49d4c99.png",
+          "url": "https://toss.shopping/_m/F0p8Qlwt",
+          "_ts": 1790234444.9294589
+        },
         {
           "name": "노랑 곱빼기 왕 떡갈비, 160g, 5봉",
           "price": "7,350원",
@@ -1372,24 +1372,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-04-10/65e6c7e8-f738-4a13-9e4f-16611ea80d58.jpeg",
           "url": "https://toss.im/_m/pKA0kxHy",
           "_ts": 1789806947.444109
-        },
-        {
-          "name": "대박농수산 제주 햇 브로콜리, 특품, 1kg, 1박스",
-          "price": "9,900원",
-          "discount_rate": 47,
-          "priceAt": "09.19 15:57",
-          "image": "https://shopping.toss.im/live/taca/ai/NDhkMGM1/QU9BT3MwUVJYdmFJVXZGQkJOMnpmcldWQndoNktHL01XR1BjQUx0bGVQQU8.png",
-          "url": "https://toss.im/_m/PKXx7LiC",
-          "_ts": 1789801054.327372
-        },
-        {
-          "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
-          "price": "6,200원",
-          "discount_rate": 81,
-          "priceAt": "09.19 15:34",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/Y2VjZDA0/QU0zUE1sbU83WnJNYzlITWJKdE1PMndsdzBsdFdFeHprN1cwNWowT0xJM1Q.png",
-          "url": "https://toss.im/_m/HcEDASsr",
-          "_ts": 1789799650.5866702
         }
       ]
     },
