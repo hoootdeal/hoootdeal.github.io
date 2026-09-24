@@ -852,6 +852,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청우 쫀득초코칩, 800g, 1개",
+          "price": "9,900원",
+          "discount_rate": 50,
+          "priceAt": "09.24 20:24",
+          "image": "https://shopping.toss.im/live/temp/2026-01-07/75c15421-836a-4162-b402-d9a7abe457e7.jpeg",
+          "url": "https://toss.shopping/_m/Hk95mw46",
+          "_ts": 1790249051.457837
+        },
+        {
           "name": "더건강플러스 엑스트라버진 올리브오일, 1L, 1개",
           "price": "8,900원",
           "discount_rate": 77,
