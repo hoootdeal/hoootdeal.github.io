@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "코카콜라 제로 제로 무라벨, 370ml, 18개",
+          "price": "12,330원",
+          "discount_rate": 21,
+          "priceAt": "09.25 11:12",
+          "image": "https://image7.coupangcdn.com/image/retail/images/763923949485522-786b0053-fb3b-4733-a8ae-e446ac716c29.jpg",
+          "url": "https://link.coupang.com/a/hj5y8bGCE8",
+          "_ts": 1790302363.549451
+        },
+        {
           "name": "브리즈문 캠핑 3중 방습 프리미엄 참나무 장작 + 우드 착화제 20g, 10kg, 1세트",
           "price": "6,460원",
           "discount_rate": 40,
@@ -1399,15 +1408,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/MDkxZDUx/QU52Z21LSFI4ZUg3QkoxLzhPZGVRMTF5ZEJvNkdnTnJSZTNWSjhpRGZ0VWk.png",
           "url": "https://toss.im/_m/bHi6PwVp",
           "_ts": 1789871659.4900448
-        },
-        {
-          "name": "피죤 스프레이 섬유탈취제, 미스틱레인 430ml 1개 + 플라워페스티벌 430ml 1개 + 아이스플라워 430ml 1개, 3개",
-          "price": "11,900원",
-          "discount_rate": 40,
-          "priceAt": "09.20 11:05",
-          "image": "https://shopping.toss.im/live/temp/2026-09-18/e0139823-e091-409b-8d2c-6ca119b80bca.jpeg",
-          "url": "https://toss.im/_m/hSMAXUNo",
-          "_ts": 1789869930.250444
         }
       ]
     },
