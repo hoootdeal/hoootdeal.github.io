@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "마이카페라떼 원데이 로어슈거 클래식라떼, 210ml, 10개",
+          "price": "9,050원",
+          "discount_rate": 17,
+          "priceAt": "09.25 12:32",
+          "image": "https://image10.coupangcdn.com/image/retail/images/48802301364199-3c6eb0c8-87f0-47c9-a706-39303255245b.jpg",
+          "url": "https://link.coupang.com/a/hkbihMjii4",
+          "_ts": 1790307172.541719
+        },
+        {
           "name": "코카콜라 제로 제로 무라벨, 370ml, 18개",
           "price": "12,330원",
           "discount_rate": 21,
@@ -861,15 +870,6 @@
           "image": "https://img1a.coupangcdn.com/image/retail/images/104421252091794-12134597-c7a9-4f79-a780-efa64c7de3d1.jpg",
           "url": "https://link.coupang.com/a/hbVuaw4tRQ",
           "_ts": 1789877448.1182761
-        },
-        {
-          "name": "스빈또 NEW 스웨덴 수세미 100g, 1개입, 2개",
-          "price": "6,590원",
-          "discount_rate": 30,
-          "priceAt": "09.20 12:08",
-          "image": "https://image14.coupangcdn.com/image/retail/images/685841542680670-bd9cc04c-d9ec-4f45-af95-5e36fbe13703.jpg",
-          "url": "https://link.coupang.com/a/hbQ0EH2JKC",
-          "_ts": 1789873689.687676
         }
       ]
     },
@@ -1399,15 +1399,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MDY3Zjli/YUU3WGMxaXN4bE5ydFk1eThCNlpaViswZXMwUUo5cUV0dnlHbG9BQmJGST0.png",
           "url": "https://toss.im/_m/JvS5Asqn",
           "_ts": 1789875369.7344341
-        },
-        {
-          "name": "원김치 쪽파김치, 가정용, 2kg, 1개",
-          "price": "9,900원",
-          "discount_rate": 33,
-          "priceAt": "09.20 11:34",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MDkxZDUx/QU52Z21LSFI4ZUg3QkoxLzhPZGVRMTF5ZEJvNkdnTnJSZTNWSjhpRGZ0VWk.png",
-          "url": "https://toss.im/_m/bHi6PwVp",
-          "_ts": 1789871659.4900448
         }
       ]
     },
