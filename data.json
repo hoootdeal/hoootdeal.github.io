@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "도루코 클래식 리미티드 과도, 화이트, 343 x 27 x 22 mm, 1개",
+          "price": "11,900원",
+          "discount_rate": 63,
+          "priceAt": "09.25 17:50",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/859502057901126-9541b0c1-4d77-4f6d-9f77-ff7e0f6c2e49.jpg",
+          "url": "https://link.coupang.com/a/hkx0uW020W",
+          "_ts": 1790326244.796175
+        },
+        {
           "name": "탄씨엔쯔 탄스트라이더 KJCAB64002189 휴대용 스틸체어 폴딩캠핑의자+보관가방 세트, 블랙, 2개",
           "price": "13,190원",
           "discount_rate": 33,
@@ -870,15 +879,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/407381086789127-6713efec-9abd-486e-a994-d906849985a1.jpg",
           "url": "https://link.coupang.com/a/hcjsku9LnU",
           "_ts": 1789897575.043029
-        },
-        {
-          "name": "가그린 오리지널 구강청결제, 1.2L, 2개",
-          "price": "9,590원",
-          "discount_rate": 17,
-          "priceAt": "09.20 17:42",
-          "image": "https://img1a.coupangcdn.com/image/retail/images/247823989174287-50f6a974-15b6-4485-983f-8cee4707fcfb.jpg",
-          "url": "https://link.coupang.com/a/hceT0BkfCe",
-          "_ts": 1789893750.90097
         }
       ]
     },
