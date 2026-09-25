@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "르샤트라1802 인퓨전 초고농축 실내건조 섬유유연제 피오니부케향 리필, 2L, 2개",
+          "price": "10,810원",
+          "discount_rate": 19,
+          "priceAt": "09.25 15:07",
+          "image": "https://img4a.coupangcdn.com/image/retail/images/634635959411553-3d0b19cf-3236-4081-95ce-10eb3b12aa37.png",
+          "url": "https://link.coupang.com/a/hkmmdRF50S",
+          "_ts": 1790316462.730068
+        },
+        {
           "name": "주니 유아용 뚜껑 일체형 2세대 자기주도컵, 210ml, 1개, 핑크",
           "price": "21,000원",
           "discount_rate": 15,
@@ -1372,15 +1381,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/MzkzNDI4/QUtyMDlTakRXd2U1dmo5UjRPMGNoeXRmT2ZnVGtjQ3ZEMWJZS3F1ZFRKVkU.png",
           "url": "https://toss.im/_m/775LQ5tr",
           "_ts": 1789892045.439771
-        },
-        {
-          "name": "던킨 미니 글레이즈드, 15g, 10개, 3팩",
-          "price": "13,480원",
-          "discount_rate": 53,
-          "priceAt": "09.20 15:05",
-          "image": "https://shopping.toss.im/live/temp/2026-05-20/cd8c9328-da99-40ea-a335-e890e3270a29.png",
-          "url": "https://toss.im/_m/dBVrXlQ5",
-          "_ts": 1789884335.832608
         }
       ]
     },
