@@ -879,6 +879,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
+          "price": "5,990원",
+          "discount_rate": 66,
+          "priceAt": "09.25 12:49",
+          "image": "https://shopping.toss.im/live/temp/2025-07-25/7ca9d4c9-fb69-4a3e-bd3d-58c5a6980da7.jpeg",
+          "url": "https://toss.im/_m/tYDrLP5C",
+          "_ts": 1790308157.9899
+        },
+        {
           "name": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
           "price": "8,800원",
           "discount_rate": 70,
@@ -1390,15 +1399,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-08-05/0c32948a-5e0e-4d82-8e56-2a74ee2d3196.jpeg",
           "url": "https://toss.im/_m/9YMRVl3q",
           "_ts": 1789879223.71183
-        },
-        {
-          "name": "비엣꿀 베트남 천연벌꿀 아카시아꿀, 2kg, 1개",
-          "price": "13,900원",
-          "discount_rate": 36,
-          "priceAt": "09.20 12:36",
-          "image": "https://shopping.toss.im/live/taca/ai/MDY3Zjli/YUU3WGMxaXN4bE5ydFk1eThCNlpaViswZXMwUUo5cUV0dnlHbG9BQmJGST0.png",
-          "url": "https://toss.im/_m/JvS5Asqn",
-          "_ts": 1789875369.7344341
         }
       ]
     },
