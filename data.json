@@ -879,15 +879,6 @@
           "image": "https://img5c.coupangcdn.com/image/retail/images/75070530625509-0908750e-22e7-4ca7-b6ad-cceab2feac33.jpg",
           "url": "https://link.coupang.com/a/hcomiObHXM",
           "_ts": 1789901689.789105
-        },
-        {
-          "name": "해찬들 저당 고추장, 500g, 1개",
-          "price": "5,980원",
-          "discount_rate": 20,
-          "priceAt": "09.20 18:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/407381086789127-6713efec-9abd-486e-a994-d906849985a1.jpg",
-          "url": "https://link.coupang.com/a/hcjsku9LnU",
-          "_ts": 1789897575.043029
         }
       ]
     },
@@ -896,6 +887,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "크라운 빙수하임 말차팥빙수, 284g, 2개",
+          "price": "6,600원",
+          "discount_rate": 66,
+          "priceAt": "09.25 19:17",
+          "image": "https://shopping.toss.im/live/temp/2026-07-30/6f6b2803-5537-4120-aa1e-0ed6ea92cadb.jpeg",
+          "url": "https://toss.im/_m/5Fujary9",
+          "_ts": 1790331458.0688698
+        },
         {
           "name": "럽센트 스크럽 워시 플라워마켓, 화이트 튤립향, 500ml, 2개",
           "price": "14,900원",
