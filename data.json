@@ -861,15 +861,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/201601581394180-de818e5d-9cbc-4eb1-9488-c9537b5ae7ca.png",
           "url": "https://link.coupang.com/a/hcabPALW0q",
           "_ts": 1789889794.099767
-        },
-        {
-          "name": "바삭칩 바삭팝콘 스팸맛, 55g, 4개",
-          "price": "3,230원",
-          "discount_rate": 58,
-          "priceAt": "09.20 15:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/15f5d9bf-8024-4ab6-8789-8d55e1db24594917939009497738894.png",
-          "url": "https://link.coupang.com/a/hb5PALQPW8",
-          "_ts": 1789886135.182539
         }
       ]
     },
@@ -878,6 +869,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "풍연 굳지않는 쑥+백미 절편세트, 50g, 20개",
+          "price": "6,500원",
+          "discount_rate": 67,
+          "priceAt": "09.25 16:15",
+          "image": "https://shopping.toss.im/live/taca/ai/ZjMxZmVl/ZTVoNWpkWTVacm41azhmTVRreDdNN0o1dExIazVOd3VtTVl5azNPeGEyMD0.png",
+          "url": "https://toss.im/_m/nzSgUbOf",
+          "_ts": 1790320541.237463
+        },
         {
           "name": "올챌린지 뽑아쓰는 3겹 키친타월 그레이, 100매, 9개",
           "price": "7,900원",
