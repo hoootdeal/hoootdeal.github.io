@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 델리 토마토 케찹, 800g, 2개",
+          "price": "4,580원",
+          "discount_rate": 29,
+          "priceAt": "09.25 17:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/30058371332163-14b87995-d5a6-4b80-9f97-e345d4be8245.jpg",
+          "url": "https://link.coupang.com/a/hku0RRuru0",
+          "_ts": 1790323729.378371
+        },
+        {
           "name": "닥터버들 미니헤드 칫솔 세트, 12개입, 1개",
           "price": "10,810원",
           "discount_rate": 26,
