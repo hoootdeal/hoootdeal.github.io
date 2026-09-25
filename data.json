@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "주니 유아용 뚜껑 일체형 2세대 자기주도컵, 210ml, 1개, 핑크",
+          "price": "21,000원",
+          "discount_rate": 15,
+          "priceAt": "09.25 13:51",
+          "image": "https://image3.coupangcdn.com/image/retail/images/76241385642715-29f9c7ea-1996-475e-9a31-ad91bccb4917.jpg",
+          "url": "https://link.coupang.com/a/hkgUPJAbzU",
+          "_ts": 1790311893.8163111
+        },
+        {
           "name": "마이카페라떼 원데이 로어슈거 클래식라떼, 210ml, 10개",
           "price": "9,050원",
           "discount_rate": 17,
@@ -861,15 +870,6 @@
           "image": "https://image11.coupangcdn.com/image/vendor_inventory/3ea0/ff2ccddf9849355d1a8172ed9c56c6dbe60dab8d3fd19af9c48c115b9e82.jpg",
           "url": "https://link.coupang.com/a/hb2G2N9mTI",
           "_ts": 1789883500.649248
-        },
-        {
-          "name": "익스트림 올인원 포 맨 멀티비타민, 30회분, 1개",
-          "price": "26,660원",
-          "discount_rate": 23,
-          "priceAt": "09.20 13:10",
-          "image": "https://img1a.coupangcdn.com/image/retail/images/104421252091794-12134597-c7a9-4f79-a780-efa64c7de3d1.jpg",
-          "url": "https://link.coupang.com/a/hbVuaw4tRQ",
-          "_ts": 1789877448.1182761
         }
       ]
     },
@@ -1390,15 +1390,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-09-09/0bbe2d2e-3438-4436-9aff-eab1d9e56316.jpg",
           "url": "https://toss.im/_m/bylx5A3q",
           "_ts": 1789882638.772536
-        },
-        {
-          "name": "운동화 세탁망, 40x20cm, 2개",
-          "price": "6,800원",
-          "discount_rate": 49,
-          "priceAt": "09.20 13:40",
-          "image": "https://shopping.toss.im/live/temp/2025-08-05/0c32948a-5e0e-4d82-8e56-2a74ee2d3196.jpeg",
-          "url": "https://toss.im/_m/9YMRVl3q",
-          "_ts": 1789879223.71183
         }
       ]
     },
