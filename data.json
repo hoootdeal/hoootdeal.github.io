@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "배스킨라빈스 베리베리 스트로베리 우유, 190ml, 24개",
+          "price": "12,660원",
+          "discount_rate": 20,
+          "priceAt": "09.25 21:18",
+          "image": "https://static.coupangcdn.com/image/retail/images/50559711779578-9a756e43-5dfc-40e4-a276-d486914b496c.jpg",
+          "url": "https://link.coupang.com/a/hkMO4FZOPB",
+          "_ts": 1790338681.887469
+        },
+        {
           "name": "바디피트 볼록맞춤 생리대 날개형, 슈퍼롱, 20개입, 3개",
           "price": "11,900원",
           "discount_rate": 57,
@@ -861,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4a8a/09921f4989d18f6b79b045e3724c9f202e06e832714eb6ae15670cf333e1.jpg",
           "url": "https://link.coupang.com/a/hdcXKO3AHs",
           "_ts": 1789944179.975796
-        },
-        {
-          "name": "헤인느 먼지없는 프리미엄 호텔 수건, 다크그레이, 10개",
-          "price": "24,800원",
-          "discount_rate": 17,
-          "priceAt": "09.20 20:56",
-          "image": "https://image9.coupangcdn.com/image/vendor_inventory/65a7/8cea1b7a5d1b5776cd60abb5777b6b3d051b452723eea4b681eed1e24203.png",
-          "url": "https://link.coupang.com/a/hcsJDZZXNs",
-          "_ts": 1789905364.9509609
         }
       ]
     },
@@ -1408,15 +1408,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-09-09/fa252ba3-b6fd-4d8d-83d6-42bad36edbfb.jpg",
           "url": "https://toss.im/_m/Bywwu3ac",
           "_ts": 1789907656.410491
-        },
-        {
-          "name": "맘스터치 시그니처 치킨텐더, 1kg, 2개",
-          "price": "19,480원",
-          "discount_rate": 21,
-          "priceAt": "09.20 20:55",
-          "image": "https://shopping.toss.im/live/taca/ai/ODdlMGY5/WnR6a3k4emJsWnJwa3pNZWJiT21NZWptS0dXa3pxR1RrUnpUWTNSWVljST0.png",
-          "url": "https://toss.im/_m/3dG91zF4",
-          "_ts": 1789905347.937335
         }
       ]
     },
