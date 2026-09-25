@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "나우푸드 프로바이오틱-10 유산균 250억 베지 캡슐, 100정, 2개",
+          "price": "48,870원",
+          "discount_rate": 20,
+          "priceAt": "09.25 09:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/eb6f/637eddbef0a8baae6ddf00425e69f733d9c0bbdeac32a6a78c09d486c964.jpg",
+          "url": "https://link.coupang.com/a/hjXixXNofA",
+          "_ts": 1790295421.215084
+        },
+        {
           "name": "친수 칠리소스, 250g, 2개",
           "price": "1,980원",
           "discount_rate": 41,
@@ -852,15 +861,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/273640124100121-fc80b112-29c5-4da6-8c9a-1ea7bc12a6a7.jpg",
           "url": "https://link.coupang.com/a/hbHEaPKHeu",
           "_ts": 1789865829.933849
-        },
-        {
-          "name": "테리파머 호텔 수건 200g 30수 면사, 아마존그린, 10개",
-          "price": "24,990원",
-          "discount_rate": 39,
-          "priceAt": "09.20 08:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8fc5/2a3fa00c1c86fcd8c6b5f14cbf4f0bdaa3ed1cc242f476c58edf835e82d9.jpg",
-          "url": "https://link.coupang.com/a/hbDtqFRSRo",
-          "_ts": 1789862324.778711
         }
       ]
     },
