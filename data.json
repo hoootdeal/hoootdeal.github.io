@@ -870,15 +870,6 @@
           "image": "https://image9.coupangcdn.com/image/vendor_inventory/65a7/8cea1b7a5d1b5776cd60abb5777b6b3d051b452723eea4b681eed1e24203.png",
           "url": "https://link.coupang.com/a/hcsJDZZXNs",
           "_ts": 1789905364.9509609
-        },
-        {
-          "name": "스너글 초고농축 섬유유연제 오리지널 허거블 코튼 리필, 2.6L, 1개",
-          "price": "8,990원",
-          "discount_rate": 22,
-          "priceAt": "09.20 19:54",
-          "image": "https://img5c.coupangcdn.com/image/retail/images/75070530625509-0908750e-22e7-4ca7-b6ad-cceab2feac33.jpg",
-          "url": "https://link.coupang.com/a/hcomiObHXM",
-          "_ts": 1789901689.789105
         }
       ]
     },
@@ -887,6 +878,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "푸드앳홈 오징어 젓갈, 1kg, 1팩",
+          "price": "9,500원",
+          "discount_rate": 58,
+          "priceAt": "09.25 20:30",
+          "image": "https://shopping.toss.im/live/temp/2026-03-19/9abb176c-76ab-4a1a-b475-0d9f6c22482f.jpeg",
+          "url": "https://toss.im/_m/5ZsNjgUb",
+          "_ts": 1790335855.0437
+        },
         {
           "name": "크라운 빙수하임 말차팥빙수, 284g, 2개",
           "price": "6,600원",
@@ -1417,15 +1417,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ODdlMGY5/WnR6a3k4emJsWnJwa3pNZWJiT21NZWptS0dXa3pxR1RrUnpUWTNSWVljST0.png",
           "url": "https://toss.im/_m/3dG91zF4",
           "_ts": 1789905347.937335
-        },
-        {
-          "name": "호정가 찹쌀약과 세트, 1kg, 1박스",
-          "price": "8,900원",
-          "discount_rate": 44,
-          "priceAt": "09.20 19:52",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/YzQ2YjA3/QUpwUDIzeGgzT3g4dGJ6QmJhVzBiZUgydFoySGJiQjZ4NlZEZ3A1NlVWVnk.png",
-          "url": "https://toss.im/_m/hiwXIfHx",
-          "_ts": 1789901546.0912561
         }
       ]
     },
