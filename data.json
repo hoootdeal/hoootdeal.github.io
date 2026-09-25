@@ -861,15 +861,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/15f5d9bf-8024-4ab6-8789-8d55e1db24594917939009497738894.png",
           "url": "https://link.coupang.com/a/hb5PALQPW8",
           "_ts": 1789886135.182539
-        },
-        {
-          "name": "G7 퓨어블랙 원두커피믹스, 2g, 200개입, 1개",
-          "price": "30,000원",
-          "discount_rate": 17,
-          "priceAt": "09.20 14:51",
-          "image": "https://image11.coupangcdn.com/image/vendor_inventory/3ea0/ff2ccddf9849355d1a8172ed9c56c6dbe60dab8d3fd19af9c48c115b9e82.jpg",
-          "url": "https://link.coupang.com/a/hb2G2N9mTI",
-          "_ts": 1789883500.649248
         }
       ]
     },
@@ -878,6 +869,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "종표 쫄깃 국수, 1.5kg, 1개",
+          "price": "6,900원",
+          "discount_rate": 60,
+          "priceAt": "09.25 14:54",
+          "image": "https://shopping.toss.im/live/taca/ai/MGQxMWZk/V3RjZU5tMW0rUFRoejJIMkJhemxpSDZjRmgvQ1BQcTVxOUFKWGxWRFMyaz0.png",
+          "url": "https://toss.im/_m/j1fM3ilC",
+          "_ts": 1790315657.7446349
+        },
         {
           "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
           "price": "5,990원",
@@ -1381,15 +1381,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-05-20/cd8c9328-da99-40ea-a335-e890e3270a29.png",
           "url": "https://toss.im/_m/dBVrXlQ5",
           "_ts": 1789884335.832608
-        },
-        {
-          "name": "아임닭 탱글탱글 닭가슴살 비엔나, 120g, 10팩",
-          "price": "15,900원",
-          "discount_rate": 59,
-          "priceAt": "09.20 14:37",
-          "image": "https://shopping.toss.im/live/temp/2026-09-09/0bbe2d2e-3438-4436-9aff-eab1d9e56316.jpg",
-          "url": "https://toss.im/_m/bylx5A3q",
-          "_ts": 1789882638.772536
         }
       ]
     },
