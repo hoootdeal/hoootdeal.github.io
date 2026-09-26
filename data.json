@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "리템 하이브 데스크오거나이저, 화이트, 2개",
+          "price": "8,750원",
+          "discount_rate": 57,
+          "priceAt": "09.26 15:27",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/468929349757916-8ed961b3-c11e-4164-a0d3-3a97c4efb29c.jpg",
+          "url": "https://link.coupang.com/a/hl2D9kNNZc",
+          "_ts": 1790404025.5318909
+        },
+        {
           "name": "닥터스베스트 비타민 D3 5000IU 베지 소프트젤, 180정, 1개, 180정 × 1개",
           "price": "9,850원",
           "discount_rate": 34,
@@ -843,33 +852,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/343418861604237-03a70c05-66fb-436e-9f0f-9c928808741a.jpg",
           "url": "https://link.coupang.com/a/hdL5ief4Im",
           "_ts": 1789973668.5862908
-        },
-        {
-          "name": "필립스 3000 시리즈 전기면도기, S3243/12, 스톰블루",
-          "price": "48,920원",
-          "discount_rate": 25,
-          "priceAt": "09.21 15:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/330745046063118-654954a0-462b-4384-b2c4-aca211b51092.jpg",
-          "url": "https://link.coupang.com/a/hdIoyM3HAi",
-          "_ts": 1789970569.5100439
-        },
-        {
-          "name": "해태제과 버터링 골드, 194g, 4개",
-          "price": "8,070원",
-          "discount_rate": 23,
-          "priceAt": "09.21 14:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/86397055896339-0d9fce75-b103-43f6-b8a5-14d4adfa101b.jpg",
-          "url": "https://link.coupang.com/a/hdHTHfrKLs",
-          "_ts": 1789970151.856092
-        },
-        {
-          "name": "CLA 데일리 보건용 마스크 대형 KF94, 25개입, 4개, 화이트",
-          "price": "9,500원",
-          "discount_rate": 46,
-          "priceAt": "09.21 14:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/453723948821901-c07a85d3-e94d-4592-8440-001bcfefc233.jpg",
-          "url": "https://link.coupang.com/a/hdFWNdZIMm",
-          "_ts": 1789968515.5231948
         }
       ]
     },
