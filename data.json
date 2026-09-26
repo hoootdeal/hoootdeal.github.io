@@ -843,6 +843,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "익스트림 단백질 20g 슬림쉐이크, 더블초코, 45g, 7포, 1세트",
+          "price": "11,890원",
+          "discount_rate": 66,
+          "priceAt": "09.26 19:11",
+          "image": "https://shopping.toss.im/live/temp/2026-04-28/ed3268db-5022-4b1c-b0f1-628a2121bf0e.jpeg",
+          "url": "https://toss.im/_m/TqZoQR9d",
+          "_ts": 1790417483.313664
+        },
+        {
           "name": "한우 사골 도가니탕, 500g, 5팩",
           "price": "8,990원",
           "discount_rate": 52,
