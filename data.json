@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "닥터스베스트 비타민 D3 5000IU 베지 소프트젤, 180정, 1개, 180정 × 1개",
+          "price": "9,850원",
+          "discount_rate": 34,
+          "priceAt": "09.26 14:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/6a4c5db9-e555-4ebc-a866-cb3669f3959a_fixing_v2.png",
+          "url": "https://link.coupang.com/a/hlYlxRlrwW",
+          "_ts": 1790400413.455275
+        },
+        {
           "name": "에스앤비골든 카레 순한맛, 220g, 2개, 220g × 2개",
           "price": "4,980원",
           "discount_rate": 26,
@@ -861,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/453723948821901-c07a85d3-e94d-4592-8440-001bcfefc233.jpg",
           "url": "https://link.coupang.com/a/hdFWNdZIMm",
           "_ts": 1789968515.5231948
-        },
-        {
-          "name": "하인즈 50% 슈가 앤 솔트 토마토 케찹, 435g, 5개",
-          "price": "15,100원",
-          "discount_rate": 49,
-          "priceAt": "09.21 14:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/e32ff5df-291f-4980-b156-3133853a2ce78847409944842249243.png",
-          "url": "https://link.coupang.com/a/hdEBzK7PMG",
-          "_ts": 1789967389.025849
         }
       ]
     },
