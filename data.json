@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "그린핑거 힘센보습 인텐시브 크리미오일 유아 크림, 180ml, 4개",
+          "price": "20,880원",
+          "discount_rate": 78,
+          "priceAt": "09.26 17:30",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/329280054487660-e3186d6a-abc4-463c-9fb6-720d89bdc61d.png",
+          "url": "https://link.coupang.com/a/hmbt2I1zxs",
+          "_ts": 1790411444.4254808
+        },
+        {
           "name": "아우라 드라이 섬유유연시트 스윗만다린 앤 피오니향 본품, 120개입, 1개",
           "price": "9,900원",
           "discount_rate": 19,
@@ -816,15 +825,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/9142380833236-4b13c06b-210d-4777-9b45-83a9696a5d89.jpg",
           "url": "https://link.coupang.com/a/hdVhuyefSK",
           "_ts": 1789981391.039607
-        },
-        {
-          "name": "Apple 2024 에어팟 4 액티브 노이즈 캔슬링 블루투스 이어폰, MXP93KH/A, 화이트",
-          "price": "170,100원",
-          "discount_rate": 25,
-          "priceAt": "09.21 17:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/81d4/f1710ef0f21e8d2fdf39942bdaae12c473182d2da15b0436a973b54a6661.jpg",
-          "url": "https://link.coupang.com/a/hdRI24N2tg",
-          "_ts": 1789978405.2564638
         }
       ]
     },
