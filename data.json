@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "허브앤리빙 홈 디퓨저, 밤쉘, 520ml, 2개",
+          "price": "15,080원",
+          "discount_rate": 15,
+          "priceAt": "09.26 18:49",
+          "image": "https://image8.coupangcdn.com/image/retail/images/3970298929458-d5b09615-ae8b-4ca3-9cf8-3525610c1a54.jpg",
+          "url": "https://link.coupang.com/a/hmg9dmQWXs",
+          "_ts": 1790416199.49547
+        },
+        {
           "name": "친수 스위트 칠리소스, 295g, 2개",
           "price": "2,980원",
           "discount_rate": 63,
@@ -1354,15 +1363,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/NzdhZGZi/WmJIKzJwcjgzZlJwOURENGtmUXg2ZkhoY09mWTJtYjJUTnNtRTVZMUJoTT0.png",
           "url": "https://toss.im/_m/lkGxdJMp",
           "_ts": 1789990398.5230331
-        },
-        {
-          "name": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
-          "price": "10,900원",
-          "discount_rate": 35,
-          "priceAt": "09.21 18:45",
-          "image": "https://shopping.toss.im/live/taca/ai/YjM4MDY0/ZW15MThmWGpjczZ0SGNTSG53d2UvaDYwK0lmNzNIaG5ZVkFOZVZWK291QT0.png",
-          "url": "https://toss.im/_m/LRmDYdV4",
-          "_ts": 1789983931.896626
         }
       ]
     },
