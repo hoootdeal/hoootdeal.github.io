@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "소낙스 더 뷰 에탄올 워셔액, 2L, 2개",
+          "price": "10,200원",
+          "discount_rate": 15,
+          "priceAt": "09.26 21:17",
+          "image": "https://img3c.coupangcdn.com/image/retail/images/81427147476358-f9387dd9-435a-4532-a17e-99e996353df1.png",
+          "url": "https://link.coupang.com/a/hmrFem6nm0",
+          "_ts": 1790425029.960366
+        },
+        {
           "name": "바겐슈타이거 스텐 304 양면 도마, 혼합색상, 1개",
           "price": "18,860원",
           "discount_rate": 33,
