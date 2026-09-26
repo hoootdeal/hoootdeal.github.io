@@ -825,15 +825,6 @@
           "image": "https://image15.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
           "url": "https://link.coupang.com/a/hd0cuLbaOi",
           "_ts": 1789985519.721288
-        },
-        {
-          "name": "롯데웰푸드 티코 밀크초코 아이스크림 (냉동), 34ml, 15개입, 4개",
-          "price": "18,600원",
-          "discount_rate": 24,
-          "priceAt": "09.21 18:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/9142380833236-4b13c06b-210d-4777-9b45-83a9696a5d89.jpg",
-          "url": "https://link.coupang.com/a/hdVhuyefSK",
-          "_ts": 1789981391.039607
         }
       ]
     },
@@ -842,6 +833,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "한우 사골 도가니탕, 500g, 5팩",
+          "price": "8,990원",
+          "discount_rate": 52,
+          "priceAt": "09.26 18:32",
+          "image": "https://shopping.toss.im/live/taca/ai/Mzk0NDM5/YjREN3FJTVc0VFdTRnFVemU4N1dZdWNNV3YwZU5BUHRhTk5yZ0FWS0lRND0.png",
+          "url": "https://toss.im/_m/51mYSJQt",
+          "_ts": 1790415167.218505
+        },
         {
           "name": "제스타 칫솔, 부드러운 미세모, 20개입, 1개",
           "price": "8,900원",
@@ -1363,24 +1363,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YjM4MDY0/ZW15MThmWGpjczZ0SGNTSG53d2UvaDYwK0lmNzNIaG5ZVkFOZVZWK291QT0.png",
           "url": "https://toss.im/_m/LRmDYdV4",
           "_ts": 1789983931.896626
-        },
-        {
-          "name": "더 빅토리아, 청포도 500ml 20개 + 파인애플 500ml 20개, 40개",
-          "price": "16,400원",
-          "discount_rate": 39,
-          "priceAt": "09.21 18:18",
-          "image": "https://shopping.toss.im/live/taca/ai/ZWMxOGNm/QUtFZHdZMUw2MkpGNzd5QUdIclJvWk8xa1RiRU1wSlNHMDF0bFhic1JLNys.png",
-          "url": "https://toss.im/_m/Fufoffe8",
-          "_ts": 1789982339.3926778
-        },
-        {
-          "name": "이진물산 볶은 땅콩, 24/28, 1kg, 1봉",
-          "price": "7,400원",
-          "discount_rate": 32,
-          "priceAt": "09.21 17:57",
-          "image": "https://shopping.toss.im/live/taca/ai/NDNlMWU2/QUtkMWlSMEF6dWVBWGFudkZDZzUveG5DVFBLTFB0QWcrV2ViV0h2ZURVUXY.png",
-          "url": "https://toss.im/_m/1niSOoeC",
-          "_ts": 1789981059.201955
         }
       ]
     },
