@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "닥터스 베스트 킬레이트 고흡수성 마그네슘 미네랄100mg, 240정, 3개",
+          "price": "55,590원",
+          "discount_rate": 17,
+          "priceAt": "09.26 12:38",
+          "image": "https://img2a.coupangcdn.com/image/vendor_inventory/787d/5c723e54a11c5a3373cfbb89a9640c22d46d374a58f101982ade4e6a193b.png",
+          "url": "https://link.coupang.com/a/hlQDpHpSU0",
+          "_ts": 1790393939.6279922
+        },
+        {
           "name": "프로월드컵 키즈 하프타임 축구화, blue, 210",
           "price": "11,130원",
           "discount_rate": 30,
@@ -870,24 +879,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/f3fc1409-a3af-4a99-8907-ad4ab214398e_fixing_v2.png",
           "url": "https://link.coupang.com/a/hdBLEk7PoW",
           "_ts": 1789965006.1579819
-        },
-        {
-          "name": "몽돌 여성용 골지 브이넥 가디건 MDCD034, S, Oatmeal",
-          "price": "14,100원",
-          "discount_rate": 76,
-          "priceAt": "09.21 12:37",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/26/17/4/270a937a-0354-4b0e-8cc6-d7e2eba51009.jpg",
-          "url": "https://link.coupang.com/a/hdx1C99WTY",
-          "_ts": 1789961864.471927
-        },
-        {
-          "name": "스타벅스 하우스 블렌드 분쇄원두, 200g, 1개",
-          "price": "8,440원",
-          "discount_rate": 40,
-          "priceAt": "09.21 12:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8491/12a8235187f8416a12fd79e4f615e480b6bc3ab324d8594616ffa0fb70ba.jpg",
-          "url": "https://link.coupang.com/a/hdwE6osw2e",
-          "_ts": 1789960719.520824
         }
       ]
     },
@@ -1417,15 +1408,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-07-08/9c4e33f1-ab70-473e-9266-1aa0db486c23.jpeg",
           "url": "https://toss.im/_m/Z7sd87HD",
           "_ts": 1789962744.022068
-        },
-        {
-          "name": "애슐리 볶음밥 올인원 10종 세트, 1개",
-          "price": "21,900원",
-          "discount_rate": 52,
-          "priceAt": "09.21 12:27",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/YTUyZjk2/S1YyaXdQcEJwZTAxK29mcUM4ZjlZVWw1V0dGc29hRTVWRENEeDA1ZXUyWT0.png",
-          "url": "https://toss.im/_m/j5dwfSTy",
-          "_ts": 1789961269.3874838
         }
       ]
     },
