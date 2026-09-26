@@ -843,6 +843,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "제스타 칫솔, 부드러운 미세모, 20개입, 1개",
+          "price": "8,900원",
+          "discount_rate": 69,
+          "priceAt": "09.26 17:55",
+          "image": "https://shopping.toss.im/live/taca/ai/MmU0OTMy/VlZUdWhlOFU3cW5rVE9RTDlFYTZpelRGaEFXRVRkOTZXWkZSRWRFbDd2ND0.png",
+          "url": "https://toss.im/_m/FIuoYaGi",
+          "_ts": 1790412905.458621
+        },
+        {
           "name": "어가찬 지리멸치 볶음용, 1.5kg, 1박스",
           "price": "13,900원",
           "discount_rate": 58,
