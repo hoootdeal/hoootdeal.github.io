@@ -181,6 +181,13 @@
         .querySelectorAll(".mall-tab-btn")
         .forEach((b) => b.classList.toggle("active", b === btn));
       renderMall(malls.find((m) => m.id === btn.dataset.mall));
+      // 고른 탭을 주소(?mall=)에 남긴다 — 토스 링크는 같은 탭에서 열리므로, 뒤로가기로 돌아올 때
+      // 페이지가 새로 로드돼도 보던 탭이 유지된다. 다른 파라미터(?src=oc 등)는 그대로 둔다.
+      try {
+        const u = new URL(location.href);
+        u.searchParams.set("mall", btn.dataset.mall);
+        history.replaceState(history.state, "", u);
+      } catch (_) {}
     });
 
     function renderMall(mall) {
