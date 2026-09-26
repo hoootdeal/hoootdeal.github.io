@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에스앤비골든 카레 순한맛, 220g, 2개, 220g × 2개",
+          "price": "4,980원",
+          "discount_rate": 26,
+          "priceAt": "09.26 13:33",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/237491827260649-15175375-b1c7-4527-af2a-275473c8ec23.jpg",
+          "url": "https://link.coupang.com/a/hlUxMjqcTc",
+          "_ts": 1790397220.141394
+        },
+        {
           "name": "닥터스 베스트 킬레이트 고흡수성 마그네슘 미네랄100mg, 240정, 3개",
           "price": "55,590원",
           "discount_rate": 17,
@@ -870,15 +879,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/39300534859435-be186de8-39c9-4f2d-b36d-143d0fefbb3a.jpg",
           "url": "https://link.coupang.com/a/hdDd7ALP1U",
           "_ts": 1789966231.038698
-        },
-        {
-          "name": "그린스토아 넥가드 목 경추 스트레칭 자세교정 보조쿠션",
-          "price": "6,570원",
-          "discount_rate": 53,
-          "priceAt": "09.21 13:30",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/f3fc1409-a3af-4a99-8907-ad4ab214398e_fixing_v2.png",
-          "url": "https://link.coupang.com/a/hdBLEk7PoW",
-          "_ts": 1789965006.1579819
         }
       ]
     },
