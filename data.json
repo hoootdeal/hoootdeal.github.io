@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바겐슈타이거 스텐 304 양면 도마, 혼합색상, 1개",
+          "price": "18,860원",
+          "discount_rate": 33,
+          "priceAt": "09.26 20:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1137703034257733-660c48b8-589e-4b2c-b726-a71dc14941f0.jpg",
+          "url": "https://link.coupang.com/a/hmmIQqru1I",
+          "_ts": 1790420881.531438
+        },
+        {
           "name": "허브앤리빙 홈 디퓨저, 밤쉘, 520ml, 2개",
           "price": "15,080원",
           "discount_rate": 15,
@@ -807,33 +816,6 @@
           "image": "https://static.coupangcdn.com/image/retail/images/2159034107554856-af28941e-245f-4729-acf6-7d36dd5b122f.png",
           "url": "https://link.coupang.com/a/hd7pbiWm4G",
           "_ts": 1789991568.854314
-        },
-        {
-          "name": "해표 순알콩 국간장, 840ml, 1개",
-          "price": "2,170원",
-          "discount_rate": 40,
-          "priceAt": "09.21 19:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/07/09/12/1/a1b60328-7a8b-4b6d-99d0-14761d6fd84c.jpg",
-          "url": "https://link.coupang.com/a/hd2l4Li0U8",
-          "_ts": 1789987329.015938
-        },
-        {
-          "name": "롯데웰푸드 셀렉션 더 싱글 초코 아이스크림 (냉동), 50ml, 10개입, 4박스",
-          "price": "18,600원",
-          "discount_rate": 61,
-          "priceAt": "09.21 19:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/681684896047848-02c0cc9f-bd15-4da6-a871-e80b7118bca6.jpg",
-          "url": "https://link.coupang.com/a/hd1JttZhM4",
-          "_ts": 1789986806.942254
-        },
-        {
-          "name": "베베숲 오리진 유아물티슈 캡형, 50g, 100매, 10개",
-          "price": "10,900원",
-          "discount_rate": 16,
-          "priceAt": "09.21 19:11",
-          "image": "https://image15.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
-          "url": "https://link.coupang.com/a/hd0cuLbaOi",
-          "_ts": 1789985519.721288
         }
       ]
     },
