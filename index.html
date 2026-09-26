@@ -83,6 +83,12 @@
     return s; // 스킴 없는 상대경로("images/profile.jpg" 등, 프로필 아바타 전용)는 안전하므로 허용
   }
 
+  // 토스 링크는 토스 앱으로 넘어가는데, 새 탭에서 열면 앱으로 넘어간 뒤 빈 탭(about:blank)이
+  // 남아 돌아왔을 때 링크트리가 아니라 빈 화면이 보인다 — 토스만 지금 탭에서 연다.
+  function isTossUrl(url) {
+    return /^https:\/\/([a-z0-9-]+\.)*toss\.(im|shopping)\//i.test(String(url ?? ""));
+  }
+
 
   function formatRelativeTime(ts) {
     const diffMin = (Date.now() / 1000 - ts) / 60;
@@ -220,7 +226,7 @@
               const image = sanitizeUrl(product.image) || "images/placeholder.svg";
               return `
               <a class="product-row${hasRank && rank <= 3 ? " product-row-top" : ""}"
-                 ${href ? `href="${escapeHtml(href)}" target="_blank" rel="noopener"` : ""}>
+                 ${href ? `href="${escapeHtml(href)}"${isTossUrl(href) ? "" : ` target="_blank" rel="noopener"`}` : ""}>
                 ${hasRank ? `<span class="product-rank">${rank}</span>` : ""}
                 <img src="${escapeHtml(image)}" alt="" loading="lazy" referrerpolicy="no-referrer" />
                 <span class="product-info">
