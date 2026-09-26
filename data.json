@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바겐슈타이거 인덕션 IH 미니팟 양수냄비, 14cm, 혼합색상, 1개",
+          "price": "10,370원",
+          "discount_rate": 29,
+          "priceAt": "09.27 07:28",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/11/13/5/24af9ec9-43f7-4a6d-a62f-f5806f117f36.jpg",
+          "url": "https://link.coupang.com/a/hm9khcyrYG",
+          "_ts": 1790461689.399145
+        },
+        {
           "name": "슈가로로 애사비 스파클링 파인애플, 350ml, 48개, 350ml × 48개",
           "price": "19,090원",
           "discount_rate": 60,
@@ -834,15 +843,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/541442187137047-c6735a31-57b9-4079-93d6-89307a58280f.jpg",
           "url": "https://link.coupang.com/a/heRH2twvaS",
           "_ts": 1790030446.564845
-        },
-        {
-          "name": "고로고로 초강력 테이프클리너 리필, 6개, 단일 색상",
-          "price": "8,120원",
-          "discount_rate": 28,
-          "priceAt": "09.22 07:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/65c6/0869a349b04e0d02bd0f9f2407d877c519e33a674a2e0fa602f58524c3fa.jpg",
-          "url": "https://link.coupang.com/a/heQNowktk4",
-          "_ts": 1790029680.266005
         }
       ]
     },
