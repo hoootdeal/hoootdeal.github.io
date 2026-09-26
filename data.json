@@ -834,6 +834,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "어가찬 지리멸치 볶음용, 1.5kg, 1박스",
+          "price": "13,900원",
+          "discount_rate": 58,
+          "priceAt": "09.26 17:04",
+          "image": "https://shopping.toss.im/live/taca/ai/YmY3MWEw/U1Q2elY3V1lTV1RpekxHV09XbTIyVUV5elMzVGtqM3hIcm1iVXFxd1JWOD0.png",
+          "url": "https://toss.shopping/_m/JoavxVSt",
+          "_ts": 1790409877.251712
+        },
+        {
           "name": "던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
           "price": "11,500원",
           "discount_rate": 76,
