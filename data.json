@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "미미네 오리지널 국물떡볶이 (밀떡) (냉동), 570g, 4개, 570g × 4개",
+          "price": "13,420원",
+          "discount_rate": 36,
+          "priceAt": "09.26 21:23",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/269348096652168-f6b945c2-708e-4b5f-b0e9-799e10b5ffc5.jpg",
+          "url": "https://link.coupang.com/a/hmr5fpriwe",
+          "_ts": 1790425381.385658
+        },
+        {
           "name": "소낙스 더 뷰 에탄올 워셔액, 2L, 2개",
           "price": "10,200원",
           "discount_rate": 15,
@@ -1354,15 +1363,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-12-29/b1e2036f-3dc0-4c8c-9f35-abd07ed2e5e4.jpeg",
           "url": "https://toss.im/_m/fHMWvDps",
           "_ts": 1790037298.8841112
-        },
-        {
-          "name": "드시모네 365 캡슐, 450mg, 30캡슐, 4박스",
-          "price": "67,900원",
-          "discount_rate": 64,
-          "priceAt": "09.21 21:18",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MmNmN2E2/QU5leHZQM084V2RteC9IWjJUa08rN2M1RG96MGJsdHpKc094blRuRHNkelo.png",
-          "url": "https://toss.im/_m/piNrpmGn",
-          "_ts": 1789993093.655901
         }
       ]
     },
