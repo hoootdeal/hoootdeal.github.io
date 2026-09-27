@@ -870,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3125919039537746-2f0e2d60-6077-4f94-9adc-db9b4606ca1b.png",
           "url": "https://link.coupang.com/a/hgwzxtdwDQ",
           "_ts": 1790116812.266579
-        },
-        {
-          "name": "시치미 쓱 데일리 물티슈 캡형, 50g, 100개입, 10개",
-          "price": "4,900원",
-          "discount_rate": 57,
-          "priceAt": "09.23 07:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1076790575012128-e5953f6b-4938-4372-a2f4-63519b59f461.jpg",
-          "url": "https://link.coupang.com/a/hguCk55Zg4",
-          "_ts": 1790115171.585419
         }
       ]
     },
@@ -887,6 +878,36 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "호정가 우리쌀약과, 1kg, 1세트",
+          "price": "4,990원",
+          "discount_rate": 68,
+          "priceAt": "09.28 07:21",
+          "image": "https://shopping.toss.im/live/taca/ai/YzYwZjc1/SzBySmFmczhOVWsybVpOa2ZheGt0VnVrNVNUSXh0VFQ1MVF3MmpPMFJXbz0.png",
+          "url": "https://toss.shopping/_m/zk5pNVFz",
+          "_ts": 1790547716.90399,
+          "_flash": true
+        },
+        {
+          "name": "던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
+          "price": "11,500원",
+          "discount_rate": 76,
+          "priceAt": "09.28 07:21",
+          "image": "https://shopping.toss.im/live/temp/2025-11-21/deb1ee4d-dfcb-45e0-9011-f298d60bf761.jpeg",
+          "url": "https://toss.im/_m/7OzaOje1",
+          "_ts": 1790547716.9039638,
+          "_flash": true
+        },
+        {
+          "name": "미미네 오리지널 국물떡볶이, 오리지널, 570g, 4봉",
+          "price": "9,900원",
+          "discount_rate": 57,
+          "priceAt": "09.28 07:21",
+          "image": "https://shopping.toss.im/live/temp/2025-06-16/175dd140-c026-4092-b0fe-83912e77fb2b.png",
+          "url": "https://toss.im/_m/HHO7iX4b",
+          "_ts": 1790547716.903929,
+          "_flash": true
+        },
         {
           "name": "맘스럽 아토워시 프렌치 라벤더 캡슐세제 파우치형, 8g, 200개입, 1개",
           "price": "5,740원",
@@ -1068,15 +1089,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YmY3MWEw/U1Q2elY3V1lTV1RpekxHV09XbTIyVUV5elMzVGtqM3hIcm1iVXFxd1JWOD0.png",
           "url": "https://toss.shopping/_m/JoavxVSt",
           "_ts": 1790409877.251712
-        },
-        {
-          "name": "던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
-          "price": "11,500원",
-          "discount_rate": 76,
-          "priceAt": "09.26 15:44",
-          "image": "https://shopping.toss.im/live/temp/2025-11-21/deb1ee4d-dfcb-45e0-9011-f298d60bf761.jpeg",
-          "url": "https://toss.im/_m/7OzaOje1",
-          "_ts": 1790405088.2427351
         },
         {
           "name": "욜로 두바이 쫀득 쿠키, 40g, 10개",
