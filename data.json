@@ -879,6 +879,36 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "나누담 물받이 밀폐용기, 3000ml, 2개",
+          "price": "5,950원",
+          "discount_rate": 55,
+          "priceAt": "09.28 07:22",
+          "image": "https://shopping.toss.im/live/taca/ai/YTg5NmYz/QVBzQ2xPazVxeHIranMrcU5lYm9qL2pTVkxXN05uUVQ2bG1JVC9kSGd5b0k.png",
+          "url": "https://toss.im/_m/H0AMZw0w",
+          "_ts": 1790547749.121263,
+          "_flash": true
+        },
+        {
+          "name": "이지앤프리 블랙 에디션 김치통, 블랙, 3.2L, 2통",
+          "price": "4,800원",
+          "discount_rate": 69,
+          "priceAt": "09.28 07:22",
+          "image": "https://shopping.toss.im/9a2/live/product/846585429/9a204993-3731-4186-8353-22d252d815af.jpg",
+          "url": "https://toss.im/_m/TfaHjEe6",
+          "_ts": 1790547749.121251,
+          "_flash": true
+        },
+        {
+          "name": "모노케어 3구개별 안전커버 멀티탭, 화이트, 1.5m, 1개",
+          "price": "5,530원",
+          "discount_rate": 72,
+          "priceAt": "09.28 07:22",
+          "image": "https://shopping.toss.im/live/temp/2026-09-22/a29f603c-119f-4792-aaf1-2c831bf7dec6.jpeg",
+          "url": "https://toss.im/_m/TbTKHdBj",
+          "_ts": 1790547749.121233,
+          "_flash": true
+        },
+        {
           "name": "종합전병, 720g, 1개",
           "price": "5,950원",
           "discount_rate": 80,
