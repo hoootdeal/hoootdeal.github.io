@@ -852,15 +852,6 @@
           "image": "https://image12.coupangcdn.com/image/retail/images/2449081076052563-ce8cce5e-dfa5-46f6-a22c-1148fcc97e59.jpg",
           "url": "https://link.coupang.com/a/hfj2nZeRdQ",
           "_ts": 1790054231.995553
-        },
-        {
-          "name": "하림 용가리 치킨 (냉동), 1kg, 2개",
-          "price": "16,750원",
-          "discount_rate": 31,
-          "priceAt": "09.22 13:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/82615689077121-a07649b2-43cb-46d6-8823-0ea9cd7a193c.jpg",
-          "url": "https://link.coupang.com/a/hfe3Eajdfg",
-          "_ts": 1790050051.067796
         }
       ]
     },
@@ -869,6 +860,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "오뚜기 오뚜기밥, 210g, 36개",
+          "price": "32,400원",
+          "discount_rate": 37,
+          "priceAt": "09.27 13:19",
+          "image": "https://shopping.toss.im/live/taca/ai/MDQ5Mzcy/QU0zbnRtUEpqbWtNTTh2TTR3OXRWYkY1UEJwR3BPenFSZy8wTkJ2eFVNMnQ.png",
+          "url": "https://toss.im/_m/Xv7l9pnw",
+          "_ts": 1790482752.903357
+        },
         {
           "name": "삼육김 쌈싸먹는김 들기름 곱창김, 11g, 20매, 20봉",
           "price": "13,500원",
