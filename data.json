@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "비비고 김치볶음, 80g, 10개",
+          "price": "11,350원",
+          "discount_rate": 33,
+          "priceAt": "09.27 15:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/221499256238330-333f5d88-8ae3-48f0-b9d1-ae0bf24ac777.jpg",
+          "url": "https://link.coupang.com/a/hnFCGurRq8",
+          "_ts": 1790488803.7419221
+        },
+        {
           "name": "신지모루 갤럭시 아이폰 맥세이프 M 에어클로 베이직 마그네틱 휴대폰 케이스, 아이폰 XS MAX",
           "price": "7,900원",
           "discount_rate": 34,
@@ -1419,15 +1428,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-02-23/f7ec2348-80ca-421b-b004-8d0cd8992bb3.jpeg",
           "url": "https://toss.im/_m/rCvx3naA",
           "_ts": 1790057793.03222
-        },
-        {
-          "name": "C2Y 퓨어 아쿠아 휩 클렌징 폼, 120ml, 4개",
-          "price": "9,800원",
-          "discount_rate": 62,
-          "priceAt": "09.22 14:54",
-          "image": "https://shopping.toss.im/live/taca/ai/NzZkMjRk/QU1NTE8zSEhEZXR4Und3eEhCanh6c01MMVl6UFQ5UTQvMi9VeHI1UDFPYzc.png",
-          "url": "https://toss.im/_m/zoPZWtfx",
-          "_ts": 1790056449.389499
         }
       ]
     },
