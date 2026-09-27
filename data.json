@@ -861,15 +861,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/40f6f4da-0b53-45cb-b4f2-85a16fa254a114940367354948124383.png",
           "url": "https://link.coupang.com/a/hfqc9pCAg0",
           "_ts": 1790059415.330513
-        },
-        {
-          "name": "더빅토리아 청귤 탄산음료, 500ml, 20개",
-          "price": "8,770원",
-          "discount_rate": 17,
-          "priceAt": "09.22 15:23",
-          "image": "https://image4.coupangcdn.com/image/retail/images/2025/12/05/12/0/0b82b4d2-c60c-4100-a471-94f79adcc79d.jpg",
-          "url": "https://link.coupang.com/a/hfoL4YEn7s",
-          "_ts": 1790058210.172374
         }
       ]
     },
@@ -878,6 +869,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "해표 순알콩 양조간장, 840ml, 4개",
+          "price": "7,300원",
+          "discount_rate": 78,
+          "priceAt": "09.27 15:29",
+          "image": "https://shopping.toss.im/live/temp/2026-08-20/27c6f152-f67a-484f-8dbd-b91a5b905a60.jpeg",
+          "url": "https://toss.im/_m/dATgeKwx",
+          "_ts": 1790490547.285534
+        },
         {
           "name": "지그비 빅헤드 초미세모 칫솔, 12개입, 1세트",
           "price": "9,800원",
@@ -1419,15 +1419,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/M2ZhOTEy/QU5qTnpPZEtXdGF6alNNSGEwTnB0a3VWeitYSlk1RWVrNW9VMCtIUThmZ2M.png",
           "url": "https://toss.im/_m/jOUS1sZ4",
           "_ts": 1790061677.0930429
-        },
-        {
-          "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
-          "price": "11,900원",
-          "discount_rate": 27,
-          "priceAt": "09.22 15:16",
-          "image": "https://shopping.toss.im/live/temp/2026-02-23/f7ec2348-80ca-421b-b004-8d0cd8992bb3.jpeg",
-          "url": "https://toss.im/_m/rCvx3naA",
-          "_ts": 1790057793.03222
         }
       ]
     },
