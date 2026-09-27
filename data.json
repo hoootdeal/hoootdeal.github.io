@@ -870,15 +870,6 @@
           "image": "https://img2c.coupangcdn.com/image/retail/images/1381848859681366-4b79b70f-6e8d-46dc-b884-3cf7d715024c.jpg",
           "url": "https://link.coupang.com/a/hfyJRrZ9e8",
           "_ts": 1790066575.025482
-        },
-        {
-          "name": "스폰텍스 TRIO COLORS 스크럽 스펀지 3종 세트, 1세트, 3개입",
-          "price": "5,500원",
-          "discount_rate": 29,
-          "priceAt": "09.22 16:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/07/22/15/9/0d8e29a5-a26e-498f-ad0f-25362a6bbe5c.png",
-          "url": "https://link.coupang.com/a/hftuEoU3yK",
-          "_ts": 1790062171.228215
         }
       ]
     },
@@ -887,6 +878,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "초록매실 스파클링 제로, 350ml, 20개",
+          "price": "10,400원",
+          "discount_rate": 47,
+          "priceAt": "09.27 17:36",
+          "image": "https://shopping.toss.im/live/taca/ai/OTg1MDQ2/QUpadXBhRjlLNHZaZmxSQ1k2bVRHMGxVN0tjbktaQ05pVkpycThOTm5CYWw.png",
+          "url": "https://toss.im/_m/xCHBD562",
+          "_ts": 1790498184.810511
+        },
         {
           "name": "산들내음 산림방사 유정란, 난각번호 1번, 60구, 1박스",
           "price": "22,900원",
@@ -1437,15 +1437,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-10/1ceb45c9-affc-4555-a369-0858a9067b6a.png",
           "url": "https://toss.im/_m/lroLKJe2",
           "_ts": 1790067484.2224362
-        },
-        {
-          "name": "웰쉐프 훈제 닭다리, 180g, 10개",
-          "price": "25,400원",
-          "discount_rate": 45,
-          "priceAt": "09.22 16:21",
-          "image": "https://shopping.toss.im/live/taca/ai/M2ZhOTEy/QU5qTnpPZEtXdGF6alNNSGEwTnB0a3VWeitYSlk1RWVrNW9VMCtIUThmZ2M.png",
-          "url": "https://toss.im/_m/jOUS1sZ4",
-          "_ts": 1790061677.0930429
         }
       ]
     },
