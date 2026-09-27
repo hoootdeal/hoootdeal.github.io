@@ -861,15 +861,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/136092959771820-e4ce8b43-be9f-4471-9497-76fd1acd581c.png",
           "url": "https://link.coupang.com/a/hfFQCQL2zI",
           "_ts": 1790072546.007363
-        },
-        {
-          "name": "샤크 에보파워 핸디 무선 청소기, 미드나잇블루, WV210KR",
-          "price": "93,320원",
-          "discount_rate": 16,
-          "priceAt": "09.22 18:51",
-          "image": "https://image5.coupangcdn.com/image/vendor_inventory/43b8/5eb64c7f961ed67c21c54cf27f18352521fa14a5b2daf080531372589473.jpg",
-          "url": "https://link.coupang.com/a/hfDEQAkZaK",
-          "_ts": 1790070704.95349
         }
       ]
     },
@@ -878,6 +869,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "쥬비스가 만든 카테킨 450mg, 60정, 3박스",
+          "price": "33,900원",
+          "discount_rate": 73,
+          "priceAt": "09.27 18:53",
+          "image": "https://shopping.toss.im/live/taca/ai/Yzg5M2I0/WjRlT09ibHkwMXZDKzVleFA0Tnc1ak5XR1l6US9PWnl4b1NibkxsV1plTT0.png",
+          "url": "https://toss.shopping/_m/rnAI7d8A",
+          "_ts": 1790502822.4035
+        },
         {
           "name": "베베앙 데일리 비데 물티슈 캡형, 60매, 10팩",
           "price": "6,860원",
