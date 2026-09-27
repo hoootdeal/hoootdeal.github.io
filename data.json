@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "조아캠프 마운트침낭 후드 + 수납가방 세트, 카키, 1개",
+          "price": "10,740원",
+          "discount_rate": 40,
+          "priceAt": "09.27 21:05",
+          "image": "https://static.coupangcdn.com/image/retail/images/454925784576747-32daaea3-8c33-4213-84d7-a1b1e2484dbb.jpg",
+          "url": "https://link.coupang.com/a/hn5JfUttKu",
+          "_ts": 1790510737.5050619
+        },
+        {
           "name": "미니오이, 10입(200 g), 1개, 10입(200 g) × 1개",
           "price": "4,290원",
           "discount_rate": 26,
@@ -843,15 +852,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1076790575012128-e5953f6b-4938-4372-a2f4-63519b59f461.jpg",
           "url": "https://link.coupang.com/a/hguCk55Zg4",
           "_ts": 1790115171.585419
-        },
-        {
-          "name": "전두유 더진한 국산콩 무가당 두유, 190ml, 64개",
-          "price": "24,400원",
-          "discount_rate": 15,
-          "priceAt": "09.22 20:57",
-          "image": "https://image11.coupangcdn.com/image/retail/images/158454736164523-82dcc8d7-5d38-4289-b032-4ba9dfbb6baf.png",
-          "url": "https://link.coupang.com/a/hfMDNyLRJI",
-          "_ts": 1790078248.7935739
         }
       ]
     },
