@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "미니오이, 10입(200 g), 1개, 10입(200 g) × 1개",
+          "price": "4,290원",
+          "discount_rate": 26,
+          "priceAt": "09.27 19:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/167339704167283-297cf71e-7393-4e1a-8f3c-63973be6cb37.jpg",
+          "url": "https://link.coupang.com/a/hnZ1CXCiRg",
+          "_ts": 1790505934.4157069
+        },
+        {
           "name": "액츠 퍼펙트 실내건조 일반용 프레시 플로럴향 액상세제 본품, 3.2L, 1개",
           "price": "7,950원",
           "discount_rate": 23,
@@ -852,15 +861,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/23/11/7/df4b3013-808e-44ca-b459-d0d5276a9dcd.jpg",
           "url": "https://link.coupang.com/a/hfHBGCf9jg",
           "_ts": 1790074020.657162
-        },
-        {
-          "name": "락피도 알티지 오메가3 츄어블 키즈, 90정, 2개",
-          "price": "22,820원",
-          "discount_rate": 39,
-          "priceAt": "09.22 19:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/136092959771820-e4ce8b43-be9f-4471-9497-76fd1acd581c.png",
-          "url": "https://link.coupang.com/a/hfFQCQL2zI",
-          "_ts": 1790072546.007363
         }
       ]
     },
@@ -1419,24 +1419,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-06/1fd5ba1a-5d86-4e27-8647-177dee5fb39b.jpeg",
           "url": "https://toss.im/_m/pwZnuzme",
           "_ts": 1790075943.655861
-        },
-        {
-          "name": "허만두 김치손만두, 1.4kg, 2개",
-          "price": "15,300원",
-          "discount_rate": 40,
-          "priceAt": "09.22 19:42",
-          "image": "https://shopping.toss.im/live/taca/ai/MDNhMzlk/QUxObDBpVmY2WkllcTJGTEhoNnhkMm0wa3l0NWxxVE5rc2FUVGFHZFVpemw.png",
-          "url": "https://toss.im/_m/XWYCDROt",
-          "_ts": 1790073768.144863
-        },
-        {
-          "name": "펩시콜라 제로슈거 라임향, 355ml, 48개",
-          "price": "29,900원",
-          "discount_rate": 39,
-          "priceAt": "09.22 18:59",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTQyMDEw/TlE5bWU5SnhtMHVOaHVXMGNVcythMDQwNDZQeHd3d2NMUXZ6WTlMMERKdz0.png",
-          "url": "https://toss.im/_m/FKobKvnj",
-          "_ts": 1790071161.848567
         }
       ]
     },
