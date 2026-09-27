@@ -870,6 +870,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "삼육김 쌈싸먹는김 들기름 곱창김, 11g, 20매, 20봉",
+          "price": "13,500원",
+          "discount_rate": 67,
+          "priceAt": "09.27 12:13",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/ZGZlNTMz/QUxCTFBSeE52TGJiaHVaSjVUbGJMVHpQcExiYkh0TkpKTEZMdHR0T3RFa2s.png",
+          "url": "https://toss.im/_m/Jwl8licb",
+          "_ts": 1790478836.6895192
+        },
+        {
           "name": "센토 프라임 고불소 구취케어 치약 아쿠아민트향, 120g, 4개",
           "price": "9,900원",
           "discount_rate": 53,
