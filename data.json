@@ -879,6 +879,36 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "종합전병, 720g, 1개",
+          "price": "5,950원",
+          "discount_rate": 80,
+          "priceAt": "09.28 07:22",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/ZTllZmFh/ZGVXcG4xRDRuY2FaQjh0V1RPb1hraDZPYmVMeG92WWJ6RTU1SmFLcnhGbz0.png",
+          "url": "https://toss.im/_m/jHtJk31B",
+          "_ts": 1790547734.721022,
+          "_flash": true
+        },
+        {
+          "name": "푸드어홀릭 네이처 스킨 마스크팩, 보습세트, 60매",
+          "price": "6,300원",
+          "discount_rate": 90,
+          "priceAt": "09.28 07:22",
+          "image": "https://shopping.toss.im/live/temp/2026-09-17/d8062acd-1aeb-4d9c-b966-7a738e67b13a.jpeg",
+          "url": "https://toss.im/_m/5PsiFRPf",
+          "_ts": 1790547734.721011,
+          "_flash": true
+        },
+        {
+          "name": "쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
+          "price": "8,330원",
+          "discount_rate": 73,
+          "priceAt": "09.28 07:22",
+          "image": "https://shopping.toss.im/live/temp/2026-09-17/6deb9970-83e5-434a-9b16-25d50b39cf7a.jpeg",
+          "url": "https://toss.im/_m/J4O3sb5v",
+          "_ts": 1790547734.7209961,
+          "_flash": true
+        },
+        {
           "name": "호정가 우리쌀약과, 1kg, 1세트",
           "price": "4,990원",
           "discount_rate": 68,
