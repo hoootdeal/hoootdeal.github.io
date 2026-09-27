@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "샤오커오라 비타팝스캔디 12가지맛 믹스, 500g, 1개, 500g × 1개",
+          "price": "9,000원",
+          "discount_rate": 37,
+          "priceAt": "09.27 10:23",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d151/887e02ea8c6a8ea09bbba1940f417ef4c91336630e225b3ce7589f47795b.png",
+          "url": "https://link.coupang.com/a/hnlRCXbqea",
+          "_ts": 1790472216.092149
+        },
+        {
           "name": "한채원 밥대신 43 칼로리 현미 곤약 즉석밥, 110g, 10개",
           "price": "12,600원",
           "discount_rate": 23,
@@ -1383,15 +1392,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-03-10/ea282bd6-b38e-44fe-9916-b3f864460b0b.jpeg",
           "url": "https://toss.im/_m/JxTO3G1g",
           "_ts": 1790047018.4668841
-        },
-        {
-          "name": "이불 옷 정리 압축파우치, MEGA, 2개입, 1세트",
-          "price": "15,900원",
-          "discount_rate": 36,
-          "priceAt": "09.22 10:03",
-          "image": "https://shopping.toss.im/live/temp/2025-12-15/cc2d8525-4d20-4db7-b3c5-9315d1f15aaf.jpeg",
-          "url": "https://toss.im/_m/DtNK8jj8",
-          "_ts": 1790039008.031616
         }
       ]
     },
