@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "까페리얼 아메리카노 블랙 무라벨, 20개, 350ml",
+          "price": "13,930원",
+          "discount_rate": 30,
+          "priceAt": "09.27 09:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/154912394493690-c67aabc5-d3c2-4ee2-951e-3563a9a444a3.jpg",
+          "url": "https://link.coupang.com/a/hnfUmjwHaC",
+          "_ts": 1790467214.749624
+        },
+        {
           "name": "농심 신라면 10개 120g + 짜파게티 10개 140g 세트, 1세트",
           "price": "13,140원",
           "discount_rate": 22,
@@ -834,15 +843,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/13b8/38a962785e43f419d8b03917c9b7c95121124d54850388ef1f6fcdbe91e4.JPG",
           "url": "https://link.coupang.com/a/heZQ9rrxF6",
           "_ts": 1790037287.9955342
-        },
-        {
-          "name": "하늘청 식혜 오리지날, 1.8L, 2개",
-          "price": "9,780원",
-          "discount_rate": 30,
-          "priceAt": "09.22 08:56",
-          "image": "https://img1a.coupangcdn.com/image/vendor_inventory/58c6/8b0e982ed31324512c30f77681ea1e6973cc9d0625eda7fb4fc200ee6e52.jpg",
-          "url": "https://link.coupang.com/a/heW7EiyToO",
-          "_ts": 1790034992.544333
         }
       ]
     },
