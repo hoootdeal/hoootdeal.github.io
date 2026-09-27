@@ -843,15 +843,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2023/12/28/18/5/8d0f1683-cad9-450b-8b25-231dd96fa246.jpg",
           "url": "https://link.coupang.com/a/he7itnzKYS",
           "_ts": 1790043534.576268
-        },
-        {
-          "name": "YEAAYE 사이드 테이블 멀티 레이어 이동식 트롤리 3단, 화이트",
-          "price": "8,900원",
-          "discount_rate": 30,
-          "priceAt": "09.22 10:48",
-          "image": "https://image15.coupangcdn.com/image/vendor_inventory/6063/c44326fb739be29ccbb6aee8a7acf3f323b1e52672250ead07d1fe6cb728.jpeg",
-          "url": "https://link.coupang.com/a/he483ImMgu",
-          "_ts": 1790041726.92864
         }
       ]
     },
@@ -860,6 +851,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "전라도 전통 여린 열무김치, 3kg, 1박스",
+          "price": "13,900원",
+          "discount_rate": 61,
+          "priceAt": "09.27 11:00",
+          "image": "https://shopping.toss.im/live/taca/ai/NjE4MjY1/YlVzWnpFdXNrbm1uTlV4bkQ1SlNscVBVQjVVY2YxMzVjK0cxRDhrODNwST0.png",
+          "url": "https://toss.im/_m/pKAO8Cir",
+          "_ts": 1790474411.764425
+        },
         {
           "name": "일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
           "price": "4,990원",
