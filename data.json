@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "한채원 밥대신 43 칼로리 현미 곤약 즉석밥, 110g, 10개",
+          "price": "12,600원",
+          "discount_rate": 23,
+          "priceAt": "09.27 10:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/63332164764693-2a9a1f7b-9633-4107-9228-ad8afd87e3b1.jpg",
+          "url": "https://link.coupang.com/a/hnkmZyojUi",
+          "_ts": 1790470960.810045
+        },
+        {
           "name": "까페리얼 아메리카노 블랙 무라벨, 20개, 350ml",
           "price": "13,930원",
           "discount_rate": 30,
@@ -834,15 +843,6 @@
           "image": "https://image15.coupangcdn.com/image/vendor_inventory/6063/c44326fb739be29ccbb6aee8a7acf3f323b1e52672250ead07d1fe6cb728.jpeg",
           "url": "https://link.coupang.com/a/he483ImMgu",
           "_ts": 1790041726.92864
-        },
-        {
-          "name": "통잉 여성 산리오 시리즈 기모 털실내화 ST47845, 화이트, 230mm",
-          "price": "3,710원",
-          "discount_rate": 91,
-          "priceAt": "09.22 09:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/13b8/38a962785e43f419d8b03917c9b7c95121124d54850388ef1f6fcdbe91e4.JPG",
-          "url": "https://link.coupang.com/a/heZQ9rrxF6",
-          "_ts": 1790037287.9955342
         }
       ]
     },
@@ -1392,15 +1392,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-12-15/cc2d8525-4d20-4db7-b3c5-9315d1f15aaf.jpeg",
           "url": "https://toss.im/_m/DtNK8jj8",
           "_ts": 1790039008.031616
-        },
-        {
-          "name": "산지로드 숯불 매콤오돌뼈, 300g, 4팩",
-          "price": "13,900원",
-          "discount_rate": 39,
-          "priceAt": "09.22 09:34",
-          "image": "https://shopping.toss.im/live/temp/2025-12-29/b1e2036f-3dc0-4c8c-9f35-abd07ed2e5e4.jpeg",
-          "url": "https://toss.im/_m/fHMWvDps",
-          "_ts": 1790037298.8841112
         }
       ]
     },
