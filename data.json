@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "신지모루 갤럭시 아이폰 맥세이프 M 에어클로 베이직 마그네틱 휴대폰 케이스, 아이폰 XS MAX",
+          "price": "7,900원",
+          "discount_rate": 34,
+          "priceAt": "09.27 14:21",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1922718647166549-41d6090e-7f5f-458e-b8b6-7b944c817cc2.jpg",
+          "url": "https://link.coupang.com/a/hnCRUGVR9g",
+          "_ts": 1790486491.037705
+        },
+        {
           "name": "닥터유 단백질칩 버터구이오징어맛, 60g, 24개, 60g × 24개",
           "price": "20,990원",
           "discount_rate": 21,
@@ -852,15 +861,6 @@
           "image": "https://image4.coupangcdn.com/image/retail/images/2025/12/05/12/0/0b82b4d2-c60c-4100-a471-94f79adcc79d.jpg",
           "url": "https://link.coupang.com/a/hfoL4YEn7s",
           "_ts": 1790058210.172374
-        },
-        {
-          "name": "깨끗한나라 톡톡 뽑아쓰는 무표백 천연펄프 키친타올, 100매, 6개",
-          "price": "6,720원",
-          "discount_rate": 19,
-          "priceAt": "09.22 14:17",
-          "image": "https://image12.coupangcdn.com/image/retail/images/2449081076052563-ce8cce5e-dfa5-46f6-a22c-1148fcc97e59.jpg",
-          "url": "https://link.coupang.com/a/hfj2nZeRdQ",
-          "_ts": 1790054231.995553
         }
       ]
     },
@@ -1419,15 +1419,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NzZkMjRk/QU1NTE8zSEhEZXR4Und3eEhCanh6c01MMVl6UFQ5UTQvMi9VeHI1UDFPYzc.png",
           "url": "https://toss.im/_m/zoPZWtfx",
           "_ts": 1790056449.389499
-        },
-        {
-          "name": "외갓집 진심 부대찌개, 700g, 2팩",
-          "price": "9,490원",
-          "discount_rate": 52,
-          "priceAt": "09.22 13:29",
-          "image": "https://shopping.toss.im/live/taca/ai/ZmQzMDRl/U3p1UU5xeWIvV2YzTTBqUmt1VHV5VEJtSmUxSDZYeVZtaWNZOWpKR1lRYz0.png",
-          "url": "https://toss.im/_m/nbBv3xRo",
-          "_ts": 1790051349.652237
         }
       ]
     },
