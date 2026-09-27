@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "액츠 퍼펙트 실내건조 일반용 프레시 플로럴향 액상세제 본품, 3.2L, 1개",
+          "price": "7,950원",
+          "discount_rate": 23,
+          "priceAt": "09.27 17:45",
+          "image": "https://image2.coupangcdn.com/image/retail/images/57158726844058-5f532d39-0cbe-4379-ac54-9f6c2593b978.jpg",
+          "url": "https://link.coupang.com/a/hnRsN63uFM",
+          "_ts": 1790498748.251572
+        },
+        {
           "name": "크리넥스 코튼처럼 부드러운 프리미엄 미니티슈 카카오프렌즈, 230매입, 6개",
           "price": "5,820원",
           "discount_rate": 28,
@@ -861,15 +870,6 @@
           "image": "https://image5.coupangcdn.com/image/vendor_inventory/43b8/5eb64c7f961ed67c21c54cf27f18352521fa14a5b2daf080531372589473.jpg",
           "url": "https://link.coupang.com/a/hfDEQAkZaK",
           "_ts": 1790070704.95349
-        },
-        {
-          "name": "테팔 인덕션 티타늄 1X 원픽 냄비팬 꿀고구마 옐로, 22cm, 1개",
-          "price": "27,900원",
-          "discount_rate": 21,
-          "priceAt": "09.22 17:42",
-          "image": "https://img2c.coupangcdn.com/image/retail/images/1381848859681366-4b79b70f-6e8d-46dc-b884-3cf7d715024c.jpg",
-          "url": "https://link.coupang.com/a/hfyJRrZ9e8",
-          "_ts": 1790066575.025482
         }
       ]
     },
