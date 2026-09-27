@@ -870,6 +870,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "산들내음 산림방사 유정란, 난각번호 1번, 60구, 1박스",
+          "price": "22,900원",
+          "discount_rate": 59,
+          "priceAt": "09.27 16:18",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MDc5ODhh/QVBBY01NMEE0YksydGdiYnB4TjlZSmJNWTRkTkU0S2VjSkJQV0dkQkxOZmw.png",
+          "url": "https://toss.shopping/_m/F5Mxnua3",
+          "_ts": 1790493528.366691
+        },
+        {
           "name": "해표 순알콩 양조간장, 840ml, 4개",
           "price": "7,300원",
           "discount_rate": 78,
