@@ -987,6 +987,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "수뜰리에 섬유유연제 소프트 비누향, 2.5L, 4개",
+          "price": "8,900원",
+          "discount_rate": 77,
+          "priceAt": "09.28 19:26",
+          "image": "https://shopping.toss.im/live/temp/2026-08-10/1e4fe51d-5eff-40b9-82e5-057e3a8529d9.png",
+          "url": "https://toss.im/_m/RrVPGMGo",
+          "_ts": 1790591197.23775
+        },
+        {
           "name": "일양약품 눈건강 루테인 골드, 30캡슐, 6개",
           "price": "17,800원",
           "discount_rate": 94,
@@ -1641,15 +1650,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-04-07/9c81eb45-6040-431f-b33c-02f399d09cdc.jpeg",
           "url": "https://toss.shopping/_m/DDn7xhWj",
           "_ts": 1790165525.498724
-        },
-        {
-          "name": "사조참치, 마일드참치, 85g, 8개",
-          "price": "12,900원",
-          "discount_rate": 33,
-          "priceAt": "09.23 19:15",
-          "image": "https://shopping.toss.im/live/temp/2025-05-27/dd9db3d5-1536-454f-8a47-6bfbc886445f.jpeg",
-          "url": "https://toss.shopping/_m/r0YdEqXk",
-          "_ts": 1790158542.734001
         }
       ]
     },
