@@ -951,15 +951,6 @@
           "image": "https://image2.coupangcdn.com/image/retail/images/2025/12/02/18/0/6af2ac73-a9a5-4d61-8fa9-b2de89d256d0.png",
           "url": "https://link.coupang.com/a/hhfe4Uvcbc",
           "_ts": 1790154319.469584
-        },
-        {
-          "name": "씨그램 레몬 무라벨, 350ml, 24개",
-          "price": "9,680원",
-          "discount_rate": 25,
-          "priceAt": "09.23 16:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4b4b/f778aed46c3b77d9d1a8393227a39479289394c36277675afa9577cea01b.jpg",
-          "url": "https://link.coupang.com/a/hhakvP40wS",
-          "_ts": 1790150194.2286348
         }
       ]
     },
@@ -968,6 +959,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "가성비가브랜드다 이염방지 세탁시트, 200매, 1개",
+          "price": "6,800원",
+          "discount_rate": 65,
+          "priceAt": "09.28 17:23",
+          "image": "https://shopping.toss.im/live/taca/ai/YzE0MjUz/Smt6SnRteVpNMnphVGR1YkxXeHRKR1pza3lSdGpMYkdtU1poTnJKWnlOaz0.png",
+          "url": "https://toss.im/_m/9PquE6f2",
+          "_ts": 1790583793.280759
+        },
         {
           "name": "떴닭 에어프라이어 치킨 자이언트 통다리, 1.3kg, 1개",
           "price": "8,422원",
