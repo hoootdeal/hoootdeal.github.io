@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "마이노멀 밀가루 ZERO 두부면, 180g, 5개, 180g × 5개",
+          "price": "8,790원",
+          "discount_rate": 37,
+          "priceAt": "09.28 10:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/26/18/1/09d978a7-fb0c-41fa-a3b5-838682795525.jpg",
+          "url": "https://link.coupang.com/a/hoZNT7cF64",
+          "_ts": 1790557806.363976
+        },
+        {
           "name": "크라운 빅파이 딸기, 324g, 1개",
           "price": "2,500원",
           "discount_rate": 83,
@@ -1518,15 +1527,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-14/26d21fa5-b884-434a-9fe8-f571cd72703e.jpeg",
           "url": "https://toss.im/_m/NR8WRrkx",
           "_ts": 1790130895.621432
-        },
-        {
-          "name": "오프라이스 한촌 사골 양지고기 설렁탕, 500g, 5개",
-          "price": "14,900원",
-          "discount_rate": 40,
-          "priceAt": "09.23 09:57",
-          "image": "https://shopping.toss.im/live/taca/ai/NGViMTI2/QUw4aitEdjJwR2RzRG5ITWh0YmtpTmVvMVl2R01VRXhHNWZKeERORE43L0o.png",
-          "url": "https://toss.im/_m/ji3gbRuj",
-          "_ts": 1790125034.361464
         }
       ]
     },
