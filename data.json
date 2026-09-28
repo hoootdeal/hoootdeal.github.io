@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "종근당 황제 침향단 + 쇼핑백, 112.5g, 1개, 112.5g × 1개",
+          "price": "19,860원",
+          "discount_rate": 37,
+          "priceAt": "09.28 12:51",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/18133640888615-1921bf47-5259-4d13-bf22-4f7bbfb8b0c5.jpg",
+          "url": "https://link.coupang.com/a/hpbmXU0n6G",
+          "_ts": 1790567518.094393
+        },
+        {
           "name": "풀무원 가락 유부우동 2인분, 425.2g, 2개",
           "price": "9,340원",
           "discount_rate": 38,
@@ -906,24 +915,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/abcf4484-56ab-46df-9f7f-1b880a182c2411906668487223699428.png",
           "url": "https://link.coupang.com/a/hgWODbiBbM",
           "_ts": 1790138847.617611
-        },
-        {
-          "name": "무식이네 스윗클린 물빠짐 거꾸로 양치컵, 오트밀, 3개",
-          "price": "3,390원",
-          "discount_rate": 52,
-          "priceAt": "09.23 12:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/94614416980062-bca11065-f973-443e-99ae-a5b0accd446f.jpg",
-          "url": "https://link.coupang.com/a/hgQE6Jtrl6",
-          "_ts": 1790133682.368198
-        },
-        {
-          "name": "듀라셀 알카라인 AA 건전지, 20개입, 1개",
-          "price": "9,730원",
-          "discount_rate": 27,
-          "priceAt": "09.23 12:04",
-          "image": "https://image8.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
-          "url": "https://link.coupang.com/a/hgPtKaF6MC",
-          "_ts": 1790132686.913503
         }
       ]
     },
