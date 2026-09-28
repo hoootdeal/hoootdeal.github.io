@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 가락 유부우동 2인분, 425.2g, 2개",
+          "price": "9,340원",
+          "discount_rate": 38,
+          "priceAt": "09.28 11:59",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4c2205ae-ad25-4e53-b514-67d9de0081c48986628280729660057.png",
+          "url": "https://link.coupang.com/a/ho7DzBg016",
+          "_ts": 1790564384.0901499
+        },
+        {
           "name": "한촌 설렁탕집 설렁탕, 500g, 4개, 500g × 4개",
           "price": "13,320원",
           "discount_rate": 47,
@@ -1596,15 +1605,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-27/6fb1bb32-205c-4951-a2d8-18f8c132d76f.jpeg",
           "url": "https://toss.im/_m/zaKyWLHn",
           "_ts": 1790137393.8618088
-        },
-        {
-          "name": "베라 무해력 4ZERO 클래식, 3겹, 30롤, 25m, 2팩",
-          "price": "18,590원",
-          "discount_rate": 53,
-          "priceAt": "09.23 11:34",
-          "image": "https://shopping.toss.im/live/temp/2026-07-14/26d21fa5-b884-434a-9fe8-f571cd72703e.jpeg",
-          "url": "https://toss.im/_m/NR8WRrkx",
-          "_ts": 1790130895.621432
         }
       ]
     },
