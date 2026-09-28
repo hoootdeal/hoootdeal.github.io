@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "서울우유 동물성 생크림 500g, 500ml, 1개",
+          "price": "8,470원",
+          "discount_rate": 41,
+          "priceAt": "09.28 15:03",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5c48/04073e998126752c4c9d95a9a187f5ff4f30f89120ff8e08f07d86d2d439.jpg",
+          "url": "https://link.coupang.com/a/hpkNrawsKr",
+          "_ts": 1790575432.869432
+        },
+        {
           "name": "Qicco 침대 매트리스 무음 포켓스프링 바닥 매트리스, 슈퍼싱글, 20cm, 중간",
           "price": "24,800원",
           "discount_rate": 62,
@@ -951,15 +960,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2740021607357893-4b77647a-519d-475a-ad45-77b3e8195f2f.JPG",
           "url": "https://link.coupang.com/a/hg3Q6lAYo0",
           "_ts": 1790144757.9869819
-        },
-        {
-          "name": "나우푸드 비오틴 5000mcg 베지 캡슐, 120정, 3개",
-          "price": "25,290원",
-          "discount_rate": 24,
-          "priceAt": "09.23 14:55",
-          "image": "https://img5c.coupangcdn.com/image/vendor_inventory/143d/0e428910c3962bf5f244bdda3822b33940f09cd91a149a9807dd8eb0730c.jpg",
-          "url": "https://link.coupang.com/a/hg1FxYuZwa",
-          "_ts": 1790142923.6152298
         }
       ]
     },
@@ -1632,15 +1632,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/Y2IwNTUz/ZGVSam13SUwvWFQ4OEh1UEFZL1BPcTQ3T09WUjFNYzdyaXU0NU5IVS83cz0.png",
           "url": "https://toss.shopping/_m/poZNhM0h",
           "_ts": 1790147074.20088
-        },
-        {
-          "name": "AHC 프리미어 앰플 인 아이크림 코어 리프팅, 12ml, 10개",
-          "price": "19,900원",
-          "discount_rate": 81,
-          "priceAt": "09.23 14:50",
-          "image": "https://shopping.toss.im/live/taca/ai/ODhlMjJh/QUkzWTYrUGFyejM0RnJZNWVBNWp6QWJUZU9JUGVIbk1qL0FCWjNpd0VUL3c.png",
-          "url": "https://toss.im/_m/bgtM6MT5",
-          "_ts": 1790142648.9757068
         }
       ]
     },
