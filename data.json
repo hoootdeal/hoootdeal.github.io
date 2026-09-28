@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "락피도 철분 액상 30포, 240ml, 1개, 240ml × 1개",
+          "price": "11,880원",
+          "discount_rate": 24,
+          "priceAt": "09.29 08:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/180584121265773-41f68a42-ccc2-4c9b-a9a7-09dba0ac2505.jpg",
+          "url": "https://link.coupang.com/a/hqvq2M0gZo",
+          "_ts": 1790636420.585931
+        },
+        {
           "name": "오리온 태양의 맛 썬, 30g, 15개, 30g × 15개",
           "price": "7,800원",
           "discount_rate": 25,
@@ -942,15 +951,6 @@
           "image": "https://image7.coupangcdn.com/image/vendor_inventory/e559/d92ea1e919e84615121cbd236dddc8ac6678853c1369ac58b8a35d8bb318.jpg",
           "url": "https://link.coupang.com/a/hiine1ogIm",
           "_ts": 1790209004.242153
-        },
-        {
-          "name": "[1+1 교차가능] 헬로키티 소프 샌들, 01_헬로키티소프샌들, 핑크190+핑크190, 190",
-          "price": "4,480원",
-          "discount_rate": 24,
-          "priceAt": "09.24 07:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e158/c947bf2fe080d50d4e3f48d39cbd95c767741d0b3f872a3156a3cc885618.jpg",
-          "url": "https://link.coupang.com/a/hicPukLQPY",
-          "_ts": 1790204349.359203
         }
       ]
     },
