@@ -951,15 +951,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e158/c947bf2fe080d50d4e3f48d39cbd95c767741d0b3f872a3156a3cc885618.jpg",
           "url": "https://link.coupang.com/a/hicPukLQPY",
           "_ts": 1790204349.359203
-        },
-        {
-          "name": "샤워메이트 뉴 산양유 비누 버베나, 90g, 12개입",
-          "price": "6,860원",
-          "discount_rate": 30,
-          "priceAt": "09.24 07:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/5f91/2bb4e999c612d780f5864cd9ef9a1e2ce0761ffa4ae2407dec90664b8947.jpg",
-          "url": "https://link.coupang.com/a/hh9edQO7NI",
-          "_ts": 1790201324.889463
         }
       ]
     },
@@ -968,6 +959,36 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "호정가 군고구마도나스, 960g, 16개입, 1개",
+          "price": "4,990원",
+          "discount_rate": 68,
+          "priceAt": "09.29 07:21",
+          "image": "https://shopping.toss.im/live/taca/ai/YjM2ZTU2/QUpvMFpwV3BiR3RzdGNwdWZGV0lyV0ZGdkpyVnpMVGExalpoVFVxYmxWVmE.png",
+          "url": "https://toss.shopping/_m/TZ8eJCGi",
+          "_ts": 1790634093.531476,
+          "_flash": true
+        },
+        {
+          "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+          "price": "4,990원",
+          "discount_rate": 66,
+          "priceAt": "09.29 07:21",
+          "image": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
+          "url": "https://toss.shopping/_m/dXoRinis",
+          "_ts": 1790634093.5314481,
+          "_flash": true
+        },
+        {
+          "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
+          "price": "10,990원",
+          "discount_rate": 76,
+          "priceAt": "09.29 07:21",
+          "image": "https://shopping.toss.im/live/temp/2026-09-08/131ff3ca-add9-4eb4-887d-a5bfc5f03ac0.jpeg",
+          "url": "https://toss.shopping/_m/PjzyV7zd",
+          "_ts": 1790634093.5314019,
+          "_flash": true
+        },
         {
           "name": "땡큐파머스 구운란, 대란, 30구, 1개",
           "price": "11,400원",
