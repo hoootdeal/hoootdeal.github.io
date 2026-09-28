@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "나인웨어 올디너리 테이블 시리즈 브런치 세트 4p, 빈티지그레이, 트레이 + 스프컵 + 소스볼 + 사각접시, 1세트",
+          "price": "6,990원",
+          "discount_rate": 45,
+          "priceAt": "09.28 10:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/475848723612882-4b585306-f166-429e-b5df-c4b7ded4108d.jpg",
+          "url": "https://link.coupang.com/a/hoZZQiKW5s",
+          "_ts": 1790557968.707703
+        },
+        {
           "name": "마이노멀 밀가루 ZERO 두부면, 180g, 5개, 180g × 5개",
           "price": "8,790원",
           "discount_rate": 37,
@@ -888,15 +897,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5393230486688-34423626-75ea-47f7-b83c-bd0f3ca24d99.jpg",
           "url": "https://link.coupang.com/a/hgHxLr1WYC",
           "_ts": 1790126024.307508
-        },
-        {
-          "name": "전두유 국산 검은콩 무가당 두유, 190ml, 64개",
-          "price": "22,860원",
-          "discount_rate": 31,
-          "priceAt": "09.23 10:12",
-          "image": "https://img5c.coupangcdn.com/image/retail/images/61314843361357-ccc8c73a-01a8-4048-86ad-b16610345ee5.png",
-          "url": "https://link.coupang.com/a/hgHp1bPSdU",
-          "_ts": 1790125920.1205041
         }
       ]
     },
