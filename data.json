@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "데니그리스 유기농 사과 식초, 1L, 1개, 1L × 1개",
+          "price": "7,840원",
+          "discount_rate": 26,
+          "priceAt": "09.28 16:39",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/45561989066597-47a4d20d-4337-4e2d-a3cb-e6dcd1e12206.jpg",
+          "url": "https://link.coupang.com/a/hprB2Ahv40",
+          "_ts": 1790581156.31888
+        },
+        {
           "name": "서울우유 동물성 생크림 500g, 500ml, 1개",
           "price": "8,470원",
           "discount_rate": 41,
@@ -951,15 +960,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4b4b/f778aed46c3b77d9d1a8393227a39479289394c36277675afa9577cea01b.jpg",
           "url": "https://link.coupang.com/a/hhakvP40wS",
           "_ts": 1790150194.2286348
-        },
-        {
-          "name": "아토팜 MLE 페이스 유아로션, 80ml, 1개",
-          "price": "7,970원",
-          "discount_rate": 54,
-          "priceAt": "09.23 15:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2740021607357893-4b77647a-519d-475a-ad45-77b3e8195f2f.JPG",
-          "url": "https://link.coupang.com/a/hg3Q6lAYo0",
-          "_ts": 1790144757.9869819
         }
       ]
     },
@@ -1632,15 +1632,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NWJkNDJi/Y3p2SG5IR3Z0TndCNFV0cXpPYjJOMjlNdk9HenROTXQySlFQK0t3Uk1KYz0.png",
           "url": "https://toss.shopping/_m/NQTO7kWv",
           "_ts": 1790152343.742815
-        },
-        {
-          "name": "롯데칠성음료 펩시 제로슈거 라임, 업소용, 1.25L, 12개",
-          "price": "15,890원",
-          "discount_rate": 20,
-          "priceAt": "09.23 16:04",
-          "image": "https://shopping.toss.im/live/taca/ai/Y2IwNTUz/ZGVSam13SUwvWFQ4OEh1UEFZL1BPcTQ3T09WUjFNYzdyaXU0NU5IVS83cz0.png",
-          "url": "https://toss.shopping/_m/poZNhM0h",
-          "_ts": 1790147074.20088
         }
       ]
     },
