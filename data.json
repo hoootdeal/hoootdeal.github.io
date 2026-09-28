@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "맥스봉 오리지널 15p, 525g, 1개, 525g × 1개",
+          "price": "5,480원",
+          "discount_rate": 23,
+          "priceAt": "09.28 20:04",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/542113900919745-281b02af-5d43-477f-9c1a-43e023b14876.jpg",
+          "url": "https://link.coupang.com/a/hpGja9mCKO",
+          "_ts": 1790593498.969418
+        },
+        {
           "name": "하이뮨 프로틴 밸런스 드링크믹스 RTD, 190ml, 24개, 190ml × 24개",
           "price": "19,990원",
           "discount_rate": 20,
@@ -969,15 +978,6 @@
           "image": "https://img3c.coupangcdn.com/image/retail/images/679853967015513-452dcf75-38f5-4485-865b-f658447bcb86.jpg",
           "url": "https://link.coupang.com/a/hhq2aVMBbw",
           "_ts": 1790164224.6669812
-        },
-        {
-          "name": "오리온 태양의 맛 썬, 30g, 15개",
-          "price": "7,800원",
-          "discount_rate": 25,
-          "priceAt": "09.23 19:40",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ec71/714aa78c194c545af192c71c81b7a780701d9cb084a05aa15c14dd848bbb.jpg",
-          "url": "https://link.coupang.com/a/hhl1GSyYRo",
-          "_ts": 1790160014.2448268
         }
       ]
     },
