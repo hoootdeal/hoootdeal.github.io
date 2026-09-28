@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "클룹 애사비소다 매실 제로 탄산음료, 250ml, 24개, 250ml × 24개",
+          "price": "10,460원",
+          "discount_rate": 30,
+          "priceAt": "09.28 17:43",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/36360500172219-66329efe-c719-4dda-b9b6-5da347828743.jpg",
+          "url": "https://link.coupang.com/a/hpwbgTzVWC",
+          "_ts": 1790584990.9044359
+        },
+        {
           "name": "아임비타 멀티비타민 아르기닌샷 14회분, 434g, 2개, 434g × 2개",
           "price": "25,550원",
           "discount_rate": 27,
@@ -1632,15 +1641,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MjJhNmY0/QUpsanJKbTFZMjM3dm9kMmxFSDRtMk9TbkdscmRwUkphMzRVYkp4L0hiYVU.png",
           "url": "https://toss.im/_m/9YsxSnDp",
           "_ts": 1790154684.314542
-        },
-        {
-          "name": "HBAF 시즈닝 아몬드, 허니버터 120g 1개 + 와사비 120g 1개 + 군옥수수 120g 1개 + 마늘빵 120g 1개 + 카라멜 120g 1개, 1세트",
-          "price": "13,900원",
-          "discount_rate": 48,
-          "priceAt": "09.23 17:32",
-          "image": "https://shopping.toss.im/live/taca/ai/NWJkNDJi/Y3p2SG5IR3Z0TndCNFV0cXpPYjJOMjlNdk9HenROTXQySlFQK0t3Uk1KYz0.png",
-          "url": "https://toss.shopping/_m/NQTO7kWv",
-          "_ts": 1790152343.742815
         }
       ]
     },
