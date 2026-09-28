@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "해태제과 오예스 미니 크림소다맛, 192g, 2개",
+          "price": "3,750원",
+          "discount_rate": 25,
+          "priceAt": "09.28 17:49",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7aa898fa-0716-4d9c-87ad-1837d98e0f447982471331101464409.png",
+          "url": "https://link.coupang.com/a/hpwEmyCLpQ",
+          "_ts": 1790585385.850629
+        },
+        {
           "name": "클룹 애사비소다 매실 제로 탄산음료, 250ml, 24개, 250ml × 24개",
           "price": "10,460원",
           "discount_rate": 30,
