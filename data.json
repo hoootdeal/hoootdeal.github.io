@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크라운 빅파이 딸기, 324g, 1개",
+          "price": "2,500원",
+          "discount_rate": 83,
+          "priceAt": "09.28 09:49",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/a256/2fdb38263e8c852eab0ae15b5855d7a19f249c6fb7433e2dea71a2ca57bc.jpg",
+          "url": "https://link.coupang.com/a/hoYlI5dVYW",
+          "_ts": 1790556586.386252
+        },
+        {
           "name": "코카콜라 오리지널, 350ml, 24개",
           "price": "18,100원",
           "discount_rate": 20,
