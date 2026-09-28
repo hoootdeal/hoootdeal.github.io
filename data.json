@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오리온 태양의 맛 썬, 30g, 15개, 30g × 15개",
+          "price": "7,800원",
+          "discount_rate": 25,
+          "priceAt": "09.28 21:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/ec71/714aa78c194c545af192c71c81b7a780701d9cb084a05aa15c14dd848bbb.jpg",
+          "url": "https://link.coupang.com/a/hpKnNDR3nM",
+          "_ts": 1790596915.7428422
+        },
+        {
           "name": "맥스봉 오리지널 15p, 525g, 1개, 525g × 1개",
           "price": "5,480원",
           "discount_rate": 23,
@@ -969,15 +978,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/04/05/15/5/85054911-40de-4c03-867f-deb517014394.jpg",
           "url": "https://link.coupang.com/a/hhsCu6fcTA",
           "_ts": 1790165552.8747451
-        },
-        {
-          "name": "스프라이트 제로 사이다, 350ml, 24개",
-          "price": "12,840원",
-          "discount_rate": 16,
-          "priceAt": "09.23 20:50",
-          "image": "https://img3c.coupangcdn.com/image/retail/images/679853967015513-452dcf75-38f5-4485-865b-f658447bcb86.jpg",
-          "url": "https://link.coupang.com/a/hhq2aVMBbw",
-          "_ts": 1790164224.6669812
         }
       ]
     },
