@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "배홍동 막국수 114g, 12개",
+          "price": "7,170원",
+          "discount_rate": 25,
+          "priceAt": "09.28 13:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/603635707696969-e3ae84a1-3930-41a5-becf-a4a9a0c7b5a0.jpg",
+          "url": "https://link.coupang.com/a/hpcsdEytNc",
+          "_ts": 1790568428.1355038
+        },
+        {
           "name": "밸러니티 대마종자유 1000 32.1g, 30정, 1개",
           "price": "2,420원",
           "discount_rate": 68,
