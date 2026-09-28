@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "펩시 제로슈거 라임향, 250ml, 30개",
+          "price": "13,600원",
+          "discount_rate": 20,
+          "priceAt": "09.28 13:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/11/28/11/6/512f0540-062b-464f-98bb-f0327ba99fc1.png",
+          "url": "https://link.coupang.com/a/hpcKwQp1B6",
+          "_ts": 1790568676.439589
+        },
+        {
           "name": "배홍동 막국수 114g, 12개",
           "price": "7,170원",
           "discount_rate": 25,
