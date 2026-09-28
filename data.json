@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "피니시 린스에이드 식기세척기 헹굼보조제, 400ml, 5개",
+          "price": "21,750원",
+          "discount_rate": 51,
+          "priceAt": "09.28 11:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/99324645375774-897c66c0-6a8b-4963-9187-1f9e73a6767b.png",
+          "url": "https://link.coupang.com/a/ho4hxggws8",
+          "_ts": 1790561566.459403
+        },
+        {
           "name": "에뛰드하우스 립 앤 아이 리무버, 250ml, 1개",
           "price": "4,500원",
           "discount_rate": 44,
@@ -897,15 +906,6 @@
           "image": "https://image8.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
           "url": "https://link.coupang.com/a/hgPtKaF6MC",
           "_ts": 1790132686.913503
-        },
-        {
-          "name": "팁코 쇼군 NFC 오렌지 주스 100%, 1L, 5개",
-          "price": "15,610원",
-          "discount_rate": 45,
-          "priceAt": "09.23 10:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/15402324366960-b5ed6e68-6fef-4eb0-9d0e-d4db1ca40fdd.jpg",
-          "url": "https://link.coupang.com/a/hgKugTiTE4",
-          "_ts": 1790128495.376885
         }
       ]
     },
