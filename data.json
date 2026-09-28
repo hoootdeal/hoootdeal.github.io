@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "잘풀리는집 천연펄프 롤키친타올, 6롤, 7개",
+          "price": "15,120원",
+          "discount_rate": 39,
+          "priceAt": "09.28 18:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/42540192662995-fb0ac1b2-25a5-4857-bbc9-e4dd781a8928.jpg",
+          "url": "https://link.coupang.com/a/hpyfMdDWE1",
+          "_ts": 1790586730.810983
+        },
+        {
           "name": "무연골 돌돌말이 대패삼겹살 (냉동), 1kg, 1개",
           "price": "8,530원",
           "discount_rate": 26,
@@ -978,15 +987,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/57310896585527-75cd5c06-42c1-4fcd-803d-540a334a3524.jpg",
           "url": "https://link.coupang.com/a/hhgnkS937c",
           "_ts": 1790155266.766867
-        },
-        {
-          "name": "피지 모락셀라 섬유유연제 필요없는 실내건조 냄새제거 부스터 캡슐세제 화이트머스크향, 26개입, 1개",
-          "price": "12,900원",
-          "discount_rate": 13,
-          "priceAt": "09.23 18:05",
-          "image": "https://image2.coupangcdn.com/image/retail/images/2025/12/02/18/0/6af2ac73-a9a5-4d61-8fa9-b2de89d256d0.png",
-          "url": "https://link.coupang.com/a/hhfe4Uvcbc",
-          "_ts": 1790154319.469584
         }
       ]
     },
@@ -1650,15 +1650,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-05-27/dd9db3d5-1536-454f-8a47-6bfbc886445f.jpeg",
           "url": "https://toss.shopping/_m/r0YdEqXk",
           "_ts": 1790158542.734001
-        },
-        {
-          "name": "웅진식품 애사비 오리지널, 500ml, 24개",
-          "price": "14,900원",
-          "discount_rate": 48,
-          "priceAt": "09.23 18:11",
-          "image": "https://shopping.toss.im/live/taca/ai/MjJhNmY0/QUpsanJKbTFZMjM3dm9kMmxFSDRtMk9TbkdscmRwUkphMzRVYkp4L0hiYVU.png",
-          "url": "https://toss.im/_m/9YsxSnDp",
-          "_ts": 1790154684.314542
         }
       ]
     },
