@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "코카콜라 오리지널, 350ml, 24개",
+          "price": "18,100원",
+          "discount_rate": 20,
+          "priceAt": "09.28 09:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/45775547563672-e9b83757-fd28-4a5d-92de-7ce0af9bf330.jpg",
+          "url": "https://link.coupang.com/a/hoUNDGFzEW",
+          "_ts": 1790553605.403359
+        },
+        {
           "name": "바삭칩 바삭팝콘 스팸맛, 2개, 55g",
           "price": "2,000원",
           "discount_rate": 63,
