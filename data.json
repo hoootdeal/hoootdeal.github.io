@@ -960,15 +960,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1752199045963745-fbfff72c-ceb7-4f26-911c-182d78b57ff1.jpg",
           "url": "https://link.coupang.com/a/hin2V38zqm",
           "_ts": 1790213767.603264
-        },
-        {
-          "name": "도브 바디 스크럽 석류 앤드 시어버터, 298g, 1개",
-          "price": "8,780원",
-          "discount_rate": 35,
-          "priceAt": "09.24 10:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/19/14/8/3d835a32-fee5-489c-999d-463f6c331eb2.png",
-          "url": "https://link.coupang.com/a/hilHDIiBoW",
-          "_ts": 1790211799.806551
         }
       ]
     },
@@ -977,6 +968,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "외갓집 진심 육개장 진, 600g, 3개",
+          "price": "10,990원",
+          "discount_rate": 63,
+          "priceAt": "09.29 10:23",
+          "image": "https://shopping.toss.im/live/taca/ai/ZGE1NWEw/T2h3UEtmbzVhVDJvUGExdGtQM2R2UVBrTnFVLzhXdTAvd083VWdBYi9NQT0.png",
+          "url": "https://toss.im/_m/jExyqCM5",
+          "_ts": 1790644980.252646
+        },
         {
           "name": "포케올데이 유부 두부볼 불고기 토핑, 195g, 3개",
           "price": "8,658원",
