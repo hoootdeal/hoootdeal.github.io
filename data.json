@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스탠리 고 진공 텀블러, 블랙, 473ml, 1개",
+          "price": "19,900원",
+          "discount_rate": 46,
+          "priceAt": "09.29 10:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4b59/a7c8d2c5b5a7c0c91779a50d7c2cddd557e0ac67122a2d2694fd18aa3f34.jpg",
+          "url": "https://link.coupang.com/a/hqD2dSLiSa",
+          "_ts": 1790643643.94108
+        },
+        {
           "name": "IMINT 에스프레소 무설탕 자일리톨 커피 캔디, 32g, 3개, 32g × 3개",
           "price": "11,400원",
           "discount_rate": 25,
@@ -960,15 +969,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/19/14/8/3d835a32-fee5-489c-999d-463f6c331eb2.png",
           "url": "https://link.coupang.com/a/hilHDIiBoW",
           "_ts": 1790211799.806551
-        },
-        {
-          "name": "번개표 절전형 뉴 개별 스위치 멀티탭 4구 WI-MC31645, 1.5m, 블랙, 1개",
-          "price": "10,730원",
-          "discount_rate": 36,
-          "priceAt": "09.24 09:16",
-          "image": "https://image7.coupangcdn.com/image/vendor_inventory/e559/d92ea1e919e84615121cbd236dddc8ac6678853c1369ac58b8a35d8bb318.jpg",
-          "url": "https://link.coupang.com/a/hiine1ogIm",
-          "_ts": 1790209004.242153
         }
       ]
     },
