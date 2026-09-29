@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "일본 목캔디 용각산 목사탕, 88g, 6개",
+          "price": "11,640원",
+          "discount_rate": 27,
+          "priceAt": "09.30 08:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a996/c565a55e6df9e54cf00cb800c5ab3bd58931bbaafa5eaf8c07c2b2df172e.jpg",
+          "url": "https://link.coupang.com/a/hscWdnnMU8",
+          "_ts": 1790725003.868163
+        },
+        {
           "name": "퀘이커 마시는 오트밀 그레인 서리태 낱봉팩, 1kg, 1세트",
           "price": "13,210원",
           "discount_rate": 39,
@@ -969,15 +978,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/14a1c71f-8b70-476f-950a-9a0e338118947100680375982758284.png",
           "url": "https://link.coupang.com/a/hjVoyMDl7t",
           "_ts": 1790293823.350456
-        },
-        {
-          "name": "스카치브라이트 베이직 제로 스크래치 스펀지 수세미, 8개입, 1개",
-          "price": "6,990원",
-          "discount_rate": 30,
-          "priceAt": "09.25 08:30",
-          "image": "https://image1.coupangcdn.com/image/retail/images/374857959409947-07e13cd2-bf10-4480-81b1-e7c748917fa7.jpg",
-          "url": "https://link.coupang.com/a/hjTZGkqJu8",
-          "_ts": 1790292647.151725
         }
       ]
     },
