@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "매일두유 고단백 플레인, 950ml, 10개, 950ml × 10개",
+          "price": "20,100원",
+          "discount_rate": 30,
+          "priceAt": "09.29 12:48",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/38009598911793-5a8e7489-1b16-4b85-a446-d68ceefe9c0f.jpg",
+          "url": "https://link.coupang.com/a/hqP1xtEUDI",
+          "_ts": 1790653707.214693
+        },
+        {
           "name": "스탠리 고 진공 텀블러, 블랙, 473ml, 1개",
           "price": "19,900원",
           "discount_rate": 46,
