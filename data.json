@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 진밀면 135g, 24개",
+          "price": "14,380원",
+          "discount_rate": 55,
+          "priceAt": "09.29 15:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/65118998280515-f7722e4b-137f-4bb4-8f49-e5fd1729423b.jpg",
+          "url": "https://link.coupang.com/a/hq0JTfKBIi",
+          "_ts": 1790662704.962446
+        },
+        {
           "name": "만전김 두번 구운 김밥김 10p, 25g, 2개",
           "price": "4,300원",
           "discount_rate": 46,
