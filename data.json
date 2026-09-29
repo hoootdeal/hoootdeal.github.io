@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "만전김 두번 구운 김밥김 10p, 25g, 2개",
+          "price": "4,300원",
+          "discount_rate": 46,
+          "priceAt": "09.29 15:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/83869037459590-1e81ae7b-4800-4da3-b808-11a33c1f3ff7.jpg",
+          "url": "https://link.coupang.com/a/hq0IbPtnwG",
+          "_ts": 1790662681.38252
+        },
+        {
           "name": "비오비타 키즈 유산균 60p, 120g, 1개",
           "price": "17,800원",
           "discount_rate": 26,
@@ -924,15 +933,6 @@
           "image": "https://image10.coupangcdn.com/image/1025_amir_coupang_oct_80k/8b8c/47705e094dd7da024c3bd4f75d161d8fc48f67ef2497d534fd10247f7f67.jpg",
           "url": "https://link.coupang.com/a/hiMVb0OZgG",
           "_ts": 1790234652.083467
-        },
-        {
-          "name": "스머커즈 딸기 프리저브 잼, 510g, 2개",
-          "price": "6,510원",
-          "discount_rate": 25,
-          "priceAt": "09.24 15:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/b0a22208-8820-4ac6-83d0-cf8cd0864e1b5640163280929011273.png",
-          "url": "https://link.coupang.com/a/hiH2AR9dEO",
-          "_ts": 1790230551.946607
         }
       ]
     },
@@ -1659,15 +1659,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-09/d22aa28d-944e-4074-bd28-cf4de49d4c99.png",
           "url": "https://toss.shopping/_m/F0p8Qlwt",
           "_ts": 1790234444.9294589
-        },
-        {
-          "name": "노랑 곱빼기 왕 떡갈비, 160g, 5봉",
-          "price": "7,350원",
-          "discount_rate": 63,
-          "priceAt": "09.24 15:15",
-          "image": "https://shopping.toss.im/955d5c28-ce13-4baa-9f0a-f06de476fcc0.jpg",
-          "url": "https://toss.im/_m/zeNByVJ4",
-          "_ts": 1790230543.842104
         }
       ]
     },
