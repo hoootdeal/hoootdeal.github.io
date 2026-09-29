@@ -933,33 +933,6 @@
           "image": "https://img2c.coupangcdn.com/image/retail/images/200079011601728-14f22df6-00b6-4116-9681-843c6a3b79a6.png",
           "url": "https://link.coupang.com/a/hizazOKVkz",
           "_ts": 1790223107.2969742
-        },
-        {
-          "name": "동원샘물 생수 무라벨, 500ml, 80개",
-          "price": "12,220원",
-          "discount_rate": 23,
-          "priceAt": "09.24 11:55",
-          "image": "https://image15.coupangcdn.com/image/retail/images/357720569582466-2d8eed79-3147-4d8f-b47a-64d1ea94e082.jpg",
-          "url": "https://link.coupang.com/a/hitGKzWNQO",
-          "_ts": 1790218503.93034
-        },
-        {
-          "name": "슈펜키즈 아동용 WARM UP 패딩 아웃도어 슬립온 HPKV7EFV4U, 36 Light Beige, 190",
-          "price": "4,740원",
-          "discount_rate": 88,
-          "priceAt": "09.24 10:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/88460027109199-62b00049-073c-4af0-a0c0-50e53c6f4776.jpg",
-          "url": "https://link.coupang.com/a/hin36oMSFE",
-          "_ts": 1790213783.434268
-        },
-        {
-          "name": "브랜든 2세대 여행용 부피순삭 압축 파우치 세트, 라이트베이지, S+S+M+M+L",
-          "price": "56,610원",
-          "discount_rate": 24,
-          "priceAt": "09.24 10:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1752199045963745-fbfff72c-ceb7-4f26-911c-182d78b57ff1.jpg",
-          "url": "https://link.coupang.com/a/hin2V38zqm",
-          "_ts": 1790213767.603264
         }
       ]
     },
@@ -968,6 +941,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "농부의 정육점 국내산 한돈 냉동 목뼈등뼈, 4kg, 1개",
+          "price": "9,900원",
+          "discount_rate": 75,
+          "priceAt": "09.29 12:22",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/OTY3ODIz/Unk1VXlueU44dzYyTVNKdzQ5MUNrVjQyejZ1TkNaK2Foc3orVktyVXYyUT0.png",
+          "url": "https://toss.im/_m/p06cChp3",
+          "_ts": 1790652141.254267
+        },
         {
           "name": "외갓집 진심 육개장 진, 600g, 3개",
           "price": "10,990원",
@@ -1695,33 +1677,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-08-11/61535351-7e00-43fe-beda-ae65d776c7de.png",
           "url": "https://toss.im/_m/l2TTnNWo",
           "_ts": 1790222092.910534
-        },
-        {
-          "name": "광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
-          "price": "5,990원",
-          "discount_rate": 65,
-          "priceAt": "09.24 12:19",
-          "image": "https://shopping.toss.im/live/taca/ai/ZWNlZWJm/YVhJMlN6dHlnM3kzSTNtRjdJM1NZMGJzRFp3eWF6SnovZFRzdFAyVTAwcz0.png",
-          "url": "https://toss.im/_m/X4a9035g",
-          "_ts": 1790219974.7759612
-        },
-        {
-          "name": "동구밭 샴푸 앤 트리트먼트바 세트, 로즈마리향 100g 2개 + 네롤리향 100g 2개, 4개",
-          "price": "13,900원",
-          "discount_rate": 76,
-          "priceAt": "09.24 11:58",
-          "image": "https://shopping.toss.im/live/taca/ai/YTBlYzJh/ZHVTZHBneldPamJ6TStYTHpNNU1wbk96cXhDQ1RKWnRzc255MmVwVVRiWT0.png",
-          "url": "https://toss.im/_m/Fu4GKwbs",
-          "_ts": 1790218717.040728
-        },
-        {
-          "name": "필라델피아 크림치즈 미니, 41g, 16개",
-          "price": "8,390원",
-          "discount_rate": 60,
-          "priceAt": "09.24 10:37",
-          "image": "https://shopping.toss.im/live/temp/2026-09-10/98b2e69b-64da-4282-86df-cad87d94e929.jpeg",
-          "url": "https://toss.shopping/_m/VeqbuW3r",
-          "_ts": 1790213869.754729
         }
       ]
     },
