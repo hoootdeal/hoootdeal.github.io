@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "블랑키즐 유아용 고불소 치약 애플망고향, 60g, 1개입, 3개",
+          "price": "11,630원",
+          "discount_rate": 38,
+          "priceAt": "09.29 16:41",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c2879c94-99ef-417a-a09b-ddc18cd1b556296648424571957052.png",
+          "url": "https://link.coupang.com/a/hq6HORRtaC",
+          "_ts": 1790667713.932739
+        },
+        {
           "name": "배냇밀 이유식 완료기, 100g, 2개, 혼합맛(소고기/콜리플라워)",
           "price": "3,200원",
           "discount_rate": 49,
@@ -933,15 +942,6 @@
           "image": "https://image1.coupangcdn.com/image/retail/images/208019942026684-9d2dbe1c-401e-449c-b46b-321c3700024d.jpg",
           "url": "https://link.coupang.com/a/hiTnfm30uW",
           "_ts": 1790240071.851573
-        },
-        {
-          "name": "Apple 정품 애플워치 알파인 루프, 라이트 블루 / 내추럴 티타늄, 49mm, Small, 1개",
-          "price": "51,340원",
-          "discount_rate": 65,
-          "priceAt": "09.24 16:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/71124874611926-0d46c547-a934-4dbb-ac93-5919b18ebe1e.jpg",
-          "url": "https://link.coupang.com/a/hiNYoRPQWq",
-          "_ts": 1790235535.6388211
         }
       ]
     },
