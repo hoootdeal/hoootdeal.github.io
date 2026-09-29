@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "파이어립 화재집압 소방패치 콘센트형, 1개, 레드",
+          "price": "4,400원",
+          "discount_rate": 34,
+          "priceAt": "09.29 14:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/07/23/15/7/6d20e0fd-0e72-4c3c-bbd8-568c4a71755d.jpg",
+          "url": "https://link.coupang.com/a/hqWkBGV8IS",
+          "_ts": 1790659003.8290062
+        },
+        {
           "name": "매일두유 고단백 플레인, 950ml, 10개, 950ml × 10개",
           "price": "20,100원",
           "discount_rate": 30,
@@ -924,15 +933,6 @@
           "image": "https://img3a.coupangcdn.com/image/retail/images/346071975695843-a2457961-ef76-48ba-b6c4-2a6cd236164b.jpg",
           "url": "https://link.coupang.com/a/hiGT0ag1o4",
           "_ts": 1790229597.869689
-        },
-        {
-          "name": "풀무원 지구식단 얇은 두유면, 150g, 3개",
-          "price": "4,000원",
-          "discount_rate": 29,
-          "priceAt": "09.24 13:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/17626714541620-0fe515fe-80ed-4d1f-b326-751910c13c34.jpg",
-          "url": "https://link.coupang.com/a/hiBxs08sr6",
-          "_ts": 1790225094.325633
         }
       ]
     },
@@ -1659,15 +1659,6 @@
           "image": "https://shopping.toss.im/955d5c28-ce13-4baa-9f0a-f06de476fcc0.jpg",
           "url": "https://toss.im/_m/zeNByVJ4",
           "_ts": 1790230543.842104
-        },
-        {
-          "name": "이브네 코트니 생리대, 중형, 16매입, 4팩",
-          "price": "7,900원",
-          "discount_rate": 63,
-          "priceAt": "09.24 13:45",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/NWQyMTk4/YTErWFpTcS9uMFUwK2pUZm0yZnJkOVhreWhyVVdDbm4xVVRYNDlXRVZBdz0.png",
-          "url": "https://toss.shopping/_m/PIbPzqzs",
-          "_ts": 1790225157.0760162
         }
       ]
     },
