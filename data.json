@@ -960,6 +960,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "익스트림 듀얼 아르기닌 플러스, 120정, 1개",
+          "price": "9,900원",
+          "discount_rate": 67,
+          "priceAt": "09.29 18:38",
+          "image": "https://shopping.toss.im/live/temp/2026-08-23/05b26a20-46fe-4ba3-9324-c57e6372a7d7.jpeg",
+          "url": "https://toss.shopping/_m/de5L7YCf",
+          "_ts": 1790674704.747068
+        },
+        {
           "name": "네모라인 엠보극세사 경추베개솜, 화이트, 40x60cm, 2개",
           "price": "9,790원",
           "discount_rate": 60,
