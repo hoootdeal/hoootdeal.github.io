@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "비오비타 키즈 유산균 60p, 120g, 1개",
+          "price": "17,800원",
+          "discount_rate": 26,
+          "priceAt": "09.29 15:04",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/461496843787531-10471a21-3392-4bfb-894a-fb3a72db7a1c.png",
+          "url": "https://link.coupang.com/a/hqZLJnrRxA",
+          "_ts": 1790661889.462838
+        },
+        {
           "name": "파이어립 화재집압 소방패치 콘센트형, 1개, 레드",
           "price": "4,400원",
           "discount_rate": 34,
@@ -924,15 +933,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/b0a22208-8820-4ac6-83d0-cf8cd0864e1b5640163280929011273.png",
           "url": "https://link.coupang.com/a/hiH2AR9dEO",
           "_ts": 1790230551.946607
-        },
-        {
-          "name": "밀크바오밥 바디로션 베이비파우더향, 500ml, 1개",
-          "price": "7,630원",
-          "discount_rate": 25,
-          "priceAt": "09.24 14:59",
-          "image": "https://img3a.coupangcdn.com/image/retail/images/346071975695843-a2457961-ef76-48ba-b6c4-2a6cd236164b.jpg",
-          "url": "https://link.coupang.com/a/hiGT0ag1o4",
-          "_ts": 1790229597.869689
         }
       ]
     },
