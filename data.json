@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "배냇밀 이유식 완료기, 100g, 2개, 혼합맛(소고기/콜리플라워)",
+          "price": "3,200원",
+          "discount_rate": 49,
+          "priceAt": "09.29 16:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/d2987539-1443-414c-9217-5d540650d91e7151162557628439165.png",
+          "url": "https://link.coupang.com/a/hq5MYiZTpc",
+          "_ts": 1790666944.427958
+        },
+        {
           "name": "오뚜기 진밀면 135g, 24개",
           "price": "14,380원",
           "discount_rate": 55,
@@ -933,15 +942,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/71124874611926-0d46c547-a934-4dbb-ac93-5919b18ebe1e.jpg",
           "url": "https://link.coupang.com/a/hiNYoRPQWq",
           "_ts": 1790235535.6388211
-        },
-        {
-          "name": "존바바토스 아티산 오 드 뚜왈렛, 75ml, 1개",
-          "price": "31,270원",
-          "discount_rate": 28,
-          "priceAt": "09.24 16:24",
-          "image": "https://image10.coupangcdn.com/image/1025_amir_coupang_oct_80k/8b8c/47705e094dd7da024c3bd4f75d161d8fc48f67ef2497d534fd10247f7f67.jpg",
-          "url": "https://link.coupang.com/a/hiMVb0OZgG",
-          "_ts": 1790234652.083467
         }
       ]
     },
@@ -1668,15 +1668,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ODM2MDAy/WXhneWsxaHBNeU9lM0ZzWjgweHBocDdMcE54TE03YXhhN1lsaGsyZVduST0.png",
           "url": "https://toss.shopping/_m/JlHmwWTy",
           "_ts": 1790239048.92694
-        },
-        {
-          "name": "대한민국농수산 바나나, 3kg, 1박스",
-          "price": "8,900원",
-          "discount_rate": 70,
-          "priceAt": "09.24 16:20",
-          "image": "https://shopping.toss.im/live/temp/2026-06-09/d22aa28d-944e-4074-bd28-cf4de49d4c99.png",
-          "url": "https://toss.shopping/_m/F0p8Qlwt",
-          "_ts": 1790234444.9294589
         }
       ]
     },
