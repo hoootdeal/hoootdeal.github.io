@@ -942,6 +942,36 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
+          "price": "4,830원",
+          "discount_rate": 83,
+          "priceAt": "09.30 07:22",
+          "image": "https://shopping.toss.im/live/taca/ai/ZGRjYzU1/QUxzSHhpWEYrRFAwZEkzOHhwN2tqenVqVTdHWmNXTk1acytNYzRlc1VKMjQ.png",
+          "url": "https://toss.im/_m/tOK51BXD",
+          "_ts": 1790720558.213463,
+          "_flash": true
+        },
+        {
+          "name": "호정가 군고구마도나스, 960g, 16개입, 1개",
+          "price": "4,990원",
+          "discount_rate": 68,
+          "priceAt": "09.30 07:22",
+          "image": "https://shopping.toss.im/live/taca/ai/YjM2ZTU2/QUpvMFpwV3BiR3RzdGNwdWZGV0lyV0ZGdkpyVnpMVGExalpoVFVxYmxWVmE.png",
+          "url": "https://toss.shopping/_m/TZ8eJCGi",
+          "_ts": 1790720558.213451,
+          "_flash": true
+        },
+        {
+          "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+          "price": "4,990원",
+          "discount_rate": 66,
+          "priceAt": "09.30 07:22",
+          "image": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
+          "url": "https://toss.shopping/_m/dXoRinis",
+          "_ts": 1790720558.2134342,
+          "_flash": true
+        },
+        {
           "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
           "price": "12,800원",
           "discount_rate": 66,
@@ -1125,26 +1155,6 @@
           "_flash": true
         },
         {
-          "name": "호정가 군고구마도나스, 960g, 16개입, 1개",
-          "price": "4,990원",
-          "discount_rate": 68,
-          "priceAt": "09.29 07:21",
-          "image": "https://shopping.toss.im/live/taca/ai/YjM2ZTU2/QUpvMFpwV3BiR3RzdGNwdWZGV0lyV0ZGdkpyVnpMVGExalpoVFVxYmxWVmE.png",
-          "url": "https://toss.shopping/_m/TZ8eJCGi",
-          "_ts": 1790634093.531476,
-          "_flash": true
-        },
-        {
-          "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-          "price": "4,990원",
-          "discount_rate": 66,
-          "priceAt": "09.29 07:21",
-          "image": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
-          "url": "https://toss.shopping/_m/dXoRinis",
-          "_ts": 1790634093.5314481,
-          "_flash": true
-        },
-        {
           "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
           "price": "10,990원",
           "discount_rate": 76,
@@ -1216,16 +1226,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-01-07/c4efa185-5b09-467a-b5d9-9eecf9ce16e9.jpeg",
           "url": "https://toss.im/_m/H1G67iye",
           "_ts": 1790568318.754963
-        },
-        {
-          "name": "팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
-          "price": "4,830원",
-          "discount_rate": 83,
-          "priceAt": "09.28 11:32",
-          "image": "https://shopping.toss.im/live/taca/ai/ZGRjYzU1/QUxzSHhpWEYrRFAwZEkzOHhwN2tqenVqVTdHWmNXTk1acytNYzRlc1VKMjQ.png",
-          "url": "https://toss.im/_m/tOK51BXD",
-          "_ts": 1790562767.003237,
-          "_flash": true
         },
         {
           "name": "나누담 물받이 밀폐용기, 3000ml, 2개",
