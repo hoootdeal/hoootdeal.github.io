@@ -942,6 +942,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "탑프룻 망고젤리, 망고맛, 320g, 3개",
+          "price": "6,930원",
+          "discount_rate": 61,
+          "priceAt": "09.29 14:40",
+          "image": "https://shopping.toss.im/live/temp/2026-09-11/171d606c-d573-4b2d-a4a7-590cffb62613.jpeg",
+          "url": "https://toss.im/_m/jtrYVzdb",
+          "_ts": 1790660403.447427
+        },
+        {
           "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
           "price": "6,930원",
           "discount_rate": 88,
