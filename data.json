@@ -942,15 +942,6 @@
           "image": "https://image12.coupangcdn.com/image/retail/images/2026/06/03/9/7/f81f7fb4-b6f9-4cd4-8b57-b94bd5127f68.png",
           "url": "https://link.coupang.com/a/hjcAMMIolo",
           "_ts": 1790256206.590419
-        },
-        {
-          "name": "칼로쿡 전자레인지 저당질 밥솥 4인용, 민트, 1개",
-          "price": "15,390원",
-          "discount_rate": 14,
-          "priceAt": "09.24 21:01",
-          "image": "https://img1a.coupangcdn.com/image/retail/images/2026/04/08/10/1/b7c4cf3e-6be7-45af-a7d8-082128b96b36.jpg",
-          "url": "https://link.coupang.com/a/hi6HlexaV2",
-          "_ts": 1790251270.3697438
         }
       ]
     },
@@ -959,6 +950,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "과일꾼 제주 극조생 감귤, 로얄과, 5kg, 1박스",
+          "price": "11,900원",
+          "discount_rate": 77,
+          "priceAt": "09.29 21:10",
+          "image": "https://shopping.toss.im/live/temp/2026-09-20/3d9798f4-0c1e-4614-ba47-f091bb6aa7be.jpeg",
+          "url": "https://toss.shopping/_m/7cL8O80q",
+          "_ts": 1790683856.7645319
+        },
         {
           "name": "에브리워터 무라벨, 500ml, 40개",
           "price": "7,980원",
@@ -1641,15 +1641,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-21/d289f62f-61d3-4143-b707-8a62b8fc5858.png",
           "url": "https://toss.im/_m/hkInSJ1r",
           "_ts": 1790297943.0809898
-        },
-        {
-          "name": "청우 쫀득초코칩, 800g, 1개",
-          "price": "9,900원",
-          "discount_rate": 50,
-          "priceAt": "09.24 20:24",
-          "image": "https://shopping.toss.im/live/temp/2026-01-07/75c15421-836a-4162-b402-d9a7abe457e7.jpeg",
-          "url": "https://toss.shopping/_m/Hk95mw46",
-          "_ts": 1790249051.457837
         }
       ]
     },
