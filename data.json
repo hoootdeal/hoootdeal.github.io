@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "올리타리아 발사믹식초 5그레이프, 250ml, 2개, 250ml × 2개",
+          "price": "25,450원",
+          "discount_rate": 32,
+          "priceAt": "09.29 18:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1158669458453607-909da2ae-0ee8-4836-908a-7c4dcc2c728d.jpg",
+          "url": "https://link.coupang.com/a/hrdajViCsK",
+          "_ts": 1790673137.983802
+        },
+        {
           "name": "너즈 구미 클러스터 베리베리, 226g, 4개",
           "price": "14,710원",
           "discount_rate": 26,
@@ -942,15 +951,6 @@
           "image": "https://img3c.coupangcdn.com/image/vendor_inventory/9741/3566af72e48513b113718c4199901401fdc5474ae3263216b2a8c788609f.jpg",
           "url": "https://link.coupang.com/a/hi0LYjygTY",
           "_ts": 1790246279.9979782
-        },
-        {
-          "name": "오랄비 고탄력 초미세모 그린티 랜덤색상, 6개입, 2개",
-          "price": "9,900원",
-          "discount_rate": 25,
-          "priceAt": "09.24 17:54",
-          "image": "https://image1.coupangcdn.com/image/retail/images/208019942026684-9d2dbe1c-401e-449c-b46b-321c3700024d.jpg",
-          "url": "https://link.coupang.com/a/hiTnfm30uW",
-          "_ts": 1790240071.851573
         }
       ]
     },
@@ -1659,24 +1659,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-09-01/fc609b3f-ac9b-4a30-8da4-cbd61d5afbe5.jpeg",
           "url": "https://toss.shopping/_m/Jb75db32",
           "_ts": 1790244247.3387961
-        },
-        {
-          "name": "맥스앤맥스 퍼플톡톡 밀폐용기 20종세트, 350mm 5개, 450mm 5개, 500ml 5개, 600ml 5개, 1세트",
-          "price": "5,530원",
-          "discount_rate": 78,
-          "priceAt": "09.24 18:09",
-          "image": "https://shopping.toss.im/live/temp/2026-06-30/9fba19a7-a34e-4286-94fa-314014fbe288.png",
-          "url": "https://toss.im/_m/1KMtW1R",
-          "_ts": 1790240969.719198
-        },
-        {
-          "name": "널담 고단백 저당 네모 바게트 5종, 2세트",
-          "price": "10,900원",
-          "discount_rate": 57,
-          "priceAt": "09.24 17:37",
-          "image": "https://shopping.toss.im/live/taca/ai/ODM2MDAy/WXhneWsxaHBNeU9lM0ZzWjgweHBocDdMcE54TE03YXhhN1lsaGsyZVduST0.png",
-          "url": "https://toss.shopping/_m/JlHmwWTy",
-          "_ts": 1790239048.92694
         }
       ]
     },
