@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "의식 동원 닷컴 마지탕 (마라탄) 88g × 12식 글루텐 프리 사츠마 고구마 사용, 12개, 12개",
+          "price": "19,340원",
+          "discount_rate": 25,
+          "priceAt": "09.30 12:52",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/33a0/f7863052d899a6d9d7946a1c0035a580fa73d7bf49621c8306ba8ec9bd29.jpg",
+          "url": "https://link.coupang.com/a/hsvcHgzELA",
+          "_ts": 1790740340.129225
+        },
+        {
           "name": "모윰 손목 치발기 기프트팩 세트, 손목치발기 + 전용케이스, 포니 옐로우 + 별 세이지, 1세트",
           "price": "11,900원",
           "discount_rate": 48,
@@ -969,15 +978,6 @@
           "image": "https://image3.coupangcdn.com/image/retail/images/76241385642715-29f9c7ea-1996-475e-9a31-ad91bccb4917.jpg",
           "url": "https://link.coupang.com/a/hkgUPJAbzU",
           "_ts": 1790311893.8163111
-        },
-        {
-          "name": "마이카페라떼 원데이 로어슈거 클래식라떼, 210ml, 10개",
-          "price": "9,050원",
-          "discount_rate": 17,
-          "priceAt": "09.25 12:32",
-          "image": "https://image10.coupangcdn.com/image/retail/images/48802301364199-3c6eb0c8-87f0-47c9-a706-39303255245b.jpg",
-          "url": "https://link.coupang.com/a/hkbihMjii4",
-          "_ts": 1790307172.541719
         }
       ]
     },
@@ -1678,15 +1678,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MGQxMWZk/V3RjZU5tMW0rUFRoejJIMkJhemxpSDZjRmgvQ1BQcTVxOUFKWGxWRFMyaz0.png",
           "url": "https://toss.im/_m/j1fM3ilC",
           "_ts": 1790315657.7446349
-        },
-        {
-          "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
-          "price": "5,990원",
-          "discount_rate": 66,
-          "priceAt": "09.25 12:49",
-          "image": "https://shopping.toss.im/live/temp/2025-07-25/7ca9d4c9-fb69-4a3e-bd3d-58c5a6980da7.jpeg",
-          "url": "https://toss.im/_m/tYDrLP5C",
-          "_ts": 1790308157.9899
         }
       ]
     },
