@@ -978,6 +978,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "대한다업 순수 호박팥차, 1.5g, 100개입, 1개",
+          "price": "6,440원",
+          "discount_rate": 57,
+          "priceAt": "09.30 20:00",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MTY3NDRj/QUxoMEhrbTJjWk16MGN6THpuT3g1elRqUFBOTXdldzQ4Nnp4UERscDRkdFQ.png",
+          "url": "https://toss.im/_m/dl7Co8Mu",
+          "_ts": 1790766039.5135648
+        },
+        {
           "name": "리벤스 잘 닦이는 살균 행주 티슈, 60매, 10팩",
           "price": "9,800원",
           "discount_rate": 62,
@@ -1642,15 +1651,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-03-19/9abb176c-76ab-4a1a-b475-0d9f6c22482f.jpeg",
           "url": "https://toss.im/_m/5ZsNjgUb",
           "_ts": 1790335855.0437
-        },
-        {
-          "name": "크라운 빙수하임 말차팥빙수, 284g, 2개",
-          "price": "6,600원",
-          "discount_rate": 66,
-          "priceAt": "09.25 19:17",
-          "image": "https://shopping.toss.im/live/temp/2026-07-30/6f6b2803-5537-4120-aa1e-0ed6ea92cadb.jpeg",
-          "url": "https://toss.im/_m/5Fujary9",
-          "_ts": 1790331458.0688698
         }
       ]
     },
