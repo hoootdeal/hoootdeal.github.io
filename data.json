@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "홍영의 붉은대게 백간장, 500ml, 1개",
+          "price": "7,150원",
+          "discount_rate": 25,
+          "priceAt": "09.30 10:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/13779973240795-2b82dcf3-28c0-4029-850b-62fc12f35a34.jpg",
+          "url": "https://link.coupang.com/a/hsi5VbNIfk",
+          "_ts": 1790730173.083046
+        },
+        {
           "name": "세타필 모이스춰라이징 로션, 1.25L, 1개",
           "price": "17,740원",
           "discount_rate": 33,
@@ -960,24 +969,6 @@
           "image": "https://image7.coupangcdn.com/image/retail/images/763923949485522-786b0053-fb3b-4733-a8ae-e446ac716c29.jpg",
           "url": "https://link.coupang.com/a/hj5y8bGCE8",
           "_ts": 1790302363.549451
-        },
-        {
-          "name": "브리즈문 캠핑 3중 방습 프리미엄 참나무 장작 + 우드 착화제 20g, 10kg, 1세트",
-          "price": "6,460원",
-          "discount_rate": 40,
-          "priceAt": "09.25 09:52",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/37554743013178-dc9dc134-ee59-4ad8-bd90-bd4de3184026.jpg",
-          "url": "https://link.coupang.com/a/hjZOEbIfHU",
-          "_ts": 1790297535.274157
-        },
-        {
-          "name": "나우푸드 프로바이오틱-10 유산균 250억 베지 캡슐, 100정, 2개",
-          "price": "48,870원",
-          "discount_rate": 20,
-          "priceAt": "09.25 09:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/eb6f/637eddbef0a8baae6ddf00425e69f733d9c0bbdeac32a6a78c09d486c964.jpg",
-          "url": "https://link.coupang.com/a/hjXixXNofA",
-          "_ts": 1790295421.215084
         }
       ]
     },
@@ -1678,15 +1669,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-04-07/020b76ca-3a1a-45e9-ad26-e430ccf4c508.jpeg",
           "url": "https://toss.im/_m/5abj1peg",
           "_ts": 1790301846.67393
-        },
-        {
-          "name": "홍로 세척사과, 16-25과 내외, 3kg, 1박스",
-          "price": "11,800원",
-          "discount_rate": 73,
-          "priceAt": "09.25 09:59",
-          "image": "https://shopping.toss.im/live/temp/2026-08-21/d289f62f-61d3-4143-b707-8a62b8fc5858.png",
-          "url": "https://toss.im/_m/hkInSJ1r",
-          "_ts": 1790297943.0809898
         }
       ]
     },
