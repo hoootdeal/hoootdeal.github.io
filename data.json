@@ -987,6 +987,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "대용량 우거지 감자탕, 3kg, 1개",
+          "price": "13,900원",
+          "discount_rate": 64,
+          "priceAt": "09.30 16:06",
+          "image": "https://shopping.toss.im/live/taca/ai/YTYyY2Uz/QVBEb25jd2JIRW5ObXp5enczTWxFaTloTVR4enRqTWs4ZVExMDV4YTBvdGg.png",
+          "url": "https://toss.shopping/_m/95RLprWp",
+          "_ts": 1790752001.1969438
+        },
+        {
           "name": "AHC 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
           "price": "12,900원",
           "discount_rate": 82,
