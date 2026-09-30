@@ -978,15 +978,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/30058371332163-14b87995-d5a6-4b80-9f97-e345d4be8245.jpg",
           "url": "https://link.coupang.com/a/hku0RRuru0",
           "_ts": 1790323729.378371
-        },
-        {
-          "name": "닥터버들 미니헤드 칫솔 세트, 12개입, 1개",
-          "price": "10,810원",
-          "discount_rate": 26,
-          "priceAt": "09.25 16:20",
-          "image": "https://image9.coupangcdn.com/image/vendor_inventory/70d9/97ab945dd9ad698ab35d334c7c99ef83ad85f089bb99fd78576786fb05d0.jpg",
-          "url": "https://link.coupang.com/a/hkryArNYzs",
-          "_ts": 1790320826.6721401
         }
       ]
     },
@@ -995,6 +986,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "리벤스 잘 닦이는 살균 행주 티슈, 60매, 10팩",
+          "price": "9,800원",
+          "discount_rate": 62,
+          "priceAt": "09.30 16:49",
+          "image": "https://shopping.toss.im/live/temp/2025-06-04/6cfbb011-d5d6-4b56-bd91-55fa1de363e8.jpeg",
+          "url": "https://toss.shopping/_m/Nb4ktC4r",
+          "_ts": 1790754595.9220989
+        },
         {
           "name": "대용량 우거지 감자탕, 3kg, 1개",
           "price": "13,900원",
@@ -1669,24 +1669,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/MWE1MGU1/QU5CN2dIc3ZoSC9CL0R6NlBCZkRoZU1xUEg0ZXo4R0QwQlErZkN2cjFNUFU.png",
           "url": "https://toss.im/_m/l0nDBnF3",
           "_ts": 1790327442.342849
-        },
-        {
-          "name": "육중대 듀록 흑돼지 삼겹살, 500g, 4개",
-          "price": "22,900원",
-          "discount_rate": 50,
-          "priceAt": "09.25 16:43",
-          "image": "https://shopping.toss.im/live/temp/2025-08-11/66d4a222-f6ef-4697-beb5-51346ceb5ff1.jpeg",
-          "url": "https://toss.im/_m/nBES2XFs",
-          "_ts": 1790322239.9514072
-        },
-        {
-          "name": "풍연 굳지않는 쑥+백미 절편세트, 50g, 20개",
-          "price": "6,500원",
-          "discount_rate": 67,
-          "priceAt": "09.25 16:15",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjMxZmVl/ZTVoNWpkWTVacm41azhmTVRreDdNN0o1dExIazVOd3VtTVl5azNPeGEyMD0.png",
-          "url": "https://toss.im/_m/nzSgUbOf",
-          "_ts": 1790320541.237463
         }
       ]
     },
