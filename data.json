@@ -987,6 +987,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "한입과득 청송 홍로 사과, 가정용, 2kg, 1박스",
+          "price": "8,300원",
+          "discount_rate": 71,
+          "priceAt": "09.30 21:16",
+          "image": "https://shopping.toss.im/live/temp/2026-07-09/e0325247-78d9-4c0e-abce-fec8fb278bb3.jpeg",
+          "url": "https://toss.im/_m/xP5s5W7r",
+          "_ts": 1790770618.746048
+        },
+        {
           "name": "대한다업 순수 호박팥차, 1.5g, 100개입, 1개",
           "price": "6,440원",
           "discount_rate": 57,
