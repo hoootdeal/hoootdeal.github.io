@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "릴팡 뽀로로잡스 입체 편한 어린이 스푼 + 포크 + 케이스 세트 PR5980, 혼합색상, 1세트",
+          "price": "5,640원",
+          "discount_rate": 42,
+          "priceAt": "10.01 07:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1136994796675829-ff0ff492-d8f1-423f-b407-2ed0c1ab0501.png",
+          "url": "https://link.coupang.com/a/htLrKk6Zm9",
+          "_ts": 1790806034.628902
+        },
+        {
           "name": "엘라스틴 닥터노비드 탈모증상완화 지루성 두피용 약산성 비듬 샴푸, 50ml, 1개",
           "price": "100원",
           "discount_rate": 93,
@@ -987,15 +996,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/316182421860180-cfc1f611-e8bb-40d7-8281-9ab98b9ed6f9.jpg",
           "url": "https://link.coupang.com/a/hltdVhW9Su",
           "_ts": 1790374282.4741812
-        },
-        {
-          "name": "분다버그 핑크 그레이프푸르트 탄산음료, 375ml, 12개",
-          "price": "18,630원",
-          "discount_rate": 29,
-          "priceAt": "09.26 07:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/07/21/16/4/b099781f-cdb6-438f-87b6-378db9766c71.png",
-          "url": "https://link.coupang.com/a/hlsRFkdTXg",
-          "_ts": 1790373980.9909382
         }
       ]
     },
