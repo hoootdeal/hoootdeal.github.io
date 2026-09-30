@@ -978,6 +978,36 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
+          "price": "10,990원",
+          "discount_rate": 76,
+          "priceAt": "09.30 11:32",
+          "image": "https://shopping.toss.im/live/temp/2026-09-08/131ff3ca-add9-4eb4-887d-a5bfc5f03ac0.jpeg",
+          "url": "https://toss.shopping/_m/PjzyV7zd",
+          "_ts": 1790735561.704729,
+          "_flash": true
+        },
+        {
+          "name": "번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
+          "price": "5,990원",
+          "discount_rate": 66,
+          "priceAt": "09.30 11:32",
+          "image": "https://shopping.toss.im/live/product/737361/a4b6b85a-0311-435b-a871-3599dfd7686f.jpeg",
+          "url": "https://toss.shopping/_m/NOPYawt2",
+          "_ts": 1790735561.704701,
+          "_flash": true
+        },
+        {
+          "name": "포케올데이 유부 두부볼 불고기 토핑, 195g, 3개",
+          "price": "8,658원",
+          "discount_rate": 61,
+          "priceAt": "09.30 11:32",
+          "image": "https://shopping.toss.im/live/temp/2026-06-09/30048302-2483-4b23-a125-858818d8a469.jpeg",
+          "url": "https://toss.shopping/_m/FqBzZJbv",
+          "_ts": 1790735561.704663,
+          "_flash": true
+        },
+        {
           "name": "포천이동 양념LA갈비, 500g, 1팩",
           "price": "6,990원",
           "discount_rate": 56,
@@ -1170,26 +1200,6 @@
           "_ts": 1790644980.252646
         },
         {
-          "name": "포케올데이 유부 두부볼 불고기 토핑, 195g, 3개",
-          "price": "8,658원",
-          "discount_rate": 61,
-          "priceAt": "09.29 07:22",
-          "image": "https://shopping.toss.im/live/temp/2026-06-09/30048302-2483-4b23-a125-858818d8a469.jpeg",
-          "url": "https://toss.shopping/_m/FqBzZJbv",
-          "_ts": 1790634126.4011168,
-          "_flash": true
-        },
-        {
-          "name": "번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
-          "price": "5,990원",
-          "discount_rate": 66,
-          "priceAt": "09.29 07:22",
-          "image": "https://shopping.toss.im/live/product/737361/a4b6b85a-0311-435b-a871-3599dfd7686f.jpeg",
-          "url": "https://toss.shopping/_m/NOPYawt2",
-          "_ts": 1790634126.4010859,
-          "_flash": true
-        },
-        {
           "name": "윌로펫 말랑육즙 강아지 소프트사료, 면역/항산화, 1.2kg, 1개",
           "price": "8,000원",
           "discount_rate": 71,
@@ -1197,16 +1207,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-09-10/0b848b3d-1dea-4f3b-85f3-9be3da965e17.png",
           "url": "https://toss.shopping/_m/bo5S6Rfm",
           "_ts": 1790634126.401048,
-          "_flash": true
-        },
-        {
-          "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
-          "price": "10,990원",
-          "discount_rate": 76,
-          "priceAt": "09.29 07:21",
-          "image": "https://shopping.toss.im/live/temp/2026-09-08/131ff3ca-add9-4eb4-887d-a5bfc5f03ac0.jpeg",
-          "url": "https://toss.shopping/_m/PjzyV7zd",
-          "_ts": 1790634093.5314019,
           "_flash": true
         },
         {
