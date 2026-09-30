@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "더자리 항균 마이크로 누빔 베개커버, 밀키그레이, 40 x 60 cm, 2개",
+          "price": "3,850원",
+          "discount_rate": 44,
+          "priceAt": "09.30 15:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a5ed/393b45acc56000025263059a07a845b69e58f89b3ad52642edb6f3b77a8d.jpg",
+          "url": "https://link.coupang.com/a/hsFtbBYeJ2",
+          "_ts": 1790748958.2182899
+        },
+        {
           "name": "바자르 호텔면 수피마 100수 모네 피그먼트 순면베개커버, 네이비 × 50 x 70 cm × 1개",
           "price": "12,620원",
           "discount_rate": 36,
@@ -969,24 +978,6 @@
           "image": "https://image9.coupangcdn.com/image/vendor_inventory/70d9/97ab945dd9ad698ab35d334c7c99ef83ad85f089bb99fd78576786fb05d0.jpg",
           "url": "https://link.coupang.com/a/hkryArNYzs",
           "_ts": 1790320826.6721401
-        },
-        {
-          "name": "르샤트라1802 인퓨전 초고농축 실내건조 섬유유연제 피오니부케향 리필, 2L, 2개",
-          "price": "10,810원",
-          "discount_rate": 19,
-          "priceAt": "09.25 15:07",
-          "image": "https://img4a.coupangcdn.com/image/retail/images/634635959411553-3d0b19cf-3236-4081-95ce-10eb3b12aa37.png",
-          "url": "https://link.coupang.com/a/hkmmdRF50S",
-          "_ts": 1790316462.730068
-        },
-        {
-          "name": "주니 유아용 뚜껑 일체형 2세대 자기주도컵, 210ml, 1개, 핑크",
-          "price": "21,000원",
-          "discount_rate": 15,
-          "priceAt": "09.25 13:51",
-          "image": "https://image3.coupangcdn.com/image/retail/images/76241385642715-29f9c7ea-1996-475e-9a31-ad91bccb4917.jpg",
-          "url": "https://link.coupang.com/a/hkgUPJAbzU",
-          "_ts": 1790311893.8163111
         }
       ]
     },
@@ -1678,24 +1669,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZjMxZmVl/ZTVoNWpkWTVacm41azhmTVRreDdNN0o1dExIazVOd3VtTVl5azNPeGEyMD0.png",
           "url": "https://toss.im/_m/nzSgUbOf",
           "_ts": 1790320541.237463
-        },
-        {
-          "name": "올챌린지 뽑아쓰는 3겹 키친타월 그레이, 100매, 9개",
-          "price": "7,900원",
-          "discount_rate": 60,
-          "priceAt": "09.25 15:14",
-          "image": "https://shopping.toss.im/live/taca/ai/NDdmYzU2/QUpaVFN6bExPMHBMWEppV09iV2tVc1JLbENwTUtXWjRTNjFyZVdOalM0MFo.png",
-          "url": "https://toss.im/_m/HPepPOF3",
-          "_ts": 1790316894.2555468
-        },
-        {
-          "name": "종표 쫄깃 국수, 1.5kg, 1개",
-          "price": "6,900원",
-          "discount_rate": 60,
-          "priceAt": "09.25 14:54",
-          "image": "https://shopping.toss.im/live/taca/ai/MGQxMWZk/V3RjZU5tMW0rUFRoejJIMkJhemxpSDZjRmgvQ1BQcTVxOUFKWGxWRFMyaz0.png",
-          "url": "https://toss.im/_m/j1fM3ilC",
-          "_ts": 1790315657.7446349
         }
       ]
     },
