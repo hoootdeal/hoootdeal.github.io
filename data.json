@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "세타필 모이스춰라이징 로션, 1.25L, 1개",
+          "price": "17,740원",
+          "discount_rate": 33,
+          "priceAt": "09.30 09:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/34596278653464-caa22e7d-dff4-4c9a-a8da-143cd32d85aa.jpg",
+          "url": "https://link.coupang.com/a/hsfk221u4O",
+          "_ts": 1790727019.3060758
+        },
+        {
           "name": "일본 목캔디 용각산 목사탕, 88g, 6개",
           "price": "11,640원",
           "discount_rate": 27,
@@ -969,15 +978,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/eb6f/637eddbef0a8baae6ddf00425e69f733d9c0bbdeac32a6a78c09d486c964.jpg",
           "url": "https://link.coupang.com/a/hjXixXNofA",
           "_ts": 1790295421.215084
-        },
-        {
-          "name": "친수 칠리소스, 250g, 2개",
-          "price": "1,980원",
-          "discount_rate": 41,
-          "priceAt": "09.25 08:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/14a1c71f-8b70-476f-950a-9a0e338118947100680375982758284.png",
-          "url": "https://link.coupang.com/a/hjVoyMDl7t",
-          "_ts": 1790293823.350456
         }
       ]
     },
