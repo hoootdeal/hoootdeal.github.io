@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 평양왕만두 (냉동), 490g, 6개",
+          "price": "16,140원",
+          "discount_rate": 51,
+          "priceAt": "09.30 17:05",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/bda13e93-33dd-40d9-9458-ecf1df4d0da47909416956905030641.png",
+          "url": "https://link.coupang.com/a/hsNgwyEF0C",
+          "_ts": 1790755505.179463
+        },
+        {
           "name": "비비고 한식간장김자반, 50g, 2개, 50g × 2개",
           "price": "3,540원",
           "discount_rate": 34,
