@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 모짜렐라 핫도그 (냉동), 80g, 9개입, 1개",
+          "price": "9,540원",
+          "discount_rate": 42,
+          "priceAt": "09.30 21:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/31941831950563-0a5c9b13-bb9a-4e50-9ebf-c642057621d6.jpg",
+          "url": "https://link.coupang.com/a/hs4V7yK8Ae",
+          "_ts": 1790770341.9182348
+        },
+        {
           "name": "순수한면 슈퍼가드 생리대 날개형 중형 16p x 4팩 + 대형 14p x 2팩 세트, 1세트, 92개입",
           "price": "10,980원",
           "discount_rate": 33,
@@ -1642,15 +1651,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-15/a8bbce69-1c12-4b6f-915a-53a9bbc47f2f.jpeg",
           "url": "https://toss.im/_m/flcjiNhh",
           "_ts": 1790339366.7277582
-        },
-        {
-          "name": "푸드앳홈 오징어 젓갈, 1kg, 1팩",
-          "price": "9,500원",
-          "discount_rate": 58,
-          "priceAt": "09.25 20:30",
-          "image": "https://shopping.toss.im/live/temp/2026-03-19/9abb176c-76ab-4a1a-b475-0d9f6c22482f.jpeg",
-          "url": "https://toss.im/_m/5ZsNjgUb",
-          "_ts": 1790335855.0437
         }
       ]
     },
