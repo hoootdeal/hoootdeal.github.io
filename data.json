@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "그린자이언트 니블렛 스위트콘, 340g, 5개",
+          "price": "5,700원",
+          "discount_rate": 37,
+          "priceAt": "10.01 17:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0094/e1be8a79f344d4085b0779705249cdae45e1a76b4baf7489b0005978ea99.jpg",
+          "url": "https://link.coupang.com/a/husINkbZim",
+          "_ts": 1790842368.723146
+        },
+        {
           "name": "폰타나 이탈리아 유기농 통밀 스파게티, 500g, 2개, 500g × 2개",
           "price": "4,480원",
           "discount_rate": 55,
@@ -1777,15 +1786,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MmU0OTMy/VlZUdWhlOFU3cW5rVE9RTDlFYTZpelRGaEFXRVRkOTZXWkZSRWRFbDd2ND0.png",
           "url": "https://toss.im/_m/FIuoYaGi",
           "_ts": 1790412905.458621
-        },
-        {
-          "name": "어가찬 지리멸치 볶음용, 1.5kg, 1박스",
-          "price": "13,900원",
-          "discount_rate": 58,
-          "priceAt": "09.26 17:04",
-          "image": "https://shopping.toss.im/live/taca/ai/YmY3MWEw/U1Q2elY3V1lTV1RpekxHV09XbTIyVUV5elMzVGtqM3hIcm1iVXFxd1JWOD0.png",
-          "url": "https://toss.shopping/_m/JoavxVSt",
-          "_ts": 1790409877.251712
         }
       ]
     },
