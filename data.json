@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "어메이징오트 오리지널 혼합음료, 190ml, 24개, 190ml × 24개",
+          "price": "10,610원",
+          "discount_rate": 20,
+          "priceAt": "10.01 19:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/45983795250057-cb29f47a-3237-4d43-81b3-d4c277d1a48f.jpg",
+          "url": "https://link.coupang.com/a/huEmurSPvw",
+          "_ts": 1790852141.859657
+        },
+        {
           "name": "스키피 수퍼청크 땅콩버터, 462g, 2개, 462g × 2개",
           "price": "9,480원",
           "discount_rate": 24,
@@ -1759,15 +1768,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-02-12/e63a7e5f-cb9e-42f0-81be-72d2c174057e.jpeg",
           "url": "https://toss.shopping/_m/lyhPj4DD",
           "_ts": 1790422444.528849
-        },
-        {
-          "name": "익스트림 단백질 20g 슬림쉐이크, 더블초코, 45g, 7포, 1세트",
-          "price": "11,890원",
-          "discount_rate": 66,
-          "priceAt": "09.26 19:11",
-          "image": "https://shopping.toss.im/live/temp/2026-04-28/ed3268db-5022-4b1c-b0f1-628a2121bf0e.jpeg",
-          "url": "https://toss.im/_m/TqZoQR9d",
-          "_ts": 1790417483.313664
         }
       ]
     },
