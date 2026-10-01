@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "평창수 무라벨 생수, 2L, 12개, 2L × 12개",
+          "price": "6,050원",
+          "discount_rate": 28,
+          "priceAt": "10.01 14:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/04d9/35f191a7201f0df9c1d84a022876665c45be3d068006c524dc45eef7633e.jpg",
+          "url": "https://link.coupang.com/a/hugR0FpWgu",
+          "_ts": 1790832418.355884
+        },
+        {
           "name": "풀무원 꼬마 야채김밥 세트, 124g, 2개",
           "price": "6,080원",
           "discount_rate": 21,
@@ -1059,15 +1068,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/468929349757916-8ed961b3-c11e-4164-a0d3-3a97c4efb29c.jpg",
           "url": "https://link.coupang.com/a/hl2D9kNNZc",
           "_ts": 1790404025.5318909
-        },
-        {
-          "name": "닥터스베스트 비타민 D3 5000IU 베지 소프트젤, 180정, 1개, 180정 × 1개",
-          "price": "9,850원",
-          "discount_rate": 34,
-          "priceAt": "09.26 14:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/6a4c5db9-e555-4ebc-a866-cb3669f3959a_fixing_v2.png",
-          "url": "https://link.coupang.com/a/hlYlxRlrwW",
-          "_ts": 1790400413.455275
         }
       ]
     },
