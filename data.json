@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "솔레르로메로 유기농 엑스트라버진 올리브오일, 250ml, 1개, 250ml × 1개",
+          "price": "13,090원",
+          "discount_rate": 30,
+          "priceAt": "10.01 21:43",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/257921534319094-77eb37de-13b7-4986-ae5c-9ff8b02f8157.png",
+          "url": "https://link.coupang.com/a/huL2HNx3Bc",
+          "_ts": 1790858589.924431
+        },
+        {
           "name": "친수 칠리소스, 250g, 2개",
           "price": "1,980원",
           "discount_rate": 67,
@@ -1095,24 +1104,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/46206377742990-92eeda4d-63de-4f44-ace0-6980a840b222.jpg",
           "url": "https://link.coupang.com/a/hm7z80cN5M",
           "_ts": 1790460223.869925
-        },
-        {
-          "name": "미미네 오리지널 국물떡볶이 (밀떡) (냉동), 570g, 4개, 570g × 4개",
-          "price": "13,420원",
-          "discount_rate": 36,
-          "priceAt": "09.26 21:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/269348096652168-f6b945c2-708e-4b5f-b0e9-799e10b5ffc5.jpg",
-          "url": "https://link.coupang.com/a/hmr5fpriwe",
-          "_ts": 1790425381.385658
-        },
-        {
-          "name": "소낙스 더 뷰 에탄올 워셔액, 2L, 2개",
-          "price": "10,200원",
-          "discount_rate": 15,
-          "priceAt": "09.26 21:17",
-          "image": "https://img3c.coupangcdn.com/image/retail/images/81427147476358-f9387dd9-435a-4532-a17e-99e996353df1.png",
-          "url": "https://link.coupang.com/a/hmrFem6nm0",
-          "_ts": 1790425029.960366
         }
       ]
     },
