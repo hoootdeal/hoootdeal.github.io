@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 꼬마 야채김밥 세트, 124g, 2개",
+          "price": "6,080원",
+          "discount_rate": 21,
+          "priceAt": "10.01 13:25",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/31546466-f77c-44f6-9340-13112943bc0d5015370011744754085.png",
+          "url": "https://link.coupang.com/a/hucuYisAGO",
+          "_ts": 1790828746.5693939
+        },
+        {
           "name": "아디다스피트니스 에센셜 무릎 보호대, M(23 x 16 x 0.5 cm), 1개, 블랙",
           "price": "3,400원",
           "discount_rate": 71,
@@ -1732,15 +1741,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-05-22/eea97fa3-d7a3-42d7-9be7-d4e24157fd23.jpeg",
           "url": "https://toss.shopping/_m/BjLheplh",
           "_ts": 1790398429.07172
-        },
-        {
-          "name": "웨이크비 콜드브루 원액 브라질 세하도, 1L, 1병",
-          "price": "6,500원",
-          "discount_rate": 49,
-          "priceAt": "09.26 13:16",
-          "image": "https://shopping.toss.im/live/taca/ai/NzRhMWQ4/QU1lTGx1dytIbmd6Mk9RclVBZjh6Z3YyQS9ERURUc1Z2a3FVNjFuNlVCeW0.png",
-          "url": "https://toss.im/_m/11qh2G96",
-          "_ts": 1790396181.591619
         }
       ]
     },
