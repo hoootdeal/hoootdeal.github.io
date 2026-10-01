@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "솔가 여성용 멀티비타민 & 미네랄, 60정, 1개, 60정 × 1개",
+          "price": "10,040원",
+          "discount_rate": 21,
+          "priceAt": "10.02 08:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/121663249889351-74a9b4d0-fb54-493f-a02f-18c8f693dbff.jpg",
+          "url": "https://link.coupang.com/a/hvuUy2QmzY",
+          "_ts": 1790896261.895377
+        },
+        {
           "name": "에어후레쉬 크리스탈워터 실내용 대용량 방향제, 400ml, 1개, 부케향",
           "price": "2,890원",
           "discount_rate": 60,
@@ -1077,24 +1086,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/154912394493690-c67aabc5-d3c2-4ee2-951e-3563a9a444a3.jpg",
           "url": "https://link.coupang.com/a/hnfUmjwHaC",
           "_ts": 1790467214.749624
-        },
-        {
-          "name": "농심 신라면 10개 120g + 짜파게티 10개 140g 세트, 1세트",
-          "price": "13,140원",
-          "discount_rate": 22,
-          "priceAt": "09.27 08:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/142168504503744-864fb6a5-ef73-48c3-8628-dbe458b9951b.jpg",
-          "url": "https://link.coupang.com/a/hnb2O7Guiq",
-          "_ts": 1790463971.3895721
-        },
-        {
-          "name": "바겐슈타이거 인덕션 IH 미니팟 양수냄비, 14cm, 혼합색상, 1개",
-          "price": "10,370원",
-          "discount_rate": 29,
-          "priceAt": "09.27 07:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/11/13/5/24af9ec9-43f7-4a6d-a62f-f5806f117f36.jpg",
-          "url": "https://link.coupang.com/a/hm9khcyrYG",
-          "_ts": 1790461689.399145
         }
       ]
     },
@@ -1721,26 +1712,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NjE4MjY1/YlVzWnpFdXNrbm1uTlV4bkQ1SlNscVBVQjVVY2YxMzVjK0cxRDhrODNwST0.png",
           "url": "https://toss.im/_m/pKAO8Cir",
           "_ts": 1790474411.764425
-        },
-        {
-          "name": "일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
-          "price": "4,990원",
-          "discount_rate": 83,
-          "priceAt": "09.27 08:01",
-          "image": "https://shopping.toss.im/live/temp/2026-09-23/710346bd-e4bc-4303-86ad-bc00c2e54660.png",
-          "url": "https://toss.im/_m/FBWnpU5g",
-          "_ts": 1790463688.042668,
-          "_flash": true
-        },
-        {
-          "name": "한예지 클린터치 위생롤백, 중형, 25x35cm, 500매, 2팩",
-          "price": "6,490원",
-          "discount_rate": 76,
-          "priceAt": "09.27 08:01",
-          "image": "https://shopping.toss.im/live/temp/2026-09-03/6969802c-f446-4a57-b83a-4d1c6bdce47c.jpeg",
-          "url": "https://toss.im/_m/h59KRHu2",
-          "_ts": 1790463688.042638,
-          "_flash": true
         }
       ]
     },
