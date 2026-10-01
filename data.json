@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "코코팜 피치핑크 복숭아, 340ml, 24개",
+          "price": "12,220원",
+          "discount_rate": 20,
+          "priceAt": "10.01 09:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/785828592074506-d2fb0f9b-6285-46e1-8674-a72468e35e20.jpg",
+          "url": "https://link.coupang.com/a/htTIwk5FIW",
+          "_ts": 1790812978.020788
+        },
+        {
           "name": "샥즈 오픈 런 프로2 S820 골전도 블루투스 이어폰 OpenRun Pro 2, 블랙-BK",
           "price": "139,000원",
           "discount_rate": 46,
