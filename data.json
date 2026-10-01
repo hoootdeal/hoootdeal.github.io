@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스키피 수퍼청크 땅콩버터, 462g, 2개, 462g × 2개",
+          "price": "9,480원",
+          "discount_rate": 24,
+          "priceAt": "10.01 19:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/876901982179428-d6ba30ea-7014-4660-b1f9-8f665bf4121a.png",
+          "url": "https://link.coupang.com/a/huAAen7PfU",
+          "_ts": 1790848969.3247528
+        },
+        {
           "name": "타이키 물없이 싸먹는 월남쌈 라이스페이퍼 사각 16cm, 3개, 120g",
           "price": "2,670원",
           "discount_rate": 49,
@@ -1095,15 +1104,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1137703034257733-660c48b8-589e-4b2c-b726-a71dc14941f0.jpg",
           "url": "https://link.coupang.com/a/hmmIQqru1I",
           "_ts": 1790420881.531438
-        },
-        {
-          "name": "허브앤리빙 홈 디퓨저, 밤쉘, 520ml, 2개",
-          "price": "15,080원",
-          "discount_rate": 15,
-          "priceAt": "09.26 18:49",
-          "image": "https://image8.coupangcdn.com/image/retail/images/3970298929458-d5b09615-ae8b-4ca3-9cf8-3525610c1a54.jpg",
-          "url": "https://link.coupang.com/a/hmg9dmQWXs",
-          "_ts": 1790416199.49547
         }
       ]
     },
@@ -1768,15 +1768,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-04-28/ed3268db-5022-4b1c-b0f1-628a2121bf0e.jpeg",
           "url": "https://toss.im/_m/TqZoQR9d",
           "_ts": 1790417483.313664
-        },
-        {
-          "name": "한우 사골 도가니탕, 500g, 5팩",
-          "price": "8,990원",
-          "discount_rate": 52,
-          "priceAt": "09.26 18:32",
-          "image": "https://shopping.toss.im/live/taca/ai/Mzk0NDM5/YjREN3FJTVc0VFdTRnFVemU4N1dZdWNNV3YwZU5BUHRhTk5yZ0FWS0lRND0.png",
-          "url": "https://toss.im/_m/51mYSJQt",
-          "_ts": 1790415167.218505
         }
       ]
     },
