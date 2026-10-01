@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "포스트 오레오오즈 요거트큐브 시리얼, 400g, 1개",
+          "price": "5,610원",
+          "discount_rate": 39,
+          "priceAt": "10.01 10:04",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/01/11/3/1eb4b3ab-72b8-49ef-9f44-6f449821df0f.jpg",
+          "url": "https://link.coupang.com/a/htX5sfJ2su",
+          "_ts": 1790816648.327467
+        },
+        {
           "name": "국내산 로메인, 250g, 1개, 250g × 1개",
           "price": "2,060원",
           "discount_rate": 44,
@@ -1032,15 +1041,6 @@
           "image": "https://img2a.coupangcdn.com/image/retail/images/4973642374171-5706c1b6-0c2a-41a4-906c-017a645d45c1.jpg",
           "url": "https://link.coupang.com/a/hlI5s2pbeC",
           "_ts": 1790387601.262672
-        },
-        {
-          "name": "아로셀 시카 리페어 판테놀 마스크, 7개입, 1개",
-          "price": "13,520원",
-          "discount_rate": 28,
-          "priceAt": "09.26 09:41",
-          "image": "https://image10.coupangcdn.com/image/vendor_inventory/7373/da83e96666ddb6b880bb43e3f525fe7500639591622933d1a6d0d9530cab.jpg",
-          "url": "https://link.coupang.com/a/hlDYwYAnYG",
-          "_ts": 1790383309.217765
         }
       ]
     },
