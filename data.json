@@ -1113,6 +1113,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "제주 서귀포 감귤, 12brix 초고당도, 5kg, 1박스",
+          "price": "13,900원",
+          "discount_rate": 57,
+          "priceAt": "10.01 18:12",
+          "image": "https://shopping.toss.im/live/temp/2026-09-20/a0e6554a-50c1-4ea9-8954-02f528e674e3.png",
+          "url": "https://toss.shopping/_m/L40PABc3",
+          "_ts": 1790845949.1876721
+        },
+        {
           "name": "더건강플러스 엑스트라버진 올리브오일, 1L, 1개",
           "price": "12,700원",
           "discount_rate": 68,
