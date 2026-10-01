@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "주부9단 목우촌 두툼 비엔나, 700g, 2개",
+          "price": "10,570원",
+          "discount_rate": 28,
+          "priceAt": "10.01 15:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/ca986128-5558-4799-b286-9a63b34d7e659110402818551976698.png",
+          "url": "https://link.coupang.com/a/hulmVyLnpY",
+          "_ts": 1790836194.2985961
+        },
+        {
           "name": "리고 100% 땅콩버터 크리미, 453g, 3개",
           "price": "14,070원",
           "discount_rate": 53,
@@ -1077,15 +1086,6 @@
           "image": "https://image8.coupangcdn.com/image/retail/images/1745820927983147-8fc09e95-97e2-42ad-9525-97c1df393f5c.jpg",
           "url": "https://link.coupang.com/a/hl8n3ua1VQ",
           "_ts": 1790408844.1515489
-        },
-        {
-          "name": "리템 하이브 데스크오거나이저, 화이트, 2개",
-          "price": "8,750원",
-          "discount_rate": 57,
-          "priceAt": "09.26 15:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/468929349757916-8ed961b3-c11e-4164-a0d3-3a97c4efb29c.jpg",
-          "url": "https://link.coupang.com/a/hl2D9kNNZc",
-          "_ts": 1790404025.5318909
         }
       ]
     },
