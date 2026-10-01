@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "세이어스 위치 하젤 알코올 프리 토너 언센티드, 355ml, 1개",
+          "price": "10,990원",
+          "discount_rate": 30,
+          "priceAt": "10.01 12:35",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8806/978aded5a136dd71970eae9afafce8e6ed6cb1c660e94b4027eb5dd28be5.jpg",
+          "url": "https://link.coupang.com/a/ht8StjAkI8",
+          "_ts": 1790825707.4952462
+        },
+        {
           "name": "셀퓨전씨 레이저 유브이 썬스크린 SPF50+ PA++++, 50ml, 1개",
           "price": "9,250원",
           "discount_rate": 37,
@@ -1723,24 +1732,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NzRhMWQ4/QU1lTGx1dytIbmd6Mk9RclVBZjh6Z3YyQS9ERURUc1Z2a3FVNjFuNlVCeW0.png",
           "url": "https://toss.im/_m/11qh2G96",
           "_ts": 1790396181.591619
-        },
-        {
-          "name": "스파클 생수, 무라벨, 2L, 24개",
-          "price": "7,400원",
-          "discount_rate": 63,
-          "priceAt": "09.26 12:14",
-          "image": "https://shopping.toss.im/live/temp/2026-03-18/268e4c6a-1595-43e9-9c1b-f101e5774429.jpeg",
-          "url": "https://toss.im/_m/f7oB7jom",
-          "_ts": 1790392470.9498959
-        },
-        {
-          "name": "Nucle 팅글탱글 PD 20W 고속 충전기 + 60W C to C 초고속 케이블, 오렌지, 1m, 1세트",
-          "price": "6,900원",
-          "discount_rate": 76,
-          "priceAt": "09.26 11:54",
-          "image": "https://shopping.toss.im/live/temp/2026-09-15/50a35422-1265-4368-a1bc-cbf1e9d8e5af.jpeg",
-          "url": "https://toss.shopping/_m/rzfK2G73",
-          "_ts": 1790391247.512347
         }
       ]
     },
