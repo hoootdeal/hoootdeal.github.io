@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기3분 쇠고기 간짜장, 200g, 200ml, 5개",
+          "price": "5,450원",
+          "discount_rate": 50,
+          "priceAt": "10.01 11:03",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/66211501463025-6804d14f-23bd-46f6-8109-52a25fac50af.jpg",
+          "url": "https://link.coupang.com/a/ht2mqEjIOW",
+          "_ts": 1790820235.2614121
+        },
+        {
           "name": "펩시 제로슈거 라임향 무라벨, 300ml, 20개",
           "price": "11,930원",
           "discount_rate": 20,
@@ -1032,15 +1041,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1197649284001736-3aee5e47-81ba-4efb-8e5d-7e3eac037842.jpg",
           "url": "https://link.coupang.com/a/hlLoVHFGvY",
           "_ts": 1790389544.424405
-        },
-        {
-          "name": "청우식품 쫀득초코칩, 240g, 5개",
-          "price": "9,620원",
-          "discount_rate": 26,
-          "priceAt": "09.26 11:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/259982414493978-0dcd5efb-758f-4ce7-9c7a-5f54ac226555.jpg",
-          "url": "https://link.coupang.com/a/hlJN3qdSDc",
-          "_ts": 1790388206.126036
         }
       ]
     },
@@ -1723,15 +1723,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-09-15/50a35422-1265-4368-a1bc-cbf1e9d8e5af.jpeg",
           "url": "https://toss.shopping/_m/rzfK2G73",
           "_ts": 1790391247.512347
-        },
-        {
-          "name": "프로프룻 국내산 햇배, 대과, 개별망포장, 5kg, 1박스",
-          "price": "14,900원",
-          "discount_rate": 78,
-          "priceAt": "09.26 11:00",
-          "image": "https://shopping.toss.im/live/temp/2026-08-31/77792b63-b589-4cc2-8ccb-08e8b6763c62.jpeg",
-          "url": "https://toss.im/_m/bS5EeS4r",
-          "_ts": 1790388057.0613482
         }
       ]
     },
