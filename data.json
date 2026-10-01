@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 양조 식초, 3개, 900ml",
+          "price": "3,270원",
+          "discount_rate": 37,
+          "priceAt": "10.01 11:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/63909649319936-f46d34e2-0a55-49d1-943c-6facfd3dee95.jpg",
+          "url": "https://link.coupang.com/a/ht2TzBpzYO",
+          "_ts": 1790820683.859094
+        },
+        {
           "name": "오뚜기3분 쇠고기 간짜장, 200g, 200ml, 5개",
           "price": "5,450원",
           "discount_rate": 50,
