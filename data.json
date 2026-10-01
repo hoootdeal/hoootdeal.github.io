@@ -1050,15 +1050,6 @@
           "image": "https://img2a.coupangcdn.com/image/vendor_inventory/787d/5c723e54a11c5a3373cfbb89a9640c22d46d374a58f101982ade4e6a193b.png",
           "url": "https://link.coupang.com/a/hlQDpHpSU0",
           "_ts": 1790393939.6279922
-        },
-        {
-          "name": "프로월드컵 키즈 하프타임 축구화, blue, 210",
-          "price": "11,130원",
-          "discount_rate": 30,
-          "priceAt": "09.26 11:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1197649284001736-3aee5e47-81ba-4efb-8e5d-7e3eac037842.jpg",
-          "url": "https://link.coupang.com/a/hlLoVHFGvY",
-          "_ts": 1790389544.424405
         }
       ]
     },
@@ -1067,6 +1058,36 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
+          "price": "6,930원",
+          "discount_rate": 88,
+          "priceAt": "10.01 11:31",
+          "image": "https://shopping.toss.im/live/temp/2026-09-23/9072bbae-8462-4cc2-ab82-8c9b161d4680.png",
+          "url": "https://toss.shopping/_m/JsatPcRl",
+          "_ts": 1790821906.4815629,
+          "_flash": true
+        },
+        {
+          "name": "포천이동 양념LA갈비, 500g, 1팩",
+          "price": "6,990원",
+          "discount_rate": 56,
+          "priceAt": "10.01 11:31",
+          "image": "https://shopping.toss.im/live/taca/ai/YWQ1YzA5/QU16RU01L0lZcC9STjBkV0M3QzZVekM0dzJJSjdIQXo3czRVNXN0b1h1M28.png",
+          "url": "https://toss.shopping/_m/POfKIzmx",
+          "_ts": 1790821906.481536,
+          "_flash": true
+        },
+        {
+          "name": "이선별 밀크카스테라, 1kg, 1박스",
+          "price": "6,900원",
+          "discount_rate": 78,
+          "priceAt": "10.01 11:31",
+          "image": "https://shopping.toss.im/live/temp/2026-05-28/6c7ab71a-3621-4595-8650-ab95f3dc4796.jpeg",
+          "url": "https://toss.im/_m/V7nZkelC",
+          "_ts": 1790821906.4814851,
+          "_flash": true
+        },
         {
           "name": "목우촌 주부9단 프랑크 소시지, 500g, 3개",
           "price": "14,500원",
@@ -1230,16 +1251,6 @@
           "_flash": true
         },
         {
-          "name": "포천이동 양념LA갈비, 500g, 1팩",
-          "price": "6,990원",
-          "discount_rate": 56,
-          "priceAt": "09.30 11:32",
-          "image": "https://shopping.toss.im/live/taca/ai/YWQ1YzA5/QU16RU01L0lZcC9STjBkV0M3QzZVekM0dzJJSjdIQXo3czRVNXN0b1h1M28.png",
-          "url": "https://toss.shopping/_m/POfKIzmx",
-          "_ts": 1790735545.7809331,
-          "_flash": true
-        },
-        {
           "name": "이지앤프리 에어클립 프레시 밀폐용기 체험팩, 레몬, 5종, 7P, 1세트",
           "price": "7,590원",
           "discount_rate": 73,
@@ -1269,16 +1280,6 @@
           "_ts": 1790732220.1123478
         },
         {
-          "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
-          "price": "6,930원",
-          "discount_rate": 88,
-          "priceAt": "09.30 07:22",
-          "image": "https://shopping.toss.im/live/temp/2026-09-23/9072bbae-8462-4cc2-ab82-8c9b161d4680.png",
-          "url": "https://toss.shopping/_m/JsatPcRl",
-          "_ts": 1790720574.430149,
-          "_flash": true
-        },
-        {
           "name": "메르헨트 퍼퓸 샴푸, 화이트머스크, 1L, 2개",
           "price": "6,230원",
           "discount_rate": 79,
@@ -1286,16 +1287,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-25/2f74f94a-6229-4af8-b0a2-3781007da2d1.jpeg",
           "url": "https://toss.shopping/_m/BRjbo9Bn",
           "_ts": 1790720574.4301372,
-          "_flash": true
-        },
-        {
-          "name": "이선별 밀크카스테라, 1kg, 1박스",
-          "price": "6,900원",
-          "discount_rate": 78,
-          "priceAt": "09.30 07:22",
-          "image": "https://shopping.toss.im/live/temp/2026-05-28/6c7ab71a-3621-4595-8650-ab95f3dc4796.jpeg",
-          "url": "https://toss.im/_m/V7nZkelC",
-          "_ts": 1790720574.43012,
           "_flash": true
         },
         {
