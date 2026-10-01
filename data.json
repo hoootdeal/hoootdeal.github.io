@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아디다스피트니스 에센셜 무릎 보호대, M(23 x 16 x 0.5 cm), 1개, 블랙",
+          "price": "3,400원",
+          "discount_rate": 71,
+          "priceAt": "10.01 13:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2582787446561-b69cf6d6-007b-409f-a393-4ce02469bb8e.jpg",
+          "url": "https://link.coupang.com/a/hua9AOLBa8",
+          "_ts": 1790827617.7808828
+        },
+        {
           "name": "세이어스 위치 하젤 알코올 프리 토너 언센티드, 355ml, 1개",
           "price": "10,990원",
           "discount_rate": 30,
@@ -1059,15 +1068,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/237491827260649-15175375-b1c7-4527-af2a-275473c8ec23.jpg",
           "url": "https://link.coupang.com/a/hlUxMjqcTc",
           "_ts": 1790397220.141394
-        },
-        {
-          "name": "닥터스 베스트 킬레이트 고흡수성 마그네슘 미네랄100mg, 240정, 3개",
-          "price": "55,590원",
-          "discount_rate": 17,
-          "priceAt": "09.26 12:38",
-          "image": "https://img2a.coupangcdn.com/image/vendor_inventory/787d/5c723e54a11c5a3373cfbb89a9640c22d46d374a58f101982ade4e6a193b.png",
-          "url": "https://link.coupang.com/a/hlQDpHpSU0",
-          "_ts": 1790393939.6279922
         }
       ]
     },
