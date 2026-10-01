@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에어후레쉬 크리스탈워터 실내용 대용량 방향제, 400ml, 1개, 부케향",
+          "price": "2,890원",
+          "discount_rate": 60,
+          "priceAt": "10.02 07:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/11/29/10/3/1cd28975-ce3c-4880-be0a-5eb69c74d4d5.jpg",
+          "url": "https://link.coupang.com/a/hvqS1W3gIe",
+          "_ts": 1790892882.08358
+        },
+        {
           "name": "프링글스 오리지날, 110g, 12개",
           "price": "15,570원",
           "discount_rate": 61,
@@ -1095,24 +1104,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/8583217f-753e-42aa-8bc5-ea415d70bdfb10298104993341215917.png",
           "url": "https://link.coupang.com/a/hm8M8eFuwu",
           "_ts": 1790461240.422473
-        },
-        {
-          "name": "키즈웰 밀크 브레드 24p, 768g, 1개, 768g × 1개",
-          "price": "7,780원",
-          "discount_rate": 42,
-          "priceAt": "09.27 07:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/43768458692024-5757de92-6b72-4d17-bdd7-79410ffd42d1.png",
-          "url": "https://link.coupang.com/a/hm7HmlqCYe",
-          "_ts": 1790460321.404375
-        },
-        {
-          "name": "어메이징오트 언스위트, 190ml, 24개",
-          "price": "10,510원",
-          "discount_rate": 22,
-          "priceAt": "09.27 07:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/46206377742990-92eeda4d-63de-4f44-ace0-6980a840b222.jpg",
-          "url": "https://link.coupang.com/a/hm7z80cN5M",
-          "_ts": 1790460223.869925
         }
       ]
     },
