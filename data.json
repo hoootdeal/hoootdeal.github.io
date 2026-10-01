@@ -1122,6 +1122,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "고궁 통참깨 참기름, 350ml, 4개",
+          "price": "20,900원",
+          "discount_rate": 65,
+          "priceAt": "10.01 21:15",
+          "image": "https://shopping.toss.im/live/temp/2026-07-10/f6fcb109-4772-4cab-8119-bb96b4edd760.png",
+          "url": "https://toss.shopping/_m/niFowHqn",
+          "_ts": 1790856933.765368
+        },
+        {
           "name": "제주 서귀포 감귤, 12brix 초고당도, 5kg, 1박스",
           "price": "13,900원",
           "discount_rate": 57,
@@ -1750,15 +1759,6 @@
           "url": "https://toss.im/_m/h59KRHu2",
           "_ts": 1790463688.042638,
           "_flash": true
-        },
-        {
-          "name": "수뜰리에 고농축 주방세제, 레몬버베너향, 2.5L, 4개",
-          "price": "5,950원",
-          "discount_rate": 84,
-          "priceAt": "09.26 21:10",
-          "image": "https://shopping.toss.im/live/temp/2026-09-13/c5515028-dee6-4397-98ee-41240dbd3a83.png",
-          "url": "https://toss.im/_m/vus72zBs",
-          "_ts": 1790424657.917495
         }
       ]
     },
