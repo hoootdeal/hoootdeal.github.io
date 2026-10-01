@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "친수 칠리소스, 250g, 2개",
+          "price": "1,980원",
+          "discount_rate": 67,
+          "priceAt": "10.01 20:43",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/14a1c71f-8b70-476f-950a-9a0e338118947100680375982758284.png",
+          "url": "https://link.coupang.com/a/huHK1YmlH2",
+          "_ts": 1790854992.220864
+        },
+        {
           "name": "어메이징오트 오리지널 혼합음료, 190ml, 24개, 190ml × 24개",
           "price": "10,610원",
           "discount_rate": 20,
@@ -1104,15 +1113,6 @@
           "image": "https://img3c.coupangcdn.com/image/retail/images/81427147476358-f9387dd9-435a-4532-a17e-99e996353df1.png",
           "url": "https://link.coupang.com/a/hmrFem6nm0",
           "_ts": 1790425029.960366
-        },
-        {
-          "name": "바겐슈타이거 스텐 304 양면 도마, 혼합색상, 1개",
-          "price": "18,860원",
-          "discount_rate": 33,
-          "priceAt": "09.26 20:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1137703034257733-660c48b8-589e-4b2c-b726-a71dc14941f0.jpg",
-          "url": "https://link.coupang.com/a/hmmIQqru1I",
-          "_ts": 1790420881.531438
         }
       ]
     },
@@ -1759,15 +1759,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-09-13/c5515028-dee6-4397-98ee-41240dbd3a83.png",
           "url": "https://toss.im/_m/vus72zBs",
           "_ts": 1790424657.917495
-        },
-        {
-          "name": "큰나무 이탈리아 엠머밀 파로, 1kg, 2개",
-          "price": "13,900원",
-          "discount_rate": 76,
-          "priceAt": "09.26 20:34",
-          "image": "https://shopping.toss.im/live/temp/2026-02-12/e63a7e5f-cb9e-42f0-81be-72d2c174057e.jpeg",
-          "url": "https://toss.shopping/_m/lyhPj4DD",
-          "_ts": 1790422444.528849
         }
       ]
     },
