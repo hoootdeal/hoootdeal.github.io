@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "타이키 물없이 싸먹는 월남쌈 라이스페이퍼 사각 16cm, 3개, 120g",
+          "price": "2,670원",
+          "discount_rate": 49,
+          "priceAt": "10.01 18:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/19/15/6/1ddbbde4-575b-4014-ac58-13d53429647a.jpg",
+          "url": "https://link.coupang.com/a/huwMN7paYm",
+          "_ts": 1790845780.2172449
+        },
+        {
           "name": "그린자이언트 니블렛 스위트콘, 340g, 5개",
           "price": "5,700원",
           "discount_rate": 37,
@@ -1095,24 +1104,6 @@
           "image": "https://image8.coupangcdn.com/image/retail/images/3970298929458-d5b09615-ae8b-4ca3-9cf8-3525610c1a54.jpg",
           "url": "https://link.coupang.com/a/hmg9dmQWXs",
           "_ts": 1790416199.49547
-        },
-        {
-          "name": "친수 스위트 칠리소스, 295g, 2개",
-          "price": "2,980원",
-          "discount_rate": 63,
-          "priceAt": "09.26 17:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/d605fa7f-7ece-4891-946a-4a97fb5fff3a4470350750105390281.png",
-          "url": "https://link.coupang.com/a/hmbF1kWVZQ",
-          "_ts": 1790411605.269108
-        },
-        {
-          "name": "그린핑거 힘센보습 인텐시브 크리미오일 유아 크림, 180ml, 4개",
-          "price": "20,880원",
-          "discount_rate": 78,
-          "priceAt": "09.26 17:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/329280054487660-e3186d6a-abc4-463c-9fb6-720d89bdc61d.png",
-          "url": "https://link.coupang.com/a/hmbt2I1zxs",
-          "_ts": 1790411444.4254808
         }
       ]
     },
@@ -1777,15 +1768,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/Mzk0NDM5/YjREN3FJTVc0VFdTRnFVemU4N1dZdWNNV3YwZU5BUHRhTk5yZ0FWS0lRND0.png",
           "url": "https://toss.im/_m/51mYSJQt",
           "_ts": 1790415167.218505
-        },
-        {
-          "name": "제스타 칫솔, 부드러운 미세모, 20개입, 1개",
-          "price": "8,900원",
-          "discount_rate": 69,
-          "priceAt": "09.26 17:55",
-          "image": "https://shopping.toss.im/live/taca/ai/MmU0OTMy/VlZUdWhlOFU3cW5rVE9RTDlFYTZpelRGaEFXRVRkOTZXWkZSRWRFbDd2ND0.png",
-          "url": "https://toss.im/_m/FIuoYaGi",
-          "_ts": 1790412905.458621
         }
       ]
     },
