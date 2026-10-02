@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "서울우유 요구르트, 65ml, 20개입, 4세트",
+          "price": "12,160원",
+          "discount_rate": 33,
+          "priceAt": "10.02 13:49",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/430841967612349-f65d2736-de8a-4397-b8c3-31da236a5d35.jpg",
+          "url": "https://link.coupang.com/a/hvS8fvgn7c",
+          "_ts": 1790916599.302578
+        },
+        {
           "name": "플라하반 유기농 포리지오트, 500g, 1개, 500g × 1개",
           "price": "11,990원",
           "discount_rate": 20,
