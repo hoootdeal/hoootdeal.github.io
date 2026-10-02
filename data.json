@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "모아바이오팜 당도선별 샤인머스캣, 1개, 1kg",
+          "price": "5,990원",
+          "discount_rate": 25,
+          "priceAt": "10.02 09:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/jlqlk3cx/12f613d2fc6d459aa6fe26d90fbad0e0.jpg",
+          "url": "https://link.coupang.com/a/hvCrfxG32a",
+          "_ts": 1790902583.2343009
+        },
+        {
           "name": "풀무원자연건면 로스팅 서울 라면 97g, 24개",
           "price": "21,720원",
           "discount_rate": 34,
