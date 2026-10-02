@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "앙블랑 세이프 인디핑크 유아물티슈 휴대캡형, 63g, 20매, 12개",
+          "price": "4,900원",
+          "discount_rate": 45,
+          "priceAt": "10.02 21:05",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/49d9/81332efb9a3af985d5b1211f1fb8f9404ae9398357747101ee0edae34240.jpg",
+          "url": "https://link.coupang.com/a/hwod0V8EvI",
+          "_ts": 1790942705.2985852
+        },
+        {
           "name": "가루비 포테이토 팜 쟈가폿쿠루 10개입, 180g, 2개, 180g × 2개",
           "price": "17,430원",
           "discount_rate": 32,
@@ -1122,15 +1131,6 @@
           "image": "https://static.coupangcdn.com/image/retail/images/454925784576747-32daaea3-8c33-4213-84d7-a1b1e2484dbb.jpg",
           "url": "https://link.coupang.com/a/hn5JfUttKu",
           "_ts": 1790510737.5050619
-        },
-        {
-          "name": "미니오이, 10입(200 g), 1개, 10입(200 g) × 1개",
-          "price": "4,290원",
-          "discount_rate": 26,
-          "priceAt": "09.27 19:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/167339704167283-297cf71e-7393-4e1a-8f3c-63973be6cb37.jpg",
-          "url": "https://link.coupang.com/a/hnZ1CXCiRg",
-          "_ts": 1790505934.4157069
         }
       ]
     },
@@ -1772,24 +1772,6 @@
           "url": "https://toss.im/_m/HHO7iX4b",
           "_ts": 1790547716.903929,
           "_flash": true
-        },
-        {
-          "name": "맘스럽 아토워시 프렌치 라벤더 캡슐세제 파우치형, 8g, 200개입, 1개",
-          "price": "5,740원",
-          "discount_rate": 71,
-          "priceAt": "09.27 20:37",
-          "image": "https://shopping.toss.im/live/temp/2025-05-14/52c78bea-ea6e-40df-92a3-fca69d1d7141.jpeg",
-          "url": "https://toss.im/_m/1JGAXtnt",
-          "_ts": 1790509042.4803798
-        },
-        {
-          "name": "한돈 스테이크, 600g, 1팩",
-          "price": "8,900원",
-          "discount_rate": 59,
-          "priceAt": "09.27 20:13",
-          "image": "https://shopping.toss.im/live/taca/ai/OTE5Yzc3/QU1US1hiMWJiWnRvdVRGR0JrMFRnZWNXai9qQkQ0M3hyRWZhWHhNOTg5a1M.png",
-          "url": "https://toss.im/_m/f3PxATq4",
-          "_ts": 1790507621.391974
         }
       ]
     },
