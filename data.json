@@ -1104,15 +1104,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/167552542964314-f2362c62-0f83-4e22-8262-7543c5f1c5a7.jpg",
           "url": "https://link.coupang.com/a/hnsQus6poq",
           "_ts": 1790478077.083107
-        },
-        {
-          "name": "활명수 편안활 스트롱 까스활 농축액, 15g, 24개, 15g × 24개",
-          "price": "10,780원",
-          "discount_rate": 30,
-          "priceAt": "09.27 11:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1566615099192036-bc9a0bb7-bdb5-44cf-8684-5cd7c7b88e08.png",
-          "url": "https://link.coupang.com/a/hno0mBvtDM",
-          "_ts": 1790474851.05357
         }
       ]
     },
@@ -1121,6 +1112,36 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "이롬 국내산 약콩 무가당 두유, 190ml, 16개",
+          "price": "4,990원",
+          "discount_rate": 70,
+          "priceAt": "10.02 11:31",
+          "image": "https://shopping.toss.im/live/temp/2026-08-11/15ffc29f-7783-4998-8e0d-a05f9af74909.png",
+          "url": "https://toss.shopping/_m/bhwXo4Sf",
+          "_ts": 1790908319.4019608,
+          "_flash": true
+        },
+        {
+          "name": "맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
+          "price": "5,950원",
+          "discount_rate": 80,
+          "priceAt": "10.02 11:31",
+          "image": "https://shopping.toss.im/live/temp/2026-08-03/a8c0ca14-34eb-45c6-bede-da24aaf71a61.jpeg",
+          "url": "https://toss.shopping/_m/9shjEXqt",
+          "_ts": 1790908319.4019358,
+          "_flash": true
+        },
+        {
+          "name": "맥콜 제로슈거, 190ml, 30개",
+          "price": "7,600원",
+          "discount_rate": 57,
+          "priceAt": "10.02 11:31",
+          "image": "https://shopping.toss.im/live/temp/2026-08-10/e86bf3ee-b559-4aff-bb2b-4ae73b937ba2.jpeg",
+          "url": "https://toss.shopping/_m/zBTA95rD",
+          "_ts": 1790908319.4018922,
+          "_flash": true
+        },
         {
           "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
           "price": "10,600원",
@@ -1739,15 +1760,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-09/b8f4256c-94c8-4e62-9a68-a4ae569808a1.jpeg",
           "url": "https://toss.im/_m/LQvf1L47",
           "_ts": 1790476722.370991
-        },
-        {
-          "name": "전라도 전통 여린 열무김치, 3kg, 1박스",
-          "price": "13,900원",
-          "discount_rate": 61,
-          "priceAt": "09.27 11:00",
-          "image": "https://shopping.toss.im/live/taca/ai/NjE4MjY1/YlVzWnpFdXNrbm1uTlV4bkQ1SlNscVBVQjVVY2YxMzVjK0cxRDhrODNwST0.png",
-          "url": "https://toss.im/_m/pKAO8Cir",
-          "_ts": 1790474411.764425
         }
       ]
     },
