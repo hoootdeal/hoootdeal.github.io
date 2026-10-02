@@ -1104,15 +1104,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1922718647166549-41d6090e-7f5f-458e-b8b6-7b944c817cc2.jpg",
           "url": "https://link.coupang.com/a/hnCRUGVR9g",
           "_ts": 1790486491.037705
-        },
-        {
-          "name": "닥터유 단백질칩 버터구이오징어맛, 60g, 24개, 60g × 24개",
-          "price": "20,990원",
-          "discount_rate": 21,
-          "priceAt": "09.27 13:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/31927be1-aa1f-4bb6-9255-34094ddb5d124850191097045723690.png",
-          "url": "https://link.coupang.com/a/hnyIOp3RFA",
-          "_ts": 1790483012.0882921
         }
       ]
     },
@@ -1121,6 +1112,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "원김치 쪽파김치, 가정용, 2kg, 1개",
+          "price": "9,900원",
+          "discount_rate": 33,
+          "priceAt": "10.02 13:27",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MDkxZDUx/QU52Z21LSFI4ZUg3QkoxLzhPZGVRMTF5ZEJvNkdnTnJSZTNWSjhpRGZ0VWk.png",
+          "url": "https://toss.shopping/_m/bHi6PwVp",
+          "_ts": 1790915227.41518
+        },
         {
           "name": "맥스 앤 맥스 전자레인지 라면 용기, 아이보리 1L 1개 + 올리브그린 1L 1개 + 뚜껑, 2개",
           "price": "5,950원",
@@ -1781,15 +1781,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZTZjNDY4/UHZrZFhxOHB6d3ZIU1Z2RGZ2VDRvOVFjMWF0VlZPS3p2VlFxdFloandjQT0.png",
           "url": "https://toss.im/_m/JWNisvii",
           "_ts": 1790487627.801276
-        },
-        {
-          "name": "오뚜기 오뚜기밥, 210g, 36개",
-          "price": "32,400원",
-          "discount_rate": 37,
-          "priceAt": "09.27 13:19",
-          "image": "https://shopping.toss.im/live/taca/ai/MDQ5Mzcy/QU0zbnRtUEpqbWtNTTh2TTR3OXRWYkY1UEJwR3BPenFSZy8wTkJ2eFVNMnQ.png",
-          "url": "https://toss.im/_m/Xv7l9pnw",
-          "_ts": 1790482752.903357
         }
       ]
     },
