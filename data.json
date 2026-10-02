@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "갓비움 프리바이오틱스 음료, 100ml, 5개, 100ml × 5개",
+          "price": "6,090원",
+          "discount_rate": 50,
+          "priceAt": "10.03 08:21",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/07/22/15/7/0b7c9072-f8c1-48eb-9538-30c24a55e065.jpg",
+          "url": "https://link.coupang.com/a/hxaykyBoAu",
+          "_ts": 1790983281.667962
+        },
+        {
           "name": "죠리퐁 마시멜로, 35g, 20개",
           "price": "10,120원",
           "discount_rate": 30,
@@ -1113,24 +1122,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/bd466677-8f62-4b7c-8c67-decbd7d9a8c910721486961474759506.png",
           "url": "https://link.coupang.com/a/hoUvN5C8C4",
           "_ts": 1790553363.727902
-        },
-        {
-          "name": "모모야 고추기름 라유 2병세트 타베루라유 110g, 110g, 2개",
-          "price": "7,200원",
-          "discount_rate": 21,
-          "priceAt": "09.28 08:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/523a/8f5e01334e02c36269833e56609e8bdd35f75820ecf1d038e6c629d2dc82.jpg",
-          "url": "https://link.coupang.com/a/hoQPO84HzU",
-          "_ts": 1790550275.869339
-        },
-        {
-          "name": "락앤락 인디고 글라스, 6개, 320ml",
-          "price": "8,690원",
-          "discount_rate": 55,
-          "priceAt": "09.28 08:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/57965854607135-d48f393a-21c2-47db-b664-4e2f1c9be760.jpg",
-          "url": "https://link.coupang.com/a/hoQELC933A",
-          "_ts": 1790550127.039147
         }
       ]
     },
