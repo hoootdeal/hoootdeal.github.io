@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청정원 쉐프의 치킨스톡, 465g, 1개",
+          "price": "4,930원",
+          "discount_rate": 32,
+          "priceAt": "10.03 07:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/03/17/15/8/4726d722-2f24-4caa-a87f-e628342f4e97.jpg",
+          "url": "https://link.coupang.com/a/hw5T5YyeyG",
+          "_ts": 1790979379.540084
+        },
+        {
           "name": "수스다 여성용 대용량 컬러 머리 고무줄 2000p + 헤어 가이드 스틱 + 이지컷 세트, 02 마카롱 컬러 혼합",
           "price": "3,740원",
           "discount_rate": 62,
@@ -1113,33 +1122,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/57965854607135-d48f393a-21c2-47db-b664-4e2f1c9be760.jpg",
           "url": "https://link.coupang.com/a/hoQELC933A",
           "_ts": 1790550127.039147
-        },
-        {
-          "name": "파이렉스 내열강화유리 계량컵, 투명, 1L, 1개",
-          "price": "6,840원",
-          "discount_rate": 33,
-          "priceAt": "09.28 07:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2689760994267259-c2977c32-6dd1-4526-a575-5b4c195db33a.jpg",
-          "url": "https://link.coupang.com/a/hoM27vdhw4",
-          "_ts": 1790547098.3171551
-        },
-        {
-          "name": "닥터머콜라 컴플리트 프로바이오틱스 유산균 70 빌리언 CFU 캡슐, 90정, 1개, 90정 × 1개",
-          "price": "24,320원",
-          "discount_rate": 69,
-          "priceAt": "09.28 07:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/8719/1eba5c7c3fd91d3828a99f43b4c139cf150193818fad841d875331a17d74.jpg",
-          "url": "https://link.coupang.com/a/hoMVMz3fX2",
-          "_ts": 1790546998.877714
-        },
-        {
-          "name": "나우푸드 아연 50mg, 250정, 1개",
-          "price": "4,190원",
-          "discount_rate": 63,
-          "priceAt": "09.28 07:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4553/1b3252124dc55ad0a529351865657d2d415e0dd73b9e35c2c91498554b1e.jpg",
-          "url": "https://link.coupang.com/a/hoMqFiUeho",
-          "_ts": 1790546577.771689
         }
       ]
     },
