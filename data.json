@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청정원 고소한 마요네즈, 300g, 2개",
+          "price": "3,980원",
+          "discount_rate": 33,
+          "priceAt": "10.02 10:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/90537317427466-8bc4a583-5edc-4346-9941-5ffc8870e6d8.jpg",
+          "url": "https://link.coupang.com/a/hvDkXxM3mC",
+          "_ts": 1790903337.32161
+        },
+        {
           "name": "모아바이오팜 당도선별 샤인머스캣, 1개, 1kg",
           "price": "5,990원",
           "discount_rate": 25,
@@ -1095,15 +1104,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d151/887e02ea8c6a8ea09bbba1940f417ef4c91336630e225b3ce7589f47795b.png",
           "url": "https://link.coupang.com/a/hnlRCXbqea",
           "_ts": 1790472216.092149
-        },
-        {
-          "name": "한채원 밥대신 43 칼로리 현미 곤약 즉석밥, 110g, 10개",
-          "price": "12,600원",
-          "discount_rate": 23,
-          "priceAt": "09.27 10:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/63332164764693-2a9a1f7b-9633-4107-9228-ad8afd87e3b1.jpg",
-          "url": "https://link.coupang.com/a/hnkmZyojUi",
-          "_ts": 1790470960.810045
         }
       ]
     },
