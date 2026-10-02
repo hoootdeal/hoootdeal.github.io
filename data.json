@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "맑은물에 국산콩 맷돌촌두부, 300g, 2개, 300g × 2개",
+          "price": "3,500원",
+          "discount_rate": 23,
+          "priceAt": "10.02 15:04",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/697d55e7-2232-4207-bf00-46c69bcc776e7531038465539973477.png",
+          "url": "https://link.coupang.com/a/hvYtwwUa6e",
+          "_ts": 1790921086.910212
+        },
+        {
           "name": "스타벅스 말차라테, 24g, 4개입, 3개",
           "price": "15,640원",
           "discount_rate": 23,
@@ -1113,24 +1122,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/515788125002173-2f1f338a-ae62-4867-a8d1-843d908952df.jpg",
           "url": "https://link.coupang.com/a/hnJyBWaclU",
           "_ts": 1790492108.466191
-        },
-        {
-          "name": "비비고 김치볶음, 80g, 10개",
-          "price": "11,350원",
-          "discount_rate": 33,
-          "priceAt": "09.27 15:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/221499256238330-333f5d88-8ae3-48f0-b9d1-ae0bf24ac777.jpg",
-          "url": "https://link.coupang.com/a/hnFCGurRq8",
-          "_ts": 1790488803.7419221
-        },
-        {
-          "name": "신지모루 갤럭시 아이폰 맥세이프 M 에어클로 베이직 마그네틱 휴대폰 케이스, 아이폰 XS MAX",
-          "price": "7,900원",
-          "discount_rate": 34,
-          "priceAt": "09.27 14:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1922718647166549-41d6090e-7f5f-458e-b8b6-7b944c817cc2.jpg",
-          "url": "https://link.coupang.com/a/hnCRUGVR9g",
-          "_ts": 1790486491.037705
         }
       ]
     },
@@ -1799,15 +1790,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-20/27c6f152-f67a-484f-8dbd-b91a5b905a60.jpeg",
           "url": "https://toss.im/_m/dATgeKwx",
           "_ts": 1790490547.285534
-        },
-        {
-          "name": "지그비 빅헤드 초미세모 칫솔, 12개입, 1세트",
-          "price": "9,800원",
-          "discount_rate": 69,
-          "priceAt": "09.27 14:40",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTZjNDY4/UHZrZFhxOHB6d3ZIU1Z2RGZ2VDRvOVFjMWF0VlZPS3p2VlFxdFloandjQT0.png",
-          "url": "https://toss.im/_m/JWNisvii",
-          "_ts": 1790487627.801276
         }
       ]
     },
