@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "마루코메 즉석미소 미역 12식, 216g, 2개, 216g × 2개",
+          "price": "3,700원",
+          "discount_rate": 34,
+          "priceAt": "10.02 17:52",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1215952061457964-6e71de12-ee5e-4467-a6aa-aecac27690d1.jpg",
+          "url": "https://link.coupang.com/a/hwauEbQqOq",
+          "_ts": 1790931174.689246
+        },
+        {
           "name": "번개표 개별스위치 멀티탭 3구 WI-MC21633V, 1.5m, 화이트, 1개",
           "price": "5,810원",
           "discount_rate": 51,
@@ -1104,15 +1113,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/167339704167283-297cf71e-7393-4e1a-8f3c-63973be6cb37.jpg",
           "url": "https://link.coupang.com/a/hnZ1CXCiRg",
           "_ts": 1790505934.4157069
-        },
-        {
-          "name": "액츠 퍼펙트 실내건조 일반용 프레시 플로럴향 액상세제 본품, 3.2L, 1개",
-          "price": "7,950원",
-          "discount_rate": 23,
-          "priceAt": "09.27 17:45",
-          "image": "https://image2.coupangcdn.com/image/retail/images/57158726844058-5f532d39-0cbe-4379-ac54-9f6c2593b978.jpg",
-          "url": "https://link.coupang.com/a/hnRsN63uFM",
-          "_ts": 1790498748.251572
         }
       ]
     },
