@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "플라하반 유기농 포리지오트, 500g, 1개, 500g × 1개",
+          "price": "11,990원",
+          "discount_rate": 20,
+          "priceAt": "10.02 13:13",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5656024571239423-e0ed4f5b-57dd-4685-a844-42005af87ccd.jpeg",
+          "url": "https://link.coupang.com/a/hvQyFA8GWa",
+          "_ts": 1790914438.798574
+        },
+        {
           "name": "팔도 비빔장 시그니처, 310g, 2개",
           "price": "4,880원",
           "discount_rate": 28,
