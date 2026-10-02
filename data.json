@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "차오차이 짜장 혼합 5종 x 2p 세트, 180g, 1세트",
+          "price": "12,810원",
+          "discount_rate": 23,
+          "priceAt": "10.02 12:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/622973407518814-2e211b9f-f34a-453d-9245-27fe4dcd42e2.jpg",
+          "url": "https://link.coupang.com/a/hvL6K6azAW",
+          "_ts": 1790910702.6533859
+        },
+        {
           "name": "아키클래식 고스트 남녀공용 운동화 AKAHAUW09, 270",
           "price": "27,300원",
           "discount_rate": 69,
@@ -1095,24 +1104,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/19/10/0/02e1d5a9-01b4-4e99-96ae-3ff4034cf481.jpg",
           "url": "https://link.coupang.com/a/hnuCnnpJ80",
           "_ts": 1790479566.235424
-        },
-        {
-          "name": "닥터페퍼 제로, 350ml, 24개",
-          "price": "12,990원",
-          "discount_rate": 42,
-          "priceAt": "09.27 12:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/114437925066562-e8d85298-7509-4912-ae2c-bf5083f168b4.jpg",
-          "url": "https://link.coupang.com/a/hntm9OsFhc",
-          "_ts": 1790478520.663083
-        },
-        {
-          "name": "릴리바이레드 스윗 라이어 밀키 틴트, 02 로즈 커스터드인 척, 1개",
-          "price": "5,680원",
-          "discount_rate": 34,
-          "priceAt": "09.27 12:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/167552542964314-f2362c62-0f83-4e22-8262-7543c5f1c5a7.jpg",
-          "url": "https://link.coupang.com/a/hnsQus6poq",
-          "_ts": 1790478077.083107
         }
       ]
     },
