@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아키클래식 고스트 남녀공용 운동화 AKAHAUW09, 270",
+          "price": "27,300원",
+          "discount_rate": 69,
+          "priceAt": "10.02 11:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2020/09/07/11/5/535ecab2-1b07-4bb0-8cce-eed72b7253c9.jpg",
+          "url": "https://link.coupang.com/a/hvKQ3DDgfQ",
+          "_ts": 1790909649.4816399
+        },
+        {
           "name": "크래프트 아보카도 오일 마요네즈, 2개, 354ml",
           "price": "5,980원",
           "discount_rate": 42,
@@ -1781,15 +1790,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/ZGZlNTMz/QUxCTFBSeE52TGJiaHVaSjVUbGJMVHpQcExiYkh0TkpKTEZMdHR0T3RFa2s.png",
           "url": "https://toss.im/_m/Jwl8licb",
           "_ts": 1790478836.6895192
-        },
-        {
-          "name": "센토 프라임 고불소 구취케어 치약 아쿠아민트향, 120g, 4개",
-          "price": "9,900원",
-          "discount_rate": 53,
-          "priceAt": "09.27 11:38",
-          "image": "https://shopping.toss.im/live/temp/2026-06-09/b8f4256c-94c8-4e62-9a68-a4ae569808a1.jpeg",
-          "url": "https://toss.im/_m/LQvf1L47",
-          "_ts": 1790476722.370991
         }
       ]
     },
