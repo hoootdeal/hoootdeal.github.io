@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 스위트콘, 340g, 3개, 340g × 3개",
+          "price": "3,870원",
+          "discount_rate": 37,
+          "priceAt": "10.02 09:03",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/320342467364406-88d00970-fba4-4789-a36e-49583e51d21d.png",
+          "url": "https://link.coupang.com/a/hvyGPXMHls",
+          "_ts": 1790899433.980306
+        },
+        {
           "name": "솔가 여성용 멀티비타민 & 미네랄, 60정, 1개, 60정 × 1개",
           "price": "10,040원",
           "discount_rate": 21,
@@ -1077,15 +1086,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/63332164764693-2a9a1f7b-9633-4107-9228-ad8afd87e3b1.jpg",
           "url": "https://link.coupang.com/a/hnkmZyojUi",
           "_ts": 1790470960.810045
-        },
-        {
-          "name": "까페리얼 아메리카노 블랙 무라벨, 20개, 350ml",
-          "price": "13,930원",
-          "discount_rate": 30,
-          "priceAt": "09.27 09:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/154912394493690-c67aabc5-d3c2-4ee2-951e-3563a9a444a3.jpg",
-          "url": "https://link.coupang.com/a/hnfUmjwHaC",
-          "_ts": 1790467214.749624
         }
       ]
     },
