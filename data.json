@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "번개표 개별스위치 멀티탭 3구 WI-MC21633V, 1.5m, 화이트, 1개",
+          "price": "5,810원",
+          "discount_rate": 51,
+          "priceAt": "10.02 16:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/df1a/cc589644e35fb32e9313ec0ed6f5d713aac3f5f37cd8eea45800169725d4.jpg",
+          "url": "https://link.coupang.com/a/hv6tWo733k",
+          "_ts": 1790927807.403095
+        },
+        {
           "name": "함소아 리포퍼 철분가득 30포 1개월분, 45g, 1개, 45g × 1개",
           "price": "8,720원",
           "discount_rate": 23,
@@ -1104,24 +1113,6 @@
           "image": "https://image2.coupangcdn.com/image/retail/images/57158726844058-5f532d39-0cbe-4379-ac54-9f6c2593b978.jpg",
           "url": "https://link.coupang.com/a/hnRsN63uFM",
           "_ts": 1790498748.251572
-        },
-        {
-          "name": "크리넥스 코튼처럼 부드러운 프리미엄 미니티슈 카카오프렌즈, 230매입, 6개",
-          "price": "5,820원",
-          "discount_rate": 28,
-          "priceAt": "09.27 16:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/67558851664189-c0ce92d3-9e30-4cb5-9d64-a8453707f263.jpg",
-          "url": "https://link.coupang.com/a/hnLpNSqXBs",
-          "_ts": 1790493668.578655
-        },
-        {
-          "name": "세노비스 트리플러스 3in1 프리미엄 멀티비타민, 100정, 1개",
-          "price": "26,920원",
-          "discount_rate": 21,
-          "priceAt": "09.27 16:19",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/958093856363818-1b1466e4-330f-45a7-8934-226e0ad08e3c.jpg",
-          "url": "https://link.coupang.com/a/hnLjxgI5Tg",
-          "_ts": 1790493583.6843588
         }
       ]
     },
@@ -1781,15 +1772,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/OTg1MDQ2/QUpadXBhRjlLNHZaZmxSQ1k2bVRHMGxVN0tjbktaQ05pVkpycThOTm5CYWw.png",
           "url": "https://toss.im/_m/xCHBD562",
           "_ts": 1790498184.810511
-        },
-        {
-          "name": "산들내음 산림방사 유정란, 난각번호 1번, 60구, 1박스",
-          "price": "22,900원",
-          "discount_rate": 59,
-          "priceAt": "09.27 16:18",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MDc5ODhh/QVBBY01NMEE0YksydGdiYnB4TjlZSmJNWTRkTkU0S2VjSkJQV0dkQkxOZmw.png",
-          "url": "https://toss.shopping/_m/F5Mxnua3",
-          "_ts": 1790493528.366691
         }
       ]
     },
