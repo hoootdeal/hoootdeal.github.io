@@ -1131,6 +1131,36 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "한예지 클린터치 위생장갑, 고급형, 200매, 4팩",
+          "price": "8,890원",
+          "discount_rate": 65,
+          "priceAt": "10.03 07:22",
+          "image": "https://shopping.toss.im/live/temp/2026-08-31/1f9e3722-fab5-4266-a398-d74542a4f2be.jpeg",
+          "url": "https://toss.shopping/_m/jjP8Rt37",
+          "_ts": 1790979761.792802,
+          "_flash": true
+        },
+        {
+          "name": "한우 1++ 3mm 대패설깃, 구이용, 냉장, 200g, 1개",
+          "price": "11,000원",
+          "discount_rate": 73,
+          "priceAt": "10.03 07:22",
+          "image": "https://shopping.toss.im/live/temp/2026-09-29/87392b81-c4ee-4820-8fd5-45f7ac76e27f.png",
+          "url": "https://toss.shopping/_m/zujEIbYk",
+          "_ts": 1790979761.792792,
+          "_flash": true
+        },
+        {
+          "name": "번개표 개별스위치 멀티탭 3구, 1.5m, 1개",
+          "price": "5,810원",
+          "discount_rate": 70,
+          "priceAt": "10.03 07:22",
+          "image": "https://shopping.toss.im/0c7/live/product/840635421/0c7dba1c-0661-436d-b102-46660e42a26a.jpg",
+          "url": "https://toss.shopping/_m/tsbAqn9C",
+          "_ts": 1790979761.7927759,
+          "_flash": true
+        },
+        {
           "name": "한우물 햄야채 볶음밥, 210g, 10개",
           "price": "9,990원",
           "discount_rate": 61,
@@ -1712,36 +1742,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-01-07/c4efa185-5b09-467a-b5d9-9eecf9ce16e9.jpeg",
           "url": "https://toss.im/_m/H1G67iye",
           "_ts": 1790568318.754963
-        },
-        {
-          "name": "나누담 물받이 밀폐용기, 3000ml, 2개",
-          "price": "5,950원",
-          "discount_rate": 55,
-          "priceAt": "09.28 07:22",
-          "image": "https://shopping.toss.im/live/taca/ai/YTg5NmYz/QVBzQ2xPazVxeHIranMrcU5lYm9qL2pTVkxXN05uUVQ2bG1JVC9kSGd5b0k.png",
-          "url": "https://toss.im/_m/H0AMZw0w",
-          "_ts": 1790547749.121263,
-          "_flash": true
-        },
-        {
-          "name": "이지앤프리 블랙 에디션 김치통, 블랙, 3.2L, 2통",
-          "price": "4,800원",
-          "discount_rate": 69,
-          "priceAt": "09.28 07:22",
-          "image": "https://shopping.toss.im/9a2/live/product/846585429/9a204993-3731-4186-8353-22d252d815af.jpg",
-          "url": "https://toss.im/_m/TfaHjEe6",
-          "_ts": 1790547749.121251,
-          "_flash": true
-        },
-        {
-          "name": "모노케어 3구개별 안전커버 멀티탭, 화이트, 1.5m, 1개",
-          "price": "5,530원",
-          "discount_rate": 72,
-          "priceAt": "09.28 07:22",
-          "image": "https://shopping.toss.im/live/temp/2026-09-22/a29f603c-119f-4792-aaf1-2c831bf7dec6.jpeg",
-          "url": "https://toss.im/_m/TbTKHdBj",
-          "_ts": 1790547749.121233,
-          "_flash": true
         }
       ]
     },
