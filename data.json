@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "함소아 리포퍼 철분가득 30포 1개월분, 45g, 1개, 45g × 1개",
+          "price": "8,720원",
+          "discount_rate": 23,
+          "priceAt": "10.02 16:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/276661627575434-0923367f-cc0a-49b9-b7d3-47bfaf542ce9.jpg",
+          "url": "https://link.coupang.com/a/hv2z7ceFWe",
+          "_ts": 1790924533.320426
+        },
+        {
           "name": "맑은물에 국산콩 맷돌촌두부, 300g, 2개, 300g × 2개",
           "price": "3,500원",
           "discount_rate": 23,
@@ -1113,15 +1122,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/958093856363818-1b1466e4-330f-45a7-8934-226e0ad08e3c.jpg",
           "url": "https://link.coupang.com/a/hnLjxgI5Tg",
           "_ts": 1790493583.6843588
-        },
-        {
-          "name": "유로푸드 유기농 레몬주스, 500ml, 1개, 500ml × 1개",
-          "price": "5,600원",
-          "discount_rate": 24,
-          "priceAt": "09.27 15:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/515788125002173-2f1f338a-ae62-4867-a8d1-843d908952df.jpg",
-          "url": "https://link.coupang.com/a/hnJyBWaclU",
-          "_ts": 1790492108.466191
         }
       ]
     },
@@ -1790,15 +1790,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/MDc5ODhh/QVBBY01NMEE0YksydGdiYnB4TjlZSmJNWTRkTkU0S2VjSkJQV0dkQkxOZmw.png",
           "url": "https://toss.shopping/_m/F5Mxnua3",
           "_ts": 1790493528.366691
-        },
-        {
-          "name": "해표 순알콩 양조간장, 840ml, 4개",
-          "price": "7,300원",
-          "discount_rate": 78,
-          "priceAt": "09.27 15:29",
-          "image": "https://shopping.toss.im/live/temp/2026-08-20/27c6f152-f67a-484f-8dbd-b91a5b905a60.jpeg",
-          "url": "https://toss.im/_m/dATgeKwx",
-          "_ts": 1790490547.285534
         }
       ]
     },
