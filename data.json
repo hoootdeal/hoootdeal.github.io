@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "팔도 비빔장 시그니처, 310g, 2개",
+          "price": "4,880원",
+          "discount_rate": 28,
+          "priceAt": "10.02 12:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/f1fb1c7d-0416-4224-a0af-2c3448c8fb3d2402218402527249640.png",
+          "url": "https://link.coupang.com/a/hvMjyfOegS",
+          "_ts": 1790910875.3141341
+        },
+        {
           "name": "차오차이 짜장 혼합 5종 x 2p 세트, 180g, 1세트",
           "price": "12,810원",
           "discount_rate": 23,
@@ -1772,15 +1781,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MDQ5Mzcy/QU0zbnRtUEpqbWtNTTh2TTR3OXRWYkY1UEJwR3BPenFSZy8wTkJ2eFVNMnQ.png",
           "url": "https://toss.im/_m/Xv7l9pnw",
           "_ts": 1790482752.903357
-        },
-        {
-          "name": "삼육김 쌈싸먹는김 들기름 곱창김, 11g, 20매, 20봉",
-          "price": "13,500원",
-          "discount_rate": 67,
-          "priceAt": "09.27 12:13",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/ZGZlNTMz/QUxCTFBSeE52TGJiaHVaSjVUbGJMVHpQcExiYkh0TkpKTEZMdHR0T3RFa2s.png",
-          "url": "https://toss.im/_m/Jwl8licb",
-          "_ts": 1790478836.6895192
         }
       ]
     },
