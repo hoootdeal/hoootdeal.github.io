@@ -1068,15 +1068,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/36360500172219-66329efe-c719-4dda-b9b6-5da347828743.jpg",
           "url": "https://link.coupang.com/a/hpwbgTzVWC",
           "_ts": 1790584990.9044359
-        },
-        {
-          "name": "아임비타 멀티비타민 아르기닌샷 14회분, 434g, 2개, 434g × 2개",
-          "price": "25,550원",
-          "discount_rate": 27,
-          "priceAt": "09.28 17:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/182978387686071-58fac823-e7fd-4758-a6f2-0b226bf8de24.jpg",
-          "url": "https://link.coupang.com/a/hpvgMMbJhQ",
-          "_ts": 1790584225.3467789
         }
       ]
     },
@@ -1085,6 +1076,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "오즈랜드 리얼 생감자스틱, 20g, 18봉, 1박스",
+          "price": "8,500원",
+          "discount_rate": 46,
+          "priceAt": "10.03 17:38",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MWU3ZjEy/Y2VRNW1qTFozck91YkszaEhXbXpjYWFSMXFOVDBsOGVKS1Y2SExWTTk3UT0.png",
+          "url": "https://toss.shopping/_m/tDqRa7my",
+          "_ts": 1791016728.04443
+        },
         {
           "name": "바른 돼지국밥, 500g, 5개",
           "price": "14,900원",
@@ -1697,15 +1697,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-09-16/7078f87f-9f1c-48e7-9955-4eae1d07612e.jpeg",
           "url": "https://toss.shopping/_m/HesQREH",
           "_ts": 1790589443.31515
-        },
-        {
-          "name": "가성비가브랜드다 이염방지 세탁시트, 200매, 1개",
-          "price": "6,800원",
-          "discount_rate": 65,
-          "priceAt": "09.28 17:23",
-          "image": "https://shopping.toss.im/live/taca/ai/YzE0MjUz/Smt6SnRteVpNMnphVGR1YkxXeHRKR1pza3lSdGpMYkdtU1poTnJKWnlOaz0.png",
-          "url": "https://toss.im/_m/9PquE6f2",
-          "_ts": 1790583793.280759
         }
       ]
     },
