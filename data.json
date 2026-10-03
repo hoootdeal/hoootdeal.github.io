@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "버큇칩 매콤한맛, 280g, 2개",
+          "price": "3,830원",
+          "discount_rate": 58,
+          "priceAt": "10.03 22:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/ae927f10-8284-44ad-98f1-558df1495b981201455087140558841.png",
+          "url": "https://link.coupang.com/a/hx67SXKvNk",
+          "_ts": 1791032461.578275
+        },
+        {
           "name": "우주쭈꾸미 볶음 (냉동), 500g, 1개, 500g × 1개",
           "price": "7,730원",
           "discount_rate": 25,
@@ -1652,15 +1661,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZGE1NWEw/T2h3UEtmbzVhVDJvUGExdGtQM2R2UVBrTnFVLzhXdTAvd083VWdBYi9NQT0.png",
           "url": "https://toss.im/_m/jExyqCM5",
           "_ts": 1790644980.252646
-        },
-        {
-          "name": "땡큐파머스 구운란, 대란, 30구, 1개",
-          "price": "11,400원",
-          "discount_rate": 46,
-          "priceAt": "09.28 22:00",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTZmNjA3/ZlJrb2MvMlh3Y0tDOG05ZUZsQjIzTkF1SlBrSDZDZ2ovUUg5QnNBVzI3UT0.png",
-          "url": "https://toss.im/_m/nume4A77",
-          "_ts": 1790600415.07042
         }
       ]
     },
