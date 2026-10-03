@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "클룹 애사비소다 망고 제로 탄산음료, 6개, 500ml",
+          "price": "4,520원",
+          "discount_rate": 48,
+          "priceAt": "10.03 12:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6616189808412-ec644e4e-6a89-481c-8cd4-4381ca2678e3.jpg",
+          "url": "https://link.coupang.com/a/hxrpUPuS9A",
+          "_ts": 1790997441.264489
+        },
+        {
           "name": "오션스프레이 크랜베리 주스, 3L, 2개",
           "price": "9,990원",
           "discount_rate": 35,
@@ -1086,15 +1095,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/18133640888615-1921bf47-5259-4d13-bf22-4f7bbfb8b0c5.jpg",
           "url": "https://link.coupang.com/a/hpbmXU0n6G",
           "_ts": 1790567518.094393
-        },
-        {
-          "name": "풀무원 가락 유부우동 2인분, 425.2g, 2개",
-          "price": "9,340원",
-          "discount_rate": 38,
-          "priceAt": "09.28 11:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4c2205ae-ad25-4e53-b514-67d9de0081c48986628280729660057.png",
-          "url": "https://link.coupang.com/a/ho7DzBg016",
-          "_ts": 1790564384.0901499
         }
       ]
     },
