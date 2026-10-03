@@ -1023,33 +1023,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/ec71/714aa78c194c545af192c71c81b7a780701d9cb084a05aa15c14dd848bbb.jpg",
           "url": "https://link.coupang.com/a/hpKnNDR3nM",
           "_ts": 1790596915.7428422
-        },
-        {
-          "name": "맥스봉 오리지널 15p, 525g, 1개, 525g × 1개",
-          "price": "5,480원",
-          "discount_rate": 23,
-          "priceAt": "09.28 20:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/542113900919745-281b02af-5d43-477f-9c1a-43e023b14876.jpg",
-          "url": "https://link.coupang.com/a/hpGja9mCKO",
-          "_ts": 1790593498.969418
-        },
-        {
-          "name": "하이뮨 프로틴 밸런스 드링크믹스 RTD, 190ml, 24개, 190ml × 24개",
-          "price": "19,990원",
-          "discount_rate": 20,
-          "priceAt": "09.28 19:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/02/07/14/9/8fcf66ab-e68f-498c-9078-a004d3feebaf.jpg",
-          "url": "https://link.coupang.com/a/hpCphAsSjY",
-          "_ts": 1790590215.8206
-        },
-        {
-          "name": "잘풀리는집 천연펄프 롤키친타올, 6롤, 7개",
-          "price": "15,120원",
-          "discount_rate": 39,
-          "priceAt": "09.28 18:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/42540192662995-fb0ac1b2-25a5-4857-bbc9-e4dd781a8928.jpg",
-          "url": "https://link.coupang.com/a/hpyfMdDWE1",
-          "_ts": 1790586730.810983
         }
       ]
     },
@@ -1058,6 +1031,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "맛팜 국내산 미니족, 400g, 5개",
+          "price": "19,800원",
+          "discount_rate": 60,
+          "priceAt": "10.03 20:16",
+          "image": "https://shopping.toss.im/live/temp/2026-03-11/f26fd173-7a2c-4b68-be27-bf763bad1336.jpeg",
+          "url": "https://toss.shopping/_m/9nFa9Sqt",
+          "_ts": 1791026169.703412
+        },
         {
           "name": "홍로 세척사과, 16-25과 내외, 3kg, 1박스",
           "price": "11,800원",
@@ -1670,24 +1652,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZTZmNjA3/ZlJrb2MvMlh3Y0tDOG05ZUZsQjIzTkF1SlBrSDZDZ2ovUUg5QnNBVzI3UT0.png",
           "url": "https://toss.im/_m/nume4A77",
           "_ts": 1790600415.07042
-        },
-        {
-          "name": "수뜰리에 섬유유연제 소프트 비누향, 2.5L, 4개",
-          "price": "8,900원",
-          "discount_rate": 77,
-          "priceAt": "09.28 19:26",
-          "image": "https://shopping.toss.im/live/temp/2026-08-10/1e4fe51d-5eff-40b9-82e5-057e3a8529d9.png",
-          "url": "https://toss.im/_m/RrVPGMGo",
-          "_ts": 1790591197.23775
-        },
-        {
-          "name": "일양약품 눈건강 루테인 골드, 30캡슐, 6개",
-          "price": "17,800원",
-          "discount_rate": 94,
-          "priceAt": "09.28 18:57",
-          "image": "https://shopping.toss.im/live/temp/2026-09-16/7078f87f-9f1c-48e7-9955-4eae1d07612e.jpeg",
-          "url": "https://toss.shopping/_m/HesQREH",
-          "_ts": 1790589443.31515
         }
       ]
     },
