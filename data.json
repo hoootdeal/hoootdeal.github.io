@@ -1068,42 +1068,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1351122038647317-cd059b5c-5654-4e27-949a-7446055483ff.jpg",
           "url": "https://link.coupang.com/a/hpgQVVmxNc",
           "_ts": 1790572121.988378
-        },
-        {
-          "name": "펩시 제로슈거 라임향, 250ml, 30개",
-          "price": "13,600원",
-          "discount_rate": 20,
-          "priceAt": "09.28 13:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/11/28/11/6/512f0540-062b-464f-98bb-f0327ba99fc1.png",
-          "url": "https://link.coupang.com/a/hpcKwQp1B6",
-          "_ts": 1790568676.439589
-        },
-        {
-          "name": "배홍동 막국수 114g, 12개",
-          "price": "7,170원",
-          "discount_rate": 25,
-          "priceAt": "09.28 13:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/603635707696969-e3ae84a1-3930-41a5-becf-a4a9a0c7b5a0.jpg",
-          "url": "https://link.coupang.com/a/hpcsdEytNc",
-          "_ts": 1790568428.1355038
-        },
-        {
-          "name": "밸러니티 대마종자유 1000 32.1g, 30정, 1개",
-          "price": "2,420원",
-          "discount_rate": 68,
-          "priceAt": "09.28 12:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/485655462622-2773caf2-a8fb-4e10-960b-143ea088aa42.jpg",
-          "url": "https://link.coupang.com/a/hpbGCkuyBw",
-          "_ts": 1790567782.712909
-        },
-        {
-          "name": "종근당 황제 침향단 + 쇼핑백, 112.5g, 1개, 112.5g × 1개",
-          "price": "19,860원",
-          "discount_rate": 37,
-          "priceAt": "09.28 12:51",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/18133640888615-1921bf47-5259-4d13-bf22-4f7bbfb8b0c5.jpg",
-          "url": "https://link.coupang.com/a/hpbmXU0n6G",
-          "_ts": 1790567518.094393
         }
       ]
     },
@@ -1112,6 +1076,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
+          "price": "5,450원",
+          "discount_rate": 63,
+          "priceAt": "10.03 13:24",
+          "image": "https://shopping.toss.im/live/taca/ai/YmI1NGJk/QUpobU9jOXRzYlNac25uSVpEbW03Wm1lVTF0TXkweFlNekR6VXNubkhLY00.png",
+          "url": "https://toss.shopping/_m/7cAsXrbr",
+          "_ts": 1791001444.19983
+        },
         {
           "name": "고기중독 한입삼겹살, 500g, 4개",
           "price": "19,900원",
@@ -1733,15 +1706,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-24/eb34e696-dad0-4ba7-af96-0fc35170de17.png",
           "url": "https://toss.shopping/_m/hwhHkl8n",
           "_ts": 1790571061.5152729
-        },
-        {
-          "name": "쏘울너츠 100% 땅콩버터, 크런치 500g 1개 + 스무스 500g 1개, 2개",
-          "price": "8,200원",
-          "discount_rate": 67,
-          "priceAt": "09.28 13:05",
-          "image": "https://shopping.toss.im/live/temp/2026-01-07/c4efa185-5b09-467a-b5d9-9eecf9ce16e9.jpeg",
-          "url": "https://toss.im/_m/H1G67iye",
-          "_ts": 1790568318.754963
         }
       ]
     },
