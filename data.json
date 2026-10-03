@@ -1041,33 +1041,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/42540192662995-fb0ac1b2-25a5-4857-bbc9-e4dd781a8928.jpg",
           "url": "https://link.coupang.com/a/hpyfMdDWE1",
           "_ts": 1790586730.810983
-        },
-        {
-          "name": "무연골 돌돌말이 대패삼겹살 (냉동), 1kg, 1개",
-          "price": "8,530원",
-          "discount_rate": 26,
-          "priceAt": "09.28 17:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1417773117971752-b5593ce2-9d71-4636-9327-1fdf81d7d8f7.jpg",
-          "url": "https://link.coupang.com/a/hpwYdEjLOe",
-          "_ts": 1790585654.225437
-        },
-        {
-          "name": "해태제과 오예스 미니 크림소다맛, 192g, 2개",
-          "price": "3,750원",
-          "discount_rate": 25,
-          "priceAt": "09.28 17:49",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7aa898fa-0716-4d9c-87ad-1837d98e0f447982471331101464409.png",
-          "url": "https://link.coupang.com/a/hpwEmyCLpQ",
-          "_ts": 1790585385.850629
-        },
-        {
-          "name": "클룹 애사비소다 매실 제로 탄산음료, 250ml, 24개, 250ml × 24개",
-          "price": "10,460원",
-          "discount_rate": 30,
-          "priceAt": "09.28 17:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/36360500172219-66329efe-c719-4dda-b9b6-5da347828743.jpg",
-          "url": "https://link.coupang.com/a/hpwbgTzVWC",
-          "_ts": 1790584990.9044359
         }
       ]
     },
@@ -1076,6 +1049,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "홍로 세척사과, 16-25과 내외, 3kg, 1박스",
+          "price": "11,800원",
+          "discount_rate": 73,
+          "priceAt": "10.03 18:04",
+          "image": "https://shopping.toss.im/live/temp/2026-08-21/d289f62f-61d3-4143-b707-8a62b8fc5858.png",
+          "url": "https://toss.shopping/_m/rGM9n1vn",
+          "_ts": 1791018280.19773
+        },
         {
           "name": "오즈랜드 리얼 생감자스틱, 20g, 18봉, 1박스",
           "price": "8,500원",
