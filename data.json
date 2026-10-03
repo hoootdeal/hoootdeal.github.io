@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "우주쭈꾸미 볶음 (냉동), 500g, 1개, 500g × 1개",
+          "price": "7,730원",
+          "discount_rate": 25,
+          "priceAt": "10.03 20:25",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/jxdx9uss/aba7c36aca6b4ea4b853598be08c70f0.jpg",
+          "url": "https://link.coupang.com/a/hx0j9weIBo",
+          "_ts": 1791026749.669824
+        },
+        {
           "name": "오뚜기프레스코 마카로니, 500g, 2개, 500g × 2개",
           "price": "3,280원",
           "discount_rate": 40,
