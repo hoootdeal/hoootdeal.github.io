@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "광천김 참 김자반, 70g, 8개",
+          "price": "16,900원",
+          "discount_rate": 35,
+          "priceAt": "10.03 16:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/eabcb47c-6e65-480a-8502-3e9ac3063651_fixing_v2.png",
+          "url": "https://link.coupang.com/a/hxJUTJUmFU",
+          "_ts": 1791012974.32587
+        },
+        {
           "name": "동원 통그릴 후랑크, 240g, 4개, 240g × 4개",
           "price": "9,980원",
           "discount_rate": 35,
