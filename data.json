@@ -1104,33 +1104,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/07/24/17/9/9b1d8b51-cd68-47e6-bfb9-322502ee839c.jpg",
           "url": "https://link.coupang.com/a/ho18krxYJM",
           "_ts": 1790559762.045132
-        },
-        {
-          "name": "프로그 팔목긴 위생장갑, 50개입, 1개",
-          "price": "3,990원",
-          "discount_rate": 53,
-          "priceAt": "09.28 10:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/123392203800498-05ff80a5-0b74-4b98-be83-7b7668d162bd.jpg",
-          "url": "https://link.coupang.com/a/ho0oiTvOxM",
-          "_ts": 1790558299.9816551
-        },
-        {
-          "name": "나인웨어 올디너리 테이블 시리즈 브런치 세트 4p, 빈티지그레이, 트레이 + 스프컵 + 소스볼 + 사각접시, 1세트",
-          "price": "6,990원",
-          "discount_rate": 45,
-          "priceAt": "09.28 10:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/475848723612882-4b585306-f166-429e-b5df-c4b7ded4108d.jpg",
-          "url": "https://link.coupang.com/a/hoZZQiKW5s",
-          "_ts": 1790557968.707703
-        },
-        {
-          "name": "마이노멀 밀가루 ZERO 두부면, 180g, 5개, 180g × 5개",
-          "price": "8,790원",
-          "discount_rate": 37,
-          "priceAt": "09.28 10:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/26/18/1/09d978a7-fb0c-41fa-a3b5-838682795525.jpg",
-          "url": "https://link.coupang.com/a/hoZNT7cF64",
-          "_ts": 1790557806.363976
         }
       ]
     },
@@ -1139,6 +1112,15 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "하이뮨 프로틴 밸런스 액티브 제로, 밤티라미수, 250ml, 18개",
+          "price": "19,900원",
+          "discount_rate": 64,
+          "priceAt": "10.03 10:21",
+          "image": "https://shopping.toss.im/live/temp/2025-07-28/0c4bf6fe-c2e8-40ee-aeb6-ce062de0c2ce.jpeg",
+          "url": "https://toss.shopping/_m/FounK7Ie",
+          "_ts": 1790990510.163481
+        },
         {
           "name": "한예지 클린터치 위생장갑, 고급형, 200매, 4팩",
           "price": "8,890원",
