@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데이라이프 착한 롤백 소 17cm x 25cm, 소(S), 500개입, 2개",
+          "price": "8,360원",
+          "discount_rate": 33,
+          "priceAt": "10.03 12:49",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/xwa0efcs/cb7eed3f7be740ddac207b5b93c021ae.jpg",
+          "url": "https://link.coupang.com/a/hxtIsZAaOW",
+          "_ts": 1790999373.2587142
+        },
+        {
           "name": "클룹 애사비소다 망고 제로 탄산음료, 6개, 500ml",
           "price": "4,520원",
           "discount_rate": 48,
