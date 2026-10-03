@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크라운 빙수하임 중, 142g, 2개",
+          "price": "3,870원",
+          "discount_rate": 35,
+          "priceAt": "10.03 09:03",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/e16bf889-2871-47e4-8844-a81f253fc6b04650194221884197194.png",
+          "url": "https://link.coupang.com/a/hxdxXrwZ0C",
+          "_ts": 1790985796.798315
+        },
+        {
           "name": "갓비움 프리바이오틱스 음료, 100ml, 5개, 100ml × 5개",
           "price": "6,090원",
           "discount_rate": 50,
@@ -1104,24 +1113,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/a256/2fdb38263e8c852eab0ae15b5855d7a19f249c6fb7433e2dea71a2ca57bc.jpg",
           "url": "https://link.coupang.com/a/hoYlI5dVYW",
           "_ts": 1790556586.386252
-        },
-        {
-          "name": "코카콜라 오리지널, 350ml, 24개",
-          "price": "18,100원",
-          "discount_rate": 20,
-          "priceAt": "09.28 09:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/45775547563672-e9b83757-fd28-4a5d-92de-7ce0af9bf330.jpg",
-          "url": "https://link.coupang.com/a/hoUNDGFzEW",
-          "_ts": 1790553605.403359
-        },
-        {
-          "name": "바삭칩 바삭팝콘 스팸맛, 2개, 55g",
-          "price": "2,000원",
-          "discount_rate": 63,
-          "priceAt": "09.28 08:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/bd466677-8f62-4b7c-8c67-decbd7d9a8c910721486961474759506.png",
-          "url": "https://link.coupang.com/a/hoUvN5C8C4",
-          "_ts": 1790553363.727902
         }
       ]
     },
