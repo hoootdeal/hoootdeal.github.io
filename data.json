@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "버터와플 이즈니, 158g, 3개",
+          "price": "6,750원",
+          "discount_rate": 29,
+          "priceAt": "10.03 14:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/0ff16bfe-4bd3-421c-b326-7af2a895446514322601109420110969.png",
+          "url": "https://link.coupang.com/a/hxztGe9NpQ",
+          "_ts": 1791004209.6934772
+        },
+        {
           "name": "오뚜기 컵밥 얼큰 순후추 돼지국밥, 2개, 311.5g",
           "price": "5,000원",
           "discount_rate": 37,
@@ -1068,15 +1077,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/46ad/bed24b44677a9a60267c885289ee55cad8b034d304e500468ebcf0a3b67c.png",
           "url": "https://link.coupang.com/a/hphvCIsEBU",
           "_ts": 1790572672.762586
-        },
-        {
-          "name": "샤오커오라 민트향 비타민C 과일 12종 믹스 무설탕 사탕 캔디, 100g, 3개, 100g × 3개",
-          "price": "6,150원",
-          "discount_rate": 66,
-          "priceAt": "09.28 14:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1351122038647317-cd059b5c-5654-4e27-949a-7446055483ff.jpg",
-          "url": "https://link.coupang.com/a/hpgQVVmxNc",
-          "_ts": 1790572121.988378
         }
       ]
     },
@@ -1706,15 +1706,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ODBlOWM0/UksvYzZsNFdKb0FHVlRKUkxzcmRhUDBQenFMa3ZHaEhrckZGTHRIU0VIdz0.png",
           "url": "https://toss.im/_m/pmhcznPo",
           "_ts": 1790576538.1916292
-        },
-        {
-          "name": "불도깨비 칠리 치즈스틱, 500g, 1개",
-          "price": "9,900원",
-          "discount_rate": 54,
-          "priceAt": "09.28 13:51",
-          "image": "https://shopping.toss.im/live/temp/2026-08-24/eb34e696-dad0-4ba7-af96-0fc35170de17.png",
-          "url": "https://toss.shopping/_m/hwhHkl8n",
-          "_ts": 1790571061.5152729
         }
       ]
     },
