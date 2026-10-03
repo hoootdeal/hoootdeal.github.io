@@ -289,6 +289,33 @@ main {
   background: var(--border);
 }
 
+/* 썸네일 틀 — 품절 막을 이미지 위에 얹으려고 감싼다(이미지 크기·모서리는 위 `.product-row img` 그대로). */
+.product-thumb {
+  position: relative;
+  flex-shrink: 0;
+  display: block;
+  width: 74px;
+  height: 74px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+/* 품절(하루 판매 수량 소진, `sold_out`) — 썸네일만 어둡게 하고 가운데 '품절'. 이름·가격·순위·링크는 그대로 둔다
+   (다음 날 다시 풀리는 상품이라 눌러서 찜·알림을 받을 수 있다). 사진 위라 테마와 무관하게 흰 글자. */
+.product-sold .product-thumb::after {
+  content: "품절";
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(20, 20, 24, 0.52);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+}
+
 /* 랭킹 탭(BEST50) 전용 순위 컬럼. 격자 시절의 이미지 위 배지를 대체한다 — 리스트에서는
    숫자가 세로로 정렬돼 그 자체로 랭킹표처럼 읽히므로 판·그림자가 필요 없다. */
 .product-rank {

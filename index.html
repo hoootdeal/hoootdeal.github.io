@@ -90,6 +90,16 @@
   }
 
 
+  // 품절(하루 판매 수량 소진)은 00시에 다시 풀린다 — **오늘(한국 시각) 판정한 것만** 품절로 그린다(TX358).
+  // 판정 시각(_sold_at)이 없거나 어제 것이면 표시하지 않는다(모르면 품절로 두지 않는다).
+  function kstDay(ms) {
+    return new Date(ms + 9 * 3600 * 1000).toISOString().slice(0, 10);
+  }
+  function isSoldToday(product) {
+    return product.sold_out === true && typeof product._sold_at === "number"
+      && kstDay(product._sold_at * 1000) === kstDay(Date.now());
+  }
+
   function formatRelativeTime(ts) {
     const diffMin = (Date.now() / 1000 - ts) / 60;
     if (diffMin < 1) return "방금";
@@ -232,10 +242,10 @@
               // 받아 깨진 그림 + 불필요한 요청). 파이프라인이 쓰는 것과 같은 플레이스홀더로 대체.
               const image = sanitizeUrl(product.image) || "images/placeholder.svg";
               return `
-              <a class="product-row${hasRank && rank <= 3 ? " product-row-top" : ""}"
+              <a class="product-row${hasRank && rank <= 3 ? " product-row-top" : ""}${isSoldToday(product) ? " product-sold" : ""}"
                  ${href ? `href="${escapeHtml(href)}"${isTossUrl(href) ? "" : ` target="_blank" rel="noopener"`}` : ""}>
                 ${hasRank ? `<span class="product-rank">${rank}</span>` : ""}
-                <img src="${escapeHtml(image)}" alt="" loading="lazy" referrerpolicy="no-referrer" />
+                <span class="product-thumb"><img src="${escapeHtml(image)}" alt="" loading="lazy" referrerpolicy="no-referrer" /></span>
                 <span class="product-info">
                   <span class="product-name">${escapeHtml(product.name)}</span>
                   <span class="product-price-row">
