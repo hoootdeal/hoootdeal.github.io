@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기프레스코 마카로니, 500g, 2개, 500g × 2개",
+          "price": "3,280원",
+          "discount_rate": 40,
+          "priceAt": "10.03 18:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1416749262015916-a9a58368-af25-4a93-a932-6ac566f9f893.jpg",
+          "url": "https://link.coupang.com/a/hxQJChuWjc",
+          "_ts": 1791018697.9826329
+        },
+        {
           "name": "바릴라 엔젤헤어 파스타면, 500g, 2개",
           "price": "4,480원",
           "discount_rate": 55,
