@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "콘칲 군옥수수맛, 148g, 4개",
+          "price": "6,160원",
+          "discount_rate": 49,
+          "priceAt": "10.03 09:05",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/319697515974634-ca853793-c15e-4b21-9213-c1617fd39933.jpg",
+          "url": "https://link.coupang.com/a/hxdJOG3BPE",
+          "_ts": 1790985958.2595751
+        },
+        {
           "name": "크라운 빙수하임 중, 142g, 2개",
           "price": "3,870원",
           "discount_rate": 35,
