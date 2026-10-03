@@ -1095,15 +1095,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4c2205ae-ad25-4e53-b514-67d9de0081c48986628280729660057.png",
           "url": "https://link.coupang.com/a/ho7DzBg016",
           "_ts": 1790564384.0901499
-        },
-        {
-          "name": "한촌 설렁탕집 설렁탕, 500g, 4개, 500g × 4개",
-          "price": "13,320원",
-          "discount_rate": 47,
-          "priceAt": "09.28 11:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/154942482139321-b8a38633-2cc1-4661-9758-2a718c68e9ac.jpg",
-          "url": "https://link.coupang.com/a/ho5leByzh6",
-          "_ts": 1790562456.825929
         }
       ]
     },
@@ -1112,6 +1103,36 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+          "price": "4,990원",
+          "discount_rate": 66,
+          "priceAt": "10.03 11:31",
+          "image": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
+          "url": "https://toss.shopping/_m/dXoRinis",
+          "_ts": 1790994702.271094,
+          "_flash": true
+        },
+        {
+          "name": "맛꾼 메추리알 장조림, 1kg, 2개",
+          "price": "8,900원",
+          "discount_rate": 55,
+          "priceAt": "10.03 11:31",
+          "image": "https://shopping.toss.im/live/temp/2026-03-24/2eca8ca1-f347-4ec1-bbfa-56e8042f5e2d.jpeg",
+          "url": "https://toss.shopping/_m/p6unodAt",
+          "_ts": 1790994702.271083,
+          "_flash": true
+        },
+        {
+          "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
+          "price": "12,800원",
+          "discount_rate": 66,
+          "priceAt": "10.03 11:31",
+          "image": "https://shopping.toss.im/live/temp/2025-12-02/5e5f2029-7f7c-4511-bbc1-606a56a117b1.jpeg",
+          "url": "https://toss.im/_m/lqS07rCp",
+          "_ts": 1790994702.271061,
+          "_flash": true
+        },
         {
           "name": "하이뮨 프로틴 밸런스 액티브 제로, 밤티라미수, 250ml, 18개",
           "price": "19,900원",
@@ -1324,16 +1345,6 @@
           "_flash": true
         },
         {
-          "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
-          "price": "12,800원",
-          "discount_rate": 66,
-          "priceAt": "10.02 07:21",
-          "image": "https://shopping.toss.im/live/temp/2025-12-02/5e5f2029-7f7c-4511-bbc1-606a56a117b1.jpeg",
-          "url": "https://toss.im/_m/lqS07rCp",
-          "_ts": 1790893315.810834,
-          "_flash": true
-        },
-        {
           "name": "키핀터치 사계 매듭 듀이 글로우 틴트, 03 자두빙수, 3.2g, 1개",
           "price": "3,490원",
           "discount_rate": 76,
@@ -1497,16 +1508,6 @@
           "_ts": 1790819810.3801758
         },
         {
-          "name": "맛꾼 메추리알 장조림, 1kg, 2개",
-          "price": "8,900원",
-          "discount_rate": 55,
-          "priceAt": "10.01 07:22",
-          "image": "https://shopping.toss.im/live/temp/2026-03-24/2eca8ca1-f347-4ec1-bbfa-56e8042f5e2d.jpeg",
-          "url": "https://toss.shopping/_m/p6unodAt",
-          "_ts": 1790806930.6708832,
-          "_flash": true
-        },
-        {
           "name": "호정가 군고구마도나스, 960g, 16개입, 1개",
           "price": "4,990원",
           "discount_rate": 68,
@@ -1524,16 +1525,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-09-10/0b848b3d-1dea-4f3b-85f3-9be3da965e17.png",
           "url": "https://toss.shopping/_m/bo5S6Rfm",
           "_ts": 1790806914.3958101,
-          "_flash": true
-        },
-        {
-          "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-          "price": "4,990원",
-          "discount_rate": 66,
-          "priceAt": "10.01 07:21",
-          "image": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
-          "url": "https://toss.shopping/_m/dXoRinis",
-          "_ts": 1790806914.3957398,
           "_flash": true
         },
         {
