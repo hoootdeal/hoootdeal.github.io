@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청정원순창 우리쌀로 만든 100% 국산 고추장, 1kg, 1개, 1kg × 1개",
+          "price": "10,480원",
+          "discount_rate": 24,
+          "priceAt": "10.03 15:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2099550543706664-ded0047d-f362-4a96-ab7e-b3a7855bb5d2.jpg",
+          "url": "https://link.coupang.com/a/hxDMGVYSXs",
+          "_ts": 1791007826.229515
+        },
+        {
           "name": "버터와플 이즈니, 158g, 3개",
           "price": "6,750원",
           "discount_rate": 29,
@@ -1050,33 +1059,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/45561989066597-47a4d20d-4337-4e2d-a3cb-e6dcd1e12206.jpg",
           "url": "https://link.coupang.com/a/hprB2Ahv40",
           "_ts": 1790581156.31888
-        },
-        {
-          "name": "서울우유 동물성 생크림 500g, 500ml, 1개",
-          "price": "8,470원",
-          "discount_rate": 41,
-          "priceAt": "09.28 15:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5c48/04073e998126752c4c9d95a9a187f5ff4f30f89120ff8e08f07d86d2d439.jpg",
-          "url": "https://link.coupang.com/a/hpkNrawsKr",
-          "_ts": 1790575432.869432
-        },
-        {
-          "name": "Qicco 침대 매트리스 무음 포켓스프링 바닥 매트리스, 슈퍼싱글, 20cm, 중간",
-          "price": "24,800원",
-          "discount_rate": 62,
-          "priceAt": "09.28 14:40",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1379/d3c3d89c6b5a6ac3bc53c18b875c189d6bbc4bd6d81ee2fa2fe3b38efc3d.jpg",
-          "url": "https://link.coupang.com/a/hpi85wHuE1",
-          "_ts": 1790574045.702954
-        },
-        {
-          "name": "서강 크리밀 연유, 500g, 2개",
-          "price": "7,020원",
-          "discount_rate": 30,
-          "priceAt": "09.28 14:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/46ad/bed24b44677a9a60267c885289ee55cad8b034d304e500468ebcf0a3b67c.png",
-          "url": "https://link.coupang.com/a/hphvCIsEBU",
-          "_ts": 1790572672.762586
         }
       ]
     },
