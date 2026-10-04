@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "유라비 아동용 케이시 라운드넥 티셔츠, 100, 네이비",
+          "price": "5,900원",
+          "discount_rate": 63,
+          "priceAt": "10.05 08:33",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/447467104361476-44a3274b-6722-417e-969c-17cca28280a4.jpg",
+          "url": "https://link.coupang.com/a/hAvcxzsFsi",
+          "_ts": 1791156797.7902431
+        },
+        {
           "name": "그래놀라하우스 마카다미아 앤 카카오 그래놀라 리필용, 500g, 1개",
           "price": "14,040원",
           "discount_rate": 22,
@@ -933,15 +942,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a996/c565a55e6df9e54cf00cb800c5ab3bd58931bbaafa5eaf8c07c2b2df172e.jpg",
           "url": "https://link.coupang.com/a/hscWdnnMU8",
           "_ts": 1790725003.868163
-        },
-        {
-          "name": "퀘이커 마시는 오트밀 그레인 서리태 낱봉팩, 1kg, 1세트",
-          "price": "13,210원",
-          "discount_rate": 39,
-          "priceAt": "09.30 08:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/06/13/8/ebed0679-664f-4038-ad57-df740dffe40e.jpg",
-          "url": "https://link.coupang.com/a/hscdmbOdhY",
-          "_ts": 1790724396.190629
         }
       ]
     },
