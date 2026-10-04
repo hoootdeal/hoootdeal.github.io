@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "라라스윗 포도 제로바 (냉동), 2개, 6개입, 70ml",
+          "price": "5,640원",
+          "discount_rate": 54,
+          "priceAt": "10.05 08:48",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/428389322284564-98e3116a-2866-401c-8d9d-869e347b73ef.jpg",
+          "url": "https://link.coupang.com/a/hAwhUB7T7Q",
+          "_ts": 1791157710.5969431
+        },
+        {
           "name": "유라비 아동용 케이시 라운드넥 티셔츠, 100, 네이비",
           "price": "5,900원",
           "discount_rate": 63,
@@ -933,15 +942,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/34596278653464-caa22e7d-dff4-4c9a-a8da-143cd32d85aa.jpg",
           "url": "https://link.coupang.com/a/hsfk221u4O",
           "_ts": 1790727019.3060758
-        },
-        {
-          "name": "일본 목캔디 용각산 목사탕, 88g, 6개",
-          "price": "11,640원",
-          "discount_rate": 27,
-          "priceAt": "09.30 08:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a996/c565a55e6df9e54cf00cb800c5ab3bd58931bbaafa5eaf8c07c2b2df172e.jpg",
-          "url": "https://link.coupang.com/a/hscWdnnMU8",
-          "_ts": 1790725003.868163
         }
       ]
     },
