@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "락앤락 실리콘 지퍼백 1L 블루, 2개, 단품",
+          "price": "8,900원",
+          "discount_rate": 69,
+          "priceAt": "10.05 07:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/419291973856254-36c17705-eccb-4652-8394-8347dc8f0e62.jpg",
+          "url": "https://link.coupang.com/a/hAsz9aELxQ",
+          "_ts": 1791154598.529421
+        },
+        {
           "name": "풀무원 새콤달콤 유부초밥 4인분, 330g, 1개, 330g × 1개",
           "price": "3,240원",
           "discount_rate": 39,
@@ -924,33 +933,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/06/13/8/ebed0679-664f-4038-ad57-df740dffe40e.jpg",
           "url": "https://link.coupang.com/a/hscdmbOdhY",
           "_ts": 1790724396.190629
-        },
-        {
-          "name": "켈로그 라이스 크리스피 트리츠 바 오리지널, 1.32kg, 1개",
-          "price": "19,650원",
-          "discount_rate": 31,
-          "priceAt": "09.30 07:49",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0e71/91cdab68fe0add554b475adb907b31288d365fefbdb1d966d60cb9a52fec.jpg",
-          "url": "https://link.coupang.com/a/hr9zZtD8Vg",
-          "_ts": 1790722183.183755
-        },
-        {
-          "name": "에뛰드 NEW 마이 래쉬 세럼 속눈썹 영양제, 18g, 1개",
-          "price": "4,250원",
-          "discount_rate": 48,
-          "priceAt": "09.30 07:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/875714781626900-1a26b81c-72cc-4d8e-8b96-c1d8332e326d.jpg",
-          "url": "https://link.coupang.com/a/hr9m4nWiaq",
-          "_ts": 1790722008.898667
-        },
-        {
-          "name": "덴마크 목장 유기농 주스 사과 푸룬, 120ml, 32개",
-          "price": "10,300원",
-          "discount_rate": 33,
-          "priceAt": "09.30 07:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/24/13/6/b12c1d70-7f16-4465-8c69-9328fcb65a7b.jpg",
-          "url": "https://link.coupang.com/a/hr89vZM4wS",
-          "_ts": 1790721824.758912
         }
       ]
     },
