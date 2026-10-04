@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "덴마크산 우유로 만든 피자치즈, 900g, 1개, 1개입",
+          "price": "4,900원",
+          "discount_rate": 50,
+          "priceAt": "10.05 07:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/24002658741384-09edfd52-926f-4ab4-822f-1a6338080b5b.jpg",
+          "url": "https://link.coupang.com/a/hApLEPmgxM",
+          "_ts": 1791152237.6643999
+        },
+        {
           "name": "크리넥스 보습 에센스 로션 천연펄프 미용티슈 3겹, 150매, 6개",
           "price": "9,110원",
           "discount_rate": 37,
