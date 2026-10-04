@@ -951,6 +951,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "슬림떡볶이 로제맛, 230g, 4개",
+          "price": "5,530원",
+          "discount_rate": 64,
+          "priceAt": "10.05 07:22",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MzgzYjc2/QUlYSDJaK1huZzlNUHh0dVhleFo4YXp3ZkpoeEJmbE10djZodDA2QUZIbno.png",
+          "url": "https://toss.shopping/_m/3lrWbCFy",
+          "_ts": 1791152542.88813,
+          "_flash": true,
+          "_product_id": "2482486143"
+        },
+        {
+          "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
+          "price": "6,930원",
+          "discount_rate": 88,
+          "priceAt": "10.05 07:22",
+          "image": "https://shopping.toss.im/live/temp/2026-09-23/9072bbae-8462-4cc2-ab82-8c9b161d4680.png",
+          "url": "https://toss.shopping/_m/JsatPcRl",
+          "_ts": 1791152542.8881059,
+          "_flash": true,
+          "_product_id": "2653093475"
+        },
+        {
+          "name": "맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
+          "price": "5,950원",
+          "discount_rate": 80,
+          "priceAt": "10.05 07:22",
+          "image": "https://shopping.toss.im/live/temp/2026-08-03/a8c0ca14-34eb-45c6-bede-da24aaf71a61.jpeg",
+          "url": "https://toss.shopping/_m/9shjEXqt",
+          "_ts": 1791152542.888073,
+          "_flash": true,
+          "_product_id": "2566320999"
+        },
+        {
           "name": "G7 커피 퓨어블랙 라이트, 0.9g, 110개입, 1개",
           "price": "9,900원",
           "discount_rate": 60,
@@ -1230,16 +1263,6 @@
           "_flash": true
         },
         {
-          "name": "맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
-          "price": "5,950원",
-          "discount_rate": 80,
-          "priceAt": "10.02 11:31",
-          "image": "https://shopping.toss.im/live/temp/2026-08-03/a8c0ca14-34eb-45c6-bede-da24aaf71a61.jpeg",
-          "url": "https://toss.shopping/_m/9shjEXqt",
-          "_ts": 1790908319.4019358,
-          "_flash": true
-        },
-        {
           "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
           "price": "10,600원",
           "discount_rate": 62,
@@ -1385,18 +1408,6 @@
           "url": "https://toss.shopping/_m/PjzyV7zd",
           "_ts": 1790821924.0245829,
           "_flash": true
-        },
-        {
-          "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
-          "price": "6,930원",
-          "discount_rate": 88,
-          "priceAt": "10.01 11:31",
-          "image": "https://shopping.toss.im/live/temp/2026-09-23/9072bbae-8462-4cc2-ab82-8c9b161d4680.png",
-          "url": "https://toss.shopping/_m/JsatPcRl",
-          "_ts": 1790821906.4815629,
-          "_flash": true,
-          "sold_out": true,
-          "_sold_at": 1791125417.0
         },
         {
           "name": "포천이동 양념LA갈비, 500g, 1팩",
