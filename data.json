@@ -960,6 +960,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "달콤바삭 찹쌀누룽지, 520g, 2팩",
+          "price": "6,990원",
+          "discount_rate": 80,
+          "priceAt": "10.05 07:23",
+          "image": "https://shopping.toss.im/live/temp/2026-08-14/bc44ef07-9e52-4061-9828-b69ba98cdffa.png",
+          "url": "https://toss.shopping/_m/dTxCDUg7",
+          "_ts": 1791152584.2349288,
+          "_flash": true,
+          "_product_id": "2611490143"
+        },
+        {
+          "name": "맛팜 신 곱창볶음, 250g, 2개",
+          "price": "6,600원",
+          "discount_rate": 72,
+          "priceAt": "10.05 07:23",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/YWIzZjU3/QU92cGNPRXZIT2VhRUdPZlVxZXk4TXRLUDA4azAySkN6YXhEYldlVnpwTkk.png",
+          "url": "https://toss.shopping/_m/1wLSRBgx",
+          "_ts": 1791152584.234901,
+          "_flash": true,
+          "_product_id": "2536370261"
+        },
+        {
+          "name": "이롬 국내산 약콩 무가당 두유, 190ml, 16개",
+          "price": "4,990원",
+          "discount_rate": 70,
+          "priceAt": "10.05 07:23",
+          "image": "https://shopping.toss.im/live/temp/2026-08-11/15ffc29f-7783-4998-8e0d-a05f9af74909.png",
+          "url": "https://toss.shopping/_m/bhwXo4Sf",
+          "_ts": 1791152584.234855,
+          "_flash": true,
+          "_product_id": "2601104607"
+        },
+        {
           "name": "슬림떡볶이 로제맛, 230g, 4개",
           "price": "5,530원",
           "discount_rate": 64,
@@ -1054,18 +1087,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/Yzg3ZWVl/U2FOZHNSNXpPbHFsTk8wczl1YXg0VnJaemt5ckRwamt4WGlzVEY3QVdiST0.png",
           "url": "https://toss.shopping/_m/VrSLkdS1",
           "_ts": 1790997711.9440472
-        },
-        {
-          "name": "이롬 국내산 약콩 무가당 두유, 190ml, 16개",
-          "price": "4,990원",
-          "discount_rate": 70,
-          "priceAt": "10.03 11:31",
-          "image": "https://shopping.toss.im/live/temp/2026-08-11/15ffc29f-7783-4998-8e0d-a05f9af74909.png",
-          "url": "https://toss.shopping/_m/bhwXo4Sf",
-          "_ts": 1790994719.656257,
-          "_flash": true,
-          "sold_out": true,
-          "_sold_at": 1791125417.0
         },
         {
           "name": "수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
@@ -1250,26 +1271,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-03-06/4d9c7749-b71a-4815-9622-50747aeb997a.jpeg",
           "url": "https://toss.shopping/_m/XZKGyj0A",
           "_ts": 1790912908.437759
-        },
-        {
-          "name": "맛팜 신 곱창볶음, 250g, 2개",
-          "price": "6,600원",
-          "discount_rate": 72,
-          "priceAt": "10.02 11:32",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/YWIzZjU3/QU92cGNPRXZIT2VhRUdPZlVxZXk4TXRLUDA4azAySkN6YXhEYldlVnpwTkk.png",
-          "url": "https://toss.shopping/_m/1wLSRBgx",
-          "_ts": 1790908344.015111,
-          "_flash": true
-        },
-        {
-          "name": "달콤바삭 찹쌀누룽지, 520g, 2팩",
-          "price": "6,990원",
-          "discount_rate": 80,
-          "priceAt": "10.02 11:32",
-          "image": "https://shopping.toss.im/live/temp/2026-08-14/bc44ef07-9e52-4061-9828-b69ba98cdffa.png",
-          "url": "https://toss.shopping/_m/dTxCDUg7",
-          "_ts": 1790908344.015083,
-          "_flash": true
         },
         {
           "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
