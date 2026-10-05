@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데제과 퀘이커 마시는오트밀 오트&그레인, 50g, 20개",
+          "price": "17,440원",
+          "discount_rate": 38,
+          "priceAt": "10.05 20:48",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/03/09/9/5/7ef56909-9e9c-4c67-8363-e99f621f7ccc.png",
+          "url": "https://link.coupang.com/a/hBlLRvPxYG",
+          "_ts": 1791200935.76515
+        },
+        {
           "name": "어부심 산지직송 산채로 포장한 생물새우, 1kg(30~40미), 1박스",
           "price": "22,120원",
           "discount_rate": 25,
