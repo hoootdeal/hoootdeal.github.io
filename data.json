@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청우식품 유자치즈케익, 190g, 5개",
+          "price": "10,980원",
+          "discount_rate": null,
+          "priceAt": "10.05 15:43",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/593230369927657-1b1f0a54-42c3-45dd-8936-a5e034091c12.jpg",
+          "url": "https://link.coupang.com/a/hAZUOil3XE",
+          "_ts": 1791182585.3729122
+        },
+        {
           "name": "뷰카 클래식 퍼펙트 클린 포밍 핸드워시 레몬버베나향, 510ml, 2개",
           "price": "6,900원",
           "discount_rate": 33,
