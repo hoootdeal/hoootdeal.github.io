@@ -933,15 +933,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5002/35f6cc47a87b21dc0cd4b7609898f8e9e7317599d1ba97650948cec1bbef.jpg",
           "url": "https://link.coupang.com/a/hsmQ1GOpaK",
           "_ts": 1790733329.07597
-        },
-        {
-          "name": "홍영의 붉은대게 백간장, 500ml, 1개",
-          "price": "7,150원",
-          "discount_rate": 25,
-          "priceAt": "09.30 10:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/13779973240795-2b82dcf3-28c0-4029-850b-62fc12f35a34.jpg",
-          "url": "https://link.coupang.com/a/hsi5VbNIfk",
-          "_ts": 1790730173.083046
         }
       ]
     },
@@ -950,6 +941,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
+          "price": "7,900원",
+          "discount_rate": 55,
+          "priceAt": "10.05 10:25",
+          "image": "https://shopping.toss.im/live/temp/2025-07-25/7ca9d4c9-fb69-4a3e-bd3d-58c5a6980da7.jpeg",
+          "url": "https://toss.shopping/_m/tYDrLP5C",
+          "_ts": 1791163555.3632488,
+          "_product_id": "109834949"
+        },
         {
           "name": "달콤바삭 찹쌀누룽지, 520g, 2팩",
           "price": "6,990원",
