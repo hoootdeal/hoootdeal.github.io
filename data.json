@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "미스터밀크 제주성이시돌목장 우유 젤라또 (냉동), 473ml, 1개입, 3개",
+          "price": "14,190원",
+          "discount_rate": 47,
+          "priceAt": "10.05 09:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/214445319784801-b502b4f0-5229-46ed-9da8-eb5460fdf654.png",
+          "url": "https://link.coupang.com/a/hAzcHFOiEm",
+          "_ts": 1791160158.487089
+        },
+        {
           "name": "라라스윗 포도 제로바 (냉동), 2개, 6개입, 70ml",
           "price": "5,640원",
           "discount_rate": 54,
@@ -933,15 +942,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/13779973240795-2b82dcf3-28c0-4029-850b-62fc12f35a34.jpg",
           "url": "https://link.coupang.com/a/hsi5VbNIfk",
           "_ts": 1790730173.083046
-        },
-        {
-          "name": "세타필 모이스춰라이징 로션, 1.25L, 1개",
-          "price": "17,740원",
-          "discount_rate": 33,
-          "priceAt": "09.30 09:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/34596278653464-caa22e7d-dff4-4c9a-a8da-143cd32d85aa.jpg",
-          "url": "https://link.coupang.com/a/hsfk221u4O",
-          "_ts": 1790727019.3060758
         }
       ]
     },
