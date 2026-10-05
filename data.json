@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청정원 진한 토마토케찹, 500g, 2개, 500g × 2개",
+          "price": "3,080원",
+          "discount_rate": 43,
+          "priceAt": "10.05 17:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/30782459413431-a58a60a3-c081-481c-8bf2-8706e83951a6.png",
+          "url": "https://link.coupang.com/a/hA5Q4JQfTM",
+          "_ts": 1791187579.298172
+        },
+        {
           "name": "시티델리 육즙가득 함박 스테이크, 150g, 2개",
           "price": "2,960원",
           "discount_rate": 48,
