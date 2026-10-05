@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "돌 스위티오 바나나, 1kg 내외, 2개, 1kg 내외 × 2개",
+          "price": "5,070원",
+          "discount_rate": 32,
+          "priceAt": "10.05 16:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/352873150398892-7db27e34-a45e-443a-97cb-b94c1206f3b4.jpg",
+          "url": "https://link.coupang.com/a/hA2YXgEpPg",
+          "_ts": 1791185163.160692
+        },
+        {
           "name": "청우식품 유자치즈케익, 190g, 5개",
           "price": "10,980원",
           "discount_rate": null,
@@ -933,15 +942,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/bda13e93-33dd-40d9-9458-ecf1df4d0da47909416956905030641.png",
           "url": "https://link.coupang.com/a/hsNgwyEF0C",
           "_ts": 1790755505.179463
-        },
-        {
-          "name": "비비고 한식간장김자반, 50g, 2개, 50g × 2개",
-          "price": "3,540원",
-          "discount_rate": 34,
-          "priceAt": "09.30 16:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/625611933342085-567252cf-94f9-40c4-bc75-983bd6629013.jpg",
-          "url": "https://link.coupang.com/a/hsJE1IvUwC",
-          "_ts": 1790752477.9619899
         }
       ]
     },
@@ -1520,15 +1520,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-06-04/6cfbb011-d5d6-4b56-bd91-55fa1de363e8.jpeg",
           "url": "https://toss.shopping/_m/Nb4ktC4r",
           "_ts": 1790754595.9220989
-        },
-        {
-          "name": "대용량 우거지 감자탕, 3kg, 1개",
-          "price": "13,900원",
-          "discount_rate": 64,
-          "priceAt": "09.30 16:06",
-          "image": "https://shopping.toss.im/live/taca/ai/YTYyY2Uz/QVBEb25jd2JIRW5ObXp5enczTWxFaTloTVR4enRqTWs4ZVExMDV4YTBvdGg.png",
-          "url": "https://toss.shopping/_m/95RLprWp",
-          "_ts": 1790752001.1969438
         }
       ]
     },
