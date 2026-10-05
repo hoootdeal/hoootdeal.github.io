@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에이원식품 한입 미니도나스, 18g, 20개",
+          "price": "6,940원",
+          "discount_rate": 22,
+          "priceAt": "10.06 07:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/09/19/10/9/e9209c1f-c4ec-42fa-bdd8-abd058df1cdf.jpg",
+          "url": "https://link.coupang.com/a/hB521xJB5o",
+          "_ts": 1791239790.569526
+        },
+        {
           "name": "웰치스 프루트 스낵 믹스드 맛 90개입, 2kg, 1개",
           "price": "23,190원",
           "discount_rate": 21,
@@ -960,15 +969,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/06/20/11/8/e42526f0-1b1e-4789-bc38-4917b3a0e4fd.jpg",
           "url": "https://link.coupang.com/a/htRQtDRhOC",
           "_ts": 1790811406.121152
-        },
-        {
-          "name": "프로그 라텍스 컴포트 고무장갑, 애쉬블루, 중(M), 3세트",
-          "price": "4,280원",
-          "discount_rate": 34,
-          "priceAt": "10.01 07:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/927836614765048-0d2db127-d709-4e65-a51b-e2793153ba76.jpg",
-          "url": "https://link.coupang.com/a/htNwBli8TA",
-          "_ts": 1790807777.823528
         }
       ]
     },
