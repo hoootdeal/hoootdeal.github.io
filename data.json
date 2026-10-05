@@ -969,6 +969,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "국내산 못난이 파프리카, 2kg, 1박스",
+          "price": "9,990원",
+          "discount_rate": 67,
+          "priceAt": "10.05 19:48",
+          "image": "https://shopping.toss.im/live/taca/ai/Mjg3MzI5/QU9KdnZ0Z0o3eFBKaC9FRHRnT2t5djlJZ3BJTExSemgwSTBmZ25neXltbHI.png",
+          "url": "https://toss.shopping/_m/PEKLSIl8",
+          "_ts": 1791197336.481001,
+          "_product_id": "2087299601"
+        },
+        {
           "name": "센토 프라임 초미세 딥클린 점보 칫솔, 12개입, 2개",
           "price": "11,700원",
           "discount_rate": 76,
