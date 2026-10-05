@@ -978,6 +978,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풍년보감 고려홍삼정 투데이굿타임, 15g, 100포 + 쇼핑백, 1개, 1세트",
+          "price": "13,800원",
+          "discount_rate": 72,
+          "priceAt": "10.05 20:09",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/NGQxMjlk/U2ZZeTZlRkw1MXJGTzk0N3R1bHQxczg3Z2JzK3dWclVldFRTclg1UUwxTT0.png",
+          "url": "https://toss.shopping/_m/ndG0KCQ4",
+          "_ts": 1791198560.165096,
+          "_product_id": "119339587"
+        },
+        {
           "name": "국내산 못난이 파프리카, 2kg, 1박스",
           "price": "9,990원",
           "discount_rate": 67,
@@ -1571,15 +1581,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-09/e0325247-78d9-4c0e-abce-fec8fb278bb3.jpeg",
           "url": "https://toss.im/_m/xP5s5W7r",
           "_ts": 1790770618.746048
-        },
-        {
-          "name": "대한다업 순수 호박팥차, 1.5g, 100개입, 1개",
-          "price": "6,440원",
-          "discount_rate": 57,
-          "priceAt": "09.30 20:00",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MTY3NDRj/QUxoMEhrbTJjWk16MGN6THpuT3g1elRqUFBOTXdldzQ4Nnp4UERscDRkdFQ.png",
-          "url": "https://toss.im/_m/dl7Co8Mu",
-          "_ts": 1790766039.5135648
         }
       ]
     },
