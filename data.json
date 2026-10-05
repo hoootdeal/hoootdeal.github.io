@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "뷰카 클래식 퍼펙트 클린 포밍 핸드워시 레몬버베나향, 510ml, 2개",
+          "price": "6,900원",
+          "discount_rate": 33,
+          "priceAt": "10.05 15:37",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/945234166511213-3a7fefb9-e709-4323-bd79-5435043c12ac.jpg",
+          "url": "https://link.coupang.com/a/hAZxnujjjw",
+          "_ts": 1791182269.440578
+        },
+        {
           "name": "발베로 유기농 애플 사이다 비네거, 1L, 1개",
           "price": "7,320원",
           "discount_rate": 22,
@@ -924,15 +933,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/625611933342085-567252cf-94f9-40c4-bc75-983bd6629013.jpg",
           "url": "https://link.coupang.com/a/hsJE1IvUwC",
           "_ts": 1790752477.9619899
-        },
-        {
-          "name": "더자리 항균 마이크로 누빔 베개커버, 밀키그레이, 40 x 60 cm, 2개",
-          "price": "3,850원",
-          "discount_rate": 44,
-          "priceAt": "09.30 15:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a5ed/393b45acc56000025263059a07a845b69e58f89b3ad52642edb6f3b77a8d.jpg",
-          "url": "https://link.coupang.com/a/hsFtbBYeJ2",
-          "_ts": 1790748958.2182899
         }
       ]
     },
