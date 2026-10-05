@@ -969,6 +969,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "극조생 감귤 햇귤, 로얄과, 5kg, 1개",
+          "price": "9,800원",
+          "discount_rate": 75,
+          "priceAt": "10.06 07:22",
+          "image": "https://shopping.toss.im/live/temp/2026-09-16/592d7cb9-6e89-4db8-81ce-9c105ec1c457.png",
+          "url": "https://toss.shopping/_m/Z9wWCoan",
+          "_ts": 1791238976.9319959,
+          "_flash": true,
+          "_product_id": "2657232207"
+        },
+        {
+          "name": "핫식스, 더킹 애플홀릭, 355ml, 24개",
+          "price": "17,000원",
+          "discount_rate": 42,
+          "priceAt": "10.06 07:22",
+          "image": "https://shopping.toss.im/live/taca/ai/OTZmMTE3/QU9jZW05aDR6R1VtbW5HUzIyV09qZlRhOFhZTHAzU0o5SFdMZGcrYWNJdjA.png",
+          "url": "https://toss.shopping/_m/RlfLVVti",
+          "_ts": 1791238976.931964,
+          "_flash": true,
+          "_product_id": "103381731"
+        },
+        {
+          "name": "달구벌 돼지 생막창 세트, 500g, 2봉",
+          "price": "12,900원",
+          "discount_rate": 35,
+          "priceAt": "10.06 07:22",
+          "image": "https://shopping.toss.im/live/taca/ai/Y2RhZjBj/ZHdRQ0pDc0FINGhQRnd5S1FPejYyT2FNQU53Yy9nQmMrYnpKL2J0MDUyaz0.png",
+          "url": "https://toss.shopping/_m/ZfW7XEJD",
+          "_ts": 1791238976.931926,
+          "_flash": true,
+          "_product_id": "8477329"
+        },
+        {
           "name": "펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
           "price": "25,832원",
           "discount_rate": 47,
