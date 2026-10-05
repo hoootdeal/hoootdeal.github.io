@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "CJ제일제당 맛콩 병아리콩 건강 간식, 6개, 50g",
+          "price": "5,870원",
+          "discount_rate": 26,
+          "priceAt": "10.05 22:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/fb166233-209f-4cc0-91fd-a5e639c59fde12083984865836262986.png",
+          "url": "https://link.coupang.com/a/hBrWXR50dU",
+          "_ts": 1791206125.219532
+        },
+        {
           "name": "신라면 로제 134g, 8개",
           "price": "5,740원",
           "discount_rate": 28,
@@ -960,24 +969,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/243431077745102-d37e470e-27c5-4d92-a85a-bbb5085b7c7c.jpg",
           "url": "https://link.coupang.com/a/htK9qvq2X6",
           "_ts": 1790805785.959266
-        },
-        {
-          "name": "아임리얼 100 망고, 730ml, 5개",
-          "price": "13,470원",
-          "discount_rate": 26,
-          "priceAt": "09.30 22:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/a813cba2-f5ec-4a3e-8958-7d8a98fbd5ff7750962609077799292.png",
-          "url": "https://link.coupang.com/a/hs87dOnO5A",
-          "_ts": 1790773850.3223581
-        },
-        {
-          "name": "그래놀라하우스 오리지널 리필용, 500g, 1개",
-          "price": "12,870원",
-          "discount_rate": 28,
-          "priceAt": "09.30 21:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/494031f7-4fe5-4059-93a6-832a64bc5388_fixing_v2.png",
-          "url": "https://link.coupang.com/a/hs66rrwLlc",
-          "_ts": 1790772160.916481
         }
       ]
     },
@@ -1582,15 +1573,6 @@
           "url": "https://toss.shopping/_m/bo5S6Rfm",
           "_ts": 1790806914.3958101,
           "_flash": true
-        },
-        {
-          "name": "종근당건강 락토핏 당케어, 100포, 3개 + 락토핏 골드, 30포, 1개 + 프로메가 알티지오메가3듀얼, 15일분",
-          "price": "58,805원",
-          "discount_rate": 80,
-          "priceAt": "09.30 21:39",
-          "image": "https://shopping.toss.im/live/temp/2026-07-13/12251a6b-52f2-454b-a7a2-4505757a22ed.jpeg",
-          "url": "https://toss.shopping/_m/HdywEcs9",
-          "_ts": 1790771994.635346
         }
       ]
     },
