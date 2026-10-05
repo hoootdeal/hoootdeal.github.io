@@ -1590,57 +1590,7 @@
           "_rank": 1,
           "_product_id": "2601104607",
           "_ts": 1790950318.9556649,
-          "_last_synced_ts": 1791203097.0,
-          "sold_out": true,
-          "_sold_at": 1791203097.0
-        },
-        {
-          "name": "포천이동 양념LA갈비, 500g, 1팩",
-          "price": "6,990원",
-          "discount_rate": 56,
-          "image": "https://shopping.toss.im/live/taca/ai/YWQ1YzA5/QU16RU01L0lZcC9STjBkV0M3QzZVekM0dzJJSjdIQXo3czRVNXN0b1h1M28.png",
-          "url": "https://toss.shopping/_m/POfKIzmx",
-          "_rank": 2,
-          "_product_id": "2184701663",
-          "_ts": 1790604428.184428,
-          "_last_synced_ts": 1791203097.0
-        },
-        {
-          "name": "3대째 달인 광천김, 4g, 40봉",
-          "price": "9,900원",
-          "discount_rate": 58,
-          "image": "https://shopping.toss.im/live/taca/ai/NWU0Yzhh/QUp5dzVOemkxcTlqZXM3Yll6ZTBTMHRtTkhzN2xwUmpQS1BobExSRG9UVEU.png",
-          "url": "https://toss.shopping/_m/Ta3KB4R9",
-          "_rank": 3,
-          "_product_id": "480585869",
-          "_ts": 1791152520.0,
-          "_last_synced_ts": 1791203097.0,
-          "sold_out": true,
-          "_sold_at": 1791203097.0
-        },
-        {
-          "name": "신선하랑 냉동 삼겹살, 1kg, 2개",
-          "price": "10,990원",
-          "discount_rate": 71,
-          "image": "https://shopping.toss.im/live/taca/ai/ZDE5Y2Ix/QU1XMTRxV0MrUUpGQlVGZFZ3djFQSnkzRUR4QzRZSnJid2x2S1ZycW5ZVT0.png",
-          "url": "https://toss.shopping/_m/hh463PKf",
-          "_rank": 4,
-          "_product_id": "288570013",
-          "_ts": 1790950318.9556649,
-          "_last_synced_ts": 1791203097.0,
-          "sold_out": true,
-          "_sold_at": 1791203097.0
-        },
-        {
-          "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-          "price": "4,990원",
-          "discount_rate": 66,
-          "image": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
-          "url": "https://toss.shopping/_m/dXoRinis",
-          "_rank": 5,
-          "_product_id": "2621363823",
-          "_ts": 1790604428.184428,
-          "_last_synced_ts": 1791203097.0,
+          "_last_synced_ts": 1791209112.173145,
           "sold_out": true,
           "_sold_at": 1791203097.0
         },
@@ -1650,10 +1600,60 @@
           "discount_rate": 88,
           "image": "https://shopping.toss.im/live/temp/2026-09-23/9072bbae-8462-4cc2-ab82-8c9b161d4680.png",
           "url": "https://toss.shopping/_m/JsatPcRl",
-          "_rank": 6,
+          "_rank": 2,
           "_product_id": "2653093475",
           "_ts": 1791194182.0,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
+        },
+        {
+          "name": "포천이동 양념LA갈비, 500g, 1팩",
+          "price": "6,990원",
+          "discount_rate": 56,
+          "image": "https://shopping.toss.im/live/taca/ai/YWQ1YzA5/QU16RU01L0lZcC9STjBkV0M3QzZVekM0dzJJSjdIQXo3czRVNXN0b1h1M28.png",
+          "url": "https://toss.shopping/_m/POfKIzmx",
+          "_rank": 3,
+          "_product_id": "2184701663",
+          "_ts": 1790604428.184428,
+          "_last_synced_ts": 1791209112.173145
+        },
+        {
+          "name": "3대째 달인 광천김, 4g, 40봉",
+          "price": "9,900원",
+          "discount_rate": 58,
+          "image": "https://shopping.toss.im/live/taca/ai/NWU0Yzhh/QUp5dzVOemkxcTlqZXM3Yll6ZTBTMHRtTkhzN2xwUmpQS1BobExSRG9UVEU.png",
+          "url": "https://toss.shopping/_m/Ta3KB4R9",
+          "_rank": 4,
+          "_product_id": "480585869",
+          "_ts": 1791152520.0,
+          "_last_synced_ts": 1791209112.173145,
+          "sold_out": true,
+          "_sold_at": 1791203097.0
+        },
+        {
+          "name": "신선하랑 냉동 삼겹살, 1kg, 2개",
+          "price": "10,990원",
+          "discount_rate": 71,
+          "image": "https://shopping.toss.im/live/taca/ai/ZDE5Y2Ix/QU1XMTRxV0MrUUpGQlVGZFZ3djFQSnkzRUR4QzRZSnJid2x2S1ZycW5ZVT0.png",
+          "url": "https://toss.shopping/_m/hh463PKf",
+          "_rank": 5,
+          "_product_id": "288570013",
+          "_ts": 1790950318.9556649,
+          "_last_synced_ts": 1791209112.173145,
+          "sold_out": true,
+          "_sold_at": 1791203097.0
+        },
+        {
+          "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+          "price": "4,990원",
+          "discount_rate": 66,
+          "image": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
+          "url": "https://toss.shopping/_m/dXoRinis",
+          "_rank": 6,
+          "_product_id": "2621363823",
+          "_ts": 1790604428.184428,
+          "_last_synced_ts": 1791209112.173145,
+          "sold_out": true,
+          "_sold_at": 1791203097.0
         },
         {
           "name": "맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
@@ -1664,7 +1664,7 @@
           "_rank": 7,
           "_product_id": "2566320999",
           "_ts": 1790950318.9556649,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
         },
         {
           "name": "맛꾼 메추리알 장조림, 1kg, 2개",
@@ -1675,18 +1675,7 @@
           "_rank": 8,
           "_product_id": "1309038335",
           "_ts": 1791183615.0,
-          "_last_synced_ts": 1791203097.0
-        },
-        {
-          "name": "아워홈 잡채말이 어묵, 1kg, 2팩",
-          "price": "10,900원",
-          "discount_rate": 56,
-          "image": "https://shopping.toss.im/live/taca/ai/Mzc4NmYw/WjJkam1SREpqTTZOTnBjNzZ0Qng0M0x0amh5TlBtWjJkdE1SaWVsRTduWT0.png",
-          "url": "https://toss.shopping/_m/xoCfQ9Dk",
-          "_rank": 9,
-          "_product_id": "179780757",
-          "_ts": 1791152520.0,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
         },
         {
           "name": "수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
@@ -1694,10 +1683,21 @@
           "discount_rate": 88,
           "image": "https://shopping.toss.im/live/temp/2026-09-23/38d1a52b-6f2e-461f-918f-e73b58a45889.png",
           "url": "https://toss.shopping/_m/3iRhlTj2",
-          "_rank": 10,
+          "_rank": 9,
           "_product_id": "2653091083",
           "_ts": 1791194182.0,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
+        },
+        {
+          "name": "아워홈 잡채말이 어묵, 1kg, 2팩",
+          "price": "10,900원",
+          "discount_rate": 56,
+          "image": "https://shopping.toss.im/live/taca/ai/Mzc4NmYw/WjJkam1SREpqTTZOTnBjNzZ0Qng0M0x0amh5TlBtWjJkdE1SaWVsRTduWT0.png",
+          "url": "https://toss.shopping/_m/xoCfQ9Dk",
+          "_rank": 10,
+          "_product_id": "179780757",
+          "_ts": 1791152520.0,
+          "_last_synced_ts": 1791209112.173145
         },
         {
           "name": "CJ제일제당 스팸 클래식, 340g, 10개",
@@ -1708,7 +1708,7 @@
           "_rank": 11,
           "_product_id": "135264173",
           "_ts": 1791152520.0,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
         },
         {
           "name": "이선별 밀크카스테라, 1kg, 1박스",
@@ -1719,18 +1719,7 @@
           "_rank": 12,
           "_product_id": "2338930751",
           "_ts": 1790604428.184428,
-          "_last_synced_ts": 1791203097.0
-        },
-        {
-          "name": "스파클 생수 무라벨, 500ml, 40병",
-          "price": "6,890원",
-          "discount_rate": 42,
-          "image": "https://shopping.toss.im/live/taca/ai/ODI3ZmUx/VExHNFZHSzJ6TUFkbExjcjRudlU2WU5JYnphc1hxaVVrMnNuQnRmcGtHaz0.png",
-          "url": "https://toss.shopping/_m/7VHa4vqn",
-          "_rank": 13,
-          "_product_id": "10142851",
-          "_ts": 1791152520.0,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
         },
         {
           "name": "팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
@@ -1738,10 +1727,10 @@
           "discount_rate": 83,
           "image": "https://shopping.toss.im/live/taca/ai/ZGRjYzU1/QUxzSHhpWEYrRFAwZEkzOHhwN2tqenVqVTdHWmNXTk1acytNYzRlc1VKMjQ.png",
           "url": "https://toss.im/_m/tOK51BXD",
-          "_rank": 14,
+          "_rank": 13,
           "_product_id": "807365761",
           "_ts": 1790604428.184428,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
         },
         {
           "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
@@ -1749,10 +1738,34 @@
           "discount_rate": 76,
           "image": "https://shopping.toss.im/live/temp/2026-09-08/131ff3ca-add9-4eb4-887d-a5bfc5f03ac0.jpeg",
           "url": "https://toss.shopping/_m/PjzyV7zd",
-          "_rank": 15,
+          "_rank": 14,
           "_product_id": "2651864571",
           "_ts": 1790604428.184428,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
+        },
+        {
+          "name": "맥콜 제로슈거, 190ml, 30개",
+          "price": "7,600원",
+          "discount_rate": 57,
+          "image": "https://shopping.toss.im/live/temp/2026-08-10/e86bf3ee-b559-4aff-bb2b-4ae73b937ba2.jpeg",
+          "url": "https://toss.shopping/_m/zBTA95rD",
+          "_rank": 15,
+          "_product_id": "2599642785",
+          "_ts": 1790950318.9556649,
+          "_last_synced_ts": 1791209112.173145
+        },
+        {
+          "name": "토트잇 미니 가죽 크로스백, 블랙, Free",
+          "price": "6,360원",
+          "discount_rate": 80,
+          "image": "https://shopping.toss.im/live/taca/ai/YTgyOWY1/QU16TnhtWnB6WXlXSXp0WW1aYXpJMlphYzlNdkpZWnQ2Wjg4bHUxcVdTdVM.png",
+          "url": "https://toss.shopping/_m/1j1lH8Gj",
+          "_rank": 16,
+          "_product_id": "2510560323",
+          "_ts": 1791152520.0,
+          "_last_synced_ts": 1791209112.173145,
+          "sold_out": true,
+          "_sold_at": 1791203097.0
         },
         {
           "name": "남도청년 썰은김치 맛김치, 3kg, 1개",
@@ -1760,10 +1773,10 @@
           "discount_rate": 48,
           "image": "https://shopping.toss.im/e2743f25-40d6-4878-a0a1-02b10c617d0d.jpg",
           "url": "https://toss.shopping/_m/30rnZQvD",
-          "_rank": 16,
+          "_rank": 17,
           "_product_id": "2636124007",
           "_ts": 1791152520.0,
-          "_last_synced_ts": 1791203097.0,
+          "_last_synced_ts": 1791209112.173145,
           "sold_out": true,
           "_sold_at": 1791203097.0
         },
@@ -1773,23 +1786,10 @@
           "discount_rate": 49,
           "image": "https://shopping.toss.im/live/temp/2026-09-01/4d6cd1b2-8e33-4a99-b4ce-b553a7f520f4.jpeg",
           "url": "https://toss.shopping/_m/hpjXK0Dp",
-          "_rank": 17,
+          "_rank": 18,
           "_product_id": "2642388507",
           "_ts": 1791152520.0,
-          "_last_synced_ts": 1791203097.0,
-          "sold_out": true,
-          "_sold_at": 1791203097.0
-        },
-        {
-          "name": "토트잇 미니 가죽 크로스백, 블랙, Free",
-          "price": "6,360원",
-          "discount_rate": 80,
-          "image": "https://shopping.toss.im/live/taca/ai/YTgyOWY1/QU16TnhtWnB6WXlXSXp0WW1aYXpJMlphYzlNdkpZWnQ2Wjg4bHUxcVdTdVM.png",
-          "url": "https://toss.shopping/_m/1j1lH8Gj",
-          "_rank": 18,
-          "_product_id": "2510560323",
-          "_ts": 1791152520.0,
-          "_last_synced_ts": 1791203097.0,
+          "_last_synced_ts": 1791209112.173145,
           "sold_out": true,
           "_sold_at": 1791203097.0
         },
@@ -1802,7 +1802,7 @@
           "_rank": 19,
           "_product_id": "2657232207",
           "_ts": 1791152520.0,
-          "_last_synced_ts": 1791203097.0,
+          "_last_synced_ts": 1791209112.173145,
           "sold_out": true,
           "_sold_at": 1791203097.0
         },
@@ -1815,7 +1815,7 @@
           "_rank": 20,
           "_product_id": "103381731",
           "_ts": 1791152520.0,
-          "_last_synced_ts": 1791203097.0,
+          "_last_synced_ts": 1791209112.173145,
           "sold_out": true,
           "_sold_at": 1791203097.0
         },
@@ -1828,7 +1828,7 @@
           "_rank": 21,
           "_product_id": "1130826289",
           "_ts": 1791163514.0,
-          "_last_synced_ts": 1791203097.0,
+          "_last_synced_ts": 1791209112.173145,
           "sold_out": true,
           "_sold_at": 1791203097.0
         },
@@ -1841,7 +1841,7 @@
           "_rank": 22,
           "_product_id": "87478999",
           "_ts": 1791152520.0,
-          "_last_synced_ts": 1791203097.0,
+          "_last_synced_ts": 1791209112.173145,
           "sold_out": true,
           "_sold_at": 1791203097.0
         },
@@ -1854,7 +1854,7 @@
           "_rank": 23,
           "_product_id": "2146041731",
           "_ts": 1791152520.0,
-          "_last_synced_ts": 1791203097.0,
+          "_last_synced_ts": 1791209112.173145,
           "sold_out": true,
           "_sold_at": 1791203097.0
         },
@@ -1867,7 +1867,7 @@
           "_rank": 24,
           "_product_id": "190352549",
           "_ts": 1791163514.0,
-          "_last_synced_ts": 1791203097.0,
+          "_last_synced_ts": 1791209112.173145,
           "sold_out": true,
           "_sold_at": 1791203097.0
         },
@@ -1880,18 +1880,7 @@
           "_rank": 25,
           "_product_id": "135142827",
           "_ts": 1791178221.0,
-          "_last_synced_ts": 1791203097.0
-        },
-        {
-          "name": "맥콜 제로슈거, 190ml, 30개",
-          "price": "7,600원",
-          "discount_rate": 57,
-          "image": "https://shopping.toss.im/live/temp/2026-08-10/e86bf3ee-b559-4aff-bb2b-4ae73b937ba2.jpeg",
-          "url": "https://toss.shopping/_m/zBTA95rD",
-          "_rank": 26,
-          "_product_id": "2599642785",
-          "_ts": 1790950318.9556649,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
         },
         {
           "name": "슬림떡볶이 로제맛, 230g, 4개",
@@ -1899,10 +1888,10 @@
           "discount_rate": 64,
           "image": "https://shopping.toss.im/live/taca/ai/v2/MzgzYjc2/QUlYSDJaK1huZzlNUHh0dVhleFo4YXp3ZkpoeEJmbE10djZodDA2QUZIbno.png",
           "url": "https://toss.shopping/_m/3lrWbCFy",
-          "_rank": 27,
+          "_rank": 26,
           "_product_id": "2482486143",
           "_ts": 1790950318.9556649,
-          "_last_synced_ts": 1791203097.0,
+          "_last_synced_ts": 1791209112.173145,
           "sold_out": true,
           "_sold_at": 1791203097.0
         },
@@ -1912,23 +1901,32 @@
           "discount_rate": 46,
           "image": "https://shopping.toss.im/live/taca/ai/NzI2MjI3/VzJFa3g5eWJzdlNtMjhlV3l3OWZCVXdUZVF4NGVPRmt0TkdIZytPRW5sbz0.png",
           "url": "https://toss.shopping/_m/lQJsKdW",
-          "_rank": 28,
+          "_rank": 27,
           "_product_id": "121155095",
           "_ts": 1791152520.0,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
         },
         {
-          "name": "피코크 우리집 순두부찌개, 500g, 5개",
-          "price": "14,900원",
-          "discount_rate": 46,
-          "image": "https://shopping.toss.im/live/taca/ai/NTZiNWNj/UFE2VDdoMm1lY1hzdk1jKy9EYm1mTUR4SG1NN2tUdUZmRUh4bmNFTERuWT0.png",
-          "url": "https://toss.shopping/_m/HwEOFLac",
+          "name": "제주 극조생 감귤, 10kg, 1개",
+          "price": "12,900원",
+          "discount_rate": 73,
+          "image": "https://shopping.toss.im/live/temp/2026-09-28/d318917f-a777-460e-b69d-0f81c6a9f4af.png",
+          "url": "https://toss.shopping/_m/BcaNKFyy",
+          "_rank": 28,
+          "_product_id": "2665103135",
+          "_ts": 1791178221.0,
+          "_last_synced_ts": 1791209112.173145
+        },
+        {
+          "name": "맘스럽 아토클래식 물티슈, 100매입, 20팩",
+          "price": "8,253원",
+          "discount_rate": 66,
+          "image": "https://shopping.toss.im/live/temp/2026-07-01/cbcba31d-9c3d-4336-b01c-da1112ebe230.jpeg",
+          "url": "https://toss.shopping/_m/XK5h6qv8",
           "_rank": 29,
-          "_product_id": "181144541",
-          "_ts": 1791152520.0,
-          "_last_synced_ts": 1791203097.0,
-          "sold_out": true,
-          "_sold_at": 1791203097.0
+          "_product_id": "2334877747",
+          "_ts": 1791167503.0,
+          "_last_synced_ts": 1791209112.173145
         },
         {
           "name": "남도청년 당일제조 전라도 포기김치, 10kg, 1개",
@@ -1939,18 +1937,20 @@
           "_rank": 30,
           "_product_id": "1426816303",
           "_ts": 1791160218.0,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
         },
         {
-          "name": "맘스럽 아토클래식 물티슈, 100매입, 20팩",
-          "price": "8,253원",
-          "discount_rate": 66,
-          "image": "https://shopping.toss.im/live/temp/2026-07-01/cbcba31d-9c3d-4336-b01c-da1112ebe230.jpeg",
-          "url": "https://toss.shopping/_m/XK5h6qv8",
+          "name": "피코크 우리집 순두부찌개, 500g, 5개",
+          "price": "14,900원",
+          "discount_rate": 46,
+          "image": "https://shopping.toss.im/live/taca/ai/NTZiNWNj/UFE2VDdoMm1lY1hzdk1jKy9EYm1mTUR4SG1NN2tUdUZmRUh4bmNFTERuWT0.png",
+          "url": "https://toss.shopping/_m/HwEOFLac",
           "_rank": 31,
-          "_product_id": "2334877747",
-          "_ts": 1791167503.0,
-          "_last_synced_ts": 1791203097.0
+          "_product_id": "181144541",
+          "_ts": 1791152520.0,
+          "_last_synced_ts": 1791209112.173145,
+          "sold_out": true,
+          "_sold_at": 1791203097.0
         },
         {
           "name": "양념 치마살, 300g, 2개",
@@ -1961,7 +1961,7 @@
           "_rank": 32,
           "_product_id": "2515175001",
           "_ts": 1791152520.0,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
         },
         {
           "name": "센토 프라임 초미세 딥클린 점보 칫솔, 12개입, 2개",
@@ -1972,18 +1972,7 @@
           "_rank": 33,
           "_product_id": "301940091",
           "_ts": 1791152520.0,
-          "_last_synced_ts": 1791203097.0
-        },
-        {
-          "name": "제주 극조생 감귤, 10kg, 1개",
-          "price": "12,900원",
-          "discount_rate": 73,
-          "image": "https://shopping.toss.im/live/temp/2026-09-28/d318917f-a777-460e-b69d-0f81c6a9f4af.png",
-          "url": "https://toss.shopping/_m/BcaNKFyy",
-          "_rank": 34,
-          "_product_id": "2665103135",
-          "_ts": 1791178221.0,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
         },
         {
           "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
@@ -1991,10 +1980,10 @@
           "discount_rate": 55,
           "image": "https://shopping.toss.im/live/temp/2025-07-25/7ca9d4c9-fb69-4a3e-bd3d-58c5a6980da7.jpeg",
           "url": "https://toss.shopping/_m/tYDrLP5C",
-          "_rank": 35,
+          "_rank": 34,
           "_product_id": "109834949",
           "_ts": 1791160218.0,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
         },
         {
           "name": "국내산 못난이 파프리카, 2kg, 1박스",
@@ -2002,21 +1991,21 @@
           "discount_rate": 67,
           "image": "https://shopping.toss.im/live/taca/ai/Mjg3MzI5/QU9KdnZ0Z0o3eFBKaC9FRHRnT2t5djlJZ3BJTExSemgwSTBmZ25neXltbHI.png",
           "url": "https://toss.shopping/_m/PEKLSIl8",
-          "_rank": 36,
+          "_rank": 35,
           "_product_id": "2087299601",
           "_ts": 1790950318.9556649,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
         },
         {
-          "name": "잘풀리는집 순수 클린, 3겹, 25m, 30롤, 2팩",
-          "price": "21,900원",
-          "discount_rate": 35,
-          "image": "https://shopping.toss.im/live/taca/ai/MGMzMmRk/QU84NXVIL0hNVWF4T1duT2VRdHg4NTY4eVpqbVBObjVaT1BGbHRzandSYkw.png",
-          "url": "https://toss.shopping/_m/ZARb5GIa",
-          "_rank": 37,
-          "_product_id": "2620039563",
-          "_ts": 1791163514.0,
-          "_last_synced_ts": 1791203097.0
+          "name": "하늘보리, 500ml, 20개",
+          "price": "11,400원",
+          "discount_rate": 61,
+          "image": "https://shopping.toss.im/live/taca/ai/v2/NDgxYTA5/QVBUa0c5MzA1TEdaeHZUbG5pdlRXbVRkTytVUHg2L25uM0xVZWFseTFONzI.png",
+          "url": "https://toss.shopping/_m/VlHAa6qn",
+          "_rank": 36,
+          "_product_id": "171985429",
+          "_ts": 1791209112.173145,
+          "_last_synced_ts": 1791209112.173145
         },
         {
           "name": "과일파는청년 알밤 햇밤, 대, 2kg, 1박스",
@@ -2024,10 +2013,65 @@
           "discount_rate": 83,
           "image": "https://shopping.toss.im/live/temp/2026-09-28/633f2509-f6b3-4cd2-99a6-4b19747a6e67.png",
           "url": "https://toss.shopping/_m/Nnd1Febn",
-          "_rank": 38,
+          "_rank": 37,
           "_product_id": "2664813429",
           "_ts": 1791160218.0,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
+        },
+        {
+          "name": "잘풀리는집 순수 클린, 3겹, 25m, 30롤, 2팩",
+          "price": "21,900원",
+          "discount_rate": 35,
+          "image": "https://shopping.toss.im/live/taca/ai/MGMzMmRk/QU84NXVIL0hNVWF4T1duT2VRdHg4NTY4eVpqbVBObjVaT1BGbHRzandSYkw.png",
+          "url": "https://toss.shopping/_m/ZARb5GIa",
+          "_rank": 38,
+          "_product_id": "2620039563",
+          "_ts": 1791163514.0,
+          "_last_synced_ts": 1791209112.173145
+        },
+        {
+          "name": "소소락 생중화면, 1kg, 1개 + 짜장소스, 60g, 6개, 1세트",
+          "price": "6,990원",
+          "discount_rate": 47,
+          "image": "https://shopping.toss.im/live/taca/ai/MWIwYTIy/QjNIMHp5bm00blN4YkZyTTVHVzVtOFNrOEVkd2gvRWI2SjBlNDRkVUQ5dz0.png",
+          "url": "https://toss.shopping/_m/vi115ntC",
+          "_rank": 39,
+          "_product_id": "2626079359",
+          "_ts": 1791163514.0,
+          "_last_synced_ts": 1791209112.173145
+        },
+        {
+          "name": "넛토피아 맛병아리콩, 20g, 40봉",
+          "price": "15,200원",
+          "discount_rate": 61,
+          "image": "https://shopping.toss.im/live/temp/2026-09-10/83d453a7-ca1a-46b3-a6bb-5bffcde9e296.jpeg",
+          "url": "https://toss.shopping/_m/riKIa0Ja",
+          "_rank": 40,
+          "_product_id": "2653038565",
+          "_ts": 1791163514.0,
+          "_last_synced_ts": 1791209112.173145
+        },
+        {
+          "name": "대용량 새우감자 고로케, 900g, 2개",
+          "price": "11,300원",
+          "discount_rate": 56,
+          "image": "https://shopping.toss.im/live/taca/ai/ZjJjNDJh/QU9ISVB6b2t1TG4vemJSdkxpcjUzTmlzKzdNMm03SFAvRHIwQm5KbFJEQUE.png",
+          "url": "https://toss.shopping/_m/vnWyiiGe",
+          "_rank": 41,
+          "_product_id": "1352062709",
+          "_ts": 1791152520.0,
+          "_last_synced_ts": 1791209112.173145
+        },
+        {
+          "name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
+          "price": "5,450원",
+          "discount_rate": 63,
+          "image": "https://shopping.toss.im/live/taca/ai/YmI1NGJk/QUpobU9jOXRzYlNac25uSVpEbW03Wm1lVTF0TXkweFlNekR6VXNubkhLY00.png",
+          "url": "https://toss.shopping/_m/7cAsXrbr",
+          "_rank": 42,
+          "_product_id": "241796467",
+          "_ts": 1791197299.0,
+          "_last_synced_ts": 1791209112.173145
         },
         {
           "name": "가쯔 멀티 논슬립 옷걸이, 블랙, 30개",
@@ -2035,10 +2079,10 @@
           "discount_rate": 65,
           "image": "https://shopping.toss.im/live/taca/ai/MzljOTI3/VFBQeHo4MmVUbGx0c0xqTjNMUmwydEdNenNrdVlER2FrczdMU1VlaE5qWT0.png",
           "url": "https://toss.shopping/_m/VIDRMhyo",
-          "_rank": 39,
+          "_rank": 43,
           "_product_id": "28021",
           "_ts": 1791160218.0,
-          "_last_synced_ts": 1791203097.0,
+          "_last_synced_ts": 1791209112.173145,
           "sold_out": true,
           "_sold_at": 1791203097.0
         },
@@ -2048,10 +2092,10 @@
           "discount_rate": 40,
           "image": "https://shopping.toss.im/live/taca/ai/Y2RhZjBj/ZHdRQ0pDc0FINGhQRnd5S1FPejYyT2FNQU53Yy9nQmMrYnpKL2J0MDUyaz0.png",
           "url": "https://toss.shopping/_m/ZfW7XEJD",
-          "_rank": 40,
+          "_rank": 44,
           "_product_id": "8477329",
           "_ts": 1791152520.0,
-          "_last_synced_ts": 1791203097.0,
+          "_last_synced_ts": 1791209112.173145,
           "sold_out": true,
           "_sold_at": 1791203097.0
         },
@@ -2061,10 +2105,10 @@
           "discount_rate": 58,
           "image": "https://shopping.toss.im/live/temp/2026-07-20/fcf09a1c-3d4e-4e2a-93fb-23b126be49b1.png",
           "url": "https://toss.shopping/_m/jDZgUhRv",
-          "_rank": 41,
+          "_rank": 45,
           "_product_id": "8834733",
           "_ts": 1790950318.9556649,
-          "_last_synced_ts": 1791203097.0,
+          "_last_synced_ts": 1791209112.173145,
           "sold_out": true,
           "_sold_at": 1791203097.0
         },
@@ -2074,32 +2118,10 @@
           "discount_rate": 27,
           "image": "https://shopping.toss.im/live/taca/ai/v2/YTk0M2Zi/QXY4WVBEQThkc0ZtdzA1SmdSeWhuRDVqVjJBSEhhaWI2SnNmVkZkVXFJcz0.png",
           "url": "https://toss.shopping/_m/lBrjbn7C",
-          "_rank": 42,
+          "_rank": 46,
           "_product_id": "1839474753",
           "_ts": 1791183615.0,
-          "_last_synced_ts": 1791203097.0
-        },
-        {
-          "name": "소소락 생중화면, 1kg, 1개 + 짜장소스, 60g, 6개, 1세트",
-          "price": "6,990원",
-          "discount_rate": 47,
-          "image": "https://shopping.toss.im/live/taca/ai/MWIwYTIy/QjNIMHp5bm00blN4YkZyTTVHVzVtOFNrOEVkd2gvRWI2SjBlNDRkVUQ5dz0.png",
-          "url": "https://toss.shopping/_m/vi115ntC",
-          "_rank": 43,
-          "_product_id": "2626079359",
-          "_ts": 1791163514.0,
-          "_last_synced_ts": 1791203097.0
-        },
-        {
-          "name": "넛토피아 맛병아리콩, 20g, 40봉",
-          "price": "15,200원",
-          "discount_rate": 61,
-          "image": "https://shopping.toss.im/live/temp/2026-09-10/83d453a7-ca1a-46b3-a6bb-5bffcde9e296.jpeg",
-          "url": "https://toss.shopping/_m/riKIa0Ja",
-          "_rank": 44,
-          "_product_id": "2653038565",
-          "_ts": 1791163514.0,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
         },
         {
           "name": "맛팜 신 곱창볶음, 250g, 2개",
@@ -2107,34 +2129,10 @@
           "discount_rate": 72,
           "image": "https://shopping.toss.im/live/taca/ai/v2/YWIzZjU3/QU92cGNPRXZIT2VhRUdPZlVxZXk4TXRLUDA4azAySkN6YXhEYldlVnpwTkk.png",
           "url": "https://toss.shopping/_m/1wLSRBgx",
-          "_rank": 45,
+          "_rank": 47,
           "_product_id": "2536370261",
           "_ts": 1790950318.9556649,
-          "_last_synced_ts": 1791203097.0
-        },
-        {
-          "name": "대용량 새우감자 고로케, 900g, 2개",
-          "price": "11,300원",
-          "discount_rate": 56,
-          "image": "https://shopping.toss.im/live/taca/ai/ZjJjNDJh/QU9ISVB6b2t1TG4vemJSdkxpcjUzTmlzKzdNMm03SFAvRHIwQm5KbFJEQUE.png",
-          "url": "https://toss.shopping/_m/vnWyiiGe",
-          "_rank": 46,
-          "_product_id": "1352062709",
-          "_ts": 1791152520.0,
-          "_last_synced_ts": 1791203097.0
-        },
-        {
-          "name": "배스킨라빈스 엄마는 외계인 초코볼, 32g, 6개입, 2개",
-          "price": "6,950원",
-          "discount_rate": 71,
-          "image": "https://shopping.toss.im/live/taca/ai/v2/OWMzZjlm/QU0xWmY5YlFuS2RrZlUzTlhKLzA5ZnlOZ1huendCVy81Sm1kMzFaRlVNQ2I.png",
-          "url": "https://toss.shopping/_m/VwTrw8cd",
-          "_rank": 47,
-          "_product_id": "2334567513",
-          "_ts": 1791178221.0,
-          "_last_synced_ts": 1791203097.0,
-          "sold_out": true,
-          "_sold_at": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
         },
         {
           "name": "애슐리 주먹밥 2종, 치즈갈릭스테이크 + 콘치즈닭갈비, 100g, 10개, 1세트",
@@ -2145,7 +2143,18 @@
           "_rank": 48,
           "_product_id": "142741935",
           "_ts": 1791185587.0,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
+        },
+        {
+          "name": "제주 서귀포 감귤, 12brix 초고당도, 5kg, 1박스",
+          "price": "13,900원",
+          "discount_rate": 57,
+          "image": "https://shopping.toss.im/live/temp/2026-09-20/a0e6554a-50c1-4ea9-8954-02f528e674e3.png",
+          "url": "https://toss.shopping/_m/L40PABc3",
+          "_rank": 49,
+          "_product_id": "2659903585",
+          "_ts": 1791209112.173145,
+          "_last_synced_ts": 1791209112.173145
         },
         {
           "name": "달콤바삭 찹쌀누룽지, 520g, 2팩",
@@ -2153,21 +2162,10 @@
           "discount_rate": 80,
           "image": "https://shopping.toss.im/live/temp/2026-08-14/bc44ef07-9e52-4061-9828-b69ba98cdffa.png",
           "url": "https://toss.shopping/_m/dTxCDUg7",
-          "_rank": 49,
+          "_rank": 50,
           "_product_id": "2611490143",
           "_ts": 1790950318.9556649,
-          "_last_synced_ts": 1791203097.0
-        },
-        {
-          "name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
-          "price": "5,450원",
-          "discount_rate": 63,
-          "image": "https://shopping.toss.im/live/taca/ai/YmI1NGJk/QUpobU9jOXRzYlNac25uSVpEbW03Wm1lVTF0TXkweFlNekR6VXNubkhLY00.png",
-          "url": "https://toss.shopping/_m/7cAsXrbr",
-          "_rank": 50,
-          "_product_id": "241796467",
-          "_ts": 1791197299.0,
-          "_last_synced_ts": 1791203097.0
+          "_last_synced_ts": 1791209112.173145
         }
       ]
     }
