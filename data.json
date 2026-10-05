@@ -942,15 +942,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/37554743013178-dc9dc134-ee59-4ad8-bd90-bd4de3184026.jpg",
           "url": "https://link.coupang.com/a/hsQ2JBACcu",
           "_ts": 1790758675.4646468
-        },
-        {
-          "name": "풀무원 평양왕만두 (냉동), 490g, 6개",
-          "price": "16,140원",
-          "discount_rate": 51,
-          "priceAt": "09.30 17:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/bda13e93-33dd-40d9-9458-ecf1df4d0da47909416956905030641.png",
-          "url": "https://link.coupang.com/a/hsNgwyEF0C",
-          "_ts": 1790755505.179463
         }
       ]
     },
@@ -959,6 +950,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "아워홈 잡채말이 어묵, 1kg, 2팩",
+          "price": "10,900원",
+          "discount_rate": 56,
+          "priceAt": "10.05 17:06",
+          "image": "https://shopping.toss.im/live/taca/ai/Mzc4NmYw/WjJkam1SREpqTTZOTnBjNzZ0Qng0M0x0amh5TlBtWjJkdE1SaWVsRTduWT0.png",
+          "url": "https://toss.shopping/_m/xoCfQ9Dk",
+          "_ts": 1791187560.348927,
+          "_product_id": "179780757"
+        },
         {
           "name": "CJ제일제당 스팸 클래식, 340g, 10개",
           "price": "33,900원",
@@ -1532,15 +1533,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/MTY3NDRj/QUxoMEhrbTJjWk16MGN6THpuT3g1elRqUFBOTXdldzQ4Nnp4UERscDRkdFQ.png",
           "url": "https://toss.im/_m/dl7Co8Mu",
           "_ts": 1790766039.5135648
-        },
-        {
-          "name": "리벤스 잘 닦이는 살균 행주 티슈, 60매, 10팩",
-          "price": "9,800원",
-          "discount_rate": 62,
-          "priceAt": "09.30 16:49",
-          "image": "https://shopping.toss.im/live/temp/2025-06-04/6cfbb011-d5d6-4b56-bd91-55fa1de363e8.jpeg",
-          "url": "https://toss.shopping/_m/Nb4ktC4r",
-          "_ts": 1790754595.9220989
         }
       ]
     },
