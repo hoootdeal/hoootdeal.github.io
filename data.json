@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "해태제과 오예스 미니 쿠키앤크림 12p, 192g, 1개",
+          "price": "3,780원",
+          "discount_rate": 35,
+          "priceAt": "10.06 07:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/07/03/14/2/a6b9db2a-6d8a-4081-9fc3-3e2bfc739835.jpg",
+          "url": "https://link.coupang.com/a/hB4cMzb7Ku",
+          "_ts": 1791238244.240791
+        },
+        {
           "name": "CJ제일제당 맛콩 병아리콩 건강 간식, 6개, 50g",
           "price": "5,870원",
           "discount_rate": 26,
@@ -942,33 +951,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/927836614765048-0d2db127-d709-4e65-a51b-e2793153ba76.jpg",
           "url": "https://link.coupang.com/a/htNwBli8TA",
           "_ts": 1790807777.823528
-        },
-        {
-          "name": "비트 캡슐 실내건조 캡슐세제 그린 플로럴향, 42개입, 1개, 42개입 × 1개",
-          "price": "10,240원",
-          "discount_rate": 34,
-          "priceAt": "10.01 07:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1746237235462829-ced7ebb2-32e8-48b5-9cc4-1af4d82f9a40.jpg",
-          "url": "https://link.coupang.com/a/htLGFKt3KK",
-          "_ts": 1790806236.162239
-        },
-        {
-          "name": "릴팡 뽀로로잡스 입체 편한 어린이 스푼 + 포크 + 케이스 세트 PR5980, 혼합색상, 1세트",
-          "price": "5,640원",
-          "discount_rate": 42,
-          "priceAt": "10.01 07:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1136994796675829-ff0ff492-d8f1-423f-b407-2ed0c1ab0501.png",
-          "url": "https://link.coupang.com/a/htLrKk6Zm9",
-          "_ts": 1790806034.628902
-        },
-        {
-          "name": "엘라스틴 닥터노비드 탈모증상완화 지루성 두피용 약산성 비듬 샴푸, 50ml, 1개",
-          "price": "100원",
-          "discount_rate": 93,
-          "priceAt": "10.01 07:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/243431077745102-d37e470e-27c5-4d92-a85a-bbb5085b7c7c.jpg",
-          "url": "https://link.coupang.com/a/htK9qvq2X6",
-          "_ts": 1790805785.959266
         }
       ]
     },
