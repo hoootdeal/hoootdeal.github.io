@@ -969,6 +969,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
+          "price": "25,832원",
+          "discount_rate": 47,
+          "priceAt": "10.06 07:22",
+          "image": "https://shopping.toss.im/live/taca/ai/OWE1OTlj/QUpjNUdNTnBoT2Njam1jWTQzTVpjYy9NNUljNE05TVl4OHc4NXpneHd4akg.png",
+          "url": "https://toss.shopping/_m/LUkWMMGC",
+          "_ts": 1791238950.910094,
+          "_flash": true,
+          "_product_id": "87478999"
+        },
+        {
+          "name": "빌트루 진한 보리차 진액 원액, 480g, 1개",
+          "price": "8,450원",
+          "discount_rate": 63,
+          "priceAt": "10.06 07:22",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/NjkxZTFj/QVA4Y04xeUs4MzJDLy96Rk9LckQ5UndmUE1Mak5Cd2E5TlVKQ09kRkNmVVk.png",
+          "url": "https://toss.shopping/_m/ZTX2cgRA",
+          "_ts": 1791238950.910063,
+          "_flash": true,
+          "_product_id": "147060019"
+        },
+        {
+          "name": "국내산 경북 홍로사과, 18과내외, 2kg, 1박스",
+          "price": "8,075원",
+          "discount_rate": 45,
+          "priceAt": "10.06 07:22",
+          "image": "https://shopping.toss.im/live/temp/2026-09-01/4d6cd1b2-8e33-4a99-b4ce-b553a7f520f4.jpeg",
+          "url": "https://toss.shopping/_m/hpjXK0Dp",
+          "_ts": 1791238950.910014,
+          "_flash": true,
+          "_product_id": "2642388507"
+        },
+        {
           "name": "양념 치마살, 300g, 2개",
           "price": "10,900원",
           "discount_rate": 56,
@@ -1546,26 +1579,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-08-27/9649e8fe-d02e-41bf-a1b6-731c2c8becbd.jpeg",
           "url": "https://toss.shopping/_m/DYqyRWTD",
           "_ts": 1790819810.3801758
-        },
-        {
-          "name": "호정가 군고구마도나스, 960g, 16개입, 1개",
-          "price": "4,990원",
-          "discount_rate": 68,
-          "priceAt": "10.01 07:22",
-          "image": "https://shopping.toss.im/live/taca/ai/YjM2ZTU2/QUpvMFpwV3BiR3RzdGNwdWZGV0lyV0ZGdkpyVnpMVGExalpoVFVxYmxWVmE.png",
-          "url": "https://toss.shopping/_m/TZ8eJCGi",
-          "_ts": 1790806930.6708548,
-          "_flash": true
-        },
-        {
-          "name": "윌로펫 말랑육즙 강아지 소프트사료, 면역/항산화, 1.2kg, 1개",
-          "price": "8,000원",
-          "discount_rate": 71,
-          "priceAt": "10.01 07:21",
-          "image": "https://shopping.toss.im/live/temp/2026-09-10/0b848b3d-1dea-4f3b-85f3-9be3da965e17.png",
-          "url": "https://toss.shopping/_m/bo5S6Rfm",
-          "_ts": 1790806914.3958101,
-          "_flash": true
         }
       ]
     },
