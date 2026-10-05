@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "켈로그 크랜베리 아몬드 그래놀라 시리얼, 550g, 1개, 550g × 1개",
+          "price": "4,650원",
+          "discount_rate": 37,
+          "priceAt": "10.05 11:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/982534486043195-12a62104-e391-4dda-bc32-de4ae186e056.jpg",
+          "url": "https://link.coupang.com/a/hAHzAp9qUu",
+          "_ts": 1791167186.6934981
+        },
+        {
           "name": "뉴트키즈 칼슘마그네슘비타민D 30p, 60g, 1개",
           "price": "15,050원",
           "discount_rate": 33,
@@ -933,15 +942,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/c3a1/fae1865f276fa45a3c784e464428b3f9c1726ab78d159adf0d7470ee0a1a.jpg",
           "url": "https://link.coupang.com/a/hsq8efzZvw",
           "_ts": 1790736918.682942
-        },
-        {
-          "name": "듀오락 10억 생유산균 초코볼 55p, 165g, 1개",
-          "price": "18,750원",
-          "discount_rate": 25,
-          "priceAt": "09.30 10:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5002/35f6cc47a87b21dc0cd4b7609898f8e9e7317599d1ba97650948cec1bbef.jpg",
-          "url": "https://link.coupang.com/a/hsmQ1GOpaK",
-          "_ts": 1790733329.07597
         }
       ]
     },
@@ -1529,15 +1529,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-09-11/9bb755c2-0773-40a6-890a-1b36ad35810c.jpeg",
           "url": "https://toss.im/_m/PJGfsaqc",
           "_ts": 1790738637.4988852
-        },
-        {
-          "name": "맛팜 옛고을 찰순대, 400g, 1개 + 푸짐한 내장 모둠, 500g, 1개",
-          "price": "7,900원",
-          "discount_rate": 59,
-          "priceAt": "09.30 10:37",
-          "image": "https://shopping.toss.im/live/taca/ai/OWYwY2Jk/TWVZNkVpblkySkRGcE9CaWZEQlU5bDhFeDQ3ME05d00ra00wTEdJSElmcz0.png",
-          "url": "https://toss.im/_m/bxf89B57",
-          "_ts": 1790732220.1123478
         }
       ]
     },
