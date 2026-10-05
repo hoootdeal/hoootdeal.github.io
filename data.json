@@ -915,33 +915,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a5ed/393b45acc56000025263059a07a845b69e58f89b3ad52642edb6f3b77a8d.jpg",
           "url": "https://link.coupang.com/a/hsFtbBYeJ2",
           "_ts": 1790748958.2182899
-        },
-        {
-          "name": "바자르 호텔면 수피마 100수 모네 피그먼트 순면베개커버, 네이비 × 50 x 70 cm × 1개",
-          "price": "12,620원",
-          "discount_rate": 36,
-          "priceAt": "09.30 13:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2022/04/11/17/5/490582ab-103b-4eb9-9706-a2486b233cdf.jpg",
-          "url": "https://link.coupang.com/a/hszflwTrAy",
-          "_ts": 1790743734.5611122
-        },
-        {
-          "name": "의식 동원 닷컴 마지탕 (마라탄) 88g × 12식 글루텐 프리 사츠마 고구마 사용, 12개, 12개",
-          "price": "19,340원",
-          "discount_rate": 25,
-          "priceAt": "09.30 12:52",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/33a0/f7863052d899a6d9d7946a1c0035a580fa73d7bf49621c8306ba8ec9bd29.jpg",
-          "url": "https://link.coupang.com/a/hsvcHgzELA",
-          "_ts": 1790740340.129225
-        },
-        {
-          "name": "모윰 손목 치발기 기프트팩 세트, 손목치발기 + 전용케이스, 포니 옐로우 + 별 세이지, 1세트",
-          "price": "11,900원",
-          "discount_rate": 48,
-          "priceAt": "09.30 11:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/c3a1/fae1865f276fa45a3c784e464428b3f9c1726ab78d159adf0d7470ee0a1a.jpg",
-          "url": "https://link.coupang.com/a/hsq8efzZvw",
-          "_ts": 1790736918.682942
         }
       ]
     },
@@ -950,6 +923,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "메르헨트 딥 모이스춰 바세린 바디로션, 1L, 2개",
+          "price": "11,000원",
+          "discount_rate": 72,
+          "priceAt": "10.05 14:31",
+          "image": "https://shopping.toss.im/live/temp/2026-03-11/37457952-7663-483c-8a4d-de281c018829.jpeg",
+          "url": "https://toss.shopping/_m/xBlFbXDe",
+          "_ts": 1791178261.866555,
+          "_product_id": "87955257"
+        },
         {
           "name": "한우물 햄야채 볶음밥, 210g, 10개",
           "price": "9,990원",
@@ -1517,24 +1500,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YTYyY2Uz/QVBEb25jd2JIRW5ObXp5enczTWxFaTloTVR4enRqTWs4ZVExMDV4YTBvdGg.png",
           "url": "https://toss.shopping/_m/95RLprWp",
           "_ts": 1790752001.1969438
-        },
-        {
-          "name": "AHC 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
-          "price": "12,900원",
-          "discount_rate": 82,
-          "priceAt": "09.30 13:04",
-          "image": "https://shopping.toss.im/live/temp/2026-08-27/b476aecd-cf14-428b-ae96-70490bc6fbec.png",
-          "url": "https://toss.im/_m/VRMrsou4",
-          "_ts": 1790741087.1094248
-        },
-        {
-          "name": "탐나유 햇밤 알밤, 2kg, 1개",
-          "price": "11,800원",
-          "discount_rate": 60,
-          "priceAt": "09.30 12:23",
-          "image": "https://shopping.toss.im/live/temp/2026-09-11/9bb755c2-0773-40a6-890a-1b36ad35810c.jpeg",
-          "url": "https://toss.im/_m/PJGfsaqc",
-          "_ts": 1790738637.4988852
         }
       ]
     },
