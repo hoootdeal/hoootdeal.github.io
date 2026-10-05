@@ -951,6 +951,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "CJ제일제당 스팸 클래식, 340g, 10개",
+          "price": "33,900원",
+          "discount_rate": 44,
+          "priceAt": "10.05 16:33",
+          "image": "https://shopping.toss.im/live/temp/2025-07-08/36031967-d461-48c9-a475-0c80990714d1.jpeg",
+          "url": "https://toss.shopping/_m/n2clDnWp",
+          "_ts": 1791185626.2388968,
+          "_product_id": "135264173"
+        },
+        {
           "name": "메르헨트 딥 모이스춰 바세린 바디로션, 1L, 2개",
           "price": "11,000원",
           "discount_rate": 72,
