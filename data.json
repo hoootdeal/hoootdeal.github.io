@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "도루코 페이스 식스 면도기 + 면도날10개입 세트, 1세트, 11개입",
+          "price": "15,790원",
+          "discount_rate": 42,
+          "priceAt": "10.06 09:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/197003771807600-4613b408-7165-4888-a3a6-79d5037ac9a9.jpg",
+          "url": "https://link.coupang.com/a/hCcb7wnNZY",
+          "_ts": 1791244952.911308
+        },
+        {
           "name": "해미원 두번 튀겨 더 고소한 맛뻥, 84g, 2개, 84g × 2개",
           "price": "6,520원",
           "discount_rate": 23,
@@ -942,42 +951,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/785828592074506-d2fb0f9b-6285-46e1-8674-a72468e35e20.jpg",
           "url": "https://link.coupang.com/a/htTIwk5FIW",
           "_ts": 1790812978.020788
-        },
-        {
-          "name": "샥즈 오픈 런 프로2 S820 골전도 블루투스 이어폰 OpenRun Pro 2, 블랙-BK",
-          "price": "139,000원",
-          "discount_rate": 46,
-          "priceAt": "10.01 09:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/97ad/ffeb1fc2e9844b9c16bdd0a3b5499b49c717a66b4a75e3e3b891e131e780.jpg",
-          "url": "https://link.coupang.com/a/htTwejhW7E",
-          "_ts": 1790812811.793057
-        },
-        {
-          "name": "쉐푸드 등심 통 돈까스 (냉동), 300g, 2개",
-          "price": "9,480원",
-          "discount_rate": 26,
-          "priceAt": "10.01 08:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/564fd6d4-4b27-4076-b6b2-cdeddc04d21c8450160312271557467.png",
-          "url": "https://link.coupang.com/a/htSO8xxZmu",
-          "_ts": 1790812227.871835
-        },
-        {
-          "name": "베베쿡 유아용 사르르쿵 과자, 치즈요거트맛, 23g, 2개",
-          "price": "4,500원",
-          "discount_rate": 46,
-          "priceAt": "10.01 08:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/101444250545066-1250eac0-f1c7-4465-848c-7e687ce95546.jpg",
-          "url": "https://link.coupang.com/a/htSyKD6OdM",
-          "_ts": 1790812005.952378
-        },
-        {
-          "name": "첫맛 캡사이신 매운맛소스, 550g, 1개, 550g × 1개",
-          "price": "3,600원",
-          "discount_rate": 44,
-          "priceAt": "10.01 08:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/06/20/11/8/e42526f0-1b1e-4789-bc38-4917b3a0e4fd.jpg",
-          "url": "https://link.coupang.com/a/htRQtDRhOC",
-          "_ts": 1790811406.121152
         }
       ]
     },
