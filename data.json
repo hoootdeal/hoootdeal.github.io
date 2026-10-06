@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "비비고 한식간장 김자반, 50g, 3개, 50g × 3개",
+          "price": "5,310원",
+          "discount_rate": 75,
+          "priceAt": "10.06 11:49",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/187314546056413-c6920747-c9b6-4ffb-b708-30bd27572ad2.jpg",
+          "url": "https://link.coupang.com/a/hCn62VnFxQ",
+          "_ts": 1791254960.79534
+        },
+        {
           "name": "트윅스 솔티드 카라멜, 46g, 6개, 46g × 6개",
           "price": "5,650원",
           "discount_rate": 35,
@@ -942,33 +951,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4427/2a39bc0f011247380e855c425cfb79b4d44886ea931052081bc4ef0a25f6.jpg",
           "url": "https://link.coupang.com/a/ht5K2IrmsC",
           "_ts": 1790823087.157123
-        },
-        {
-          "name": "마스마룰즈 남녀공용 래빗에코백 + 파우치 세트, 레오파드, 에코백(420 x 350 mm), 파우치(180 x 180 mm)",
-          "price": "27,900원",
-          "discount_rate": 30,
-          "priceAt": "10.01 11:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/77881593823244-f2e0e42d-c50d-4fff-b88f-bc3386ec226b.jpg",
-          "url": "https://link.coupang.com/a/ht20N9bC8G",
-          "_ts": 1790820782.363701
-        },
-        {
-          "name": "오뚜기 양조 식초, 3개, 900ml",
-          "price": "3,270원",
-          "discount_rate": 37,
-          "priceAt": "10.01 11:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/63909649319936-f46d34e2-0a55-49d1-943c-6facfd3dee95.jpg",
-          "url": "https://link.coupang.com/a/ht2TzBpzYO",
-          "_ts": 1790820683.859094
-        },
-        {
-          "name": "오뚜기3분 쇠고기 간짜장, 200g, 200ml, 5개",
-          "price": "5,450원",
-          "discount_rate": 50,
-          "priceAt": "10.01 11:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/66211501463025-6804d14f-23bd-46f6-8109-52a25fac50af.jpg",
-          "url": "https://link.coupang.com/a/ht2mqEjIOW",
-          "_ts": 1790820235.2614121
         }
       ]
     },
@@ -1564,58 +1546,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-02-20/8967c0a1-3e5f-4929-a496-26d84cacbef8.jpeg",
           "url": "https://toss.im/_m/XUEcLSdr",
           "_ts": 1790828095.789918
-        },
-        {
-          "name": "팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
-          "price": "4,830원",
-          "discount_rate": 83,
-          "priceAt": "10.01 11:32",
-          "image": "https://shopping.toss.im/live/taca/ai/ZGRjYzU1/QUxzSHhpWEYrRFAwZEkzOHhwN2tqenVqVTdHWmNXTk1acytNYzRlc1VKMjQ.png",
-          "url": "https://toss.im/_m/tOK51BXD",
-          "_ts": 1790821924.024661,
-          "_flash": true
-        },
-        {
-          "name": "메르헨트 퍼퓸 샴푸, 화이트머스크, 1L, 2개",
-          "price": "6,230원",
-          "discount_rate": 79,
-          "priceAt": "10.01 11:32",
-          "image": "https://shopping.toss.im/live/temp/2026-06-25/2f74f94a-6229-4af8-b0a2-3781007da2d1.jpeg",
-          "url": "https://toss.shopping/_m/BRjbo9Bn",
-          "_ts": 1790821924.024631,
-          "_flash": true,
-          "sold_out": true,
-          "_sold_at": 1791250297.0
-        },
-        {
-          "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
-          "price": "10,990원",
-          "discount_rate": 76,
-          "priceAt": "10.01 11:32",
-          "image": "https://shopping.toss.im/live/temp/2026-09-08/131ff3ca-add9-4eb4-887d-a5bfc5f03ac0.jpeg",
-          "url": "https://toss.shopping/_m/PjzyV7zd",
-          "_ts": 1790821924.0245829,
-          "_flash": true
-        },
-        {
-          "name": "포천이동 양념LA갈비, 500g, 1팩",
-          "price": "6,990원",
-          "discount_rate": 56,
-          "priceAt": "10.01 11:31",
-          "image": "https://shopping.toss.im/live/taca/ai/YWQ1YzA5/QU16RU01L0lZcC9STjBkV0M3QzZVekM0dzJJSjdIQXo3czRVNXN0b1h1M28.png",
-          "url": "https://toss.shopping/_m/POfKIzmx",
-          "_ts": 1790821906.481536,
-          "_flash": true
-        },
-        {
-          "name": "이선별 밀크카스테라, 1kg, 1박스",
-          "price": "6,900원",
-          "discount_rate": 78,
-          "priceAt": "10.01 11:31",
-          "image": "https://shopping.toss.im/live/temp/2026-05-28/6c7ab71a-3621-4595-8650-ab95f3dc4796.jpeg",
-          "url": "https://toss.im/_m/V7nZkelC",
-          "_ts": 1790821906.4814851,
-          "_flash": true
         }
       ]
     },
