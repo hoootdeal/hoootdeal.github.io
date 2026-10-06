@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "트윅스 솔티드 카라멜, 46g, 6개, 46g × 6개",
+          "price": "5,650원",
+          "discount_rate": 35,
+          "priceAt": "10.06 10:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/65037716689866-2b8fcb63-8668-40a4-9574-91cb6c22a2a9.jpg",
+          "url": "https://link.coupang.com/a/hCkttxMX8u",
+          "_ts": 1791251904.277976
+        },
+        {
           "name": "프로그 프로샤인 탄냄비 수세미, 6개입, 1개",
           "price": "4,390원",
           "discount_rate": 34,
@@ -1607,15 +1616,6 @@
           "url": "https://toss.im/_m/V7nZkelC",
           "_ts": 1790821906.4814851,
           "_flash": true
-        },
-        {
-          "name": "목우촌 주부9단 프랑크 소시지, 500g, 3개",
-          "price": "14,500원",
-          "discount_rate": 46,
-          "priceAt": "10.01 10:56",
-          "image": "https://shopping.toss.im/live/temp/2025-08-27/9649e8fe-d02e-41bf-a1b6-731c2c8becbd.jpeg",
-          "url": "https://toss.shopping/_m/DYqyRWTD",
-          "_ts": 1790819810.3801758
         }
       ]
     },
