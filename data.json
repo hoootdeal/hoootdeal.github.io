@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "빼빼로 혼합 10p 세트, 442g, 1세트, 442g × 1세트",
+          "price": "14,830원",
+          "discount_rate": 26,
+          "priceAt": "10.06 11:53",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/09/28/10/3/12c5074e-99dc-42a2-873b-d05c914613b2.jpg",
+          "url": "https://link.coupang.com/a/hConE1GHFQ",
+          "_ts": 1791255184.054207
+        },
+        {
           "name": "비비고 한식간장 김자반, 50g, 3개, 50g × 3개",
           "price": "5,310원",
           "discount_rate": 75,
@@ -942,15 +951,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8806/978aded5a136dd71970eae9afafce8e6ed6cb1c660e94b4027eb5dd28be5.jpg",
           "url": "https://link.coupang.com/a/ht8StjAkI8",
           "_ts": 1790825707.4952462
-        },
-        {
-          "name": "셀퓨전씨 레이저 유브이 썬스크린 SPF50+ PA++++, 50ml, 1개",
-          "price": "9,250원",
-          "discount_rate": 37,
-          "priceAt": "10.01 11:51",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4427/2a39bc0f011247380e855c425cfb79b4d44886ea931052081bc4ef0a25f6.jpg",
-          "url": "https://link.coupang.com/a/ht5K2IrmsC",
-          "_ts": 1790823087.157123
         }
       ]
     },
