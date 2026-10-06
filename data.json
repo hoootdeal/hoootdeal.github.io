@@ -897,33 +897,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6d75acea-8fe0-47c3-8304-abd909c9aec05395606732732768375.png",
           "url": "https://link.coupang.com/a/hurPnHXyii",
           "_ts": 1790841617.927308
-        },
-        {
-          "name": "LG전자 2025 그램 17 코어Ultra5, 에센스 화이트, 256GB, 16GB, WIN11 Home, 17Z90S-GA5VK",
-          "price": "981,410원",
-          "discount_rate": 46,
-          "priceAt": "10.01 16:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ff5b/52319b9c940019660d2ece3dcbc8ac3f00048d1824a9acf3360e95cd66ec.png",
-          "url": "https://link.coupang.com/a/hunEbNpnTo",
-          "_ts": 1790838107.386774
-        },
-        {
-          "name": "카밀 핸드 앤 네일 크림 클래식, 100ml, 2개",
-          "price": "5,800원",
-          "discount_rate": 63,
-          "priceAt": "10.01 15:52",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6574d7c8-2405-420f-8942-20dd194afcda12382882598244341102.png",
-          "url": "https://link.coupang.com/a/humZlwXvRk",
-          "_ts": 1790837555.243479
-        },
-        {
-          "name": "주부9단 목우촌 두툼 비엔나, 700g, 2개",
-          "price": "10,570원",
-          "discount_rate": 28,
-          "priceAt": "10.01 15:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/ca986128-5558-4799-b286-9a63b34d7e659110402818551976698.png",
-          "url": "https://link.coupang.com/a/hulmVyLnpY",
-          "_ts": 1790836194.2985961
         }
       ]
     },
@@ -932,6 +905,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "신선하랑 냉동 삼겹살, 1kg, 2개",
+          "price": "22,500원",
+          "discount_rate": 42,
+          "priceAt": "10.06 16:15",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDE5Y2Ix/QU1XMTRxV0MrUUpGQlVGZFZ3djFQSnkzRUR4QzRZSnJid2x2S1ZycW5ZVT0.png",
+          "url": "https://toss.shopping/_m/hh463PKf",
+          "_ts": 1791270918.982486,
+          "_product_id": "288570013"
+        },
         {
           "name": "파이토메이드 고칼슘&비타민D 두유 21곡 미숫가루, 190ml, 24개",
           "price": "7,900원",
@@ -1514,15 +1497,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-05/28f63f1a-246e-4e36-82ad-12f0fbb50755.jpeg",
           "url": "https://toss.shopping/_m/Ru0unTgn",
           "_ts": 1790841822.7158232
-        },
-        {
-          "name": "종근당건강 락토핏 골드, 140포, 2개 + 증정 락토핏 골드, 30포 + 증정 아임비타 면역비타민C, 30포",
-          "price": "50,310원",
-          "discount_rate": 66,
-          "priceAt": "10.01 15:53",
-          "image": "https://shopping.toss.im/live/temp/2026-08-03/74828108-78eb-4328-bf27-62b32a559495.jpeg",
-          "url": "https://toss.shopping/_m/jhhMXREj",
-          "_ts": 1790837629.7759721
         }
       ]
     },
