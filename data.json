@@ -951,6 +951,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "곰도리 온열안대 라이트 케어 플러스, 40개입, 1개",
+          "price": "6,990원",
+          "discount_rate": 64,
+          "priceAt": "10.06 14:01",
+          "image": "https://shopping.toss.im/live/temp/2026-02-03/f59e62b9-e4d9-408e-886d-f270617fb6f6.png",
+          "url": "https://toss.shopping/_m/blNt9mHC",
+          "_ts": 1791262882.800972,
+          "_product_id": "774304463"
+        },
+        {
           "name": "그린너트 두쫀쿠 스프레드, 피스타치오, 180g, 1개",
           "price": "5,850원",
           "discount_rate": 81,
