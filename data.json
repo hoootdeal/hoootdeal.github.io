@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "슈퍼대디 저자극 퓨어55 엠보싱 아기물티슈 캡형, 55g, 100매, 10개",
+          "price": "8,840원",
+          "discount_rate": 61,
+          "priceAt": "10.06 17:42",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/01/10/12/0/feefc96e-57b2-45c2-851f-724b43af53e2.jpg",
+          "url": "https://link.coupang.com/a/hCNmxEgcFM",
+          "_ts": 1791276158.833738
+        },
+        {
           "name": "띵크유어도그티 강아지 딩고껌 중형 6P, 치킨, 240g, 3개",
           "price": "8,580원",
           "discount_rate": 79,
@@ -906,24 +915,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/19/15/6/1ddbbde4-575b-4014-ac58-13d53429647a.jpg",
           "url": "https://link.coupang.com/a/huwMN7paYm",
           "_ts": 1790845780.2172449
-        },
-        {
-          "name": "그린자이언트 니블렛 스위트콘, 340g, 5개",
-          "price": "5,700원",
-          "discount_rate": 37,
-          "priceAt": "10.01 17:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0094/e1be8a79f344d4085b0779705249cdae45e1a76b4baf7489b0005978ea99.jpg",
-          "url": "https://link.coupang.com/a/husINkbZim",
-          "_ts": 1790842368.723146
-        },
-        {
-          "name": "폰타나 이탈리아 유기농 통밀 스파게티, 500g, 2개, 500g × 2개",
-          "price": "4,480원",
-          "discount_rate": 55,
-          "priceAt": "10.01 17:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6d75acea-8fe0-47c3-8304-abd909c9aec05395606732732768375.png",
-          "url": "https://link.coupang.com/a/hurPnHXyii",
-          "_ts": 1790841617.927308
         }
       ]
     },
@@ -1527,15 +1518,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-09-20/a0e6554a-50c1-4ea9-8954-02f528e674e3.png",
           "url": "https://toss.shopping/_m/L40PABc3",
           "_ts": 1790845949.1876721
-        },
-        {
-          "name": "더건강플러스 엑스트라버진 올리브오일, 1L, 1개",
-          "price": "12,700원",
-          "discount_rate": 68,
-          "priceAt": "10.01 17:03",
-          "image": "https://shopping.toss.im/live/temp/2026-06-05/28f63f1a-246e-4e36-82ad-12f0fbb50755.jpeg",
-          "url": "https://toss.shopping/_m/Ru0unTgn",
-          "_ts": 1790841822.7158232
         }
       ]
     },
