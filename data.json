@@ -888,6 +888,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "유창원장인 속초식 명태회무침, 1kg, 1통",
+          "price": "11,900원",
+          "discount_rate": 40,
+          "priceAt": "10.07 00:01",
+          "image": "https://shopping.toss.im/live/temp/2025-01-10/13e5baee-ced4-45ff-8ea8-3e774916d35d.jpeg",
+          "url": "https://toss.shopping/_m/roF2RFVg",
+          "_ts": 1791298895.642477,
+          "_flash": true,
+          "_product_id": "525355335"
+        },
+        {
+          "name": "대한민국농수산 뼈없는 한돈 양념갈비, 300g, 4팩",
+          "price": "15,900원",
+          "discount_rate": 63,
+          "priceAt": "10.07 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/NGUxMDM2/QUxPVVc4MjhtOFk4NDVQMlpjY05IemxZV0ZtMnAyMXBkL1UweDhaS2tQSlk.png",
+          "url": "https://toss.shopping/_m/DzHq5l0r",
+          "_ts": 1791298895.642449,
+          "_flash": true,
+          "_product_id": "144205089"
+        },
+        {
+          "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
+          "price": "6,900원",
+          "discount_rate": 58,
+          "priceAt": "10.07 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-07-20/fcf09a1c-3d4e-4e2a-93fb-23b126be49b1.png",
+          "url": "https://toss.shopping/_m/jDZgUhRv",
+          "_ts": 1791298895.642402,
+          "_flash": true,
+          "_product_id": "8834733"
+        },
+        {
           "name": "시현푸드 마카로니 뻥튀기, 1.2kg, 1개",
           "price": "5,950원",
           "discount_rate": 64,
