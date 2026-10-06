@@ -897,15 +897,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/45983795250057-cb29f47a-3237-4d43-81b3-d4c277d1a48f.jpg",
           "url": "https://link.coupang.com/a/huEmurSPvw",
           "_ts": 1790852141.859657
-        },
-        {
-          "name": "스키피 수퍼청크 땅콩버터, 462g, 2개, 462g × 2개",
-          "price": "9,480원",
-          "discount_rate": 24,
-          "priceAt": "10.01 19:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/876901982179428-d6ba30ea-7014-4660-b1f9-8f665bf4121a.png",
-          "url": "https://link.coupang.com/a/huAAen7PfU",
-          "_ts": 1790848969.3247528
         }
       ]
     },
@@ -914,6 +905,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "크리스탈 생수, 무라벨, 500ml, 100개",
+          "price": "16,400원",
+          "discount_rate": 67,
+          "priceAt": "10.06 19:18",
+          "image": "https://shopping.toss.im/live/taca/ai/OTJlMmU5/QVA0Y3IybjRQUHdMUXZobzh5andLZTQrOGRPMmUrR2U1RDdCbm9XdndlWkw.png",
+          "url": "https://toss.shopping/_m/Xe0iBTVb",
+          "_ts": 1791281934.993807,
+          "_product_id": "1750472079"
+        },
         {
           "name": "산해직송 국내산 전라도 파김치, 2kg, 1팩",
           "price": "14,400원",
