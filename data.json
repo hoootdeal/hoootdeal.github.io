@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "담라 투, 1kg, 1개",
+          "price": "6,000원",
+          "discount_rate": 31,
+          "priceAt": "10.07 07:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/f501/82bdad79f31ec2e88a91ffd11939e973b454bead8a3eda7e52db3c1368a7.jpg",
+          "url": "https://link.coupang.com/a/hDKqnmP1Ai",
+          "_ts": 1791325749.6368792
+        },
+        {
           "name": "질레트 포오미 레몬라임 쉐이빙 폼, 175g, 4개",
           "price": "14,770원",
           "discount_rate": 34,
@@ -879,15 +888,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/121663249889351-74a9b4d0-fb54-493f-a02f-18c8f693dbff.jpg",
           "url": "https://link.coupang.com/a/hvuUy2QmzY",
           "_ts": 1790896261.895377
-        },
-        {
-          "name": "에어후레쉬 크리스탈워터 실내용 대용량 방향제, 400ml, 1개, 부케향",
-          "price": "2,890원",
-          "discount_rate": 60,
-          "priceAt": "10.02 07:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/11/29/10/3/1cd28975-ce3c-4880-be0a-5eb69c74d4d5.jpg",
-          "url": "https://link.coupang.com/a/hvqS1W3gIe",
-          "_ts": 1790892882.08358
         }
       ]
     },
@@ -1523,56 +1523,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-03/6b083d0c-c74f-467a-9ec8-a46fe748c635.png",
           "url": "https://toss.shopping/_m/PMmtWFLt",
           "_ts": 1790904685.376958
-        },
-        {
-          "name": "포케올데이 유부 두부볼 불고기 토핑, 195g, 3개",
-          "price": "8,658원",
-          "discount_rate": 61,
-          "priceAt": "10.02 07:21",
-          "image": "https://shopping.toss.im/live/temp/2026-06-09/30048302-2483-4b23-a125-858818d8a469.jpeg",
-          "url": "https://toss.shopping/_m/FqBzZJbv",
-          "_ts": 1790893315.810862,
-          "_flash": true
-        },
-        {
-          "name": "키핀터치 사계 매듭 듀이 글로우 틴트, 03 자두빙수, 3.2g, 1개",
-          "price": "3,490원",
-          "discount_rate": 76,
-          "priceAt": "10.02 07:21",
-          "image": "https://shopping.toss.im/live/temp/2026-08-07/7f570cb9-42ef-4b70-bae0-c28499eec087.png",
-          "url": "https://toss.shopping/_m/rZ4tiyX9",
-          "_ts": 1790893315.810789,
-          "_flash": true
-        },
-        {
-          "name": "수뜰리에 고농축 섬유유연제 코튼캔디, 2.5L, 4개",
-          "price": "4,620원",
-          "discount_rate": 88,
-          "priceAt": "10.02 07:21",
-          "image": "https://shopping.toss.im/live/temp/2026-09-21/700e7092-4de8-4f4f-9e98-d7e271273554.png",
-          "url": "https://toss.shopping/_m/pJmIyB87",
-          "_ts": 1790893299.474245,
-          "_flash": true
-        },
-        {
-          "name": "이지앤프리 에어클립 프레시 밀폐용기 체험팩, 레몬, 5종, 7P, 1세트",
-          "price": "7,590원",
-          "discount_rate": 73,
-          "priceAt": "10.02 07:21",
-          "image": "https://shopping.toss.im/live/temp/2026-09-10/727e15a6-ef63-40e3-9d2a-03832f4bd058.jpeg",
-          "url": "https://toss.shopping/_m/vGnK2Xbc",
-          "_ts": 1790893299.474218,
-          "_flash": true
-        },
-        {
-          "name": "번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
-          "price": "5,990원",
-          "discount_rate": 66,
-          "priceAt": "10.02 07:21",
-          "image": "https://shopping.toss.im/live/product/737361/a4b6b85a-0311-435b-a871-3599dfd7686f.jpeg",
-          "url": "https://toss.shopping/_m/NOPYawt2",
-          "_ts": 1790893299.474171,
-          "_flash": true
         }
       ]
     },
