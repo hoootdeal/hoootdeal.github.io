@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데웰푸드 에이비씨 초콜릿, 187g, 2개",
+          "price": "7,960원",
+          "discount_rate": 20,
+          "priceAt": "10.07 07:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/14760251080527-6d934cab-87d3-44bd-9d9c-075417457cca.png",
+          "url": "https://link.coupang.com/a/hDKCHMIwRp",
+          "_ts": 1791325911.757151
+        },
+        {
           "name": "담라 투, 1kg, 1개",
           "price": "6,000원",
           "discount_rate": 31,
