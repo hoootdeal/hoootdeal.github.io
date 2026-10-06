@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "세브란스에이투 전용목장 단백우유, 180ml, 24개, 180ml × 24개",
+          "price": "15,980원",
+          "discount_rate": 25,
+          "priceAt": "10.06 12:47",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/644849022750986-6eb5a495-d800-42c9-aff9-9998af119b8c.jpg",
+          "url": "https://link.coupang.com/a/hCsf6NoqtM",
+          "_ts": 1791258440.278021
+        },
+        {
           "name": "빼빼로 혼합 10p 세트, 442g, 1세트, 442g × 1세트",
           "price": "14,830원",
           "discount_rate": 26,
@@ -942,15 +951,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2582787446561-b69cf6d6-007b-409f-a393-4ce02469bb8e.jpg",
           "url": "https://link.coupang.com/a/hua9AOLBa8",
           "_ts": 1790827617.7808828
-        },
-        {
-          "name": "세이어스 위치 하젤 알코올 프리 토너 언센티드, 355ml, 1개",
-          "price": "10,990원",
-          "discount_rate": 30,
-          "priceAt": "10.01 12:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8806/978aded5a136dd71970eae9afafce8e6ed6cb1c660e94b4027eb5dd28be5.jpg",
-          "url": "https://link.coupang.com/a/ht8StjAkI8",
-          "_ts": 1790825707.4952462
         }
       ]
     },
