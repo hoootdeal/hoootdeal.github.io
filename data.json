@@ -924,6 +924,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "슬림떡볶이 로제맛, 230g, 4개",
+          "price": "5,530원",
+          "discount_rate": 64,
+          "priceAt": "10.07 08:02",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MzgzYjc2/QUlYSDJaK1huZzlNUHh0dVhleFo4YXp3ZkpoeEJmbE10djZodDA2QUZIbno.png",
+          "url": "https://toss.shopping/_m/3lrWbCFy",
+          "_ts": 1791327724.783294,
+          "_flash": true,
+          "_product_id": "2482486143"
+        },
+        {
+          "name": "푸드앳홈 다진 마늘, 1kg, 2팩",
+          "price": "12,825원",
+          "discount_rate": 47,
+          "priceAt": "10.07 08:02",
+          "image": "https://shopping.toss.im/live/taca/ai/YzkyYTZh/QU5MT3ZMYkR5UERITGJoRHo3NGNQMGhRUGZ3czYvQ1F0WWZqYjlSYUJoZ1k.png",
+          "url": "https://toss.shopping/_m/LLFeZNJe",
+          "_ts": 1791327724.783257,
+          "_flash": true,
+          "_product_id": "1109727947"
+        },
+        {
+          "name": "팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
+          "price": "4,830원",
+          "discount_rate": 83,
+          "priceAt": "10.07 08:02",
+          "image": "https://shopping.toss.im/live/taca/ai/ZGRjYzU1/QUxzSHhpWEYrRFAwZEkzOHhwN2tqenVqVTdHWmNXTk1acytNYzRlc1VKMjQ.png",
+          "url": "https://toss.shopping/_m/tOK51BXD",
+          "_ts": 1791327724.783208,
+          "_flash": true,
+          "_product_id": "807365761"
+        },
+        {
           "name": "유창원장인 속초식 명태회무침, 1kg, 1통",
           "price": "11,900원",
           "discount_rate": 40,
@@ -1323,17 +1356,6 @@
           "_ts": 1791152584.234855,
           "_flash": true,
           "_product_id": "2601104607"
-        },
-        {
-          "name": "슬림떡볶이 로제맛, 230g, 4개",
-          "price": "5,530원",
-          "discount_rate": 64,
-          "priceAt": "10.05 07:22",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MzgzYjc2/QUlYSDJaK1huZzlNUHh0dVhleFo4YXp3ZkpoeEJmbE10djZodDA2QUZIbno.png",
-          "url": "https://toss.shopping/_m/3lrWbCFy",
-          "_ts": 1791152542.88813,
-          "_flash": true,
-          "_product_id": "2482486143"
         },
         {
           "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
