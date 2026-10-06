@@ -897,6 +897,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "대한민국농수산 사각 옥수수술빵, 350g, 5개",
+          "price": "9,895원",
+          "discount_rate": 60,
+          "priceAt": "10.06 21:09",
+          "image": "https://shopping.toss.im/live/taca/ai/OTAyNjY0/QU0xanZBZnU2UGdIQVBwbno3K0pJZzkrZUJxN1BQaDNBK1ZDRzNPT0RwZVU.png",
+          "url": "https://toss.shopping/_m/JgJEQvhC",
+          "_ts": 1791288558.294454,
+          "_product_id": "476450353"
+        },
+        {
           "name": "에이지랩 스네일 뮤신 브라이트닝 선크림, 70ml, 2개",
           "price": "7,320원",
           "discount_rate": 85,
