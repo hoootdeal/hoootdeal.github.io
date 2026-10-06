@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "제일파프 쿨 파스, 5개입, 40개",
+          "price": "18,690원",
+          "discount_rate": 85,
+          "priceAt": "10.07 08:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1024281037197431-d47202c7-8712-47d3-b687-a3832585dc90.jpg",
+          "url": "https://link.coupang.com/a/hDMOP2OQQS",
+          "_ts": 1791327756.1459332
+        },
+        {
           "name": "라라스윗 자두 제로바 (냉동), 2개, 6개입, 70ml",
           "price": "5,640원",
           "discount_rate": 54,
