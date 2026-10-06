@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "프로그 프로샤인 탄냄비 수세미, 6개입, 1개",
+          "price": "4,390원",
+          "discount_rate": 34,
+          "priceAt": "10.06 10:05",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/125405607352138-9d02b1de-dbf5-44f8-b945-7a1838b2615f.jpg",
+          "url": "https://link.coupang.com/a/hCgHYmlVGC",
+          "_ts": 1791248741.6529548
+        },
+        {
           "name": "나우푸드 프로바이오틱-10 유산균 250억 베지 캡슐, 100정, 2개",
           "price": "42,880원",
           "discount_rate": 24,
@@ -951,24 +960,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/66211501463025-6804d14f-23bd-46f6-8109-52a25fac50af.jpg",
           "url": "https://link.coupang.com/a/ht2mqEjIOW",
           "_ts": 1790820235.2614121
-        },
-        {
-          "name": "펩시 제로슈거 라임향 무라벨, 300ml, 20개",
-          "price": "11,930원",
-          "discount_rate": 20,
-          "priceAt": "10.01 10:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/196725783672193-4b8f890d-37ef-4e82-bda9-3ed3d6b77b41.jpg",
-          "url": "https://link.coupang.com/a/htX6ViewHQ",
-          "_ts": 1790816665.970258
-        },
-        {
-          "name": "포스트 오레오오즈 요거트큐브 시리얼, 400g, 1개",
-          "price": "5,610원",
-          "discount_rate": 39,
-          "priceAt": "10.01 10:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/01/11/3/1eb4b3ab-72b8-49ef-9f44-6f449821df0f.jpg",
-          "url": "https://link.coupang.com/a/htX5sfJ2su",
-          "_ts": 1790816648.327467
         }
       ]
     },
