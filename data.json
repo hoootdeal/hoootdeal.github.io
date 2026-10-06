@@ -924,24 +924,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/91424752822204-bf05a0ff-eb49-486b-bddc-fa8087af4a14.jpg",
           "url": "https://link.coupang.com/a/hukTDNTS8G",
           "_ts": 1790835798.614182
-        },
-        {
-          "name": "고향만두 종로 할머니도 모르는 고추지짐 맛의 비밀 만두 (냉동), 370g, 4개",
-          "price": "8,980원",
-          "discount_rate": 34,
-          "priceAt": "10.01 14:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/97053955985961-9d236bae-1357-4880-8bd1-19482c34e61e.jpg",
-          "url": "https://link.coupang.com/a/huhj583ke5",
-          "_ts": 1790832797.010282
-        },
-        {
-          "name": "평창수 무라벨 생수, 2L, 12개, 2L × 12개",
-          "price": "6,050원",
-          "discount_rate": 28,
-          "priceAt": "10.01 14:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/04d9/35f191a7201f0df9c1d84a022876665c45be3d068006c524dc45eef7633e.jpg",
-          "url": "https://link.coupang.com/a/hugR0FpWgu",
-          "_ts": 1790832418.355884
         }
       ]
     },
@@ -950,6 +932,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "파이토메이드 고칼슘&비타민D 두유 21곡 미숫가루, 190ml, 24개",
+          "price": "7,900원",
+          "discount_rate": 50,
+          "priceAt": "10.06 15:14",
+          "image": "https://shopping.toss.im/live/temp/2026-06-16/b1e9c145-5424-4198-9449-4beace9264e8.jpeg",
+          "url": "https://toss.shopping/_m/jMEAIecx",
+          "_ts": 1791267293.777098,
+          "_product_id": "296698859"
+        },
         {
           "name": "곰도리 온열안대 라이트 케어 플러스, 40개입, 1개",
           "price": "6,990원",
@@ -1531,15 +1523,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-03/74828108-78eb-4328-bf27-62b32a559495.jpeg",
           "url": "https://toss.shopping/_m/jhhMXREj",
           "_ts": 1790837629.7759721
-        },
-        {
-          "name": "프로프룻 샤인머스켓, 특품, 2kg, 1박스",
-          "price": "10,800원",
-          "discount_rate": 84,
-          "priceAt": "10.01 14:17",
-          "image": "https://shopping.toss.im/live/temp/2026-08-05/d1036994-fd95-42f5-82be-741dff71ead8.jpeg",
-          "url": "https://toss.im/_m/xhnmVJBp",
-          "_ts": 1790831869.080259
         }
       ]
     },
