@@ -969,6 +969,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "그린너트 두쫀쿠 스프레드, 피스타치오, 180g, 1개",
+          "price": "5,850원",
+          "discount_rate": 81,
+          "priceAt": "10.06 10:32",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/YzkyMjg2/QUpiUDVadXNwSnJIZm1UYTlITlRhNXZyV3kxUGxZL1c3RVNrYVZGeWRLYW0.png",
+          "url": "https://toss.shopping/_m/P8FSMebC",
+          "_ts": 1791250342.452787,
+          "_product_id": "2487393443"
+        },
+        {
           "name": "극조생 감귤 햇귤, 로얄과, 5kg, 1개",
           "price": "9,800원",
           "discount_rate": 75,
