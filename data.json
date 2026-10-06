@@ -924,6 +924,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "주방미학 심플 미니 통삼중 압력솥, 1.2L, 1개",
+          "price": "29,250원",
+          "discount_rate": 70,
+          "priceAt": "10.06 16:39",
+          "image": "https://shopping.toss.im/live/taca/ai/ZjM2Mzk5/QUt4Z3RSK1Q1dGJiWGhwTGNVajVIU3p4eDdMT1BueGtNR3VrbjRUaEUyclM.png",
+          "url": "https://toss.shopping/_m/HM5JcorD",
+          "_ts": 1791272341.476467,
+          "_product_id": "178334193"
+        },
+        {
           "name": "신선하랑 냉동 삼겹살, 1kg, 2개",
           "price": "22,500원",
           "discount_rate": 42,
