@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "뉴트리코어 식물성 멜라토닌 함유 멜라바인, 30정, 1개, 30정 × 1개",
+          "price": "11,500원",
+          "discount_rate": 55,
+          "priceAt": "10.06 15:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/83288248545244-0c8b8310-6e69-42e9-917b-24f182c9d127.jpg",
+          "url": "https://link.coupang.com/a/hCDOK8Xy3w",
+          "_ts": 1791268146.3033159
+        },
+        {
           "name": "닥터유 다이제 씬, 252g, 2개",
           "price": "4,300원",
           "discount_rate": 30,
@@ -915,15 +924,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/ca986128-5558-4799-b286-9a63b34d7e659110402818551976698.png",
           "url": "https://link.coupang.com/a/hulmVyLnpY",
           "_ts": 1790836194.2985961
-        },
-        {
-          "name": "리고 100% 땅콩버터 크리미, 453g, 3개",
-          "price": "14,070원",
-          "discount_rate": 53,
-          "priceAt": "10.01 15:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/91424752822204-bf05a0ff-eb49-486b-bddc-fa8087af4a14.jpg",
-          "url": "https://link.coupang.com/a/hukTDNTS8G",
-          "_ts": 1790835798.614182
         }
       ]
     },
