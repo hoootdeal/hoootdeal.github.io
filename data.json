@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "동원 개성 감자물만두 (냉동), 600g, 2개",
+          "price": "6,980원",
+          "discount_rate": 33,
+          "priceAt": "10.06 09:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2020/02/20/17/0/7a168a1c-13cf-45ab-b04c-807f6f4936f5.jpg",
+          "url": "https://link.coupang.com/a/hCeClCJg8y",
+          "_ts": 1791246986.080373
+        },
+        {
           "name": "도루코 페이스 식스 면도기 + 면도날10개입 세트, 1세트, 11개입",
           "price": "15,790원",
           "discount_rate": 42,
