@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "닥터유 다이제 씬, 252g, 2개",
+          "price": "4,300원",
+          "discount_rate": 30,
+          "priceAt": "10.06 13:40",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/30482842200577-1d99c4d5-8708-41be-a58c-cc3e25ebc354.jpg",
+          "url": "https://link.coupang.com/a/hCv5F8n6ui",
+          "_ts": 1791261657.5347369
+        },
+        {
           "name": "세브란스에이투 전용목장 단백우유, 180ml, 24개, 180ml × 24개",
           "price": "15,980원",
           "discount_rate": 25,
@@ -933,24 +942,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/04d9/35f191a7201f0df9c1d84a022876665c45be3d068006c524dc45eef7633e.jpg",
           "url": "https://link.coupang.com/a/hugR0FpWgu",
           "_ts": 1790832418.355884
-        },
-        {
-          "name": "풀무원 꼬마 야채김밥 세트, 124g, 2개",
-          "price": "6,080원",
-          "discount_rate": 21,
-          "priceAt": "10.01 13:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/31546466-f77c-44f6-9340-13112943bc0d5015370011744754085.png",
-          "url": "https://link.coupang.com/a/hucuYisAGO",
-          "_ts": 1790828746.5693939
-        },
-        {
-          "name": "아디다스피트니스 에센셜 무릎 보호대, M(23 x 16 x 0.5 cm), 1개, 블랙",
-          "price": "3,400원",
-          "discount_rate": 71,
-          "priceAt": "10.01 13:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2582787446561-b69cf6d6-007b-409f-a393-4ce02469bb8e.jpg",
-          "url": "https://link.coupang.com/a/hua9AOLBa8",
-          "_ts": 1790827617.7808828
         }
       ]
     },
@@ -1539,15 +1530,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-05/d1036994-fd95-42f5-82be-741dff71ead8.jpeg",
           "url": "https://toss.im/_m/xhnmVJBp",
           "_ts": 1790831869.080259
-        },
-        {
-          "name": "피죤 드릴펑, 1L, 3개 + 2L, 1개",
-          "price": "9,900원",
-          "discount_rate": 61,
-          "priceAt": "10.01 13:14",
-          "image": "https://shopping.toss.im/live/temp/2026-02-20/8967c0a1-3e5f-4929-a496-26d84cacbef8.jpeg",
-          "url": "https://toss.im/_m/XUEcLSdr",
-          "_ts": 1790828095.789918
         }
       ]
     },
