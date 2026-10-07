@@ -924,6 +924,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "푸드앳홈 백명란젓, 파지, 1kg, 1개",
+          "price": "14,900원",
+          "discount_rate": 59,
+          "priceAt": "10.07 16:36",
+          "image": "https://shopping.toss.im/live/product/57781/242e9953-0d0a-4005-bf22-81d924061013.jpg",
+          "url": "https://toss.shopping/_m/RGQBxFxd",
+          "_ts": 1791358601.262839,
+          "_product_id": "1735230885"
+        },
+        {
           "name": "포천이동 양념LA갈비, 500g, 1팩",
           "price": "6,990원",
           "discount_rate": 56,
