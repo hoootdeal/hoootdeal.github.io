@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 새콤달콤 국산콩 두부로 만든 유부초밥, 330g, 1개",
+          "price": "3,990원",
+          "discount_rate": 39,
+          "priceAt": "10.07 13:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1565248345646481-1ebf6135-5191-46ef-b781-785b9f75c6f7.jpg",
+          "url": "https://link.coupang.com/a/hD9oOR2cG4",
+          "_ts": 1791346720.115951
+        },
+        {
           "name": "외갓집 진심 소내장탕 (냉동), 700g, 8개",
           "price": "24,400원",
           "discount_rate": 62,
@@ -897,15 +906,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/430841967612349-f65d2736-de8a-4397-b8c3-31da236a5d35.jpg",
           "url": "https://link.coupang.com/a/hvS8fvgn7c",
           "_ts": 1790916599.302578
-        },
-        {
-          "name": "플라하반 유기농 포리지오트, 500g, 1개, 500g × 1개",
-          "price": "11,990원",
-          "discount_rate": 20,
-          "priceAt": "10.02 13:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5656024571239423-e0ed4f5b-57dd-4685-a844-42005af87ccd.jpeg",
-          "url": "https://link.coupang.com/a/hvQyFA8GWa",
-          "_ts": 1790914438.798574
         }
       ]
     },
@@ -1561,15 +1561,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/MDkxZDUx/QU52Z21LSFI4ZUg3QkoxLzhPZGVRMTF5ZEJvNkdnTnJSZTNWSjhpRGZ0VWk.png",
           "url": "https://toss.shopping/_m/bHi6PwVp",
           "_ts": 1790915227.41518
-        },
-        {
-          "name": "맥스 앤 맥스 전자레인지 라면 용기, 아이보리 1L 1개 + 올리브그린 1L 1개 + 뚜껑, 2개",
-          "price": "5,950원",
-          "discount_rate": 68,
-          "priceAt": "10.02 12:48",
-          "image": "https://shopping.toss.im/live/temp/2026-03-06/4d9c7749-b71a-4815-9622-50747aeb997a.jpeg",
-          "url": "https://toss.shopping/_m/XZKGyj0A",
-          "_ts": 1790912908.437759
         }
       ]
     },
