@@ -888,6 +888,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "제스프리 썬골드키위, 점보, 20과, 3.1kg, 1박스",
+          "price": "18,900원",
+          "discount_rate": 53,
+          "priceAt": "10.08 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-09-07/c1f01dea-031c-42dd-ac98-bdefc1f6643d.png",
+          "url": "https://toss.shopping/_m/Jh3YrAqw",
+          "_ts": 1791385271.247143,
+          "_flash": true,
+          "_product_id": "1652289907"
+        },
+        {
+          "name": "쉬젤 뉴트로 혼합 믹싱볼 세트, 채반 24cm+쌀함박 26cm+믹싱볼 28cm, 1세트",
+          "price": "3,430원",
+          "discount_rate": 91,
+          "priceAt": "10.08 00:01",
+          "image": "https://shopping.toss.im/live/temp/2025-08-28/59874c41-91da-4f9c-9b78-e1b367f0ab38.jpeg",
+          "url": "https://toss.shopping/_m/rzOIm7z9",
+          "_ts": 1791385271.247114,
+          "_flash": true,
+          "_product_id": "175690403"
+        },
+        {
+          "name": "한돈 뒷고기, 1+등급, 500g, 2개",
+          "price": "8,900원",
+          "discount_rate": 77,
+          "priceAt": "10.08 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/MGY1MTI4/Y2tCRXBpa3lqeURKTEUzMlMxQjR5V0I4ZHRNdU55OFBYN1loTlpEbWkzYz0.png",
+          "url": "https://toss.shopping/_m/n3ILOqK9",
+          "_ts": 1791385271.247071,
+          "_flash": true,
+          "_product_id": "684178563"
+        },
+        {
           "name": "아침에좋은빵 제로슈가 통밀식빵, 630g, 2개",
           "price": "7,060원",
           "discount_rate": 74,
