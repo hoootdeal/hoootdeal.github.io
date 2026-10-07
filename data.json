@@ -888,6 +888,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "플리다스 고양이 두부모래, 오리지널, 7L, 6개, 1개",
+          "price": "13,060원",
+          "discount_rate": 73,
+          "priceAt": "10.08 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/YTMxODZh/U1V4Y2xMU3p5MGxhSkNhMnEwdlpMS1dVSnR2YWJVc21Ock9RMmFsZVpTWT0.png",
+          "url": "https://toss.shopping/_m/14RK94yy",
+          "_ts": 1791385298.017192,
+          "_flash": true,
+          "_product_id": "2280172639"
+        },
+        {
+          "name": "세상편한 뱃살 하이웨스트 팬티, 혼합 5종, 1세트",
+          "price": "9,290원",
+          "discount_rate": 56,
+          "priceAt": "10.08 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/MmZhODY2/YTVOVEhwS3Q5NWFmS20wOFcwb0NTVkFTdHV0bE5kdHQ3Q3FmL2hUdVRhTT0.png",
+          "url": "https://toss.shopping/_m/3FEmpG3c",
+          "_ts": 1791385298.017164,
+          "_flash": true,
+          "_product_id": "80508789"
+        },
+        {
+          "name": "Clear 한장씩 쏙쏙 뽑히는 키친타올, 100매, 3겹, 12팩",
+          "price": "5,650원",
+          "discount_rate": 62,
+          "priceAt": "10.08 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-09-21/0466061f-5a7a-4125-b385-4a3827351a7a.jpeg",
+          "url": "https://toss.shopping/_m/tkffcINo",
+          "_ts": 1791385298.0171251,
+          "_flash": true,
+          "_product_id": "2598892675"
+        },
+        {
           "name": "제스프리 썬골드키위, 점보, 20과, 3.1kg, 1박스",
           "price": "18,900원",
           "discount_rate": 53,
