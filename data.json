@@ -915,6 +915,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아침에좋은빵 제로슈가 통밀식빵, 630g, 2개",
+          "price": "7,060원",
+          "discount_rate": 74,
+          "priceAt": "10.07 21:04",
+          "image": "https://shopping.toss.im/live/temp/2026-09-08/726d6ca7-c9b2-4a3d-ad93-6eff7d9864b5.png",
+          "url": "https://toss.shopping/_m/x9Qcl7km",
+          "_ts": 1791374645.8285508,
+          "_product_id": "2650820761"
+        },
+        {
           "name": "에어보나 발터치 리모컨 선풍기, 1개",
           "price": "25,990원",
           "discount_rate": 76,
