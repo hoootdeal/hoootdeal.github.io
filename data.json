@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아임리얼 스트로베리 주스, 190ml, 2개, 190ml × 2개",
+          "price": "2,980원",
+          "discount_rate": 48,
+          "priceAt": "10.07 14:28",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/344988913831960-de9efc48-2ee0-4a90-b862-5674d8cce438.jpg",
+          "url": "https://link.coupang.com/a/hEeph1W9wi",
+          "_ts": 1791350919.902463
+        },
+        {
           "name": "리벤스 에버퓨어 새부리형 황사방역 마스크 소형 KF94, 5개입, 20개, 블랙",
           "price": "4,590원",
           "discount_rate": 47,
@@ -888,24 +897,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/697d55e7-2232-4207-bf00-46c69bcc776e7531038465539973477.png",
           "url": "https://link.coupang.com/a/hvYtwwUa6e",
           "_ts": 1790921086.910212
-        },
-        {
-          "name": "스타벅스 말차라테, 24g, 4개입, 3개",
-          "price": "15,640원",
-          "discount_rate": 23,
-          "priceAt": "10.02 14:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/263b7d22-3746-4b22-8fb2-57920e272e256451970149037766530.png",
-          "url": "https://link.coupang.com/a/hvUBXZDgaa",
-          "_ts": 1790917841.513599
-        },
-        {
-          "name": "비비드키친 저칼로리 토마토케찹, 320g, 2개",
-          "price": "4,280원",
-          "discount_rate": 48,
-          "priceAt": "10.02 14:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/63391494214727-186bf070-06b9-4f1c-9139-9ee6be248faf.png",
-          "url": "https://link.coupang.com/a/hvUoJxTeOy",
-          "_ts": 1790917662.5758111
         }
       ]
     },
