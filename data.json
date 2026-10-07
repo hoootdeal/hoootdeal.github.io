@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바프 군옥수수맛 아몬드, 120g, 6개, 120g × 6개",
+          "price": "13,440원",
+          "discount_rate": 30,
+          "priceAt": "10.07 15:23",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/102625413609589-3aee1c2b-d2b7-4a62-9043-425e2a04b969.jpg",
+          "url": "https://link.coupang.com/a/hEijVkItKm",
+          "_ts": 1791354205.4884212
+        },
+        {
           "name": "아임리얼 스트로베리 주스, 190ml, 2개, 190ml × 2개",
           "price": "2,980원",
           "discount_rate": 48,
@@ -888,15 +897,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/276661627575434-0923367f-cc0a-49b9-b7d3-47bfaf542ce9.jpg",
           "url": "https://link.coupang.com/a/hv2z7ceFWe",
           "_ts": 1790924533.320426
-        },
-        {
-          "name": "맑은물에 국산콩 맷돌촌두부, 300g, 2개, 300g × 2개",
-          "price": "3,500원",
-          "discount_rate": 23,
-          "priceAt": "10.02 15:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/697d55e7-2232-4207-bf00-46c69bcc776e7531038465539973477.png",
-          "url": "https://link.coupang.com/a/hvYtwwUa6e",
-          "_ts": 1790921086.910212
         }
       ]
     },
@@ -1554,15 +1554,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-08-05/0c32948a-5e0e-4d82-8e56-2a74ee2d3196.jpeg",
           "url": "https://toss.shopping/_m/ri9nhDO9",
           "_ts": 1790930320.007765
-        },
-        {
-          "name": "양계장사람들 난각번호2번 프리미엄 유정란, 특대란, 60구, 1개",
-          "price": "19,900원",
-          "discount_rate": 50,
-          "priceAt": "10.02 15:19",
-          "image": "https://shopping.toss.im/live/temp/2026-05-26/9539c69b-24ae-47c9-b11e-6f9673332717.png",
-          "url": "https://toss.shopping/_m/x5TQX90r",
-          "_ts": 1790921950.2960799
         }
       ]
     },
