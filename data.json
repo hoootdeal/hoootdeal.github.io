@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쿠킹스토리 발로나 트로필리아 누아 다크초콜릿, 500g, 1개, 500g × 1개",
+          "price": "11,500원",
+          "discount_rate": 30,
+          "priceAt": "10.07 11:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2503764256539519-bec41ad2-46f8-4b15-980b-41eca0a4c49f.jpg",
+          "url": "https://link.coupang.com/a/hDZ3nosA4y",
+          "_ts": 1791338874.292712
+        },
+        {
           "name": "카프 실리콘 접이식 온수 포트, KF-PEO1",
           "price": "19,500원",
           "discount_rate": 34,
@@ -888,24 +897,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2020/09/07/11/5/535ecab2-1b07-4bb0-8cce-eed72b7253c9.jpg",
           "url": "https://link.coupang.com/a/hvKQ3DDgfQ",
           "_ts": 1790909649.4816399
-        },
-        {
-          "name": "크래프트 아보카도 오일 마요네즈, 2개, 354ml",
-          "price": "5,980원",
-          "discount_rate": 42,
-          "priceAt": "10.02 10:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/574575430754351-55627ffb-8ceb-47a1-a3e5-87983600f7db.jpg",
-          "url": "https://link.coupang.com/a/hvGj2tpXae",
-          "_ts": 1790905843.700685
-        },
-        {
-          "name": "솔리몬 스퀴즈드 레몬즙, 1L, 2개, 1L × 2개",
-          "price": "13,800원",
-          "discount_rate": 40,
-          "priceAt": "10.02 10:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/317062532591559-ee4bee8c-94ec-40fc-9768-64d0b638c294.jpg",
-          "url": "https://link.coupang.com/a/hvFrkU7jr2",
-          "_ts": 1790905102.861299
         }
       ]
     },
@@ -1558,15 +1549,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-03-06/4d9c7749-b71a-4815-9622-50747aeb997a.jpeg",
           "url": "https://toss.shopping/_m/XZKGyj0A",
           "_ts": 1790912908.437759
-        },
-        {
-          "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
-          "price": "10,600원",
-          "discount_rate": 62,
-          "priceAt": "10.02 10:31",
-          "image": "https://shopping.toss.im/live/temp/2026-07-03/6b083d0c-c74f-467a-9ec8-a46fe748c635.png",
-          "url": "https://toss.shopping/_m/PMmtWFLt",
-          "_ts": 1790904685.376958
         }
       ]
     },
