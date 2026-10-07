@@ -915,6 +915,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "메이홉 바디트리머, MA-0400, 오로라 화이트, 1개",
+          "price": "25,260원",
+          "discount_rate": 63,
+          "priceAt": "10.07 13:21",
+          "image": "https://shopping.toss.im/live/taca/ai/NWI4MDJm/QU9OWTg1NGNMc0ZiY3M2OFBjUHdEa1E4SDhQQWpqaytoY1BCUEQ5Q3RkVnE.png",
+          "url": "https://toss.shopping/_m/BIBLNNpo",
+          "_ts": 1791346868.453391,
+          "_product_id": "2222928635"
+        },
+        {
           "name": "유리아 포레스티 땅콩버터, 260g, 2개",
           "price": "9,710원",
           "discount_rate": 86,
