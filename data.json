@@ -897,15 +897,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/49d9/81332efb9a3af985d5b1211f1fb8f9404ae9398357747101ee0edae34240.jpg",
           "url": "https://link.coupang.com/a/hwod0V8EvI",
           "_ts": 1790942705.2985852
-        },
-        {
-          "name": "가루비 포테이토 팜 쟈가폿쿠루 10개입, 180g, 2개, 180g × 2개",
-          "price": "17,430원",
-          "discount_rate": 32,
-          "priceAt": "10.02 18:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1c73/b4dce1066ddce5e6c13542e8aae9f012bce70bce44528caf9127bdc8a100.jpg",
-          "url": "https://link.coupang.com/a/hwceyJqMBU",
-          "_ts": 1790932636.3420649
         }
       ]
     },
@@ -914,6 +905,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "이선별 밀크카스테라, 1kg, 1박스",
+          "price": "6,900원",
+          "discount_rate": 78,
+          "priceAt": "10.07 18:52",
+          "image": "https://shopping.toss.im/live/temp/2026-05-28/6c7ab71a-3621-4595-8650-ab95f3dc4796.jpeg",
+          "url": "https://toss.shopping/_m/jTzJP1od",
+          "_ts": 1791366776.374079,
+          "_product_id": "2338930751"
+        },
         {
           "name": "메르헨트 퍼퓸 바디로션, 호텔 딥 우드향, 1000ml, 2개",
           "price": "9,490원",
@@ -1565,15 +1566,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NDE0MDQ4/WW0zZXk3U0RHMkU0Y1dRZTNtUFJObTFqTHRPV0lYbE1qdUd6cVRsRXpQWT0.png",
           "url": "https://toss.shopping/_m/NtQJKnFC",
           "_ts": 1790936082.840927
-        },
-        {
-          "name": "스파클 생수, 무라벨, 2L, 24개",
-          "price": "13,480원",
-          "discount_rate": 32,
-          "priceAt": "10.02 18:14",
-          "image": "https://shopping.toss.im/live/temp/2026-03-18/268e4c6a-1595-43e9-9c1b-f101e5774429.jpeg",
-          "url": "https://toss.shopping/_m/f7oB7jom",
-          "_ts": 1790932445.683063
         }
       ]
     },
