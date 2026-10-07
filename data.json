@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "딥스 해양심층수 에코골드 무라벨, 500ml, 20개, 500ml × 20개",
+          "price": "12,000원",
+          "discount_rate": 29,
+          "priceAt": "10.08 08:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1865304137459915-c698d5a0-2fd4-402e-a783-7b147b71cca9.jpg",
+          "url": "https://link.coupang.com/a/hFvufaqYlU",
+          "_ts": 1791417321.8833458
+        },
+        {
           "name": "립톤 제로슈가 아이스티 믹스 복숭아, 5g, 30개입, 1개",
           "price": "5,940원",
           "discount_rate": 29,
@@ -888,15 +897,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/e16bf889-2871-47e4-8844-a81f253fc6b04650194221884197194.png",
           "url": "https://link.coupang.com/a/hxdxXrwZ0C",
           "_ts": 1790985796.798315
-        },
-        {
-          "name": "갓비움 프리바이오틱스 음료, 100ml, 5개, 100ml × 5개",
-          "price": "6,090원",
-          "discount_rate": 50,
-          "priceAt": "10.03 08:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/07/22/15/7/0b7c9072-f8c1-48eb-9538-30c24a55e065.jpg",
-          "url": "https://link.coupang.com/a/hxaykyBoAu",
-          "_ts": 1790983281.667962
         }
       ]
     },
