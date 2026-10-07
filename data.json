@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "리벤스 에버퓨어 새부리형 황사방역 마스크 소형 KF94, 5개입, 20개, 블랙",
+          "price": "4,590원",
+          "discount_rate": 47,
+          "priceAt": "10.07 13:27",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/56376491592419-6367bfb7-5678-4d47-8e9e-5ec8ed37ca55.jpg",
+          "url": "https://link.coupang.com/a/hD90Nz9s7M",
+          "_ts": 1791347232.49735
+        },
+        {
           "name": "풀무원 새콤달콤 국산콩 두부로 만든 유부초밥, 330g, 1개",
           "price": "3,990원",
           "discount_rate": 39,
@@ -1562,15 +1571,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-05-26/9539c69b-24ae-47c9-b11e-6f9673332717.png",
           "url": "https://toss.shopping/_m/x5TQX90r",
           "_ts": 1790921950.2960799
-        },
-        {
-          "name": "원김치 쪽파김치, 가정용, 2kg, 1개",
-          "price": "9,900원",
-          "discount_rate": 33,
-          "priceAt": "10.02 13:27",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MDkxZDUx/QU52Z21LSFI4ZUg3QkoxLzhPZGVRMTF5ZEJvNkdnTnJSZTNWSjhpRGZ0VWk.png",
-          "url": "https://toss.shopping/_m/bHi6PwVp",
-          "_ts": 1790915227.41518
         }
       ]
     },
