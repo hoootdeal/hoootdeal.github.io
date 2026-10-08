@@ -870,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1416749262015916-a9a58368-af25-4a93-a932-6ac566f9f893.jpg",
           "url": "https://link.coupang.com/a/hxQJChuWjc",
           "_ts": 1791018697.9826329
-        },
-        {
-          "name": "바릴라 엔젤헤어 파스타면, 500g, 2개",
-          "price": "4,480원",
-          "discount_rate": 55,
-          "priceAt": "10.03 17:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/274132032794699-463091fd-02f9-405a-9e7b-9d8cc02dbec9.jpg",
-          "url": "https://link.coupang.com/a/hxMDYUKfHU",
-          "_ts": 1791015264.671658
         }
       ]
     },
@@ -887,6 +878,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "바이마르 솥뚜껑 세라믹 가마솥, 16cm, 1개",
+          "price": "12,150원",
+          "discount_rate": 87,
+          "priceAt": "10.08 17:28",
+          "image": "https://shopping.toss.im/live/taca/ai/MjhhYjNh/SlRpWkpyVEZ0eXJZMTFZeW1iSTZXRzgzTGMrM1pFVG8wZWhJczBtVHMzWT0.png",
+          "url": "https://toss.shopping/_m/rsA1rRIt",
+          "_ts": 1791448113.353697,
+          "_product_id": "185646307"
+        },
         {
           "name": "바다안 국내가공 진미채, 200g, 3개",
           "price": "14,500원",
