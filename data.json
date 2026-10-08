@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "G7 블랙 커피, 2g, 100개입, 2개",
+          "price": "27,830원",
+          "discount_rate": 52,
+          "priceAt": "10.08 13:44",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/671689918227420-8a923b58-1685-4ced-b1f9-8872c0f11165.jpg",
+          "url": "https://link.coupang.com/a/hFP7fpULrU",
+          "_ts": 1791434646.753354
+        },
+        {
           "name": "해찬들 사계절쌈장, 300g, 2개",
           "price": "1,980원",
           "discount_rate": 50,
@@ -870,15 +879,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/70cfef58-beeb-49a8-aa91-db2677d780b62075468875745804041.png",
           "url": "https://link.coupang.com/a/hxxOLGuPq8",
           "_ts": 1791002815.663894
-        },
-        {
-          "name": "롯데이라이프 착한 롤백 소 17cm x 25cm, 소(S), 500개입, 2개",
-          "price": "8,360원",
-          "discount_rate": 33,
-          "priceAt": "10.03 12:49",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/xwa0efcs/cb7eed3f7be740ddac207b5b93c021ae.jpg",
-          "url": "https://link.coupang.com/a/hxtIsZAaOW",
-          "_ts": 1790999373.2587142
         }
       ]
     },
@@ -1579,15 +1579,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-15/fc748c01-e1e5-4ced-899e-85bb69ecf463.jpeg",
           "url": "https://toss.shopping/_m/bdYlBmS",
           "_ts": 1791010392.924533
-        },
-        {
-          "name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
-          "price": "5,450원",
-          "discount_rate": 63,
-          "priceAt": "10.03 13:24",
-          "image": "https://shopping.toss.im/live/taca/ai/YmI1NGJk/QUpobU9jOXRzYlNac25uSVpEbW03Wm1lVTF0TXkweFlNekR6VXNubkhLY00.png",
-          "url": "https://toss.shopping/_m/7cAsXrbr",
-          "_ts": 1791001444.19983
         }
       ]
     },
