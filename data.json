@@ -915,6 +915,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "슬림떡볶이 로제맛, 230g, 4개",
+          "price": "5,530원",
+          "discount_rate": 64,
+          "priceAt": "10.09 08:01",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MzgzYjc2/QUlYSDJaK1huZzlNUHh0dVhleFo4YXp3ZkpoeEJmbE10djZodDA2QUZIbno.png",
+          "url": "https://toss.shopping/_m/3lrWbCFy",
+          "_ts": 1791500503.603914,
+          "_flash": true,
+          "_product_id": "2482486143"
+        },
+        {
+          "name": "리버티 입는오버나이트, 4매, 대형, 5팩",
+          "price": "9,900원",
+          "discount_rate": 59,
+          "priceAt": "10.09 08:01",
+          "image": "https://shopping.toss.im/live/taca/ai/NjAwNTZl/QU94d083bldsdjFhNVU3dVpoM2VyWDVJdFBkZTkybjVuYnNMbjN2WkNYYWw.png",
+          "url": "https://toss.shopping/_m/HjSgXh0r",
+          "_ts": 1791500503.603884,
+          "_flash": true,
+          "_product_id": "861976337"
+        },
+        {
+          "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+          "price": "4,990원",
+          "discount_rate": 66,
+          "priceAt": "10.09 08:01",
+          "image": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
+          "url": "https://toss.shopping/_m/dXoRinis",
+          "_ts": 1791500503.6038442,
+          "_flash": true,
+          "_product_id": "2621363823"
+        },
+        {
           "name": "널담 고단백 저당 네모 바게트 5종, 2세트",
           "price": "8,900원",
           "discount_rate": 65,
@@ -1071,17 +1104,6 @@
           "_product_id": "122431101"
         },
         {
-          "name": "슬림떡볶이 로제맛, 230g, 4개",
-          "price": "5,530원",
-          "discount_rate": 64,
-          "priceAt": "10.08 08:01",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MzgzYjc2/QUlYSDJaK1huZzlNUHh0dVhleFo4YXp3ZkpoeEJmbE10djZodDA2QUZIbno.png",
-          "url": "https://toss.shopping/_m/3lrWbCFy",
-          "_ts": 1791414119.464159,
-          "_flash": true,
-          "_product_id": "2482486143"
-        },
-        {
           "name": "아침에 좋은빵 통밀식빵, 630g, 2개",
           "price": "7,900원",
           "discount_rate": 71,
@@ -1091,17 +1113,6 @@
           "_ts": 1791414119.464136,
           "_flash": true,
           "_product_id": "1923969451"
-        },
-        {
-          "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-          "price": "4,990원",
-          "discount_rate": 66,
-          "priceAt": "10.08 08:01",
-          "image": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
-          "url": "https://toss.shopping/_m/dXoRinis",
-          "_ts": 1791414119.464103,
-          "_flash": true,
-          "_product_id": "2621363823"
         },
         {
           "name": "플리다스 고양이 두부모래, 오리지널, 7L, 6개, 1개",
