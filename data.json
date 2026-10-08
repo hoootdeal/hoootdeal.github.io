@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데칠성음료 히야 제로 사과, 24개, 200ml",
+          "price": "6,670원",
+          "discount_rate": 25,
+          "priceAt": "10.08 14:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/06/05/11/7/a1d3416b-2fe8-4e13-acbb-c852d39d134b.png",
+          "url": "https://link.coupang.com/a/hFRP4d46Xk",
+          "_ts": 1791436086.267406
+        },
+        {
           "name": "G7 블랙 커피, 2g, 100개입, 2개",
           "price": "27,830원",
           "discount_rate": 52,
