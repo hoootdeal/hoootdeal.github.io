@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "해찬들 사계절쌈장, 300g, 2개",
+          "price": "1,980원",
+          "discount_rate": 50,
+          "priceAt": "10.08 12:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/0bb77b84-40e5-45b4-9ee5-661335cb033e535292651386042423.png",
+          "url": "https://link.coupang.com/a/hFLXL1ZwKy",
+          "_ts": 1791431152.990954
+        },
+        {
           "name": "솔리몬 스퀴즈드 레몬즙, 1L, 2개, 1L × 2개",
           "price": "13,800원",
           "discount_rate": 37,
@@ -870,15 +879,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/xwa0efcs/cb7eed3f7be740ddac207b5b93c021ae.jpg",
           "url": "https://link.coupang.com/a/hxtIsZAaOW",
           "_ts": 1790999373.2587142
-        },
-        {
-          "name": "클룹 애사비소다 망고 제로 탄산음료, 6개, 500ml",
-          "price": "4,520원",
-          "discount_rate": 48,
-          "priceAt": "10.03 12:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6616189808412-ec644e4e-6a89-481c-8cd4-4381ca2678e3.jpg",
-          "url": "https://link.coupang.com/a/hxrpUPuS9A",
-          "_ts": 1790997441.264489
         }
       ]
     },
@@ -1588,15 +1588,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YmI1NGJk/QUpobU9jOXRzYlNac25uSVpEbW03Wm1lVTF0TXkweFlNekR6VXNubkhLY00.png",
           "url": "https://toss.shopping/_m/7cAsXrbr",
           "_ts": 1791001444.19983
-        },
-        {
-          "name": "고기중독 한입삼겹살, 500g, 4개",
-          "price": "19,900원",
-          "discount_rate": 66,
-          "priceAt": "10.03 12:21",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/Yzg3ZWVl/U2FOZHNSNXpPbHFsTk8wczl1YXg0VnJaemt5ckRwamt4WGlzVEY3QVdiST0.png",
-          "url": "https://toss.shopping/_m/VrSLkdS1",
-          "_ts": 1790997711.9440472
         }
       ]
     },
