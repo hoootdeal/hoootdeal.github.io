@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "재미스 잼있는 사과쿠키, 75g, 20개",
+          "price": "5,540원",
+          "discount_rate": 44,
+          "priceAt": "10.09 08:13",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10689053143998-f1a753f1-f0d4-40b3-997f-269839e98ede.jpg",
+          "url": "https://link.coupang.com/a/hG7otrXJAa",
+          "_ts": 1791501201.5466602
+        },
+        {
           "name": "비타500 이온킥 제로 음료, 1.5L, 12개",
           "price": "13,850원",
           "discount_rate": 23,
