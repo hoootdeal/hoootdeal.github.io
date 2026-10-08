@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "포카칩 오리온 황치즈, 60g, 3개, 60g × 3개",
+          "price": "6,000원",
+          "discount_rate": 25,
+          "priceAt": "10.08 14:59",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/349996242907317-8a61be6b-5e22-4f93-944f-fb2b9320311f.jpg",
+          "url": "https://link.coupang.com/a/hFVxXg2gHA",
+          "_ts": 1791439198.028198
+        },
+        {
           "name": "롯데칠성음료 히야 제로 사과, 24개, 200ml",
           "price": "6,670원",
           "discount_rate": 25,
