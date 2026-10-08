@@ -870,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2099550543706664-ded0047d-f362-4a96-ab7e-b3a7855bb5d2.jpg",
           "url": "https://link.coupang.com/a/hxDMGVYSXs",
           "_ts": 1791007826.229515
-        },
-        {
-          "name": "버터와플 이즈니, 158g, 3개",
-          "price": "6,750원",
-          "discount_rate": 29,
-          "priceAt": "10.03 14:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/0ff16bfe-4bd3-421c-b326-7af2a895446514322601109420110969.png",
-          "url": "https://link.coupang.com/a/hxztGe9NpQ",
-          "_ts": 1791004209.6934772
         }
       ]
     },
@@ -887,6 +878,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "풍년보감 고려홍삼정 밸런스타임, 벌크포장, 10g, 100포",
+          "price": "12,900원",
+          "discount_rate": 74,
+          "priceAt": "10.08 14:46",
+          "image": "https://shopping.toss.im/live/taca/ai/ODYyOTZj/QUxGVTU4TjVlL0Q0SGlzT0grR0ZiTW1EQjNuendxTjQ0ZUtENy95eFZNZkQ.png",
+          "url": "https://toss.shopping/_m/laZAVUnn",
+          "_ts": 1791438372.0809631,
+          "_product_id": "86973821"
+        },
         {
           "name": "JHP 아르간 헤어 에센스 오일, 120ml, 2개",
           "price": "14,580원",
