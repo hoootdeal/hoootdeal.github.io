@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아이시스 생수 무라벨, 300ml, 40개",
+          "price": "7,810원",
+          "discount_rate": 26,
+          "priceAt": "10.08 09:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/337955328343919-33f87b3b-4f97-40aa-9cc5-a690d17cc628.jpg",
+          "url": "https://link.coupang.com/a/hFwVGS85wO",
+          "_ts": 1791418530.9334772
+        },
+        {
           "name": "딥스 해양심층수 에코골드 무라벨, 500ml, 20개, 500ml × 20개",
           "price": "12,000원",
           "discount_rate": 29,
@@ -879,24 +888,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/53021501254825-9c07fcce-0034-4841-b214-a460388ad062.png",
           "url": "https://link.coupang.com/a/hxhQX3vx92",
           "_ts": 1790989413.321126
-        },
-        {
-          "name": "콘칲 군옥수수맛, 148g, 4개",
-          "price": "6,160원",
-          "discount_rate": 49,
-          "priceAt": "10.03 09:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/319697515974634-ca853793-c15e-4b21-9213-c1617fd39933.jpg",
-          "url": "https://link.coupang.com/a/hxdJOG3BPE",
-          "_ts": 1790985958.2595751
-        },
-        {
-          "name": "크라운 빙수하임 중, 142g, 2개",
-          "price": "3,870원",
-          "discount_rate": 35,
-          "priceAt": "10.03 09:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/e16bf889-2871-47e4-8844-a81f253fc6b04650194221884197194.png",
-          "url": "https://link.coupang.com/a/hxdxXrwZ0C",
-          "_ts": 1790985796.798315
         }
       ]
     },
