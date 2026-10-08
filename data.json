@@ -870,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/274132032794699-463091fd-02f9-405a-9e7b-9d8cc02dbec9.jpg",
           "url": "https://link.coupang.com/a/hxMDYUKfHU",
           "_ts": 1791015264.671658
-        },
-        {
-          "name": "광천김 참 김자반, 70g, 8개",
-          "price": "16,900원",
-          "discount_rate": 35,
-          "priceAt": "10.03 16:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/eabcb47c-6e65-480a-8502-3e9ac3063651_fixing_v2.png",
-          "url": "https://link.coupang.com/a/hxJUTJUmFU",
-          "_ts": 1791012974.32587
         }
       ]
     },
@@ -887,6 +878,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "바다안 국내가공 진미채, 200g, 3개",
+          "price": "14,500원",
+          "discount_rate": 67,
+          "priceAt": "10.08 16:43",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDAzODlm/QU5Wc1ZvQUg3REpKVjB0OEt5NlBCTDgxR2xmb1NDcGE0SzYrb0xYd1BzSHo.png",
+          "url": "https://toss.shopping/_m/tT8cPdte",
+          "_ts": 1791445434.121782,
+          "_product_id": "13499979"
+        },
         {
           "name": "풍년보감 고려홍삼정 밸런스타임, 벌크포장, 10g, 100포",
           "price": "12,900원",
