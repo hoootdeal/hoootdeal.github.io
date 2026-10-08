@@ -915,6 +915,28 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쉬블림로브 여성 멜란지 로고 맨투맨 GW1519, FREE, 1개",
+          "price": "7,900원",
+          "discount_rate": 75,
+          "priceAt": "10.09 08:02",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDIyNGE1/QUo0S0xHTGk0c3UvQURoMVlNRUZpQitxcTZ2OGNIeFZRb1ZCQUxsMnEzZEY.png",
+          "url": "https://toss.shopping/_m/dLMnMQze",
+          "_ts": 1791500528.5098581,
+          "_flash": true,
+          "_product_id": "640108117"
+        },
+        {
+          "name": "애슐리 눈꽃치즈 순살 안동식 찜닭, 2인분, 772g, 1개",
+          "price": "9,490원",
+          "discount_rate": 40,
+          "priceAt": "10.09 08:02",
+          "image": "https://shopping.toss.im/live/taca/ai/ZTRlNzll/SHc1YkhmWVovRG5ZZUxNSGFEekUrMFQ1eUxDYThPNTY3NU16RVJBZjRYOD0.png",
+          "url": "https://toss.shopping/_m/vWXmmnVk",
+          "_ts": 1791500528.5098372,
+          "_flash": true,
+          "_product_id": "105382313"
+        },
+        {
           "name": "슬림떡볶이 로제맛, 230g, 4개",
           "price": "5,530원",
           "discount_rate": 64,
