@@ -879,6 +879,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
+          "price": "6,900원",
+          "discount_rate": 58,
+          "priceAt": "10.09 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-07-20/fcf09a1c-3d4e-4e2a-93fb-23b126be49b1.png",
+          "url": "https://toss.shopping/_m/jDZgUhRv",
+          "_ts": 1791471668.217945,
+          "_flash": true,
+          "_product_id": "8834733"
+        },
+        {
+          "name": "경면주사 팔찌, 아미타불(개띠, 돼지띠), 1개",
+          "price": "6,386원",
+          "discount_rate": 70,
+          "priceAt": "10.09 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/MzMyMWZm/QUxhWGFTdHBhU0U4eGdlOFRKN0VWc3kxak5PazNwaFB0Q2hrMHBJaDA3MXI.png",
+          "url": "https://toss.shopping/_m/FD4MF6nh",
+          "_ts": 1791471668.217911,
+          "_flash": true,
+          "_product_id": "1915063855"
+        },
+        {
+          "name": "농부의 정육점 한돈 뒷고기, 500g, 2개",
+          "price": "7,900원",
+          "discount_rate": 50,
+          "priceAt": "10.09 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-06-24/b785d96f-49c4-44e1-8e5f-da2020ca503f.png",
+          "url": "https://toss.shopping/_m/bItn99Sp",
+          "_ts": 1791471668.217859,
+          "_flash": true,
+          "_product_id": "2325253587"
+        },
+        {
           "name": "제주 서귀포 감귤, 12brix 초고당도, 5kg, 1박스",
           "price": "13,900원",
           "discount_rate": 57,
@@ -1204,19 +1237,6 @@
           "_ts": 1791298895.642449,
           "_flash": true,
           "_product_id": "144205089"
-        },
-        {
-          "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
-          "price": "6,900원",
-          "discount_rate": 58,
-          "priceAt": "10.07 00:01",
-          "image": "https://shopping.toss.im/live/temp/2026-07-20/fcf09a1c-3d4e-4e2a-93fb-23b126be49b1.png",
-          "url": "https://toss.shopping/_m/jDZgUhRv",
-          "_ts": 1791298895.642402,
-          "_flash": true,
-          "_product_id": "8834733",
-          "sold_out": true,
-          "_sold_at": 1791471014.0
         },
         {
           "name": "시현푸드 마카로니 뻥튀기, 1.2kg, 1개",
