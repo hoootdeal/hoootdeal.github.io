@@ -879,6 +879,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
+          "price": "21,900원",
+          "discount_rate": 65,
+          "priceAt": "10.08 18:57",
+          "image": "https://shopping.toss.im/live/temp/2026-08-21/b5d63ff1-7a55-4d3a-98b9-237a959d53b6.jpeg",
+          "url": "https://toss.shopping/_m/9byY2HFD",
+          "_ts": 1791453473.5416698,
+          "_product_id": "2626071701"
+        },
+        {
           "name": "이장네푸드 진한 들기름, 350ml, 2개",
           "price": "12,020원",
           "discount_rate": 77,
