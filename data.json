@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "티엔아이킹커피 에스프레소 인스턴트 커피, 2.5g, 100개입, 1개",
+          "price": "26,010원",
+          "discount_rate": 26,
+          "priceAt": "10.08 10:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/29795665279478-b669bbd7-cd69-496a-8bbe-303a3dc93cf8.jpg",
+          "url": "https://link.coupang.com/a/hFA85CHaZo",
+          "_ts": 1791422071.563574
+        },
+        {
           "name": "아이시스 생수 무라벨, 300ml, 40개",
           "price": "7,810원",
           "discount_rate": 26,
@@ -870,24 +879,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/345439422339710-b9b74bcc-865d-4308-b171-2687e2b658e0.jpg",
           "url": "https://link.coupang.com/a/hxj8uVpCmW",
           "_ts": 1790991329.097246
-        },
-        {
-          "name": "가루비 캇파 에비센, 77g, 12개",
-          "price": "13,690원",
-          "discount_rate": 22,
-          "priceAt": "10.03 10:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6440/13e5ed1d04f6c7bff8a88f4c24c3b204d19b48bb44610431e62be58314c1.jpg",
-          "url": "https://link.coupang.com/a/hxh0nC6KcK",
-          "_ts": 1790989539.061634
-        },
-        {
-          "name": "이롬 황성주 박사의 국산콩 두유 검은콩, 190ml, 16개",
-          "price": "7,480원",
-          "discount_rate": 28,
-          "priceAt": "10.03 10:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/53021501254825-9c07fcce-0034-4841-b214-a460388ad062.png",
-          "url": "https://link.coupang.com/a/hxhQX3vx92",
-          "_ts": 1790989413.321126
         }
       ]
     },
