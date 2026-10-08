@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "맥심 모카골드 커피믹스 제로슈거, 11.5g, 100개입, 2개",
+          "price": "30,400원",
+          "discount_rate": 24,
+          "priceAt": "10.08 17:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/321285223279767-830b2f33-7414-4057-8a77-fcce39ff5ef3.jpg",
+          "url": "https://link.coupang.com/a/hF48JugE9s",
+          "_ts": 1791447254.351392
+        },
+        {
           "name": "안성탕면 125g, 50개, 50개",
           "price": "25,560원",
           "discount_rate": 20,
