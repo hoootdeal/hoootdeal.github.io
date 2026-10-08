@@ -879,6 +879,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "널담 고단백 저당 네모 바게트 5종, 2세트",
+          "price": "8,900원",
+          "discount_rate": 65,
+          "priceAt": "10.09 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/ODM2MDAy/WXhneWsxaHBNeU9lM0ZzWjgweHBocDdMcE54TE03YXhhN1lsaGsyZVduST0.png",
+          "url": "https://toss.shopping/_m/JlHmwWTy",
+          "_ts": 1791471696.352133,
+          "_flash": true,
+          "_product_id": "105793053"
+        },
+        {
+          "name": "시현푸드 마카로니 뻥튀기, 1.2kg, 1개",
+          "price": "5,950원",
+          "discount_rate": 64,
+          "priceAt": "10.09 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/ZTY4YjE3/WlpzbkhQTEZZcFlWS0NoakJaZVhzZE9uUG80K09XNlhEb1RvOFE2TzhIZz0.png",
+          "url": "https://toss.shopping/_m/R5RzWkFy",
+          "_ts": 1791471696.352104,
+          "_flash": true,
+          "_product_id": "585744873"
+        },
+        {
+          "name": "제주 삼다수, 라벨 랜덤, 330ml, 40개",
+          "price": "10,500원",
+          "discount_rate": 68,
+          "priceAt": "10.09 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-09-01/27d37ddd-d724-4865-84ca-a6a285d9c866.jpeg",
+          "url": "https://toss.shopping/_m/5zLDWXZ1",
+          "_ts": 1791471696.352065,
+          "_flash": true,
+          "_product_id": "1747911959"
+        },
+        {
           "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
           "price": "6,900원",
           "discount_rate": 58,
@@ -1237,19 +1270,6 @@
           "_ts": 1791298895.642449,
           "_flash": true,
           "_product_id": "144205089"
-        },
-        {
-          "name": "시현푸드 마카로니 뻥튀기, 1.2kg, 1개",
-          "price": "5,950원",
-          "discount_rate": 64,
-          "priceAt": "10.07 00:01",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTY4YjE3/WlpzbkhQTEZZcFlWS0NoakJaZVhzZE9uUG80K09XNlhEb1RvOFE2TzhIZz0.png",
-          "url": "https://toss.shopping/_m/R5RzWkFy",
-          "_ts": 1791298869.571983,
-          "_flash": true,
-          "_product_id": "585744873",
-          "sold_out": true,
-          "_sold_at": 1791471014.0
         },
         {
           "name": "애슐리 볶음밥 3종, 통새우 230g 2개 + 스크램블&게살 230g 2개 + 버터와규 230g 2개, 1세트",
