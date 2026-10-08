@@ -861,15 +861,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/ae927f10-8284-44ad-98f1-558df1495b981201455087140558841.png",
           "url": "https://link.coupang.com/a/hx67SXKvNk",
           "_ts": 1791032461.578275
-        },
-        {
-          "name": "우주쭈꾸미 볶음 (냉동), 500g, 1개, 500g × 1개",
-          "price": "7,730원",
-          "discount_rate": 25,
-          "priceAt": "10.03 20:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/jxdx9uss/aba7c36aca6b4ea4b853598be08c70f0.jpg",
-          "url": "https://link.coupang.com/a/hx0j9weIBo",
-          "_ts": 1791026749.669824
         }
       ]
     },
@@ -878,6 +869,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "블로즈 리페어 크림, 70ml, 1개",
+          "price": "5,800원",
+          "discount_rate": 83,
+          "priceAt": "10.08 21:21",
+          "image": "https://shopping.toss.im/live/temp/2026-10-08/7417ebc2-119a-4793-80b2-a73cfcb96146.png",
+          "url": "https://toss.shopping/_m/9CwYkzA3",
+          "_ts": 1791462088.662415,
+          "_product_id": "2426126949"
+        },
         {
           "name": "할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
           "price": "21,900원",
@@ -1598,15 +1599,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MWFiNTFm/QU1zbEs3VzBtK3piUzJTYmEzS1VGNUd1VzJabWxUdnBUbWh1bHJFRzBHcE8.png",
           "url": "https://toss.shopping/_m/rcvltl8i",
           "_ts": 1791032280.202847
-        },
-        {
-          "name": "맛팜 국내산 미니족, 400g, 5개",
-          "price": "19,800원",
-          "discount_rate": 60,
-          "priceAt": "10.03 20:16",
-          "image": "https://shopping.toss.im/live/temp/2026-03-11/f26fd173-7a2c-4b68-be27-bf763bad1336.jpeg",
-          "url": "https://toss.shopping/_m/9nFa9Sqt",
-          "_ts": 1791026169.703412
         }
       ]
     },
