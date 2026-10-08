@@ -870,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/0ff16bfe-4bd3-421c-b326-7af2a895446514322601109420110969.png",
           "url": "https://link.coupang.com/a/hxztGe9NpQ",
           "_ts": 1791004209.6934772
-        },
-        {
-          "name": "오뚜기 컵밥 얼큰 순후추 돼지국밥, 2개, 311.5g",
-          "price": "5,000원",
-          "discount_rate": 37,
-          "priceAt": "10.03 13:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/70cfef58-beeb-49a8-aa91-db2677d780b62075468875745804041.png",
-          "url": "https://link.coupang.com/a/hxxOLGuPq8",
-          "_ts": 1791002815.663894
         }
       ]
     },
@@ -887,6 +878,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "JHP 아르간 헤어 에센스 오일, 120ml, 2개",
+          "price": "14,580원",
+          "discount_rate": 75,
+          "priceAt": "10.08 14:01",
+          "image": "https://shopping.toss.im/live/temp/2025-07-25/29782c7d-1d6d-475c-ba88-293016303f67.jpeg",
+          "url": "https://toss.shopping/_m/53Sydjoy",
+          "_ts": 1791435687.008716,
+          "_product_id": "147969277"
+        },
         {
           "name": "대상 루테인 플러스, 30캡슐, 6박스",
           "price": "12,900원",
