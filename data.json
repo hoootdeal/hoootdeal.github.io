@@ -870,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/888104156156250-57ee9867-6b15-4197-9a66-56cd59783c82.jpg",
           "url": "https://link.coupang.com/a/hxnkIH7tdc",
           "_ts": 1790994014.1921191
-        },
-        {
-          "name": "테팔 인덕션 스테인리스 스틸 이지쿡 편수냄비, 16cm, 실버, 1개",
-          "price": "21,900원",
-          "discount_rate": 33,
-          "priceAt": "10.03 10:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/345439422339710-b9b74bcc-865d-4308-b171-2687e2b658e0.jpg",
-          "url": "https://link.coupang.com/a/hxj8uVpCmW",
-          "_ts": 1790991329.097246
         }
       ]
     },
@@ -887,6 +878,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "대상 루테인 플러스, 30캡슐, 6박스",
+          "price": "12,900원",
+          "discount_rate": 89,
+          "priceAt": "10.08 10:48",
+          "image": "https://shopping.toss.im/live/taca/ai/NDNmNWNk/UG5HOGN1elorUG1aTStzeEUzT2E4ZEM1TUhraHNXTytKOUNuOXRwSm5BND0.png",
+          "url": "https://toss.shopping/_m/l488LUMf",
+          "_ts": 1791424109.4856,
+          "_product_id": "122431101"
+        },
         {
           "name": "슬림떡볶이 로제맛, 230g, 4개",
           "price": "5,530원",
@@ -1607,15 +1608,6 @@
           "url": "https://toss.im/_m/lqS07rCp",
           "_ts": 1790994702.271061,
           "_flash": true
-        },
-        {
-          "name": "하이뮨 프로틴 밸런스 액티브 제로, 밤티라미수, 250ml, 18개",
-          "price": "19,900원",
-          "discount_rate": 64,
-          "priceAt": "10.03 10:21",
-          "image": "https://shopping.toss.im/live/temp/2025-07-28/0c4bf6fe-c2e8-40ee-aeb6-ce062de0c2ce.jpeg",
-          "url": "https://toss.shopping/_m/FounK7Ie",
-          "_ts": 1790990510.163481
         }
       ]
     },
