@@ -1077,6 +1077,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
+          "price": "10,990원",
+          "discount_rate": 76,
+          "priceAt": "10.09 21:15",
+          "image": "https://shopping.toss.im/live/temp/2026-09-08/131ff3ca-add9-4eb4-887d-a5bfc5f03ac0.jpeg",
+          "url": "https://toss.shopping/_m/PjzyV7zd",
+          "_ts": 1791548153.478388,
+          "_product_id": "2651864571"
+        },
+        {
           "name": "훈장골 돼지왕구이, 500g, 2팩",
           "price": "12,970원",
           "discount_rate": 63,
