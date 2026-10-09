@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "더존건강 한끼곤약젤리 스위트 패키지 28개입, 4.2L, 1세트, 4.2L × 1세트",
+          "price": "10,040원",
+          "discount_rate": 34,
+          "priceAt": "10.10 08:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1336208241695305-e012fda0-d85a-4db4-a0cd-0ecefa0bc790.jpg",
+          "url": "https://link.coupang.com/a/hIMpaS25bo",
+          "_ts": 1791587693.5454478
+        },
+        {
           "name": "풀무원 얄피꽉찬 쌀 물만두 (냉동), 1kg, 1개",
           "price": "5,990원",
           "discount_rate": 41,
@@ -1023,15 +1032,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/447467104361476-44a3274b-6722-417e-969c-17cca28280a4.jpg",
           "url": "https://link.coupang.com/a/hAvcxzsFsi",
           "_ts": 1791156797.7902431
-        },
-        {
-          "name": "그래놀라하우스 마카다미아 앤 카카오 그래놀라 리필용, 500g, 1개",
-          "price": "14,040원",
-          "discount_rate": 22,
-          "priceAt": "10.05 08:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/stage/manual/4190587563089942-69bffe46-3a43-4efc-90be-c51ea03a88b2_1751347654241.jpg",
-          "url": "https://link.coupang.com/a/hAtSwu9otw",
-          "_ts": 1791155687.354293
         }
       ]
     },
