@@ -1086,6 +1086,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "티젠 애플 사이다 비니거, 5g, 50개입, 1개",
+          "price": "10,900원",
+          "discount_rate": 68,
+          "priceAt": "10.10 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/YThiMDIx/QVBaV2w3eU5nWTJ6T2MxM1l5OE4zK1AyeVp6bVk0RnR3K0FaV3d6WkIrQlk.png",
+          "url": "https://toss.shopping/_m/JnbxyZow",
+          "_ts": 1791558100.911087,
+          "_flash": true,
+          "_product_id": "2636661281"
+        },
+        {
+          "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+          "price": "4,990원",
+          "discount_rate": 66,
+          "priceAt": "10.10 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
+          "url": "https://toss.shopping/_m/dXoRinis",
+          "_ts": 1791558100.911053,
+          "_flash": true,
+          "_product_id": "2621363823"
+        },
+        {
+          "name": "이스트밸리 트리플 슈레드 치즈, 1kg, 2개",
+          "price": "20,260원",
+          "discount_rate": 60,
+          "priceAt": "10.10 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-02-10/d450615c-f706-462f-b4ba-a6a70aa9a84d.png",
+          "url": "https://toss.shopping/_m/J4zxuJB4",
+          "_ts": 1791558100.910998,
+          "_flash": true,
+          "_product_id": "841042383"
+        },
+        {
           "name": "푸디헤븐 꾸지뽕 왕족발, 1kg, 2개",
           "price": "15,900원",
           "discount_rate": 40,
@@ -1250,19 +1283,6 @@
           "_ts": 1791500503.603884,
           "_flash": true,
           "_product_id": "861976337"
-        },
-        {
-          "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-          "price": "4,990원",
-          "discount_rate": 66,
-          "priceAt": "10.09 08:01",
-          "image": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
-          "url": "https://toss.shopping/_m/dXoRinis",
-          "_ts": 1791500503.6038442,
-          "_flash": true,
-          "_product_id": "2621363823",
-          "sold_out": true,
-          "_sold_at": 1791557418.0
         },
         {
           "name": "널담 고단백 저당 네모 바게트 5종, 2세트",
