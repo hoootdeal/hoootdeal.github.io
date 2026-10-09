@@ -1014,6 +1014,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "교동 버섯 들깨탕, 500g, 5개",
+          "price": "11,900원",
+          "discount_rate": 56,
+          "priceAt": "10.09 14:52",
+          "image": "https://shopping.toss.im/live/taca/ai/NDE0MDQ4/WW0zZXk3U0RHMkU0Y1dRZTNtUFJObTFqTHRPV0lYbE1qdUd6cVRsRXpQWT0.png",
+          "url": "https://toss.shopping/_m/NtQJKnFC",
+          "_ts": 1791525149.929595,
+          "_product_id": "93253001"
+        },
+        {
           "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
           "price": "7,900원",
           "discount_rate": 76,
