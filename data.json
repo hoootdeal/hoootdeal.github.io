@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 얄피꽉찬 쌀 물만두 (냉동), 1kg, 1개",
+          "price": "5,990원",
+          "discount_rate": 41,
+          "priceAt": "10.10 07:23",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/878123044725723-83f8b2eb-935b-487d-968a-9d88a9bc51cb.jpg",
+          "url": "https://link.coupang.com/a/hIIKplQZBQ",
+          "_ts": 1791584622.646486
+        },
+        {
           "name": "오리온 진한 디저트 케익 오뜨 치즈, 156g, 4개",
           "price": "8,200원",
           "discount_rate": 25,
@@ -1032,24 +1041,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/419291973856254-36c17705-eccb-4652-8394-8347dc8f0e62.jpg",
           "url": "https://link.coupang.com/a/hAsz9aELxQ",
           "_ts": 1791154598.529421
-        },
-        {
-          "name": "풀무원 새콤달콤 유부초밥 4인분, 330g, 1개, 330g × 1개",
-          "price": "3,240원",
-          "discount_rate": 39,
-          "priceAt": "10.05 07:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1245859114095766-dacf3f46-9fa2-4b3c-b1cc-5db6166fb092.jpg",
-          "url": "https://link.coupang.com/a/hAqbKjHEnA",
-          "_ts": 1791152601.21204
-        },
-        {
-          "name": "에뛰드하우스 마스카라 전용 리무버, 80ml, 1개",
-          "price": "1,670원",
-          "discount_rate": 67,
-          "priceAt": "10.05 07:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2366909073099598-d91a9ae3-9d43-4709-8f66-0f9307f0c38c.jpg",
-          "url": "https://link.coupang.com/a/hAp9reI2QS",
-          "_ts": 1791152565.2433548
         }
       ]
     },
@@ -1947,61 +1938,6 @@
           "url": "https://toss.shopping/_m/tYDrLP5C",
           "_ts": 1791163555.3632488,
           "_product_id": "109834949"
-        },
-        {
-          "name": "달콤바삭 찹쌀누룽지, 520g, 2팩",
-          "price": "6,990원",
-          "discount_rate": 80,
-          "priceAt": "10.05 07:23",
-          "image": "https://shopping.toss.im/live/temp/2026-08-14/bc44ef07-9e52-4061-9828-b69ba98cdffa.png",
-          "url": "https://toss.shopping/_m/dTxCDUg7",
-          "_ts": 1791152584.2349288,
-          "_flash": true,
-          "_product_id": "2611490143"
-        },
-        {
-          "name": "맛팜 신 곱창볶음, 250g, 2개",
-          "price": "6,600원",
-          "discount_rate": 72,
-          "priceAt": "10.05 07:23",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/YWIzZjU3/QU92cGNPRXZIT2VhRUdPZlVxZXk4TXRLUDA4azAySkN6YXhEYldlVnpwTkk.png",
-          "url": "https://toss.shopping/_m/1wLSRBgx",
-          "_ts": 1791152584.234901,
-          "_flash": true,
-          "_product_id": "2536370261"
-        },
-        {
-          "name": "이롬 국내산 약콩 무가당 두유, 190ml, 16개",
-          "price": "4,990원",
-          "discount_rate": 70,
-          "priceAt": "10.05 07:23",
-          "image": "https://shopping.toss.im/live/temp/2026-08-11/15ffc29f-7783-4998-8e0d-a05f9af74909.png",
-          "url": "https://toss.shopping/_m/bhwXo4Sf",
-          "_ts": 1791152584.234855,
-          "_flash": true,
-          "_product_id": "2601104607"
-        },
-        {
-          "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
-          "price": "6,930원",
-          "discount_rate": 88,
-          "priceAt": "10.05 07:22",
-          "image": "https://shopping.toss.im/live/temp/2026-09-23/9072bbae-8462-4cc2-ab82-8c9b161d4680.png",
-          "url": "https://toss.shopping/_m/JsatPcRl",
-          "_ts": 1791152542.8881059,
-          "_flash": true,
-          "_product_id": "2653093475"
-        },
-        {
-          "name": "맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
-          "price": "5,950원",
-          "discount_rate": 80,
-          "priceAt": "10.05 07:22",
-          "image": "https://shopping.toss.im/live/temp/2026-08-03/a8c0ca14-34eb-45c6-bede-da24aaf71a61.jpeg",
-          "url": "https://toss.shopping/_m/9shjEXqt",
-          "_ts": 1791152542.888073,
-          "_flash": true,
-          "_product_id": "2566320999"
         }
       ]
     },
