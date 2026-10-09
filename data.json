@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "GAP 삼겹살용 모둠쌈, 450g, 1개",
+          "price": "5,680원",
+          "discount_rate": 27,
+          "priceAt": "10.09 14:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/684237316013355-963205dd-2865-4dc7-a6ab-feb057ee5a00.png",
+          "url": "https://link.coupang.com/a/hHAlL5BaYm",
+          "_ts": 1791525514.282039
+        },
+        {
           "name": "서울우유 고칼슘 무가당 블랙9곡 두유, 190ml, 32개, 190ml × 32개",
           "price": "13,300원",
           "discount_rate": 21,
