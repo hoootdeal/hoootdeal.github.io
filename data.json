@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오리온 진한 디저트 케익 오뜨 치즈, 156g, 4개",
+          "price": "8,200원",
+          "discount_rate": 25,
+          "priceAt": "10.10 07:21",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/11920667541771-89f37190-efbd-41b8-89c0-fe2d2a7420c0.jpg",
+          "url": "https://link.coupang.com/a/hIIAF67Z48",
+          "_ts": 1791584491.22507
+        },
+        {
           "name": "그릭데이 그릭요거트 시그니처, 100g, 3개, 100g × 3개",
           "price": "6,980원",
           "discount_rate": 37,
@@ -1041,15 +1050,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2366909073099598-d91a9ae3-9d43-4709-8f66-0f9307f0c38c.jpg",
           "url": "https://link.coupang.com/a/hAp9reI2QS",
           "_ts": 1791152565.2433548
-        },
-        {
-          "name": "덴마크산 우유로 만든 피자치즈, 900g, 1개, 1개입",
-          "price": "4,900원",
-          "discount_rate": 50,
-          "priceAt": "10.05 07:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/24002658741384-09edfd52-926f-4ab4-822f-1a6338080b5b.jpg",
-          "url": "https://link.coupang.com/a/hApLEPmgxM",
-          "_ts": 1791152237.6643999
         }
       ]
     },
