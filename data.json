@@ -1005,6 +1005,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+          "price": "7,900원",
+          "discount_rate": 76,
+          "priceAt": "10.09 13:52",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/Y2VjZDA0/QU0zUE1sbU83WnJNYzlITWJKdE1PMndsdzBsdFdFeHprN1cwNWowT0xJM1Q.png",
+          "url": "https://toss.shopping/_m/HcEDASsr",
+          "_ts": 1791521550.971689,
+          "_product_id": "2523489535"
+        },
+        {
           "name": "케라시스 두피 비듬케어 딥클린 쿨링 단백질 샴푸, 980ml, 3개",
           "price": "11,670원",
           "discount_rate": 78,
