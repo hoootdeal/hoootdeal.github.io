@@ -1086,6 +1086,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "푸디헤븐 꾸지뽕 왕족발, 1kg, 2개",
+          "price": "15,900원",
+          "discount_rate": 40,
+          "priceAt": "10.10 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/MmMwNWM2/UFR1ZXlpbHpja3c5a1pra1R3bnBadXBKSnBDMXBxRWhWclpVcFZTcHF0WT0.png",
+          "url": "https://toss.shopping/_m/lkXB8dkC",
+          "_ts": 1791558072.686016,
+          "_flash": true,
+          "_product_id": "145684253"
+        },
+        {
+          "name": "구첩반찬 양념고추무침, 1kg, 1개",
+          "price": "4,800원",
+          "discount_rate": 51,
+          "priceAt": "10.10 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/YmMyY2E4/T1o2WTNNem5wa1BtRy9ZNHZra2VRNGVKNDVpWjdPNU9ZbVpnY3VjT2Q2QT0.png",
+          "url": "https://toss.shopping/_m/RANwSQIp",
+          "_ts": 1791558072.6860008,
+          "_flash": true,
+          "_product_id": "984690425"
+        },
+        {
+          "name": "슬림떡볶이 로제맛, 230g, 4개",
+          "price": "5,530원",
+          "discount_rate": 64,
+          "priceAt": "10.10 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MzgzYjc2/QUlYSDJaK1huZzlNUHh0dVhleFo4YXp3ZkpoeEJmbE10djZodDA2QUZIbno.png",
+          "url": "https://toss.shopping/_m/3lrWbCFy",
+          "_ts": 1791558072.6859689,
+          "_flash": true,
+          "_product_id": "2482486143"
+        },
+        {
           "name": "전통압착 통참기름, 350ml, 2개",
           "price": "9,900원",
           "discount_rate": 79,
@@ -1206,19 +1239,6 @@
           "_ts": 1791500528.5098372,
           "_flash": true,
           "_product_id": "105382313"
-        },
-        {
-          "name": "슬림떡볶이 로제맛, 230g, 4개",
-          "price": "5,530원",
-          "discount_rate": 64,
-          "priceAt": "10.09 08:01",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MzgzYjc2/QUlYSDJaK1huZzlNUHh0dVhleFo4YXp3ZkpoeEJmbE10djZodDA2QUZIbno.png",
-          "url": "https://toss.shopping/_m/3lrWbCFy",
-          "_ts": 1791500503.603914,
-          "_flash": true,
-          "_product_id": "2482486143",
-          "sold_out": true,
-          "_sold_at": 1791557418.0
         },
         {
           "name": "리버티 입는오버나이트, 4매, 대형, 5팩",
