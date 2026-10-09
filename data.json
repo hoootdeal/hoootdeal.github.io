@@ -1032,15 +1032,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/stage/manual/4190587563089942-69bffe46-3a43-4efc-90be-c51ea03a88b2_1751347654241.jpg",
           "url": "https://link.coupang.com/a/hAtSwu9otw",
           "_ts": 1791155687.354293
-        },
-        {
-          "name": "락앤락 실리콘 지퍼백 1L 블루, 2개, 단품",
-          "price": "8,900원",
-          "discount_rate": 69,
-          "priceAt": "10.05 07:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/419291973856254-36c17705-eccb-4652-8394-8347dc8f0e62.jpg",
-          "url": "https://link.coupang.com/a/hAsz9aELxQ",
-          "_ts": 1791154598.529421
         }
       ]
     },
@@ -1049,6 +1040,39 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "농가살리기 여수 순살갈치, 150g, 10팩",
+          "price": "29,900원",
+          "discount_rate": 42,
+          "priceAt": "10.10 08:02",
+          "image": "https://shopping.toss.im/live/taca/ai/NTE3Zjg3/QTZLMWJaNnp4Qm1rUGpXS3VyVzJHYlZxOEQzUWoxaXd1bzhpNDZvTy9pTT0.png",
+          "url": "https://toss.shopping/_m/VeH4oo3m",
+          "_ts": 1791586929.213402,
+          "_flash": true,
+          "_product_id": "82249363"
+        },
+        {
+          "name": "아스파시아 PDRN 수분재생 미스트, 150ml, 1+1 구성, 총 2개",
+          "price": "8,410원",
+          "discount_rate": 88,
+          "priceAt": "10.10 08:02",
+          "image": "https://shopping.toss.im/live/temp/2026-08-05/1ebd207b-7816-4caa-8b31-ce5d7a84c878.jpeg",
+          "url": "https://toss.shopping/_m/roX2dv6r",
+          "_ts": 1791586929.21337,
+          "_flash": true,
+          "_product_id": "2577805473"
+        },
+        {
+          "name": "데이지 선풍기커버, 데이지, 3P",
+          "price": "5,900원",
+          "discount_rate": 70,
+          "priceAt": "10.10 08:02",
+          "image": "https://shopping.toss.im/live/product/7739615/2d35041f-d1e9-44ef-94e8-defaeecd3215.jpeg",
+          "url": "https://toss.shopping/_m/h1oalEid",
+          "_ts": 1791586929.213322,
+          "_flash": true,
+          "_product_id": "31983731"
+        },
         {
           "name": "티젠 애플 사이다 비니거, 5g, 50개입, 1개",
           "price": "10,900원",
