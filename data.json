@@ -1005,24 +1005,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/384168035198315-a3ac63f9-af72-4bff-b20c-df99b5682536.jpg",
           "url": "https://link.coupang.com/a/hBfyJGAFDU",
           "_ts": 1791195720.296393
-        },
-        {
-          "name": "연세두유 무가당 국산약콩 99%, 190ml, 16개, 190ml × 16개",
-          "price": "10,130원",
-          "discount_rate": 27,
-          "priceAt": "10.05 18:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/07/03/11/3/52b52aa1-a792-4f5a-aa44-7a55beea00eb.jpg",
-          "url": "https://link.coupang.com/a/hBdWzjHNoy",
-          "_ts": 1791194365.4812381
-        },
-        {
-          "name": "오뚜기 프레스코 스파게티 면, 500g, 2개, 500g × 2개",
-          "price": "3,280원",
-          "discount_rate": 37,
-          "priceAt": "10.05 18:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/816463745469883-8448e7dc-8315-42fa-b3d7-1549cd25aedd.jpg",
-          "url": "https://link.coupang.com/a/hA9H0DHEku",
-          "_ts": 1791190809.849757
         }
       ]
     },
@@ -1031,6 +1013,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "땡큐파머스 구운란, 대란, 30구, 1개",
+          "price": "10,490원",
+          "discount_rate": 53,
+          "priceAt": "10.10 19:01",
+          "image": "https://shopping.toss.im/live/taca/ai/ZTZmNjA3/ZlJrb2MvMlh3Y0tDOG05ZUZsQjIzTkF1SlBrSDZDZ2ovUUg5QnNBVzI3UT0.png",
+          "url": "https://toss.shopping/_m/nume4A77",
+          "_ts": 1791626517.0290828,
+          "_product_id": "205874565"
+        },
         {
           "name": "웨이크비 콜드브루 원액 브라질 세하도, 1L, 1병",
           "price": "5,900원",
@@ -1903,16 +1895,6 @@
           "url": "https://toss.shopping/_m/PEKLSIl8",
           "_ts": 1791197336.481001,
           "_product_id": "2087299601"
-        },
-        {
-          "name": "센토 프라임 초미세 딥클린 점보 칫솔, 12개입, 2개",
-          "price": "11,700원",
-          "discount_rate": 76,
-          "priceAt": "10.05 18:57",
-          "image": "https://shopping.toss.im/live/temp/2025-11-05/3285eccd-790e-4bb3-a732-f548238d5a0b.jpeg",
-          "url": "https://toss.shopping/_m/379jTRJj",
-          "_ts": 1791194224.347604,
-          "_product_id": "301940091"
         }
       ]
     },
