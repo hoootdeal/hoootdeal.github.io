@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "올리타리아 퓨어 올리브유, 1L, 1개, 1L × 1개",
+          "price": "15,000원",
+          "discount_rate": 27,
+          "priceAt": "10.10 14:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/305f/fd0a6118a2538e915c754a604ec550587a50fab54ba517783d5ad645a658.jpg",
+          "url": "https://link.coupang.com/a/hJdjpA2UVw",
+          "_ts": 1791610283.042293
+        },
+        {
           "name": "남양과수원 청포도, 190ml, 48개, 190ml × 48개",
           "price": "9,940원",
           "discount_rate": 25,
@@ -1929,16 +1938,6 @@
           "url": "https://toss.shopping/_m/n2clDnWp",
           "_ts": 1791185626.2388968,
           "_product_id": "135264173"
-        },
-        {
-          "name": "메르헨트 딥 모이스춰 바세린 바디로션, 1L, 2개",
-          "price": "11,000원",
-          "discount_rate": 72,
-          "priceAt": "10.05 14:31",
-          "image": "https://shopping.toss.im/live/temp/2026-03-11/37457952-7663-483c-8a4d-de281c018829.jpeg",
-          "url": "https://toss.shopping/_m/xBlFbXDe",
-          "_ts": 1791178261.866555,
-          "_product_id": "87955257"
         }
       ]
     },
