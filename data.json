@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "베베쿡 처음 먹는 배도라지 유아 음료, 100ml, 배도라지맛",
+          "price": "14,340원",
+          "discount_rate": 28,
+          "priceAt": "10.10 16:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/236223835907716-05ecd384-f598-40db-a460-61601e545c34.jpg",
+          "url": "https://link.coupang.com/a/hJlUi6VfWK",
+          "_ts": 1791617500.914569
+        },
+        {
           "name": "락토핏 생유산균 키즈, 60회분, 120g, 1개",
           "price": "10,200원",
           "discount_rate": 23,
@@ -1023,15 +1032,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/add9beaa-2e01-4859-b19a-a1b5def363531279591991308286214.png",
           "url": "https://link.coupang.com/a/hA31KoM1Mi",
           "_ts": 1791186037.707982
-        },
-        {
-          "name": "돌 스위티오 바나나, 1kg 내외, 2개, 1kg 내외 × 2개",
-          "price": "5,070원",
-          "discount_rate": 32,
-          "priceAt": "10.05 16:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/352873150398892-7db27e34-a45e-443a-97cb-b94c1206f3b4.jpg",
-          "url": "https://link.coupang.com/a/hA2YXgEpPg",
-          "_ts": 1791185163.160692
         }
       ]
     },
