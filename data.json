@@ -978,6 +978,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+          "price": "4,990원",
+          "discount_rate": 66,
+          "priceAt": "10.11 08:02",
+          "image": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
+          "url": "https://toss.shopping/_m/dXoRinis",
+          "_ts": 1791673344.28802,
+          "_flash": true,
+          "_product_id": "2621363823"
+        },
+        {
+          "name": "푸드앳홈 새우젓, 1kg, 2개",
+          "price": "13,600원",
+          "discount_rate": 54,
+          "priceAt": "10.11 08:02",
+          "image": "https://shopping.toss.im/live/taca/ai/MTI3ZWU1/QVB6ak5zUFExa3BPUjRacERWOE5aUzM0T0pZOGdQaWN0bGZnQitQNEF2Qys.png",
+          "url": "https://toss.shopping/_m/dFkRejv8",
+          "_ts": 1791673344.287987,
+          "_flash": true,
+          "_product_id": "7727769"
+        },
+        {
+          "name": "슬림떡볶이 로제맛, 230g, 4개",
+          "price": "5,530원",
+          "discount_rate": 64,
+          "priceAt": "10.11 08:02",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MzgzYjc2/QUlYSDJaK1huZzlNUHh0dVhleFo4YXp3ZkpoeEJmbE10djZodDA2QUZIbno.png",
+          "url": "https://toss.shopping/_m/3lrWbCFy",
+          "_ts": 1791673344.287943,
+          "_flash": true,
+          "_product_id": "2482486143"
+        },
+        {
           "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 4개",
           "price": "12,900원",
           "discount_rate": 80,
@@ -1221,17 +1254,6 @@
           "_product_id": "2636661281"
         },
         {
-          "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-          "price": "4,990원",
-          "discount_rate": 66,
-          "priceAt": "10.10 00:01",
-          "image": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
-          "url": "https://toss.shopping/_m/dXoRinis",
-          "_ts": 1791558100.911053,
-          "_flash": true,
-          "_product_id": "2621363823"
-        },
-        {
           "name": "이스트밸리 트리플 슈레드 치즈, 1kg, 2개",
           "price": "20,260원",
           "discount_rate": 60,
@@ -1263,17 +1285,6 @@
           "_ts": 1791558072.6860008,
           "_flash": true,
           "_product_id": "984690425"
-        },
-        {
-          "name": "슬림떡볶이 로제맛, 230g, 4개",
-          "price": "5,530원",
-          "discount_rate": 64,
-          "priceAt": "10.10 00:01",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MzgzYjc2/QUlYSDJaK1huZzlNUHh0dVhleFo4YXp3ZkpoeEJmbE10djZodDA2QUZIbno.png",
-          "url": "https://toss.shopping/_m/3lrWbCFy",
-          "_ts": 1791558072.6859689,
-          "_flash": true,
-          "_product_id": "2482486143"
         },
         {
           "name": "전통압착 통참기름, 350ml, 2개",
