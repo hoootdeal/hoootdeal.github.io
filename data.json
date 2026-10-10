@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "브이콘, 50g, 20개",
+          "price": "8,960원",
+          "discount_rate": 70,
+          "priceAt": "10.10 19:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/e37cb730-64b1-4c84-aafb-d03bdb06022a_fixing_v2.png",
+          "url": "https://link.coupang.com/a/hJAIzEjvBQ",
+          "_ts": 1791629937.007561
+        },
+        {
           "name": "스카치브라이트 베이직 미세먼지 정전기 청소포 60매, 37 x 19 cm, 1개",
           "price": "4,040원",
           "discount_rate": 60,
@@ -987,15 +996,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/03/09/9/5/7ef56909-9e9c-4c67-8363-e99f621f7ccc.png",
           "url": "https://link.coupang.com/a/hBlLRvPxYG",
           "_ts": 1791200935.76515
-        },
-        {
-          "name": "어부심 산지직송 산채로 포장한 생물새우, 1kg(30~40미), 1박스",
-          "price": "22,120원",
-          "discount_rate": 25,
-          "priceAt": "10.05 19:49",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/577698607710702-6c89dbc5-c5e3-4950-92fa-decd2b016682.jpg",
-          "url": "https://link.coupang.com/a/hBhwl0uWC4",
-          "_ts": 1791197368.575972
         }
       ]
     },
@@ -1886,16 +1886,6 @@
           "url": "https://toss.shopping/_m/ndG0KCQ4",
           "_ts": 1791198560.165096,
           "_product_id": "119339587"
-        },
-        {
-          "name": "국내산 못난이 파프리카, 2kg, 1박스",
-          "price": "9,990원",
-          "discount_rate": 67,
-          "priceAt": "10.05 19:48",
-          "image": "https://shopping.toss.im/live/taca/ai/Mjg3MzI5/QU9KdnZ0Z0o3eFBKaC9FRHRnT2t5djlJZ3BJTExSemgwSTBmZ25neXltbHI.png",
-          "url": "https://toss.shopping/_m/PEKLSIl8",
-          "_ts": 1791197336.481001,
-          "_product_id": "2087299601"
         }
       ]
     },
