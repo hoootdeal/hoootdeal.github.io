@@ -1005,6 +1005,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "플로비즈 자연 커피꽃꿀 대용량꿀, 2kg, 1개",
+          "price": "14,900원",
+          "discount_rate": 75,
+          "priceAt": "10.10 20:38",
+          "image": "https://shopping.toss.im/live/taca/ai/N2M5ZGNh/WXFmdzhaNWFIUTlodE1Kd3Jvczh6MWtjM3o3bVlmVFVHbytiTC9WUTlkQT0.png",
+          "url": "https://toss.shopping/_m/vQx8oUsd",
+          "_ts": 1791632325.43388,
+          "_product_id": "103364953"
+        },
+        {
           "name": "배스킨라빈스 망고탱고 밀키소다, 350ml, 12개",
           "price": "7,900원",
           "discount_rate": 67,
