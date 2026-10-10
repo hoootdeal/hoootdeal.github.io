@@ -969,15 +969,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/126846934581871-15058de5-3eca-4bad-9d6e-776d6a8497a2.jpg",
           "url": "https://link.coupang.com/a/hCaaUWe1u0",
           "_ts": 1791243255.563777
-        },
-        {
-          "name": "에이원식품 한입 미니도나스, 18g, 20개",
-          "price": "6,940원",
-          "discount_rate": 22,
-          "priceAt": "10.06 07:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/09/19/10/9/e9209c1f-c4ec-42fa-bdd8-abd058df1cdf.jpg",
-          "url": "https://link.coupang.com/a/hB521xJB5o",
-          "_ts": 1791239790.569526
         }
       ]
     },
@@ -986,6 +977,39 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 4개",
+          "price": "12,900원",
+          "discount_rate": 80,
+          "priceAt": "10.11 08:01",
+          "image": "https://shopping.toss.im/live/temp/2025-12-06/bc7b10ed-6617-4bbb-aa8e-c8f4b9bd9bd9.jpeg",
+          "url": "https://toss.shopping/_m/12LRFIyi",
+          "_ts": 1791673319.258935,
+          "_flash": true,
+          "_product_id": "281407269"
+        },
+        {
+          "name": "올리 프리미엄 워싱소다, 3kg, 3개",
+          "price": "10,800원",
+          "discount_rate": 43,
+          "priceAt": "10.11 08:01",
+          "image": "https://shopping.toss.im/live/temp/2026-01-14/580c2164-b5f3-4c45-8411-155af221528f.jpeg",
+          "url": "https://toss.shopping/_m/J9InJrWg",
+          "_ts": 1791673319.258901,
+          "_flash": true,
+          "_product_id": "627705787"
+        },
+        {
+          "name": "뼈 없는 수비드 순살 통족발, 650g, 2개",
+          "price": "20,800원",
+          "discount_rate": 25,
+          "priceAt": "10.11 08:01",
+          "image": "https://shopping.toss.im/live/taca/ai/ODdmNTY3/QUx0aE5LSGk1c2ptNWJPTmxqc1puamJaTTJ6bEJzYXpScFVOa0VzVzdoWjg.png",
+          "url": "https://toss.shopping/_m/jIVhFPLy",
+          "_ts": 1791673319.258857,
+          "_flash": true,
+          "_product_id": "2326527439"
+        },
         {
           "name": "빙그레 단지우유, 바나나맛 4개 + 딸기맛 4개 + 메로나맛 4개, 240ml, 12개",
           "price": "12,900원",
