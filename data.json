@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하이뮨 프로틴 밸런스 저당 음료, 190ml, 24개, 190ml × 24개",
+          "price": "19,990원",
+          "discount_rate": 21,
+          "priceAt": "10.10 10:52",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/02/17/11/4/48e7c963-1c46-48a4-8701-7dd23b1e1110.jpg",
+          "url": "https://link.coupang.com/a/hIXFEWPQvk",
+          "_ts": 1791597152.890643
+        },
+        {
           "name": "코오롱제약 로얄 실크알부민 맥스 30p + 쇼핑백, 600ml, 1개",
           "price": "18,900원",
           "discount_rate": 52,
@@ -1014,15 +1023,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/982534486043195-12a62104-e391-4dda-bc32-de4ae186e056.jpg",
           "url": "https://link.coupang.com/a/hAHzAp9qUu",
           "_ts": 1791167186.6934981
-        },
-        {
-          "name": "뉴트키즈 칼슘마그네슘비타민D 30p, 60g, 1개",
-          "price": "15,050원",
-          "discount_rate": 33,
-          "priceAt": "10.05 10:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/06/21/17/6/28a4bf2c-a2f5-4c61-89eb-3d5413ee2ce7.jpg",
-          "url": "https://link.coupang.com/a/hADv31fmOy",
-          "_ts": 1791163777.3386219
         }
       ]
     },
@@ -1955,16 +1955,6 @@
           "_ts": 1791167528.22595,
           "_flash": true,
           "_product_id": "2334877747"
-        },
-        {
-          "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
-          "price": "7,900원",
-          "discount_rate": 55,
-          "priceAt": "10.05 10:25",
-          "image": "https://shopping.toss.im/live/temp/2025-07-25/7ca9d4c9-fb69-4a3e-bd3d-58c5a6980da7.jpeg",
-          "url": "https://toss.shopping/_m/tYDrLP5C",
-          "_ts": 1791163555.3632488,
-          "_product_id": "109834949"
         }
       ]
     },
