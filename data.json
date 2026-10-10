@@ -1023,15 +1023,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/816463745469883-8448e7dc-8315-42fa-b3d7-1549cd25aedd.jpg",
           "url": "https://link.coupang.com/a/hA9H0DHEku",
           "_ts": 1791190809.849757
-        },
-        {
-          "name": "청정원 진한 토마토케찹, 500g, 2개, 500g × 2개",
-          "price": "3,080원",
-          "discount_rate": 43,
-          "priceAt": "10.05 17:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/30782459413431-a58a60a3-c081-481c-8bf2-8706e83951a6.png",
-          "url": "https://link.coupang.com/a/hA5Q4JQfTM",
-          "_ts": 1791187579.298172
         }
       ]
     },
@@ -1040,6 +1031,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "웨이크비 콜드브루 원액 브라질 세하도, 1L, 1병",
+          "price": "5,900원",
+          "discount_rate": 54,
+          "priceAt": "10.10 17:33",
+          "image": "https://shopping.toss.im/live/temp/2026-09-04/32f7cf27-c736-4acc-9c0d-552e882e6102.jpeg",
+          "url": "https://toss.shopping/_m/B39d4Q6m",
+          "_ts": 1791621212.2418292,
+          "_product_id": "2548634659"
+        },
         {
           "name": "맘스케이크 플랫파운드, 혼합, 50g, 20개",
           "price": "9,300원",
@@ -1912,16 +1913,6 @@
           "url": "https://toss.shopping/_m/379jTRJj",
           "_ts": 1791194224.347604,
           "_product_id": "301940091"
-        },
-        {
-          "name": "아워홈 잡채말이 어묵, 1kg, 2팩",
-          "price": "10,900원",
-          "discount_rate": 56,
-          "priceAt": "10.05 17:06",
-          "image": "https://shopping.toss.im/live/taca/ai/Mzc4NmYw/WjJkam1SREpqTTZOTnBjNzZ0Qng0M0x0amh5TlBtWjJkdE1SaWVsRTduWT0.png",
-          "url": "https://toss.shopping/_m/xoCfQ9Dk",
-          "_ts": 1791187560.348927,
-          "_product_id": "179780757"
         }
       ]
     },
