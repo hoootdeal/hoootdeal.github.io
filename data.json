@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "유니온천년알카리수, 500ml, 20개, 500ml × 20개",
+          "price": "8,800원",
+          "discount_rate": 32,
+          "priceAt": "10.10 09:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/7230520424135356-798245af-6d1e-48ff-832d-a8a51dff335f.jpg",
+          "url": "https://link.coupang.com/a/hIQpOQhMbc",
+          "_ts": 1791591060.451061
+        },
+        {
           "name": "더존건강 한끼곤약젤리 스위트 패키지 28개입, 4.2L, 1세트, 4.2L × 1세트",
           "price": "10,040원",
           "discount_rate": 34,
@@ -1014,24 +1023,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/214445319784801-b502b4f0-5229-46ed-9da8-eb5460fdf654.png",
           "url": "https://link.coupang.com/a/hAzcHFOiEm",
           "_ts": 1791160158.487089
-        },
-        {
-          "name": "라라스윗 포도 제로바 (냉동), 2개, 6개입, 70ml",
-          "price": "5,640원",
-          "discount_rate": 54,
-          "priceAt": "10.05 08:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/428389322284564-98e3116a-2866-401c-8d9d-869e347b73ef.jpg",
-          "url": "https://link.coupang.com/a/hAwhUB7T7Q",
-          "_ts": 1791157710.5969431
-        },
-        {
-          "name": "유라비 아동용 케이시 라운드넥 티셔츠, 100, 네이비",
-          "price": "5,900원",
-          "discount_rate": 63,
-          "priceAt": "10.05 08:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/447467104361476-44a3274b-6722-417e-969c-17cca28280a4.jpg",
-          "url": "https://link.coupang.com/a/hAvcxzsFsi",
-          "_ts": 1791156797.7902431
         }
       ]
     },
