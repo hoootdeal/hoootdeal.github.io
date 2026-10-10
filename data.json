@@ -1005,6 +1005,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "배스킨라빈스 망고탱고 밀키소다, 350ml, 12개",
+          "price": "7,900원",
+          "discount_rate": 67,
+          "priceAt": "10.10 20:10",
+          "image": "https://shopping.toss.im/live/temp/2026-08-25/ed3603a7-8d0d-4ca6-809d-4d809b921e91.png",
+          "url": "https://toss.shopping/_m/xWO3Othc",
+          "_ts": 1791630616.323115,
+          "_product_id": "2635767803"
+        },
+        {
           "name": "베라 무해력 4ZERO 뽑아쓰는 키친타월, 3겹, 100매, 18팩",
           "price": "11,900원",
           "discount_rate": 68,
@@ -1876,16 +1886,6 @@
           "url": "https://toss.shopping/_m/hSEHiFq2",
           "_ts": 1791203138.96679,
           "_product_id": "2515175001"
-        },
-        {
-          "name": "풍년보감 고려홍삼정 투데이굿타임, 15g, 100포 + 쇼핑백, 1개, 1세트",
-          "price": "13,800원",
-          "discount_rate": 72,
-          "priceAt": "10.05 20:09",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/NGQxMjlk/U2ZZeTZlRkw1MXJGTzk0N3R1bHQxczg3Z2JzK3dWclVldFRTclg1UUwxTT0.png",
-          "url": "https://toss.shopping/_m/ndG0KCQ4",
-          "_ts": 1791198560.165096,
-          "_product_id": "119339587"
         }
       ]
     },
