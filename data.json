@@ -1023,15 +1023,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/30782459413431-a58a60a3-c081-481c-8bf2-8706e83951a6.png",
           "url": "https://link.coupang.com/a/hA5Q4JQfTM",
           "_ts": 1791187579.298172
-        },
-        {
-          "name": "시티델리 육즙가득 함박 스테이크, 150g, 2개",
-          "price": "2,960원",
-          "discount_rate": 48,
-          "priceAt": "10.05 16:40",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/add9beaa-2e01-4859-b19a-a1b5def363531279591991308286214.png",
-          "url": "https://link.coupang.com/a/hA31KoM1Mi",
-          "_ts": 1791186037.707982
         }
       ]
     },
@@ -1040,6 +1031,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "맘스케이크 플랫파운드, 혼합, 50g, 20개",
+          "price": "9,300원",
+          "discount_rate": 61,
+          "priceAt": "10.10 16:45",
+          "image": "https://shopping.toss.im/live/temp/2026-09-11/000e96a6-7249-4341-815e-053dabad7e08.png",
+          "url": "https://toss.shopping/_m/HmGS3Veh",
+          "_ts": 1791618300.547905,
+          "_product_id": "2621891757"
+        },
         {
           "name": "페페브루노 엑스트라버진 올리브 오일, 1L, 2개",
           "price": "23,900원",
@@ -1912,16 +1913,6 @@
           "url": "https://toss.shopping/_m/xoCfQ9Dk",
           "_ts": 1791187560.348927,
           "_product_id": "179780757"
-        },
-        {
-          "name": "CJ제일제당 스팸 클래식, 340g, 10개",
-          "price": "33,900원",
-          "discount_rate": 44,
-          "priceAt": "10.05 16:33",
-          "image": "https://shopping.toss.im/live/temp/2025-07-08/36031967-d461-48c9-a475-0c80990714d1.jpeg",
-          "url": "https://toss.shopping/_m/n2clDnWp",
-          "_ts": 1791185626.2388968,
-          "_product_id": "135264173"
         }
       ]
     },
