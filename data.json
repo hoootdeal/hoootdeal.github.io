@@ -978,6 +978,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "시현푸드 마카로니 뻥튀기, 1.2kg, 1개",
+          "price": "5,950원",
+          "discount_rate": 64,
+          "priceAt": "10.11 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/ZTY4YjE3/WlpzbkhQTEZZcFlWS0NoakJaZVhzZE9uUG80K09XNlhEb1RvOFE2TzhIZz0.png",
+          "url": "https://toss.shopping/_m/R5RzWkFy",
+          "_ts": 1791644468.9909172,
+          "_flash": true,
+          "_product_id": "585744873"
+        },
+        {
+          "name": "제주삼다수, 2L, 12입, 1개",
+          "price": "8,990원",
+          "discount_rate": 48,
+          "priceAt": "10.11 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/MDRjYTEz/RzgrZU05M0cwbUxEUERIMmJvMzdKdGRVNGJjbzZWMkdIak5HYWRWUE90Zz0.png",
+          "url": "https://toss.shopping/_m/DUSJJEjC",
+          "_ts": 1791644468.9908822,
+          "_flash": true,
+          "_product_id": "571793791"
+        },
+        {
+          "name": "해피달링 3WAY 필터 샤워기, 1개 + 리필 필터, 12개",
+          "price": "6,180원",
+          "discount_rate": 63,
+          "priceAt": "10.11 00:01",
+          "image": "https://shopping.toss.im/live/temp/2025-12-12/ceaf7cf6-b9be-431a-89bb-9f89bdc06cb7.jpeg",
+          "url": "https://toss.shopping/_m/BTjpPlNe",
+          "_ts": 1791644468.990788,
+          "_flash": true,
+          "_product_id": "422519001"
+        },
+        {
           "name": "플로비즈 자연 커피꽃꿀 대용량꿀, 2kg, 1개",
           "price": "14,900원",
           "discount_rate": 75,
@@ -1325,19 +1358,6 @@
           "_ts": 1791471696.352133,
           "_flash": true,
           "_product_id": "105793053"
-        },
-        {
-          "name": "시현푸드 마카로니 뻥튀기, 1.2kg, 1개",
-          "price": "5,950원",
-          "discount_rate": 64,
-          "priceAt": "10.09 00:01",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTY4YjE3/WlpzbkhQTEZZcFlWS0NoakJaZVhzZE9uUG80K09XNlhEb1RvOFE2TzhIZz0.png",
-          "url": "https://toss.shopping/_m/R5RzWkFy",
-          "_ts": 1791471696.352104,
-          "_flash": true,
-          "_product_id": "585744873",
-          "sold_out": true,
-          "_sold_at": 1791643814.0
         },
         {
           "name": "제주 삼다수, 라벨 랜덤, 330ml, 40개",
