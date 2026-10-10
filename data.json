@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데자일리톨 알파 오리지날 껌 리필, 102g, 2개, 102g × 2개",
+          "price": "4,460원",
+          "discount_rate": 40,
+          "priceAt": "10.11 07:04",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/21308834136540-0df6e668-c3ed-45f3-9ae7-8a336f8b9e4b.jpg",
+          "url": "https://link.coupang.com/a/hKmir54ijc",
+          "_ts": 1791669885.9197729
+        },
+        {
           "name": "브이콘, 50g, 20개",
           "price": "8,960원",
           "discount_rate": 70,
