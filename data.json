@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "본셉 레티날 콜라겐 부스팅샷 앰플, 30ml, 1개",
+          "price": "2,280원",
+          "discount_rate": 71,
+          "priceAt": "10.11 07:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/323121636697432-dafb178e-a30e-4f31-bb9b-8551bc76c5df.jpeg",
+          "url": "https://link.coupang.com/a/hKn2mGP39M",
+          "_ts": 1791671344.684436
+        },
+        {
           "name": "일리 디카프 디카페인 캡슐커피, 6.7g, 21개입, 1개",
           "price": "10,850원",
           "discount_rate": 30,
@@ -969,24 +978,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/09/19/10/9/e9209c1f-c4ec-42fa-bdd8-abd058df1cdf.jpg",
           "url": "https://link.coupang.com/a/hB521xJB5o",
           "_ts": 1791239790.569526
-        },
-        {
-          "name": "웰치스 프루트 스낵 믹스드 맛 90개입, 2kg, 1개",
-          "price": "23,190원",
-          "discount_rate": 21,
-          "priceAt": "10.06 07:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/9946/53446487ba63e45dccbbf8ad953c4aaecdb0edc0c99caf399d49f3a19be9.jpg",
-          "url": "https://link.coupang.com/a/hB5iSdH6ia",
-          "_ts": 1791239167.0664582
-        },
-        {
-          "name": "페리오 효소의발견 1450 고불소 치약 유러피안메디컬허브민트, 85g, 1개, 85g × 1개",
-          "price": "990원",
-          "discount_rate": 80,
-          "priceAt": "10.06 07:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/05/27/11/9/8d9db002-0c12-4495-b560-7139fc5c220f.jpg",
-          "url": "https://link.coupang.com/a/hB4p90eAMK",
-          "_ts": 1791238425.465085
         }
       ]
     },
@@ -1860,72 +1851,6 @@
           "url": "https://toss.shopping/_m/P8FSMebC",
           "_ts": 1791250342.452787,
           "_product_id": "2487393443"
-        },
-        {
-          "name": "극조생 감귤 햇귤, 로얄과, 5kg, 1개",
-          "price": "9,800원",
-          "discount_rate": 75,
-          "priceAt": "10.06 07:22",
-          "image": "https://shopping.toss.im/live/temp/2026-09-16/592d7cb9-6e89-4db8-81ce-9c105ec1c457.png",
-          "url": "https://toss.shopping/_m/Z9wWCoan",
-          "_ts": 1791238976.9319959,
-          "_flash": true,
-          "_product_id": "2657232207"
-        },
-        {
-          "name": "핫식스, 더킹 애플홀릭, 355ml, 24개",
-          "price": "17,000원",
-          "discount_rate": 42,
-          "priceAt": "10.06 07:22",
-          "image": "https://shopping.toss.im/live/taca/ai/OTZmMTE3/QU9jZW05aDR6R1VtbW5HUzIyV09qZlRhOFhZTHAzU0o5SFdMZGcrYWNJdjA.png",
-          "url": "https://toss.shopping/_m/RlfLVVti",
-          "_ts": 1791238976.931964,
-          "_flash": true,
-          "_product_id": "103381731"
-        },
-        {
-          "name": "달구벌 돼지 생막창 세트, 500g, 2봉",
-          "price": "12,900원",
-          "discount_rate": 35,
-          "priceAt": "10.06 07:22",
-          "image": "https://shopping.toss.im/live/taca/ai/Y2RhZjBj/ZHdRQ0pDc0FINGhQRnd5S1FPejYyT2FNQU53Yy9nQmMrYnpKL2J0MDUyaz0.png",
-          "url": "https://toss.shopping/_m/ZfW7XEJD",
-          "_ts": 1791238976.931926,
-          "_flash": true,
-          "_product_id": "8477329"
-        },
-        {
-          "name": "펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
-          "price": "25,832원",
-          "discount_rate": 47,
-          "priceAt": "10.06 07:22",
-          "image": "https://shopping.toss.im/live/taca/ai/OWE1OTlj/QUpjNUdNTnBoT2Njam1jWTQzTVpjYy9NNUljNE05TVl4OHc4NXpneHd4akg.png",
-          "url": "https://toss.shopping/_m/LUkWMMGC",
-          "_ts": 1791238950.910094,
-          "_flash": true,
-          "_product_id": "87478999"
-        },
-        {
-          "name": "빌트루 진한 보리차 진액 원액, 480g, 1개",
-          "price": "8,450원",
-          "discount_rate": 63,
-          "priceAt": "10.06 07:22",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/NjkxZTFj/QVA4Y04xeUs4MzJDLy96Rk9LckQ5UndmUE1Mak5Cd2E5TlVKQ09kRkNmVVk.png",
-          "url": "https://toss.shopping/_m/ZTX2cgRA",
-          "_ts": 1791238950.910063,
-          "_flash": true,
-          "_product_id": "147060019"
-        },
-        {
-          "name": "국내산 경북 홍로사과, 18과내외, 2kg, 1박스",
-          "price": "8,075원",
-          "discount_rate": 45,
-          "priceAt": "10.06 07:22",
-          "image": "https://shopping.toss.im/live/temp/2026-09-01/4d6cd1b2-8e33-4a99-b4ce-b553a7f520f4.jpeg",
-          "url": "https://toss.shopping/_m/hpjXK0Dp",
-          "_ts": 1791238950.910014,
-          "_flash": true,
-          "_product_id": "2642388507"
         }
       ]
     },
