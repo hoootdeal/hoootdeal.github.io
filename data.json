@@ -978,6 +978,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "빙그레 단지우유, 바나나맛 4개 + 딸기맛 4개 + 메로나맛 4개, 240ml, 12개",
+          "price": "12,900원",
+          "discount_rate": 40,
+          "priceAt": "10.11 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-10-06/7904273e-8139-4984-8617-53ae25a3aa74.jpeg",
+          "url": "https://toss.shopping/_m/ZCoFNFud",
+          "_ts": 1791644497.146951,
+          "_flash": true,
+          "_product_id": "1958550681"
+        },
+        {
+          "name": "케라시스 두피 쿨링 단백질 샴푸, 지성 비듬, 980ml, 3개",
+          "price": "10,940원",
+          "discount_rate": 79,
+          "priceAt": "10.11 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-06-09/310a0d11-2bdf-41c6-ad29-b5a821801077.png",
+          "url": "https://toss.shopping/_m/b8LqFpui",
+          "_ts": 1791644497.1469061,
+          "_flash": true,
+          "_product_id": "729464723"
+        },
+        {
+          "name": "동원 소와나무 화이트 체다 슬라이스 치즈, 18g, 100매, 1개",
+          "price": "15,900원",
+          "discount_rate": 44,
+          "priceAt": "10.11 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/YTBlNmFh/YjJZek55MDJtOHl6TnNsczVKdk50TXpaTExOYlRHU1Rac3d5MlR4c3lTUT0.png",
+          "url": "https://toss.shopping/_m/DXs5DvHo",
+          "_ts": 1791644497.146859,
+          "_flash": true,
+          "_product_id": "2293250433"
+        },
+        {
           "name": "시현푸드 마카로니 뻥튀기, 1.2kg, 1개",
           "price": "5,950원",
           "discount_rate": 64,
