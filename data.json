@@ -1032,6 +1032,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "매콤 넓적다리, 1.25kg, 10개입, 1팩",
+          "price": "16,700원",
+          "discount_rate": 52,
+          "priceAt": "10.10 09:55",
+          "image": "https://shopping.toss.im/live/taca/ai/OTgwNTI3/YmFLeThvNldTK1p6U3JpMGFtdFF4Y2UyeXUxSkZnd2w0dHFzY1N6aHBETT0.png",
+          "url": "https://toss.shopping/_m/lXmI0jGz",
+          "_ts": 1791593740.675663,
+          "_product_id": "281371629"
+        },
+        {
           "name": "농가살리기 여수 순살갈치, 150g, 10팩",
           "price": "29,900원",
           "discount_rate": 42,
