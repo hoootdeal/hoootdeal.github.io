@@ -1050,6 +1050,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "페페브루노 엑스트라버진 올리브 오일, 1L, 2개",
+          "price": "23,900원",
+          "discount_rate": 65,
+          "priceAt": "10.10 13:50",
+          "image": "https://shopping.toss.im/live/taca/ai/ZjA2ZGYw/QU9oYzVEKy9zcHczbGZCenlVS1ByTFpBanp5MDcveUxTNVZEK2J5VlVuUzg.png",
+          "url": "https://toss.shopping/_m/bPlp2hbB",
+          "_ts": 1791607844.335986,
+          "_product_id": "303280721"
+        },
+        {
           "name": "와이드뷰 와이드무빙뷰 32인치 hd 삼탠바이미 셋트, 81cm, V3세트, 스탠드형, 고객직접설치, 1세트",
           "price": "242,000원",
           "discount_rate": 47,
