@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "배대감 저당 저칼로리 알룰로스 오리지널, 530g, 2개, 530g × 2개",
+          "price": "7,470원",
+          "discount_rate": 29,
+          "priceAt": "10.10 11:49",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/2354a491-184a-4676-ae91-1a53908af62f_fixing_v2.png",
+          "url": "https://link.coupang.com/a/hI1IsHxaO4",
+          "_ts": 1791600549.701827
+        },
+        {
           "name": "하이뮨 프로틴 밸런스 저당 음료, 190ml, 24개, 190ml × 24개",
           "price": "19,990원",
           "discount_rate": 21,
@@ -1014,15 +1023,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/35fd/813125ea717fb33c7db23a6d777a2bd539bd180b885ea33a08d205301fdb.jpg",
           "url": "https://link.coupang.com/a/hAVaFiSKpo",
           "_ts": 1791178598.694137
-        },
-        {
-          "name": "켈로그 크랜베리 아몬드 그래놀라 시리얼, 550g, 1개, 550g × 1개",
-          "price": "4,650원",
-          "discount_rate": 37,
-          "priceAt": "10.05 11:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/982534486043195-12a62104-e391-4dda-bc32-de4ae186e056.jpg",
-          "url": "https://link.coupang.com/a/hAHzAp9qUu",
-          "_ts": 1791167186.6934981
         }
       ]
     },
@@ -1889,72 +1889,6 @@
           "url": "https://toss.shopping/_m/xBlFbXDe",
           "_ts": 1791178261.866555,
           "_product_id": "87955257"
-        },
-        {
-          "name": "한우물 햄야채 볶음밥, 210g, 10개",
-          "price": "9,990원",
-          "discount_rate": 61,
-          "priceAt": "10.05 11:32",
-          "image": "https://shopping.toss.im/live/temp/2026-09-22/67854af3-a012-4ef9-ba29-705eb38ef9ed.png",
-          "url": "https://toss.shopping/_m/bZcpQCD",
-          "_ts": 1791167553.594812,
-          "_flash": true,
-          "_product_id": "2637400321"
-        },
-        {
-          "name": "한예지 클린터치 위생장갑, 고급형, 200매, 4팩",
-          "price": "8,890원",
-          "discount_rate": 65,
-          "priceAt": "10.05 11:32",
-          "image": "https://shopping.toss.im/live/temp/2026-08-31/1f9e3722-fab5-4266-a398-d74542a4f2be.jpeg",
-          "url": "https://toss.shopping/_m/jjP8Rt37",
-          "_ts": 1791167553.594784,
-          "_flash": true,
-          "_product_id": "2641031357"
-        },
-        {
-          "name": "번개표 개별스위치 멀티탭 3구, 1.5m, 1개",
-          "price": "5,810원",
-          "discount_rate": 70,
-          "priceAt": "10.05 11:32",
-          "image": "https://shopping.toss.im/0c7/live/product/840635421/0c7dba1c-0661-436d-b102-46660e42a26a.jpg",
-          "url": "https://toss.shopping/_m/tsbAqn9C",
-          "_ts": 1791167553.594741,
-          "_flash": true,
-          "_product_id": "2636114495"
-        },
-        {
-          "name": "맛꾼 메추리알 장조림, 1kg, 2개",
-          "price": "8,900원",
-          "discount_rate": 55,
-          "priceAt": "10.05 11:32",
-          "image": "https://shopping.toss.im/live/temp/2026-03-24/2eca8ca1-f347-4ec1-bbfa-56e8042f5e2d.jpeg",
-          "url": "https://toss.shopping/_m/p6unodAt",
-          "_ts": 1791167528.226086,
-          "_flash": true,
-          "_product_id": "1239471885"
-        },
-        {
-          "name": "맥콜 제로슈거, 190ml, 30개",
-          "price": "7,600원",
-          "discount_rate": 57,
-          "priceAt": "10.05 11:32",
-          "image": "https://shopping.toss.im/live/temp/2026-08-10/e86bf3ee-b559-4aff-bb2b-4ae73b937ba2.jpeg",
-          "url": "https://toss.shopping/_m/zBTA95rD",
-          "_ts": 1791167528.2260292,
-          "_flash": true,
-          "_product_id": "2599642785"
-        },
-        {
-          "name": "맘스럽 아토클래식 물티슈, 100매입, 20팩",
-          "price": "8,253원",
-          "discount_rate": 66,
-          "priceAt": "10.05 11:32",
-          "image": "https://shopping.toss.im/live/temp/2026-07-01/cbcba31d-9c3d-4336-b01c-da1112ebe230.jpeg",
-          "url": "https://toss.shopping/_m/XK5h6qv8",
-          "_ts": 1791167528.22595,
-          "_flash": true,
-          "_product_id": "2334877747"
         }
       ]
     },
