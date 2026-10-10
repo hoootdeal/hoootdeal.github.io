@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "넛츠그린 100% 무가당 땅콩버터 스무스, 200g, 1개, 200g × 1개",
+          "price": "5,830원",
+          "discount_rate": 30,
+          "priceAt": "10.10 15:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1923113138955452-4367705e-420b-46b4-93f1-3bb495f5526e.jpg",
+          "url": "https://link.coupang.com/a/hJhhqrMcCq",
+          "_ts": 1791613616.524585
+        },
+        {
           "name": "올리타리아 퓨어 올리브유, 1L, 1개, 1L × 1개",
           "price": "15,000원",
           "discount_rate": 27,
@@ -1032,24 +1041,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/945234166511213-3a7fefb9-e709-4323-bd79-5435043c12ac.jpg",
           "url": "https://link.coupang.com/a/hAZxnujjjw",
           "_ts": 1791182269.440578
-        },
-        {
-          "name": "발베로 유기농 애플 사이다 비네거, 1L, 1개",
-          "price": "7,320원",
-          "discount_rate": 22,
-          "priceAt": "10.05 14:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/698c/6978b22421d036895aac5d568818dd31abde88b3a896014cca487872b985.jpg",
-          "url": "https://link.coupang.com/a/hAWvhmuG96",
-          "_ts": 1791179721.0033998
-        },
-        {
-          "name": "닥터유 면역수, 530ml, 20개, 530ml × 20개",
-          "price": "5,350원",
-          "discount_rate": 47,
-          "priceAt": "10.05 14:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/35fd/813125ea717fb33c7db23a6d777a2bd539bd180b885ea33a08d205301fdb.jpg",
-          "url": "https://link.coupang.com/a/hAVaFiSKpo",
-          "_ts": 1791178598.694137
         }
       ]
     },
