@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "남양과수원 청포도, 190ml, 48개, 190ml × 48개",
+          "price": "9,940원",
+          "discount_rate": 25,
+          "priceAt": "10.10 13:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/62061438249122-18421894-c5e7-4929-b253-a475810a9ce6.jpg",
+          "url": "https://link.coupang.com/a/hI9wuG5nLE",
+          "_ts": 1791607103.6258402
+        },
+        {
           "name": "이즈니 AOP 버터롤, 250g, 2개",
           "price": "17,550원",
           "discount_rate": 34,
