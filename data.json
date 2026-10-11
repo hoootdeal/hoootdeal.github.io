@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크래프트 아보카도 오일 마요네즈, 1개, 354ml",
+          "price": "3,680원",
+          "discount_rate": 35,
+          "priceAt": "10.11 16:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2500175984165037-c5085c18-0a61-4b4b-b304-e5d02658f7e8.jpg",
+          "url": "https://link.coupang.com/a/hKZRDja7O0",
+          "_ts": 1791703103.710274
+        },
+        {
           "name": "효성어묵 부산옛날어묵 종합 (냉동), 1kg, 1개",
           "price": "6,150원",
           "discount_rate": 27,
@@ -1859,16 +1868,6 @@
           "url": "https://toss.shopping/_m/HM5JcorD",
           "_ts": 1791272341.476467,
           "_product_id": "178334193"
-        },
-        {
-          "name": "신선하랑 냉동 삼겹살, 1kg, 2개",
-          "price": "22,500원",
-          "discount_rate": 42,
-          "priceAt": "10.06 16:15",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDE5Y2Ix/QU1XMTRxV0MrUUpGQlVGZFZ3djFQSnkzRUR4QzRZSnJid2x2S1ZycW5ZVT0.png",
-          "url": "https://toss.shopping/_m/hh463PKf",
-          "_ts": 1791270918.982486,
-          "_product_id": "288570013"
         }
       ]
     },
