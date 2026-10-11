@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "존쿡 델리미트 전G베이컨, 200g, 2개",
+          "price": "3,760원",
+          "discount_rate": 60,
+          "priceAt": "10.12 07:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7651105524280593-0ace3691-e714-418c-910f-e134f42fadcb.jpg",
+          "url": "https://link.coupang.com/a/hL3qXsgxAi",
+          "_ts": 1791758161.329816
+        },
+        {
           "name": "마녀공장 비피다 콤플렉스 앰플, 50ml, 2개",
           "price": "16,000원",
           "discount_rate": 49,
@@ -969,24 +978,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/6ec33232-d75e-4761-8d7b-d6ab995aba4115702728058455975403.png",
           "url": "https://link.coupang.com/a/hDKVX5GIbk",
           "_ts": 1791326172.188722
-        },
-        {
-          "name": "롯데웰푸드 에이비씨 초콜릿, 187g, 2개",
-          "price": "7,960원",
-          "discount_rate": 20,
-          "priceAt": "10.07 07:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/14760251080527-6d934cab-87d3-44bd-9d9c-075417457cca.png",
-          "url": "https://link.coupang.com/a/hDKCHMIwRp",
-          "_ts": 1791325911.757151
-        },
-        {
-          "name": "담라 투, 1kg, 1개",
-          "price": "6,000원",
-          "discount_rate": 31,
-          "priceAt": "10.07 07:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/f501/82bdad79f31ec2e88a91ffd11939e973b454bead8a3eda7e52db3c1368a7.jpg",
-          "url": "https://link.coupang.com/a/hDKqnmP1Ai",
-          "_ts": 1791325749.6368792
         }
       ]
     },
