@@ -942,6 +942,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "푸드앳홈 마늘 바게트, 40g, 10개",
+          "price": "5,400원",
+          "discount_rate": 63,
+          "priceAt": "10.11 18:41",
+          "image": "https://shopping.toss.im/live/temp/2025-01-21/8b5ba25c-12b5-4a1d-bab7-73cd19c703ff.jpeg",
+          "url": "https://toss.shopping/_m/7x9pPPOt",
+          "_ts": 1791711670.469478,
+          "_product_id": "129332283"
+        },
+        {
           "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
           "price": "6,930원",
           "discount_rate": 88,
