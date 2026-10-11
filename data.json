@@ -969,6 +969,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "일화 부르르 제로콜라 수박, 제로, 수박맛, 250ml, 30캔",
+          "price": "9,600원",
+          "discount_rate": 46,
+          "priceAt": "10.12 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/OWZjMzA2/QU85VWgyOTk3NmxlZWNSV3RBeTc3U3ZzNitrcmxqYVcxdW5BclZ2NXhGKzU.png",
+          "url": "https://toss.shopping/_m/hxRDuDRv",
+          "_ts": 1791730866.486527,
+          "_flash": true,
+          "_product_id": "129990591"
+        },
+        {
+          "name": "상온발효 그릭 요거트 스타터 플레인, 2g, 10포, 6박스",
+          "price": "15,900원",
+          "discount_rate": 77,
+          "priceAt": "10.12 00:01",
+          "image": "https://shopping.toss.im/live/temp/2025-12-03/60a596b2-88c3-4f01-8e28-a55435b3dc4f.jpeg",
+          "url": "https://toss.shopping/_m/Vu385tvo",
+          "_ts": 1791730866.486495,
+          "_flash": true,
+          "_product_id": "363977187"
+        },
+        {
+          "name": "사바나나 바나나칩, 100g, 5봉",
+          "price": "10,000원",
+          "discount_rate": 69,
+          "priceAt": "10.12 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/Y2U3NWE3/QU8wMjJQaktXOGJTVklsaktUNUp6a3lFeWJadFprVXAxcDFVMGV1cFZOZXI.png",
+          "url": "https://toss.shopping/_m/b9TbX4ud",
+          "_ts": 1791730866.4864461,
+          "_flash": true,
+          "_product_id": "727989761"
+        },
+        {
           "name": "식물성 대마종자유 엔 탑 1000 맥스, 1000mg, 60캡슐, 3개",
           "price": "15,220원",
           "discount_rate": 93,
