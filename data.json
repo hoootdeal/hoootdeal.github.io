@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "마녀공장 비피다 콤플렉스 앰플, 50ml, 2개",
+          "price": "16,000원",
+          "discount_rate": 49,
+          "priceAt": "10.12 07:28",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/31722635994409-496c6cc0-fd64-4c91-8ee6-db4463c65cd7.jpg",
+          "url": "https://link.coupang.com/a/hL2VBwTtU4",
+          "_ts": 1791757734.3443148
+        },
+        {
           "name": "도제식빵 1.5cm, 600g, 1개",
           "price": "4,390원",
           "discount_rate": 31,
