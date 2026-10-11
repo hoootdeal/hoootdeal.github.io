@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스팸 김밥햄, 260g, 1개",
+          "price": "3,330원",
+          "discount_rate": 39,
+          "priceAt": "10.12 08:50",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/b578/4a26c81a80d5fc244dd5a9338584b181d474cf0feb4b070d14a24bf4408c.jpg",
+          "url": "https://link.coupang.com/a/hL8MPrbfFc",
+          "_ts": 1791762654.900388
+        },
+        {
           "name": "비카인드 미니 다크초콜릿 씨솔트 견과류바 15p, 300g, 1개, 300g × 1개",
           "price": "9,550원",
           "discount_rate": 37,
