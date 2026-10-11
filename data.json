@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "순수한면 입는 오버나이트, 중대형, 8개입, 2개",
+          "price": "7,260원",
+          "discount_rate": 33,
+          "priceAt": "10.12 07:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/101854448065053-b93ef6b7-4f38-4684-bdb6-0ae38c76a6c0.png",
+          "url": "https://link.coupang.com/a/hL1mZ9DjhI",
+          "_ts": 1791756429.878635
+        },
+        {
           "name": "국내산 얼갈이, 800g, 1개, 800g × 1개",
           "price": "2,340원",
           "discount_rate": 46,
@@ -951,15 +960,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/f501/82bdad79f31ec2e88a91ffd11939e973b454bead8a3eda7e52db3c1368a7.jpg",
           "url": "https://link.coupang.com/a/hDKqnmP1Ai",
           "_ts": 1791325749.6368792
-        },
-        {
-          "name": "질레트 포오미 레몬라임 쉐이빙 폼, 175g, 4개",
-          "price": "14,770원",
-          "discount_rate": 34,
-          "priceAt": "10.07 07:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/113884483569414-f6eff955-9797-46e3-b26b-6529b21e1c69.jpg",
-          "url": "https://link.coupang.com/a/hDIMPNkYlo",
-          "_ts": 1791324372.2905228
         }
       ]
     },
