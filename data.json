@@ -951,15 +951,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/113884483569414-f6eff955-9797-46e3-b26b-6529b21e1c69.jpg",
           "url": "https://link.coupang.com/a/hDIMPNkYlo",
           "_ts": 1791324372.2905228
-        },
-        {
-          "name": "비비드키친 저당 닭가슴살 브리또 숯불매콤 (냉동), 125g, 4개, 1개입",
-          "price": "5,900원",
-          "discount_rate": 48,
-          "priceAt": "10.06 21:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1f59c87c-2aca-4ae7-bacc-6cff788d767616331962386323376067.png",
-          "url": "https://link.coupang.com/a/hC2MZaHLbw",
-          "_ts": 1791289110.085522
         }
       ]
     },
@@ -968,6 +959,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "식물성 대마종자유 엔 탑 1000 맥스, 1000mg, 60캡슐, 3개",
+          "price": "15,220원",
+          "discount_rate": 93,
+          "priceAt": "10.11 21:19",
+          "image": "https://shopping.toss.im/live/taca/ai/NTk5MWQ2/QU1zTWh6YXc5Sm1wM29ja3Rkd2xjZW0rQjU0Y1A0T3IwL0JZdzVhbzBueHA.png",
+          "url": "https://toss.shopping/_m/Hy1qDPTD",
+          "_ts": 1791721163.9452841,
+          "_product_id": "54177991"
+        },
         {
           "name": "맥콜 제로슈거, 190ml, 30개",
           "price": "7,600원",
@@ -1883,16 +1884,6 @@
           "_ts": 1791298869.5719528,
           "_flash": true,
           "_product_id": "89454313"
-        },
-        {
-          "name": "대한민국농수산 사각 옥수수술빵, 350g, 5개",
-          "price": "9,895원",
-          "discount_rate": 60,
-          "priceAt": "10.06 21:09",
-          "image": "https://shopping.toss.im/live/taca/ai/OTAyNjY0/QU0xanZBZnU2UGdIQVBwbno3K0pJZzkrZUJxN1BQaDNBK1ZDRzNPT0RwZVU.png",
-          "url": "https://toss.shopping/_m/JgJEQvhC",
-          "_ts": 1791288558.294454,
-          "_product_id": "476450353"
         }
       ]
     },
