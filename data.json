@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오리온 고소미, 70g, 6개",
+          "price": "3,780원",
+          "discount_rate": 35,
+          "priceAt": "10.11 19:47",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9070/30c2a4a1d863fc0e3e61d325aade98230f82bf917a9b9a3819b920e725c3.jpg",
+          "url": "https://link.coupang.com/a/hLeM6MASZM",
+          "_ts": 1791715640.024998
+        },
+        {
           "name": "냉장고바지 여성 와이드 밴딩 팬츠 살랑살랑 냉감소재 여름 통풍바지 베이잉, 핑크, F(권장55-77)",
           "price": "3,000원",
           "discount_rate": 37,
@@ -1871,16 +1880,6 @@
           "url": "https://toss.shopping/_m/l9khHoEx",
           "_ts": 1791287133.242049,
           "_product_id": "1731148811"
-        },
-        {
-          "name": "크리스탈 생수, 무라벨, 500ml, 100개",
-          "price": "16,400원",
-          "discount_rate": 67,
-          "priceAt": "10.06 19:18",
-          "image": "https://shopping.toss.im/live/taca/ai/OTJlMmU5/QVA0Y3IybjRQUHdMUXZobzh5andLZTQrOGRPMmUrR2U1RDdCbm9XdndlWkw.png",
-          "url": "https://toss.shopping/_m/Xe0iBTVb",
-          "_ts": 1791281934.993807,
-          "_product_id": "1750472079"
         }
       ]
     },
