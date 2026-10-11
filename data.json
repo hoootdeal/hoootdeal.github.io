@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "맘스쿠킹 바로먹는 안심소스, 소고기 라구, 100g, 3개",
+          "price": "6,300원",
+          "discount_rate": 40,
+          "priceAt": "10.11 10:32",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4434dd95-45ee-42f0-a239-97907fae3c582186933853013744921.png",
+          "url": "https://link.coupang.com/a/hKA67c6uUC",
+          "_ts": 1791682325.315973
+        },
+        {
           "name": "프레시몬 컷팅 허니듀 멜론, 1개, 500g",
           "price": "3,720원",
           "discount_rate": 31,
@@ -933,51 +942,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/65037716689866-2b8fcb63-8668-40a4-9574-91cb6c22a2a9.jpg",
           "url": "https://link.coupang.com/a/hCkttxMX8u",
           "_ts": 1791251904.277976
-        },
-        {
-          "name": "프로그 프로샤인 탄냄비 수세미, 6개입, 1개",
-          "price": "4,390원",
-          "discount_rate": 34,
-          "priceAt": "10.06 10:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/125405607352138-9d02b1de-dbf5-44f8-b945-7a1838b2615f.jpg",
-          "url": "https://link.coupang.com/a/hCgHYmlVGC",
-          "_ts": 1791248741.6529548
-        },
-        {
-          "name": "나우푸드 프로바이오틱-10 유산균 250억 베지 캡슐, 100정, 2개",
-          "price": "42,880원",
-          "discount_rate": 24,
-          "priceAt": "10.06 10:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/eb6f/637eddbef0a8baae6ddf00425e69f733d9c0bbdeac32a6a78c09d486c964.jpg",
-          "url": "https://link.coupang.com/a/hCgv7zCH9M",
-          "_ts": 1791248580.503315
-        },
-        {
-          "name": "얼라이브 원스데일리 포 맨 멀티비타민, 80정, 1개",
-          "price": "22,720원",
-          "discount_rate": 21,
-          "priceAt": "10.06 09:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/428647611897284-e9a70e91-42ea-448e-80f6-361b9b55cc4c.jpg",
-          "url": "https://link.coupang.com/a/hCgcs4ngRM",
-          "_ts": 1791248315.8780758
-        },
-        {
-          "name": "샤워메이트 산양유 비누 플러스, 90g, 12개입",
-          "price": "6,070원",
-          "discount_rate": 35,
-          "priceAt": "10.06 09:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/92551269313066-94cf4005-b040-4fe9-ad1c-f18d93ab959c.jpg",
-          "url": "https://link.coupang.com/a/hCeN2J1Imi",
-          "_ts": 1791247145.3156621
-        },
-        {
-          "name": "동원 개성 감자물만두 (냉동), 600g, 2개",
-          "price": "6,980원",
-          "discount_rate": 33,
-          "priceAt": "10.06 09:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2020/02/20/17/0/7a168a1c-13cf-45ab-b04c-807f6f4936f5.jpg",
-          "url": "https://link.coupang.com/a/hCeClCJg8y",
-          "_ts": 1791246986.080373
         }
       ]
     },
