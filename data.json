@@ -924,15 +924,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5968df38-dc7a-4d78-aa4d-7736c8f5502716218239056942414268.png",
           "url": "https://link.coupang.com/a/hC0HmlcGzs",
           "_ts": 1791287355.468408
-        },
-        {
-          "name": "슈퍼대디 저자극 퓨어55 엠보싱 아기물티슈 캡형, 55g, 100매, 10개",
-          "price": "8,840원",
-          "discount_rate": 61,
-          "priceAt": "10.06 17:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/01/10/12/0/feefc96e-57b2-45c2-851f-724b43af53e2.jpg",
-          "url": "https://link.coupang.com/a/hCNmxEgcFM",
-          "_ts": 1791276158.833738
         }
       ]
     },
@@ -941,6 +932,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
+          "price": "6,930원",
+          "discount_rate": 88,
+          "priceAt": "10.11 17:48",
+          "image": "https://shopping.toss.im/live/temp/2026-09-23/9072bbae-8462-4cc2-ab82-8c9b161d4680.png",
+          "url": "https://toss.shopping/_m/JsatPcRl",
+          "_ts": 1791708481.75948,
+          "_product_id": "2653093475"
+        },
         {
           "name": "동구밭 샴푸 앤 트리트먼트바 세트, 로즈마리향 100g 2개 + 네롤리향 100g 2개, 4개",
           "price": "12,900원",
