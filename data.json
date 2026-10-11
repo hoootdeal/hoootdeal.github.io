@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "매일바이오 고단백 그릭요거트 드링크 무가당 플레인, 2개, 4개입, 150ml",
+          "price": "3,980원",
+          "discount_rate": 45,
+          "priceAt": "10.12 07:47",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/142678883584667-630ee73a-cff7-4be3-afca-fe75b6c295ed.jpg",
+          "url": "https://link.coupang.com/a/hL4gS2eBr2",
+          "_ts": 1791758863.5953128
+        },
+        {
           "name": "존쿡 델리미트 전G베이컨, 200g, 2개",
           "price": "3,760원",
           "discount_rate": 60,
@@ -969,15 +978,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/655a285a-22db-435b-b049-a8aaca0c8e7c1252142582271027128.png",
           "url": "https://link.coupang.com/a/hDMCrChMPs",
           "_ts": 1791327587.7019992
-        },
-        {
-          "name": "참프레 동물복지 인증 우리쌀 치킨너겟 (냉동), 500g, 3개",
-          "price": "7,500원",
-          "discount_rate": 65,
-          "priceAt": "10.07 07:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/6ec33232-d75e-4761-8d7b-d6ab995aba4115702728058455975403.png",
-          "url": "https://link.coupang.com/a/hDKVX5GIbk",
-          "_ts": 1791326172.188722
         }
       ]
     },
