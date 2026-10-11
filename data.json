@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "효성어묵 부산옛날어묵 종합 (냉동), 1kg, 1개",
+          "price": "6,150원",
+          "discount_rate": 27,
+          "priceAt": "10.11 15:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/z5d49ujj/f031e83369fc4e12abaf31c8b06deb8f.jpg",
+          "url": "https://link.coupang.com/a/hKVz3htUkK",
+          "_ts": 1791699511.1460428
+        },
+        {
           "name": "닥터유 다이제 씬, 252g, 4개, 252g × 4개",
           "price": "9,420원",
           "discount_rate": 21,
@@ -1871,16 +1880,6 @@
           "url": "https://toss.shopping/_m/hh463PKf",
           "_ts": 1791270918.982486,
           "_product_id": "288570013"
-        },
-        {
-          "name": "파이토메이드 고칼슘&비타민D 두유 21곡 미숫가루, 190ml, 24개",
-          "price": "7,900원",
-          "discount_rate": 50,
-          "priceAt": "10.06 15:14",
-          "image": "https://shopping.toss.im/live/temp/2026-06-16/b1e9c145-5424-4198-9449-4beace9264e8.jpeg",
-          "url": "https://toss.shopping/_m/jMEAIecx",
-          "_ts": 1791267293.777098,
-          "_product_id": "296698859"
         }
       ]
     },
