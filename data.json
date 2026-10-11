@@ -960,6 +960,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "맥콜 제로슈거, 190ml, 30개",
+          "price": "7,600원",
+          "discount_rate": 57,
+          "priceAt": "10.11 20:35",
+          "image": "https://shopping.toss.im/live/temp/2026-08-10/e86bf3ee-b559-4aff-bb2b-4ae73b937ba2.jpeg",
+          "url": "https://toss.shopping/_m/zBTA95rD",
+          "_ts": 1791718541.685545,
+          "_product_id": "2599642785"
+        },
+        {
           "name": "신선맘 미국산 구운 땅콩, 2kg, 1개",
           "price": "12,690원",
           "discount_rate": 68,
