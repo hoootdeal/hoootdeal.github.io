@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "닥터유 다이제 씬, 252g, 4개, 252g × 4개",
+          "price": "9,420원",
+          "discount_rate": 21,
+          "priceAt": "10.11 14:22",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/987534839808633-b68d6350-34b9-45f2-886c-de70f809fffb.jpg",
+          "url": "https://link.coupang.com/a/hKRBMky5xQ",
+          "_ts": 1791696175.100933
+        },
+        {
           "name": "당도선별 샤인머스캣, 2kg(2~4수), 1박스, 2kg(2~4수) × 1박스",
           "price": "7,900원",
           "discount_rate": 39,
