@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "캐나다드라이 진저에일 토닉, 250ml, 30개, 250ml × 30개",
+          "price": "11,900원",
+          "discount_rate": 21,
+          "priceAt": "10.11 12:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1161460397735646-b8869915-aaf1-45f2-8774-5b6267eef547.jpg",
+          "url": "https://link.coupang.com/a/hKIbKCd64G",
+          "_ts": 1791688268.687697
+        },
+        {
           "name": "불닭볶음면 140g, 5개",
           "price": "4,020원",
           "discount_rate": 20,
