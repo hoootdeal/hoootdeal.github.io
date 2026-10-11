@@ -951,6 +951,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "냉동 삶은 홍찰옥수수, 특대, 20개",
+          "price": "12,800원",
+          "discount_rate": 74,
+          "priceAt": "10.11 10:46",
+          "image": "https://shopping.toss.im/live/temp/2026-08-03/c90260c4-8abf-47f1-9fdb-7960eb309bfa.png",
+          "url": "https://toss.shopping/_m/3N3SQbgm",
+          "_ts": 1791683175.227571,
+          "_product_id": "2566955185"
+        },
+        {
           "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
           "price": "4,990원",
           "discount_rate": 66,
@@ -1849,16 +1859,6 @@
           "url": "https://toss.shopping/_m/blNt9mHC",
           "_ts": 1791262882.800972,
           "_product_id": "774304463"
-        },
-        {
-          "name": "그린너트 두쫀쿠 스프레드, 피스타치오, 180g, 1개",
-          "price": "5,850원",
-          "discount_rate": 81,
-          "priceAt": "10.06 10:32",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/YzkyMjg2/QUpiUDVadXNwSnJIZm1UYTlITlRhNXZyV3kxUGxZL1c3RVNrYVZGeWRLYW0.png",
-          "url": "https://toss.shopping/_m/P8FSMebC",
-          "_ts": 1791250342.452787,
-          "_product_id": "2487393443"
         }
       ]
     },
