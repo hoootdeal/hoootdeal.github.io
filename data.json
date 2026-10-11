@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오랄비 스테이지스 3단계 어린이 칫솔, 어벤져스 랜덤발송, 9개, 1개입",
+          "price": "10,000원",
+          "discount_rate": 69,
+          "priceAt": "10.11 20:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/29970209747803-41a465e2-37b9-484d-b3e7-8c5635f1640d.jpg",
+          "url": "https://link.coupang.com/a/hLjLyH8SAu",
+          "_ts": 1791719818.560371
+        },
+        {
           "name": "쁘띠첼 포도 과일젤리, 210g, 6개, 210g × 6개",
           "price": "8,880원",
           "discount_rate": 38,
@@ -951,15 +960,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1f59c87c-2aca-4ae7-bacc-6cff788d767616331962386323376067.png",
           "url": "https://link.coupang.com/a/hC2MZaHLbw",
           "_ts": 1791289110.085522
-        },
-        {
-          "name": "포스트 그래놀라 저당 렌틸오트, 220g, 2개",
-          "price": "3,050원",
-          "discount_rate": 63,
-          "priceAt": "10.06 20:49",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5968df38-dc7a-4d78-aa4d-7736c8f5502716218239056942414268.png",
-          "url": "https://link.coupang.com/a/hC0HmlcGzs",
-          "_ts": 1791287355.468408
         }
       ]
     },
@@ -1893,16 +1893,6 @@
           "url": "https://toss.shopping/_m/JgJEQvhC",
           "_ts": 1791288558.294454,
           "_product_id": "476450353"
-        },
-        {
-          "name": "에이지랩 스네일 뮤신 브라이트닝 선크림, 70ml, 2개",
-          "price": "7,320원",
-          "discount_rate": 85,
-          "priceAt": "10.06 20:45",
-          "image": "https://shopping.toss.im/live/taca/ai/MzY1ZDY2/QUtiWkdiTlRXeVdweVN5YVhKU1Q2WlltMlRMUDAxaHRNVTJueVVRdEpiUlg.png",
-          "url": "https://toss.shopping/_m/l9khHoEx",
-          "_ts": 1791287133.242049,
-          "_product_id": "1731148811"
         }
       ]
     },
