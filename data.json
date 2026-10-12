@@ -1095,6 +1095,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "제주 극조생 감귤, 대과 L-2L, 5kg, 1박스",
+          "price": "7,900원",
+          "discount_rate": 66,
+          "priceAt": "10.12 20:43",
+          "image": "https://shopping.toss.im/live/temp/2026-09-11/9e39b5c9-d743-4595-8fb4-2b8c9457f407.jpeg",
+          "url": "https://toss.shopping/_m/JTxln2X9",
+          "_ts": 1791805426.506825,
+          "_product_id": "2642157521"
+        },
+        {
           "name": "애슐리 볶음밥 올인원 10종 세트, 1개",
           "price": "17,990원",
           "discount_rate": 60,
@@ -2025,16 +2035,6 @@
           "url": "https://toss.shopping/_m/x9Qcl7km",
           "_ts": 1791374645.8285508,
           "_product_id": "2650820761"
-        },
-        {
-          "name": "에어보나 발터치 리모컨 선풍기, 1개",
-          "price": "25,990원",
-          "discount_rate": 76,
-          "priceAt": "10.07 20:31",
-          "image": "https://shopping.toss.im/live/temp/2026-04-02/1a4187f7-c25a-4ec9-84d5-3d6265273816.jpeg",
-          "url": "https://toss.shopping/_m/lQdSeT8q",
-          "_ts": 1791372687.303493,
-          "_product_id": "1364636819"
         }
       ]
     },
