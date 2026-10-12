@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "도브 포밍 핸드워시 피치 앤드 릴리 리필, 430ml, 2개",
+          "price": "6,900원",
+          "discount_rate": 50,
+          "priceAt": "10.12 14:52",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/413890147906531-7a6e4200-1435-4bb0-a2ab-5be0a69da795.jpg",
+          "url": "https://link.coupang.com/a/hMyBO8PpoO",
+          "_ts": 1791784336.1449249
+        },
+        {
           "name": "해찬들 맛있는 재래식 된장, 1kg, 1개, 1kg × 1개",
           "price": "3,210원",
           "discount_rate": 39,
@@ -1086,15 +1095,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/102625413609589-3aee1c2b-d2b7-4a62-9043-425e2a04b969.jpg",
           "url": "https://link.coupang.com/a/hEijVkItKm",
           "_ts": 1791354205.4884212
-        },
-        {
-          "name": "아임리얼 스트로베리 주스, 190ml, 2개, 190ml × 2개",
-          "price": "2,980원",
-          "discount_rate": 48,
-          "priceAt": "10.07 14:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/344988913831960-de9efc48-2ee0-4a90-b862-5674d8cce438.jpg",
-          "url": "https://link.coupang.com/a/hEeph1W9wi",
-          "_ts": 1791350919.902463
         }
       ]
     },
