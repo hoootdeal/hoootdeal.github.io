@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러, 글라시에, 591ml, 1개",
+          "price": "24,950원",
+          "discount_rate": 43,
+          "priceAt": "10.12 11:25",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/316636874251529-00154831-27c9-4c25-8794-5098addbc8bf.jpg",
+          "url": "https://link.coupang.com/a/hMjPLKRjOK",
+          "_ts": 1791771931.358403
+        },
+        {
           "name": "육공육 더 얇은 슬라이스 씬, 250g, 1개",
           "price": "3,890원",
           "discount_rate": 35,
@@ -1050,15 +1059,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/0c48/b7d2611f5e33280312dc5706952121d2986fdead81986e5c4298350179f7.jpg",
           "url": "https://link.coupang.com/a/hD4XgYh1xY",
           "_ts": 1791342987.622785
-        },
-        {
-          "name": "뽀시래기 고양이 전연령용 엘라이신 든든한 사료, 면역/항산화, 15kg, 1개",
-          "price": "9,990원",
-          "discount_rate": 75,
-          "priceAt": "10.07 11:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/23/11/7/df4b3013-808e-44ca-b459-d0d5276a9dcd.jpg",
-          "url": "https://link.coupang.com/a/hD04wFPHs4",
-          "_ts": 1791339726.550272
         }
       ]
     },
