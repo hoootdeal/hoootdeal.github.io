@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀스쿡 슈가 두부 도너츠 (냉동), 45g, 5개입, 1박스",
+          "price": "4,380원",
+          "discount_rate": 36,
+          "priceAt": "10.12 11:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6371217393145-8bb96d09-0eaf-4d07-80de-9d66f56db49f.jpg",
+          "url": "https://link.coupang.com/a/hMkBVErnJA",
+          "_ts": 1791772582.260601
+        },
+        {
           "name": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러, 글라시에, 591ml, 1개",
           "price": "24,950원",
           "discount_rate": 43,
@@ -1986,16 +1995,6 @@
           "url": "https://toss.shopping/_m/BIBLNNpo",
           "_ts": 1791346868.453391,
           "_product_id": "2222928635"
-        },
-        {
-          "name": "유리아 포레스티 땅콩버터, 260g, 2개",
-          "price": "9,710원",
-          "discount_rate": 86,
-          "priceAt": "10.07 11:27",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDMyMzhm/QU9Ud2ZHelptK1BESEwzZ2RzMkxGK0UvNUNFLzQ4Zjloek5rMlo1L0JId0I.png",
-          "url": "https://toss.shopping/_m/zu5fJZE4",
-          "_ts": 1791340030.364487,
-          "_product_id": "105731507"
         }
       ]
     },
