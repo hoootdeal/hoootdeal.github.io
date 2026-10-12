@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오마뎅 진짜 부산 떡볶이 (쌀떡) (냉동), 352g, 2개",
+          "price": "9,580원",
+          "discount_rate": 24,
+          "priceAt": "10.12 10:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/9173578694794-c3d6cce9-b01d-47a3-84ac-0275ee966db6.jpg",
+          "url": "https://link.coupang.com/a/hMeOSpDmjA",
+          "_ts": 1791767715.635639
+        },
+        {
           "name": "베리밸리 칠레산 블루베리 (냉동), 1kg, 1개, 1kg × 1개",
           "price": "7,500원",
           "discount_rate": 30,
@@ -1005,15 +1014,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2503764256539519-bec41ad2-46f8-4b15-980b-41eca0a4c49f.jpg",
           "url": "https://link.coupang.com/a/hDZ3nosA4y",
           "_ts": 1791338874.292712
-        },
-        {
-          "name": "카프 실리콘 접이식 온수 포트, KF-PEO1",
-          "price": "19,500원",
-          "discount_rate": 34,
-          "priceAt": "10.07 10:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4190/8274356f806de1c04577de91fc097d9a557340629365ecde6f28f649a2c5.jpg",
-          "url": "https://link.coupang.com/a/hDV982wiqq",
-          "_ts": 1791335606.014296
         }
       ]
     },
