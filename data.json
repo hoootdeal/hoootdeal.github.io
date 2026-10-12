@@ -1023,6 +1023,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "썬키스트 코코피치, 300ml, 20개",
+          "price": "9,600원",
+          "discount_rate": 68,
+          "priceAt": "10.12 09:42",
+          "image": "https://shopping.toss.im/live/temp/2026-04-28/6cadc1c2-55e8-429d-8816-ca5477eccb31.jpeg",
+          "url": "https://toss.shopping/_m/jLXkkhcq",
+          "_ts": 1791765777.655057,
+          "_product_id": "1734968249"
+        },
+        {
           "name": "카라카라 오렌지, 중대과, 30~35과 내외, 7kg, 1박스",
           "price": "16,800원",
           "discount_rate": 70,
