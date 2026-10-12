@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "비비고 남도떡갈비 (냉동), 450g, 1개",
+          "price": "6,480원",
+          "discount_rate": 34,
+          "priceAt": "10.12 11:59",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/80983123539048-e918303c-265d-40a6-88ab-010c2df07554.jpg",
+          "url": "https://link.coupang.com/a/hMmdlHHIHs",
+          "_ts": 1791773945.412399
+        },
+        {
           "name": "동원샘물 생수 무라벨, 300ml, 60개",
           "price": "8,910원",
           "discount_rate": 28,
