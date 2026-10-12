@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "퓨어썸 비타 샤워기 리필필터, 2개, 숲이끼",
+          "price": "8,550원",
+          "discount_rate": 50,
+          "priceAt": "10.12 16:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/21481049595170-aa581f6b-849b-40ae-8c71-1ff3a3a72daf.jpg",
+          "url": "https://link.coupang.com/a/hMGJwrW6VM",
+          "_ts": 1791791156.5604968
+        },
+        {
           "name": "휴비딕 가정용 자동 칫솔살균기, 밀크그레이, HTS-10",
           "price": "10,900원",
           "discount_rate": 35,
@@ -1068,15 +1077,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/03/30/9/1/2cb098de-e39b-4a67-bd85-0d721ba27796.jpg",
           "url": "https://link.coupang.com/a/hEq8upuouG",
           "_ts": 1791361608.6429172
-        },
-        {
-          "name": "게토레이 레몬, 300ml, 24개",
-          "price": "11,900원",
-          "discount_rate": 23,
-          "priceAt": "10.07 16:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/22/11/9/9f2f0406-088a-4c85-8210-95afee35d6b8.png",
-          "url": "https://link.coupang.com/a/hEmUZByOUS",
-          "_ts": 1791358071.624135
         }
       ]
     },
@@ -2004,16 +2004,6 @@
           "url": "https://toss.shopping/_m/pKJEme27",
           "_ts": 1791361001.813081,
           "_product_id": "2234258643"
-        },
-        {
-          "name": "푸드앳홈 백명란젓, 파지, 1kg, 1개",
-          "price": "14,900원",
-          "discount_rate": 59,
-          "priceAt": "10.07 16:36",
-          "image": "https://shopping.toss.im/live/product/57781/242e9953-0d0a-4005-bf22-81d924061013.jpg",
-          "url": "https://toss.shopping/_m/RGQBxFxd",
-          "_ts": 1791358601.262839,
-          "_product_id": "1735230885"
         }
       ]
     },
