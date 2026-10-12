@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "셀렉트팜 GAP 인증 A 사과, 1kg(소과, 6입), 1개",
+          "price": "5,260원",
+          "discount_rate": 28,
+          "priceAt": "10.12 21:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/553588510493080-57f0d59a-a841-4624-af94-1fea4ce7ea92.jpg",
+          "url": "https://link.coupang.com/a/hMZFT6us6m",
+          "_ts": 1791807062.414338
+        },
+        {
           "name": "가농 무항생제 1+등급 특란, 15구, 1개",
           "price": "4,960원",
           "discount_rate": 32,
@@ -2025,16 +2034,6 @@
           "_ts": 1791385271.247071,
           "_flash": true,
           "_product_id": "684178563"
-        },
-        {
-          "name": "아침에좋은빵 제로슈가 통밀식빵, 630g, 2개",
-          "price": "7,060원",
-          "discount_rate": 74,
-          "priceAt": "10.07 21:04",
-          "image": "https://shopping.toss.im/live/temp/2026-09-08/726d6ca7-c9b2-4a3d-ad93-6eff7d9864b5.png",
-          "url": "https://toss.shopping/_m/x9Qcl7km",
-          "_ts": 1791374645.8285508,
-          "_product_id": "2650820761"
         }
       ]
     },
