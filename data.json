@@ -1077,15 +1077,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/27a3/8898bf76a81558eae0c5167cb042e5c309aaad57b28662b43bcdfc7e3826.jpg",
           "url": "https://link.coupang.com/a/hD5qW4Gjym",
           "_ts": 1791343387.615222
-        },
-        {
-          "name": "티젠 애플사이다 비니거, 150g, 1개, 150g × 1개",
-          "price": "6,980원",
-          "discount_rate": 26,
-          "priceAt": "10.07 12:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/0c48/b7d2611f5e33280312dc5706952121d2986fdead81986e5c4298350179f7.jpg",
-          "url": "https://link.coupang.com/a/hD4XgYh1xY",
-          "_ts": 1791342987.622785
         }
       ]
     },
@@ -1094,6 +1085,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "맛팜 신 곱창볶음, 250g, 2개",
+          "price": "6,600원",
+          "discount_rate": 72,
+          "priceAt": "10.12 12:17",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/YWIzZjU3/QU92cGNPRXZIT2VhRUdPZlVxZXk4TXRLUDA4azAySkN6YXhEYldlVnpwTkk.png",
+          "url": "https://toss.shopping/_m/1wLSRBgx",
+          "_ts": 1791775060.504756,
+          "_product_id": "2536370261"
+        },
         {
           "name": "메르헨트 약알칼리 미셀라 폼클렌징, 230ml, 4개",
           "price": "8,390원",
