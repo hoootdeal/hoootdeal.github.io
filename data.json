@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쉐푸드 묵은지 참치 김밥, 291g, 1개",
+          "price": "2,720원",
+          "discount_rate": 41,
+          "priceAt": "10.12 19:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/qizablmd/c6e7ab649da04e7683dd14c59d787a81.jpg",
+          "url": "https://link.coupang.com/a/hMRLgfquKO",
+          "_ts": 1791800416.772929
+        },
+        {
           "name": "서울마님죽 콘치즈 떡마리 (냉동), 100g, 1개입, 5개",
           "price": "6,420원",
           "discount_rate": 20,
@@ -1068,15 +1077,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/437800686866325-0ad104e6-64e2-4ff9-8d4b-338ff8f01df1.jpg",
           "url": "https://link.coupang.com/a/hFnumOHfki",
           "_ts": 1791410603.442419
-        },
-        {
-          "name": "스프라이트 제로 사이다, 250ml, 30개, 250ml × 30개",
-          "price": "11,980원",
-          "discount_rate": 22,
-          "priceAt": "10.07 19:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/679913689494049-b3b158df-32ef-4268-b109-9045643c8175.jpg",
-          "url": "https://link.coupang.com/a/hEypsZAqOW",
-          "_ts": 1791367716.001803
         }
       ]
     },
@@ -2016,16 +2016,6 @@
           "url": "https://toss.shopping/_m/9XTTCG8q",
           "_ts": 1791368903.2738938,
           "_product_id": "121677905"
-        },
-        {
-          "name": "이선별 밀크카스테라, 1kg, 1박스",
-          "price": "6,900원",
-          "discount_rate": 78,
-          "priceAt": "10.07 18:52",
-          "image": "https://shopping.toss.im/live/temp/2026-05-28/6c7ab71a-3621-4595-8650-ab95f3dc4796.jpeg",
-          "url": "https://toss.shopping/_m/jTzJP1od",
-          "_ts": 1791366776.374079,
-          "_product_id": "2338930751"
         }
       ]
     },
