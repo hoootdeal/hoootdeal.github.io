@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "베리밸리 칠레산 블루베리 (냉동), 1kg, 1개, 1kg × 1개",
+          "price": "7,500원",
+          "discount_rate": 30,
+          "priceAt": "10.12 10:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/614638642513690-b85b6f0f-76d8-4a4e-9c6c-0187a452881a.jpg",
+          "url": "https://link.coupang.com/a/hMeDQ8LF1w",
+          "_ts": 1791767567.946929
+        },
+        {
           "name": "첫맛 오뎅탕 육수 진국, 1kg, 1개",
           "price": "3,450원",
           "discount_rate": 47,
@@ -1005,15 +1014,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4190/8274356f806de1c04577de91fc097d9a557340629365ecde6f28f649a2c5.jpg",
           "url": "https://link.coupang.com/a/hDV982wiqq",
           "_ts": 1791335606.014296
-        },
-        {
-          "name": "푸드올로지 버닝올로지 디데이 다이어트 케어, 10회분, 1개, 10회분 × 1개",
-          "price": "21,360원",
-          "discount_rate": 31,
-          "priceAt": "10.07 09:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1138645446468128-f766d418-b510-487a-9cdc-3c4258a6573f.jpg",
-          "url": "https://link.coupang.com/a/hDUoAOkMuG",
-          "_ts": 1791334120.367795
         }
       ]
     },
