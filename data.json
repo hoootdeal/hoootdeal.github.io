@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "백설 햄스빌 굿베이컨, 75g, 1개",
+          "price": "900원",
+          "discount_rate": 55,
+          "priceAt": "10.12 12:34",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/y6g2hqxe/743dd1b84aae4416b61a2d59c6bd4764.jpg",
+          "url": "https://link.coupang.com/a/hMoKMLlqFg",
+          "_ts": 1791776061.4610822
+        },
+        {
           "name": "비비고 남도떡갈비 (냉동), 450g, 1개",
           "price": "6,480원",
           "discount_rate": 34,
@@ -1059,24 +1068,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1565248345646481-1ebf6135-5191-46ef-b781-785b9f75c6f7.jpg",
           "url": "https://link.coupang.com/a/hD9oOR2cG4",
           "_ts": 1791346720.115951
-        },
-        {
-          "name": "외갓집 진심 소내장탕 (냉동), 700g, 8개",
-          "price": "24,400원",
-          "discount_rate": 62,
-          "priceAt": "10.07 12:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/aa6a28c9-c2b0-4633-9bdc-3b1db163c1525454659285725708149.png",
-          "url": "https://link.coupang.com/a/hD5FxbwB5g",
-          "_ts": 1791343584.770376
-        },
-        {
-          "name": "위닉스 올바른 스테인리스 가습기 4L, WL4E400-NNK, 비엔나베이지",
-          "price": "149,000원",
-          "discount_rate": 40,
-          "priceAt": "10.07 12:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/27a3/8898bf76a81558eae0c5167cb042e5c309aaad57b28662b43bcdfc7e3826.jpg",
-          "url": "https://link.coupang.com/a/hD5qW4Gjym",
-          "_ts": 1791343387.615222
         }
       ]
     },
