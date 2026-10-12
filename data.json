@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "푸드랩플러스 스페인산 간편구이 삼겹살 지퍼백 (냉동), 1kg, 1팩",
+          "price": "6,490원",
+          "discount_rate": 39,
+          "priceAt": "10.12 13:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/ro33nwtz/e6d77a798ae74d4e8c65159f75b50b74.jpg",
+          "url": "https://link.coupang.com/a/hMqCNNn8Xk",
+          "_ts": 1791777633.8045208
+        },
+        {
           "name": "베키아에누보 이탈리안 올리브 치아바타 8개입 (냉동), 800g, 1개",
           "price": "6,160원",
           "discount_rate": 35,
