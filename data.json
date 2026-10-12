@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "가농 무항생제 1+등급 특란, 15구, 1개",
+          "price": "4,960원",
+          "discount_rate": 32,
+          "priceAt": "10.12 20:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/523422684158824-8e11ce15-ec02-4674-bbb2-a25eaa258f5d.jpg",
+          "url": "https://link.coupang.com/a/hMVRoM2ghg",
+          "_ts": 1791803858.462739
+        },
+        {
           "name": "쉐푸드 묵은지 참치 김밥, 291g, 1개",
           "price": "2,720원",
           "discount_rate": 41,
