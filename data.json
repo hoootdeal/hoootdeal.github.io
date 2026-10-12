@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "동원샘물 생수 무라벨, 300ml, 60개",
+          "price": "8,910원",
+          "discount_rate": 28,
+          "priceAt": "10.12 11:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3b402bb2-1e1f-46f1-8e0a-5f8996aa2dd3539209410227546122.png",
+          "url": "https://link.coupang.com/a/hMlYfwDx00",
+          "_ts": 1791773725.502662
+        },
+        {
           "name": "풀스쿡 슈가 두부 도너츠 (냉동), 45g, 5개입, 1박스",
           "price": "4,380원",
           "discount_rate": 36,
