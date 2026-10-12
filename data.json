@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "해찬들 맛있는 재래식 된장, 1kg, 1개, 1kg × 1개",
+          "price": "3,210원",
+          "discount_rate": 39,
+          "priceAt": "10.12 14:28",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/af05/b4e7559107a1d6705278061aedffdb6a0cc43109c9c49debe406805b6202.jpg",
+          "url": "https://link.coupang.com/a/hMwSr3RnGu",
+          "_ts": 1791782880.713762
+        },
+        {
           "name": "퐁퐁 오렌지 오일 담은 친환경 주방세제 기분 좋은 오렌지향 리필, 1.2L, 2개",
           "price": "3,110원",
           "discount_rate": 34,
@@ -2023,16 +2032,6 @@
           "url": "https://toss.shopping/_m/RGQBxFxd",
           "_ts": 1791358601.262839,
           "_product_id": "1735230885"
-        },
-        {
-          "name": "포천이동 양념LA갈비, 500g, 1팩",
-          "price": "6,990원",
-          "discount_rate": 56,
-          "priceAt": "10.07 14:04",
-          "image": "https://shopping.toss.im/live/taca/ai/YWQ1YzA5/QU16RU01L0lZcC9STjBkV0M3QzZVekM0dzJJSjdIQXo3czRVNXN0b1h1M28.png",
-          "url": "https://toss.shopping/_m/POfKIzmx",
-          "_ts": 1791349458.288424,
-          "_product_id": "2184701663"
         }
       ]
     },
