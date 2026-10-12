@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "브랜든 2세대 여행용 부피순삭 압축 파우치 세트, 스카이블루, S+S+M+L",
+          "price": "47,900원",
+          "discount_rate": 35,
+          "priceAt": "10.13 07:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/648359186560650-48dcf593-8200-4cf0-9261-27a7aa7e4e5b.jpg",
+          "url": "https://link.coupang.com/a/hNGeUtzyG4",
+          "_ts": 1791842800.2538319
+        },
+        {
           "name": "연안식당 부추꼬막장 (냉동), 150g, 1개",
           "price": "4,130원",
           "discount_rate": 28,
@@ -1095,15 +1104,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2612847154019542-8b067ad2-646e-45da-972c-1ff3f0d9315b.jpg",
           "url": "https://link.coupang.com/a/hFnLNYX0pw",
           "_ts": 1791410840.387916
-        },
-        {
-          "name": "롯데제과 칙촉 오리지널, 168g, 4개",
-          "price": "7,380원",
-          "discount_rate": 28,
-          "priceAt": "10.08 07:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/437800686866325-0ad104e6-64e2-4ff9-8d4b-338ff8f01df1.jpg",
-          "url": "https://link.coupang.com/a/hFnumOHfki",
-          "_ts": 1791410603.442419
         }
       ]
     },
