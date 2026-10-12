@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "육공육 더 얇은 슬라이스 씬, 250g, 1개",
+          "price": "3,890원",
+          "discount_rate": 35,
+          "priceAt": "10.12 11:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/583293283490926-da5c9479-de1b-4eb8-957f-3d01bd1edc55.jpg",
+          "url": "https://link.coupang.com/a/hMi7GL8xVs",
+          "_ts": 1791771333.00802
+        },
+        {
           "name": "고메 모짜렐라 돈카츠 (냉동), 450g, 1개",
           "price": "6,480원",
           "discount_rate": 35,
@@ -1050,15 +1059,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/23/11/7/df4b3013-808e-44ca-b459-d0d5276a9dcd.jpg",
           "url": "https://link.coupang.com/a/hD04wFPHs4",
           "_ts": 1791339726.550272
-        },
-        {
-          "name": "쿠킹스토리 발로나 트로필리아 누아 다크초콜릿, 500g, 1개, 500g × 1개",
-          "price": "11,500원",
-          "discount_rate": 30,
-          "priceAt": "10.07 11:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2503764256539519-bec41ad2-46f8-4b15-980b-41eca0a4c49f.jpg",
-          "url": "https://link.coupang.com/a/hDZ3nosA4y",
-          "_ts": 1791338874.292712
         }
       ]
     },
