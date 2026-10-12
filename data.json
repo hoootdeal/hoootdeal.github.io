@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "퐁퐁 오렌지 오일 담은 친환경 주방세제 기분 좋은 오렌지향 리필, 1.2L, 2개",
+          "price": "3,110원",
+          "discount_rate": 34,
+          "priceAt": "10.12 13:27",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/477936751296096-ab574694-5f0c-4e72-b58d-fe0500999b69.jpg",
+          "url": "https://link.coupang.com/a/hMsy5hU4rI",
+          "_ts": 1791779261.3558888
+        },
+        {
           "name": "푸드랩플러스 스페인산 간편구이 삼겹살 지퍼백 (냉동), 1kg, 1팩",
           "price": "6,490원",
           "discount_rate": 39,
@@ -1077,24 +1086,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/344988913831960-de9efc48-2ee0-4a90-b862-5674d8cce438.jpg",
           "url": "https://link.coupang.com/a/hEeph1W9wi",
           "_ts": 1791350919.902463
-        },
-        {
-          "name": "리벤스 에버퓨어 새부리형 황사방역 마스크 소형 KF94, 5개입, 20개, 블랙",
-          "price": "4,590원",
-          "discount_rate": 47,
-          "priceAt": "10.07 13:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/56376491592419-6367bfb7-5678-4d47-8e9e-5ec8ed37ca55.jpg",
-          "url": "https://link.coupang.com/a/hD90Nz9s7M",
-          "_ts": 1791347232.49735
-        },
-        {
-          "name": "풀무원 새콤달콤 국산콩 두부로 만든 유부초밥, 330g, 1개",
-          "price": "3,990원",
-          "discount_rate": 39,
-          "priceAt": "10.07 13:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1565248345646481-1ebf6135-5191-46ef-b781-785b9f75c6f7.jpg",
-          "url": "https://link.coupang.com/a/hD9oOR2cG4",
-          "_ts": 1791346720.115951
         }
       ]
     },
@@ -2042,16 +2033,6 @@
           "url": "https://toss.shopping/_m/POfKIzmx",
           "_ts": 1791349458.288424,
           "_product_id": "2184701663"
-        },
-        {
-          "name": "메이홉 바디트리머, MA-0400, 오로라 화이트, 1개",
-          "price": "25,260원",
-          "discount_rate": 63,
-          "priceAt": "10.07 13:21",
-          "image": "https://shopping.toss.im/live/taca/ai/NWI4MDJm/QU9OWTg1NGNMc0ZiY3M2OFBjUHdEa1E4SDhQQWpqaytoY1BCUEQ5Q3RkVnE.png",
-          "url": "https://toss.shopping/_m/BIBLNNpo",
-          "_ts": 1791346868.453391,
-          "_product_id": "2222928635"
         }
       ]
     },
