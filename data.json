@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "홀리카홀리카 워터 바이브 틴트, 06고고, 1개",
+          "price": "3,960원",
+          "discount_rate": 46,
+          "priceAt": "10.13 11:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/158599160502599-3310c882-9067-42ed-914e-a75e0b88dd7f.jpg",
+          "url": "https://link.coupang.com/a/hNXtuPKSm4",
+          "_ts": 1791857272.349771
+        },
+        {
           "name": "신라명과 얀스맘 쿠키 세트, 650g, 1세트, 650g × 1세트",
           "price": "8,380원",
           "discount_rate": 27,
@@ -1086,15 +1095,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/317062532591559-ee4bee8c-94ec-40fc-9768-64d0b638c294.jpg",
           "url": "https://link.coupang.com/a/hFInRqLmmW",
           "_ts": 1791428148.515677
-        },
-        {
-          "name": "롯데자일리톨 알파 오리지날, 86g, 3개, 86g × 3개",
-          "price": "6,060원",
-          "discount_rate": 47,
-          "priceAt": "10.08 11:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/340006632677024-4ae8293e-b6c8-4111-80b3-1cf9c7fc7951.jpg",
-          "url": "https://link.coupang.com/a/hFEHa5bToG",
-          "_ts": 1791425050.575553
         }
       ]
     },
@@ -2086,16 +2086,6 @@
           "url": "https://toss.shopping/_m/53Sydjoy",
           "_ts": 1791435687.008716,
           "_product_id": "147969277"
-        },
-        {
-          "name": "대상 루테인 플러스, 30캡슐, 6박스",
-          "price": "12,900원",
-          "discount_rate": 89,
-          "priceAt": "10.08 10:48",
-          "image": "https://shopping.toss.im/live/taca/ai/NDNmNWNk/UG5HOGN1elorUG1aTStzeEUzT2E4ZEM1TUhraHNXTytKOUNuOXRwSm5BND0.png",
-          "url": "https://toss.shopping/_m/l488LUMf",
-          "_ts": 1791424109.4856,
-          "_product_id": "122431101"
         }
       ]
     },
