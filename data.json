@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "티젠 콤부차 이온, 5g, 30개, 5g × 30개",
+          "price": "8,410원",
+          "discount_rate": 23,
+          "priceAt": "10.13 12:03",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/08/10/10/0/1e5b3a68-d558-4c9e-861c-1a642f7584cd.jpg",
+          "url": "https://link.coupang.com/a/hN1qAyWcSq",
+          "_ts": 1791860589.8961558
+        },
+        {
           "name": "홀리카홀리카 워터 바이브 틴트, 06고고, 1개",
           "price": "3,960원",
           "discount_rate": 46,
@@ -1086,15 +1095,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/0bb77b84-40e5-45b4-9ee5-661335cb033e535292651386042423.png",
           "url": "https://link.coupang.com/a/hFLXL1ZwKy",
           "_ts": 1791431152.990954
-        },
-        {
-          "name": "솔리몬 스퀴즈드 레몬즙, 1L, 2개, 1L × 2개",
-          "price": "13,800원",
-          "discount_rate": 37,
-          "priceAt": "10.08 11:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/317062532591559-ee4bee8c-94ec-40fc-9768-64d0b638c294.jpg",
-          "url": "https://link.coupang.com/a/hFInRqLmmW",
-          "_ts": 1791428148.515677
         }
       ]
     },
