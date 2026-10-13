@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하늘보리 에코 무라벨, 500ml, 20개",
+          "price": "12,240원",
+          "discount_rate": 21,
+          "priceAt": "10.14 08:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/381711721875626-f63d3efa-506b-42b8-9515-f19e338b5d79.jpg",
+          "url": "https://link.coupang.com/a/hPpEk17uE0",
+          "_ts": 1791932983.800878
+        },
+        {
           "name": "티젠 콤부차 매실, 5g, 50개입, 1개",
           "price": "9,900원",
           "discount_rate": 34,
@@ -1158,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10689053143998-f1a753f1-f0d4-40b3-997f-269839e98ede.jpg",
           "url": "https://link.coupang.com/a/hG7otrXJAa",
           "_ts": 1791501201.5466602
-        },
-        {
-          "name": "비타500 이온킥 제로 음료, 1.5L, 12개",
-          "price": "13,850원",
-          "discount_rate": 23,
-          "priceAt": "10.09 08:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/11/14/6/d6bfcaec-2415-4153-af85-283ea8f5905f.jpg",
-          "url": "https://link.coupang.com/a/hG6VixTxGC",
-          "_ts": 1791500806.6139038
         }
       ]
     },
