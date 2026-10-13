@@ -1149,6 +1149,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "동국제약 마데카 메디패치, 스팟패치, 51매, 3개",
+          "price": "11,330원",
+          "discount_rate": 41,
+          "priceAt": "10.14 00:01",
+          "image": "https://shopping.toss.im/live/temp/2025-08-12/380d5568-fb75-4e8a-b563-40a92e2d7af6.png",
+          "url": "https://toss.shopping/_m/xf6bXWFf",
+          "_ts": 1791903674.0328262,
+          "_flash": true,
+          "_product_id": "12689635"
+        },
+        {
+          "name": "신발 세탁망, 그레이, 19x39cm, 2개",
+          "price": "3,350원",
+          "discount_rate": 67,
+          "priceAt": "10.14 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/ZjZkMTZh/QUtWNnBVcWRZbFU1ZGVKdjhzdk9ucms1NWpCZFlCM0NEL3dHT2hnWGVLM2w.png",
+          "url": "https://toss.shopping/_m/5loz6wKa",
+          "_ts": 1791903674.032777,
+          "_flash": true,
+          "_product_id": "196242361"
+        },
+        {
+          "name": "알뜰공식 심리스 투톤 모달 팬티 6종, 색상혼합, XL, 1세트",
+          "price": "10,290원",
+          "discount_rate": 39,
+          "priceAt": "10.14 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/ZjA5YjU3/YTBzNjB3bEtMVW5KYWl0cHFVaXRhV1ZwVlNrVXFWU3BLcW1pcllLMWZSVT0.png",
+          "url": "https://toss.shopping/_m/REWCZdR9",
+          "_ts": 1791903674.0327091,
+          "_flash": true,
+          "_product_id": "172216281"
+        },
+        {
           "name": "CJ제일제당 스팸 클래식, 340g, 9개",
           "price": "31,950원",
           "discount_rate": 42,
@@ -2166,39 +2199,6 @@
           "_ts": 1791471696.352065,
           "_flash": true,
           "_product_id": "1747911959"
-        },
-        {
-          "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
-          "price": "6,900원",
-          "discount_rate": 58,
-          "priceAt": "10.09 00:01",
-          "image": "https://shopping.toss.im/live/temp/2026-07-20/fcf09a1c-3d4e-4e2a-93fb-23b126be49b1.png",
-          "url": "https://toss.shopping/_m/jDZgUhRv",
-          "_ts": 1791471668.217945,
-          "_flash": true,
-          "_product_id": "8834733"
-        },
-        {
-          "name": "경면주사 팔찌, 아미타불(개띠, 돼지띠), 1개",
-          "price": "6,386원",
-          "discount_rate": 70,
-          "priceAt": "10.09 00:01",
-          "image": "https://shopping.toss.im/live/taca/ai/MzMyMWZm/QUxhWGFTdHBhU0U4eGdlOFRKN0VWc3kxak5PazNwaFB0Q2hrMHBJaDA3MXI.png",
-          "url": "https://toss.shopping/_m/FD4MF6nh",
-          "_ts": 1791471668.217911,
-          "_flash": true,
-          "_product_id": "1915063855"
-        },
-        {
-          "name": "농부의 정육점 한돈 뒷고기, 500g, 2개",
-          "price": "7,900원",
-          "discount_rate": 50,
-          "priceAt": "10.09 00:01",
-          "image": "https://shopping.toss.im/live/temp/2026-06-24/b785d96f-49c4-44e1-8e5f-da2020ca503f.png",
-          "url": "https://toss.shopping/_m/bItn99Sp",
-          "_ts": 1791471668.217859,
-          "_flash": true,
-          "_product_id": "2325253587"
         }
       ]
     },
