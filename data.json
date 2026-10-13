@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "곰곰 로제 파스타 소스, 1.5kg, 1개",
+          "price": "5,990원",
+          "discount_rate": 34,
+          "priceAt": "10.13 21:51",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5181490820273-7ec88c35-eca6-469b-8f30-f45f971ffe36.jpg",
+          "url": "https://link.coupang.com/a/hOHtNXuyWW",
+          "_ts": 1791895896.4134212
+        },
+        {
           "name": "테리파머 호텔 수건 200g 30수 면사, 스톤그레이, 10개",
           "price": "23,430원",
           "discount_rate": 40,
@@ -1131,24 +1140,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/43b8/5eb64c7f961ed67c21c54cf27f18352521fa14a5b2daf080531372589473.jpg",
           "url": "https://link.coupang.com/a/hG2ABpCkFM",
           "_ts": 1791497168.7070231
-        },
-        {
-          "name": "청오건강 유기농 발아 보리차, 500g, 1개입, 1개",
-          "price": "3,910원",
-          "discount_rate": 21,
-          "priceAt": "10.08 21:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/4a69/6e0dc9a636b4a9eed67c473d50badc5492a5aaf9d322cc6430990fe21561.jpg",
-          "url": "https://link.coupang.com/a/hGokp6Lg04",
-          "_ts": 1791463366.628991
-        },
-        {
-          "name": "신라면 로제 큰사발면 108g, 6개",
-          "price": "5,040원",
-          "discount_rate": 28,
-          "priceAt": "10.08 21:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/445327104277979-55f3c6cb-215a-4009-aedb-a4d732557bf7.jpg",
-          "url": "https://link.coupang.com/a/hGnesIUcuW",
-          "_ts": 1791462444.349993
         }
       ]
     },
@@ -2204,26 +2195,6 @@
           "_ts": 1791471668.217859,
           "_flash": true,
           "_product_id": "2325253587"
-        },
-        {
-          "name": "제주 서귀포 감귤, 12brix 초고당도, 5kg, 1박스",
-          "price": "13,900원",
-          "discount_rate": 57,
-          "priceAt": "10.08 21:50",
-          "image": "https://shopping.toss.im/live/temp/2026-09-20/a0e6554a-50c1-4ea9-8954-02f528e674e3.png",
-          "url": "https://toss.shopping/_m/L40PABc3",
-          "_ts": 1791463819.0545459,
-          "_product_id": "2659903585"
-        },
-        {
-          "name": "블로즈 리페어 크림, 70ml, 1개",
-          "price": "5,800원",
-          "discount_rate": 83,
-          "priceAt": "10.08 21:21",
-          "image": "https://shopping.toss.im/live/temp/2026-10-08/7417ebc2-119a-4793-80b2-a73cfcb96146.png",
-          "url": "https://toss.shopping/_m/9CwYkzA3",
-          "_ts": 1791462088.662415,
-          "_product_id": "2426126949"
         }
       ]
     },
