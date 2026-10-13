@@ -1122,15 +1122,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/445327104277979-55f3c6cb-215a-4009-aedb-a4d732557bf7.jpg",
           "url": "https://link.coupang.com/a/hGnesIUcuW",
           "_ts": 1791462444.349993
-        },
-        {
-          "name": "메이지 말차 초콜릿 BOX 26매입, 120g, 1개",
-          "price": "6,830원",
-          "discount_rate": 22,
-          "priceAt": "10.08 18:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d744/13359dede4984e04e6d3052cb5f07170d7bc5031d3eb5be566280077929e.jpg",
-          "url": "https://link.coupang.com/a/hGbC0WBDEG",
-          "_ts": 1791452702.0479841
         }
       ]
     },
@@ -1139,6 +1130,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "알파CD 레몬컷, 120정, 2개",
+          "price": "12,330원",
+          "discount_rate": 69,
+          "priceAt": "10.13 19:20",
+          "image": "https://shopping.toss.im/live/taca/ai/N2VhMzI3/Y0I4WUQ2RTl4d1BCZzRIdkF3K0h6T2VQNlpmQTR3WURqdkU5OGpNTmZ4dz0.png",
+          "url": "https://toss.shopping/_m/ftpdtDxi",
+          "_ts": 1791886835.197879,
+          "_product_id": "2211280457"
+        },
         {
           "name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
           "price": "5,450원",
@@ -2164,16 +2165,6 @@
           "url": "https://toss.shopping/_m/9CwYkzA3",
           "_ts": 1791462088.662415,
           "_product_id": "2426126949"
-        },
-        {
-          "name": "할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
-          "price": "21,900원",
-          "discount_rate": 65,
-          "priceAt": "10.08 18:57",
-          "image": "https://shopping.toss.im/live/temp/2026-08-21/b5d63ff1-7a55-4d3a-98b9-237a959d53b6.jpeg",
-          "url": "https://toss.shopping/_m/9byY2HFD",
-          "_ts": 1791453473.5416698,
-          "_product_id": "2626071701"
         }
       ]
     },
