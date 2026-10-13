@@ -1131,6 +1131,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "널담 뚱카롱, 초코홀릭 55g 4개입 1박스 + 황치즈 55g 4개입 1박스, 2박스",
+          "price": "8,390원",
+          "discount_rate": 50,
+          "priceAt": "10.13 19:37",
+          "image": "https://shopping.toss.im/live/taca/ai/MmE3MWRi/QU1weHg2ekhXWExFT1lzKzNLY203eE5vYmtzVDltZVN3MXZaMXN3VGtjNXM.png",
+          "url": "https://toss.shopping/_m/ViRImo4B",
+          "_ts": 1791887827.556067,
+          "_product_id": "109816969"
+        },
+        {
           "name": "알파CD 레몬컷, 120정, 2개",
           "price": "12,330원",
           "discount_rate": 69,
