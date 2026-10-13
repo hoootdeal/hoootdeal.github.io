@@ -1149,15 +1149,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/11/14/6/d6bfcaec-2415-4153-af85-283ea8f5905f.jpg",
           "url": "https://link.coupang.com/a/hG6VixTxGC",
           "_ts": 1791500806.6139038
-        },
-        {
-          "name": "비비드키친 저당 닭가슴살 브리또 치폴레 (냉동), 125g, 2개, 1개입",
-          "price": "3,900원",
-          "discount_rate": 42,
-          "priceAt": "10.09 07:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/8cptahj6/31d43124c895490cb47089040c129334.jpg",
-          "url": "https://link.coupang.com/a/hG5p2M1tJc",
-          "_ts": 1791499545.009848
         }
       ]
     },
@@ -1166,6 +1157,39 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "베베앙 시그니처 물티슈 캡형, 100매, 10팩",
+          "price": "9,900원",
+          "discount_rate": 55,
+          "priceAt": "10.14 08:02",
+          "image": "https://shopping.toss.im/live/temp/2026-06-09/3d168097-a6da-4f99-9e12-5b8d3121e04e.jpeg",
+          "url": "https://toss.shopping/_m/dU2qAudq",
+          "_ts": 1791932551.3201768,
+          "_flash": true,
+          "_product_id": "13017669"
+        },
+        {
+          "name": "애슐리 주먹밥 체험팩, 7가지맛, 100g, 7개",
+          "price": "9,900원",
+          "discount_rate": 49,
+          "priceAt": "10.14 08:02",
+          "image": "https://shopping.toss.im/live/temp/2026-08-12/c775957b-aaa8-4b3e-9e00-aabef8c2a89f.jpeg",
+          "url": "https://toss.shopping/_m/n4Dg9s87",
+          "_ts": 1791932551.320161,
+          "_flash": true,
+          "_product_id": "2605058187"
+        },
+        {
+          "name": "파이토메이드 고칼슘 앤 비타민D 두유 검은콩, 190ml, 24개",
+          "price": "8,500원",
+          "discount_rate": 46,
+          "priceAt": "10.14 08:02",
+          "image": "https://shopping.toss.im/live/temp/2026-06-17/769aa5a1-0ada-4790-9d5e-91593dd7c601.jpeg",
+          "url": "https://toss.shopping/_m/P7fDVQld",
+          "_ts": 1791932551.320139,
+          "_flash": true,
+          "_product_id": "200602521"
+        },
         {
           "name": "위니즈 질레트 호환용 퓨전 프로쉴드 5중 면도날, 12개 + 면도기, 1개",
           "price": "7,561원",
@@ -2187,39 +2211,6 @@
           "url": "https://toss.shopping/_m/hwhHkl8n",
           "_ts": 1791510810.895054,
           "_product_id": "2558819489"
-        },
-        {
-          "name": "쉬블림로브 여성 멜란지 로고 맨투맨 GW1519, FREE, 1개",
-          "price": "7,900원",
-          "discount_rate": 75,
-          "priceAt": "10.09 08:02",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDIyNGE1/QUo0S0xHTGk0c3UvQURoMVlNRUZpQitxcTZ2OGNIeFZRb1ZCQUxsMnEzZEY.png",
-          "url": "https://toss.shopping/_m/dLMnMQze",
-          "_ts": 1791500528.5098581,
-          "_flash": true,
-          "_product_id": "640108117"
-        },
-        {
-          "name": "애슐리 눈꽃치즈 순살 안동식 찜닭, 2인분, 772g, 1개",
-          "price": "9,490원",
-          "discount_rate": 40,
-          "priceAt": "10.09 08:02",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTRlNzll/SHc1YkhmWVovRG5ZZUxNSGFEekUrMFQ1eUxDYThPNTY3NU16RVJBZjRYOD0.png",
-          "url": "https://toss.shopping/_m/vWXmmnVk",
-          "_ts": 1791500528.5098372,
-          "_flash": true,
-          "_product_id": "105382313"
-        },
-        {
-          "name": "리버티 입는오버나이트, 4매, 대형, 5팩",
-          "price": "9,900원",
-          "discount_rate": 59,
-          "priceAt": "10.09 08:01",
-          "image": "https://shopping.toss.im/live/taca/ai/NjAwNTZl/QU94d083bldsdjFhNVU3dVpoM2VyWDVJdFBkZTkybjVuYnNMbjN2WkNYYWw.png",
-          "url": "https://toss.shopping/_m/HjSgXh0r",
-          "_ts": 1791500503.603884,
-          "_flash": true,
-          "_product_id": "861976337"
         }
       ]
     },
