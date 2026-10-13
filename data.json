@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "동원 을지로 골뱅이 무침용, 300g, 4개",
+          "price": "20,330원",
+          "discount_rate": 43,
+          "priceAt": "10.13 15:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/262343353506576-02b94457-9b52-4bc2-9010-e501acabae27.jpg",
+          "url": "https://link.coupang.com/a/hOfYS4TXJQ",
+          "_ts": 1791872808.003077
+        },
+        {
           "name": "롯데웰푸드 월드콘 + 구구콘 세트 (냉동), 160ml, 1개입, 32개",
           "price": "24,570원",
           "discount_rate": 40,
@@ -1104,15 +1113,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/357237703170654-3c6fc103-b4fa-44df-94d2-f5f699e32be7.jpg",
           "url": "https://link.coupang.com/a/hF1cLaieya",
           "_ts": 1791443949.0240052
-        },
-        {
-          "name": "투니스 접이식 경량 휴대용 야외 폴딩 캠핑 테이블 수납 파우치 포함, 프리사이즈, 블랙, 58cm",
-          "price": "8,800원",
-          "discount_rate": 34,
-          "priceAt": "10.08 15:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/48c6/cb452e5e5d6213032da31c31958bbedc38a5966a41f52a1be255155cc5a2.jpg",
-          "url": "https://link.coupang.com/a/hFXnT3E3Fc",
-          "_ts": 1791440741.837124
         }
       ]
     },
