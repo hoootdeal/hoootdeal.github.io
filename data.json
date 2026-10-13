@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "해찬들 사계절쌈장, 300g, 2개",
+          "price": "1,980원",
+          "discount_rate": 50,
+          "priceAt": "10.13 13:53",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/0bb77b84-40e5-45b4-9ee5-661335cb033e535292651386042423.png",
+          "url": "https://link.coupang.com/a/hN9jDoOu9Q",
+          "_ts": 1791867216.199757
+        },
+        {
           "name": "아이얌 김과자, 참깨, 20g, 10개",
           "price": "12,420원",
           "discount_rate": 61,
@@ -1095,15 +1104,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/06/05/11/7/a1d3416b-2fe8-4e13-acbb-c852d39d134b.png",
           "url": "https://link.coupang.com/a/hFRP4d46Xk",
           "_ts": 1791436086.267406
-        },
-        {
-          "name": "G7 블랙 커피, 2g, 100개입, 2개",
-          "price": "27,830원",
-          "discount_rate": 52,
-          "priceAt": "10.08 13:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/671689918227420-8a923b58-1685-4ced-b1f9-8872c0f11165.jpg",
-          "url": "https://link.coupang.com/a/hFP7fpULrU",
-          "_ts": 1791434646.753354
         }
       ]
     },
