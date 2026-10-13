@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아이얌 김과자, 참깨, 20g, 10개",
+          "price": "12,420원",
+          "discount_rate": 61,
+          "priceAt": "10.13 13:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/139120420649574-5e722027-499a-40b6-9964-2760ad576719.jpg",
+          "url": "https://link.coupang.com/a/hN73VcvC4O",
+          "_ts": 1791866160.506138
+        },
+        {
           "name": "요넥스 배드민턴 라켓 2p + 케이스 세트, GR350, 1세트",
           "price": "17,700원",
           "discount_rate": 49,
