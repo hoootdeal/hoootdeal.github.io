@@ -1122,6 +1122,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "대원제약 눈건강 파워 루테인 골드, 500mg, 30캡슐, 6박스",
+          "price": "14,500원",
+          "discount_rate": 90,
+          "priceAt": "10.13 14:18",
+          "image": "https://shopping.toss.im/live/product/680703/093eda5f-cb80-4858-8dc9-7cbba25a8fa1.jpg",
+          "url": "https://toss.shopping/_m/Zr3YtDUk",
+          "_ts": 1791868713.1035469,
+          "_product_id": "12584149"
+        },
+        {
           "name": "곰도리 하루종일 붙이는 핫팩 장시간 고급형, 100개",
           "price": "15,502원",
           "discount_rate": 77,
