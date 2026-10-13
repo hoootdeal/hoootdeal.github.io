@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "광동제약 썬키스트 제로 복숭아레몬 소다, 190ml, 30개, 190ml × 30개",
+          "price": "9,890원",
+          "discount_rate": 29,
+          "priceAt": "10.13 17:53",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1253215412489089-e3bd8547-9614-4d31-b127-6a7ebe79f4b1.jpg",
+          "url": "https://link.coupang.com/a/hOqqUTogMu",
+          "_ts": 1791881584.446191
+        },
+        {
           "name": "The더착한 오징어 슬라이스 (냉동), 500g, 1개, 500g × 1개",
           "price": "4,830원",
           "discount_rate": 43,
@@ -1113,15 +1122,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d744/13359dede4984e04e6d3052cb5f07170d7bc5031d3eb5be566280077929e.jpg",
           "url": "https://link.coupang.com/a/hGbC0WBDEG",
           "_ts": 1791452702.0479841
-        },
-        {
-          "name": "맥심 모카골드 커피믹스 제로슈거, 11.5g, 100개입, 2개",
-          "price": "30,400원",
-          "discount_rate": 24,
-          "priceAt": "10.08 17:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/321285223279767-830b2f33-7414-4057-8a77-fcce39ff5ef3.jpg",
-          "url": "https://link.coupang.com/a/hF48JugE9s",
-          "_ts": 1791447254.351392
         }
       ]
     },
@@ -2153,16 +2153,6 @@
           "url": "https://toss.shopping/_m/ft6t0Yv9",
           "_ts": 1791451031.505863,
           "_product_id": "156037321"
-        },
-        {
-          "name": "바이마르 솥뚜껑 세라믹 가마솥, 16cm, 1개",
-          "price": "12,150원",
-          "discount_rate": 87,
-          "priceAt": "10.08 17:28",
-          "image": "https://shopping.toss.im/live/taca/ai/MjhhYjNh/SlRpWkpyVEZ0eXJZMTFZeW1iSTZXRzgzTGMrM1pFVG8wZWhJczBtVHMzWT0.png",
-          "url": "https://toss.shopping/_m/rsA1rRIt",
-          "_ts": 1791448113.353697,
-          "_product_id": "185646307"
         }
       ]
     },
