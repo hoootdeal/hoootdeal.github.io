@@ -1104,6 +1104,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "안성마춤농협 고시히카리쌀, 특등급, 10kg, 1개",
+          "price": "35,900원",
+          "discount_rate": 59,
+          "priceAt": "10.13 12:30",
+          "image": "https://shopping.toss.im/live/temp/2026-09-17/4e422b53-ede8-4e9e-85c8-5ad4218958bb.jpeg",
+          "url": "https://toss.shopping/_m/7UmoGnze",
+          "_ts": 1791862217.723119,
+          "_product_id": "2650541457"
+        },
+        {
           "name": "세플로 세탁가능 소프트 욕실발판, 전용세탁망 포함, 모던헤리티지, 60x40, 1세트",
           "price": "6,410원",
           "discount_rate": 77,
