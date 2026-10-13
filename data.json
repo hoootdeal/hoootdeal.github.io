@@ -1131,6 +1131,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아임닭 맛있는 닭가슴살 볶음밥, 5종, 200g, 20개",
+          "price": "22,867원",
+          "discount_rate": 67,
+          "priceAt": "10.13 15:57",
+          "image": "https://shopping.toss.im/live/taca/ai/MjE4ZDQ0/QVBJeDJQTmh5b1ROZ3pGTTQvYkFGdFJQSVhHRG14bllERGlINjRpWStoMDE.png",
+          "url": "https://toss.shopping/_m/NwKHRl1m",
+          "_ts": 1791874677.593653,
+          "_product_id": "1254407973"
+        },
+        {
           "name": "아이앤어스 올인원 다크 케어 캡슐세제, 100개입, 1개",
           "price": "6,480원",
           "discount_rate": 78,
