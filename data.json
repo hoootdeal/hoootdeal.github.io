@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데웰푸드 월드콘 + 구구콘 세트 (냉동), 160ml, 1개입, 32개",
+          "price": "24,570원",
+          "discount_rate": 40,
+          "priceAt": "10.13 15:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2474620569104459-f79bfd98-b96e-43d0-be2f-ea80c75218b9.jpg",
+          "url": "https://link.coupang.com/a/hOeI5uhgku",
+          "_ts": 1791871756.1535969
+        },
+        {
           "name": "아이리버 C타입 커널형 리모컨컨트롤 줄꼬임방지 고품질 알루미늄 유선 이어폰 BVC-300C 화이트",
           "price": "3,900원",
           "discount_rate": 52,
@@ -1104,15 +1113,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/48c6/cb452e5e5d6213032da31c31958bbedc38a5966a41f52a1be255155cc5a2.jpg",
           "url": "https://link.coupang.com/a/hFXnT3E3Fc",
           "_ts": 1791440741.837124
-        },
-        {
-          "name": "포카칩 오리온 황치즈, 60g, 3개, 60g × 3개",
-          "price": "6,000원",
-          "discount_rate": 25,
-          "priceAt": "10.08 14:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/349996242907317-8a61be6b-5e22-4f93-944f-fb2b9320311f.jpg",
-          "url": "https://link.coupang.com/a/hFVxXg2gHA",
-          "_ts": 1791439198.028198
         }
       ]
     },
@@ -2124,16 +2124,6 @@
           "url": "https://toss.shopping/_m/tT8cPdte",
           "_ts": 1791445434.121782,
           "_product_id": "13499979"
-        },
-        {
-          "name": "풍년보감 고려홍삼정 밸런스타임, 벌크포장, 10g, 100포",
-          "price": "12,900원",
-          "discount_rate": 74,
-          "priceAt": "10.08 14:46",
-          "image": "https://shopping.toss.im/live/taca/ai/ODYyOTZj/QUxGVTU4TjVlL0Q0SGlzT0grR0ZiTW1EQjNuendxTjQ0ZUtENy95eFZNZkQ.png",
-          "url": "https://toss.shopping/_m/laZAVUnn",
-          "_ts": 1791438372.0809631,
-          "_product_id": "86973821"
         }
       ]
     },
