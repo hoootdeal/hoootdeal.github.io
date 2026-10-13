@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "The더착한 오징어 슬라이스 (냉동), 500g, 1개, 500g × 1개",
+          "price": "4,830원",
+          "discount_rate": 43,
+          "priceAt": "10.13 16:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2645094242869363-5c342f0c-6574-4a76-bfe4-ffee4243477a.jpg",
+          "url": "https://link.coupang.com/a/hOmmlBxV8K",
+          "_ts": 1791878163.589134
+        },
+        {
           "name": "오레오 호떡맛 샌드위치 쿠키 랜덤발송, 1kg, 1개",
           "price": "6,830원",
           "discount_rate": 24,
@@ -2154,16 +2163,6 @@
           "url": "https://toss.shopping/_m/rsA1rRIt",
           "_ts": 1791448113.353697,
           "_product_id": "185646307"
-        },
-        {
-          "name": "바다안 국내가공 진미채, 200g, 3개",
-          "price": "14,500원",
-          "discount_rate": 67,
-          "priceAt": "10.08 16:43",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDAzODlm/QU5Wc1ZvQUg3REpKVjB0OEt5NlBCTDgxR2xmb1NDcGE0SzYrb0xYd1BzSHo.png",
-          "url": "https://toss.shopping/_m/tT8cPdte",
-          "_ts": 1791445434.121782,
-          "_product_id": "13499979"
         }
       ]
     },
