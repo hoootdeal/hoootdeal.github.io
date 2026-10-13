@@ -1113,15 +1113,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/321285223279767-830b2f33-7414-4057-8a77-fcce39ff5ef3.jpg",
           "url": "https://link.coupang.com/a/hF48JugE9s",
           "_ts": 1791447254.351392
-        },
-        {
-          "name": "안성탕면 125g, 50개, 50개",
-          "price": "25,560원",
-          "discount_rate": 20,
-          "priceAt": "10.08 16:19",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/357237703170654-3c6fc103-b4fa-44df-94d2-f5f699e32be7.jpg",
-          "url": "https://link.coupang.com/a/hF1cLaieya",
-          "_ts": 1791443949.0240052
         }
       ]
     },
@@ -1130,6 +1121,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "광천김 파래 도시락김 카카오프렌즈, 4g, 27봉",
+          "price": "9,600원",
+          "discount_rate": 45,
+          "priceAt": "10.13 16:34",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/ZGI4ZWU2/TE5ScEMwdHJ6bk41eEVjNVd0UzQxaU9VdE5PMWxMZWNPUFJyY2twbVhLdz0.png",
+          "url": "https://toss.shopping/_m/NEwjeKOD",
+          "_ts": 1791876875.5151749,
+          "_product_id": "171932225"
+        },
         {
           "name": "아임닭 맛있는 닭가슴살 볶음밥, 5종, 200g, 20개",
           "price": "22,867원",
