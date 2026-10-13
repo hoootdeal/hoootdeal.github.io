@@ -1149,6 +1149,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "위니즈 질레트 호환용 퓨전 프로쉴드 5중 면도날, 12개 + 면도기, 1개",
+          "price": "7,561원",
+          "discount_rate": 74,
+          "priceAt": "10.14 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-03-11/cef2bd14-c0de-478c-91f2-42ba5a900153.jpeg",
+          "url": "https://toss.shopping/_m/hV8Foiew",
+          "_ts": 1791903699.97412,
+          "_flash": true,
+          "_product_id": "1106362547"
+        },
+        {
+          "name": "비로르 스텐 주방 가위, 팬더, 20.5cm, 2개",
+          "price": "4,990원",
+          "discount_rate": 86,
+          "priceAt": "10.14 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/MzFmZTZk/YWVocVE5Tm9ULzR1bDdXc0pwR21ROWwrUzFxYlBsVzg1RUdrb2UxVTIxWT0.png",
+          "url": "https://toss.shopping/_m/tElc4u61",
+          "_ts": 1791903699.974085,
+          "_flash": true,
+          "_product_id": "91564441"
+        },
+        {
+          "name": "국내산 닭 솥뚜껑 안동찜닭, 1kg, 2개",
+          "price": "13,570원",
+          "discount_rate": 35,
+          "priceAt": "10.14 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/ZWI2MGZm/Tmg1VFo1azBUU3lTeG0yTms4MjVaSHNEWVp0c0dRVHI2TWxBU1lEdTNZdz0.png",
+          "url": "https://toss.shopping/_m/PZuALVwD",
+          "_ts": 1791903699.974041,
+          "_flash": true,
+          "_product_id": "846367687"
+        },
+        {
           "name": "동국제약 마데카 메디패치, 스팟패치, 51매, 3개",
           "price": "11,330원",
           "discount_rate": 41,
@@ -2177,28 +2210,6 @@
           "_ts": 1791500503.603884,
           "_flash": true,
           "_product_id": "861976337"
-        },
-        {
-          "name": "널담 고단백 저당 네모 바게트 5종, 2세트",
-          "price": "8,900원",
-          "discount_rate": 65,
-          "priceAt": "10.09 00:01",
-          "image": "https://shopping.toss.im/live/taca/ai/ODM2MDAy/WXhneWsxaHBNeU9lM0ZzWjgweHBocDdMcE54TE03YXhhN1lsaGsyZVduST0.png",
-          "url": "https://toss.shopping/_m/JlHmwWTy",
-          "_ts": 1791471696.352133,
-          "_flash": true,
-          "_product_id": "105793053"
-        },
-        {
-          "name": "제주 삼다수, 라벨 랜덤, 330ml, 40개",
-          "price": "10,500원",
-          "discount_rate": 68,
-          "priceAt": "10.09 00:01",
-          "image": "https://shopping.toss.im/live/temp/2026-09-01/27d37ddd-d724-4865-84ca-a6a285d9c866.jpeg",
-          "url": "https://toss.shopping/_m/5zLDWXZ1",
-          "_ts": 1791471696.352065,
-          "_flash": true,
-          "_product_id": "1747911959"
         }
       ]
     },
