@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "굿밸류 크리스탈 에어 젤리 쿠션 휴대폰 케이스 2p, 갤럭시S24, 투명",
+          "price": "100원",
+          "discount_rate": 98,
+          "priceAt": "10.13 14:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/04/01/11/2/313d7d63-bd7b-4612-9112-cbf38524b76e.png",
+          "url": "https://link.coupang.com/a/hOakWKlLTE",
+          "_ts": 1791868070.938802
+        },
+        {
           "name": "해찬들 사계절쌈장, 300g, 2개",
           "price": "1,980원",
           "discount_rate": 50,
@@ -2115,16 +2124,6 @@
           "url": "https://toss.shopping/_m/laZAVUnn",
           "_ts": 1791438372.0809631,
           "_product_id": "86973821"
-        },
-        {
-          "name": "JHP 아르간 헤어 에센스 오일, 120ml, 2개",
-          "price": "14,580원",
-          "discount_rate": 75,
-          "priceAt": "10.08 14:01",
-          "image": "https://shopping.toss.im/live/temp/2025-07-25/29782c7d-1d6d-475c-ba88-293016303f67.jpeg",
-          "url": "https://toss.shopping/_m/53Sydjoy",
-          "_ts": 1791435687.008716,
-          "_product_id": "147969277"
         }
       ]
     },
