@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아이리버 C타입 커널형 리모컨컨트롤 줄꼬임방지 고품질 알루미늄 유선 이어폰 BVC-300C 화이트",
+          "price": "3,900원",
+          "discount_rate": 52,
+          "priceAt": "10.13 14:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/204807917544939-a899dd17-ae55-45ef-849e-d760145d9499.jpg",
+          "url": "https://link.coupang.com/a/hOaXt0l4nY",
+          "_ts": 1791868591.873546
+        },
+        {
           "name": "굿밸류 크리스탈 에어 젤리 쿠션 휴대폰 케이스 2p, 갤럭시S24, 투명",
           "price": "100원",
           "discount_rate": 98,
@@ -1104,15 +1113,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/349996242907317-8a61be6b-5e22-4f93-944f-fb2b9320311f.jpg",
           "url": "https://link.coupang.com/a/hFVxXg2gHA",
           "_ts": 1791439198.028198
-        },
-        {
-          "name": "롯데칠성음료 히야 제로 사과, 24개, 200ml",
-          "price": "6,670원",
-          "discount_rate": 25,
-          "priceAt": "10.08 14:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/06/05/11/7/a1d3416b-2fe8-4e13-acbb-c852d39d134b.png",
-          "url": "https://link.coupang.com/a/hFRP4d46Xk",
-          "_ts": 1791436086.267406
         }
       ]
     },
