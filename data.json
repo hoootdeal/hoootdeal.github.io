@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "티젠 콤부차 매실, 5g, 50개입, 1개",
+          "price": "9,900원",
+          "discount_rate": 34,
+          "priceAt": "10.14 08:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/306394530621593-9efa1b57-e482-4265-a635-9f609ecf9b2a.jpg",
+          "url": "https://link.coupang.com/a/hPpqfF4Xvw",
+          "_ts": 1791932791.776341
+        },
+        {
           "name": "오뚜기 렌지에 돌려먹는 고등어구이 (냉동), 70g, 15개",
           "price": "38,120원",
           "discount_rate": 23,
