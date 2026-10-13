@@ -1131,6 +1131,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "셰프초이스 동그랑땡, 2kg, 1개",
+          "price": "15,900원",
+          "discount_rate": 38,
+          "priceAt": "10.13 18:06",
+          "image": "https://shopping.toss.im/live/temp/2026-07-01/c531b0a1-b43a-4e3b-9457-853e56f55bab.png",
+          "url": "https://toss.shopping/_m/FgqKH6rr",
+          "_ts": 1791882406.911336,
+          "_product_id": "2551894295"
+        },
+        {
           "name": "광천김 파래 도시락김 카카오프렌즈, 4g, 27봉",
           "price": "9,600원",
           "discount_rate": 45,
