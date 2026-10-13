@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "신라명과 얀스맘 쿠키 세트, 650g, 1세트, 650g × 1세트",
+          "price": "8,380원",
+          "discount_rate": 27,
+          "priceAt": "10.13 10:42",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1769553708361081-77523e4c-a013-4a5f-8d80-c1c1e1925ba2.jpg",
+          "url": "https://link.coupang.com/a/hNVHcw96eO",
+          "_ts": 1791855777.454531
+        },
+        {
           "name": "하이뮨 프로틴 밸런스 드링크믹스 RTD, 190ml, 24개, 190ml × 24개",
           "price": "19,990원",
           "discount_rate": 22,
@@ -1086,15 +1095,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/340006632677024-4ae8293e-b6c8-4111-80b3-1cf9c7fc7951.jpg",
           "url": "https://link.coupang.com/a/hFEHa5bToG",
           "_ts": 1791425050.575553
-        },
-        {
-          "name": "티엔아이킹커피 에스프레소 인스턴트 커피, 2.5g, 100개입, 1개",
-          "price": "26,010원",
-          "discount_rate": 26,
-          "priceAt": "10.08 10:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/29795665279478-b669bbd7-cd69-496a-8bbe-303a3dc93cf8.jpg",
-          "url": "https://link.coupang.com/a/hFA85CHaZo",
-          "_ts": 1791422071.563574
         }
       ]
     },
