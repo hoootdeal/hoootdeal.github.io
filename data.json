@@ -1176,6 +1176,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "유한메디카 올데이 비타민C 엔 탑 3000 맥스, 90포, 2개",
+          "price": "13,280원",
+          "discount_rate": 92,
+          "priceAt": "10.14 19:37",
+          "image": "https://shopping.toss.im/live/taca/ai/ZGJlN2Q3/SmxsZWVUOXd5Q2xwT0ppek1UZ2V4ekY0SE1NdWtlV00wcFJ6SE1yV29ibz0.png",
+          "url": "https://toss.shopping/_m/FBpvkMZ1",
+          "_ts": 1791974277.260113,
+          "_product_id": "58528219"
+        },
+        {
           "name": "푸드공식 오리지널 어포튀각, 90g, 4개",
           "price": "8,900원",
           "discount_rate": 47,
