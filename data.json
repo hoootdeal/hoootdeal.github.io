@@ -1158,15 +1158,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/14/18/7/aed3f53f-ec76-4864-a5ff-490b6e4512cd.jpg",
           "url": "https://link.coupang.com/a/hHt3O8csx2",
           "_ts": 1791520235.42885
-        },
-        {
-          "name": "마이노멀 알룰로스, 1.2kg, 4개, 1.2kg × 4개",
-          "price": "49,420원",
-          "discount_rate": 38,
-          "priceAt": "10.09 12:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6a64d178-ea69-4666-ba92-33e1fd2abe8b14882880263190267692.png",
-          "url": "https://link.coupang.com/a/hHpZ3hz6LA",
-          "_ts": 1791516823.748842
         }
       ]
     },
@@ -1175,6 +1166,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "대용량 우거지 감자탕, 3kg, 1개",
+          "price": "13,080원",
+          "discount_rate": 66,
+          "priceAt": "10.14 13:05",
+          "image": "https://shopping.toss.im/live/taca/ai/YTYyY2Uz/QVBEb25jd2JIRW5ObXp5enczTWxFaTloTVR4enRqTWs4ZVExMDV4YTBvdGg.png",
+          "url": "https://toss.shopping/_m/95RLprWp",
+          "_ts": 1791950727.837471,
+          "_product_id": "1635986563"
+        },
         {
           "name": "리쥬베닐 파이토베리어 호호바 EGF 크림, 100g, 1개",
           "price": "11,520원",
