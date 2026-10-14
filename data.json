@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "후룻바이더풋 젤리 20개입, 420g, 1개, 420g × 1개",
+          "price": "8,820원",
+          "discount_rate": 20,
+          "priceAt": "10.14 19:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/87536188509094-d3d8c141-4224-43fd-858c-ba7bcd6972e8.png",
+          "url": "https://link.coupang.com/a/hQaOLK3avc",
+          "_ts": 1791972584.360708
+        },
+        {
           "name": "바닐라코 스머징 립 펜슬 0.8g, PK01 누드 로즈, 2개, PK01 누드 로즈 × 2개",
           "price": "9,000원",
           "discount_rate": 68,
@@ -1158,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/472282660049551-2c914374-9b9d-4629-8e4f-ae06c0e41039.jpg",
           "url": "https://link.coupang.com/a/hHVZ5uILLM",
           "_ts": 1791543693.7146611
-        },
-        {
-          "name": "닛신 미니 컵라면 5종세트 서일본 버전, 1개, 1개",
-          "price": "5,250원",
-          "discount_rate": 54,
-          "priceAt": "10.09 18:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/24e7/f566e3e9f5aa29d29e8d5233281c897c1d6338c123b34e9d2fb5c9a6a38c.jpg",
-          "url": "https://link.coupang.com/a/hHPQOzcWWG",
-          "_ts": 1791538529.606901
         }
       ]
     },
@@ -2241,16 +2241,6 @@
           "url": "https://toss.shopping/_m/PjzyV7zd",
           "_ts": 1791548153.478388,
           "_product_id": "2651864571"
-        },
-        {
-          "name": "훈장골 돼지왕구이, 500g, 2팩",
-          "price": "12,970원",
-          "discount_rate": 63,
-          "priceAt": "10.09 18:32",
-          "image": "https://shopping.toss.im/live/taca/ai/YjMxMzky/U3B4cE42Vk4xelp3MHl4THM4MUZ3Sm1LanphTXhtNWFTaTV5djdPSXhZST0.png",
-          "url": "https://toss.shopping/_m/7si2fUqt",
-          "_ts": 1791538364.9026282,
-          "_product_id": "2320048945"
         }
       ]
     },
