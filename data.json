@@ -1176,6 +1176,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "은우담 설탕없는 진한 쌍화차, 18g, 20개입, 2박스",
+          "price": "17,070원",
+          "discount_rate": 71,
+          "priceAt": "10.14 20:22",
+          "image": "https://shopping.toss.im/live/temp/2026-02-07/3fdc895c-e2b1-4188-be1c-00890764c490.jpeg",
+          "url": "https://toss.shopping/_m/1N3AV67b",
+          "_ts": 1791976964.244524,
+          "_product_id": "811845505"
+        },
+        {
           "name": "유한메디카 올데이 비타민C 엔 탑 3000 맥스, 90포, 2개",
           "price": "13,280원",
           "discount_rate": 92,
