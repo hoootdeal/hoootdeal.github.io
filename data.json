@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이즈니 AOP 버터, 250g, 1개",
+          "price": "11,690원",
+          "discount_rate": 47,
+          "priceAt": "10.14 14:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/14600946669595-b80c55db-d568-488a-b514-38b91d0f6dd9.jpg",
+          "url": "https://link.coupang.com/a/hPSKROlExU",
+          "_ts": 1791957418.168784
+        },
+        {
           "name": "해찬들 8가지 국산 양념쌈장, 1개, 500g",
           "price": "5,610원",
           "discount_rate": 28,
@@ -2242,16 +2251,6 @@
           "url": "https://toss.shopping/_m/B0pcCRXa",
           "_ts": 1791528301.782655,
           "_product_id": "2164156071"
-        },
-        {
-          "name": "교동 버섯 들깨탕, 500g, 5개",
-          "price": "11,900원",
-          "discount_rate": 56,
-          "priceAt": "10.09 14:52",
-          "image": "https://shopping.toss.im/live/taca/ai/NDE0MDQ4/WW0zZXk3U0RHMkU0Y1dRZTNtUFJObTFqTHRPV0lYbE1qdUd6cVRsRXpQWT0.png",
-          "url": "https://toss.shopping/_m/NtQJKnFC",
-          "_ts": 1791525149.929595,
-          "_product_id": "93253001"
         }
       ]
     },
