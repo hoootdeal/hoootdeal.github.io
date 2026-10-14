@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "퀘이커 마시는 오트밀 그레인 서리태 낱봉팩, 1kg, 1세트, 1kg × 1세트",
+          "price": "10,920원",
+          "discount_rate": 40,
+          "priceAt": "10.14 11:19",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/06/13/8/ebed0679-664f-4038-ad57-df740dffe40e.jpg",
+          "url": "https://link.coupang.com/a/hPDcI46eoC",
+          "_ts": 1791944362.848305
+        },
+        {
           "name": "샤크 에보파워 무선 핸디 청소기, 미드나잇블루, WV210KR",
           "price": "75,100원",
           "discount_rate": 32,
@@ -2252,16 +2261,6 @@
           "url": "https://toss.shopping/_m/lroLKJe2",
           "_ts": 1791513905.2330701,
           "_product_id": "2225625455"
-        },
-        {
-          "name": "불도깨비 칠리 치즈스틱, 500g, 1개",
-          "price": "8,300원",
-          "discount_rate": 62,
-          "priceAt": "10.09 10:53",
-          "image": "https://shopping.toss.im/live/temp/2026-08-24/eb34e696-dad0-4ba7-af96-0fc35170de17.png",
-          "url": "https://toss.shopping/_m/hwhHkl8n",
-          "_ts": 1791510810.895054,
-          "_product_id": "2558819489"
         }
       ]
     },
