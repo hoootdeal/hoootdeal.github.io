@@ -1167,6 +1167,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청년참기름, 350ml, 1개 + 청년들기름, 350ml, 1개",
+          "price": "15,800원",
+          "discount_rate": 69,
+          "priceAt": "10.14 10:14",
+          "image": "https://shopping.toss.im/live/product/74175/aefb4ffd-b4e4-4de5-93dc-d5009423eb1b.jpeg",
+          "url": "https://toss.shopping/_m/tE3BtLGf",
+          "_ts": 1791940492.7124732,
+          "_product_id": "274525487"
+        },
+        {
           "name": "에센스웨어 25W PD PPS GaN C타입 초고속 충전기 + 60W C to C 1m 케이블 세트, 화이트, 2세트",
           "price": "7,900원",
           "discount_rate": 50,
