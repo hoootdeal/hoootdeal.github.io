@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오리온 도도한 나쵸 치즈맛, 92g, 4개",
+          "price": "4,100원",
+          "discount_rate": 22,
+          "priceAt": "10.14 21:35",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/96608067583187-8b976fec-cfc3-4386-bbf2-c46ce5b24606.jpg",
+          "url": "https://link.coupang.com/a/hQldnyJ2iW",
+          "_ts": 1791981314.6211252
+        },
+        {
           "name": "익스트림 블랙마카 1800, 120정, 1개, 120정 × 1개",
           "price": "15,900원",
           "discount_rate": 33,
@@ -2271,16 +2280,6 @@
           "url": "https://toss.shopping/_m/9v7RLYn8",
           "_ts": 1791549528.18986,
           "_product_id": "156877077"
-        },
-        {
-          "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
-          "price": "10,990원",
-          "discount_rate": 76,
-          "priceAt": "10.09 21:15",
-          "image": "https://shopping.toss.im/live/temp/2026-09-08/131ff3ca-add9-4eb4-887d-a5bfc5f03ac0.jpeg",
-          "url": "https://toss.shopping/_m/PjzyV7zd",
-          "_ts": 1791548153.478388,
-          "_product_id": "2651864571"
         }
       ]
     },
