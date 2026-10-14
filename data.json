@@ -1176,6 +1176,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "로마나 달콤바삭 황금 고구마칩, 320g, 4개",
+          "price": "13,700원",
+          "discount_rate": 65,
+          "priceAt": "10.15 08:02",
+          "image": "https://shopping.toss.im/live/taca/ai/ODc3NzYw/VnVPalJ2RldYTjVhbkpvV09GYVhWT1phWXBHaDBwbGswMURXbTV5MEtTMD0.png",
+          "url": "https://toss.shopping/_m/7gEuvtHt",
+          "_ts": 1792018955.198626,
+          "_flash": true,
+          "_product_id": "146053115"
+        },
+        {
+          "name": "전라도 보쌈 김치, 3kg, 1개",
+          "price": "13,600원",
+          "discount_rate": 34,
+          "priceAt": "10.15 08:02",
+          "image": "https://shopping.toss.im/live/taca/ai/NTRjZTAw/QUxYemE1UFh3NGxBQXMrdFQ2OU43S0toYUFBTEZLSUVJNHEya3ZxVlhvYnY.png",
+          "url": "https://toss.shopping/_m/V8WZCPbm",
+          "_ts": 1792018955.198588,
+          "_flash": true,
+          "_product_id": "1378172323"
+        },
+        {
+          "name": "믈레폴 와치아테 멸균우유 3.5%, 1L, 12개",
+          "price": "18,900원",
+          "discount_rate": 58,
+          "priceAt": "10.15 08:02",
+          "image": "https://shopping.toss.im/live/temp/2025-11-17/e31cbdde-834f-4ae7-ba0d-81fd6f026fda.jpeg",
+          "url": "https://toss.shopping/_m/tRv17EEz",
+          "_ts": 1792018955.198542,
+          "_flash": true,
+          "_product_id": "166927491"
+        },
+        {
           "name": "똑순이 알고니 알탕, 700g, 2개",
           "price": "13,900원",
           "discount_rate": 44,
@@ -2272,39 +2305,6 @@
           "url": "https://toss.shopping/_m/lXmI0jGz",
           "_ts": 1791593740.675663,
           "_product_id": "281371629"
-        },
-        {
-          "name": "농가살리기 여수 순살갈치, 150g, 10팩",
-          "price": "29,900원",
-          "discount_rate": 42,
-          "priceAt": "10.10 08:02",
-          "image": "https://shopping.toss.im/live/taca/ai/NTE3Zjg3/QTZLMWJaNnp4Qm1rUGpXS3VyVzJHYlZxOEQzUWoxaXd1bzhpNDZvTy9pTT0.png",
-          "url": "https://toss.shopping/_m/VeH4oo3m",
-          "_ts": 1791586929.213402,
-          "_flash": true,
-          "_product_id": "82249363"
-        },
-        {
-          "name": "아스파시아 PDRN 수분재생 미스트, 150ml, 1+1 구성, 총 2개",
-          "price": "8,410원",
-          "discount_rate": 88,
-          "priceAt": "10.10 08:02",
-          "image": "https://shopping.toss.im/live/temp/2026-08-05/1ebd207b-7816-4caa-8b31-ce5d7a84c878.jpeg",
-          "url": "https://toss.shopping/_m/roX2dv6r",
-          "_ts": 1791586929.21337,
-          "_flash": true,
-          "_product_id": "2577805473"
-        },
-        {
-          "name": "데이지 선풍기커버, 데이지, 3P",
-          "price": "5,900원",
-          "discount_rate": 70,
-          "priceAt": "10.10 08:02",
-          "image": "https://shopping.toss.im/live/product/7739615/2d35041f-d1e9-44ef-94e8-defaeecd3215.jpeg",
-          "url": "https://toss.shopping/_m/h1oalEid",
-          "_ts": 1791586929.213322,
-          "_flash": true,
-          "_product_id": "31983731"
         }
       ]
     },
