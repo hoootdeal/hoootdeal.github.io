@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "웅진 생차 녹차, 500ml, 20개",
+          "price": "10,650원",
+          "discount_rate": 22,
+          "priceAt": "10.14 13:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/07/11/1/fa12adfe-8433-43ef-adeb-eda4d40104a9.jpg",
+          "url": "https://link.coupang.com/a/hPKZLTqacu",
+          "_ts": 1791950903.8607402
+        },
+        {
           "name": "롯데제과 퀘이커 마시는오트밀 오트&그레인, 50g, 20개, 50g × 20개",
           "price": "17,440원",
           "discount_rate": 38,
