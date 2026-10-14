@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하루온 붙이는 핫팩 50g, 3개",
+          "price": "5,310원",
+          "discount_rate": 50,
+          "priceAt": "10.15 07:37",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/25877847612117-c18acddc-40e7-4288-93ce-f2dec25514c8.png",
+          "url": "https://link.coupang.com/a/hQ2gJPdVcW",
+          "_ts": 1792017463.885036
+        },
+        {
           "name": "목캔디 허브 민트, 217g, 3개",
           "price": "7,880원",
           "discount_rate": 21,
@@ -1149,33 +1158,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1336208241695305-e012fda0-d85a-4db4-a0cd-0ecefa0bc790.jpg",
           "url": "https://link.coupang.com/a/hIMpaS25bo",
           "_ts": 1791587693.5454478
-        },
-        {
-          "name": "풀무원 얄피꽉찬 쌀 물만두 (냉동), 1kg, 1개",
-          "price": "5,990원",
-          "discount_rate": 41,
-          "priceAt": "10.10 07:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/878123044725723-83f8b2eb-935b-487d-968a-9d88a9bc51cb.jpg",
-          "url": "https://link.coupang.com/a/hIIKplQZBQ",
-          "_ts": 1791584622.646486
-        },
-        {
-          "name": "오리온 진한 디저트 케익 오뜨 치즈, 156g, 4개",
-          "price": "8,200원",
-          "discount_rate": 25,
-          "priceAt": "10.10 07:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/11920667541771-89f37190-efbd-41b8-89c0-fe2d2a7420c0.jpg",
-          "url": "https://link.coupang.com/a/hIIAF67Z48",
-          "_ts": 1791584491.22507
-        },
-        {
-          "name": "그릭데이 그릭요거트 시그니처, 100g, 3개, 100g × 3개",
-          "price": "6,980원",
-          "discount_rate": 37,
-          "priceAt": "10.10 07:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/431654984436990-ed796f2e-b32c-4911-ac2b-2dcb863159d1.jpg",
-          "url": "https://link.coupang.com/a/hIH6YuZl7I",
-          "_ts": 1791584090.010636
         }
       ]
     },
