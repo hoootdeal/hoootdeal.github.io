@@ -1158,15 +1158,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/239114803017380-dc4ab663-350c-4501-b274-3b2970c32128.jpg",
           "url": "https://link.coupang.com/a/hHmgTYVqrA",
           "_ts": 1791513695.0669131
-        },
-        {
-          "name": "남양유업주식회사 불가리스 요거트 딸기 8개입, 640g, 1개",
-          "price": "2,990원",
-          "discount_rate": 50,
-          "priceAt": "10.09 10:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/205325401107738-f4c2201b-d7e7-47a9-a80c-70d345261456.jpg",
-          "url": "https://link.coupang.com/a/hHhYfO1kR2",
-          "_ts": 1791510083.833935
         }
       ]
     },
@@ -1175,6 +1166,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "리쥬베닐 파이토베리어 호호바 EGF 크림, 100g, 1개",
+          "price": "11,520원",
+          "discount_rate": 76,
+          "priceAt": "10.14 10:50",
+          "image": "https://shopping.toss.im/live/taca/ai/N2YxZWI3/QUlReTNtdyt4MjErMHNlMG5Gc2hwSWxDUXB5R2Y4SEhyNk5jSGp0Tk91TFE.png",
+          "url": "https://toss.shopping/_m/jflJFYPt",
+          "_ts": 1791942623.991719,
+          "_product_id": "1179275865"
+        },
         {
           "name": "청년참기름, 350ml, 1개 + 청년들기름, 350ml, 1개",
           "price": "15,800원",
