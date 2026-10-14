@@ -1176,6 +1176,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "팬톤 보조배터리, PTPB-04, 10000mAh, 네이비, 1개",
+          "price": "8,300원",
+          "discount_rate": 79,
+          "priceAt": "10.15 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-09-22/e26d0aab-939e-4b14-8312-7bab988ac74a.jpeg",
+          "url": "https://toss.shopping/_m/fBg3OYD9",
+          "_ts": 1791990097.234734,
+          "_flash": true,
+          "_product_id": "2422858481"
+        },
+        {
+          "name": "광천김 3대째 달인 김자반, 60g, 5봉",
+          "price": "6,900원",
+          "discount_rate": 56,
+          "priceAt": "10.15 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/NTk0MWRl/QUtXN3ZDbFc2M2x6VjZ0NWIycFQ1dGF0T1dmVHJXRzFyMXJVV1hENjFPYk4.png",
+          "url": "https://toss.shopping/_m/RqnHVpo3",
+          "_ts": 1791990097.2346969,
+          "_flash": true,
+          "_product_id": "225174587"
+        },
+        {
+          "name": "햇반 윤기가득 쌀밥, 210g, 24개",
+          "price": "18,900원",
+          "discount_rate": 45,
+          "priceAt": "10.15 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/ZjBlNDQ3/V0dTOUhyWWNjMnhQbTQyMkdjWm1aZXh2R1pIeE1NTm5BN0U4bWV2QncyUT0.png",
+          "url": "https://toss.shopping/_m/r1LTNpAC",
+          "_ts": 1791990097.234648,
+          "_flash": true,
+          "_product_id": "135279271"
+        },
+        {
           "name": "로투스 비스코프 샌드 바닐라맛, 150g, 9개",
           "price": "11,300원",
           "discount_rate": 71,
@@ -2276,28 +2309,6 @@
           "_ts": 1791558100.910998,
           "_flash": true,
           "_product_id": "841042383"
-        },
-        {
-          "name": "푸디헤븐 꾸지뽕 왕족발, 1kg, 2개",
-          "price": "15,900원",
-          "discount_rate": 40,
-          "priceAt": "10.10 00:01",
-          "image": "https://shopping.toss.im/live/taca/ai/MmMwNWM2/UFR1ZXlpbHpja3c5a1pra1R3bnBadXBKSnBDMXBxRWhWclpVcFZTcHF0WT0.png",
-          "url": "https://toss.shopping/_m/lkXB8dkC",
-          "_ts": 1791558072.686016,
-          "_flash": true,
-          "_product_id": "145684253"
-        },
-        {
-          "name": "구첩반찬 양념고추무침, 1kg, 1개",
-          "price": "4,800원",
-          "discount_rate": 51,
-          "priceAt": "10.10 00:01",
-          "image": "https://shopping.toss.im/live/taca/ai/YmMyY2E4/T1o2WTNNem5wa1BtRy9ZNHZra2VRNGVKNDVpWjdPNU9ZbVpnY3VjT2Q2QT0.png",
-          "url": "https://toss.shopping/_m/RANwSQIp",
-          "_ts": 1791558072.6860008,
-          "_flash": true,
-          "_product_id": "984690425"
         }
       ]
     },
