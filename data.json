@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "올가홀푸드 우리콩 진간장, 420ml, 1개, 420ml × 1개",
+          "price": "9,970원",
+          "discount_rate": 25,
+          "priceAt": "10.14 16:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/282618615091207-c53d1815-26c8-4d1c-a918-2ceeed21c3ec.jpg",
+          "url": "https://link.coupang.com/a/hP0uhRvrBk",
+          "_ts": 1791963911.8677828
+        },
+        {
           "name": "콘푸로스트 시리얼, 660g, 1개, 660g × 1개",
           "price": "4,520원",
           "discount_rate": 30,
@@ -1149,15 +1158,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/61788956410489-31b3e291-e6be-4746-b158-f26f7a8c4c2f.jpg",
           "url": "https://link.coupang.com/a/hHKqd5whMW",
           "_ts": 1791533972.74909
-        },
-        {
-          "name": "스니커즈 미니스 초코바, 1.098kg, 1개, 1.098kg × 1개",
-          "price": "15,440원",
-          "discount_rate": 22,
-          "priceAt": "10.09 16:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/49b5/c29ee2867fe57eca8b642274470022a4d946e78494cff41827f56d560959.jpg",
-          "url": "https://link.coupang.com/a/hHFT2zOTXE",
-          "_ts": 1791530177.8059258
         }
       ]
     },
@@ -2242,16 +2242,6 @@
           "url": "https://toss.shopping/_m/vLUxRIVl",
           "_ts": 1791536594.9605591,
           "_product_id": "166416251"
-        },
-        {
-          "name": "초록매실 스파클링 제로, 350ml, 20개",
-          "price": "9,900원",
-          "discount_rate": 50,
-          "priceAt": "10.09 16:19",
-          "image": "https://shopping.toss.im/live/taca/ai/OTg1MDQ2/QUpadXBhRjlLNHZaZmxSQ1k2bVRHMGxVN0tjbktaQ05pVkpycThOTm5CYWw.png",
-          "url": "https://toss.shopping/_m/Pb5l6IFj",
-          "_ts": 1791530358.533839,
-          "_product_id": "36410559"
         }
       ]
     },
