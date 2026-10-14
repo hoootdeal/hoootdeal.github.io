@@ -1176,6 +1176,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "똑순이 알고니 알탕, 700g, 2개",
+          "price": "13,900원",
+          "discount_rate": 44,
+          "priceAt": "10.15 08:02",
+          "image": "https://shopping.toss.im/live/temp/2025-12-22/f70530aa-bca4-4ff0-81e0-8acc9e5edaec.jpeg",
+          "url": "https://toss.shopping/_m/jr1xrTLo",
+          "_ts": 1792018928.806377,
+          "_flash": true,
+          "_product_id": "588319967"
+        },
+        {
+          "name": "슬림떡볶이 로제맛, 230g, 4개",
+          "price": "5,530원",
+          "discount_rate": 64,
+          "priceAt": "10.15 08:02",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MzgzYjc2/QUlYSDJaK1huZzlNUHh0dVhleFo4YXp3ZkpoeEJmbE10djZodDA2QUZIbno.png",
+          "url": "https://toss.shopping/_m/3lrWbCFy",
+          "_ts": 1792018928.8063319,
+          "_flash": true,
+          "_product_id": "2482486143"
+        },
+        {
+          "name": "당연구소 귀리뻥, 40g, 10봉",
+          "price": "8,900원",
+          "discount_rate": 77,
+          "priceAt": "10.15 08:02",
+          "image": "https://shopping.toss.im/live/taca/ai/OGYwNTBl/QUlsTXpubVdiTzlOYTB4WXpkbHNtUTR4MlRtc0xZMzJzSVkxaDd6N1JGcEQ.png",
+          "url": "https://toss.shopping/_m/hwarW9V1",
+          "_ts": 1792018928.80628,
+          "_flash": true,
+          "_product_id": "1054244129"
+        },
+        {
           "name": "팬톤 보조배터리, PTPB-04, 10000mAh, 네이비, 1개",
           "price": "8,300원",
           "discount_rate": 79,
@@ -1372,17 +1405,6 @@
           "_ts": 1791932577.286417,
           "_flash": true,
           "_product_id": "2658405359"
-        },
-        {
-          "name": "슬림떡볶이 로제맛, 230g, 4개",
-          "price": "5,530원",
-          "discount_rate": 64,
-          "priceAt": "10.14 08:02",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MzgzYjc2/QUlYSDJaK1huZzlNUHh0dVhleFo4YXp3ZkpoeEJmbE10djZodDA2QUZIbno.png",
-          "url": "https://toss.shopping/_m/3lrWbCFy",
-          "_ts": 1791932577.286378,
-          "_flash": true,
-          "_product_id": "2482486143"
         },
         {
           "name": "베베앙 시그니처 물티슈 캡형, 100매, 10팩",
