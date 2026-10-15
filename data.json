@@ -1185,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1923113138955452-4367705e-420b-46b4-93f1-3bb495f5526e.jpg",
           "url": "https://link.coupang.com/a/hJhhqrMcCq",
           "_ts": 1791613616.524585
-        },
-        {
-          "name": "올리타리아 퓨어 올리브유, 1L, 1개, 1L × 1개",
-          "price": "15,000원",
-          "discount_rate": 27,
-          "priceAt": "10.10 14:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/305f/fd0a6118a2538e915c754a604ec550587a50fab54ba517783d5ad645a658.jpg",
-          "url": "https://link.coupang.com/a/hJdjpA2UVw",
-          "_ts": 1791610283.042293
         }
       ]
     },
@@ -1202,6 +1193,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "살림백서 덴탈케어 구강 스프레이, 민트향, 14ml, 3개입, 1개",
+          "price": "7,510원",
+          "discount_rate": 60,
+          "priceAt": "10.15 14:35",
+          "image": "https://shopping.toss.im/live/temp/2025-10-14/adabeb5b-5566-4c4e-b48d-525b9f6977b0.jpeg",
+          "url": "https://toss.shopping/_m/P7kuw59B",
+          "_ts": 1792042534.0869749,
+          "_product_id": "255388277"
+        },
         {
           "name": "동원 덴마크 인포켓치즈 오리지널, 20g, 30개",
           "price": "16,920원",
