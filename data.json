@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "비비고 춘천식 철판닭갈비 (냉동), 700g, 2개",
+          "price": "11,880원",
+          "discount_rate": 44,
+          "priceAt": "10.15 14:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/254574897577222-0fb31571-e0c7-42a8-a51e-ce8063b0b8d3.jpg",
+          "url": "https://link.coupang.com/a/hRuOjaIUI8",
+          "_ts": 1792041425.965245
+        },
+        {
           "name": "에코맘의산골이유식 산골쌀참, 시금치, 25g, 2개",
           "price": "2,700원",
           "discount_rate": 50,
@@ -2323,16 +2332,6 @@
           "url": "https://toss.shopping/_m/HmGS3Veh",
           "_ts": 1791618300.547905,
           "_product_id": "2621891757"
-        },
-        {
-          "name": "페페브루노 엑스트라버진 올리브 오일, 1L, 2개",
-          "price": "23,900원",
-          "discount_rate": 65,
-          "priceAt": "10.10 13:50",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjA2ZGYw/QU9oYzVEKy9zcHczbGZCenlVS1ByTFpBanp5MDcveUxTNVZEK2J5VlVuUzg.png",
-          "url": "https://toss.shopping/_m/bPlp2hbB",
-          "_ts": 1791607844.335986,
-          "_product_id": "303280721"
         }
       ]
     },
