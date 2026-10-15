@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "존쿡델리미트 이탈리안 살라미, 50g, 3개",
+          "price": "11,840원",
+          "discount_rate": 38,
+          "priceAt": "10.15 20:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/e01401ac-e63d-4181-9150-9cc74349ca483361968541050620414.png",
+          "url": "https://link.coupang.com/a/hRXnmsyhIi",
+          "_ts": 1792065411.8970509
+        },
+        {
           "name": "사조오양 맛살E, 500g, 1개, 500g × 1개",
           "price": "2,350원",
           "discount_rate": 42,
@@ -2354,26 +2363,6 @@
           "_ts": 1791644468.990788,
           "_flash": true,
           "_product_id": "422519001"
-        },
-        {
-          "name": "플로비즈 자연 커피꽃꿀 대용량꿀, 2kg, 1개",
-          "price": "14,900원",
-          "discount_rate": 75,
-          "priceAt": "10.10 20:38",
-          "image": "https://shopping.toss.im/live/taca/ai/N2M5ZGNh/WXFmdzhaNWFIUTlodE1Kd3Jvczh6MWtjM3o3bVlmVFVHbytiTC9WUTlkQT0.png",
-          "url": "https://toss.shopping/_m/vQx8oUsd",
-          "_ts": 1791632325.43388,
-          "_product_id": "103364953"
-        },
-        {
-          "name": "배스킨라빈스 망고탱고 밀키소다, 350ml, 12개",
-          "price": "7,900원",
-          "discount_rate": 67,
-          "priceAt": "10.10 20:10",
-          "image": "https://shopping.toss.im/live/temp/2026-08-25/ed3603a7-8d0d-4ca6-809d-4d809b921e91.png",
-          "url": "https://toss.shopping/_m/xWO3Othc",
-          "_ts": 1791630616.323115,
-          "_product_id": "2635767803"
         }
       ]
     },
