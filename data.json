@@ -1176,15 +1176,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/e37cb730-64b1-4c84-aafb-d03bdb06022a_fixing_v2.png",
           "url": "https://link.coupang.com/a/hJAIzEjvBQ",
           "_ts": 1791629937.007561
-        },
-        {
-          "name": "스카치브라이트 베이직 미세먼지 정전기 청소포 60매, 37 x 19 cm, 1개",
-          "price": "4,040원",
-          "discount_rate": 60,
-          "priceAt": "10.10 17:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/894c/2707fafea455fdb3e170bc179054d8f77e729a60cadbbc358c9f939e8337.JPG",
-          "url": "https://link.coupang.com/a/hJn8MosFEX",
-          "_ts": 1791619377.954175
         }
       ]
     },
@@ -1193,6 +1184,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "그린올린 경기미, 2026년산, 상등급, 3kg, 1개",
+          "price": "9,300원",
+          "discount_rate": 41,
+          "priceAt": "10.15 17:07",
+          "image": "https://shopping.toss.im/live/temp/2026-09-10/55851334-c30c-461c-a789-adc2b4b05dc3.png",
+          "url": "https://toss.shopping/_m/HZkb4FXy",
+          "_ts": 1792051654.772728,
+          "_product_id": "278980557"
+        },
         {
           "name": "외갓집 남도식 들녘 추어탕, 450g, 3팩",
           "price": "8,620원",
@@ -2335,16 +2336,6 @@
           "url": "https://toss.shopping/_m/B39d4Q6m",
           "_ts": 1791621212.2418292,
           "_product_id": "2548634659"
-        },
-        {
-          "name": "맘스케이크 플랫파운드, 혼합, 50g, 20개",
-          "price": "9,300원",
-          "discount_rate": 61,
-          "priceAt": "10.10 16:45",
-          "image": "https://shopping.toss.im/live/temp/2026-09-11/000e96a6-7249-4341-815e-053dabad7e08.png",
-          "url": "https://toss.shopping/_m/HmGS3Veh",
-          "_ts": 1791618300.547905,
-          "_product_id": "2621891757"
         }
       ]
     },
