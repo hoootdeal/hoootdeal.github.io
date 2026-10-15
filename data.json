@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데웰푸드 바삭바삭 크런키 모나카 (냉동), 12개, 1개입, 150ml",
+          "price": "10,850원",
+          "discount_rate": 32,
+          "priceAt": "10.16 07:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/325664957819764-0d87750d-2698-43f1-8ccb-645583e93987.jpg",
+          "url": "https://link.coupang.com/a/hSHeyrnSaO",
+          "_ts": 1792103913.4376872
+        },
+        {
           "name": "오리온초코파이 말차쇼콜라 12p, 408g, 1개",
           "price": "3,600원",
           "discount_rate": 25,
@@ -1230,15 +1239,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1769771036835856-3b159a01-d9f7-4087-bd60-828b67ca2fa5.jpg",
           "url": "https://link.coupang.com/a/hKrZ6IIH7I",
           "_ts": 1791674674.60371
-        },
-        {
-          "name": "본셉 레티날 콜라겐 부스팅샷 앰플, 30ml, 1개",
-          "price": "2,280원",
-          "discount_rate": 71,
-          "priceAt": "10.11 07:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/323121636697432-dafb178e-a30e-4f31-bb9b-8551bc76c5df.jpeg",
-          "url": "https://link.coupang.com/a/hKn2mGP39M",
-          "_ts": 1791671344.684436
         }
       ]
     },
