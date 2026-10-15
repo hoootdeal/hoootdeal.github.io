@@ -1194,6 +1194,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "연세두유 뼈를 생각한 고칼슘 두유 칼마디, 190ml, 검은콩 24개 + 호두아몬드 24개, 1세트",
+          "price": "18,190원",
+          "discount_rate": 54,
+          "priceAt": "10.15 17:46",
+          "image": "https://shopping.toss.im/live/temp/2026-10-07/bb5eb43d-0fc5-4f1d-a875-50146b58e91c.jpeg",
+          "url": "https://toss.shopping/_m/Vfzk5o1A",
+          "_ts": 1792053980.107589,
+          "_product_id": "2635608599"
+        },
+        {
           "name": "그린올린 경기미, 2026년산, 상등급, 3kg, 1개",
           "price": "9,300원",
           "discount_rate": 41,
@@ -2335,16 +2345,6 @@
           "url": "https://toss.shopping/_m/nume4A77",
           "_ts": 1791626517.0290828,
           "_product_id": "205874565"
-        },
-        {
-          "name": "웨이크비 콜드브루 원액 브라질 세하도, 1L, 1병",
-          "price": "5,900원",
-          "discount_rate": 54,
-          "priceAt": "10.10 17:33",
-          "image": "https://shopping.toss.im/live/temp/2026-09-04/32f7cf27-c736-4acc-9c0d-552e882e6102.jpeg",
-          "url": "https://toss.shopping/_m/B39d4Q6m",
-          "_ts": 1791621212.2418292,
-          "_product_id": "2548634659"
         }
       ]
     },
