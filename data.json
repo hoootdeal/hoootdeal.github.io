@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데웰푸드 죠스바 미니 (냉동), 1개, 12개입, 25ml",
+          "price": "2,870원",
+          "discount_rate": 40,
+          "priceAt": "10.15 09:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/459018209660743-573f2753-79de-4a3e-b3f3-8522494de18b.jpg",
+          "url": "https://link.coupang.com/a/hQ9qZZzB6a",
+          "_ts": 1792023480.375485
+        },
+        {
           "name": "크라운 참쌀 설병 128g x 2p + 선과 115g x 2p, 2세트",
           "price": "12,350원",
           "discount_rate": 20,
@@ -1158,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/18/14/3/f15e2dcd-986f-4129-a567-d1274e8e2ffd.jpg",
           "url": "https://link.coupang.com/a/hITvTiUVq0",
           "_ts": 1791593662.054396
-        },
-        {
-          "name": "유니온천년알카리수, 500ml, 20개, 500ml × 20개",
-          "price": "8,800원",
-          "discount_rate": 32,
-          "priceAt": "10.10 09:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/7230520424135356-798245af-6d1e-48ff-832d-a8a51dff335f.jpg",
-          "url": "https://link.coupang.com/a/hIQpOQhMbc",
-          "_ts": 1791591060.451061
         }
       ]
     },
