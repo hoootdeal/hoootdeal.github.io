@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "파워에이드 제로, 600ml, 20개",
+          "price": "14,990원",
+          "discount_rate": 20,
+          "priceAt": "10.16 08:05",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5393230486688-34423626-75ea-47f7-b83c-bd0f3ca24d99.jpg",
+          "url": "https://link.coupang.com/a/hSJaqiuOei",
+          "_ts": 1792105539.0230138
+        },
+        {
           "name": "도밍고 꿀차 3종 선물세트, 꿀홍차 10p + ..., 1세트, 꿀홍차 10p + 꿀민트 10p + 꿀캐모마일 10p",
           "price": "8,000원",
           "discount_rate": 37,
@@ -2363,28 +2372,6 @@
           "url": "https://toss.shopping/_m/3N3SQbgm",
           "_ts": 1791683175.227571,
           "_product_id": "2566955185"
-        },
-        {
-          "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-          "price": "4,990원",
-          "discount_rate": 66,
-          "priceAt": "10.11 08:02",
-          "image": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
-          "url": "https://toss.shopping/_m/dXoRinis",
-          "_ts": 1791673344.28802,
-          "_flash": true,
-          "_product_id": "2621363823"
-        },
-        {
-          "name": "푸드앳홈 새우젓, 1kg, 2개",
-          "price": "13,600원",
-          "discount_rate": 54,
-          "priceAt": "10.11 08:02",
-          "image": "https://shopping.toss.im/live/taca/ai/MTI3ZWU1/QVB6ak5zUFExa3BPUjRacERWOE5aUzM0T0pZOGdQaWN0bGZnQitQNEF2Qys.png",
-          "url": "https://toss.shopping/_m/dFkRejv8",
-          "_ts": 1791673344.287987,
-          "_flash": true,
-          "_product_id": "7727769"
         }
       ]
     },
