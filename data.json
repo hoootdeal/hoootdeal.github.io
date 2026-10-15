@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에코맘의산골이유식 산골쌀참, 시금치, 25g, 2개",
+          "price": "2,700원",
+          "discount_rate": 50,
+          "priceAt": "10.15 13:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c6357cc8-08d8-41a7-906a-14d91714d9224713891168301242545.png",
+          "url": "https://link.coupang.com/a/hRqshMztgi",
+          "_ts": 1792037771.499875
+        },
+        {
           "name": "웅진 애사비 파인애플, 500ml, 24개",
           "price": "13,890원",
           "discount_rate": 20,
