@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "마이니 지니키즈 면역 비타젤리 15p, 225g, 3개",
+          "price": "23,280원",
+          "discount_rate": 29,
+          "priceAt": "10.16 08:34",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/216997280133574-74d5754b-2a05-4b1b-8541-8d6f5dae3c66.jpg",
+          "url": "https://link.coupang.com/a/hSLghb9c0y",
+          "_ts": 1792107296.495096
+        },
+        {
           "name": "파워에이드 제로, 600ml, 20개",
           "price": "14,990원",
           "discount_rate": 20,
@@ -1248,15 +1257,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/64977849450463-d60cfa5f-2296-4c40-95aa-2c57ab40d6bd.jpg",
           "url": "https://link.coupang.com/a/hKvbs0lu68",
           "_ts": 1791677348.740926
-        },
-        {
-          "name": "아일레스 디럭스 티백 애플, 2.5g, 25개입, 1개",
-          "price": "10,500원",
-          "discount_rate": 21,
-          "priceAt": "10.11 08:24",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1769771036835856-3b159a01-d9f7-4087-bd60-828b67ca2fa5.jpg",
-          "url": "https://link.coupang.com/a/hKrZ6IIH7I",
-          "_ts": 1791674674.60371
         }
       ]
     },
