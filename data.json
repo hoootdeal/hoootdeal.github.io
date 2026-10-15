@@ -1221,6 +1221,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "고기중독 통삼겹살, 구이용, 보쌈용, 2kg, 1개",
+          "price": "19,300원",
+          "discount_rate": 61,
+          "priceAt": "10.15 19:42",
+          "image": "https://shopping.toss.im/live/taca/ai/ZTI0ZDUx/YWFWL0Z1YkRUVHpKSnNXVHVUeVRiTWVHZVR6Q2NRK0diUzJscnBhVTBsaz0.png",
+          "url": "https://toss.shopping/_m/BWLzhqkr",
+          "_ts": 1792060965.450269,
+          "_product_id": "675441533"
+        },
+        {
           "name": "부산포차 꼬치어묵, 400g, 3봉",
           "price": "9,900원",
           "discount_rate": 37,
