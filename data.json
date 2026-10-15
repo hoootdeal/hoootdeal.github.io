@@ -1230,6 +1230,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "진주햄 천하장사 오리지널, 15g, 100개입, 1개",
+          "price": "15,260원",
+          "discount_rate": 55,
+          "priceAt": "10.15 21:31",
+          "image": "https://shopping.toss.im/live/taca/ai/MWYyNjM3/QU5uWmJJYVdaRnNtYm1hMjJXV3pZazIxbTVtMHl4dG0yU1RZV1h1Y09iYms.png",
+          "url": "https://toss.shopping/_m/jtOl8Vz4",
+          "_ts": 1792067476.5122821,
+          "_product_id": "1638808315"
+        },
+        {
           "name": "고기중독 통삼겹살, 구이용, 보쌈용, 2kg, 1개",
           "price": "19,300원",
           "discount_rate": 61,
