@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바프 군옥수수맛 아몬드, 120g, 3개",
+          "price": "6,000원",
+          "discount_rate": 40,
+          "priceAt": "10.15 16:35",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/53102190387624-32e75608-1d75-485e-b1d2-73661ff32000.jpg",
+          "url": "https://link.coupang.com/a/hREIOj2Xym",
+          "_ts": 1792049749.3414779
+        },
+        {
           "name": "에뛰드 NEW 마이 래쉬 세럼 속눈썹 영양제, 18g, 1개, 18g × 1개",
           "price": "2,300원",
           "discount_rate": 68,
@@ -1176,24 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/894c/2707fafea455fdb3e170bc179054d8f77e729a60cadbbc358c9f939e8337.JPG",
           "url": "https://link.coupang.com/a/hJn8MosFEX",
           "_ts": 1791619377.954175
-        },
-        {
-          "name": "베베쿡 처음 먹는 배도라지 유아 음료, 100ml, 배도라지맛",
-          "price": "14,340원",
-          "discount_rate": 28,
-          "priceAt": "10.10 16:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/236223835907716-05ecd384-f598-40db-a460-61601e545c34.jpg",
-          "url": "https://link.coupang.com/a/hJlUi6VfWK",
-          "_ts": 1791617500.914569
-        },
-        {
-          "name": "락토핏 생유산균 키즈, 60회분, 120g, 1개",
-          "price": "10,200원",
-          "discount_rate": 23,
-          "priceAt": "10.10 16:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/9922/e0bba215dce8a08833ca58e58fac4ee321255d7dc1950fc83110926737de.jpg",
-          "url": "https://link.coupang.com/a/hJldAg2Aqi",
-          "_ts": 1791616921.8448691
         }
       ]
     },
