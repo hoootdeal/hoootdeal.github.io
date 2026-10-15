@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에뛰드 NEW 마이 래쉬 세럼 속눈썹 영양제, 18g, 1개, 18g × 1개",
+          "price": "2,300원",
+          "discount_rate": 68,
+          "priceAt": "10.15 16:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/875714781626900-1a26b81c-72cc-4d8e-8b96-c1d8332e326d.jpg",
+          "url": "https://link.coupang.com/a/hRCf1Ac9Cu",
+          "_ts": 1792047680.7717602
+        },
+        {
           "name": "스탠리 퀜처 프로투어 플립스트로 텀블러, 하이드렌지아, 1.18L, 1개",
           "price": "34,150원",
           "discount_rate": 31,
@@ -1185,15 +1194,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/9922/e0bba215dce8a08833ca58e58fac4ee321255d7dc1950fc83110926737de.jpg",
           "url": "https://link.coupang.com/a/hJldAg2Aqi",
           "_ts": 1791616921.8448691
-        },
-        {
-          "name": "넛츠그린 100% 무가당 땅콩버터 스무스, 200g, 1개, 200g × 1개",
-          "price": "5,830원",
-          "discount_rate": 30,
-          "priceAt": "10.10 15:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1923113138955452-4367705e-420b-46b4-93f1-3bb495f5526e.jpg",
-          "url": "https://link.coupang.com/a/hJhhqrMcCq",
-          "_ts": 1791613616.524585
         }
       ]
     },
