@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "웅진 애사비 파인애플, 500ml, 24개",
+          "price": "13,890원",
+          "discount_rate": 20,
+          "priceAt": "10.15 13:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/07/11/1/1f22f693-521f-40a9-ab59-edbf8b292191.jpg",
+          "url": "https://link.coupang.com/a/hRpvnexLlA",
+          "_ts": 1792036973.323018
+        },
+        {
           "name": "코코비도로시 아동용 투앤디 양말 5족세트, 혼합 색상, 6호",
           "price": "8,160원",
           "discount_rate": 57,
@@ -1176,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/62061438249122-18421894-c5e7-4929-b253-a475810a9ce6.jpg",
           "url": "https://link.coupang.com/a/hI9wuG5nLE",
           "_ts": 1791607103.6258402
-        },
-        {
-          "name": "이즈니 AOP 버터롤, 250g, 2개",
-          "price": "17,550원",
-          "discount_rate": 34,
-          "priceAt": "10.10 12:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/36907454202619-9c7066ac-acf5-4231-adfa-67fab1a1a6d2.jpg",
-          "url": "https://link.coupang.com/a/hI5gzbsybc",
-          "_ts": 1791603530.237229
         }
       ]
     },
