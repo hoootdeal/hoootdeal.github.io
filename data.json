@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크라운 참쌀 설병 128g x 2p + 선과 115g x 2p, 2세트",
+          "price": "12,350원",
+          "discount_rate": 20,
+          "priceAt": "10.15 09:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/414678144892521-7853126d-8009-464d-b45d-6f25c3eee5c5.jpg",
+          "url": "https://link.coupang.com/a/hQ8ljLt01c",
+          "_ts": 1792022563.08806
+        },
+        {
           "name": "올반 얇은피 인생왕교자 (냉동), 1.05kg, 1개, 1.05kg × 1개",
           "price": "6,350원",
           "discount_rate": 22,
@@ -1158,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/7230520424135356-798245af-6d1e-48ff-832d-a8a51dff335f.jpg",
           "url": "https://link.coupang.com/a/hIQpOQhMbc",
           "_ts": 1791591060.451061
-        },
-        {
-          "name": "더존건강 한끼곤약젤리 스위트 패키지 28개입, 4.2L, 1세트, 4.2L × 1세트",
-          "price": "10,040원",
-          "discount_rate": 34,
-          "priceAt": "10.10 08:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1336208241695305-e012fda0-d85a-4db4-a0cd-0ecefa0bc790.jpg",
-          "url": "https://link.coupang.com/a/hIMpaS25bo",
-          "_ts": 1791587693.5454478
         }
       ]
     },
