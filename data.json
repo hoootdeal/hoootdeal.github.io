@@ -1203,6 +1203,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "부산포차 꼬치어묵, 400g, 3봉",
+          "price": "9,900원",
+          "discount_rate": 37,
+          "priceAt": "10.15 18:34",
+          "image": "https://shopping.toss.im/live/taca/ai/NmE0Yzk5/UkFySGthUFRZNlZsbUxKY1NWWGtyVnNpQ3I4SHZ3bTJsbkowbThTdm5RRT0.png",
+          "url": "https://toss.shopping/_m/F4m1jcXy",
+          "_ts": 1792056847.802606,
+          "_product_id": "174755365"
+        },
+        {
           "name": "연세두유 뼈를 생각한 고칼슘 두유 칼마디, 190ml, 검은콩 24개 + 호두아몬드 24개, 1세트",
           "price": "18,190원",
           "discount_rate": 54,
