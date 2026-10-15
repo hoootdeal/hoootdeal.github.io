@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 김치 생 수제비 2인분, 423.2g, 2개",
+          "price": "7,000원",
+          "discount_rate": 46,
+          "priceAt": "10.15 11:35",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/a747006b-81a4-4e23-8619-f40ea7178d4d5734071853586486666.png",
+          "url": "https://link.coupang.com/a/hRjfEV8656",
+          "_ts": 1792031721.0397608
+        },
+        {
           "name": "오뚜기 미트 볼로냐 파스타4인, 1.292kg, 1개, 1.292kg × 1개",
           "price": "6,690원",
           "discount_rate": 32,
