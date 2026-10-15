@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "까사니 인덕션 쿠치나 멀티팟 냄비 4.3L, 16cm, 1개",
+          "price": "18,890원",
+          "discount_rate": 39,
+          "priceAt": "10.15 10:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/110337044539427-c591bed9-880c-49f7-86c1-31586e8e6dd6.jpg",
+          "url": "https://link.coupang.com/a/hRc3XXxM7M",
+          "_ts": 1792026525.926847
+        },
+        {
           "name": "롯데웰푸드 죠스바 미니 (냉동), 1개, 12개입, 25ml",
           "price": "2,870원",
           "discount_rate": 40,
@@ -1158,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/02/17/11/4/48e7c963-1c46-48a4-8701-7dd23b1e1110.jpg",
           "url": "https://link.coupang.com/a/hIXFEWPQvk",
           "_ts": 1791597152.890643
-        },
-        {
-          "name": "코오롱제약 로얄 실크알부민 맥스 30p + 쇼핑백, 600ml, 1개",
-          "price": "18,900원",
-          "discount_rate": 52,
-          "priceAt": "10.10 09:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/18/14/3/f15e2dcd-986f-4129-a567-d1274e8e2ffd.jpg",
-          "url": "https://link.coupang.com/a/hITvTiUVq0",
-          "_ts": 1791593662.054396
         }
       ]
     },
@@ -2295,16 +2295,6 @@
           "url": "https://toss.shopping/_m/Z35QHPu3",
           "_ts": 1791605888.169091,
           "_product_id": "2363230809"
-        },
-        {
-          "name": "매콤 넓적다리, 1.25kg, 10개입, 1팩",
-          "price": "16,700원",
-          "discount_rate": 52,
-          "priceAt": "10.10 09:55",
-          "image": "https://shopping.toss.im/live/taca/ai/OTgwNTI3/YmFLeThvNldTK1p6U3JpMGFtdFF4Y2UyeXUxSkZnd2w0dHFzY1N6aHBETT0.png",
-          "url": "https://toss.shopping/_m/lXmI0jGz",
-          "_ts": 1791593740.675663,
-          "_product_id": "281371629"
         }
       ]
     },
