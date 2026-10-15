@@ -1167,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/2354a491-184a-4676-ae91-1a53908af62f_fixing_v2.png",
           "url": "https://link.coupang.com/a/hI1IsHxaO4",
           "_ts": 1791600549.701827
-        },
-        {
-          "name": "하이뮨 프로틴 밸런스 저당 음료, 190ml, 24개, 190ml × 24개",
-          "price": "19,990원",
-          "discount_rate": 21,
-          "priceAt": "10.10 10:52",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/02/17/11/4/48e7c963-1c46-48a4-8701-7dd23b1e1110.jpg",
-          "url": "https://link.coupang.com/a/hIXFEWPQvk",
-          "_ts": 1791597152.890643
         }
       ]
     },
@@ -1184,6 +1175,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "산들청과 가정용 샤인머스켓, 7-8수, 4kg, 1박스",
+          "price": "14,900원",
+          "discount_rate": 68,
+          "priceAt": "10.15 11:09",
+          "image": "https://shopping.toss.im/live/temp/2026-09-02/ddb16d61-f049-4920-8958-b0acaa74cc88.png",
+          "url": "https://toss.shopping/_m/xpPlmJBd",
+          "_ts": 1792030196.433131,
+          "_product_id": "2643080943"
+        },
         {
           "name": "로마나 달콤바삭 황금 고구마칩, 320g, 4개",
           "price": "13,700원",
