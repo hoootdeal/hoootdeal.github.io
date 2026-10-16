@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "동원 미니 돈까스 (냉동), 900g, 1개, 900g × 1개",
+          "price": "4,880원",
+          "discount_rate": 30,
+          "priceAt": "10.16 21:23",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/02/17/18/8/f0238701-8af2-4c76-b9f7-87f0287396ad.jpg",
+          "url": "https://link.coupang.com/a/hTD9IkDMUm",
+          "_ts": 1792153388.139052
+        },
+        {
           "name": "국내산 깐쪽파, 200g, 1개, 200g × 1개",
           "price": "2,780원",
           "discount_rate": 41,
@@ -1284,24 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/7184001046540945-d8f25f82-430f-4f87-9312-7af994540208.jpg",
           "url": "https://link.coupang.com/a/hLovZ1bi8W",
           "_ts": 1791723806.710022
-        },
-        {
-          "name": "오랄비 스테이지스 3단계 어린이 칫솔, 어벤져스 랜덤발송, 9개, 1개입",
-          "price": "10,000원",
-          "discount_rate": 69,
-          "priceAt": "10.11 20:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/29970209747803-41a465e2-37b9-484d-b3e7-8c5635f1640d.jpg",
-          "url": "https://link.coupang.com/a/hLjLyH8SAu",
-          "_ts": 1791719818.560371
-        },
-        {
-          "name": "쁘띠첼 포도 과일젤리, 210g, 6개, 210g × 6개",
-          "price": "8,880원",
-          "discount_rate": 38,
-          "priceAt": "10.11 20:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/140072731034760-09a98d3a-1298-4ccc-a5ae-f72a53735b3c.jpg",
-          "url": "https://link.coupang.com/a/hLixylOe84",
-          "_ts": 1791718788.8281128
         }
       ]
     },
@@ -2429,26 +2420,6 @@
           "_ts": 1791730866.4864461,
           "_flash": true,
           "_product_id": "727989761"
-        },
-        {
-          "name": "식물성 대마종자유 엔 탑 1000 맥스, 1000mg, 60캡슐, 3개",
-          "price": "15,220원",
-          "discount_rate": 93,
-          "priceAt": "10.11 21:19",
-          "image": "https://shopping.toss.im/live/taca/ai/NTk5MWQ2/QU1zTWh6YXc5Sm1wM29ja3Rkd2xjZW0rQjU0Y1A0T3IwL0JZdzVhbzBueHA.png",
-          "url": "https://toss.shopping/_m/Hy1qDPTD",
-          "_ts": 1791721163.9452841,
-          "_product_id": "54177991"
-        },
-        {
-          "name": "맥콜 제로슈거, 190ml, 30개",
-          "price": "7,600원",
-          "discount_rate": 57,
-          "priceAt": "10.11 20:35",
-          "image": "https://shopping.toss.im/live/temp/2026-08-10/e86bf3ee-b559-4aff-bb2b-4ae73b937ba2.jpeg",
-          "url": "https://toss.shopping/_m/zBTA95rD",
-          "_ts": 1791718541.685545,
-          "_product_id": "2599642785"
         }
       ]
     },
