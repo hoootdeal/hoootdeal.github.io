@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "올면 속초식 명태회냉면 2인분 (냉동), 1.12kg, 1개",
+          "price": "7,150원",
+          "discount_rate": 27,
+          "priceAt": "10.16 11:22",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2023/04/21/10/0/0ee45ca0-a080-460a-bff8-638ca591e297.jpg",
+          "url": "https://link.coupang.com/a/hSXcCaZBcW",
+          "_ts": 1792117322.850622
+        },
+        {
           "name": "오뚜기 UNO 크리스피 빅핫도그 (냉동), 120g, 4개입, 2개",
           "price": "9,330원",
           "discount_rate": 31,
@@ -1248,15 +1257,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1161460397735646-b8869915-aaf1-45f2-8774-5b6267eef547.jpg",
           "url": "https://link.coupang.com/a/hKIbKCd64G",
           "_ts": 1791688268.687697
-        },
-        {
-          "name": "불닭볶음면 140g, 5개",
-          "price": "4,020원",
-          "discount_rate": 20,
-          "priceAt": "10.11 11:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/344801787593852-567aaca7-a965-4d97-adc9-4214051864f5.png",
-          "url": "https://link.coupang.com/a/hKDRwQlHxI",
-          "_ts": 1791684632.6636019
         }
       ]
     },
@@ -2382,16 +2382,6 @@
           "url": "https://toss.shopping/_m/ZeD5h2pB",
           "_ts": 1791685591.8693771,
           "_product_id": "2579196295"
-        },
-        {
-          "name": "냉동 삶은 홍찰옥수수, 특대, 20개",
-          "price": "12,800원",
-          "discount_rate": 74,
-          "priceAt": "10.11 10:46",
-          "image": "https://shopping.toss.im/live/temp/2026-08-03/c90260c4-8abf-47f1-9fdb-7960eb309bfa.png",
-          "url": "https://toss.shopping/_m/3N3SQbgm",
-          "_ts": 1791683175.227571,
-          "_product_id": "2566955185"
         }
       ]
     },
