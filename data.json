@@ -1284,15 +1284,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/z5d49ujj/f031e83369fc4e12abaf31c8b06deb8f.jpg",
           "url": "https://link.coupang.com/a/hKVz3htUkK",
           "_ts": 1791699511.1460428
-        },
-        {
-          "name": "닥터유 다이제 씬, 252g, 4개, 252g × 4개",
-          "price": "9,420원",
-          "discount_rate": 21,
-          "priceAt": "10.11 14:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/987534839808633-b68d6350-34b9-45f2-886c-de70f809fffb.jpg",
-          "url": "https://link.coupang.com/a/hKRBMky5xQ",
-          "_ts": 1791696175.100933
         }
       ]
     },
@@ -1301,6 +1292,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "모둠 광천 김자반, 40g, 10봉",
+          "price": "10,410원",
+          "discount_rate": 52,
+          "priceAt": "10.16 14:50",
+          "image": "https://shopping.toss.im/live/taca/ai/Nzc5ZWMz/WnR1dGFWTHRZY3hhSkIwellhM0czT0pKMXRhazB5a3JXV1JVNXQxRW90UT0.png",
+          "url": "https://toss.shopping/_m/7nNHXved",
+          "_ts": 1792129805.644503,
+          "_product_id": "78767229"
+        },
         {
           "name": "배스킨라빈스 메롱 멜론 우유 190ml, 24개",
           "price": "7,600원",
@@ -2398,16 +2399,6 @@
           "url": "https://toss.shopping/_m/Fu4GKwbs",
           "_ts": 1791705862.70121,
           "_product_id": "2368859981"
-        },
-        {
-          "name": "배스킨라빈스 레인보우 샤베트 워터, 500ml, 6개 + 피치요거트 워터, 500ml, 6개, 1세트",
-          "price": "7,900원",
-          "discount_rate": 73,
-          "priceAt": "10.11 14:42",
-          "image": "https://shopping.toss.im/live/temp/2026-09-04/a83819ac-4c7e-4fa3-96b3-36c8b4ffe8e4.png",
-          "url": "https://toss.shopping/_m/REMvht3A",
-          "_ts": 1791697335.3502269,
-          "_product_id": "2644552917"
         }
       ]
     },
