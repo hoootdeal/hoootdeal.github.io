@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "보넬드 아이엠 토마토주스 100% NFC 착즙주스, 1개, 1L",
+          "price": "7,140원",
+          "discount_rate": 30,
+          "priceAt": "10.16 22:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/59c9/6e9804df224c0b3fc922e231701981cc28fcbdc7e016ef975e1f45fe5d04.jpg",
+          "url": "https://link.coupang.com/a/hTIgCHMiei",
+          "_ts": 1792156840.104428
+        },
+        {
           "name": "동원 미니 돈까스 (냉동), 900g, 1개, 900g × 1개",
           "price": "4,880원",
           "discount_rate": 30,
@@ -1284,15 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/101854448065053-b93ef6b7-4f38-4684-bdb6-0ae38c76a6c0.png",
           "url": "https://link.coupang.com/a/hL1mZ9DjhI",
           "_ts": 1791756429.878635
-        },
-        {
-          "name": "국내산 얼갈이, 800g, 1개, 800g × 1개",
-          "price": "2,340원",
-          "discount_rate": 46,
-          "priceAt": "10.11 22:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/7184001046540945-d8f25f82-430f-4f87-9312-7af994540208.jpg",
-          "url": "https://link.coupang.com/a/hLovZ1bi8W",
-          "_ts": 1791723806.710022
         }
       ]
     },
