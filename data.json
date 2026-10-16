@@ -1302,6 +1302,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "뉴클 에어볼트 PD 22.5W 고속충전 보조배터리, 20000mAh, 화이트, 1개",
+          "price": "10,960원",
+          "discount_rate": 59,
+          "priceAt": "10.17 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-05-29/befd18b1-7ec0-41d3-9af4-2f81ec793d45.jpeg",
+          "url": "https://toss.shopping/_m/PtuUzD73",
+          "_ts": 1792162874.2191901,
+          "_flash": true,
+          "_product_id": "2140892329"
+        },
+        {
+          "name": "순살 양념 목살구이, 600g, 3개",
+          "price": "14,670원",
+          "discount_rate": 63,
+          "priceAt": "10.17 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/MTkyMTNl/QUp0cFQ3Q0pXZmd5QjZ5NVNYY0dRSDdqUWlGdzU4TS96S29CZU5JYVgwemc.png",
+          "url": "https://toss.shopping/_m/NFoQdxTA",
+          "_ts": 1792162874.219158,
+          "_flash": true,
+          "_product_id": "1179530071"
+        },
+        {
+          "name": "대식가 일키로 고추군만두, 1kg, 3팩",
+          "price": "15,810원",
+          "discount_rate": 45,
+          "priceAt": "10.17 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-02-03/726b3825-826d-4879-b3d7-2a5eb82ea74f.jpeg",
+          "url": "https://toss.shopping/_m/lByN7Omw",
+          "_ts": 1792162874.2191129,
+          "_flash": true,
+          "_product_id": "129952247"
+        },
+        {
           "name": "올챌린지 뽑아쓰는 3겹 키친타월 그레이, 100매, 9개",
           "price": "6,900원",
           "discount_rate": 65,
@@ -2401,39 +2434,6 @@
           "_ts": 1791730892.4481149,
           "_flash": true,
           "_product_id": "1411541507"
-        },
-        {
-          "name": "일화 부르르 제로콜라 수박, 제로, 수박맛, 250ml, 30캔",
-          "price": "9,600원",
-          "discount_rate": 46,
-          "priceAt": "10.12 00:01",
-          "image": "https://shopping.toss.im/live/taca/ai/OWZjMzA2/QU85VWgyOTk3NmxlZWNSV3RBeTc3U3ZzNitrcmxqYVcxdW5BclZ2NXhGKzU.png",
-          "url": "https://toss.shopping/_m/hxRDuDRv",
-          "_ts": 1791730866.486527,
-          "_flash": true,
-          "_product_id": "129990591"
-        },
-        {
-          "name": "상온발효 그릭 요거트 스타터 플레인, 2g, 10포, 6박스",
-          "price": "15,900원",
-          "discount_rate": 77,
-          "priceAt": "10.12 00:01",
-          "image": "https://shopping.toss.im/live/temp/2025-12-03/60a596b2-88c3-4f01-8e28-a55435b3dc4f.jpeg",
-          "url": "https://toss.shopping/_m/Vu385tvo",
-          "_ts": 1791730866.486495,
-          "_flash": true,
-          "_product_id": "363977187"
-        },
-        {
-          "name": "사바나나 바나나칩, 100g, 5봉",
-          "price": "10,000원",
-          "discount_rate": 69,
-          "priceAt": "10.12 00:01",
-          "image": "https://shopping.toss.im/live/taca/ai/Y2U3NWE3/QU8wMjJQaktXOGJTVklsaktUNUp6a3lFeWJadFprVXAxcDFVMGV1cFZOZXI.png",
-          "url": "https://toss.shopping/_m/b9TbX4ud",
-          "_ts": 1791730866.4864461,
-          "_flash": true,
-          "_product_id": "727989761"
         }
       ]
     },
