@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이롬 과채습관 퍼플, 190ml, 16개",
+          "price": "7,480원",
+          "discount_rate": 28,
+          "priceAt": "10.17 08:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1770362018459706-beb55921-c9c5-49f1-8c94-5370eb62ad75.jpg",
+          "url": "https://link.coupang.com/a/hUoNkdAyKi",
+          "_ts": 1792192545.636527
+        },
+        {
           "name": "닥터페퍼 제로, 350ml, 24개",
           "price": "12,490원",
           "discount_rate": 21,
