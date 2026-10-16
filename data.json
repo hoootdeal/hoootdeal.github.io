@@ -1284,15 +1284,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/04/01/11/3/1eb4b3ab-72b8-49ef-9f44-6f449821df0f.jpg",
           "url": "https://link.coupang.com/a/hK3D8oBqsC",
           "_ts": 1791706283.487676
-        },
-        {
-          "name": "크래프트 아보카도 오일 마요네즈, 1개, 354ml",
-          "price": "3,680원",
-          "discount_rate": 35,
-          "priceAt": "10.11 16:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2500175984165037-c5085c18-0a61-4b4b-b304-e5d02658f7e8.jpg",
-          "url": "https://link.coupang.com/a/hKZRDja7O0",
-          "_ts": 1791703103.710274
         }
       ]
     },
@@ -1301,6 +1292,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "터치 탄산 워싱소다, 스푼 포함, 5kg, 1팩",
+          "price": "6,260원",
+          "discount_rate": 60,
+          "priceAt": "10.16 16:25",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MzRjNTkx/Y3R6cEdIWllteVdOc283RGplSTg2WFBqOEwzakM4MldpRTNRWHRCMUQ2RT0.png",
+          "url": "https://toss.shopping/_m/3rm8GqZA",
+          "_ts": 1792135547.179271,
+          "_product_id": "1078924497"
+        },
         {
           "name": "모둠 광천 김자반, 40g, 10봉",
           "price": "10,410원",
