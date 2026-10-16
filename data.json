@@ -1257,6 +1257,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "지퍼 멀티 크로스백, 블랙, 1개",
+          "price": "5,490원",
+          "discount_rate": 83,
+          "priceAt": "10.17 08:02",
+          "image": "https://shopping.toss.im/live/temp/2026-07-10/9f52160b-fd2a-492f-8b5e-66abc4d77f94.jpeg",
+          "url": "https://toss.shopping/_m/DiYHqjI3",
+          "_ts": 1792191738.620123,
+          "_flash": true,
+          "_product_id": "2460861557"
+        },
+        {
+          "name": "산들내음 산림방사 유정란, 난각번호 1번, 60구, 1박스",
+          "price": "22,900원",
+          "discount_rate": 59,
+          "priceAt": "10.17 08:02",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MDc5ODhh/QVBBY01NMEE0YksydGdiYnB4TjlZSmJNWTRkTkU0S2VjSkJQV0dkQkxOZmw.png",
+          "url": "https://toss.shopping/_m/F5Mxnua3",
+          "_ts": 1792191738.620092,
+          "_flash": true,
+          "_product_id": "2451254379"
+        },
+        {
+          "name": "연세두유 고단백 PRO 플레인, 240ml, 32개",
+          "price": "32,900원",
+          "discount_rate": 63,
+          "priceAt": "10.17 08:02",
+          "image": "https://shopping.toss.im/live/temp/2026-10-12/98c293e2-25b8-4616-9afe-edefe141605c.jpeg",
+          "url": "https://toss.shopping/_m/ty4IPAf7",
+          "_ts": 1792191738.620047,
+          "_flash": true,
+          "_product_id": "1975074559"
+        },
+        {
           "name": "GNM 자연의품격 건강한 간 밀크씨슬, 500mg, 30정, 3개",
           "price": "10,090원",
           "discount_rate": 59,
