@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "락피도 알티지 오메가3 츄어블 키즈, 90정, 1개",
+          "price": "13,500원",
+          "discount_rate": 29,
+          "priceAt": "10.16 09:13",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/96296987441104-08bbd759-e1ea-42d2-bae7-7055e25bc00e.png",
+          "url": "https://link.coupang.com/a/hSN2AykEgK",
+          "_ts": 1792109630.71329
+        },
+        {
           "name": "마이니 지니키즈 면역 비타젤리 15p, 225g, 3개",
           "price": "23,280원",
           "discount_rate": 29,
@@ -1248,15 +1257,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/188274765108118-cb0f8b72-c1ff-44df-8207-b6863bcb1adc.jpg",
           "url": "https://link.coupang.com/a/hKwF1OUuJg",
           "_ts": 1791678602.232575
-        },
-        {
-          "name": "이디야커피연구소 아이스 아메리카노, 1L, 6개",
-          "price": "11,940원",
-          "discount_rate": 39,
-          "priceAt": "10.11 09:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/64977849450463-d60cfa5f-2296-4c40-95aa-2c57ab40d6bd.jpg",
-          "url": "https://link.coupang.com/a/hKvbs0lu68",
-          "_ts": 1791677348.740926
         }
       ]
     },
