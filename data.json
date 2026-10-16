@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쉬크 쉐이브가드 워시 앤 쉐이빙폼, 210g, 1개",
+          "price": "2,410원",
+          "discount_rate": 37,
+          "priceAt": "10.16 12:24",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/01/12/11/4/3f74e2e7-a093-404e-be20-7a41acfd105f.jpg",
+          "url": "https://link.coupang.com/a/hS1DY7asNw",
+          "_ts": 1792121052.0724502
+        },
+        {
           "name": "토레타 이온음료, 240ml, 30개",
           "price": "11,750원",
           "discount_rate": 20,
@@ -1266,15 +1275,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/13929166511944-7cabbe29-5319-4548-aa71-d860c82841a1.png",
           "url": "https://link.coupang.com/a/hKJdYPfunI",
           "_ts": 1791689135.597785
-        },
-        {
-          "name": "캐나다드라이 진저에일 토닉, 250ml, 30개, 250ml × 30개",
-          "price": "11,900원",
-          "discount_rate": 21,
-          "priceAt": "10.11 12:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1161460397735646-b8869915-aaf1-45f2-8774-5b6267eef547.jpg",
-          "url": "https://link.coupang.com/a/hKIbKCd64G",
-          "_ts": 1791688268.687697
         }
       ]
     },
