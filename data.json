@@ -1284,15 +1284,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9070/30c2a4a1d863fc0e3e61d325aade98230f82bf917a9b9a3819b920e725c3.jpg",
           "url": "https://link.coupang.com/a/hLeM6MASZM",
           "_ts": 1791715640.024998
-        },
-        {
-          "name": "냉장고바지 여성 와이드 밴딩 팬츠 살랑살랑 냉감소재 여름 통풍바지 베이잉, 핑크, F(권장55-77)",
-          "price": "3,000원",
-          "discount_rate": 37,
-          "priceAt": "10.11 18:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/a3d9/9cfbaafbe0ad6ebe9dfd2506f944fb364223325f214330872a25abc76fe7.jpg",
-          "url": "https://link.coupang.com/a/hLausaf4A8",
-          "_ts": 1791712029.7021692
         }
       ]
     },
@@ -1301,6 +1292,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "웰스코어 메가도스 비타민C 3000 메가 맥스, 3g, 100포, 1개",
+          "price": "8,310원",
+          "discount_rate": 83,
+          "priceAt": "10.16 19:13",
+          "image": "https://shopping.toss.im/live/taca/ai/NjEzZDMy/WG15YnVET2VNbWZzN0RDVDNNVE96TXljTTVuampNenBlTFF6SGpNa2pIWT0.png",
+          "url": "https://toss.shopping/_m/jeUDGL02",
+          "_ts": 1792145633.880639,
+          "_product_id": "688244365"
+        },
         {
           "name": "이브네 코트니 생리대, 대형, 14매입, 4팩",
           "price": "6,700원",
@@ -2408,16 +2409,6 @@
           "url": "https://toss.shopping/_m/zBTA95rD",
           "_ts": 1791718541.685545,
           "_product_id": "2599642785"
-        },
-        {
-          "name": "신선맘 미국산 구운 땅콩, 2kg, 1개",
-          "price": "12,690원",
-          "discount_rate": 68,
-          "priceAt": "10.11 19:11",
-          "image": "https://shopping.toss.im/live/taca/ai/MDM2MWZi/V2hKMDArVnNpYkd6WWNiZTFMWTVHUm1lNUhIaVU5dmxsVmdtQnVxb2NmND0.png",
-          "url": "https://toss.shopping/_m/ldVvTzYa",
-          "_ts": 1791713474.800637,
-          "_product_id": "109806747"
         }
       ]
     },
