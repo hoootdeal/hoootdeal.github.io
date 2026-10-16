@@ -1293,15 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/140072731034760-09a98d3a-1298-4ccc-a5ae-f72a53735b3c.jpg",
           "url": "https://link.coupang.com/a/hLixylOe84",
           "_ts": 1791718788.8281128
-        },
-        {
-          "name": "오리온 고소미, 70g, 6개",
-          "price": "3,780원",
-          "discount_rate": 35,
-          "priceAt": "10.11 19:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9070/30c2a4a1d863fc0e3e61d325aade98230f82bf917a9b9a3819b920e725c3.jpg",
-          "url": "https://link.coupang.com/a/hLeM6MASZM",
-          "_ts": 1791715640.024998
         }
       ]
     },
@@ -1310,6 +1301,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "산지로드 숯불 매콤오돌뼈, 300g, 4팩",
+          "price": "13,320원",
+          "discount_rate": 41,
+          "priceAt": "10.16 20:19",
+          "image": "https://shopping.toss.im/live/temp/2025-12-29/b1e2036f-3dc0-4c8c-9f35-abd07ed2e5e4.jpeg",
+          "url": "https://toss.shopping/_m/fHMWvDps",
+          "_ts": 1792149567.054112,
+          "_product_id": "2601750975"
+        },
         {
           "name": "소소락 북촌 항아리 얼큰수제비 6인분, 면다해 생수제비 1kg + 고추장 수제비소스 50g 6개, 1세트",
           "price": "5,900원",
