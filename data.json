@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아베나 프레쉬그립 비닐장갑 플렉스, 200개입, 1개, 200개입 × 1개",
+          "price": "2,990원",
+          "discount_rate": 36,
+          "priceAt": "10.16 12:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/438162628100863-617b0e1c-5e59-467f-b6f3-878e3eaf0e0e.jpg",
+          "url": "https://link.coupang.com/a/hS30BDi1Rs",
+          "_ts": 1792123036.594944
+        },
+        {
           "name": "쉬크 쉐이브가드 워시 앤 쉐이빙폼, 210g, 1개",
           "price": "2,410원",
           "discount_rate": 37,
@@ -1266,15 +1275,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/327417244281148-6417d458-129e-49f9-ac00-b361645ddff6.jpg",
           "url": "https://link.coupang.com/a/hKNlmwh3YG",
           "_ts": 1791692593.827241
-        },
-        {
-          "name": "홈스타 락스와 세제 3X 폼 스프레이 후로랄, 500ml, 1개",
-          "price": "2,400원",
-          "discount_rate": 31,
-          "priceAt": "10.11 12:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/13929166511944-7cabbe29-5319-4548-aa71-d860c82841a1.png",
-          "url": "https://link.coupang.com/a/hKJdYPfunI",
-          "_ts": 1791689135.597785
         }
       ]
     },
