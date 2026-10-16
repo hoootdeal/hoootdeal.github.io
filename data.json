@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "토레타 이온음료, 240ml, 30개",
+          "price": "11,750원",
+          "discount_rate": 20,
+          "priceAt": "10.16 12:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1066292452839793-97c72331-7150-44b7-8df8-71694d61b22a.jpg",
+          "url": "https://link.coupang.com/a/hSZYG62guG",
+          "_ts": 1792119654.345778
+        },
+        {
           "name": "드시모네 프로바이오틱스 캡슐 플러스 1000억 40.2g, 60정, 1개",
           "price": "35,900원",
           "discount_rate": 36,
