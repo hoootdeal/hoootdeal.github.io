@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "참좋은식품 가마솥의 구수한 별미 누룽지, 200g, 10개, 200g × 10개",
+          "price": "13,800원",
+          "discount_rate": 25,
+          "priceAt": "10.16 18:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/cb6f/99117b78e533f233c767c80d926afe9ab4b4ca1135393c17dfc59f114c30.jpg",
+          "url": "https://link.coupang.com/a/hTrJTplpFk",
+          "_ts": 1792142961.8362932
+        },
+        {
           "name": "카누 바리스타 브리즈 캡슐커피머신, DSB-DN(캐슬 그레이), CASTLEGREY",
           "price": "45,630원",
           "discount_rate": 39,
@@ -1284,15 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/a3d9/9cfbaafbe0ad6ebe9dfd2506f944fb364223325f214330872a25abc76fe7.jpg",
           "url": "https://link.coupang.com/a/hLausaf4A8",
           "_ts": 1791712029.7021692
-        },
-        {
-          "name": "로메인 상추, 200g, 1개, 200g × 1개",
-          "price": "1,980원",
-          "discount_rate": 49,
-          "priceAt": "10.11 18:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/8313504820794042-0c253629-031b-4202-930b-ae11005ca8fb.jpg",
-          "url": "https://link.coupang.com/a/hK7JcMWuOG",
-          "_ts": 1791709710.5540311
         }
       ]
     },
@@ -2418,16 +2418,6 @@
           "url": "https://toss.shopping/_m/7x9pPPOt",
           "_ts": 1791711670.469478,
           "_product_id": "129332283"
-        },
-        {
-          "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
-          "price": "6,930원",
-          "discount_rate": 88,
-          "priceAt": "10.11 17:48",
-          "image": "https://shopping.toss.im/live/temp/2026-09-23/9072bbae-8462-4cc2-ab82-8c9b161d4680.png",
-          "url": "https://toss.shopping/_m/JsatPcRl",
-          "_ts": 1791708481.75948,
-          "_product_id": "2653093475"
         }
       ]
     },
