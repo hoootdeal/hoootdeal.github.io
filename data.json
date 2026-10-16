@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "유로푸드 유기농 레몬주스, 500ml, 2개, 500ml × 2개",
+          "price": "9,930원",
+          "discount_rate": 21,
+          "priceAt": "10.16 17:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/97926624493614-a16df7d1-6099-48f4-a3d7-42cafc7f27fb.jpg",
+          "url": "https://link.coupang.com/a/hTmgbRMld6",
+          "_ts": 1792138363.0847092
+        },
+        {
           "name": "썬키스트 제로 복숭아레몬 소다, 600ml, 24개, 600ml × 24개",
           "price": "13,840원",
           "discount_rate": 37,
@@ -1275,15 +1284,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/8313504820794042-0c253629-031b-4202-930b-ae11005ca8fb.jpg",
           "url": "https://link.coupang.com/a/hK7JcMWuOG",
           "_ts": 1791709710.5540311
-        },
-        {
-          "name": "포스트 오레오오즈 요거트큐브 시리얼, 1개, 400g",
-          "price": "5,610원",
-          "discount_rate": 36,
-          "priceAt": "10.11 17:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/04/01/11/3/1eb4b3ab-72b8-49ef-9f44-6f449821df0f.jpg",
-          "url": "https://link.coupang.com/a/hK3D8oBqsC",
-          "_ts": 1791706283.487676
         }
       ]
     },
