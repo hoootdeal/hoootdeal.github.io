@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "국내산 깐쪽파, 200g, 1개, 200g × 1개",
+          "price": "2,780원",
+          "discount_rate": 41,
+          "priceAt": "10.16 20:23",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4215368233178-d1de6af8-4daf-49ae-a225-d7061754098e.jpg",
+          "url": "https://link.coupang.com/a/hTzRFBCRHM",
+          "_ts": 1792149784.716309
+        },
+        {
           "name": "케이맘 키즈 칫솔 2단계, 캔디핑크 + 스트라이크그레이 + 애플라임, 12개입, 1개",
           "price": "8,900원",
           "discount_rate": 64,
