@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "닥터페퍼 제로, 350ml, 24개",
+          "price": "12,490원",
+          "discount_rate": 21,
+          "priceAt": "10.17 07:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/114437925066562-e8d85298-7509-4912-ae2c-bf5083f168b4.jpg",
+          "url": "https://link.coupang.com/a/hUnnmPrbJ6",
+          "_ts": 1792191353.478848
+        },
+        {
           "name": "켈로그 현미 푸레이크, 550g, 1개, 550g × 1개",
           "price": "3,850원",
           "discount_rate": 48,
@@ -1239,69 +1248,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/10/24/15/8/b426f852-3624-4690-b54e-a93f8d538b33.jpg",
           "url": "https://link.coupang.com/a/hL8tVEOLGS",
           "_ts": 1791762399.8628721
-        },
-        {
-          "name": "더자리 내가 찾던 그 베개커버 2p, 뽀글비숑, 40 x 60 cm, 1세트",
-          "price": "6,310원",
-          "discount_rate": 43,
-          "priceAt": "10.12 07:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/770867025034783-2ba46f7a-6336-4d74-b84e-7cc13db14305.jpg",
-          "url": "https://link.coupang.com/a/hL4uRgV3o4",
-          "_ts": 1791759052.2760162
-        },
-        {
-          "name": "매일바이오 고단백 그릭요거트 드링크 무가당 플레인, 2개, 4개입, 150ml",
-          "price": "3,980원",
-          "discount_rate": 45,
-          "priceAt": "10.12 07:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/142678883584667-630ee73a-cff7-4be3-afca-fe75b6c295ed.jpg",
-          "url": "https://link.coupang.com/a/hL4gS2eBr2",
-          "_ts": 1791758863.5953128
-        },
-        {
-          "name": "존쿡 델리미트 전G베이컨, 200g, 2개",
-          "price": "3,760원",
-          "discount_rate": 60,
-          "priceAt": "10.12 07:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7651105524280593-0ace3691-e714-418c-910f-e134f42fadcb.jpg",
-          "url": "https://link.coupang.com/a/hL3qXsgxAi",
-          "_ts": 1791758161.329816
-        },
-        {
-          "name": "마녀공장 비피다 콤플렉스 앰플, 50ml, 2개",
-          "price": "16,000원",
-          "discount_rate": 49,
-          "priceAt": "10.12 07:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/31722635994409-496c6cc0-fd64-4c91-8ee6-db4463c65cd7.jpg",
-          "url": "https://link.coupang.com/a/hL2VBwTtU4",
-          "_ts": 1791757734.3443148
-        },
-        {
-          "name": "도제식빵 1.5cm, 600g, 1개",
-          "price": "4,390원",
-          "discount_rate": 31,
-          "priceAt": "10.12 07:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/233373329530013-91dad3a0-64c7-43f1-af53-5ede409fb784.jpg",
-          "url": "https://link.coupang.com/a/hL2FPs8Pkq",
-          "_ts": 1791757521.185874
-        },
-        {
-          "name": "나이키 볼러 농구공, BB9132-855, 7호, 1개",
-          "price": "9,160원",
-          "discount_rate": 59,
-          "priceAt": "10.12 07:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/71325980752583-b0f6039e-768e-435c-99bc-9770c3c26c84.jpg",
-          "url": "https://link.coupang.com/a/hL2ppivcMm",
-          "_ts": 1791757299.120515
-        },
-        {
-          "name": "순수한면 입는 오버나이트, 중대형, 8개입, 2개",
-          "price": "7,260원",
-          "discount_rate": 33,
-          "priceAt": "10.12 07:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/101854448065053-b93ef6b7-4f38-4684-bdb6-0ae38c76a6c0.png",
-          "url": "https://link.coupang.com/a/hL1mZ9DjhI",
-          "_ts": 1791756429.878635
         }
       ]
     },
