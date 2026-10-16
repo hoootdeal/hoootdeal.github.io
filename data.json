@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "드시모네 프로바이오틱스 캡슐 플러스 1000억 40.2g, 60정, 1개",
+          "price": "35,900원",
+          "discount_rate": 36,
+          "priceAt": "10.16 11:32",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/27726983813937-41cdce49-958d-4b6d-9435-80c6204a7412.jpg",
+          "url": "https://link.coupang.com/a/hSXXbGlmoK",
+          "_ts": 1792117952.593163
+        },
+        {
           "name": "올면 속초식 명태회냉면 2인분 (냉동), 1.12kg, 1개",
           "price": "7,150원",
           "discount_rate": 27,
@@ -2372,16 +2381,6 @@
           "url": "https://toss.shopping/_m/dTxCDUg7",
           "_ts": 1791694966.409387,
           "_product_id": "2611490143"
-        },
-        {
-          "name": "리스앤리드 파이토 PDRN 글로우 세럼, 30ml, 1개",
-          "price": "5,600원",
-          "discount_rate": 86,
-          "priceAt": "10.11 11:26",
-          "image": "https://shopping.toss.im/live/temp/2026-08-04/6010e66e-eb67-40b4-ab83-beda6a45a762.jpeg",
-          "url": "https://toss.shopping/_m/ZeD5h2pB",
-          "_ts": 1791685591.8693771,
-          "_product_id": "2579196295"
         }
       ]
     },
