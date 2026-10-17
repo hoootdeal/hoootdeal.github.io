@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쿠크다스 초코케이크 중, 121g, 2개, 121g × 2개",
+          "price": "5,620원",
+          "discount_rate": 31,
+          "priceAt": "10.17 09:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4fa9b8a8-a089-4525-89f6-698e5f9f280e2120629071975285287.png",
+          "url": "https://link.coupang.com/a/hUvZkDDAc0",
+          "_ts": 1792198585.226032
+        },
+        {
           "name": "청정원순창 저당 현미 고추장, 500g, 3개, 500g × 3개",
           "price": "11,380원",
           "discount_rate": 51,
