@@ -1131,33 +1131,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/ro33nwtz/e6d77a798ae74d4e8c65159f75b50b74.jpg",
           "url": "https://link.coupang.com/a/hMqCNNn8Xk",
           "_ts": 1791777633.8045208
-        },
-        {
-          "name": "베키아에누보 이탈리안 올리브 치아바타 8개입 (냉동), 800g, 1개",
-          "price": "6,160원",
-          "discount_rate": 35,
-          "priceAt": "10.12 12:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/ae9a/a73022c7af9439d4385faba0c7a2e6df854cb1f53a78437d534c5deae296.jpg",
-          "url": "https://link.coupang.com/a/hMo8WxRc9A",
-          "_ts": 1791776388.857733
-        },
-        {
-          "name": "햇반 스팸 김치 주먹밥 (냉동), 500g, 1개",
-          "price": "5,080원",
-          "discount_rate": 37,
-          "priceAt": "10.12 12:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/500021553917940-eb56ee40-b76f-49ad-a634-711b098d4990.jpg",
-          "url": "https://link.coupang.com/a/hMoODOhES4",
-          "_ts": 1791776113.6105
-        },
-        {
-          "name": "백설 햄스빌 굿베이컨, 75g, 1개",
-          "price": "900원",
-          "discount_rate": 55,
-          "priceAt": "10.12 12:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/y6g2hqxe/743dd1b84aae4416b61a2d59c6bd4764.jpg",
-          "url": "https://link.coupang.com/a/hMoKMLlqFg",
-          "_ts": 1791776061.4610822
         }
       ]
     },
@@ -1166,6 +1139,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "남다른 농수산 여수 돌산 갓김치, 5kg, 1개",
+          "price": "16,520원",
+          "discount_rate": 71,
+          "priceAt": "10.17 12:41",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDA3ODgy/RXRQSlB2OVEzd2tEL3ZQNy9sZXlTZDJTcGtobDlqdzZMQUNGc3JQczI3UT0.png",
+          "url": "https://toss.shopping/_m/FrZvL3F4",
+          "_ts": 1792208504.838224,
+          "_product_id": "1349815911"
+        },
         {
           "name": "번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
           "price": "5,300원",
@@ -2306,26 +2289,6 @@
           "url": "https://toss.shopping/_m/p06cChp3",
           "_ts": 1791791200.149117,
           "_product_id": "2517669083"
-        },
-        {
-          "name": "익스트림 듀얼 아르기닌 플러스, 120정, 1개",
-          "price": "8,390원",
-          "discount_rate": 72,
-          "priceAt": "10.12 12:41",
-          "image": "https://shopping.toss.im/live/temp/2026-08-23/05b26a20-46fe-4ba3-9324-c57e6372a7d7.jpeg",
-          "url": "https://toss.shopping/_m/de5L7YCf",
-          "_ts": 1791776490.385731,
-          "_product_id": "140116969"
-        },
-        {
-          "name": "맛팜 신 곱창볶음, 250g, 2개",
-          "price": "6,600원",
-          "discount_rate": 72,
-          "priceAt": "10.12 12:17",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/YWIzZjU3/QU92cGNPRXZIT2VhRUdPZlVxZXk4TXRLUDA4azAySkN6YXhEYldlVnpwTkk.png",
-          "url": "https://toss.shopping/_m/1wLSRBgx",
-          "_ts": 1791775060.504756,
-          "_product_id": "2536370261"
         }
       ]
     },
