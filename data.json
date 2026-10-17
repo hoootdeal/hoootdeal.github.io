@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "티젠 애사비소다 오리지널, 500ml, 24개",
+          "price": "10,450원",
+          "discount_rate": 47,
+          "priceAt": "10.17 10:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1778024901894816-225ef483-2723-4797-9e77-c2cdd18e2674.jpg",
+          "url": "https://link.coupang.com/a/hUx8cI5ECO",
+          "_ts": 1792200384.2533572
+        },
+        {
           "name": "쿠크다스 초코케이크 중, 121g, 2개, 121g × 2개",
           "price": "5,620원",
           "discount_rate": 31,
@@ -1185,42 +1194,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/06/20/10/6/bb043333-a9a5-4fe9-abfd-b1dafefe8ede.jpg",
           "url": "https://link.coupang.com/a/hMhsd131d6",
           "_ts": 1791769933.468896
-        },
-        {
-          "name": "블라우풍트 5단계 초정밀 길이조절 방수 LED 전문가용 이발기 + 충전 거치대 + 6종 빗살캡 세트 BLP-HC2200KYL",
-          "price": "29,900원",
-          "discount_rate": 47,
-          "priceAt": "10.12 10:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/995312531980536-0f403773-f6a5-4d31-9a50-9bba3f367f78.jpg",
-          "url": "https://link.coupang.com/a/hMfoo0U9ee",
-          "_ts": 1791768198.195201
-        },
-        {
-          "name": "하이포크 무항생제 인증 한돈 앞다리 제육용 (냉장), 1개, 300g",
-          "price": "3,810원",
-          "discount_rate": 43,
-          "priceAt": "10.12 10:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/394397037424369-7621be8b-2322-4d4a-afbc-1b4909d98451.jpg",
-          "url": "https://link.coupang.com/a/hMe90lSfS0",
-          "_ts": 1791768002.4615989
-        },
-        {
-          "name": "오마뎅 진짜 부산 떡볶이 (쌀떡) (냉동), 352g, 2개",
-          "price": "9,580원",
-          "discount_rate": 24,
-          "priceAt": "10.12 10:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/9173578694794-c3d6cce9-b01d-47a3-84ac-0275ee966db6.jpg",
-          "url": "https://link.coupang.com/a/hMeOSpDmjA",
-          "_ts": 1791767715.635639
-        },
-        {
-          "name": "베리밸리 칠레산 블루베리 (냉동), 1kg, 1개, 1kg × 1개",
-          "price": "7,500원",
-          "discount_rate": 30,
-          "priceAt": "10.12 10:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/614638642513690-b85b6f0f-76d8-4a4e-9c6c-0187a452881a.jpg",
-          "url": "https://link.coupang.com/a/hMeDQ8LF1w",
-          "_ts": 1791767567.946929
         }
       ]
     },
