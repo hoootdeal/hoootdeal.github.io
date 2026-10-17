@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "AOKOWN 지압슬리퍼 다이어트 붓기 건강 실내 사무실 슬리퍼 붓기, 핑크",
+          "price": "3,700원",
+          "discount_rate": 66,
+          "priceAt": "10.17 18:24",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ce36/8dc3c1de74c0ef3cea04839a89b0753d83a06c24617de626223281b44ab1.jpg",
+          "url": "https://link.coupang.com/a/hU6go7Prcy",
+          "_ts": 1792229041.7753248
+        },
+        {
           "name": "에코맘의산골이유식 산골 과일참 통째로 딸기칩, 7g, 4개",
           "price": "5,600원",
           "discount_rate": 42,
@@ -1122,24 +1131,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/qizablmd/c6e7ab649da04e7683dd14c59d787a81.jpg",
           "url": "https://link.coupang.com/a/hMRLgfquKO",
           "_ts": 1791800416.772929
-        },
-        {
-          "name": "서울마님죽 콘치즈 떡마리 (냉동), 100g, 1개입, 5개",
-          "price": "6,420원",
-          "discount_rate": 20,
-          "priceAt": "10.12 18:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/62880955139740-05b80fde-5dbf-4977-949d-254432993c98.jpg",
-          "url": "https://link.coupang.com/a/hMNIwDwKzc",
-          "_ts": 1791797021.368057
-        },
-        {
-          "name": "하남쭈꾸미 보통 매운맛 (냉동), 350g, 1개",
-          "price": "6,490원",
-          "discount_rate": 35,
-          "priceAt": "10.12 17:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4529754667557994-b97aed29-1642-439a-93b1-36ca02a05405.jpg",
-          "url": "https://link.coupang.com/a/hMJQSXsWnA",
-          "_ts": 1791793774.92177
         }
       ]
     },
@@ -2318,16 +2309,6 @@
           "url": "https://toss.shopping/_m/vt1ge8sB",
           "_ts": 1791801664.258626,
           "_product_id": "125833335"
-        },
-        {
-          "name": "에브리워터 무라벨, 2L, 12개",
-          "price": "5,590원",
-          "discount_rate": 53,
-          "priceAt": "10.12 18:21",
-          "image": "https://shopping.toss.im/live/taca/ai/OTQwYmZk/VnNiTWUrRnhjaGtmbW1IbWltMzh3L1hCTmpBUnVpSTdtbkg5aDF4SGlQND0.png",
-          "url": "https://toss.shopping/_m/huE10h7C",
-          "_ts": 1791796913.168534,
-          "_product_id": "12833123"
         }
       ]
     },
