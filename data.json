@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "곰곰 맥반석 구운란, 30구, 1개, 30구 × 1개",
+          "price": "9,800원",
+          "discount_rate": 20,
+          "priceAt": "10.17 19:22",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1742566438571959-53a5ab6a-b98d-4301-94ed-7b5c6d1d3b8c.jpg",
+          "url": "https://link.coupang.com/a/hVas8me8bY",
+          "_ts": 1792232575.520118
+        },
+        {
           "name": "AOKOWN 지압슬리퍼 다이어트 붓기 건강 실내 사무실 슬리퍼 붓기, 핑크",
           "price": "3,700원",
           "discount_rate": 66,
@@ -1122,15 +1131,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/523422684158824-8e11ce15-ec02-4674-bbb2-a25eaa258f5d.jpg",
           "url": "https://link.coupang.com/a/hMVRoM2ghg",
           "_ts": 1791803858.462739
-        },
-        {
-          "name": "쉐푸드 묵은지 참치 김밥, 291g, 1개",
-          "price": "2,720원",
-          "discount_rate": 41,
-          "priceAt": "10.12 19:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/qizablmd/c6e7ab649da04e7683dd14c59d787a81.jpg",
-          "url": "https://link.coupang.com/a/hMRLgfquKO",
-          "_ts": 1791800416.772929
         }
       ]
     },
