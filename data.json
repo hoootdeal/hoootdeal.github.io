@@ -1140,6 +1140,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풍연 꿀설기, 50g, 20개",
+          "price": "7,000원",
+          "discount_rate": 65,
+          "priceAt": "10.17 19:49",
+          "image": "https://shopping.toss.im/live/taca/ai/Y2Q0NjBl/Vkp5V1RocG9SU1F5MlZiRGlWTXM1RWRic0p4dEkxcmMwS056YUxaUEJwZz0.png",
+          "url": "https://toss.shopping/_m/tvLJxKLu",
+          "_ts": 1792234193.238019,
+          "_product_id": "151316073"
+        },
+        {
           "name": "프로프룻 시나노골드, 특품, 난좌포장, 3kg, 1박스",
           "price": "9,900원",
           "discount_rate": 81,
@@ -2309,16 +2319,6 @@
           "url": "https://toss.shopping/_m/j5dwfSTy",
           "_ts": 1791802997.11057,
           "_product_id": "31419195"
-        },
-        {
-          "name": "추추 추어탕, 500g, 4개",
-          "price": "8,900원",
-          "discount_rate": 50,
-          "priceAt": "10.12 19:41",
-          "image": "https://shopping.toss.im/live/taca/ai/MTg4Njhm/U1d5OS9La2dQbkVVdFhnNzhqQnVDNnRmSDZpVlNNSG5RNk1YUnFwV0xDND0.png",
-          "url": "https://toss.shopping/_m/vt1ge8sB",
-          "_ts": 1791801664.258626,
-          "_product_id": "125833335"
         }
       ]
     },
