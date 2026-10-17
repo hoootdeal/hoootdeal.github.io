@@ -1131,15 +1131,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/af05/b4e7559107a1d6705278061aedffdb6a0cc43109c9c49debe406805b6202.jpg",
           "url": "https://link.coupang.com/a/hMwSr3RnGu",
           "_ts": 1791782880.713762
-        },
-        {
-          "name": "퐁퐁 오렌지 오일 담은 친환경 주방세제 기분 좋은 오렌지향 리필, 1.2L, 2개",
-          "price": "3,110원",
-          "discount_rate": 34,
-          "priceAt": "10.12 13:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/477936751296096-ab574694-5f0c-4e72-b58d-fe0500999b69.jpg",
-          "url": "https://link.coupang.com/a/hMsy5hU4rI",
-          "_ts": 1791779261.3558888
         }
       ]
     },
@@ -1148,6 +1139,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "던킨 제로 아이스티, 화이트피치 500ml 6개 + 샤인앤라임 500ml 6개, 12개",
+          "price": "7,500원",
+          "discount_rate": 68,
+          "priceAt": "10.17 13:44",
+          "image": "https://shopping.toss.im/live/temp/2026-08-25/d1cbf35f-74b2-4757-9af7-57b15db20589.png",
+          "url": "https://toss.shopping/_m/tne3MLKa",
+          "_ts": 1792212288.152454,
+          "_product_id": "2635765919"
+        },
         {
           "name": "남다른 농수산 여수 돌산 갓김치, 5kg, 1개",
           "price": "16,520원",
