@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "왕뚜껑 미니 컵라면 80g, 16개",
+          "price": "9,370원",
+          "discount_rate": 30,
+          "priceAt": "10.18 07:22",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/82787139251640-51737792-5721-4988-92e7-2b73236c7c02.png",
+          "url": "https://link.coupang.com/a/hVZUCmGLvw",
+          "_ts": 1792275767.633804
+        },
+        {
           "name": "나우푸드 마그네슘 글리시네이트 타블렛, 180정, 2개, 180정 × 2개",
           "price": "27,370원",
           "discount_rate": 33,
@@ -1122,15 +1131,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/ecb433aa-9a99-4bdc-b96c-fe368f61813f7657173893139997288.png",
           "url": "https://link.coupang.com/a/hNInG6WP92",
           "_ts": 1791844597.1146472
-        },
-        {
-          "name": "브랜든 2세대 여행용 부피순삭 압축 파우치 세트, 스카이블루, S+S+M+L",
-          "price": "47,900원",
-          "discount_rate": 35,
-          "priceAt": "10.13 07:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/648359186560650-48dcf593-8200-4cf0-9261-27a7aa7e4e5b.jpg",
-          "url": "https://link.coupang.com/a/hNGeUtzyG4",
-          "_ts": 1791842800.2538319
         }
       ]
     },
