@@ -1212,15 +1212,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/614638642513690-b85b6f0f-76d8-4a4e-9c6c-0187a452881a.jpg",
           "url": "https://link.coupang.com/a/hMeDQ8LF1w",
           "_ts": 1791767567.946929
-        },
-        {
-          "name": "첫맛 오뎅탕 육수 진국, 1kg, 1개",
-          "price": "3,450원",
-          "discount_rate": 47,
-          "priceAt": "10.12 09:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/06/03/17/9/38614aea-d496-4755-aee1-f73aac734a42.jpg",
-          "url": "https://link.coupang.com/a/hMb0uZelhs",
-          "_ts": 1791765358.877663
         }
       ]
     },
@@ -1229,6 +1220,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "법성포 영광굴비, 20cm 내외, 20마리",
+          "price": "24,500원",
+          "discount_rate": 87,
+          "priceAt": "10.17 09:46",
+          "image": "https://shopping.toss.im/live/taca/ai/MWIxNWY5/QUp6QjVkb2YzTHNDZllkd0tNQUVOVjdBL3lvckVsVUtGaS83MVIvK29DSXQ.png",
+          "url": "https://toss.shopping/_m/hh5KdYDu",
+          "_ts": 1792198008.5810702,
+          "_product_id": "627710385"
+        },
         {
           "name": "지퍼 멀티 크로스백, 블랙, 1개",
           "price": "5,490원",
@@ -2379,16 +2380,6 @@
           "url": "https://toss.shopping/_m/rLavUyHx",
           "_ts": 1791773927.8103948,
           "_product_id": "143172587"
-        },
-        {
-          "name": "썬키스트 코코피치, 300ml, 20개",
-          "price": "9,600원",
-          "discount_rate": 68,
-          "priceAt": "10.12 09:42",
-          "image": "https://shopping.toss.im/live/temp/2026-04-28/6cadc1c2-55e8-429d-8816-ca5477eccb31.jpeg",
-          "url": "https://toss.shopping/_m/jLXkkhcq",
-          "_ts": 1791765777.655057,
-          "_product_id": "1734968249"
         }
       ]
     },
