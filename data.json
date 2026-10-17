@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "편안하게 소화되는 신선한 1A 우유, 900ml, 3개, 900ml × 3개",
+          "price": "5,900원",
+          "discount_rate": 21,
+          "priceAt": "10.17 20:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/fd965b41-42ea-4a8f-a012-db8d6cfd52463218733706214064046.png",
+          "url": "https://link.coupang.com/a/hVez7CAYIS",
+          "_ts": 1792236027.001941
+        },
+        {
           "name": "곰곰 맥반석 구운란, 30구, 1개, 30구 × 1개",
           "price": "9,800원",
           "discount_rate": 20,
@@ -1122,15 +1131,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/553588510493080-57f0d59a-a841-4624-af94-1fea4ce7ea92.jpg",
           "url": "https://link.coupang.com/a/hMZFT6us6m",
           "_ts": 1791807062.414338
-        },
-        {
-          "name": "가농 무항생제 1+등급 특란, 15구, 1개",
-          "price": "4,960원",
-          "discount_rate": 32,
-          "priceAt": "10.12 20:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/523422684158824-8e11ce15-ec02-4674-bbb2-a25eaa258f5d.jpg",
-          "url": "https://link.coupang.com/a/hMVRoM2ghg",
-          "_ts": 1791803858.462739
         }
       ]
     },
