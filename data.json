@@ -1122,6 +1122,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "사리원 소불고기, 500g, 4팩",
+          "price": "13,000원",
+          "discount_rate": 67,
+          "priceAt": "10.18 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/MDVkNWU3/QU9uMEFXT0h1WUhHdjlEeHJCNUFRNlg5WUlleDhDSWZBV1BDQ0QvT0R2UGk.png",
+          "url": "https://toss.shopping/_m/l58b1wJ5",
+          "_ts": 1792249272.071775,
+          "_flash": true,
+          "_product_id": "128320725"
+        },
+        {
+          "name": "배스킨라빈스 베리베리 스트로베리 우유 190ml, 24개",
+          "price": "8,500원",
+          "discount_rate": 64,
+          "priceAt": "10.18 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MWVjMTdj/QUpOTGFiUk1pN0pKMnp0ODhDU2tteHZtMmFXR2tqbGJhMmxtVnJhbG82Rlo.png",
+          "url": "https://toss.shopping/_m/DWGRIHGi",
+          "_ts": 1792249272.071737,
+          "_flash": true,
+          "_product_id": "86929049"
+        },
+        {
+          "name": "소하임 사계절 워싱 차렵이불, 챠콜그레이, SS, 150x200cm, 1개",
+          "price": "14,270원",
+          "discount_rate": 72,
+          "priceAt": "10.18 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-07-08/7158ba7a-4262-4866-90ef-d39f80b5c5ec.jpeg",
+          "url": "https://toss.shopping/_m/ZTVSZMf7",
+          "_ts": 1792249272.0716958,
+          "_flash": true,
+          "_product_id": "2437890861"
+        },
+        {
           "name": "제주 서귀포 감귤, 12brix 초고당도, 5kg, 1박스",
           "price": "13,900원",
           "discount_rate": 57,
@@ -2270,39 +2303,6 @@
           "_ts": 1791817296.7893078,
           "_flash": true,
           "_product_id": "168056701"
-        },
-        {
-          "name": "수미감자, 1kg, 1박스",
-          "price": "2,880원",
-          "discount_rate": 81,
-          "priceAt": "10.13 00:01",
-          "image": "https://shopping.toss.im/live/taca/ai/OTM3Nzk2/UHhzYlRzeUpSM0VCZHV5bE16bnBkTW14VU1SS3BycVpNMmtlSWVEZTVUcz0.png",
-          "url": "https://toss.shopping/_m/TVow4BnB",
-          "_ts": 1791817268.35444,
-          "_flash": true,
-          "_product_id": "1181701423"
-        },
-        {
-          "name": "알뜰공식 심리스 투톤 모달 팬티 6종, 색상혼합, L, 1세트",
-          "price": "10,290원",
-          "discount_rate": 39,
-          "priceAt": "10.13 00:01",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjA5YjU3/YTBzNjB3bEtMVW5KYWl0cHFVaXRhV1ZwVlNrVXFWU3BLcW1pcllLMWZSVT0.png",
-          "url": "https://toss.shopping/_m/DvAQrFAx",
-          "_ts": 1791817268.354403,
-          "_flash": true,
-          "_product_id": "172216279"
-        },
-        {
-          "name": "동국제약 덴트릭스 잇몸플러스 치약, 160g, 10개",
-          "price": "28,890원",
-          "discount_rate": 85,
-          "priceAt": "10.13 00:01",
-          "image": "https://shopping.toss.im/live/temp/2026-07-24/85ac3f54-52ea-4eae-944e-48bd634fba77.png",
-          "url": "https://toss.shopping/_m/V68kQWXl",
-          "_ts": 1791817268.354357,
-          "_flash": true,
-          "_product_id": "94849335"
         }
       ]
     },
