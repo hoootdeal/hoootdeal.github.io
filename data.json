@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "모아바이오팜 당도선별 샤인머스캣, 1kg, 1개",
+          "price": "4,500원",
+          "discount_rate": 31,
+          "priceAt": "10.17 11:50",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/jlqlk3cx/12f613d2fc6d459aa6fe26d90fbad0e0.jpg",
+          "url": "https://link.coupang.com/a/hUD6HyESdM",
+          "_ts": 1792205402.448813
+        },
+        {
           "name": "양반 명품김 캔 48p, 25g, 2개, 25g × 2개",
           "price": "6,200원",
           "discount_rate": 27,
@@ -1149,24 +1158,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3b402bb2-1e1f-46f1-8e0a-5f8996aa2dd3539209410227546122.png",
           "url": "https://link.coupang.com/a/hMlYfwDx00",
           "_ts": 1791773725.502662
-        },
-        {
-          "name": "풀스쿡 슈가 두부 도너츠 (냉동), 45g, 5개입, 1박스",
-          "price": "4,380원",
-          "discount_rate": 36,
-          "priceAt": "10.12 11:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6371217393145-8bb96d09-0eaf-4d07-80de-9d66f56db49f.jpg",
-          "url": "https://link.coupang.com/a/hMkBVErnJA",
-          "_ts": 1791772582.260601
-        },
-        {
-          "name": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러, 글라시에, 591ml, 1개",
-          "price": "24,950원",
-          "discount_rate": 43,
-          "priceAt": "10.12 11:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/316636874251529-00154831-27c9-4c25-8794-5098addbc8bf.jpg",
-          "url": "https://link.coupang.com/a/hMjPLKRjOK",
-          "_ts": 1791771931.358403
         }
       ]
     },
