@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "광동제약 대추쌍화, 150ml, 20개, 150ml × 20개",
+          "price": "13,070원",
+          "discount_rate": 24,
+          "priceAt": "10.17 13:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/77973482207334-282f5751-738a-43ff-8e19-cc5b164020ac.jpg",
+          "url": "https://link.coupang.com/a/hUJCnPjIrY",
+          "_ts": 1792210029.090058
+        },
+        {
           "name": "익스트림 듀얼 아르기닌 플러스 1000mg, 120정, 2개, 120정 × 2개",
           "price": "17,900원",
           "discount_rate": 32,
@@ -1122,15 +1131,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/477936751296096-ab574694-5f0c-4e72-b58d-fe0500999b69.jpg",
           "url": "https://link.coupang.com/a/hMsy5hU4rI",
           "_ts": 1791779261.3558888
-        },
-        {
-          "name": "푸드랩플러스 스페인산 간편구이 삼겹살 지퍼백 (냉동), 1kg, 1팩",
-          "price": "6,490원",
-          "discount_rate": 39,
-          "priceAt": "10.12 13:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/ro33nwtz/e6d77a798ae74d4e8c65159f75b50b74.jpg",
-          "url": "https://link.coupang.com/a/hMqCNNn8Xk",
-          "_ts": 1791777633.8045208
         }
       ]
     },
