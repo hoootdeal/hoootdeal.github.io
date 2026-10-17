@@ -1140,6 +1140,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풍년보감 6년근 고려홍삼정 에브리데이100, 15g, 100포",
+          "price": "16,900원",
+          "discount_rate": 69,
+          "priceAt": "10.17 20:09",
+          "image": "https://shopping.toss.im/live/temp/2026-01-23/c416b67c-4e95-4900-8cf8-2a49bceb77e7.jpeg",
+          "url": "https://toss.shopping/_m/DGvYRSRg",
+          "_ts": 1792235380.035528,
+          "_product_id": "33427621"
+        },
+        {
           "name": "풍연 꿀설기, 50g, 20개",
           "price": "7,000원",
           "discount_rate": 65,
