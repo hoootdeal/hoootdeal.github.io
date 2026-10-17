@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하루온 포켓형 군인핫팩 160g, 40개, 40개",
+          "price": "8,900원",
+          "discount_rate": 50,
+          "priceAt": "10.17 16:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/94515838385842-9128c7ab-e0b2-490d-b214-2b7d9619cc4b.jpg",
+          "url": "https://link.coupang.com/a/hUV6MZvb2G",
+          "_ts": 1792220517.596512
+        },
+        {
           "name": "헤어플러스 아쿠아 단백질 워터 에센스 프레시 플로럴 코튼 향, 200ml, 1개",
           "price": "6,800원",
           "discount_rate": 31,
