@@ -1149,6 +1149,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "누벨린 디펜턴 토탈 솔루션 앰플 세럼, 30ml, 2개",
+          "price": "13,400원",
+          "discount_rate": 85,
+          "priceAt": "10.17 14:20",
+          "image": "https://shopping.toss.im/live/temp/2026-02-24/9baed7ef-d970-4470-a73e-ae10683da11a.jpeg",
+          "url": "https://toss.shopping/_m/NHVWdNAd",
+          "_ts": 1792214430.260813,
+          "_product_id": "973592143"
+        },
+        {
           "name": "던킨 제로 아이스티, 화이트피치 500ml 6개 + 샤인앤라임 500ml 6개, 12개",
           "price": "7,500원",
           "discount_rate": 68,
