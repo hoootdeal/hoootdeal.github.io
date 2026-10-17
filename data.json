@@ -1122,15 +1122,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/21481049595170-aa581f6b-849b-40ae-8c71-1ff3a3a72daf.jpg",
           "url": "https://link.coupang.com/a/hMGJwrW6VM",
           "_ts": 1791791156.5604968
-        },
-        {
-          "name": "휴비딕 가정용 자동 칫솔살균기, 밀크그레이, HTS-10",
-          "price": "10,900원",
-          "discount_rate": 35,
-          "priceAt": "10.12 15:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/172577224670346-f31e5062-57ff-4e04-9a1f-89842e4f1764.jpg",
-          "url": "https://link.coupang.com/a/hMz0D4Iwr6",
-          "_ts": 1791785512.295319
         }
       ]
     },
@@ -1139,6 +1130,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "플로비즈 시그니처 야생화꿀, 2kg, 4개",
+          "price": "47,420원",
+          "discount_rate": 73,
+          "priceAt": "10.17 16:01",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/ZTZiM2Ni/T2VQZTVza2V2T1BlbnJRdklVek11ZGMwYkRuZVBEdkYxOEhsT3RQZ2RUbz0.png",
+          "url": "https://toss.shopping/_m/zuHR5LNp",
+          "_ts": 1792220471.652782,
+          "_product_id": "261587613"
+        },
         {
           "name": "밀크앤허니 스위트 크림 치즈케이크, 520g, 1개",
           "price": "11,190원",
