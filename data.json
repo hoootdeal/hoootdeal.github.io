@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청정원순창 저당 현미 고추장, 500g, 3개, 500g × 3개",
+          "price": "11,380원",
+          "discount_rate": 51,
+          "priceAt": "10.17 09:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/21222284587654-a9107a5b-dfca-49a8-b50a-3c7dfb4d2dc2.jpg",
+          "url": "https://link.coupang.com/a/hUsMBmNIpU",
+          "_ts": 1792195897.023294
+        },
+        {
           "name": "이롬 과채습관 퍼플, 190ml, 16개",
           "price": "7,480원",
           "discount_rate": 28,
@@ -1221,42 +1230,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2432992881148-a6a48e9c-534c-410b-aca8-3a6317fde5b3.png",
           "url": "https://link.coupang.com/a/hMahQ2LAXc",
           "_ts": 1791763914.5447621
-        },
-        {
-          "name": "씨그램 라임 무라벨, 450ml, 20개",
-          "price": "9,130원",
-          "discount_rate": 24,
-          "priceAt": "10.12 09:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4cd9/fc4036b9cba41047f7a4b021f7c284d8e7447c6f3f536287a64fc2ba16fc.jpg",
-          "url": "https://link.coupang.com/a/hL9MmyVobc",
-          "_ts": 1791763488.844427
-        },
-        {
-          "name": "오로나민씨 탄산 드링크, 120ml, 20개",
-          "price": "9,900원",
-          "discount_rate": 22,
-          "priceAt": "10.12 09:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/73008298501217-935598eb-f714-48d8-a76d-608f0cba65e6.png",
-          "url": "https://link.coupang.com/a/hL9yOfGsdU",
-          "_ts": 1791763304.861421
-        },
-        {
-          "name": "스팸 김밥햄, 260g, 1개",
-          "price": "3,330원",
-          "discount_rate": 39,
-          "priceAt": "10.12 08:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/b578/4a26c81a80d5fc244dd5a9338584b181d474cf0feb4b070d14a24bf4408c.jpg",
-          "url": "https://link.coupang.com/a/hL8MPrbfFc",
-          "_ts": 1791762654.900388
-        },
-        {
-          "name": "비카인드 미니 다크초콜릿 씨솔트 견과류바 15p, 300g, 1개, 300g × 1개",
-          "price": "9,550원",
-          "discount_rate": 37,
-          "priceAt": "10.12 08:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/10/24/15/8/b426f852-3624-4690-b54e-a93f8d538b33.jpg",
-          "url": "https://link.coupang.com/a/hL8tVEOLGS",
-          "_ts": 1791762399.8628721
         }
       ]
     },
