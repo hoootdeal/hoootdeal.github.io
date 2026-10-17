@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "웰치스 프루트 스낵 믹스드 맛 90개입, 2kg, 1개",
+          "price": "22,260원",
+          "discount_rate": 24,
+          "priceAt": "10.18 08:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9946/53446487ba63e45dccbbf8ad953c4aaecdb0edc0c99caf399d49f3a19be9.jpg",
+          "url": "https://link.coupang.com/a/hV3oFCd2MS",
+          "_ts": 1792278691.6044412
+        },
+        {
           "name": "오리온 예감 오리지널 24p, 768g, 2개",
           "price": "16,470원",
           "discount_rate": 34,
@@ -2273,61 +2282,6 @@
           "url": "https://toss.shopping/_m/nKSuV7cq",
           "_ts": 1791851717.332159,
           "_product_id": "418996905"
-        },
-        {
-          "name": "프리미엄 호텔스타일 베개, 그레이, 46x70cm, 2개",
-          "price": "11,900원",
-          "discount_rate": 79,
-          "priceAt": "10.13 08:02",
-          "image": "https://shopping.toss.im/live/taca/ai/YjgyZDRm/RHQ2a3RLZHZyTnl0TEtrOG1mSGJTOHFTM05CU1lsWldWazRXMXBSTzNxQT0.png",
-          "url": "https://toss.shopping/_m/5W06CmBz",
-          "_ts": 1791846160.280871,
-          "_flash": true,
-          "_product_id": "779654347"
-        },
-        {
-          "name": "참매실 새벽 백김치, 3kg, 1개",
-          "price": "11,500원",
-          "discount_rate": 38,
-          "priceAt": "10.13 08:02",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTQxMjY1/QU10d0djd3B6c3NQSzNoT1pPWnBPWWUxNXZma3NFOFFsdmVvZWtCQ3F5bC8.png",
-          "url": "https://toss.shopping/_m/XajshhpC",
-          "_ts": 1791846160.280833,
-          "_flash": true,
-          "_product_id": "861913841"
-        },
-        {
-          "name": "르까프 아우터 후드 방풍 자켓, 남성, 블랙, 105, 1개",
-          "price": "13,700원",
-          "discount_rate": 76,
-          "priceAt": "10.13 08:02",
-          "image": "https://shopping.toss.im/live/temp/2025-12-11/8d114ca9-9af7-4ac3-a289-33ee86a49cee.jpeg",
-          "url": "https://toss.shopping/_m/dyTZdidg",
-          "_ts": 1791846132.147608,
-          "_flash": true,
-          "_product_id": "168056703"
-        },
-        {
-          "name": "건어물아지매 다시마 튀각, 국내산, 50g, 2봉",
-          "price": "5,040원",
-          "discount_rate": 63,
-          "priceAt": "10.13 08:02",
-          "image": "https://shopping.toss.im/live/temp/2026-02-25/aad3b1a0-1c3d-471f-bf76-45c0044d53c0.jpeg",
-          "url": "https://toss.shopping/_m/1izlrVcq",
-          "_ts": 1791846132.147574,
-          "_flash": true,
-          "_product_id": "988986103"
-        },
-        {
-          "name": "덴마크 테이크얼라이브 머스캣청포도+블러드오렌지, 120ml, 48개",
-          "price": "13,400원",
-          "discount_rate": 32,
-          "priceAt": "10.13 08:02",
-          "image": "https://shopping.toss.im/live/temp/2026-06-17/65c38fb9-e518-43a2-b702-ecbc0c26ac87.jpeg",
-          "url": "https://toss.shopping/_m/3n9K6lsx",
-          "_ts": 1791846132.147533,
-          "_flash": true,
-          "_product_id": "2278299005"
         }
       ]
     },
