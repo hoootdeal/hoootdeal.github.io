@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오리온 예감 오리지널 24p, 768g, 2개",
+          "price": "16,470원",
+          "discount_rate": 34,
+          "priceAt": "10.18 07:51",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/216d7a00-05ba-46fc-89e9-4acb17e2c7271116388939761139228.png",
+          "url": "https://link.coupang.com/a/hV1VPorync",
+          "_ts": 1792277461.226045
+        },
+        {
           "name": "프로그 고리형 고무장갑, 라임펀치, 대(L), 5개",
           "price": "5,600원",
           "discount_rate": 57,
@@ -1131,15 +1140,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/19/17/8/02a835ec-9b13-4de4-968b-56159f5e63b0.jpg",
           "url": "https://link.coupang.com/a/hNMl8h8Ehg",
           "_ts": 1791847935.171644
-        },
-        {
-          "name": "미샤 에어리 밀착 시트마스크 티트리, 1개입, 15개",
-          "price": "6,840원",
-          "discount_rate": 54,
-          "priceAt": "10.13 07:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/ecb433aa-9a99-4bdc-b96c-fe368f61813f7657173893139997288.png",
-          "url": "https://link.coupang.com/a/hNInG6WP92",
-          "_ts": 1791844597.1146472
         }
       ]
     },
