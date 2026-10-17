@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "양반 명품김 캔 48p, 25g, 2개, 25g × 2개",
+          "price": "6,200원",
+          "discount_rate": 27,
+          "priceAt": "10.17 11:25",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/32457193620918-516050c9-e560-4c34-bead-a040721d45d0.jpg",
+          "url": "https://link.coupang.com/a/hUCkALkelg",
+          "_ts": 1792203913.0351832
+        },
+        {
           "name": "티젠 애사비소다 오리지널, 500ml, 24개",
           "price": "10,450원",
           "discount_rate": 47,
@@ -1158,42 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/316636874251529-00154831-27c9-4c25-8794-5098addbc8bf.jpg",
           "url": "https://link.coupang.com/a/hMjPLKRjOK",
           "_ts": 1791771931.358403
-        },
-        {
-          "name": "육공육 더 얇은 슬라이스 씬, 250g, 1개",
-          "price": "3,890원",
-          "discount_rate": 35,
-          "priceAt": "10.12 11:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/583293283490926-da5c9479-de1b-4eb8-957f-3d01bd1edc55.jpg",
-          "url": "https://link.coupang.com/a/hMi7GL8xVs",
-          "_ts": 1791771333.00802
-        },
-        {
-          "name": "고메 모짜렐라 돈카츠 (냉동), 450g, 1개",
-          "price": "6,480원",
-          "discount_rate": 35,
-          "priceAt": "10.12 11:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/315735103824683-3bb638d3-cc59-4282-8328-125c9cd86af4.jpg",
-          "url": "https://link.coupang.com/a/hMh3ZqUOyG",
-          "_ts": 1791770442.506171
-        },
-        {
-          "name": "풀무원 특등급 국산콩 두부 부침찌개 겸용, 300g, 2개입",
-          "price": "2,980원",
-          "discount_rate": 38,
-          "priceAt": "10.12 10:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/487842237115958-3f5d3433-a0c4-4738-8cae-a8429b9b6972.jpg",
-          "url": "https://link.coupang.com/a/hMhF7Nn7HU",
-          "_ts": 1791770120.3337688
-        },
-        {
-          "name": "스너글 블루밍 부케 더블 소프트 섬유탈취제 본품, 470ml, 1개",
-          "price": "3,350원",
-          "discount_rate": 41,
-          "priceAt": "10.12 10:52",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/06/20/10/6/bb043333-a9a5-4fe9-abfd-b1dafefe8ede.jpg",
-          "url": "https://link.coupang.com/a/hMhsd131d6",
-          "_ts": 1791769933.468896
         }
       ]
     },
