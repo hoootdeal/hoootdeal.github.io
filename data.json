@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 고단백 컵누들 마라샹궈맛 41g, 12개, 12개",
+          "price": "9,400원",
+          "discount_rate": 29,
+          "priceAt": "10.17 16:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1033494366096119-2b833076-ec98-4382-8d9f-1f030cb0ce89.jpg",
+          "url": "https://link.coupang.com/a/hUZ1gIgU7o",
+          "_ts": 1792223801.0042071
+        },
+        {
           "name": "하루온 포켓형 군인핫팩 160g, 40개, 40개",
           "price": "8,900원",
           "discount_rate": 50,
@@ -1122,15 +1131,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4529754667557994-b97aed29-1642-439a-93b1-36ca02a05405.jpg",
           "url": "https://link.coupang.com/a/hMJQSXsWnA",
           "_ts": 1791793774.92177
-        },
-        {
-          "name": "퓨어썸 비타 샤워기 리필필터, 2개, 숲이끼",
-          "price": "8,550원",
-          "discount_rate": 50,
-          "priceAt": "10.12 16:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/21481049595170-aa581f6b-849b-40ae-8c71-1ff3a3a72daf.jpg",
-          "url": "https://link.coupang.com/a/hMGJwrW6VM",
-          "_ts": 1791791156.5604968
         }
       ]
     },
@@ -2329,16 +2329,6 @@
           "url": "https://toss.shopping/_m/9shjEXqt",
           "_ts": 1791792809.642326,
           "_product_id": "2566320999"
-        },
-        {
-          "name": "농부의 정육점 국내산 한돈 냉동 목뼈등뼈, 4kg, 1개",
-          "price": "8,570원",
-          "discount_rate": 78,
-          "priceAt": "10.12 16:46",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/OTY3ODIz/Unk1VXlueU44dzYyTVNKdzQ5MUNrVjQyejZ1TkNaK2Foc3orVktyVXYyUT0.png",
-          "url": "https://toss.shopping/_m/p06cChp3",
-          "_ts": 1791791200.149117,
-          "_product_id": "2517669083"
         }
       ]
     },
