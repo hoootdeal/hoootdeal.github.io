@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에코맘의산골이유식 산골 과일참 통째로 딸기칩, 7g, 4개",
+          "price": "5,600원",
+          "discount_rate": 42,
+          "priceAt": "10.17 17:28",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1893487828384538-b471bd53-a5fe-4b82-9367-4b454b81f5ee.jpg",
+          "url": "https://link.coupang.com/a/hU2jE4YmIK",
+          "_ts": 1792225728.3225112
+        },
+        {
           "name": "오뚜기 고단백 컵누들 마라샹궈맛 41g, 12개, 12개",
           "price": "9,400원",
           "discount_rate": 29,
@@ -2319,16 +2328,6 @@
           "url": "https://toss.shopping/_m/huE10h7C",
           "_ts": 1791796913.168534,
           "_product_id": "12833123"
-        },
-        {
-          "name": "맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
-          "price": "5,950원",
-          "discount_rate": 80,
-          "priceAt": "10.12 17:13",
-          "image": "https://shopping.toss.im/live/temp/2026-08-03/a8c0ca14-34eb-45c6-bede-da24aaf71a61.jpeg",
-          "url": "https://toss.shopping/_m/9shjEXqt",
-          "_ts": 1791792809.642326,
-          "_product_id": "2566320999"
         }
       ]
     },
