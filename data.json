@@ -1122,24 +1122,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/172577224670346-f31e5062-57ff-4e04-9a1f-89842e4f1764.jpg",
           "url": "https://link.coupang.com/a/hMz0D4Iwr6",
           "_ts": 1791785512.295319
-        },
-        {
-          "name": "도브 포밍 핸드워시 피치 앤드 릴리 리필, 430ml, 2개",
-          "price": "6,900원",
-          "discount_rate": 50,
-          "priceAt": "10.12 14:52",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/413890147906531-7a6e4200-1435-4bb0-a2ab-5be0a69da795.jpg",
-          "url": "https://link.coupang.com/a/hMyBO8PpoO",
-          "_ts": 1791784336.1449249
-        },
-        {
-          "name": "해찬들 맛있는 재래식 된장, 1kg, 1개, 1kg × 1개",
-          "price": "3,210원",
-          "discount_rate": 39,
-          "priceAt": "10.12 14:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/af05/b4e7559107a1d6705278061aedffdb6a0cc43109c9c49debe406805b6202.jpg",
-          "url": "https://link.coupang.com/a/hMwSr3RnGu",
-          "_ts": 1791782880.713762
         }
       ]
     },
@@ -1148,6 +1130,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "밀크앤허니 스위트 크림 치즈케이크, 520g, 1개",
+          "price": "11,190원",
+          "discount_rate": 56,
+          "priceAt": "10.17 15:01",
+          "image": "https://shopping.toss.im/live/product/17903/c1d07bf5-e84c-44e8-be42-a066f43d2bc5.jpeg",
+          "url": "https://toss.shopping/_m/DkR3sZPa",
+          "_ts": 1792216887.787838,
+          "_product_id": "35713"
+        },
         {
           "name": "누벨린 디펜턴 토탈 솔루션 앰플 세럼, 30ml, 2개",
           "price": "13,400원",
