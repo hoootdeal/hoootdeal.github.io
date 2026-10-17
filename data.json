@@ -1230,6 +1230,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
+          "price": "5,300원",
+          "discount_rate": 70,
+          "priceAt": "10.17 10:07",
+          "image": "https://shopping.toss.im/live/temp/2026-10-07/067eacd5-4948-41dd-b3f2-469cb11c8c05.jpeg",
+          "url": "https://toss.shopping/_m/NOPYawt2",
+          "_ts": 1792199269.431433,
+          "_product_id": "2622437583"
+        },
+        {
           "name": "법성포 영광굴비, 20cm 내외, 20마리",
           "price": "24,500원",
           "discount_rate": 87,
