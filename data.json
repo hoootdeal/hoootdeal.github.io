@@ -1122,6 +1122,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "산들에담다 GAP 노지 감귤, 특품, 로얄과, 5kg, 1박스",
+          "price": "10,090원",
+          "discount_rate": 83,
+          "priceAt": "10.18 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-08-28/12aca3f7-0d09-47b5-bcb8-a9dc0453c75d.png",
+          "url": "https://toss.shopping/_m/TU00S5Xa",
+          "_ts": 1792249298.9330392,
+          "_flash": true,
+          "_product_id": "2637785481"
+        },
+        {
+          "name": "에드워드권 궁중 갈비탕, 800g, 8개",
+          "price": "25,900원",
+          "discount_rate": 48,
+          "priceAt": "10.18 00:01",
+          "image": "https://shopping.toss.im/124/live/product/848000861/12439875-b820-4c4b-bc5b-64aceb3ba1ae.jpg",
+          "url": "https://toss.shopping/_m/NYMBNMXv",
+          "_ts": 1792249298.9329898,
+          "_flash": true,
+          "_product_id": "2655545497"
+        },
+        {
+          "name": "쏘울너츠 100% 땅콩버터, 크런치 500g 1개 + 스무스 500g 1개, 2개",
+          "price": "6,950원",
+          "discount_rate": 72,
+          "priceAt": "10.18 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-01-07/c4efa185-5b09-467a-b5d9-9eecf9ce16e9.jpeg",
+          "url": "https://toss.shopping/_m/H1G67iye",
+          "_ts": 1792249298.9329321,
+          "_flash": true,
+          "_product_id": "559210893"
+        },
+        {
           "name": "사리원 소불고기, 500g, 4팩",
           "price": "13,000원",
           "discount_rate": 67,
@@ -2270,39 +2303,6 @@
           "_ts": 1791846132.147533,
           "_flash": true,
           "_product_id": "2278299005"
-        },
-        {
-          "name": "브랜드엘 속눈썹 고데기, 1개 + C타입 충전 케이블, 1개",
-          "price": "8,388원",
-          "discount_rate": 67,
-          "priceAt": "10.13 00:01",
-          "image": "https://shopping.toss.im/live/temp/2025-07-30/9bf43a5d-d39f-4738-b710-8cee62516501.jpeg",
-          "url": "https://toss.shopping/_m/jaUXUSN4",
-          "_ts": 1791817296.7893949,
-          "_flash": true,
-          "_product_id": "150817383"
-        },
-        {
-          "name": "멕시카나 닭강정, 매콤달콤맛, 500g, 2개 + 마늘간장맛, 500g, 2개",
-          "price": "19,900원",
-          "discount_rate": 66,
-          "priceAt": "10.13 00:01",
-          "image": "https://shopping.toss.im/live/temp/2025-11-03/400af32f-7a7e-41a3-a8c2-9ac69af3d272.png",
-          "url": "https://toss.shopping/_m/5YObPJTg",
-          "_ts": 1791817296.789359,
-          "_flash": true,
-          "_product_id": "294615809"
-        },
-        {
-          "name": "르까프 아우터 후드 방풍 자켓, 남성, 블랙, 100, 1개",
-          "price": "11,620원",
-          "discount_rate": 80,
-          "priceAt": "10.13 00:01",
-          "image": "https://shopping.toss.im/live/temp/2025-12-11/8d114ca9-9af7-4ac3-a289-33ee86a49cee.jpeg",
-          "url": "https://toss.shopping/_m/vg1ZWUGx",
-          "_ts": 1791817296.7893078,
-          "_flash": true,
-          "_product_id": "168056701"
         }
       ]
     },
