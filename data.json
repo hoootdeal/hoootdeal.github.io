@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "1+1+1 남자 드라이 기능성 반팔티 쿨티 3P세트 티셔츠 남녀공용 베이잉, 블랙+푸른색+흰색, 2XL",
+          "price": "4,990원",
+          "discount_rate": 43,
+          "priceAt": "10.18 08:51",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3d21/3cb2602002c825d8f790b162bd0f3a780821dc7b75abb7cdd546d4f35423.jpg",
+          "url": "https://link.coupang.com/a/hV6fPsNLVc",
+          "_ts": 1792281089.83626
+        },
+        {
           "name": "웰치스 프루트 스낵 믹스드 맛 90개입, 2kg, 1개",
           "price": "22,260원",
           "discount_rate": 24,
@@ -1131,24 +1140,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/02/07/14/9/8fcf66ab-e68f-498c-9078-a004d3feebaf.jpg",
           "url": "https://link.coupang.com/a/hNRtNH6Qpw",
           "_ts": 1791852237.121587
-        },
-        {
-          "name": "오리온 무뚝뚝 감자칩 통후추소금맛, 106g, 5개",
-          "price": "9,450원",
-          "discount_rate": 24,
-          "priceAt": "10.13 08:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/85721394400652-8a531fe5-5f0f-4ed2-a988-3dbee2b9f28e.jpg",
-          "url": "https://link.coupang.com/a/hNNo1VlAFE",
-          "_ts": 1791848813.644798
-        },
-        {
-          "name": "플라이밀 리얼초코 고단백 단백질 쉐이크, 630g, 1개, 630g × 1개",
-          "price": "20,850원",
-          "discount_rate": 24,
-          "priceAt": "10.13 08:32",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/19/17/8/02a835ec-9b13-4de4-968b-56159f5e63b0.jpg",
-          "url": "https://link.coupang.com/a/hNMl8h8Ehg",
-          "_ts": 1791847935.171644
         }
       ]
     },
