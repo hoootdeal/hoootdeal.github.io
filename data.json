@@ -1140,6 +1140,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "프로프룻 시나노골드, 특품, 난좌포장, 3kg, 1박스",
+          "price": "9,900원",
+          "discount_rate": 81,
+          "priceAt": "10.17 18:24",
+          "image": "https://shopping.toss.im/live/temp/2026-10-06/74d4b59b-2bb4-4efb-aeb3-14ae3e570d38.jpeg",
+          "url": "https://toss.shopping/_m/jxERxfRj",
+          "_ts": 1792229088.04252,
+          "_product_id": "2672325913"
+        },
+        {
           "name": "피죤 퓨어 뽀드득 주방세제, 레몬향 3L 1개 + 자몽향 3L 1개, 2개",
           "price": "8,200원",
           "discount_rate": 68,
