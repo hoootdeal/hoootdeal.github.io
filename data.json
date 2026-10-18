@@ -1122,6 +1122,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "신세계푸드 올반 팬피자 4종 세트, 치즈 + 페퍼로니 + 콤비네이션 + 불고기, 1403g, 4개",
+          "price": "16,000원",
+          "discount_rate": 46,
+          "priceAt": "10.18 20:10",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDlhZTE2/V2E2L2RzVFJsdmd3M3dDUDkvYmh4cnlKUTNpajJZSWZqOGRtcU5SRTFjQT0.png",
+          "url": "https://toss.shopping/_m/VZLRQrKt",
+          "_ts": 1792321801.8812401,
+          "_product_id": "120350485"
+        },
+        {
           "name": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
           "price": "7,300원",
           "discount_rate": 75,
