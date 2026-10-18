@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "가나 프리미엄 랑드샤 쇼콜라 초콜릿, 91g, 3개, 91g × 3개",
+          "price": "6,910원",
+          "discount_rate": 31,
+          "priceAt": "10.18 16:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/157504711743975-fc29e20d-c39f-4f77-bcf2-f167f7796e35.jpg",
+          "url": "https://link.coupang.com/a/hWDDWlXT3s",
+          "_ts": 1792309124.81834
+        },
+        {
           "name": "투쿨포스쿨 프로타주 팔레트, 4호 휘핑 베리, 1개, 4호 휘핑 베리 × 1개",
           "price": "7,880원",
           "discount_rate": 38,
@@ -2208,16 +2217,6 @@
           "url": "https://toss.shopping/_m/FgqKH6rr",
           "_ts": 1791882406.911336,
           "_product_id": "2551894295"
-        },
-        {
-          "name": "광천김 파래 도시락김 카카오프렌즈, 4g, 27봉",
-          "price": "9,600원",
-          "discount_rate": 45,
-          "priceAt": "10.13 16:34",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/ZGI4ZWU2/TE5ScEMwdHJ6bk41eEVjNVd0UzQxaU9VdE5PMWxMZWNPUFJyY2twbVhLdz0.png",
-          "url": "https://toss.shopping/_m/NEwjeKOD",
-          "_ts": 1791876875.5151749,
-          "_product_id": "171932225"
         }
       ]
     },
