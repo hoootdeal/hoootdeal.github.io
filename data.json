@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "고래밥 볶음양념맛, 20g, 10개",
+          "price": "2,870원",
+          "discount_rate": 33,
+          "priceAt": "10.19 08:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2526453695198724-f1feb09a-f17d-43eb-a0b2-4dcacfc7e17e.jpg",
+          "url": "https://link.coupang.com/a/hXLFzo2y28",
+          "_ts": 1792367921.7193751
+        },
+        {
           "name": "베리밸리 딸기 (냉동), 1kg, 1개",
           "price": "4,990원",
           "discount_rate": 31,
