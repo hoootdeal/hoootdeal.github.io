@@ -1113,24 +1113,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/04/10/8/1844ca09-b390-42b4-9c7c-54ee414f31fd.jpg",
           "url": "https://link.coupang.com/a/hOhMYcXr3s",
           "_ts": 1791874326.5731049
-        },
-        {
-          "name": "동원 을지로 골뱅이 무침용, 300g, 4개",
-          "price": "20,330원",
-          "discount_rate": 43,
-          "priceAt": "10.13 15:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/262343353506576-02b94457-9b52-4bc2-9010-e501acabae27.jpg",
-          "url": "https://link.coupang.com/a/hOfYS4TXJQ",
-          "_ts": 1791872808.003077
-        },
-        {
-          "name": "롯데웰푸드 월드콘 + 구구콘 세트 (냉동), 160ml, 1개입, 32개",
-          "price": "24,570원",
-          "discount_rate": 40,
-          "priceAt": "10.13 15:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2474620569104459-f79bfd98-b96e-43d0-be2f-ea80c75218b9.jpg",
-          "url": "https://link.coupang.com/a/hOeI5uhgku",
-          "_ts": 1791871756.1535969
         }
       ]
     },
@@ -1139,6 +1121,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "Nucle 팅글탱글 PD 20W 고속 충전기 + 60W C to C 초고속 케이블, 오렌지, 1m, 1세트",
+          "price": "5,980원",
+          "discount_rate": 80,
+          "priceAt": "10.18 15:34",
+          "image": "https://shopping.toss.im/live/temp/2026-09-15/50a35422-1265-4368-a1bc-cbf1e9d8e5af.jpeg",
+          "url": "https://toss.shopping/_m/rzfK2G73",
+          "_ts": 1792305273.6976829,
+          "_product_id": "2652913851"
+        },
         {
           "name": "요거프레소 컵커피, 카페라떼 200ml 10개 + 카페모카 200ml 10개, 20개",
           "price": "12,900원",
@@ -2224,26 +2216,6 @@
           "url": "https://toss.shopping/_m/NEwjeKOD",
           "_ts": 1791876875.5151749,
           "_product_id": "171932225"
-        },
-        {
-          "name": "아이앤어스 올인원 다크 케어 캡슐세제, 100개입, 1개",
-          "price": "6,480원",
-          "discount_rate": 78,
-          "priceAt": "10.13 15:31",
-          "image": "https://shopping.toss.im/live/taca/ai/OTY2Njlj/QU5yejlhRTgwOXFVL1MwdjNrZThvWG85N3AycmwvdHBxZkNSMmdYcUZLZis.png",
-          "url": "https://toss.shopping/_m/VtRM0H42",
-          "_ts": 1791873061.713965,
-          "_product_id": "143970429"
-        },
-        {
-          "name": "산들에담다 GAP 노지 감귤, 특품, 로얄과, 10kg, 1박스",
-          "price": "18,690원",
-          "discount_rate": 79,
-          "priceAt": "10.13 15:13",
-          "image": "https://shopping.toss.im/live/temp/2026-08-28/12aca3f7-0d09-47b5-bcb8-a9dc0453c75d.png",
-          "url": "https://toss.shopping/_m/7Wy9w4rr",
-          "_ts": 1791871993.566856,
-          "_product_id": "2637785485"
         }
       ]
     },
