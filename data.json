@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "초키앤쿠키 도라에몽 씬 포테이토 앤 초코, 72g, 5개, 72g × 5개",
+          "price": "8,200원",
+          "discount_rate": 22,
+          "priceAt": "10.18 13:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/862302880586-24307ee3-fc66-40bb-9f28-7d9785488b38.jpg",
+          "url": "https://link.coupang.com/a/hWqCNOpuZU",
+          "_ts": 1792298195.842612
+        },
+        {
           "name": "슈가로로 스파클링 사과 음료, 350ml, 24개, 350ml × 24개",
           "price": "13,930원",
           "discount_rate": 29,
@@ -1131,15 +1140,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/0bb77b84-40e5-45b4-9ee5-661335cb033e535292651386042423.png",
           "url": "https://link.coupang.com/a/hN9jDoOu9Q",
           "_ts": 1791867216.199757
-        },
-        {
-          "name": "아이얌 김과자, 참깨, 20g, 10개",
-          "price": "12,420원",
-          "discount_rate": 61,
-          "priceAt": "10.13 13:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/139120420649574-5e722027-499a-40b6-9964-2760ad576719.jpg",
-          "url": "https://link.coupang.com/a/hN73VcvC4O",
-          "_ts": 1791866160.506138
         }
       ]
     },
@@ -2253,16 +2253,6 @@
           "url": "https://toss.shopping/_m/Zr3YtDUk",
           "_ts": 1791868713.1035469,
           "_product_id": "12584149"
-        },
-        {
-          "name": "곰도리 하루종일 붙이는 핫팩 장시간 고급형, 100개",
-          "price": "15,502원",
-          "discount_rate": 77,
-          "priceAt": "10.13 13:13",
-          "image": "https://shopping.toss.im/live/temp/2026-09-13/5fffc58a-ab96-4011-8fe7-26bc2191ba76.png",
-          "url": "https://toss.shopping/_m/15PjzmQp",
-          "_ts": 1791864785.399913,
-          "_product_id": "175254015"
         }
       ]
     },
