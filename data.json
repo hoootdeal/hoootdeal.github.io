@@ -1131,6 +1131,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "우리 쌀로 만든 끓여먹는 구수한 누룽지, 1kg, 3개",
+          "price": "13,590원",
+          "discount_rate": 47,
+          "priceAt": "10.18 21:28",
+          "image": "https://shopping.toss.im/live/taca/ai/MWEyZjUy/RVZrcHNXYlAxMUpIQmdhZVh6b3FtMXlPN25KS2pxRldxcSt0VXFsK05hZz0.png",
+          "url": "https://toss.shopping/_m/N8o5V621",
+          "_ts": 1792326482.700162,
+          "_product_id": "102153577"
+        },
+        {
           "name": "신세계푸드 올반 팬피자 4종 세트, 치즈 + 페퍼로니 + 콤비네이션 + 불고기, 1403g, 4개",
           "price": "16,000원",
           "discount_rate": 46,
@@ -2199,16 +2209,6 @@
           "_ts": 1791903674.0327091,
           "_flash": true,
           "_product_id": "172216281"
-        },
-        {
-          "name": "CJ제일제당 스팸 클래식, 340g, 9개",
-          "price": "31,950원",
-          "discount_rate": 42,
-          "priceAt": "10.13 20:49",
-          "image": "https://shopping.toss.im/live/taca/ai/N2IwYjNj/Y2E1ekMvdGJvU25XbTl5bDdhdW1XN3hXODB4VDVGajJwZ0dzL0ZqMFU0TT0.png",
-          "url": "https://toss.shopping/_m/N7xFa6uo",
-          "_ts": 1791892147.427928,
-          "_product_id": "1974355257"
         }
       ]
     },
