@@ -1122,15 +1122,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/886627482114037-e514130b-ca96-4542-8feb-4f498518ac3c.jpg",
           "url": "https://link.coupang.com/a/hPk2sxG7IO",
           "_ts": 1791929111.4620328
-        },
-        {
-          "name": "곰곰 로제 파스타 소스, 1.5kg, 1개",
-          "price": "5,990원",
-          "discount_rate": 34,
-          "priceAt": "10.13 21:51",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5181490820273-7ec88c35-eca6-469b-8f30-f45f971ffe36.jpg",
-          "url": "https://link.coupang.com/a/hOHtNXuyWW",
-          "_ts": 1791895896.4134212
         }
       ]
     },
@@ -1139,6 +1130,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "마포나루터 돼지목살왕구이, 500g, 3팩",
+          "price": "11,780원",
+          "discount_rate": 46,
+          "priceAt": "10.18 21:59",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDJkNTQz/WHIrYmkydUdhOFRjaEc0bGRBTm9FdExleGhkZFB4eG9OZGprMkdocVp6VT0.png",
+          "url": "https://toss.shopping/_m/rFRW60W6",
+          "_ts": 1792328366.9637709,
+          "_product_id": "314897969"
+        },
         {
           "name": "우리 쌀로 만든 끓여먹는 구수한 누룽지, 1kg, 3개",
           "price": "13,590원",
