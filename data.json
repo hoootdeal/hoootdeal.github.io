@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이롬 황성주 박사의 국산콩 두유 검은콩 고칼슘, 190ml, 24개, 190ml × 24개",
+          "price": "9,930원",
+          "discount_rate": 21,
+          "priceAt": "10.19 07:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/282513725065722-80213784-32e9-4ae7-a246-e1495a5d4c58.jpg",
+          "url": "https://link.coupang.com/a/hXEwFCFhE4",
+          "_ts": 1792361923.1903129
+        },
+        {
           "name": "TRIXIE 고 팝 플랫 롤리팝, 2kg, 1개",
           "price": "6,840원",
           "discount_rate": 39,
@@ -1131,15 +1140,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2023/03/29/18/9/0f798e24-2701-4269-8c05-ff89d3529666.png",
           "url": "https://link.coupang.com/a/hPm7sp5OWy",
           "_ts": 1791930859.715351
-        },
-        {
-          "name": "이니스프리 그린티 히알루론산 스킨케어 세트, 1세트",
-          "price": "12,420원",
-          "discount_rate": 37,
-          "priceAt": "10.14 07:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/86595494233766-344885bc-ffa8-4db7-a1ca-d76ddff01c18.jpg",
-          "url": "https://link.coupang.com/a/hPlOGbPkZ2",
-          "_ts": 1791929765.28791
         }
       ]
     },
