@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데웰푸드 드림카카오 82%, 86g, 3개",
+          "price": "7,160원",
+          "discount_rate": 26,
+          "priceAt": "10.18 11:42",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1670583424599-444583f4-0151-439e-adda-671e94c98dce.jpg",
+          "url": "https://link.coupang.com/a/hWireWvQzY",
+          "_ts": 1792291320.6575308
+        },
+        {
           "name": "연세두유 고단백 검은콩 & 고칼슘 두유, 190ml, 16개",
           "price": "9,170원",
           "discount_rate": 34,
@@ -1140,15 +1149,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/08/10/10/0/1e5b3a68-d558-4c9e-861c-1a642f7584cd.jpg",
           "url": "https://link.coupang.com/a/hN1qAyWcSq",
           "_ts": 1791860589.8961558
-        },
-        {
-          "name": "홀리카홀리카 워터 바이브 틴트, 06고고, 1개",
-          "price": "3,960원",
-          "discount_rate": 46,
-          "priceAt": "10.13 11:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/158599160502599-3310c882-9067-42ed-914e-a75e0b88dd7f.jpg",
-          "url": "https://link.coupang.com/a/hNXtuPKSm4",
-          "_ts": 1791857272.349771
         }
       ]
     },
