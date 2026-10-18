@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "슈가로로 스파클링 사과 음료, 350ml, 24개, 350ml × 24개",
+          "price": "13,930원",
+          "discount_rate": 29,
+          "priceAt": "10.18 12:40",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/25cd/9680efc431b866f092649c04b3c13adfe18236e24133cd1a7d2fb34be3b0.jpg",
+          "url": "https://link.coupang.com/a/hWmEjk4k0a",
+          "_ts": 1792294857.735788
+        },
+        {
           "name": "롯데웰푸드 드림카카오 82%, 86g, 3개",
           "price": "7,160원",
           "discount_rate": 26,
@@ -1131,24 +1140,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/139120420649574-5e722027-499a-40b6-9964-2760ad576719.jpg",
           "url": "https://link.coupang.com/a/hN73VcvC4O",
           "_ts": 1791866160.506138
-        },
-        {
-          "name": "요넥스 배드민턴 라켓 2p + 케이스 세트, GR350, 1세트",
-          "price": "17,700원",
-          "discount_rate": 49,
-          "priceAt": "10.13 12:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/359234731452838-789c52e7-213a-4294-8b12-fde9b3fe6db1.jpg",
-          "url": "https://link.coupang.com/a/hN3YggsmtN",
-          "_ts": 1791862725.223685
-        },
-        {
-          "name": "티젠 콤부차 이온, 5g, 30개, 5g × 30개",
-          "price": "8,410원",
-          "discount_rate": 23,
-          "priceAt": "10.13 12:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/08/10/10/0/1e5b3a68-d558-4c9e-861c-1a642f7584cd.jpg",
-          "url": "https://link.coupang.com/a/hN1qAyWcSq",
-          "_ts": 1791860589.8961558
         }
       ]
     },
@@ -2272,16 +2263,6 @@
           "url": "https://toss.shopping/_m/dohgTEgd",
           "_ts": 1791863125.388893,
           "_product_id": "92778187"
-        },
-        {
-          "name": "안성마춤농협 고시히카리쌀, 특등급, 10kg, 1개",
-          "price": "35,900원",
-          "discount_rate": 59,
-          "priceAt": "10.13 12:30",
-          "image": "https://shopping.toss.im/live/temp/2026-09-17/4e422b53-ede8-4e9e-85c8-5ad4218958bb.jpeg",
-          "url": "https://toss.shopping/_m/7UmoGnze",
-          "_ts": 1791862217.723119,
-          "_product_id": "2650541457"
         }
       ]
     },
