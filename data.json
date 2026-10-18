@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "엘라스틴 닥터노비드 탈모증상완화 지루성 두피용 약산성 비듬 샴푸, 50ml, 1개",
+          "price": "100원",
+          "discount_rate": 93,
+          "priceAt": "10.19 07:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/243431077745102-d37e470e-27c5-4d92-a85a-bbb5085b7c7c.jpg",
+          "url": "https://link.coupang.com/a/hXD2X9xTY4",
+          "_ts": 1792361521.6815019
+        },
+        {
           "name": "쁘리엘르 프림 라셀 극세사 10mm 차렵이불 세트, 스노우아이보리, Q, 이불+베개커버 세트",
           "price": "28,280원",
           "discount_rate": 76,
@@ -1122,15 +1131,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/86595494233766-344885bc-ffa8-4db7-a1ca-d76ddff01c18.jpg",
           "url": "https://link.coupang.com/a/hPlOGbPkZ2",
           "_ts": 1791929765.28791
-        },
-        {
-          "name": "비비고 통새우 만두 (냉동), 200g, 1개",
-          "price": "3,610원",
-          "discount_rate": 26,
-          "priceAt": "10.14 07:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/886627482114037-e514130b-ca96-4542-8feb-4f498518ac3c.jpg",
-          "url": "https://link.coupang.com/a/hPk2sxG7IO",
-          "_ts": 1791929111.4620328
         }
       ]
     },
