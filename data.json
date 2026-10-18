@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "GAP 추부 깻잎, 100g, 1팩, 100g × 1팩",
+          "price": "1,980원",
+          "discount_rate": 49,
+          "priceAt": "10.18 19:43",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1302174261039632-c0421bf3-7f01-4e6a-a26b-172cad236057.jpg",
+          "url": "https://link.coupang.com/a/hWQPH009Ei",
+          "_ts": 1792320201.016713
+        },
+        {
           "name": "추억의국민학교떡볶이 오리지널 (밀떡) (냉동), 600g, 2개",
           "price": "8,990원",
           "discount_rate": 20,
@@ -2197,26 +2206,6 @@
           "url": "https://toss.shopping/_m/bRhimG2r",
           "_ts": 1791891246.406671,
           "_product_id": "2545977563"
-        },
-        {
-          "name": "널담 뚱카롱, 초코홀릭 55g 4개입 1박스 + 황치즈 55g 4개입 1박스, 2박스",
-          "price": "8,390원",
-          "discount_rate": 50,
-          "priceAt": "10.13 19:37",
-          "image": "https://shopping.toss.im/live/taca/ai/MmE3MWRi/QU1weHg2ekhXWExFT1lzKzNLY203eE5vYmtzVDltZVN3MXZaMXN3VGtjNXM.png",
-          "url": "https://toss.shopping/_m/ViRImo4B",
-          "_ts": 1791887827.556067,
-          "_product_id": "109816969"
-        },
-        {
-          "name": "알파CD 레몬컷, 120정, 2개",
-          "price": "12,330원",
-          "discount_rate": 69,
-          "priceAt": "10.13 19:20",
-          "image": "https://shopping.toss.im/live/taca/ai/N2VhMzI3/Y0I4WUQ2RTl4d1BCZzRIdkF3K0h6T2VQNlpmQTR3WURqdkU5OGpNTmZ4dz0.png",
-          "url": "https://toss.shopping/_m/ftpdtDxi",
-          "_ts": 1791886835.197879,
-          "_product_id": "2211280457"
         }
       ]
     },
