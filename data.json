@@ -1140,6 +1140,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "실속밥상 싸래기쌀, 20kg, 1개",
+          "price": "19,900원",
+          "discount_rate": 53,
+          "priceAt": "10.19 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-01-30/597b18e3-e1cf-4591-8cb4-a105599845ee.png",
+          "url": "https://toss.shopping/_m/36ufNUbg",
+          "_ts": 1792335695.217301,
+          "_flash": true,
+          "_product_id": "2661853213"
+        },
+        {
+          "name": "쏘울너츠 100% 땅콩버터 크런치, 500g, 2개",
+          "price": "6,970원",
+          "discount_rate": 65,
+          "priceAt": "10.19 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-01-14/a0a74bde-8214-479d-bc11-399abd45a539.jpeg",
+          "url": "https://toss.shopping/_m/nVbm0Ech",
+          "_ts": 1792335695.217267,
+          "_flash": true,
+          "_product_id": "627713829"
+        },
+        {
+          "name": "아라솔 구운란, 대란, 30구, 2개",
+          "price": "15,300원",
+          "discount_rate": 49,
+          "priceAt": "10.19 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/OWI2ZTQ0/VllWaW90U2x6SzZxNWxWR3FzelhVMU5xamxsYWMzcWxTVlZWckkwY1RTcz0.png",
+          "url": "https://toss.shopping/_m/vtW0ZbUD",
+          "_ts": 1792335695.217219,
+          "_flash": true,
+          "_product_id": "2374489861"
+        },
+        {
           "name": "광천파도김 들기름으로 구워 더욱 고소한 광천김, 4g, 32개",
           "price": "7,750원",
           "discount_rate": 48,
@@ -2232,39 +2265,6 @@
           "_ts": 1791903699.974041,
           "_flash": true,
           "_product_id": "846367687"
-        },
-        {
-          "name": "동국제약 마데카 메디패치, 스팟패치, 51매, 3개",
-          "price": "11,330원",
-          "discount_rate": 41,
-          "priceAt": "10.14 00:01",
-          "image": "https://shopping.toss.im/live/temp/2025-08-12/380d5568-fb75-4e8a-b563-40a92e2d7af6.png",
-          "url": "https://toss.shopping/_m/xf6bXWFf",
-          "_ts": 1791903674.0328262,
-          "_flash": true,
-          "_product_id": "12689635"
-        },
-        {
-          "name": "신발 세탁망, 그레이, 19x39cm, 2개",
-          "price": "3,350원",
-          "discount_rate": 67,
-          "priceAt": "10.14 00:01",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjZkMTZh/QUtWNnBVcWRZbFU1ZGVKdjhzdk9ucms1NWpCZFlCM0NEL3dHT2hnWGVLM2w.png",
-          "url": "https://toss.shopping/_m/5loz6wKa",
-          "_ts": 1791903674.032777,
-          "_flash": true,
-          "_product_id": "196242361"
-        },
-        {
-          "name": "알뜰공식 심리스 투톤 모달 팬티 6종, 색상혼합, XL, 1세트",
-          "price": "10,290원",
-          "discount_rate": 39,
-          "priceAt": "10.14 00:01",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjA5YjU3/YTBzNjB3bEtMVW5KYWl0cHFVaXRhV1ZwVlNrVXFWU3BLcW1pcllLMWZSVT0.png",
-          "url": "https://toss.shopping/_m/REWCZdR9",
-          "_ts": 1791903674.0327091,
-          "_flash": true,
-          "_product_id": "172216281"
         }
       ]
     },
