@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "데시뉴 뉴노멀 고밀도 항균 누빔 사방밴딩형 베개커버, 허니버터, 40 x 60 cm, 2개",
+          "price": "3,110원",
+          "discount_rate": 82,
+          "priceAt": "10.19 07:42",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/q3dtjwfm/8ecbb10ce58a48ea91ca6d466d38864a.jpg",
+          "url": "https://link.coupang.com/a/hXGeJxlNcX",
+          "_ts": 1792363361.5490618
+        },
+        {
           "name": "켈로그 리얼 그래놀라 오리지널 시리얼, 350g, 1개, 350g × 1개",
           "price": "4,160원",
           "discount_rate": 20,
@@ -1149,24 +1158,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/130043304657001-fd620de0-b52d-4f76-bc8d-a68091f6fa0a.png",
           "url": "https://link.coupang.com/a/hPnLjoPuI8",
           "_ts": 1791931395.900728
-        },
-        {
-          "name": "이자녹스 로얄 골든 스네일 크림, 60ml, 1개",
-          "price": "8,390원",
-          "discount_rate": 53,
-          "priceAt": "10.14 07:37",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/209968185863426-ca35362a-23ec-4a05-bf2e-a988db49751e.jpg",
-          "url": "https://link.coupang.com/a/hPnj8zwBb2",
-          "_ts": 1791931028.997411
-        },
-        {
-          "name": "솔브리빙 다용도 미니 실리콘 화장실 유리창 차량 물기제거기, 화이트, 3개",
-          "price": "2,890원",
-          "discount_rate": 37,
-          "priceAt": "10.14 07:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2023/03/29/18/9/0f798e24-2701-4269-8c05-ff89d3529666.png",
-          "url": "https://link.coupang.com/a/hPm7sp5OWy",
-          "_ts": 1791930859.715351
         }
       ]
     },
