@@ -1131,15 +1131,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/204807917544939-a899dd17-ae55-45ef-849e-d760145d9499.jpg",
           "url": "https://link.coupang.com/a/hOaXt0l4nY",
           "_ts": 1791868591.873546
-        },
-        {
-          "name": "굿밸류 크리스탈 에어 젤리 쿠션 휴대폰 케이스 2p, 갤럭시S24, 투명",
-          "price": "100원",
-          "discount_rate": 98,
-          "priceAt": "10.13 14:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/04/01/11/2/313d7d63-bd7b-4612-9112-cbf38524b76e.png",
-          "url": "https://link.coupang.com/a/hOakWKlLTE",
-          "_ts": 1791868070.938802
         }
       ]
     },
@@ -1148,6 +1139,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "요거프레소 컵커피, 카페라떼 200ml 10개 + 카페모카 200ml 10개, 20개",
+          "price": "12,900원",
+          "discount_rate": 66,
+          "priceAt": "10.18 14:08",
+          "image": "https://shopping.toss.im/live/temp/2026-04-13/91d9faf8-52be-4dca-9794-841e7949a539.png",
+          "url": "https://toss.shopping/_m/fIqsSXRf",
+          "_ts": 1792300089.483107,
+          "_product_id": "88276283"
+        },
         {
           "name": "농협안심 새청무 탄탄대로 쌀, 상등급, 10kg, 1개",
           "price": "27,000원",
