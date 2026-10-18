@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 리셋클렌즈 48시간 ABC 주스, 1개, 960ml",
+          "price": "10,210원",
+          "discount_rate": 32,
+          "priceAt": "10.18 15:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/220734021270298-c9a0df01-78b9-4d2e-a937-6792990fbb1c.jpg",
+          "url": "https://link.coupang.com/a/hWw1TRKIMu",
+          "_ts": 1792303572.797559
+        },
+        {
           "name": "오랄비 바이탈리티 키즈 프리미엄 전동칫솔, 3708, 프로즌, 1개",
           "price": "21,420원",
           "discount_rate": 52,
@@ -1122,15 +1131,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2474620569104459-f79bfd98-b96e-43d0-be2f-ea80c75218b9.jpg",
           "url": "https://link.coupang.com/a/hOeI5uhgku",
           "_ts": 1791871756.1535969
-        },
-        {
-          "name": "아이리버 C타입 커널형 리모컨컨트롤 줄꼬임방지 고품질 알루미늄 유선 이어폰 BVC-300C 화이트",
-          "price": "3,900원",
-          "discount_rate": 52,
-          "priceAt": "10.13 14:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/204807917544939-a899dd17-ae55-45ef-849e-d760145d9499.jpg",
-          "url": "https://link.coupang.com/a/hOaXt0l4nY",
-          "_ts": 1791868591.873546
         }
       ]
     },
@@ -2244,16 +2244,6 @@
           "url": "https://toss.shopping/_m/7Wy9w4rr",
           "_ts": 1791871993.566856,
           "_product_id": "2637785485"
-        },
-        {
-          "name": "대원제약 눈건강 파워 루테인 골드, 500mg, 30캡슐, 6박스",
-          "price": "14,500원",
-          "discount_rate": 90,
-          "priceAt": "10.13 14:18",
-          "image": "https://shopping.toss.im/live/product/680703/093eda5f-cb80-4858-8dc9-7cbba25a8fa1.jpg",
-          "url": "https://toss.shopping/_m/Zr3YtDUk",
-          "_ts": 1791868713.1035469,
-          "_product_id": "12584149"
         }
       ]
     },
