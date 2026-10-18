@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스탠리 퀜처 H2.0 플로우스테이트 텀블러, 크림 2.0, 591ml, 1개",
+          "price": "24,950원",
+          "discount_rate": 35,
+          "priceAt": "10.18 10:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/a1c2/adf7fd927bfb8e7470c170a0cd01402e76eb12627f9031f37832d3d397de.jpg",
+          "url": "https://link.coupang.com/a/hWb2D6cuSz",
+          "_ts": 1792285953.2561548
+        },
+        {
           "name": "카페메이트 삼립 오븐에 구운 호두파이 10p, 400g, 1개",
           "price": "5,600원",
           "discount_rate": 44,
@@ -1140,15 +1149,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1769553708361081-77523e4c-a013-4a5f-8d80-c1c1e1925ba2.jpg",
           "url": "https://link.coupang.com/a/hNVHcw96eO",
           "_ts": 1791855777.454531
-        },
-        {
-          "name": "하이뮨 프로틴 밸런스 드링크믹스 RTD, 190ml, 24개, 190ml × 24개",
-          "price": "19,990원",
-          "discount_rate": 22,
-          "priceAt": "10.13 09:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/02/07/14/9/8fcf66ab-e68f-498c-9078-a004d3feebaf.jpg",
-          "url": "https://link.coupang.com/a/hNRtNH6Qpw",
-          "_ts": 1791852237.121587
         }
       ]
     },
@@ -2272,26 +2272,6 @@
           "url": "https://toss.shopping/_m/7UmoGnze",
           "_ts": 1791862217.723119,
           "_product_id": "2650541457"
-        },
-        {
-          "name": "세플로 세탁가능 소프트 욕실발판, 전용세탁망 포함, 모던헤리티지, 60x40, 1세트",
-          "price": "6,410원",
-          "discount_rate": 77,
-          "priceAt": "10.13 10:06",
-          "image": "https://shopping.toss.im/live/temp/2026-03-23/435879d1-af55-41e6-bb95-f3b5194565c0.png",
-          "url": "https://toss.shopping/_m/Tg4GnGp3",
-          "_ts": 1791853593.546601,
-          "_product_id": "2642140081"
-        },
-        {
-          "name": "참도깨비 어묵장인 박경도 한끼어묵탕, 220g, 5봉",
-          "price": "9,240원",
-          "discount_rate": 48,
-          "priceAt": "10.13 09:35",
-          "image": "https://shopping.toss.im/live/taca/ai/OWQ1NzI1/VGFNM1NiU0R5NmJXeXlzVFcweWNVcTA0YUZYMDhGaG9JMVBBdEwwSzRKVT0.png",
-          "url": "https://toss.shopping/_m/nKSuV7cq",
-          "_ts": 1791851717.332159,
-          "_product_id": "418996905"
         }
       ]
     },
