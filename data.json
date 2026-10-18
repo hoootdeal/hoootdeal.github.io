@@ -1122,15 +1122,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/d5ea437b-2e2f-4707-88c2-a8a582dedc987273500018811819109.png",
           "url": "https://link.coupang.com/a/hOzowxOcVM",
           "_ts": 1791889108.983799
-        },
-        {
-          "name": "솔리몬 스퀴즈드 레몬즙, 1L, 1개, 1L × 1개",
-          "price": "7,990원",
-          "discount_rate": 32,
-          "priceAt": "10.13 19:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6f7b/96c979a3efed6cbb72bcc10dafeba9b2e41175add9c531bad6b222b56934.jpg",
-          "url": "https://link.coupang.com/a/hOykpqjpIW",
-          "_ts": 1791888213.8223848
         }
       ]
     },
@@ -1139,6 +1130,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
+          "price": "7,300원",
+          "discount_rate": 75,
+          "priceAt": "10.18 19:50",
+          "image": "https://shopping.toss.im/live/temp/2026-04-07/020b76ca-3a1a-45e9-ad26-e430ccf4c508.jpeg",
+          "url": "https://toss.shopping/_m/5abj1peg",
+          "_ts": 1792320643.275226,
+          "_product_id": "31367569"
+        },
         {
           "name": "해남 호풍미 호박고구마, 대, 5kg, 1박스",
           "price": "10,370원",
