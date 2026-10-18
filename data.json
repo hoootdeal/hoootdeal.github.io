@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "탐라황감 당도선별 10brix 감귤, 2kg(대과), 1개, 2kg(대과) × 1개",
+          "price": "9,900원",
+          "discount_rate": 34,
+          "priceAt": "10.18 20:39",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/tvzzsnmf/4e612af48e4b49458a01228f7c280ade.jpg",
+          "url": "https://link.coupang.com/a/hWUQQUD7KK",
+          "_ts": 1792323575.661584
+        },
+        {
           "name": "GAP 추부 깻잎, 100g, 1팩, 100g × 1팩",
           "price": "1,980원",
           "discount_rate": 49,
@@ -1104,15 +1113,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5181490820273-7ec88c35-eca6-469b-8f30-f45f971ffe36.jpg",
           "url": "https://link.coupang.com/a/hOHtNXuyWW",
           "_ts": 1791895896.4134212
-        },
-        {
-          "name": "테리파머 호텔 수건 200g 30수 면사, 스톤그레이, 10개",
-          "price": "23,430원",
-          "discount_rate": 40,
-          "priceAt": "10.13 20:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b8cb/6ba127e0ebd810a7af315a80900e315ee53693ecc18812c25609036cf3ef.jpg",
-          "url": "https://link.coupang.com/a/hOALZ70VY4",
-          "_ts": 1791890266.1538079
         }
       ]
     },
@@ -2200,16 +2200,6 @@
           "url": "https://toss.shopping/_m/N7xFa6uo",
           "_ts": 1791892147.427928,
           "_product_id": "1974355257"
-        },
-        {
-          "name": "메르헨트 저분자 히알루론산 모공 토너, 1000ml, 2개",
-          "price": "11,340원",
-          "discount_rate": 71,
-          "priceAt": "10.13 20:34",
-          "image": "https://shopping.toss.im/live/temp/2026-07-27/8c936d9f-59f0-46b0-b6b2-1a9497694033.jpeg",
-          "url": "https://toss.shopping/_m/bRhimG2r",
-          "_ts": 1791891246.406671,
-          "_product_id": "2545977563"
         }
       ]
     },
