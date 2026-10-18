@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오랄비 바이탈리티 키즈 프리미엄 전동칫솔, 3708, 프로즌, 1개",
+          "price": "21,420원",
+          "discount_rate": 52,
+          "priceAt": "10.18 14:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/03/21/10/4/47b5f48f-7536-483c-973f-cc12044164cb.jpeg",
+          "url": "https://link.coupang.com/a/hWsJJ9lxds",
+          "_ts": 1792299968.28797
+        },
+        {
           "name": "초키앤쿠키 도라에몽 씬 포테이토 앤 초코, 72g, 5개, 72g × 5개",
           "price": "8,200원",
           "discount_rate": 22,
@@ -1131,15 +1140,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/04/01/11/2/313d7d63-bd7b-4612-9112-cbf38524b76e.png",
           "url": "https://link.coupang.com/a/hOakWKlLTE",
           "_ts": 1791868070.938802
-        },
-        {
-          "name": "해찬들 사계절쌈장, 300g, 2개",
-          "price": "1,980원",
-          "discount_rate": 50,
-          "priceAt": "10.13 13:53",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/0bb77b84-40e5-45b4-9ee5-661335cb033e535292651386042423.png",
-          "url": "https://link.coupang.com/a/hN9jDoOu9Q",
-          "_ts": 1791867216.199757
         }
       ]
     },
