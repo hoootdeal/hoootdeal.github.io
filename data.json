@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오징어땅콩, 30g, 22개",
+          "price": "7,900원",
+          "discount_rate": 21,
+          "priceAt": "10.19 08:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/67902070672419-1dbf1bac-15dd-4b0b-95b6-19adc5c52491.png",
+          "url": "https://link.coupang.com/a/hXHuBHcQMe",
+          "_ts": 1792364414.2588968
+        },
+        {
           "name": "데시뉴 뉴노멀 고밀도 항균 누빔 사방밴딩형 베개커버, 허니버터, 40 x 60 cm, 2개",
           "price": "3,110원",
           "discount_rate": 82,
@@ -1149,15 +1158,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1423447f-c60b-40f3-9a1f-7a65c5362a718920187659943336032.png",
           "url": "https://link.coupang.com/a/hPpnfmploi",
           "_ts": 1791932751.733598
-        },
-        {
-          "name": "바겐슈타이거 스텐 행 레이들 홀더, 1개, 단일 색상",
-          "price": "6,040원",
-          "discount_rate": 39,
-          "priceAt": "10.14 07:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/130043304657001-fd620de0-b52d-4f76-bc8d-a68091f6fa0a.png",
-          "url": "https://link.coupang.com/a/hPnLjoPuI8",
-          "_ts": 1791931395.900728
         }
       ]
     },
