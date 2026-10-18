@@ -1140,15 +1140,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/158599160502599-3310c882-9067-42ed-914e-a75e0b88dd7f.jpg",
           "url": "https://link.coupang.com/a/hNXtuPKSm4",
           "_ts": 1791857272.349771
-        },
-        {
-          "name": "신라명과 얀스맘 쿠키 세트, 650g, 1세트, 650g × 1세트",
-          "price": "8,380원",
-          "discount_rate": 27,
-          "priceAt": "10.13 10:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1769553708361081-77523e4c-a013-4a5f-8d80-c1c1e1925ba2.jpg",
-          "url": "https://link.coupang.com/a/hNVHcw96eO",
-          "_ts": 1791855777.454531
         }
       ]
     },
@@ -1157,6 +1148,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "앙쥬 모이스처 알로에 폼클렌징, 100ml, 10개",
+          "price": "8,390원",
+          "discount_rate": 91,
+          "priceAt": "10.18 10:52",
+          "image": "https://shopping.toss.im/live/temp/2026-06-25/0f2c8f13-0664-482b-b301-7ac54c902d94.png",
+          "url": "https://toss.shopping/_m/7bViW8eB",
+          "_ts": 1792288341.023681,
+          "_product_id": "2310852455"
+        },
         {
           "name": "전통압착 통참기름, 350ml, 4개",
           "price": "16,870원",
