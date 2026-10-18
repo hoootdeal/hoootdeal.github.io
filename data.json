@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "추억의국민학교떡볶이 오리지널 (밀떡) (냉동), 600g, 2개",
+          "price": "8,990원",
+          "discount_rate": 20,
+          "priceAt": "10.18 18:44",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1327632924357665-a8839ab4-4774-4f41-ad6e-35c22d6abc35.jpg",
+          "url": "https://link.coupang.com/a/hWMCaFgBKC",
+          "_ts": 1792316658.823883
+        },
+        {
           "name": "키드오 딸기 크래커 샌드위치, 90g, 3개",
           "price": "3,450원",
           "discount_rate": 31,
@@ -1113,24 +1122,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6f7b/96c979a3efed6cbb72bcc10dafeba9b2e41175add9c531bad6b222b56934.jpg",
           "url": "https://link.coupang.com/a/hOykpqjpIW",
           "_ts": 1791888213.8223848
-        },
-        {
-          "name": "구운김 한입 달콤 쌀과자, 250g, 2개, 250g × 2개",
-          "price": "5,120원",
-          "discount_rate": 23,
-          "priceAt": "10.13 18:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/advertiser/1754643700618/76f1567e-743b-4885-89d0-5bce93cee518.jpg",
-          "url": "https://link.coupang.com/a/hOt3n5eSnA",
-          "_ts": 1791884623.477667
-        },
-        {
-          "name": "광동제약 썬키스트 제로 복숭아레몬 소다, 190ml, 30개, 190ml × 30개",
-          "price": "9,890원",
-          "discount_rate": 29,
-          "priceAt": "10.13 17:53",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1253215412489089-e3bd8547-9614-4d31-b127-6a7ebe79f4b1.jpg",
-          "url": "https://link.coupang.com/a/hOqqUTogMu",
-          "_ts": 1791881584.446191
         }
       ]
     },
@@ -2216,26 +2207,6 @@
           "url": "https://toss.shopping/_m/ftpdtDxi",
           "_ts": 1791886835.197879,
           "_product_id": "2211280457"
-        },
-        {
-          "name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
-          "price": "5,450원",
-          "discount_rate": 63,
-          "priceAt": "10.13 18:31",
-          "image": "https://shopping.toss.im/live/taca/ai/YmI1NGJk/QUpobU9jOXRzYlNac25uSVpEbW03Wm1lVTF0TXkweFlNekR6VXNubkhLY00.png",
-          "url": "https://toss.shopping/_m/7cAsXrbr",
-          "_ts": 1791883898.56989,
-          "_product_id": "241796467"
-        },
-        {
-          "name": "셰프초이스 동그랑땡, 2kg, 1개",
-          "price": "15,900원",
-          "discount_rate": 38,
-          "priceAt": "10.13 18:06",
-          "image": "https://shopping.toss.im/live/temp/2026-07-01/c531b0a1-b43a-4e3b-9457-853e56f55bab.png",
-          "url": "https://toss.shopping/_m/FgqKH6rr",
-          "_ts": 1791882406.911336,
-          "_product_id": "2551894295"
         }
       ]
     },
