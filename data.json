@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청정원순창 재래식 생된장, 2.8kg, 1개",
+          "price": "8,780원",
+          "discount_rate": 23,
+          "priceAt": "10.20 08:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/28401590849864-dc5e7736-f554-4f78-84d5-744f48ebd7a7.jpg",
+          "url": "https://link.coupang.com/a/hZmzzQZQL6",
+          "_ts": 1792450963.029597
+        },
+        {
           "name": "생면식감 매운맛 95.9g, 4개",
           "price": "2,680원",
           "discount_rate": 32,
@@ -2092,72 +2101,6 @@
           "url": "https://toss.shopping/_m/xpPlmJBd",
           "_ts": 1792030196.433131,
           "_product_id": "2643080943"
-        },
-        {
-          "name": "로마나 달콤바삭 황금 고구마칩, 320g, 4개",
-          "price": "13,700원",
-          "discount_rate": 65,
-          "priceAt": "10.15 08:02",
-          "image": "https://shopping.toss.im/live/taca/ai/ODc3NzYw/VnVPalJ2RldYTjVhbkpvV09GYVhWT1phWXBHaDBwbGswMURXbTV5MEtTMD0.png",
-          "url": "https://toss.shopping/_m/7gEuvtHt",
-          "_ts": 1792018955.198626,
-          "_flash": true,
-          "_product_id": "146053115"
-        },
-        {
-          "name": "전라도 보쌈 김치, 3kg, 1개",
-          "price": "13,600원",
-          "discount_rate": 34,
-          "priceAt": "10.15 08:02",
-          "image": "https://shopping.toss.im/live/taca/ai/NTRjZTAw/QUxYemE1UFh3NGxBQXMrdFQ2OU43S0toYUFBTEZLSUVJNHEya3ZxVlhvYnY.png",
-          "url": "https://toss.shopping/_m/V8WZCPbm",
-          "_ts": 1792018955.198588,
-          "_flash": true,
-          "_product_id": "1378172323"
-        },
-        {
-          "name": "믈레폴 와치아테 멸균우유 3.5%, 1L, 12개",
-          "price": "18,900원",
-          "discount_rate": 58,
-          "priceAt": "10.15 08:02",
-          "image": "https://shopping.toss.im/live/temp/2025-11-17/e31cbdde-834f-4ae7-ba0d-81fd6f026fda.jpeg",
-          "url": "https://toss.shopping/_m/tRv17EEz",
-          "_ts": 1792018955.198542,
-          "_flash": true,
-          "_product_id": "166927491"
-        },
-        {
-          "name": "똑순이 알고니 알탕, 700g, 2개",
-          "price": "13,900원",
-          "discount_rate": 44,
-          "priceAt": "10.15 08:02",
-          "image": "https://shopping.toss.im/live/temp/2025-12-22/f70530aa-bca4-4ff0-81e0-8acc9e5edaec.jpeg",
-          "url": "https://toss.shopping/_m/jr1xrTLo",
-          "_ts": 1792018928.806377,
-          "_flash": true,
-          "_product_id": "588319967"
-        },
-        {
-          "name": "슬림떡볶이 로제맛, 230g, 4개",
-          "price": "5,530원",
-          "discount_rate": 64,
-          "priceAt": "10.15 08:02",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MzgzYjc2/QUlYSDJaK1huZzlNUHh0dVhleFo4YXp3ZkpoeEJmbE10djZodDA2QUZIbno.png",
-          "url": "https://toss.shopping/_m/3lrWbCFy",
-          "_ts": 1792018928.8063319,
-          "_flash": true,
-          "_product_id": "2482486143"
-        },
-        {
-          "name": "당연구소 귀리뻥, 40g, 10봉",
-          "price": "8,900원",
-          "discount_rate": 77,
-          "priceAt": "10.15 08:02",
-          "image": "https://shopping.toss.im/live/taca/ai/OGYwNTBl/QUlsTXpubVdiTzlOYTB4WXpkbHNtUTR4MlRtc0xZMzJzSVkxaDd6N1JGcEQ.png",
-          "url": "https://toss.shopping/_m/hwarW9V1",
-          "_ts": 1792018928.80628,
-          "_flash": true,
-          "_product_id": "1054244129"
         }
       ]
     },
