@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "남향또띠아 까르보나라 치킨브리또 (냉동), 125g, 4개입, 1개",
+          "price": "8,670원",
+          "discount_rate": 27,
+          "priceAt": "10.19 21:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2021/06/22/12/8/8184ffdc-2d47-4513-b624-a6643c3f79fd.jpg",
+          "url": "https://link.coupang.com/a/hYB5SXrS8a",
+          "_ts": 1792411939.985096
+        },
+        {
           "name": "청정원순창 조개멸치 된장찌개 양념, 450g, 1개, 450g × 1개",
           "price": "3,530원",
           "discount_rate": 35,
@@ -1158,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/96608067583187-8b976fec-cfc3-4386-bbf2-c46ce5b24606.jpg",
           "url": "https://link.coupang.com/a/hQldnyJ2iW",
           "_ts": 1791981314.6211252
-        },
-        {
-          "name": "익스트림 블랙마카 1800, 120정, 1개, 120정 × 1개",
-          "price": "15,900원",
-          "discount_rate": 33,
-          "priceAt": "10.14 21:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/111159891312074-2649f16b-a8c0-4ad3-9101-78b65c6701f6.jpg",
-          "url": "https://link.coupang.com/a/hQiPeJBR6W",
-          "_ts": 1791979310.014079
         }
       ]
     },
@@ -2205,26 +2205,6 @@
           "_ts": 1791990071.167828,
           "_flash": true,
           "_product_id": "559214405"
-        },
-        {
-          "name": "브릭홈 친환경 무표백 키친타올, 150매, 12롤",
-          "price": "8,990원",
-          "discount_rate": 77,
-          "priceAt": "10.14 20:54",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MTgyM2Jj/QUpya2t6YnRyTnFXdHlUTFRtclVzeWZKUkd0eUpJekxVcHRreVVsclZyU3Q.png",
-          "url": "https://toss.shopping/_m/ROgrqXJa",
-          "_ts": 1791978898.094477,
-          "_product_id": "1411723595"
-        },
-        {
-          "name": "은우담 설탕없는 진한 쌍화차, 18g, 20개입, 2박스",
-          "price": "17,070원",
-          "discount_rate": 71,
-          "priceAt": "10.14 20:22",
-          "image": "https://shopping.toss.im/live/temp/2026-02-07/3fdc895c-e2b1-4188-be1c-00890764c490.jpeg",
-          "url": "https://toss.shopping/_m/1N3AV67b",
-          "_ts": 1791976964.244524,
-          "_product_id": "811845505"
         }
       ]
     },
