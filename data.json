@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "고래사어묵 바로 끓여먹는 꼬치어묵전골 & 떡볶이 2~3인분 (냉동), 755g, 1개",
+          "price": "10,460원",
+          "discount_rate": 25,
+          "priceAt": "10.19 14:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/zmgzyevs/f159bb7e037f48268c11fa8a73c02512.jpg",
+          "url": "https://link.coupang.com/a/hYbb0TXmjA",
+          "_ts": 1792389353.442174
+        },
+        {
           "name": "오리온 핫 고래밥 매콤양념맛, 56g, 6개",
           "price": "4,820원",
           "discount_rate": 51,
@@ -1158,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/14600946669595-b80c55db-d568-488a-b514-38b91d0f6dd9.jpg",
           "url": "https://link.coupang.com/a/hPSKROlExU",
           "_ts": 1791957418.168784
-        },
-        {
-          "name": "해찬들 8가지 국산 양념쌈장, 1개, 500g",
-          "price": "5,610원",
-          "discount_rate": 28,
-          "priceAt": "10.14 14:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1260110362702689-9d78610b-caf7-4525-a683-3bd4a90fc7bf.png",
-          "url": "https://link.coupang.com/a/hPRKljkQPk",
-          "_ts": 1791956571.72886
         }
       ]
     },
@@ -2215,16 +2215,6 @@
           "url": "https://toss.shopping/_m/TgGfTMF3",
           "_ts": 1791959736.927296,
           "_product_id": "2637398985"
-        },
-        {
-          "name": "마른줄기 상추 궁채, 500g, 1개",
-          "price": "8,200원",
-          "discount_rate": 64,
-          "priceAt": "10.14 14:17",
-          "image": "https://shopping.toss.im/live/temp/2026-07-29/ddf27c6e-f87d-49fe-87ce-a5420ff1c4f7.jpeg",
-          "url": "https://toss.shopping/_m/jcnLFqUt",
-          "_ts": 1791955055.429568,
-          "_product_id": "90092179"
         }
       ]
     },
