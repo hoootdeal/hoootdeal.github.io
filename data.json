@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "허쉬 코코아 파우더, 1개, 226g, 1개입",
+          "price": "6,000원",
+          "discount_rate": 20,
+          "priceAt": "10.19 19:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/15/12/8/7768fa08-7c3a-455c-8441-5bd2d588fa12.jpg",
+          "url": "https://link.coupang.com/a/hYuJKR2h4u",
+          "_ts": 1792405761.859688
+        },
+        {
           "name": "강고집 바삭 구운 순살 먹태 오리지널, 45g, 3개",
           "price": "9,460원",
           "discount_rate": 25,
@@ -1158,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7987871742551855-8ab14aa3-0e5f-4692-884d-f38024a0d2e2.jpeg",
           "url": "https://link.coupang.com/a/hQeRL7abe0",
           "_ts": 1791975984.568506
-        },
-        {
-          "name": "후룻바이더풋 젤리 20개입, 420g, 1개, 420g × 1개",
-          "price": "8,820원",
-          "discount_rate": 20,
-          "priceAt": "10.14 19:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/87536188509094-d3d8c141-4224-43fd-858c-ba7bcd6972e8.png",
-          "url": "https://link.coupang.com/a/hQaOLK3avc",
-          "_ts": 1791972584.360708
         }
       ]
     },
@@ -2225,16 +2225,6 @@
           "url": "https://toss.shopping/_m/FBpvkMZ1",
           "_ts": 1791974277.260113,
           "_product_id": "58528219"
-        },
-        {
-          "name": "푸드공식 오리지널 어포튀각, 90g, 4개",
-          "price": "8,900원",
-          "discount_rate": 47,
-          "priceAt": "10.14 19:12",
-          "image": "https://shopping.toss.im/live/taca/ai/NzRiNTIw/YzhubmVHVnBJczBlM0oyM250anNyWEVXMTNJeHpnOWh4bER4MWtZUTBkWT0.png",
-          "url": "https://toss.shopping/_m/t0k0nMOp",
-          "_ts": 1791972745.289108,
-          "_product_id": "18660435"
         }
       ]
     },
