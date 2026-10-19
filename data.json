@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "딥스 해양심층수 에코그린 무라벨, 500ml, 20개",
+          "price": "7,200원",
+          "discount_rate": 27,
+          "priceAt": "10.19 11:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3824560954429162-d0e8a208-e533-4713-bd86-40a611535885.jpg",
+          "url": "https://link.coupang.com/a/hXVMe9N8CW",
+          "_ts": 1792376409.794631
+        },
+        {
           "name": "가농 단백이 치즈맛 10개입, 640g, 1개",
           "price": "5,170원",
           "discount_rate": 30,
@@ -1140,15 +1149,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/09/9/5/7ef56909-9e9c-4c67-8363-e99f621f7ccc.png",
           "url": "https://link.coupang.com/a/hPHqv7PK6C",
           "_ts": 1791947907.088174
-        },
-        {
-          "name": "퀘이커 마시는 오트밀 그레인 서리태 낱봉팩, 1kg, 1세트, 1kg × 1세트",
-          "price": "10,920원",
-          "discount_rate": 40,
-          "priceAt": "10.14 11:19",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/06/13/8/ebed0679-664f-4038-ad57-df740dffe40e.jpg",
-          "url": "https://link.coupang.com/a/hPDcI46eoC",
-          "_ts": 1791944362.848305
         }
       ]
     },
@@ -2177,16 +2177,6 @@
           "url": "https://toss.shopping/_m/95RLprWp",
           "_ts": 1791950727.837471,
           "_product_id": "1635986563"
-        },
-        {
-          "name": "리쥬베닐 파이토베리어 호호바 EGF 크림, 100g, 1개",
-          "price": "11,520원",
-          "discount_rate": 76,
-          "priceAt": "10.14 10:50",
-          "image": "https://shopping.toss.im/live/taca/ai/N2YxZWI3/QUlReTNtdyt4MjErMHNlMG5Gc2hwSWxDUXB5R2Y4SEhyNk5jSGp0Tk91TFE.png",
-          "url": "https://toss.shopping/_m/jflJFYPt",
-          "_ts": 1791942623.991719,
-          "_product_id": "1179275865"
         }
       ]
     },
