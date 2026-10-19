@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "존쿡 델리미트 전G베이컨, 200g, 6개",
+          "price": "12,840원",
+          "discount_rate": 54,
+          "priceAt": "10.20 07:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/83878822519455-899e20de-3c92-4b90-9c98-5a56ddd3c8b0.jpg",
+          "url": "https://link.coupang.com/a/hZkPJmJi3g",
+          "_ts": 1792449502.266765
+        },
+        {
           "name": "스카치브라이트 베이킹소다 톡톡 크린스틱 시트타입 본품, 1개",
           "price": "13,950원",
           "discount_rate": 42,
@@ -1167,15 +1176,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2020/01/14/10/9/0c0530e9-ece3-411e-86b5-31725763c6c0.jpg",
           "url": "https://link.coupang.com/a/hQ3FnC4a3o",
           "_ts": 1792018637.0740612
-        },
-        {
-          "name": "하루온 붙이는 핫팩 50g, 3개",
-          "price": "5,310원",
-          "discount_rate": 50,
-          "priceAt": "10.15 07:37",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/25877847612117-c18acddc-40e7-4288-93ce-f2dec25514c8.png",
-          "url": "https://link.coupang.com/a/hQ2gJPdVcW",
-          "_ts": 1792017463.885036
         }
       ]
     },
