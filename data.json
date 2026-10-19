@@ -1158,15 +1158,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/282618615091207-c53d1815-26c8-4d1c-a918-2ceeed21c3ec.jpg",
           "url": "https://link.coupang.com/a/hP0uhRvrBk",
           "_ts": 1791963911.8677828
-        },
-        {
-          "name": "콘푸로스트 시리얼, 660g, 1개, 660g × 1개",
-          "price": "4,520원",
-          "discount_rate": 30,
-          "priceAt": "10.14 15:52",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/654793846138482-5e365227-4fcc-413c-8d76-8be0cae9797e.jpg",
-          "url": "https://link.coupang.com/a/hPWIrwMYg0",
-          "_ts": 1791960742.802929
         }
       ]
     },
@@ -1175,6 +1166,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "제주 구좌 흙당근, 중, 3kg, 1박스",
+          "price": "8,190원",
+          "discount_rate": 67,
+          "priceAt": "10.19 16:01",
+          "image": "https://shopping.toss.im/live/taca/ai/YjQyYTJh/QU9NTWk4TkF5Z3BVR3RUWGtsRzZISzBnRGNIc25Dby9pLzN5RjJvMmVoNEc.png",
+          "url": "https://toss.shopping/_m/Nzoaevb6",
+          "_ts": 1792393309.6683478,
+          "_product_id": "688130681"
+        },
         {
           "name": "한촌설렁탕 국물 6종 세트, 500g, 6개, 1세트",
           "price": "16,900원",
