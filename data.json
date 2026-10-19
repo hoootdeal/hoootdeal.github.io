@@ -1176,6 +1176,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쵱선생 구룡포 햇 과메기 + 해초 세트, 10마리/20쪽, 1세트",
+          "price": "22,200원",
+          "discount_rate": 39,
+          "priceAt": "10.19 20:05",
+          "image": "https://shopping.toss.im/live/taca/ai/OTI3MjE4/QU16TzdINGJORk5rZTJHWk5HaGVZdFlrN0I4Qm00R3J5eWMwSnQ1ZmtkMnI.png",
+          "url": "https://toss.shopping/_m/HuBspGKu",
+          "_ts": 1792407934.427973,
+          "_product_id": "542546629"
+        },
+        {
           "name": "지민푸드 통통왕족발, 1kg 내외, 2팩",
           "price": "14,400원",
           "discount_rate": 52,
@@ -2215,16 +2225,6 @@
           "url": "https://toss.shopping/_m/1N3AV67b",
           "_ts": 1791976964.244524,
           "_product_id": "811845505"
-        },
-        {
-          "name": "유한메디카 올데이 비타민C 엔 탑 3000 맥스, 90포, 2개",
-          "price": "13,280원",
-          "discount_rate": 92,
-          "priceAt": "10.14 19:37",
-          "image": "https://shopping.toss.im/live/taca/ai/ZGJlN2Q3/SmxsZWVUOXd5Q2xwT0ppek1UZ2V4ekY0SE1NdWtlV00wcFJ6SE1yV29ibz0.png",
-          "url": "https://toss.shopping/_m/FBpvkMZ1",
-          "_ts": 1791974277.260113,
-          "_product_id": "58528219"
         }
       ]
     },
