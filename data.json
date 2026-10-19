@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "신라면 로제 134g, 4개",
+          "price": "2,980원",
+          "discount_rate": 30,
+          "priceAt": "10.19 15:48",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/05/20/16/9/41869940-14d0-43f7-a67d-2c820c0d1457.jpg",
+          "url": "https://link.coupang.com/a/hYeWB1eC4W",
+          "_ts": 1792392502.166681
+        },
+        {
           "name": "고래사어묵 바로 끓여먹는 꼬치어묵전골 & 떡볶이 2~3인분 (냉동), 755g, 1개",
           "price": "10,460원",
           "discount_rate": 25,
@@ -2206,16 +2215,6 @@
           "url": "https://toss.shopping/_m/Hk95mw46",
           "_ts": 1791961836.301051,
           "_product_id": "78459743"
-        },
-        {
-          "name": "허니맘 24종 무첨가 주방세제, 4L, 2개",
-          "price": "7,180원",
-          "discount_rate": 54,
-          "priceAt": "10.14 15:35",
-          "image": "https://shopping.toss.im/live/temp/2026-08-28/dd45c7bb-e8c2-40ea-925b-96020996747d.jpeg",
-          "url": "https://toss.shopping/_m/TgGfTMF3",
-          "_ts": 1791959736.927296,
-          "_product_id": "2637398985"
         }
       ]
     },
