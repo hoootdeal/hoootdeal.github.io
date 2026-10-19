@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "생면식감 매운맛 95.9g, 4개",
+          "price": "2,680원",
+          "discount_rate": 32,
+          "priceAt": "10.20 07:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1769998811688997-666985e6-a34b-42ed-b5ad-6edec6444d4c.jpg",
+          "url": "https://link.coupang.com/a/hZmeBPlWVg",
+          "_ts": 1792450680.222195
+        },
+        {
           "name": "존쿡 델리미트 전G베이컨, 200g, 6개",
           "price": "12,840원",
           "discount_rate": 54,
@@ -1167,15 +1176,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/414678144892521-7853126d-8009-464d-b45d-6f25c3eee5c5.jpg",
           "url": "https://link.coupang.com/a/hQ8ljLt01c",
           "_ts": 1792022563.08806
-        },
-        {
-          "name": "올반 얇은피 인생왕교자 (냉동), 1.05kg, 1개, 1.05kg × 1개",
-          "price": "6,350원",
-          "discount_rate": 22,
-          "priceAt": "10.15 07:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2020/01/14/10/9/0c0530e9-ece3-411e-86b5-31725763c6c0.jpg",
-          "url": "https://link.coupang.com/a/hQ3FnC4a3o",
-          "_ts": 1792018637.0740612
         }
       ]
     },
