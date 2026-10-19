@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "가농 단백이 치즈맛 10개입, 640g, 1개",
+          "price": "5,170원",
+          "discount_rate": 30,
+          "priceAt": "10.19 10:27",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3021948253664879-ae5b30bb-59e7-498d-b9e1-6e89b73aca4d.jpg",
+          "url": "https://link.coupang.com/a/hXR1GO43BA",
+          "_ts": 1792373259.8268118
+        },
+        {
           "name": "코멕스 네오박스 리빙박스 정리수납함, 반투명, 2개",
           "price": "6,440원",
           "discount_rate": 53,
@@ -1140,24 +1149,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/06/13/8/ebed0679-664f-4038-ad57-df740dffe40e.jpg",
           "url": "https://link.coupang.com/a/hPDcI46eoC",
           "_ts": 1791944362.848305
-        },
-        {
-          "name": "샤크 에보파워 무선 핸디 청소기, 미드나잇블루, WV210KR",
-          "price": "75,100원",
-          "discount_rate": 32,
-          "priceAt": "10.14 10:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/43b8/5eb64c7f961ed67c21c54cf27f18352521fa14a5b2daf080531372589473.jpg",
-          "url": "https://link.coupang.com/a/hPzkPSZTjw",
-          "_ts": 1791941114.889062
-        },
-        {
-          "name": "참스토리 도가니탕, 500g, 4개, 500g × 4개",
-          "price": "15,710원",
-          "discount_rate": 23,
-          "priceAt": "10.14 10:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1330/0de96db383857f8597182292bc8add66e8d0f2139c7950e147a505df086c.jpg",
-          "url": "https://link.coupang.com/a/hPx0qbM1ds",
-          "_ts": 1791940000.613078
         }
       ]
     },
@@ -2186,16 +2177,6 @@
           "url": "https://toss.shopping/_m/jflJFYPt",
           "_ts": 1791942623.991719,
           "_product_id": "1179275865"
-        },
-        {
-          "name": "청년참기름, 350ml, 1개 + 청년들기름, 350ml, 1개",
-          "price": "15,800원",
-          "discount_rate": 69,
-          "priceAt": "10.14 10:14",
-          "image": "https://shopping.toss.im/live/product/74175/aefb4ffd-b4e4-4de5-93dc-d5009423eb1b.jpeg",
-          "url": "https://toss.shopping/_m/tE3BtLGf",
-          "_ts": 1791940492.7124732,
-          "_product_id": "274525487"
         }
       ]
     },
