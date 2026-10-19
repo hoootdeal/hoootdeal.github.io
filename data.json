@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "지리산수 무라벨, 18개, 2L",
+          "price": "8,320원",
+          "discount_rate": 22,
+          "priceAt": "10.19 12:13",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/325765575430263-80acebd5-3852-485b-9910-3c88407c8b30.jpg",
+          "url": "https://link.coupang.com/a/hXZzgW6Rrg",
+          "_ts": 1792379600.04005
+        },
+        {
           "name": "딥스 해양심층수 에코그린 무라벨, 500ml, 20개",
           "price": "7,200원",
           "discount_rate": 27,
