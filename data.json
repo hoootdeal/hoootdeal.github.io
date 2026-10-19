@@ -1158,15 +1158,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/654793846138482-5e365227-4fcc-413c-8d76-8be0cae9797e.jpg",
           "url": "https://link.coupang.com/a/hPWIrwMYg0",
           "_ts": 1791960742.802929
-        },
-        {
-          "name": "이즈니 AOP 버터, 250g, 1개",
-          "price": "11,690원",
-          "discount_rate": 47,
-          "priceAt": "10.14 14:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/14600946669595-b80c55db-d568-488a-b514-38b91d0f6dd9.jpg",
-          "url": "https://link.coupang.com/a/hPSKROlExU",
-          "_ts": 1791957418.168784
         }
       ]
     },
@@ -1175,6 +1166,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "한촌설렁탕 국물 6종 세트, 500g, 6개, 1세트",
+          "price": "16,900원",
+          "discount_rate": 57,
+          "priceAt": "10.19 15:24",
+          "image": "https://shopping.toss.im/live/temp/2026-08-21/ab38d43f-623f-4c8b-99e1-1f7fe3b35a15.png",
+          "url": "https://toss.shopping/_m/38QLBUW1",
+          "_ts": 1792391056.726316,
+          "_product_id": "2625185613"
+        },
         {
           "name": "퓨노센스 듀얼 퓨어 크림, 50ml, 1개",
           "price": "9,350원",
