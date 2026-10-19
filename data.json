@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기옛날 실쏙 구수한 누룽지, 540g, 1개",
+          "price": "8,500원",
+          "discount_rate": 25,
+          "priceAt": "10.19 12:37",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/04/22/18/8/bf0ed68d-7f75-4550-b7d9-ce124d44e9ec.jpg",
+          "url": "https://link.coupang.com/a/hX1itkzrhs",
+          "_ts": 1792381043.739944
+        },
+        {
           "name": "지리산수 무라벨, 18개, 2L",
           "price": "8,320원",
           "discount_rate": 22,
@@ -1149,15 +1158,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/07/11/1/fa12adfe-8433-43ef-adeb-eda4d40104a9.jpg",
           "url": "https://link.coupang.com/a/hPKZLTqacu",
           "_ts": 1791950903.8607402
-        },
-        {
-          "name": "롯데제과 퀘이커 마시는오트밀 오트&그레인, 50g, 20개, 50g × 20개",
-          "price": "17,440원",
-          "discount_rate": 38,
-          "priceAt": "10.14 12:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/09/9/5/7ef56909-9e9c-4c67-8363-e99f621f7ccc.png",
-          "url": "https://link.coupang.com/a/hPHqv7PK6C",
-          "_ts": 1791947907.088174
         }
       ]
     },
