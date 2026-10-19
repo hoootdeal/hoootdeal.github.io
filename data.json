@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "못생겨도 맛있는 애호박 1입, 1개입, 5개, 200g",
+          "price": "4,060원",
+          "discount_rate": 22,
+          "priceAt": "10.19 22:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5917980389101102-10996b16-eb5c-425b-9cda-e3daf2474eff.jpg",
+          "url": "https://link.coupang.com/a/hYGx5duP6G",
+          "_ts": 1792415680.545896
+        },
+        {
           "name": "남향또띠아 까르보나라 치킨브리또 (냉동), 125g, 4개입, 1개",
           "price": "8,670원",
           "discount_rate": 27,
