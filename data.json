@@ -1167,6 +1167,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "포천이동 양념LA갈비, 500g, 1팩",
+          "price": "7,900원",
+          "discount_rate": 50,
+          "priceAt": "10.19 12:15",
+          "image": "https://shopping.toss.im/live/taca/ai/YWQ1YzA5/QU16RU01L0lZcC9STjBkV0M3QzZVekM0dzJJSjdIQXo3czRVNXN0b1h1M28.png",
+          "url": "https://toss.shopping/_m/POfKIzmx",
+          "_ts": 1792379751.096183,
+          "_product_id": "2184701663"
+        },
+        {
           "name": "베라 무해력 4ZERO 클래식, 3겹, 30롤, 25m, 2팩",
           "price": "14,900원",
           "discount_rate": 62,
