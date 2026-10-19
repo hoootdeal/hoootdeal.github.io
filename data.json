@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "불닭볶음면 140g, 5개",
+          "price": "4,020원",
+          "discount_rate": 21,
+          "priceAt": "10.19 16:04",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/344801787593852-567aaca7-a965-4d97-adc9-4214051864f5.png",
+          "url": "https://link.coupang.com/a/hYf6NNO8lw",
+          "_ts": 1792393480.689059
+        },
+        {
           "name": "신라면 로제 134g, 4개",
           "price": "2,980원",
           "discount_rate": 30,
