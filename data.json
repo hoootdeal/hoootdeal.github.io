@@ -1167,6 +1167,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "지민푸드 통통왕족발, 1kg 내외, 2팩",
+          "price": "14,400원",
+          "discount_rate": 52,
+          "priceAt": "10.19 18:42",
+          "image": "https://shopping.toss.im/live/taca/ai/MGI0ZjQw/QU9OTTJ1eWNZSTVKbWF4T1VCTE15MGFzbmJKcjViV0l4cGh6WWVTVjFBRWY.png",
+          "url": "https://toss.shopping/_m/PwlSgwph",
+          "_ts": 1792402925.788863,
+          "_product_id": "1323071177"
+        },
+        {
           "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
           "price": "9,600원",
           "discount_rate": 65,
