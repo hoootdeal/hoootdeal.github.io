@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 요리육수 전골, 1L, 1개",
+          "price": "2,280원",
+          "discount_rate": 42,
+          "priceAt": "10.21 07:19",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1295993702595712-7a7dfd4d-f618-4fbb-89e6-0e4464c92592.png",
+          "url": "https://link.coupang.com/a/h0YoiBauRw",
+          "_ts": 1792534772.763505
+        },
+        {
           "name": "글라스락 플레인 원터치 텀블러, 레몬소르베, 350ml, 1개",
           "price": "8,500원",
           "discount_rate": 37,
@@ -1158,33 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/04/15/13/9/0b36f5e0-be22-48b6-abcf-feabc9822cb8.jpg",
           "url": "https://link.coupang.com/a/hSGifLW3Pg",
           "_ts": 1792103124.741704
-        },
-        {
-          "name": "바겐슈타이거 연마제 없는 스텐 사각 트레이 세트, 밧드 + 랙 + 트레이, 1세트",
-          "price": "8,900원",
-          "discount_rate": 34,
-          "priceAt": "10.16 07:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/pg5tcjle/37a537317216419d8d711c7ce906854a.jpg",
-          "url": "https://link.coupang.com/a/hSFJuCO2GO",
-          "_ts": 1792102654.637602
-        },
-        {
-          "name": "스카트 소프트 앤 스트롱 수세미, 그레이, 100개입, 2개",
-          "price": "6,500원",
-          "discount_rate": 44,
-          "priceAt": "10.16 07:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/06/22/14/1/a8ee5c9e-92e9-4765-a7de-a2e881f35871.jpg",
-          "url": "https://link.coupang.com/a/hSE4icRVkq",
-          "_ts": 1792102095.234041
-        },
-        {
-          "name": "풀무원 더커진 야채쏙 두부봉 어육소시지, 300g, 2개",
-          "price": "3,280원",
-          "discount_rate": 53,
-          "priceAt": "10.16 07:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/36368669339393-1432c0a9-f00e-4482-84ad-ce71afc881fc.jpg",
-          "url": "https://link.coupang.com/a/hSEXhaAqYu",
-          "_ts": 1792102002.199282
         }
       ]
     },
