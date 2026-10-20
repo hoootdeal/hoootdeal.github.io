@@ -1194,6 +1194,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "해피넛 까먹는 통마카다미아 로스티드, 225g, 2개",
+          "price": "9,600원",
+          "discount_rate": 69,
+          "priceAt": "10.20 16:58",
+          "image": "https://shopping.toss.im/live/temp/2026-09-15/c0281c81-9fa4-441f-b78b-26c97ad2bae6.png",
+          "url": "https://toss.shopping/_m/d4b68hnn",
+          "_ts": 1792483125.2363179,
+          "_product_id": "2652335355"
+        },
+        {
           "name": "웅진식품 애사비 오리지널, 500ml, 24개",
           "price": "12,850원",
           "discount_rate": 55,
@@ -2101,16 +2111,6 @@
           "url": "https://toss.shopping/_m/HZkb4FXy",
           "_ts": 1792051654.772728,
           "_product_id": "278980557"
-        },
-        {
-          "name": "외갓집 남도식 들녘 추어탕, 450g, 3팩",
-          "price": "8,620원",
-          "discount_rate": 73,
-          "priceAt": "10.15 16:42",
-          "image": "https://shopping.toss.im/live/taca/ai/MjhlMmQx/QVBka25PMDMyNElGQW45NS92bkE4enZYajhhTmg3Mk9ORFF3Y0hMTXc5aEQ.png",
-          "url": "https://toss.shopping/_m/vMv6WRRz",
-          "_ts": 1792050162.579165,
-          "_product_id": "1981136077"
         }
       ]
     },
