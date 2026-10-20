@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "천하장사 오리지날 소시지, 980g, 1개",
+          "price": "9,000원",
+          "discount_rate": 21,
+          "priceAt": "10.21 07:47",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6ce4/53fc570ad4367580959288ee08d316d35a53d68e9b5efa335e4187df3e0b.jpg",
+          "url": "https://link.coupang.com/a/h00n7pg4Jg",
+          "_ts": 1792536450.7552269
+        },
+        {
           "name": "퀘스트뉴트리션 프로틴 바 프로틴 21g, 쿠키 앤 크림, 720g, 2개",
           "price": "59,040원",
           "discount_rate": 25,
@@ -1149,33 +1158,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5393230486688-34423626-75ea-47f7-b83c-bd0f3ca24d99.jpg",
           "url": "https://link.coupang.com/a/hSJaqiuOei",
           "_ts": 1792105539.0230138
-        },
-        {
-          "name": "도밍고 꿀차 3종 선물세트, 꿀홍차 10p + ..., 1세트, 꿀홍차 10p + 꿀민트 10p + 꿀캐모마일 10p",
-          "price": "8,000원",
-          "discount_rate": 37,
-          "priceAt": "10.16 07:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/392250768397596-68a5af9f-ea35-4cd8-afbf-3a5cd7e690c1.jpg",
-          "url": "https://link.coupang.com/a/hSHpmBbuEe",
-          "_ts": 1792104060.324072
-        },
-        {
-          "name": "롯데웰푸드 바삭바삭 크런키 모나카 (냉동), 12개, 1개입, 150ml",
-          "price": "10,850원",
-          "discount_rate": 32,
-          "priceAt": "10.16 07:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/325664957819764-0d87750d-2698-43f1-8ccb-645583e93987.jpg",
-          "url": "https://link.coupang.com/a/hSHeyrnSaO",
-          "_ts": 1792103913.4376872
-        },
-        {
-          "name": "오리온초코파이 말차쇼콜라 12p, 408g, 1개",
-          "price": "3,600원",
-          "discount_rate": 25,
-          "priceAt": "10.16 07:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/04/15/13/9/0b36f5e0-be22-48b6-abcf-feabc9822cb8.jpg",
-          "url": "https://link.coupang.com/a/hSGifLW3Pg",
-          "_ts": 1792103124.741704
         }
       ]
     },
