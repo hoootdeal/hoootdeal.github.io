@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아삭오이, 5개입, 1개, 5개입 × 1개",
+          "price": "1,990원",
+          "discount_rate": 52,
+          "priceAt": "10.20 21:19",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1175200293095749-20101ce6-6ee1-405d-b490-484a00eec847.jpg",
+          "url": "https://link.coupang.com/a/h0huMxMbXE",
+          "_ts": 1792498756.8202538
+        },
+        {
           "name": "티젠 콤부차 청귤라임, 5g, 50개입, 1개",
           "price": "10,210원",
           "discount_rate": 24,
@@ -1176,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/dcef/1e538c0c232cceb06ed3a7605de322e484303bb0b85c73eae2a062195586.jpg",
           "url": "https://link.coupang.com/a/hR1yzMkBeS",
           "_ts": 1792068920.825012
-        },
-        {
-          "name": "존쿡델리미트 이탈리안 살라미, 50g, 3개",
-          "price": "11,840원",
-          "discount_rate": 38,
-          "priceAt": "10.15 20:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/e01401ac-e63d-4181-9150-9cc74349ca483361968541050620414.png",
-          "url": "https://link.coupang.com/a/hRXnmsyhIi",
-          "_ts": 1792065411.8970509
         }
       ]
     },
