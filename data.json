@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "토레타 이온음료, 500ml, 24개",
+          "price": "14,480원",
+          "discount_rate": 20,
+          "priceAt": "10.20 14:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1066049124660593-168c3d95-e66a-4552-bf87-4382fb8b9340.jpg",
+          "url": "https://link.coupang.com/a/hZL8rgrsVE",
+          "_ts": 1792472425.7267919
+        },
+        {
           "name": "디어커스 누볼라 EVA 욕실화, 블랙, 260mm, 2개",
           "price": "15,150원",
           "discount_rate": 52,
@@ -2083,16 +2092,6 @@
           "url": "https://toss.shopping/_m/P7kuw59B",
           "_ts": 1792042534.0869749,
           "_product_id": "255388277"
-        },
-        {
-          "name": "동원 덴마크 인포켓치즈 오리지널, 20g, 30개",
-          "price": "16,920원",
-          "discount_rate": 43,
-          "priceAt": "10.15 13:42",
-          "image": "https://shopping.toss.im/live/taca/ai/NjIzYjkx/QU50YTI2V05XTkt0WlZackpTV01wTTF6TFRWWktHeHViZG1rMHJYazBxMWE.png",
-          "url": "https://toss.shopping/_m/FsnlsKls",
-          "_ts": 1792039366.792612,
-          "_product_id": "2480890741"
         }
       ]
     },
