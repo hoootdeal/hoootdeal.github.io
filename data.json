@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "젠하이저 ACCENTUM Open 블루투스 이어폰, OTW1, 크림",
+          "price": "59,000원",
+          "discount_rate": 39,
+          "priceAt": "10.20 11:43",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/05/27/15/6/0c75be0c-0341-4922-a9a1-7d31cf9370cc.jpg",
+          "url": "https://link.coupang.com/a/hZCki5umZg",
+          "_ts": 1792464190.143191
+        },
+        {
           "name": "풀무원 올바른 핫도그 개별 (냉동), 75g, 7개입, 1개",
           "price": "5,660원",
           "discount_rate": 38,
@@ -1167,15 +1176,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1383538090262413-e3380d53-9e2d-4127-a72b-ff4f41613ff6.jpg",
           "url": "https://link.coupang.com/a/hRkkNUU992",
           "_ts": 1792032631.836313
-        },
-        {
-          "name": "풀무원 김치 생 수제비 2인분, 423.2g, 2개",
-          "price": "7,000원",
-          "discount_rate": 46,
-          "priceAt": "10.15 11:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/a747006b-81a4-4e23-8619-f40ea7178d4d5734071853586486666.png",
-          "url": "https://link.coupang.com/a/hRjfEV8656",
-          "_ts": 1792031721.0397608
         }
       ]
     },
@@ -2092,16 +2092,6 @@
           "url": "https://toss.shopping/_m/ZI9SxRCD",
           "_ts": 1792034318.64786,
           "_product_id": "122497323"
-        },
-        {
-          "name": "메르헨트 바세린 딥 모이스춰 대용량 버블 폼클렌징, 500ml, 2개",
-          "price": "10,160원",
-          "discount_rate": 66,
-          "priceAt": "10.15 11:31",
-          "image": "https://shopping.toss.im/live/temp/2026-06-05/73942447-e9b8-4534-bafe-882edecb87f4.jpeg",
-          "url": "https://toss.shopping/_m/BnfwJuu8",
-          "_ts": 1792031500.044277,
-          "_product_id": "504074931"
         }
       ]
     },
