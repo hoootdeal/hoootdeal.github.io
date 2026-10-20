@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하인즈 랜치 드레싱, 418.5g, 1개, 418.5g × 1개",
+          "price": "3,980원",
+          "discount_rate": 43,
+          "priceAt": "10.20 09:03",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/e450/4e7d7980d97832d80de1b7117555f4bf0c74e333663f7c5467f8833bc4b7.jpg",
+          "url": "https://link.coupang.com/a/hZqVt75ZTg",
+          "_ts": 1792454618.5353441
+        },
+        {
           "name": "청정원순창 재래식 생된장, 2.8kg, 1개",
           "price": "8,780원",
           "discount_rate": 23,
@@ -1176,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/459018209660743-573f2753-79de-4a3e-b3f3-8522494de18b.jpg",
           "url": "https://link.coupang.com/a/hQ9qZZzB6a",
           "_ts": 1792023480.375485
-        },
-        {
-          "name": "크라운 참쌀 설병 128g x 2p + 선과 115g x 2p, 2세트",
-          "price": "12,350원",
-          "discount_rate": 20,
-          "priceAt": "10.15 09:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/414678144892521-7853126d-8009-464d-b45d-6f25c3eee5c5.jpg",
-          "url": "https://link.coupang.com/a/hQ8ljLt01c",
-          "_ts": 1792022563.08806
         }
       ]
     },
