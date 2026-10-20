@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "티젠 콤부차 청귤라임, 5g, 50개입, 1개",
+          "price": "10,210원",
+          "discount_rate": 24,
+          "priceAt": "10.20 20:27",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/633888917972541-8da5a47c-ba8b-46ee-b943-048a4ad5a937.jpg",
+          "url": "https://link.coupang.com/a/h0dPmSmH1g",
+          "_ts": 1792495676.944057
+        },
+        {
           "name": "삼성전자 사운드바 고객직접설치, HW-S61D/KR, 단일색상",
           "price": "299,000원",
           "discount_rate": 35,
@@ -1176,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/e01401ac-e63d-4181-9150-9cc74349ca483361968541050620414.png",
           "url": "https://link.coupang.com/a/hRXnmsyhIi",
           "_ts": 1792065411.8970509
-        },
-        {
-          "name": "사조오양 맛살E, 500g, 1개, 500g × 1개",
-          "price": "2,350원",
-          "discount_rate": 42,
-          "priceAt": "10.15 20:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/323863383031741-488eef8d-d910-4121-b51c-f602e0586040.jpg",
-          "url": "https://link.coupang.com/a/hRTZCLyAIm",
-          "_ts": 1792062572.596224
         }
       ]
     },
