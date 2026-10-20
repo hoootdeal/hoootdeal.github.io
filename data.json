@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "샘표 국산콩 백일된장, 900g, 1개, 900g × 1개",
+          "price": "10,490원",
+          "discount_rate": 31,
+          "priceAt": "10.21 08:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/2493/fc90a751dbc7f3b4c6e7658e321f3d740a840700d66a459ed9780288d41d.jpg",
+          "url": "https://link.coupang.com/a/h05g4bVL08",
+          "_ts": 1792540551.7237911
+        },
+        {
           "name": "잇츠베러 크래커 초코시나몬, 45g, 5개",
           "price": "8,500원",
           "discount_rate": 25,
@@ -1158,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/96296987441104-08bbd759-e1ea-42d2-bae7-7055e25bc00e.png",
           "url": "https://link.coupang.com/a/hSN2AykEgK",
           "_ts": 1792109630.71329
-        },
-        {
-          "name": "마이니 지니키즈 면역 비타젤리 15p, 225g, 3개",
-          "price": "23,280원",
-          "discount_rate": 29,
-          "priceAt": "10.16 08:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/216997280133574-74d5754b-2a05-4b1b-8541-8d6f5dae3c66.jpg",
-          "url": "https://link.coupang.com/a/hSLghb9c0y",
-          "_ts": 1792107296.495096
         }
       ]
     },
