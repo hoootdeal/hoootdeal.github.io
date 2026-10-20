@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "잇츠베러 크래커 초코시나몬, 45g, 5개",
+          "price": "8,500원",
+          "discount_rate": 25,
+          "priceAt": "10.21 08:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1803cddf-a4ac-4da8-be28-cea497660e793278544228469982155.png",
+          "url": "https://link.coupang.com/a/h01hRjv1MW",
+          "_ts": 1792537203.9763079
+        },
+        {
           "name": "청정원 쉐프의 치킨스톡, 465g, 1개",
           "price": "4,930원",
           "discount_rate": 32,
