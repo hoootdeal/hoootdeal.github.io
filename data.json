@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스니커즈 미니스 초코바, 1.098kg, 1개",
+          "price": "13,460원",
+          "discount_rate": 32,
+          "priceAt": "10.20 18:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/49b5/c29ee2867fe57eca8b642274470022a4d946e78494cff41827f56d560959.jpg",
+          "url": "https://link.coupang.com/a/hZ7qIc5vX2",
+          "_ts": 1792490303.991261
+        },
+        {
           "name": "하이뮨 프로틴 밸런스 L, 608g, 1개",
           "price": "25,200원",
           "discount_rate": 27,
