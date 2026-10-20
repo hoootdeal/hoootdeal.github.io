@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "삼성전자 사운드바 고객직접설치, HW-S61D/KR, 단일색상",
+          "price": "299,000원",
+          "discount_rate": 35,
+          "priceAt": "10.20 19:33",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/185818497921235-716bca44-a37d-47a8-8e7b-4e8675090fa1.jpg",
+          "url": "https://link.coupang.com/a/hZ9VuRRnlk",
+          "_ts": 1792492402.531698
+        },
+        {
           "name": "스니커즈 미니스 초코바, 1.098kg, 1개",
           "price": "13,460원",
           "discount_rate": 32,
@@ -1176,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/323863383031741-488eef8d-d910-4121-b51c-f602e0586040.jpg",
           "url": "https://link.coupang.com/a/hRTZCLyAIm",
           "_ts": 1792062572.596224
-        },
-        {
-          "name": "귤탐 당도선별 11Brix 감귤, 1.2kg(꼬마과), 2개",
-          "price": "9,570원",
-          "discount_rate": 56,
-          "priceAt": "10.15 19:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1456383943475-b4d4733d-0485-481f-8899-6fa631a9f3d3.png",
-          "url": "https://link.coupang.com/a/hRQctrZLhI",
-          "_ts": 1792059386.569823
         }
       ]
     },
