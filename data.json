@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크라운 마이쮸 포도, 44g, 25개",
+          "price": "10,000원",
+          "discount_rate": 21,
+          "priceAt": "10.20 16:37",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/34be2350-4fe1-4d7d-a534-5807f55c7541742407759707379756.png",
+          "url": "https://link.coupang.com/a/hZXmLCX0eG",
+          "_ts": 1792481854.781715
+        },
+        {
           "name": "브랜든 2세대 여행용 부피순삭 압축 파우치 세트, 소프트카키, S+S+M+M+L",
           "price": "48,190원",
           "discount_rate": 36,
@@ -1176,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/148731546260833-ae04943c-cb4b-4081-9dbb-de608695eb00.jpg",
           "url": "https://link.coupang.com/a/hRHP1cSAlo",
           "_ts": 1792052363.3492422
-        },
-        {
-          "name": "바프 군옥수수맛 아몬드, 120g, 3개",
-          "price": "6,000원",
-          "discount_rate": 40,
-          "priceAt": "10.15 16:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/53102190387624-32e75608-1d75-485e-b1d2-73661ff32000.jpg",
-          "url": "https://link.coupang.com/a/hREIOj2Xym",
-          "_ts": 1792049749.3414779
         }
       ]
     },
