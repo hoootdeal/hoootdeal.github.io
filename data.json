@@ -1194,6 +1194,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "한둘 국산콩 연두부, 125g, 18팩",
+          "price": "14,330원",
+          "discount_rate": 60,
+          "priceAt": "10.20 19:05",
+          "image": "https://shopping.toss.im/live/taca/ai/YjY0OTli/QU13NzVJWVpNemJSS1c3eTBLTXNra3dYTEhwaHRMU0RUMXFUS1U3bzgwd3Q.png",
+          "url": "https://toss.shopping/_m/hwZdNZb2",
+          "_ts": 1792490731.6309628,
+          "_product_id": "142674611"
+        },
+        {
           "name": "썬키스트 코코피치, 300ml, 20개",
           "price": "8,980원",
           "discount_rate": 70,
