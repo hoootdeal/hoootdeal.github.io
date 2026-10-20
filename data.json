@@ -1194,6 +1194,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "테조 1450 고불소 구취케어 치약, 120g, 5개",
+          "price": "7,820원",
+          "discount_rate": 60,
+          "priceAt": "10.20 17:44",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/N2UxNmNi/QUxwbDJUeXFMY2NPeGR4WVk3aGxteTNIVElPSFZVNGFKZHRzdXVWVlFtWGE.png",
+          "url": "https://toss.shopping/_m/z1IiWDqe",
+          "_ts": 1792485863.839357,
+          "_product_id": "2522069439"
+        },
+        {
           "name": "해피넛 까먹는 통마카다미아 로스티드, 225g, 2개",
           "price": "9,600원",
           "discount_rate": 69,
