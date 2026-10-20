@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "담터 호두 아몬드 율무차, 18g, 50개입, 1개",
+          "price": "9,490원",
+          "discount_rate": 23,
+          "priceAt": "10.20 14:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/44752547831995-8a9f9f91-dc19-45e0-a4b3-30476f9ecd17.jpg",
+          "url": "https://link.coupang.com/a/hZQdnPLk7g",
+          "_ts": 1792475852.05824
+        },
+        {
           "name": "신일 EMF 전기요 SEB-NA100SCP, 라이트그레이, 스몰(68 x 180 cm)",
           "price": "21,900원",
           "discount_rate": 50,
@@ -2092,16 +2101,6 @@
           "url": "https://toss.shopping/_m/vMv6WRRz",
           "_ts": 1792050162.579165,
           "_product_id": "1981136077"
-        },
-        {
-          "name": "살림백서 덴탈케어 구강 스프레이, 민트향, 14ml, 3개입, 1개",
-          "price": "7,510원",
-          "discount_rate": 60,
-          "priceAt": "10.15 14:35",
-          "image": "https://shopping.toss.im/live/temp/2025-10-14/adabeb5b-5566-4c4e-b48d-525b9f6977b0.jpeg",
-          "url": "https://toss.shopping/_m/P7kuw59B",
-          "_ts": 1792042534.0869749,
-          "_product_id": "255388277"
         }
       ]
     },
