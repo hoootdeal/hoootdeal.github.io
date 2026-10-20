@@ -1176,15 +1176,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/523464236573514-76a863f0-5128-4ff8-a9e1-e6f14cffbe02.jpg",
           "url": "https://link.coupang.com/a/hRNIDmsw2e",
           "_ts": 1792057303.994849
-        },
-        {
-          "name": "명가꽈배기 참깨, 500g, 2개, 500g × 2개",
-          "price": "7,960원",
-          "discount_rate": 28,
-          "priceAt": "10.15 18:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/293586258516069-47abe34d-2677-42ff-8245-9c1a296b01d6.jpg",
-          "url": "https://link.coupang.com/a/hRLLgpcrCu",
-          "_ts": 1792055657.508827
         }
       ]
     },
@@ -1193,6 +1184,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "썬키스트 코코피치, 300ml, 20개",
+          "price": "8,980원",
+          "discount_rate": 70,
+          "priceAt": "10.20 18:23",
+          "image": "https://shopping.toss.im/live/temp/2026-04-28/6cadc1c2-55e8-429d-8816-ca5477eccb31.jpeg",
+          "url": "https://toss.shopping/_m/jLXkkhcq",
+          "_ts": 1792488219.009027,
+          "_product_id": "1734968249"
+        },
         {
           "name": "테조 1450 고불소 구취케어 치약, 120g, 5개",
           "price": "7,820원",
@@ -2101,16 +2102,6 @@
           "url": "https://toss.shopping/_m/F4m1jcXy",
           "_ts": 1792056847.802606,
           "_product_id": "174755365"
-        },
-        {
-          "name": "연세두유 뼈를 생각한 고칼슘 두유 칼마디, 190ml, 검은콩 24개 + 호두아몬드 24개, 1세트",
-          "price": "18,190원",
-          "discount_rate": 54,
-          "priceAt": "10.15 17:46",
-          "image": "https://shopping.toss.im/live/temp/2026-10-07/bb5eb43d-0fc5-4f1d-a875-50146b58e91c.jpeg",
-          "url": "https://toss.shopping/_m/Vfzk5o1A",
-          "_ts": 1792053980.107589,
-          "_product_id": "2635608599"
         }
       ]
     },
