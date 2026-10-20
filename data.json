@@ -1176,6 +1176,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "프로프룻 샤인머스켓, 특품, 2kg, 1박스",
+          "price": "9,900원",
+          "discount_rate": 85,
+          "priceAt": "10.20 12:38",
+          "image": "https://shopping.toss.im/live/temp/2026-08-05/d1036994-fd95-42f5-82be-741dff71ead8.jpeg",
+          "url": "https://toss.shopping/_m/xhnmVJBp",
+          "_ts": 1792467531.079533,
+          "_product_id": "2578376693"
+        },
+        {
           "name": "스페시핏 뿌리는 곰팡이 제거제, 500ml, 2개",
           "price": "6,500원",
           "discount_rate": 80,
