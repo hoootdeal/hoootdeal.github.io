@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오로나민씨 탄산 드링크, 120ml, 50개, 120ml × 50개",
+          "price": "22,530원",
+          "discount_rate": 22,
+          "priceAt": "10.20 12:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/c60a/83c3d1431c226f75d4c2f0167f76b86955f54157dcbbe0dc691b4a8e8218.jpg",
+          "url": "https://link.coupang.com/a/hZGhCgxUwm",
+          "_ts": 1792467512.982378
+        },
+        {
           "name": "젠하이저 ACCENTUM Open 블루투스 이어폰, OTW1, 크림",
           "price": "59,000원",
           "discount_rate": 39,
@@ -1158,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/07/11/1/1f22f693-521f-40a9-ab59-edbf8b292191.jpg",
           "url": "https://link.coupang.com/a/hRpvnexLlA",
           "_ts": 1792036973.323018
-        },
-        {
-          "name": "코코비도로시 아동용 투앤디 양말 5족세트, 혼합 색상, 6호",
-          "price": "8,160원",
-          "discount_rate": 57,
-          "priceAt": "10.15 12:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7127422274045638-e791defe-fe0f-4705-8cfe-9407d14d493c.jpg",
-          "url": "https://link.coupang.com/a/hRl6WBzLci",
-          "_ts": 1792034123.028616
         }
       ]
     },
@@ -2073,16 +2073,6 @@
           "url": "https://toss.shopping/_m/FsnlsKls",
           "_ts": 1792039366.792612,
           "_product_id": "2480890741"
-        },
-        {
-          "name": "애슐리 크리스피 핫도그 4종, 80g, 8개입, 1세트",
-          "price": "7,200원",
-          "discount_rate": 51,
-          "priceAt": "10.15 12:18",
-          "image": "https://shopping.toss.im/live/taca/ai/M2VlM2Vj/SGo0N2dUSjIwbVdabG5JR1ppenVFeGpNUE92bldra2xaN05kSkpnamt2dz0.png",
-          "url": "https://toss.shopping/_m/ZI9SxRCD",
-          "_ts": 1792034318.64786,
-          "_product_id": "122497323"
         }
       ]
     },
