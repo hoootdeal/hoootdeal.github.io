@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하이뮨 프로틴 밸런스 L, 608g, 1개",
+          "price": "25,200원",
+          "discount_rate": 27,
+          "priceAt": "10.20 18:47",
+          "image": "https://image14.coupangcdn.com/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
+          "url": "https://link.coupang.com/a/hZ6FwM9tzU",
+          "_ts": 1792489666.713341
+        },
+        {
           "name": "포카리스웨트 페트 무라벨, 500ml, 20개, 500ml × 20개",
           "price": "27,750원",
           "discount_rate": 23,
@@ -1167,15 +1176,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1456383943475-b4d4733d-0485-481f-8899-6fa631a9f3d3.png",
           "url": "https://link.coupang.com/a/hRQctrZLhI",
           "_ts": 1792059386.569823
-        },
-        {
-          "name": "블루필 사운드팝 홀더 맥세이프 미니 휴대용 블루투스 스피커, BSP101, BLACK",
-          "price": "26,500원",
-          "discount_rate": 37,
-          "priceAt": "10.15 18:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/523464236573514-76a863f0-5128-4ff8-a9e1-e6f14cffbe02.jpg",
-          "url": "https://link.coupang.com/a/hRNIDmsw2e",
-          "_ts": 1792057303.994849
         }
       ]
     },
@@ -2092,16 +2092,6 @@
           "url": "https://toss.shopping/_m/BWLzhqkr",
           "_ts": 1792060965.450269,
           "_product_id": "675441533"
-        },
-        {
-          "name": "부산포차 꼬치어묵, 400g, 3봉",
-          "price": "9,900원",
-          "discount_rate": 37,
-          "priceAt": "10.15 18:34",
-          "image": "https://shopping.toss.im/live/taca/ai/NmE0Yzk5/UkFySGthUFRZNlZsbUxKY1NWWGtyVnNpQ3I4SHZ3bTJsbkowbThTdm5RRT0.png",
-          "url": "https://toss.shopping/_m/F4m1jcXy",
-          "_ts": 1792056847.802606,
-          "_product_id": "174755365"
         }
       ]
     },
