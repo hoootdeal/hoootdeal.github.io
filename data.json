@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "포카리스웨트 페트 무라벨, 500ml, 20개, 500ml × 20개",
+          "price": "27,750원",
+          "discount_rate": 23,
+          "priceAt": "10.20 17:30",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/02/15/1/af41f329-3d9b-4ef0-9888-ef7f4460924f.jpg",
+          "url": "https://link.coupang.com/a/hZ086GDX3s",
+          "_ts": 1792485028.936564
+        },
+        {
           "name": "크라운 마이쮸 포도, 44g, 25개",
           "price": "10,000원",
           "discount_rate": 21,
@@ -1176,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/293586258516069-47abe34d-2677-42ff-8245-9c1a296b01d6.jpg",
           "url": "https://link.coupang.com/a/hRLLgpcrCu",
           "_ts": 1792055657.508827
-        },
-        {
-          "name": "마스터 컬렉션 부드러운 소고기 미역국, 480g, 4개",
-          "price": "9,530원",
-          "discount_rate": 23,
-          "priceAt": "10.15 17:19",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/148731546260833-ae04943c-cb4b-4081-9dbb-de608695eb00.jpg",
-          "url": "https://link.coupang.com/a/hRHP1cSAlo",
-          "_ts": 1792052363.3492422
         }
       ]
     },
@@ -2101,16 +2101,6 @@
           "url": "https://toss.shopping/_m/Vfzk5o1A",
           "_ts": 1792053980.107589,
           "_product_id": "2635608599"
-        },
-        {
-          "name": "그린올린 경기미, 2026년산, 상등급, 3kg, 1개",
-          "price": "9,300원",
-          "discount_rate": 41,
-          "priceAt": "10.15 17:07",
-          "image": "https://shopping.toss.im/live/temp/2026-09-10/55851334-c30c-461c-a789-adc2b4b05dc3.png",
-          "url": "https://toss.shopping/_m/HZkb4FXy",
-          "_ts": 1792051654.772728,
-          "_product_id": "278980557"
         }
       ]
     },
