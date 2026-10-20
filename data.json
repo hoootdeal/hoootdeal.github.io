@@ -1185,6 +1185,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스페시핏 뿌리는 곰팡이 제거제, 500ml, 2개",
+          "price": "6,500원",
+          "discount_rate": 80,
+          "priceAt": "10.20 11:10",
+          "image": "https://shopping.toss.im/live/temp/2025-12-06/bc7b10ed-6617-4bbb-aa8e-c8f4b9bd9bd9.jpeg",
+          "url": "https://toss.shopping/_m/zG8no6F9",
+          "_ts": 1792462245.440929,
+          "_product_id": "2660590911"
+        },
+        {
           "name": "맛장군 열무김치, 2kg, 1팩",
           "price": "7,850원",
           "discount_rate": 78,
@@ -2092,16 +2102,6 @@
           "url": "https://toss.shopping/_m/BnfwJuu8",
           "_ts": 1792031500.044277,
           "_product_id": "504074931"
-        },
-        {
-          "name": "산들청과 가정용 샤인머스켓, 7-8수, 4kg, 1박스",
-          "price": "14,900원",
-          "discount_rate": 68,
-          "priceAt": "10.15 11:09",
-          "image": "https://shopping.toss.im/live/temp/2026-09-02/ddb16d61-f049-4920-8958-b0acaa74cc88.png",
-          "url": "https://toss.shopping/_m/xpPlmJBd",
-          "_ts": 1792030196.433131,
-          "_product_id": "2643080943"
         }
       ]
     },
