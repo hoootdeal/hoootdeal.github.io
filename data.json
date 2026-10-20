@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 올바른 핫도그 개별 (냉동), 75g, 7개입, 1개",
+          "price": "5,660원",
+          "discount_rate": 38,
+          "priceAt": "10.20 10:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/585207057145919-58eb3b89-b8d2-4f4e-b073-a4f9f6afa3ab.jpg",
+          "url": "https://link.coupang.com/a/hZy0PxeBbM",
+          "_ts": 1792461408.6624231
+        },
+        {
           "name": "풀무원다논 그릭 설탕무첨가 플레인, 90g, 8개입, 1개",
           "price": "4,680원",
           "discount_rate": 33,
@@ -1167,24 +1176,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/a747006b-81a4-4e23-8619-f40ea7178d4d5734071853586486666.png",
           "url": "https://link.coupang.com/a/hRjfEV8656",
           "_ts": 1792031721.0397608
-        },
-        {
-          "name": "오뚜기 미트 볼로냐 파스타4인, 1.292kg, 1개, 1.292kg × 1개",
-          "price": "6,690원",
-          "discount_rate": 32,
-          "priceAt": "10.15 10:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1195198892921712-ec444aef-b15c-4184-86fc-61cb7de930cf.jpg",
-          "url": "https://link.coupang.com/a/hRfARkphiS",
-          "_ts": 1792028650.594225
-        },
-        {
-          "name": "까사니 인덕션 쿠치나 멀티팟 냄비 4.3L, 16cm, 1개",
-          "price": "18,890원",
-          "discount_rate": 39,
-          "priceAt": "10.15 10:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/110337044539427-c591bed9-880c-49f7-86c1-31586e8e6dd6.jpg",
-          "url": "https://link.coupang.com/a/hRc3XXxM7M",
-          "_ts": 1792026525.926847
         }
       ]
     },
