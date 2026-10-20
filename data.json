@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "디어커스 누볼라 EVA 욕실화, 블랙, 260mm, 2개",
+          "price": "15,150원",
+          "discount_rate": 52,
+          "priceAt": "10.20 13:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/04a6c8a6-c3c9-4c04-835e-53786a44399912882726484108474083.png",
+          "url": "https://link.coupang.com/a/hZI4BpsaC4",
+          "_ts": 1792469855.736296
+        },
+        {
           "name": "강릉커피 듀얼브루 Low Sugar 라떼, 250ml, 10개",
           "price": "13,270원",
           "discount_rate": 29,
@@ -1158,24 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/254574897577222-0fb31571-e0c7-42a8-a51e-ce8063b0b8d3.jpg",
           "url": "https://link.coupang.com/a/hRuOjaIUI8",
           "_ts": 1792041425.965245
-        },
-        {
-          "name": "에코맘의산골이유식 산골쌀참, 시금치, 25g, 2개",
-          "price": "2,700원",
-          "discount_rate": 50,
-          "priceAt": "10.15 13:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c6357cc8-08d8-41a7-906a-14d91714d9224713891168301242545.png",
-          "url": "https://link.coupang.com/a/hRqshMztgi",
-          "_ts": 1792037771.499875
-        },
-        {
-          "name": "웅진 애사비 파인애플, 500ml, 24개",
-          "price": "13,890원",
-          "discount_rate": 20,
-          "priceAt": "10.15 13:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/07/11/1/1f22f693-521f-40a9-ab59-edbf8b292191.jpg",
-          "url": "https://link.coupang.com/a/hRpvnexLlA",
-          "_ts": 1792036973.323018
         }
       ]
     },
