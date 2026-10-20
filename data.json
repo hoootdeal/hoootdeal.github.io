@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "브랜든 2세대 여행용 부피순삭 압축 파우치 세트, 소프트카키, S+S+M+M+L",
+          "price": "48,190원",
+          "discount_rate": 36,
+          "priceAt": "10.20 16:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/296110430917561-19dcfc24-1828-4b01-81aa-045dbd10af18.jpg",
+          "url": "https://link.coupang.com/a/hZVm4Ow980",
+          "_ts": 1792480181.348479
+        },
+        {
           "name": "보노하우스 국내 제조 로코스 정리함 수납 바스켓, M(368 × 262 × 160 mm), 아이보리, 4개",
           "price": "5,800원",
           "discount_rate": 50,
@@ -1176,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/53102190387624-32e75608-1d75-485e-b1d2-73661ff32000.jpg",
           "url": "https://link.coupang.com/a/hREIOj2Xym",
           "_ts": 1792049749.3414779
-        },
-        {
-          "name": "에뛰드 NEW 마이 래쉬 세럼 속눈썹 영양제, 18g, 1개, 18g × 1개",
-          "price": "2,300원",
-          "discount_rate": 68,
-          "priceAt": "10.15 16:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/875714781626900-1a26b81c-72cc-4d8e-8b96-c1d8332e326d.jpg",
-          "url": "https://link.coupang.com/a/hRCf1Ac9Cu",
-          "_ts": 1792047680.7717602
         }
       ]
     },
