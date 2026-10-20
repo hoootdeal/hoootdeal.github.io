@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "보노하우스 국내 제조 로코스 정리함 수납 바스켓, M(368 × 262 × 160 mm), 아이보리, 4개",
+          "price": "5,800원",
+          "discount_rate": 50,
+          "priceAt": "10.20 15:48",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/900740630293144-54f714aa-7246-4468-87b1-d632c229f78d.jpg",
+          "url": "https://link.coupang.com/a/hZTSZlgN0S",
+          "_ts": 1792478933.094869
+        },
+        {
           "name": "담터 호두 아몬드 율무차, 18g, 50개입, 1개",
           "price": "9,490원",
           "discount_rate": 23,
@@ -1176,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/875714781626900-1a26b81c-72cc-4d8e-8b96-c1d8332e326d.jpg",
           "url": "https://link.coupang.com/a/hRCf1Ac9Cu",
           "_ts": 1792047680.7717602
-        },
-        {
-          "name": "스탠리 퀜처 프로투어 플립스트로 텀블러, 하이드렌지아, 1.18L, 1개",
-          "price": "34,150원",
-          "discount_rate": 31,
-          "priceAt": "10.15 15:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2285883720544747-604fa315-5396-4d7f-9e6a-8f500b86c77f.jpg",
-          "url": "https://link.coupang.com/a/hRyteMn1yK",
-          "_ts": 1792044500.7997172
         }
       ]
     },
