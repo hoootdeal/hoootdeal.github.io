@@ -1185,6 +1185,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "프로프룻 국내산 햇배, 대과, 개별망포장, 5kg, 1박스",
+          "price": "13,610원",
+          "discount_rate": 80,
+          "priceAt": "10.21 10:13",
+          "image": "https://shopping.toss.im/live/temp/2026-09-28/12a8d07f-dcf2-4fc7-ade1-577671bec7dc.png",
+          "url": "https://toss.shopping/_m/bS5EeS4r",
+          "_ts": 1792545233.236178,
+          "_product_id": "2640973183"
+        },
+        {
           "name": "리얼닥터 비피더스 생 유산균, 30캡슐, 3개",
           "price": "14,560원",
           "discount_rate": 75,
