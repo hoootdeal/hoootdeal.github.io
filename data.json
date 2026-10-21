@@ -1167,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/09/06/20/4/a64a61c4-df9e-4acc-8cf7-8a89dee19154.jpg",
           "url": "https://link.coupang.com/a/hS5cVySFjw",
           "_ts": 1792124044.148105
-        },
-        {
-          "name": "아베나 프레쉬그립 비닐장갑 플렉스, 200개입, 1개, 200개입 × 1개",
-          "price": "2,990원",
-          "discount_rate": 36,
-          "priceAt": "10.16 12:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/438162628100863-617b0e1c-5e59-467f-b6f3-878e3eaf0e0e.jpg",
-          "url": "https://link.coupang.com/a/hS30BDi1Rs",
-          "_ts": 1792123036.594944
         }
       ]
     },
@@ -1184,6 +1175,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 150g 1팩, 3팩",
+          "price": "13,900원",
+          "discount_rate": 69,
+          "priceAt": "10.21 13:13",
+          "image": "https://shopping.toss.im/live/temp/2026-09-08/f23cdba2-f0bb-4800-84f5-7e04cafdfbd4.png",
+          "url": "https://toss.shopping/_m/9m9AaTh2",
+          "_ts": 1792555996.412796,
+          "_product_id": "2684020579"
+        },
         {
           "name": "스파클 생수, 무라벨, 2L, 30개",
           "price": "11,810원",
