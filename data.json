@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "한성기업 김밥패키지 5인분, 505g, 2세트, 505g × 2세트",
+          "price": "6,480원",
+          "discount_rate": 28,
+          "priceAt": "10.21 17:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/bfbbb84e-113f-4d09-a52f-8298a3017f2c2560060806167937167.png",
+          "url": "https://link.coupang.com/a/h1EGoQpRuu",
+          "_ts": 1792570288.0346491
+        },
+        {
           "name": "오리온 태양의 맛 썬, 30g, 15개",
           "price": "7,410원",
           "discount_rate": 20,
@@ -2027,16 +2036,6 @@
           "url": "https://toss.shopping/_m/DDn7xhWj",
           "_ts": 1792138773.103456,
           "_product_id": "2656113063"
-        },
-        {
-          "name": "이롬 국내산 약콩 무가당 두유, 190ml, 32개",
-          "price": "11,000원",
-          "discount_rate": 67,
-          "priceAt": "10.16 16:57",
-          "image": "https://shopping.toss.im/live/temp/2026-08-21/1c52a6e6-1912-4e60-bc01-653d9979baa2.png",
-          "url": "https://toss.shopping/_m/XiDpk2Yy",
-          "_ts": 1792137421.5622861,
-          "_product_id": "2601104609"
         }
       ]
     },
