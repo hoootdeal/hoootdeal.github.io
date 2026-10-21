@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "코코팜 망고코넛, 340ml, 24개, 340ml × 24개",
+          "price": "11,600원",
+          "discount_rate": 22,
+          "priceAt": "10.21 18:30",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d660/b555cbbb14151705f19b0f25a4b724147d9ba5f765bacaef46e0966267ad.jpg",
+          "url": "https://link.coupang.com/a/h1KlYpSPnM",
+          "_ts": 1792575043.787513
+        },
+        {
           "name": "비비고 든든 한섬만두 (냉동), 384g, 6개입",
           "price": "17,290원",
           "discount_rate": 45,
@@ -1176,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/a641/09c5a1604e5f38a2420db46f06c4b05acfbbb1c2adbfecbc0bc6e6b2b20c.jpg",
           "url": "https://link.coupang.com/a/hTvhJHCyZ2",
           "_ts": 1792145938.944115
-        },
-        {
-          "name": "참좋은식품 가마솥의 구수한 별미 누룽지, 200g, 10개, 200g × 10개",
-          "price": "13,800원",
-          "discount_rate": 25,
-          "priceAt": "10.16 18:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/cb6f/99117b78e533f233c767c80d926afe9ab4b4ca1135393c17dfc59f114c30.jpg",
-          "url": "https://link.coupang.com/a/hTrJTplpFk",
-          "_ts": 1792142961.8362932
         }
       ]
     },
