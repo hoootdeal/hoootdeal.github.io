@@ -1176,15 +1176,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/805374858894-cd304318-3a63-4f3f-8715-0eee6c68b8b6.jpg",
           "url": "https://link.coupang.com/a/hTdZRKnZJc",
           "_ts": 1792131424.504626
-        },
-        {
-          "name": "오리온 오감자 그라탕 스낵, 50g, 3개",
-          "price": "2,190원",
-          "discount_rate": 33,
-          "priceAt": "10.16 14:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/192555037122078-58f61d4b-03f5-471d-a9dc-e62f86652041.png",
-          "url": "https://link.coupang.com/a/hS9DSSVsjc",
-          "_ts": 1792127768.0506492
         }
       ]
     },
@@ -1193,6 +1184,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "마농 EMS 발마사지 패드 FOOT-26, 블랙, 1개",
+          "price": "14,133원",
+          "discount_rate": 57,
+          "priceAt": "10.21 15:00",
+          "image": "https://shopping.toss.im/live/taca/ai/MDhiY2Ew/ZEhuendVRDUxM2JBOGQzZWplV2J4QXZFOXI0L2xPOWYvVVp2K1AwUTFhRT0.png",
+          "url": "https://toss.shopping/_m/3GPAcaqD",
+          "_ts": 1792562427.94912,
+          "_product_id": "2185475727"
+        },
         {
           "name": "던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 150g 1팩, 3팩",
           "price": "13,900원",
@@ -2023,16 +2024,6 @@
           "url": "https://toss.shopping/_m/3rm8GqZA",
           "_ts": 1792135547.179271,
           "_product_id": "1078924497"
-        },
-        {
-          "name": "모둠 광천 김자반, 40g, 10봉",
-          "price": "10,410원",
-          "discount_rate": 52,
-          "priceAt": "10.16 14:50",
-          "image": "https://shopping.toss.im/live/taca/ai/Nzc5ZWMz/WnR1dGFWTHRZY3hhSkIwellhM0czT0pKMXRhazB5a3JXV1JVNXQxRW90UT0.png",
-          "url": "https://toss.shopping/_m/7nNHXved",
-          "_ts": 1792129805.644503,
-          "_product_id": "78767229"
         }
       ]
     },
