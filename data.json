@@ -1194,6 +1194,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "동원 보성녹차, 350ml, 24개",
+          "price": "11,300원",
+          "discount_rate": 56,
+          "priceAt": "10.22 08:04",
+          "image": "https://shopping.toss.im/live/temp/2025-08-10/a2f8f364-9a30-4a23-86f2-02ddf05779b4.jpeg",
+          "url": "https://toss.shopping/_m/76lnf3Xa",
+          "_ts": 1792623850.618903,
+          "_flash": true,
+          "_product_id": "2652730739"
+        },
+        {
+          "name": "통영 횟감 활새우, 1kg, 1팩",
+          "price": "18,900원",
+          "discount_rate": 62,
+          "priceAt": "10.22 08:04",
+          "image": "https://shopping.toss.im/live/temp/2025-08-18/e01d2940-83b9-4f21-83a8-54aeedca0d40.jpeg",
+          "url": "https://toss.shopping/_m/17cyEu93",
+          "_ts": 1792623850.618869,
+          "_flash": true,
+          "_product_id": "128445015"
+        },
+        {
+          "name": "하마다 USB C타입 메탈 충전 케이블, 5개입, 1.5m, 혼합, 1세트",
+          "price": "5,880원",
+          "discount_rate": 60,
+          "priceAt": "10.22 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-08-19/a0e3560b-b750-497b-9de7-9e67771981fa.jpeg",
+          "url": "https://toss.shopping/_m/nfaO9i8n",
+          "_ts": 1792623850.61883,
+          "_flash": true,
+          "_product_id": "2622883189"
+        },
+        {
           "name": "고기중독 한입삼겹살, 500g, 2개",
           "price": "10,430원",
           "discount_rate": 73,
