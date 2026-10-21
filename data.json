@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "인라이프 포켓형 솔저 프렌즈 핫팩 150g, 30개",
+          "price": "6,900원",
+          "discount_rate": 47,
+          "priceAt": "10.21 10:04",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/08/05/14/0/4fbf08a9-649c-4700-af11-1a81cf1be935.png",
+          "url": "https://link.coupang.com/a/h1abfN0gAS",
+          "_ts": 1792544672.41302
+        },
+        {
           "name": "켈로그 첵스초코 딸기 크런치, 350g, 1개, 350g × 1개",
           "price": "3,740원",
           "discount_rate": 25,
@@ -1995,16 +2004,6 @@
           "url": "https://toss.shopping/_m/HDkniFSb",
           "_ts": 1792114929.044693,
           "_product_id": "2164114773"
-        },
-        {
-          "name": "풍연 굳지않는 쑥+백미 절편세트, 50g, 20개",
-          "price": "6,600원",
-          "discount_rate": 67,
-          "priceAt": "10.16 09:58",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjMxZmVl/ZTVoNWpkWTVacm41azhmTVRreDdNN0o1dExIazVOd3VtTVl5azNPeGEyMD0.png",
-          "url": "https://toss.shopping/_m/nzSgUbOf",
-          "_ts": 1792112293.221368,
-          "_product_id": "1121784277"
         }
       ]
     },
