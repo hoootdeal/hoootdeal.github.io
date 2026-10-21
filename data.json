@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에코맘의산골이유식 산골쌀참, 혼합맛(사과/당근), 25g, 2개",
+          "price": "2,700원",
+          "discount_rate": 50,
+          "priceAt": "10.21 13:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4f7b83c7-d368-4ff3-8f28-85a96ab565905819086543369002452.png",
+          "url": "https://link.coupang.com/a/h1nUTCDjBA",
+          "_ts": 1792556206.215884
+        },
+        {
           "name": "킨더 초콜릿 미니 20p, 120g, 1개",
           "price": "3,980원",
           "discount_rate": 23,
@@ -1158,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/09/10/7/0/77abf2ef-c132-458e-bc1a-dcbf7818746d.jpg",
           "url": "https://link.coupang.com/a/hS9eFYoDD3",
           "_ts": 1792127424.219265
-        },
-        {
-          "name": "예일키즈 아동용 스몰 아치 로고 세트 YJCRSUZ53817, 120호, 멜란지그레이",
-          "price": "19,900원",
-          "discount_rate": 53,
-          "priceAt": "10.16 13:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/09/06/20/4/a64a61c4-df9e-4acc-8cf7-8a89dee19154.jpg",
-          "url": "https://link.coupang.com/a/hS5cVySFjw",
-          "_ts": 1792124044.148105
         }
       ]
     },
