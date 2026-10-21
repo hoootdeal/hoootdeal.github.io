@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이지앤프리 튼튼이 웨이브킵 냉동실 나눔 정리용기 3칸 1700ml, 1개입, 3개",
+          "price": "14,900원",
+          "discount_rate": 33,
+          "priceAt": "10.21 21:53",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/4b978a50-3922-4641-be32-53bcebbc6ce8_fixing_v2.png",
+          "url": "https://link.coupang.com/a/h1YOu6tV0K",
+          "_ts": 1792587185.2927701
+        },
+        {
           "name": "삼립 계란옷 입은 몬테크리스토 토스트 3p, 540g, 2개",
           "price": "16,960원",
           "discount_rate": 21,
@@ -1167,15 +1176,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/59c9/6e9804df224c0b3fc922e231701981cc28fcbdc7e016ef975e1f45fe5d04.jpg",
           "url": "https://link.coupang.com/a/hTIgCHMiei",
           "_ts": 1792156840.104428
-        },
-        {
-          "name": "동원 미니 돈까스 (냉동), 900g, 1개, 900g × 1개",
-          "price": "4,880원",
-          "discount_rate": 30,
-          "priceAt": "10.16 21:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/02/17/18/8/f0238701-8af2-4c76-b9f7-87f0287396ad.jpg",
-          "url": "https://link.coupang.com/a/hTD9IkDMUm",
-          "_ts": 1792153388.139052
         }
       ]
     },
@@ -2006,16 +2006,6 @@
           "_ts": 1792162874.2191129,
           "_flash": true,
           "_product_id": "129952247"
-        },
-        {
-          "name": "올챌린지 뽑아쓰는 3겹 키친타월 그레이, 100매, 9개",
-          "price": "6,900원",
-          "discount_rate": 65,
-          "priceAt": "10.16 21:46",
-          "image": "https://shopping.toss.im/live/taca/ai/NDdmYzU2/QUpaVFN6bExPMHBMWEppV09iV2tVc1JLbENwTUtXWjRTNjFyZVdOalM0MFo.png",
-          "url": "https://toss.shopping/_m/9Cpi9ekh",
-          "_ts": 1792154794.6706429,
-          "_product_id": "794488291"
         }
       ]
     },
