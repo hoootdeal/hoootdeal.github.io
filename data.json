@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "강화군농협 강화섬쌀 2026년산 햅쌀 고시히카리 백미 상등급, 4kg, 1개",
+          "price": "14,900원",
+          "discount_rate": 28,
+          "priceAt": "10.22 08:48",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f1f3/5757af0bce45bd2bf6f0f1919e53f3bed78665e4b72b73238cc66ac15f49.jpg",
+          "url": "https://link.coupang.com/a/h2JDiQIFQi",
+          "_ts": 1792626494.062896
+        },
+        {
           "name": "스카트 하루한장 THE 버블 수세미, 그레이, 100개입, 4개",
           "price": "9,640원",
           "discount_rate": 41,
@@ -1185,15 +1194,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/21222284587654-a9107a5b-dfca-49a8-b50a-3c7dfb4d2dc2.jpg",
           "url": "https://link.coupang.com/a/hUsMBmNIpU",
           "_ts": 1792195897.023294
-        },
-        {
-          "name": "이롬 과채습관 퍼플, 190ml, 16개",
-          "price": "7,480원",
-          "discount_rate": 28,
-          "priceAt": "10.17 08:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1770362018459706-beb55921-c9c5-49f1-8c94-5370eb62ad75.jpg",
-          "url": "https://link.coupang.com/a/hUoNkdAyKi",
-          "_ts": 1792192545.636527
         }
       ]
     },
