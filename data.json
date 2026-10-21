@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오리온 태양의 맛 썬, 30g, 15개",
+          "price": "7,410원",
+          "discount_rate": 20,
+          "priceAt": "10.21 16:32",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/ec71/714aa78c194c545af192c71c81b7a780701d9cb084a05aa15c14dd848bbb.jpg",
+          "url": "https://link.coupang.com/a/h1BSHZQLHU",
+          "_ts": 1792567929.286033
+        },
+        {
           "name": "농심 육포깡 매콤한맛, 90g, 4개, 90g × 4개",
           "price": "5,780원",
           "discount_rate": 22,
@@ -1176,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/97926624493614-a16df7d1-6099-48f4-a3d7-42cafc7f27fb.jpg",
           "url": "https://link.coupang.com/a/hTmgbRMld6",
           "_ts": 1792138363.0847092
-        },
-        {
-          "name": "썬키스트 제로 복숭아레몬 소다, 600ml, 24개, 600ml × 24개",
-          "price": "13,840원",
-          "discount_rate": 37,
-          "priceAt": "10.16 16:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/b16a/069b732218d7cc51da54939e97360ff31e6c3f88dc4738ae265828a18a3e.jpg",
-          "url": "https://link.coupang.com/a/hTijikcX3A",
-          "_ts": 1792135044.4748359
         }
       ]
     },
@@ -2037,16 +2037,6 @@
           "url": "https://toss.shopping/_m/XiDpk2Yy",
           "_ts": 1792137421.5622861,
           "_product_id": "2601104609"
-        },
-        {
-          "name": "터치 탄산 워싱소다, 스푼 포함, 5kg, 1팩",
-          "price": "6,260원",
-          "discount_rate": 60,
-          "priceAt": "10.16 16:25",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MzRjNTkx/Y3R6cEdIWllteVdOc283RGplSTg2WFBqOEwzakM4MldpRTNRWHRCMUQ2RT0.png",
-          "url": "https://toss.shopping/_m/3rm8GqZA",
-          "_ts": 1792135547.179271,
-          "_product_id": "1078924497"
         }
       ]
     },
