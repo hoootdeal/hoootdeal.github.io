@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "농심 육포깡 매콤한맛, 90g, 4개, 90g × 4개",
+          "price": "5,780원",
+          "discount_rate": 22,
+          "priceAt": "10.21 16:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4e4c1496-c182-438f-b94f-0337de3206b52116155464954163746.png",
+          "url": "https://link.coupang.com/a/h1zBHjH2No",
+          "_ts": 1792566020.805723
+        },
+        {
           "name": "꼬꼬면 115g, 5개, 5개",
           "price": "4,220원",
           "discount_rate": 20,
