@@ -1176,6 +1176,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "베라 무해력 4ZERO 뽑아쓰는 미용티슈, 250매, 6팩",
+          "price": "6,390원",
+          "discount_rate": 69,
+          "priceAt": "10.22 00:03",
+          "image": "https://shopping.toss.im/live/taca/ai/YjY0NWNi/ZS9oQTlrTDRTTDBtZ0ZpcFJJU1NEMHlza2c1b3JkS0VtaVFNSGJ0SEtlZz0.png",
+          "url": "https://toss.shopping/_m/5HQGiDqh",
+          "_ts": 1792594994.59901,
+          "_flash": true,
+          "_product_id": "1487103361"
+        },
+        {
+          "name": "더건강플러스 엑스트라버진 올리브오일, 1L, 2개",
+          "price": "26,220원",
+          "discount_rate": 53,
+          "priceAt": "10.22 00:03",
+          "image": "https://shopping.toss.im/live/temp/2026-06-05/ff77cded-2341-4f37-a4d7-a9bfdc11bf6d.jpeg",
+          "url": "https://toss.shopping/_m/Dw8nUVhB",
+          "_ts": 1792594994.598978,
+          "_flash": true,
+          "_product_id": "133332389"
+        },
+        {
+          "name": "아삭한 고추장아찌, 1kg, 1개",
+          "price": "7,500원",
+          "discount_rate": 52,
+          "priceAt": "10.22 00:03",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDc0MTdm/QU5ueGpIUnBucGlaYkpiR2JHTVlTWjQwMlQ1NW10eDk1VXBkY2VlcFlQLzI.png",
+          "url": "https://toss.shopping/_m/Nuoiqb6B",
+          "_ts": 1792594994.598934,
+          "_flash": true,
+          "_product_id": "128334133"
+        },
+        {
           "name": "코피코 커피 캔디, 800g, 2개",
           "price": "14,400원",
           "discount_rate": 40,
