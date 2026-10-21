@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "비비고 든든 한섬만두 (냉동), 384g, 6개입",
+          "price": "17,290원",
+          "discount_rate": 45,
+          "priceAt": "10.21 17:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2501533321291229-1ce5e8e3-8bf1-45b5-bd01-48557238f0eb.jpg",
+          "url": "https://link.coupang.com/a/h1F5oLRHRB",
+          "_ts": 1792571460.188097
+        },
+        {
           "name": "한성기업 김밥패키지 5인분, 505g, 2세트, 505g × 2세트",
           "price": "6,480원",
           "discount_rate": 28,
@@ -1176,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/cb6f/99117b78e533f233c767c80d926afe9ab4b4ca1135393c17dfc59f114c30.jpg",
           "url": "https://link.coupang.com/a/hTrJTplpFk",
           "_ts": 1792142961.8362932
-        },
-        {
-          "name": "카누 바리스타 브리즈 캡슐커피머신, DSB-DN(캐슬 그레이), CASTLEGREY",
-          "price": "45,630원",
-          "discount_rate": 39,
-          "priceAt": "10.16 17:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/773059412092441-a1f3226d-5112-4a04-8c17-06397d37a7c8.jpg",
-          "url": "https://link.coupang.com/a/hTnxt29Ny8",
-          "_ts": 1792139434.8792021
         }
       ]
     },
