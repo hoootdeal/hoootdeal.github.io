@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "삼립 계란옷 입은 몬테크리스토 토스트 3p, 540g, 2개",
+          "price": "16,960원",
+          "discount_rate": 21,
+          "priceAt": "10.21 20:33",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/114315325671681-c24006a3-9b47-4b10-a7a6-e3383dfc6cb6.jpg",
+          "url": "https://link.coupang.com/a/h1S5Hr43FY",
+          "_ts": 1792582380.7890859
+        },
+        {
           "name": "제이엠솔루션 바이오 콜라겐 PDRN 퍼밍 마스크 팩 34g, 4개입, 1개, 4개입 × 1개",
           "price": "4,080원",
           "discount_rate": 65,
@@ -1167,15 +1176,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/02/17/18/8/f0238701-8af2-4c76-b9f7-87f0287396ad.jpg",
           "url": "https://link.coupang.com/a/hTD9IkDMUm",
           "_ts": 1792153388.139052
-        },
-        {
-          "name": "국내산 깐쪽파, 200g, 1개, 200g × 1개",
-          "price": "2,780원",
-          "discount_rate": 41,
-          "priceAt": "10.16 20:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4215368233178-d1de6af8-4daf-49ae-a225-d7061754098e.jpg",
-          "url": "https://link.coupang.com/a/hTzRFBCRHM",
-          "_ts": 1792149784.716309
         }
       ]
     },
@@ -1996,16 +1996,6 @@
           "url": "https://toss.shopping/_m/9Cpi9ekh",
           "_ts": 1792154794.6706429,
           "_product_id": "794488291"
-        },
-        {
-          "name": "산지로드 숯불 매콤오돌뼈, 300g, 4팩",
-          "price": "13,320원",
-          "discount_rate": 41,
-          "priceAt": "10.16 20:19",
-          "image": "https://shopping.toss.im/live/temp/2025-12-29/b1e2036f-3dc0-4c8c-9f35-abd07ed2e5e4.jpeg",
-          "url": "https://toss.shopping/_m/fHMWvDps",
-          "_ts": 1792149567.054112,
-          "_product_id": "2601750975"
         }
       ]
     },
