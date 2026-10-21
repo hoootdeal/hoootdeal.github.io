@@ -1185,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1770362018459706-beb55921-c9c5-49f1-8c94-5370eb62ad75.jpg",
           "url": "https://link.coupang.com/a/hUoNkdAyKi",
           "_ts": 1792192545.636527
-        },
-        {
-          "name": "닥터페퍼 제로, 350ml, 24개",
-          "price": "12,490원",
-          "discount_rate": 21,
-          "priceAt": "10.17 07:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/114437925066562-e8d85298-7509-4912-ae2c-bf5083f168b4.jpg",
-          "url": "https://link.coupang.com/a/hUnnmPrbJ6",
-          "_ts": 1792191353.478848
         }
       ]
     },
@@ -1202,6 +1193,39 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "고기중독 한입삼겹살, 500g, 2개",
+          "price": "10,430원",
+          "discount_rate": 73,
+          "priceAt": "10.22 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/ZmFjMDkw/QU1rbnpabWVaVHBacGFGdExQYTI0Yk5hbWRKdHF4NGFaMEY1ckEwZTVOT3c.png",
+          "url": "https://toss.shopping/_m/dph8WnDd",
+          "_ts": 1792623822.061634,
+          "_flash": true,
+          "_product_id": "2463826411"
+        },
+        {
+          "name": "허만두 고기손만두, 1.4kg, 2개",
+          "price": "13,900원",
+          "discount_rate": 46,
+          "priceAt": "10.22 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/MTkzOWNm/Wm1XREcwa1lodzNKdE5lT1pXaTNQakdsWFdTVnMyMnBkcm1hN2FJWHlFVT0.png",
+          "url": "https://toss.shopping/_m/BSzZY5rx",
+          "_ts": 1792623822.061596,
+          "_flash": true,
+          "_product_id": "146164099"
+        },
+        {
+          "name": "윙잇 정통 인계동 해장국, 600g, 5개",
+          "price": "19,900원",
+          "discount_rate": 56,
+          "priceAt": "10.22 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/ODJjMjdi/Zjk4T0RXMiszRHdaaDVqalRKUXVML3Mybk9iK08zNDI0em5nSCtBU2dOZz0.png",
+          "url": "https://toss.shopping/_m/ni73eJ8i",
+          "_ts": 1792623822.061552,
+          "_flash": true,
+          "_product_id": "558774829"
+        },
         {
           "name": "베라 무해력 4ZERO 뽑아쓰는 미용티슈, 250매, 6팩",
           "price": "6,390원",
@@ -2026,39 +2050,6 @@
           "url": "https://toss.shopping/_m/hh5KdYDu",
           "_ts": 1792198008.5810702,
           "_product_id": "627710385"
-        },
-        {
-          "name": "지퍼 멀티 크로스백, 블랙, 1개",
-          "price": "5,490원",
-          "discount_rate": 83,
-          "priceAt": "10.17 08:02",
-          "image": "https://shopping.toss.im/live/temp/2026-07-10/9f52160b-fd2a-492f-8b5e-66abc4d77f94.jpeg",
-          "url": "https://toss.shopping/_m/DiYHqjI3",
-          "_ts": 1792191738.620123,
-          "_flash": true,
-          "_product_id": "2460861557"
-        },
-        {
-          "name": "산들내음 산림방사 유정란, 난각번호 1번, 60구, 1박스",
-          "price": "22,900원",
-          "discount_rate": 59,
-          "priceAt": "10.17 08:02",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MDc5ODhh/QVBBY01NMEE0YksydGdiYnB4TjlZSmJNWTRkTkU0S2VjSkJQV0dkQkxOZmw.png",
-          "url": "https://toss.shopping/_m/F5Mxnua3",
-          "_ts": 1792191738.620092,
-          "_flash": true,
-          "_product_id": "2451254379"
-        },
-        {
-          "name": "연세두유 고단백 PRO 플레인, 240ml, 32개",
-          "price": "32,900원",
-          "discount_rate": 63,
-          "priceAt": "10.17 08:02",
-          "image": "https://shopping.toss.im/live/temp/2026-10-12/98c293e2-25b8-4616-9afe-edefe141605c.jpeg",
-          "url": "https://toss.shopping/_m/ty4IPAf7",
-          "_ts": 1792191738.620047,
-          "_flash": true,
-          "_product_id": "1975074559"
         }
       ]
     },
