@@ -1185,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/773059412092441-a1f3226d-5112-4a04-8c17-06397d37a7c8.jpg",
           "url": "https://link.coupang.com/a/hTnxt29Ny8",
           "_ts": 1792139434.8792021
-        },
-        {
-          "name": "유로푸드 유기농 레몬주스, 500ml, 2개, 500ml × 2개",
-          "price": "9,930원",
-          "discount_rate": 21,
-          "priceAt": "10.16 17:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/97926624493614-a16df7d1-6099-48f4-a3d7-42cafc7f27fb.jpg",
-          "url": "https://link.coupang.com/a/hTmgbRMld6",
-          "_ts": 1792138363.0847092
         }
       ]
     },
@@ -1202,6 +1193,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "대박농수산 제주 햇 브로콜리, 특품, 2kg, 1박스",
+          "price": "10,940원",
+          "discount_rate": 56,
+          "priceAt": "10.21 17:26",
+          "image": "https://shopping.toss.im/live/taca/ai/MjhiN2U2/QU9BT3MyUVJYdmFJVXZGQkJOMnpmcldWQndoNktHL01XR1BjQUx0bGVQQU8.png",
+          "url": "https://toss.shopping/_m/VGjB26xx",
+          "_ts": 1792571166.823248,
+          "_product_id": "2661643751"
+        },
         {
           "name": "유한메디카 고함량 마그네슘 엔 탑 400 맥스, 90정, 1개",
           "price": "7,080원",
@@ -2026,16 +2027,6 @@
           "url": "https://toss.shopping/_m/fOrfERa3",
           "_ts": 1792143918.9178932,
           "_product_id": "161300995"
-        },
-        {
-          "name": "리프레쉬 맥반석오징어, 13-25미 내외, 300g, 1봉",
-          "price": "14,560원",
-          "discount_rate": 46,
-          "priceAt": "10.16 17:19",
-          "image": "https://shopping.toss.im/live/temp/2026-04-07/9c81eb45-6040-431f-b33c-02f399d09cdc.jpeg",
-          "url": "https://toss.shopping/_m/DDn7xhWj",
-          "_ts": 1792138773.103456,
-          "_product_id": "2656113063"
         }
       ]
     },
