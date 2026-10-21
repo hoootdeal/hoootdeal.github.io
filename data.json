@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크라운 고소한 땅콩샌드, 279g, 2개, 279g × 2개",
+          "price": "3,910원",
+          "discount_rate": 32,
+          "priceAt": "10.22 07:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/242561747366908-5b261837-b768-4d91-bfe5-54c6f98f1932.jpg",
+          "url": "https://link.coupang.com/a/h2C39hZ8Ds",
+          "_ts": 1792620982.0895638
+        },
+        {
           "name": "이지앤프리 튼튼이 웨이브킵 냉동실 나눔 정리용기 3칸 1700ml, 1개입, 3개",
           "price": "14,900원",
           "discount_rate": 33,
@@ -1158,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/114437925066562-e8d85298-7509-4912-ae2c-bf5083f168b4.jpg",
           "url": "https://link.coupang.com/a/hUnnmPrbJ6",
           "_ts": 1792191353.478848
-        },
-        {
-          "name": "켈로그 현미 푸레이크, 550g, 1개, 550g × 1개",
-          "price": "3,850원",
-          "discount_rate": 48,
-          "priceAt": "10.17 07:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/02/11/17/5/9138d29d-a056-4939-8a72-690cb386dd76.jpg",
-          "url": "https://link.coupang.com/a/hUjO2lvFdc",
-          "_ts": 1792188373.845063
         }
       ]
     },
