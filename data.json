@@ -1176,6 +1176,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "헬로바이오 무가당 자연발효 그릭요거트 스타터, 3g, 5포, 4개",
+          "price": "9,900원",
+          "discount_rate": 75,
+          "priceAt": "10.22 00:02",
+          "image": "https://shopping.toss.im/live/temp/2025-12-31/2fb4b87f-517b-4d7a-a1be-4686f09eec81.jpeg",
+          "url": "https://toss.shopping/_m/9LG7h2aA",
+          "_ts": 1792594938.745125,
+          "_flash": true,
+          "_product_id": "515512547"
+        },
+        {
+          "name": "클라 듀얼 울트라 클린 캡슐세제, 클린코튼 8g 100개입 1개 + 프리지아 8g 100개입 1개, 1세트",
+          "price": "11,900원",
+          "discount_rate": 60,
+          "priceAt": "10.22 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/Y2E5ZWQ4/QUxURXdjY3o0ekpNMDVrOW5CN3puTXpHYk41eXc3SHllekRNYlpIdGdjMno.png",
+          "url": "https://toss.shopping/_m/f8p1RWIu",
+          "_ts": 1792594938.745097,
+          "_flash": true,
+          "_product_id": "283311773"
+        },
+        {
+          "name": "연세 눈건강 간건강 골드, 30캡슐, 3박스",
+          "price": "14,900원",
+          "discount_rate": 84,
+          "priceAt": "10.22 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-09-28/0cd18bd3-97c9-4106-9ff2-55a02451c8ef.jpeg",
+          "url": "https://toss.shopping/_m/dAgclvmi",
+          "_ts": 1792594938.7450602,
+          "_flash": true,
+          "_product_id": "525474375"
+        },
+        {
           "name": "크리스피 찹쌀 누룽지 달콤한맛, 288g, 4개",
           "price": "11,360원",
           "discount_rate": 56,
@@ -1933,72 +1966,6 @@
           "_ts": 1792191738.620047,
           "_flash": true,
           "_product_id": "1975074559"
-        },
-        {
-          "name": "GNM 자연의품격 건강한 간 밀크씨슬, 500mg, 30정, 3개",
-          "price": "10,090원",
-          "discount_rate": 59,
-          "priceAt": "10.17 00:01",
-          "image": "https://shopping.toss.im/live/temp/2026-08-21/9e45bf31-69b2-4467-9074-53c556ec4b8e.jpeg",
-          "url": "https://toss.shopping/_m/pVU3KLCu",
-          "_ts": 1792162899.6967208,
-          "_flash": true,
-          "_product_id": "2626230423"
-        },
-        {
-          "name": "바른세탁소 액체세제 라임향, 2.5L, 4개",
-          "price": "5,600원",
-          "discount_rate": 56,
-          "priceAt": "10.17 00:01",
-          "image": "https://shopping.toss.im/live/product/529291/50d3c178-afe9-4848-92a8-eaaaf025f42b.jpg",
-          "url": "https://toss.shopping/_m/54k604D",
-          "_ts": 1792162899.696685,
-          "_flash": true,
-          "_product_id": "210397653"
-        },
-        {
-          "name": "미니엔 제트 에어건2 MI-AIR600, 블랙, 1개",
-          "price": "18,900원",
-          "discount_rate": 80,
-          "priceAt": "10.17 00:01",
-          "image": "https://shopping.toss.im/live/temp/2024-12-03/b353f086-4e1d-43be-b449-fff7269a7d6a.jpeg",
-          "url": "https://toss.shopping/_m/pxe0eGrs",
-          "_ts": 1792162899.69662,
-          "_flash": true,
-          "_product_id": "2655697065"
-        },
-        {
-          "name": "뉴클 에어볼트 PD 22.5W 고속충전 보조배터리, 20000mAh, 화이트, 1개",
-          "price": "10,960원",
-          "discount_rate": 59,
-          "priceAt": "10.17 00:01",
-          "image": "https://shopping.toss.im/live/temp/2026-05-29/befd18b1-7ec0-41d3-9af4-2f81ec793d45.jpeg",
-          "url": "https://toss.shopping/_m/PtuUzD73",
-          "_ts": 1792162874.2191901,
-          "_flash": true,
-          "_product_id": "2140892329"
-        },
-        {
-          "name": "순살 양념 목살구이, 600g, 3개",
-          "price": "14,670원",
-          "discount_rate": 63,
-          "priceAt": "10.17 00:01",
-          "image": "https://shopping.toss.im/live/taca/ai/MTkyMTNl/QUp0cFQ3Q0pXZmd5QjZ5NVNYY0dRSDdqUWlGdzU4TS96S29CZU5JYVgwemc.png",
-          "url": "https://toss.shopping/_m/NFoQdxTA",
-          "_ts": 1792162874.219158,
-          "_flash": true,
-          "_product_id": "1179530071"
-        },
-        {
-          "name": "대식가 일키로 고추군만두, 1kg, 3팩",
-          "price": "15,810원",
-          "discount_rate": 45,
-          "priceAt": "10.17 00:01",
-          "image": "https://shopping.toss.im/live/temp/2026-02-03/726b3825-826d-4879-b3d7-2a5eb82ea74f.jpeg",
-          "url": "https://toss.shopping/_m/lByN7Omw",
-          "_ts": 1792162874.2191129,
-          "_flash": true,
-          "_product_id": "129952247"
         }
       ]
     },
