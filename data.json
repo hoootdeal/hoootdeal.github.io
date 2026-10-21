@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "고릴라왁싱 갓 블레이드 가정용 제모기 브라질리언 바디트리머, Purple Gorilla-RSM1569, 제모면도기",
+          "price": "18,700원",
+          "discount_rate": 55,
+          "priceAt": "10.21 14:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1015587051135-e449aa01-a977-43c9-8e58-032cc58709bf.jpg",
+          "url": "https://link.coupang.com/a/h1rvN3SAcS",
+          "_ts": 1792559223.156887
+        },
+        {
           "name": "유니레버 썬 식기세척기용 타블렛 세제 레몬 50개입, 500g, 1개",
           "price": "6,270원",
           "discount_rate": 35,
@@ -2024,16 +2033,6 @@
           "url": "https://toss.shopping/_m/7nNHXved",
           "_ts": 1792129805.644503,
           "_product_id": "78767229"
-        },
-        {
-          "name": "배스킨라빈스 메롱 멜론 우유 190ml, 24개",
-          "price": "7,600원",
-          "discount_rate": 73,
-          "priceAt": "10.16 13:27",
-          "image": "https://shopping.toss.im/live/temp/2026-04-22/2fe8b7ac-efbd-4d0f-93ae-feaa6483d01d.png",
-          "url": "https://toss.shopping/_m/nQXwQhud",
-          "_ts": 1792124830.382731,
-          "_product_id": "86942843"
         }
       ]
     },
