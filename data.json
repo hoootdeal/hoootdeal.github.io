@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "리챔 오리지널, 340g, 3개",
+          "price": "9,600원",
+          "discount_rate": 57,
+          "priceAt": "10.22 15:24",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/14896068917946-7bf71db5-528c-4ff5-9014-6723a24bd343.jpg",
+          "url": "https://link.coupang.com/a/h3bWWxnxHE",
+          "_ts": 1792650276.698447
+        },
+        {
           "name": "잘라쓰는 아쿠아 방수 테이프 밴드 롤, 5m X5cm, 1개",
           "price": "1,890원",
           "discount_rate": 41,
@@ -1167,15 +1176,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/94515838385842-9128c7ab-e0b2-490d-b214-2b7d9619cc4b.jpg",
           "url": "https://link.coupang.com/a/hUV6MZvb2G",
           "_ts": 1792220517.596512
-        },
-        {
-          "name": "헤어플러스 아쿠아 단백질 워터 에센스 프레시 플로럴 코튼 향, 200ml, 1개",
-          "price": "6,800원",
-          "discount_rate": 31,
-          "priceAt": "10.17 15:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/158167070227883-79afdfe7-bada-4eb6-b13d-14ead442ac18.jpg",
-          "url": "https://link.coupang.com/a/hURZWHySKi",
-          "_ts": 1792217065.1600268
         }
       ]
     },
@@ -2122,16 +2122,6 @@
           "url": "https://toss.shopping/_m/zuHR5LNp",
           "_ts": 1792220471.652782,
           "_product_id": "261587613"
-        },
-        {
-          "name": "밀크앤허니 스위트 크림 치즈케이크, 520g, 1개",
-          "price": "11,190원",
-          "discount_rate": 56,
-          "priceAt": "10.17 15:01",
-          "image": "https://shopping.toss.im/live/product/17903/c1d07bf5-e84c-44e8-be42-a066f43d2bc5.jpeg",
-          "url": "https://toss.shopping/_m/DkR3sZPa",
-          "_ts": 1792216887.787838,
-          "_product_id": "35713"
         }
       ]
     },
