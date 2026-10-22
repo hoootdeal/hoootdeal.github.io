@@ -1167,24 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4703204117566035-5a5e3d39-e573-4948-9060-0112f92396a0.jpg",
           "url": "https://link.coupang.com/a/hUNMzJmymi",
           "_ts": 1792213525.9918349
-        },
-        {
-          "name": "프로즌 원팩 마라탕 보통맛 (냉동), 450g, 2개",
-          "price": "12,700원",
-          "discount_rate": 20,
-          "priceAt": "10.17 13:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/39834128968126-4719b4d4-de37-44b8-9a8b-1db295fb5ffd.jpg",
-          "url": "https://link.coupang.com/a/hUKZQ5sC16",
-          "_ts": 1792211189.052434
-        },
-        {
-          "name": "광동제약 대추쌍화, 150ml, 20개, 150ml × 20개",
-          "price": "13,070원",
-          "discount_rate": 24,
-          "priceAt": "10.17 13:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/77973482207334-282f5751-738a-43ff-8e19-cc5b164020ac.jpg",
-          "url": "https://link.coupang.com/a/hUJCnPjIrY",
-          "_ts": 1792210029.090058
         }
       ]
     },
@@ -1193,6 +1175,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "소소락 반반 함흥냉면 10인분, 함흥냉면 2kg + 동치미육수 300g 5팩 + 비빔소스 50g 5팩, 1세트",
+          "price": "8,600원",
+          "discount_rate": 54,
+          "priceAt": "10.22 13:30",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDk5NGQ1/QU8rSEEyQUd4L09EblpyVDh4ZkRRZU5ZNmtLRU1BaXVFT1A0eGZ1QWN4NEk.png",
+          "url": "https://toss.shopping/_m/BFe9xjz3",
+          "_ts": 1792643426.507584,
+          "_product_id": "135578279"
+        },
         {
           "name": "베트남 고산지대 자연산 토종 생꿀, 2.4kg, 1병",
           "price": "26,030원",
