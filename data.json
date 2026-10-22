@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "베지밀 고단백두유 검은콩, 190ml, 96개, 190ml × 96개",
+          "price": "39,860원",
+          "discount_rate": 33,
+          "priceAt": "10.22 14:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/105291788848940-234fb8e4-b879-4ff2-b481-be43426f20b6.jpg",
+          "url": "https://link.coupang.com/a/h25XBP2MP6",
+          "_ts": 1792645241.079829
+        },
+        {
           "name": "마더케이 유아용 디아 젖병세정제 리필형 무향, 400ml, 4개, 400ml × 4개",
           "price": "11,950원",
           "discount_rate": 38,
@@ -2121,16 +2130,6 @@
           "url": "https://toss.shopping/_m/NHVWdNAd",
           "_ts": 1792214430.260813,
           "_product_id": "973592143"
-        },
-        {
-          "name": "던킨 제로 아이스티, 화이트피치 500ml 6개 + 샤인앤라임 500ml 6개, 12개",
-          "price": "7,500원",
-          "discount_rate": 68,
-          "priceAt": "10.17 13:44",
-          "image": "https://shopping.toss.im/live/temp/2026-08-25/d1cbf35f-74b2-4757-9af7-57b15db20589.png",
-          "url": "https://toss.shopping/_m/tne3MLKa",
-          "_ts": 1792212288.152454,
-          "_product_id": "2635765919"
         }
       ]
     },
