@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "EZn이지엔 프리미엄 더블지퍼백, 특대(XL), 50개입, 1개",
+          "price": "8,860원",
+          "discount_rate": 30,
+          "priceAt": "10.23 07:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/398075880292278-1c713f40-06cc-4a51-b9c7-18cdd34f9af5.jpg",
+          "url": "https://link.coupang.com/a/h4kLNUpxhQ",
+          "_ts": 1792709732.557739
+        },
+        {
           "name": "유로푸드 유기농 레몬주스, 250ml, 1개, 250ml × 1개",
           "price": "2,770원",
           "discount_rate": 50,
@@ -1230,24 +1239,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9946/53446487ba63e45dccbbf8ad953c4aaecdb0edc0c99caf399d49f3a19be9.jpg",
           "url": "https://link.coupang.com/a/hV3oFCd2MS",
           "_ts": 1792278691.6044412
-        },
-        {
-          "name": "오리온 예감 오리지널 24p, 768g, 2개",
-          "price": "16,470원",
-          "discount_rate": 34,
-          "priceAt": "10.18 07:51",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/216d7a00-05ba-46fc-89e9-4acb17e2c7271116388939761139228.png",
-          "url": "https://link.coupang.com/a/hV1VPorync",
-          "_ts": 1792277461.226045
-        },
-        {
-          "name": "프로그 고리형 고무장갑, 라임펀치, 대(L), 5개",
-          "price": "5,600원",
-          "discount_rate": 57,
-          "priceAt": "10.18 07:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5220804138286219-361dc458-d38e-43a3-aa18-732d9dd80e03.jpg",
-          "url": "https://link.coupang.com/a/hV0Gz3AZOe",
-          "_ts": 1792276415.409857
         }
       ]
     },
