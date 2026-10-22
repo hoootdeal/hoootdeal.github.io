@@ -1248,6 +1248,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "햇반 발아현미밥, 210g, 36개",
+          "price": "38,500원",
+          "discount_rate": 39,
+          "priceAt": "10.22 21:50",
+          "image": "https://shopping.toss.im/live/taca/ai/ZjcwYTM0/QUxhRnBjVDlMVXZGMEs5YVdrSmV3bDZyZXZVcFA2RjFxYi9FWHVHcVZLdFc.png",
+          "url": "https://toss.shopping/_m/pi1L8Wgn",
+          "_ts": 1792673434.918685,
+          "_product_id": "151310555"
+        },
+        {
           "name": "배터지는 고기듬뿍 감자탕, 5kg, 1개",
           "price": "19,800원",
           "discount_rate": 50,
