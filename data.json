@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "마더케이 유아용 디아 젖병세정제 리필형 무향, 400ml, 4개, 400ml × 4개",
+          "price": "11,950원",
+          "discount_rate": 38,
+          "priceAt": "10.22 12:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/655559865276474-ea8e6694-acab-43b1-8792-504e0768d0d8.jpg",
+          "url": "https://link.coupang.com/a/h21yhhfIVU",
+          "_ts": 1792641538.2368052
+        },
+        {
           "name": "다시다 씨제이제일제당 쇠고기, 100g, 2개",
           "price": "5,380원",
           "discount_rate": 43,
@@ -2130,16 +2139,6 @@
           "url": "https://toss.shopping/_m/tne3MLKa",
           "_ts": 1792212288.152454,
           "_product_id": "2635765919"
-        },
-        {
-          "name": "남다른 농수산 여수 돌산 갓김치, 5kg, 1개",
-          "price": "16,520원",
-          "discount_rate": 71,
-          "priceAt": "10.17 12:41",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDA3ODgy/RXRQSlB2OVEzd2tEL3ZQNy9sZXlTZDJTcGtobDlqdzZMQUNGc3JQczI3UT0.png",
-          "url": "https://toss.shopping/_m/FrZvL3F4",
-          "_ts": 1792208504.838224,
-          "_product_id": "1349815911"
         }
       ]
     },
