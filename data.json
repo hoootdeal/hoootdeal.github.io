@@ -1194,6 +1194,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "수입산 냉동 대패삼겹살, 2kg, 1개",
+          "price": "16,900원",
+          "discount_rate": 61,
+          "priceAt": "10.22 16:49",
+          "image": "https://shopping.toss.im/live/taca/ai/NjcxMGE2/WkU5K1MyS2hWKzd4TGhrWWZrc00wdHJOZVVvV1RqL04rUkUxUjZ0Nnp4UT0.png",
+          "url": "https://toss.shopping/_m/FwyEu3sn",
+          "_ts": 1792655376.41966,
+          "_product_id": "2260871189"
+        },
+        {
           "name": "메르헨트 옴므 아쿠아 스킨 토너, 200ml, 2개",
           "price": "9,380원",
           "discount_rate": 60,
@@ -2123,16 +2133,6 @@
           "url": "https://toss.shopping/_m/jxERxfRj",
           "_ts": 1792229088.04252,
           "_product_id": "2672325913"
-        },
-        {
-          "name": "피죤 퓨어 뽀드득 주방세제, 레몬향 3L 1개 + 자몽향 3L 1개, 2개",
-          "price": "8,200원",
-          "discount_rate": 68,
-          "priceAt": "10.17 16:29",
-          "image": "https://shopping.toss.im/live/temp/2026-09-10/f129f7d5-2e26-4af3-a2d9-7f5c7b394860.jpeg",
-          "url": "https://toss.shopping/_m/rjihCAXA",
-          "_ts": 1792222199.443167,
-          "_product_id": "149844773"
         }
       ]
     },
