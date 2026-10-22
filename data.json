@@ -1221,6 +1221,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "배터지는 고기듬뿍 감자탕, 5kg, 1개",
+          "price": "19,800원",
+          "discount_rate": 50,
+          "priceAt": "10.22 20:09",
+          "image": "https://shopping.toss.im/live/taca/ai/Y2M5ODkw/QVBHTWRuemkyY3NQenVCck0rb1ovRDZHUlkvejk5eWVEM1g2L3ZpTkF2bmc.png",
+          "url": "https://toss.shopping/_m/TiGqZpP4",
+          "_ts": 1792667374.5487502,
+          "_product_id": "7787115"
+        },
+        {
           "name": "냉동 슬라이스 대파, 1kg, 2개",
           "price": "7,900원",
           "discount_rate": 60,
