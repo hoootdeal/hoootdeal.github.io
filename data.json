@@ -1167,33 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/77973482207334-282f5751-738a-43ff-8e19-cc5b164020ac.jpg",
           "url": "https://link.coupang.com/a/hUJCnPjIrY",
           "_ts": 1792210029.090058
-        },
-        {
-          "name": "익스트림 듀얼 아르기닌 플러스 1000mg, 120정, 2개, 120정 × 2개",
-          "price": "17,900원",
-          "discount_rate": 32,
-          "priceAt": "10.17 12:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/113022611500253-644e4ea9-f105-4db6-9240-3804a7fd1946.jpg",
-          "url": "https://link.coupang.com/a/hUFq1jgk4i",
-          "_ts": 1792206517.138072
-        },
-        {
-          "name": "모나리자 부자되는집 녹스데코 3겹 30m 30롤, 1개, 30000mm",
-          "price": "9,900원",
-          "discount_rate": 45,
-          "priceAt": "10.17 12:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/adad/a6dc7cd9bd28e6bbc63d5317e2f2945cba55e873a6128fd6cbcbd67c85aa.png",
-          "url": "https://link.coupang.com/a/hUFlj0QUDY",
-          "_ts": 1792206440.187029
-        },
-        {
-          "name": "모아바이오팜 당도선별 샤인머스캣, 1kg, 1개",
-          "price": "4,500원",
-          "discount_rate": 31,
-          "priceAt": "10.17 11:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/jlqlk3cx/12f613d2fc6d459aa6fe26d90fbad0e0.jpg",
-          "url": "https://link.coupang.com/a/hUD6HyESdM",
-          "_ts": 1792205402.448813
         }
       ]
     },
@@ -1202,6 +1175,39 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "밀크아트 플레인 요구르트, 무가당, 2L, 2개",
+          "price": "14,700원",
+          "discount_rate": 42,
+          "priceAt": "10.22 12:13",
+          "image": "https://shopping.toss.im/live/taca/ai/ZmJhZjEw/SkpMSE04TTVjSXd5ekJqbUhUTENjZWNMWll4QzdKQlduYkNnNldaUEtXMD0.png",
+          "url": "https://toss.shopping/_m/ZoI5fhaC",
+          "_ts": 1792638790.387875,
+          "_flash": true,
+          "_product_id": "163264427"
+        },
+        {
+          "name": "외갓집 오모가리 묵은지 김치찌개, 500g, 3팩",
+          "price": "11,980원",
+          "discount_rate": 63,
+          "priceAt": "10.22 12:13",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDM4MTY4/QU0wbk41bGx3ZGtuNXM5WnNZakg4RG1SekU2Y0poUHdjeGVPS1J3ZUZGdmk.png",
+          "url": "https://toss.shopping/_m/BiL0FJnw",
+          "_ts": 1792638790.3878431,
+          "_flash": true,
+          "_product_id": "105357873"
+        },
+        {
+          "name": "소곱창 160g, 2개 + 소막창, 200g, 2개 + 참소스, 4팩, 1세트",
+          "price": "18,040원",
+          "discount_rate": 63,
+          "priceAt": "10.22 12:13",
+          "image": "https://shopping.toss.im/live/taca/ai/ODI3Nzhm/QUpLYjhuSkMyRjQvSzAxdmJMaDR3bzNsYVNxMjFxSWdPK29nRzlmVkEwVk8.png",
+          "url": "https://toss.shopping/_m/dTHark16",
+          "_ts": 1792638790.3878021,
+          "_flash": true,
+          "_product_id": "1058297393"
+        },
         {
           "name": "앙쥬 눈썹문신 아이브로우 워터프루프, 흑갈색, 2+2 구성, 총 4개",
           "price": "7,870원",
