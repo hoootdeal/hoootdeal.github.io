@@ -1203,6 +1203,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "켈로그 프링글스, 오리지날 2개 + 양파맛 2개 + 매운맛 2개, 110g, 총 6개",
+          "price": "11,040원",
+          "discount_rate": 37,
+          "priceAt": "10.22 17:26",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/NzcxZjk5/VDJ6czhScHNOazdsTVRPYmJHVE41bTI1T1oxc1pNZVR2R1Q3T3pHWi9Hdz0.png",
+          "url": "https://toss.shopping/_m/jNdenPq7",
+          "_ts": 1792657596.372472,
+          "_product_id": "155891821"
+        },
+        {
           "name": "수입산 냉동 대패삼겹살, 2kg, 1개",
           "price": "16,900원",
           "discount_rate": 61,
