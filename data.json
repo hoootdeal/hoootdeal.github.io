@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 우리찹쌀 단백절미 (냉동), 45g, 8개입, 1개",
+          "price": "5,480원",
+          "discount_rate": 36,
+          "priceAt": "10.22 10:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/5aedwnva/418027dd34b149c197dbf904e3bf19f3.jpg",
+          "url": "https://link.coupang.com/a/h2PQT3bryK",
+          "_ts": 1792631718.0913548
+        },
+        {
           "name": "이브로쉐 라즈베리 헤어 식초 스칼프, 400ml, 2개",
           "price": "17,350원",
           "discount_rate": 33,
@@ -1185,15 +1194,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1778024901894816-225ef483-2723-4797-9e77-c2cdd18e2674.jpg",
           "url": "https://link.coupang.com/a/hUx8cI5ECO",
           "_ts": 1792200384.2533572
-        },
-        {
-          "name": "쿠크다스 초코케이크 중, 121g, 2개, 121g × 2개",
-          "price": "5,620원",
-          "discount_rate": 31,
-          "priceAt": "10.17 09:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4fa9b8a8-a089-4525-89f6-698e5f9f280e2120629071975285287.png",
-          "url": "https://link.coupang.com/a/hUvZkDDAc0",
-          "_ts": 1792198585.226032
         }
       ]
     },
@@ -2072,26 +2072,6 @@
           "url": "https://toss.shopping/_m/FrZvL3F4",
           "_ts": 1792208504.838224,
           "_product_id": "1349815911"
-        },
-        {
-          "name": "번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
-          "price": "5,300원",
-          "discount_rate": 70,
-          "priceAt": "10.17 10:07",
-          "image": "https://shopping.toss.im/live/temp/2026-10-07/067eacd5-4948-41dd-b3f2-469cb11c8c05.jpeg",
-          "url": "https://toss.shopping/_m/NOPYawt2",
-          "_ts": 1792199269.431433,
-          "_product_id": "2622437583"
-        },
-        {
-          "name": "법성포 영광굴비, 20cm 내외, 20마리",
-          "price": "24,500원",
-          "discount_rate": 87,
-          "priceAt": "10.17 09:46",
-          "image": "https://shopping.toss.im/live/taca/ai/MWIxNWY5/QUp6QjVkb2YzTHNDZllkd0tNQUVOVjdBL3lvckVsVUtGaS83MVIvK29DSXQ.png",
-          "url": "https://toss.shopping/_m/hh5KdYDu",
-          "_ts": 1792198008.5810702,
-          "_product_id": "627710385"
         }
       ]
     },
