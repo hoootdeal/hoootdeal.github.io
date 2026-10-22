@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "잘라쓰는 아쿠아 방수 테이프 밴드 롤, 5m X5cm, 1개",
+          "price": "1,890원",
+          "discount_rate": 41,
+          "priceAt": "10.22 14:43",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e349/d7c1d814eaa27cddf4a555dc3e7e14f3d0fa7dd0b0098e4925b2b0bcf23c.png",
+          "url": "https://link.coupang.com/a/h282lBj8sS",
+          "_ts": 1792647824.314443
+        },
+        {
           "name": "베지밀 고단백두유 검은콩, 190ml, 96개, 190ml × 96개",
           "price": "39,860원",
           "discount_rate": 33,
@@ -1167,15 +1176,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/158167070227883-79afdfe7-bada-4eb6-b13d-14ead442ac18.jpg",
           "url": "https://link.coupang.com/a/hURZWHySKi",
           "_ts": 1792217065.1600268
-        },
-        {
-          "name": "레이저 Kraken V3 X, RZ04-03750300-R3M1, 블랙",
-          "price": "46,000원",
-          "discount_rate": 33,
-          "priceAt": "10.17 14:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4703204117566035-5a5e3d39-e573-4948-9060-0112f92396a0.jpg",
-          "url": "https://link.coupang.com/a/hUNMzJmymi",
-          "_ts": 1792213525.9918349
         }
       ]
     },
@@ -2120,16 +2120,6 @@
           "url": "https://toss.shopping/_m/DkR3sZPa",
           "_ts": 1792216887.787838,
           "_product_id": "35713"
-        },
-        {
-          "name": "누벨린 디펜턴 토탈 솔루션 앰플 세럼, 30ml, 2개",
-          "price": "13,400원",
-          "discount_rate": 85,
-          "priceAt": "10.17 14:20",
-          "image": "https://shopping.toss.im/live/temp/2026-02-24/9baed7ef-d970-4470-a73e-ae10683da11a.jpeg",
-          "url": "https://toss.shopping/_m/NHVWdNAd",
-          "_ts": 1792214430.260813,
-          "_product_id": "973592143"
         }
       ]
     },
