@@ -1248,6 +1248,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "신세계푸드 냉동 크로와상 생지, 2.25kg, 1개",
+          "price": "12,230원",
+          "discount_rate": 61,
+          "priceAt": "10.23 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/ZGFjYzcx/UXpRR0Q1a3h5TzJ5emg1OHk1cnlCQ1J3T0V6RENKYjg3eHhpUnh6RDFRcz0.png",
+          "url": "https://toss.shopping/_m/VOdm0ibv",
+          "_ts": 1792710226.017268,
+          "_flash": true,
+          "_product_id": "35885"
+        },
+        {
+          "name": "푸드앳홈 순삭 떡볶이, 매운맛, 200g, 5팩",
+          "price": "6,900원",
+          "discount_rate": 66,
+          "priceAt": "10.23 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/ZmFhZDlk/V1hQR1p1eGpHUTJWNTRNZGx0ZmhMWEtiQkxtb2JTVDF4ZW5Ua0g2bEZ2bz0.png",
+          "url": "https://toss.shopping/_m/vGvrdrl3",
+          "_ts": 1792710226.017227,
+          "_flash": true,
+          "_product_id": "469831035"
+        },
+        {
+          "name": "테오푸드 오뎅도리탕, 1.2kg, 1개",
+          "price": "12,780원",
+          "discount_rate": 67,
+          "priceAt": "10.23 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/MGM5NzM3/VG05aDhEK21NT1lxSEZxeVUrNm44WlVZbjJ6WGFoVkRzcXN0aG9vOUJncz0.png",
+          "url": "https://toss.shopping/_m/h9jOZuu7",
+          "_ts": 1792710226.017173,
+          "_flash": true,
+          "_product_id": "11080803"
+        },
+        {
           "name": "대용량 올인원 수면재생크림, 잘때 꼭 바르는 크림, 100g, 1+1 구성, 총 2개",
           "price": "12,000원",
           "discount_rate": 80,
