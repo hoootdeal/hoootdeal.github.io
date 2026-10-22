@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "면사랑 중화면 5개입 (냉동), 1.15kg, 1개, 1.15kg × 1개",
+          "price": "2,980원",
+          "discount_rate": 36,
+          "priceAt": "10.22 17:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/2nstqrcr/b35f9ec99afe4f7388289a839435fc9b.jpg",
+          "url": "https://link.coupang.com/a/h3kRX7OxFs",
+          "_ts": 1792657759.529299
+        },
+        {
           "name": "팔도 뽀로로 홍삼쏙쏙 오렌지맛 음료, 100ml, 40개, 100ml × 40개",
           "price": "11,120원",
           "discount_rate": 51,
@@ -1185,15 +1194,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ce36/8dc3c1de74c0ef3cea04839a89b0753d83a06c24617de626223281b44ab1.jpg",
           "url": "https://link.coupang.com/a/hU6go7Prcy",
           "_ts": 1792229041.7753248
-        },
-        {
-          "name": "에코맘의산골이유식 산골 과일참 통째로 딸기칩, 7g, 4개",
-          "price": "5,600원",
-          "discount_rate": 42,
-          "priceAt": "10.17 17:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1893487828384538-b471bd53-a5fe-4b82-9367-4b454b81f5ee.jpg",
-          "url": "https://link.coupang.com/a/hU2jE4YmIK",
-          "_ts": 1792225728.3225112
         }
       ]
     },
