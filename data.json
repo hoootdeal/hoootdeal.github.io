@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원자연건면 로스팅 꽃게탕면 103g, 4개, 4개",
+          "price": "3,080원",
+          "discount_rate": 34,
+          "priceAt": "10.23 08:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5a63/ce7997c4a83742b70c16cb47d79256e240b8dc80c0d94823c43b868be32a.jpg",
+          "url": "https://link.coupang.com/a/h4oXMGPn8m",
+          "_ts": 1792713253.133891
+        },
+        {
           "name": "EZn이지엔 프리미엄 더블지퍼백, 특대(XL), 50개입, 1개",
           "price": "8,860원",
           "discount_rate": 30,
@@ -1221,24 +1230,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/18/12/6/adeac699-6ba4-403a-a574-bb2381445741.jpg",
           "url": "https://link.coupang.com/a/hV8puYyxHg",
           "_ts": 1792282900.879435
-        },
-        {
-          "name": "1+1+1 남자 드라이 기능성 반팔티 쿨티 3P세트 티셔츠 남녀공용 베이잉, 블랙+푸른색+흰색, 2XL",
-          "price": "4,990원",
-          "discount_rate": 43,
-          "priceAt": "10.18 08:51",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3d21/3cb2602002c825d8f790b162bd0f3a780821dc7b75abb7cdd546d4f35423.jpg",
-          "url": "https://link.coupang.com/a/hV6fPsNLVc",
-          "_ts": 1792281089.83626
-        },
-        {
-          "name": "웰치스 프루트 스낵 믹스드 맛 90개입, 2kg, 1개",
-          "price": "22,260원",
-          "discount_rate": 24,
-          "priceAt": "10.18 08:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9946/53446487ba63e45dccbbf8ad953c4aaecdb0edc0c99caf399d49f3a19be9.jpg",
-          "url": "https://link.coupang.com/a/hV3oFCd2MS",
-          "_ts": 1792278691.6044412
         }
       ]
     },
