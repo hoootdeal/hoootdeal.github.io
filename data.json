@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "비비고 시래기 듬뿍 장터국, 2개, 500g",
+          "price": "4,950원",
+          "discount_rate": 33,
+          "priceAt": "10.22 20:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2d29b0b7-7b5d-4617-9ca8-afdcd23460fc16747170923792606617.png",
+          "url": "https://link.coupang.com/a/h3xyBrQwpM",
+          "_ts": 1792668410.547839
+        },
+        {
           "name": "무스텔라 노 린스 클렌징 워터, 300ml, 2개",
           "price": "21,000원",
           "discount_rate": 35,
@@ -1203,15 +1212,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1015775882208494-a3d9134d-f751-4a80-911e-0c4adb5de53f.jpg",
           "url": "https://link.coupang.com/a/hVYptpvKCa",
           "_ts": 1792274506.230423
-        },
-        {
-          "name": "편안하게 소화되는 신선한 1A 우유, 900ml, 3개, 900ml × 3개",
-          "price": "5,900원",
-          "discount_rate": 21,
-          "priceAt": "10.17 20:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/fd965b41-42ea-4a8f-a012-db8d6cfd52463218733706214064046.png",
-          "url": "https://link.coupang.com/a/hVez7CAYIS",
-          "_ts": 1792236027.001941
         }
       ]
     },
