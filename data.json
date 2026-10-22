@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오리온 포카칩 오리지널, 66g, 10개",
+          "price": "9,100원",
+          "discount_rate": 24,
+          "priceAt": "10.22 21:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/6294607904711-086e1c8a-4aa8-493a-aa95-31cada3ca9cb.jpg",
+          "url": "https://link.coupang.com/a/h3CGHVREaq",
+          "_ts": 1792672719.698068
+        },
+        {
           "name": "닷이프 여성용 롱/숏 기장 스판좋은 히든밴딩 슬림 부츠컷 청바지, 숏L(30), 워싱블루",
           "price": "8,900원",
           "discount_rate": 55,
@@ -2178,16 +2187,6 @@
           "_ts": 1792249272.0716958,
           "_flash": true,
           "_product_id": "2437890861"
-        },
-        {
-          "name": "제주 서귀포 감귤, 12brix 초고당도, 5kg, 1박스",
-          "price": "13,900원",
-          "discount_rate": 57,
-          "priceAt": "10.17 21:37",
-          "image": "https://shopping.toss.im/live/temp/2026-09-20/a0e6554a-50c1-4ea9-8954-02f528e674e3.png",
-          "url": "https://toss.shopping/_m/L40PABc3",
-          "_ts": 1792240621.39816,
-          "_product_id": "2659903585"
         }
       ]
     },
