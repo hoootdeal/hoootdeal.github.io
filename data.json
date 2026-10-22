@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "더미식 백미밥, 210g, 36개, 210g × 36개",
+          "price": "28,180원",
+          "discount_rate": 43,
+          "priceAt": "10.23 07:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/34779369342347-40fcf6a2-7341-42d4-a1d7-6a9bba39e98e.jpg",
+          "url": "https://link.coupang.com/a/h4hQ2ysi8O",
+          "_ts": 1792707284.0347798
+        },
+        {
           "name": "뉴트리크라프트 에너지 포도당 캔디 사과맛 100p, 272g, 1개, 272g × 1개",
           "price": "5,600원",
           "discount_rate": 42,
@@ -1230,24 +1239,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/82787139251640-51737792-5721-4988-92e7-2b73236c7c02.png",
           "url": "https://link.coupang.com/a/hVZUCmGLvw",
           "_ts": 1792275767.633804
-        },
-        {
-          "name": "나우푸드 마그네슘 글리시네이트 타블렛, 180정, 2개, 180정 × 2개",
-          "price": "27,370원",
-          "discount_rate": 33,
-          "priceAt": "10.18 07:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3ae1/a88813af9c82ce0dc60b44d1d6b5da8f485d1bd3a58963c79ff5fcda3864.jpg",
-          "url": "https://link.coupang.com/a/hVYHMfC3DU",
-          "_ts": 1792274754.6652129
-        },
-        {
-          "name": "피크닉 청포도, 200ml, 24개",
-          "price": "7,300원",
-          "discount_rate": 21,
-          "priceAt": "10.18 07:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1015775882208494-a3d9134d-f751-4a80-911e-0c4adb5de53f.jpg",
-          "url": "https://link.coupang.com/a/hVYptpvKCa",
-          "_ts": 1792274506.230423
         }
       ]
     },
