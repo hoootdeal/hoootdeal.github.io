@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "티아시아키친 치킨 마크니 커리, 170g, 4개",
+          "price": "4,950원",
+          "discount_rate": 28,
+          "priceAt": "10.22 18:50",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/86730185375015-9ab9c0e3-a4bb-41d2-8d88-55795f7b6fbe.png",
+          "url": "https://link.coupang.com/a/h3qFrBcz7s",
+          "_ts": 1792662625.877262
+        },
+        {
           "name": "오뚜기 더핫 열라면 120g, 4개",
           "price": "2,740원",
           "discount_rate": 29,
@@ -1194,15 +1203,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1742566438571959-53a5ab6a-b98d-4301-94ed-7b5c6d1d3b8c.jpg",
           "url": "https://link.coupang.com/a/hVas8me8bY",
           "_ts": 1792232575.520118
-        },
-        {
-          "name": "AOKOWN 지압슬리퍼 다이어트 붓기 건강 실내 사무실 슬리퍼 붓기, 핑크",
-          "price": "3,700원",
-          "discount_rate": 66,
-          "priceAt": "10.17 18:24",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ce36/8dc3c1de74c0ef3cea04839a89b0753d83a06c24617de626223281b44ab1.jpg",
-          "url": "https://link.coupang.com/a/hU6go7Prcy",
-          "_ts": 1792229041.7753248
         }
       ]
     },
@@ -2151,16 +2151,6 @@
           "url": "https://toss.shopping/_m/tvLJxKLu",
           "_ts": 1792234193.238019,
           "_product_id": "151316073"
-        },
-        {
-          "name": "프로프룻 시나노골드, 특품, 난좌포장, 3kg, 1박스",
-          "price": "9,900원",
-          "discount_rate": 81,
-          "priceAt": "10.17 18:24",
-          "image": "https://shopping.toss.im/live/temp/2026-10-06/74d4b59b-2bb4-4efb-aeb3-14ae3e570d38.jpeg",
-          "url": "https://toss.shopping/_m/jxERxfRj",
-          "_ts": 1792229088.04252,
-          "_product_id": "2672325913"
         }
       ]
     },
