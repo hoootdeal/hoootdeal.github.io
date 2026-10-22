@@ -1185,6 +1185,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "원김치 쪽파김치, 가정용, 2kg, 1개",
+          "price": "9,900원",
+          "discount_rate": 33,
+          "priceAt": "10.22 14:48",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MDkxZDUx/QU52Z21LSFI4ZUg3QkoxLzhPZGVRMTF5ZEJvNkdnTnJSZTNWSjhpRGZ0VWk.png",
+          "url": "https://toss.shopping/_m/bHi6PwVp",
+          "_ts": 1792648139.657563,
+          "_product_id": "2534121637"
+        },
+        {
           "name": "소소락 반반 함흥냉면 10인분, 함흥냉면 2kg + 동치미육수 300g 5팩 + 비빔소스 50g 5팩, 1세트",
           "price": "8,600원",
           "discount_rate": 54,
