@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "리고 100% 땅콩버터 청키, 453g, 1개",
+          "price": "6,060원",
+          "discount_rate": 24,
+          "priceAt": "10.22 17:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/14e0/3e8c09085fce56e8c4c27f65ca7a93480b066924528bb4193c728525f78e.jpg",
+          "url": "https://link.coupang.com/a/h3jFco2Rvo",
+          "_ts": 1792656746.6657789
+        },
+        {
           "name": "위트빅스 오리지날 시리얼, 1.2kg, 1개, 1.2kg × 1개",
           "price": "9,730원",
           "discount_rate": 27,
@@ -1176,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1893487828384538-b471bd53-a5fe-4b82-9367-4b454b81f5ee.jpg",
           "url": "https://link.coupang.com/a/hU2jE4YmIK",
           "_ts": 1792225728.3225112
-        },
-        {
-          "name": "오뚜기 고단백 컵누들 마라샹궈맛 41g, 12개, 12개",
-          "price": "9,400원",
-          "discount_rate": 29,
-          "priceAt": "10.17 16:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1033494366096119-2b833076-ec98-4382-8d9f-1f030cb0ce89.jpg",
-          "url": "https://link.coupang.com/a/hUZ1gIgU7o",
-          "_ts": 1792223801.0042071
         }
       ]
     },
