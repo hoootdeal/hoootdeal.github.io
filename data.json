@@ -1185,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/32457193620918-516050c9-e560-4c34-bead-a040721d45d0.jpg",
           "url": "https://link.coupang.com/a/hUCkALkelg",
           "_ts": 1792203913.0351832
-        },
-        {
-          "name": "티젠 애사비소다 오리지널, 500ml, 24개",
-          "price": "10,450원",
-          "discount_rate": 47,
-          "priceAt": "10.17 10:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1778024901894816-225ef483-2723-4797-9e77-c2cdd18e2674.jpg",
-          "url": "https://link.coupang.com/a/hUx8cI5ECO",
-          "_ts": 1792200384.2533572
         }
       ]
     },
@@ -1202,6 +1193,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "강일건어물 진미채, 1kg, 1개",
+          "price": "17,900원",
+          "discount_rate": 34,
+          "priceAt": "10.22 10:36",
+          "image": "https://shopping.toss.im/live/taca/ai/NGRhZmI2/RHAzNDBZSjNIanJnN0UrWU9ES0R4S3daSVBpdmh3VTYvY0FaeitNNFZVMD0.png",
+          "url": "https://toss.shopping/_m/tamkbnX6",
+          "_ts": 1792633016.520842,
+          "_product_id": "864787777"
+        },
         {
           "name": "동원 보성녹차, 350ml, 24개",
           "price": "11,300원",
