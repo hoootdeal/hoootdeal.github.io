@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아미고나쵸 그랩앤고 치즈, 100g, 6개, 100g × 6개",
+          "price": "10,400원",
+          "discount_rate": 22,
+          "priceAt": "10.23 15:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4348141825776663-d6a14388-b1c8-4887-b2e7-0412e6a26d3e.jpg",
+          "url": "https://link.coupang.com/a/h4QexUsSqa",
+          "_ts": 1792736149.6049469
+        },
+        {
           "name": "홈리아 무선 욕실청소기 + 아쿠아스핀 브러시 6종 세트, 화이트, HA-SP90",
           "price": "18,890원",
           "discount_rate": 42,
@@ -1249,15 +1258,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/894090919820295-caac8daf-1134-4d93-8459-49c3d3741753.jpg",
           "url": "https://link.coupang.com/a/hWBE86lqCW",
           "_ts": 1792307463.771689
-        },
-        {
-          "name": "풀무원 리셋클렌즈 48시간 ABC 주스, 1개, 960ml",
-          "price": "10,210원",
-          "discount_rate": 32,
-          "priceAt": "10.18 15:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/220734021270298-c9a0df01-78b9-4d2e-a937-6792990fbb1c.jpg",
-          "url": "https://link.coupang.com/a/hWw1TRKIMu",
-          "_ts": 1792303572.797559
         }
       ]
     },
