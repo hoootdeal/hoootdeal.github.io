@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "곰곰 조청 쌀엿, 1.2kg, 1개, 1.2kg × 1개",
+          "price": "3,440원",
+          "discount_rate": 27,
+          "priceAt": "10.23 19:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/121905690995858-2105420a-843d-44d4-a9cc-1dd45a40c462.jpg",
+          "url": "https://link.coupang.com/a/h5akXJhtIG",
+          "_ts": 1792753030.124655
+        },
+        {
           "name": "클룹 애사비소다 화이바 제로 탄산음료, 500ml, 20개",
           "price": "14,200원",
           "discount_rate": 42,
@@ -1249,15 +1258,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/tvzzsnmf/4e612af48e4b49458a01228f7c280ade.jpg",
           "url": "https://link.coupang.com/a/hWUQQUD7KK",
           "_ts": 1792323575.661584
-        },
-        {
-          "name": "GAP 추부 깻잎, 100g, 1팩, 100g × 1팩",
-          "price": "1,980원",
-          "discount_rate": 49,
-          "priceAt": "10.18 19:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1302174261039632-c0421bf3-7f01-4e6a-a26b-172cad236057.jpg",
-          "url": "https://link.coupang.com/a/hWQPH009Ei",
-          "_ts": 1792320201.016713
         }
       ]
     },
@@ -2286,16 +2286,6 @@
           "url": "https://toss.shopping/_m/VZLRQrKt",
           "_ts": 1792321801.8812401,
           "_product_id": "120350485"
-        },
-        {
-          "name": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
-          "price": "7,300원",
-          "discount_rate": 75,
-          "priceAt": "10.18 19:50",
-          "image": "https://shopping.toss.im/live/temp/2026-04-07/020b76ca-3a1a-45e9-ad26-e430ccf4c508.jpeg",
-          "url": "https://toss.shopping/_m/5abj1peg",
-          "_ts": 1792320643.275226,
-          "_product_id": "31367569"
         }
       ]
     },
