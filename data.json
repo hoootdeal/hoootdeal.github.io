@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "뉴에라 남녀공용 MLB 뉴욕 양키스 베이직 로고 맨투맨 148815, XXL, 블랙",
+          "price": "28,720원",
+          "discount_rate": 64,
+          "priceAt": "10.24 07:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/613186918513083-aa0673fb-5325-4549-9a79-a042e9a21c77.jpg",
+          "url": "https://link.coupang.com/a/h5WYCUoRhY",
+          "_ts": 1792793869.501785
+        },
+        {
           "name": "연두 요리에센스 순, 830ml, 1개",
           "price": "6,700원",
           "discount_rate": 26,
@@ -1240,24 +1249,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/282513725065722-80213784-32e9-4ae7-a246-e1495a5d4c58.jpg",
           "url": "https://link.coupang.com/a/hXEwFCFhE4",
           "_ts": 1792361923.1903129
-        },
-        {
-          "name": "TRIXIE 고 팝 플랫 롤리팝, 2kg, 1개",
-          "price": "6,840원",
-          "discount_rate": 39,
-          "priceAt": "10.19 07:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3411793520088473-9fa2129a-7e57-4a26-95ba-9c6e8c5403b2.jpg",
-          "url": "https://link.coupang.com/a/hXEjhjG1Uy",
-          "_ts": 1792361743.008008
-        },
-        {
-          "name": "엘라스틴 닥터노비드 탈모증상완화 지루성 두피용 약산성 비듬 샴푸, 50ml, 1개",
-          "price": "100원",
-          "discount_rate": 93,
-          "priceAt": "10.19 07:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/243431077745102-d37e470e-27c5-4d92-a85a-bbb5085b7c7c.jpg",
-          "url": "https://link.coupang.com/a/hXD2X9xTY4",
-          "_ts": 1792361521.6815019
         }
       ]
     },
