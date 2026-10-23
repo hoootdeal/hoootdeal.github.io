@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "홈리아 무선 욕실청소기 + 아쿠아스핀 브러시 6종 세트, 화이트, HA-SP90",
+          "price": "18,890원",
+          "discount_rate": 42,
+          "priceAt": "10.23 14:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/26/10/7/3361a11b-7e0b-40e5-aae0-e47b5bbb882b.jpg",
+          "url": "https://link.coupang.com/a/h4L07PihVs",
+          "_ts": 1792732611.0205948
+        },
+        {
           "name": "밀크바오밥 베이비 파우더 헤어 트리트먼트, 1L, 1개",
           "price": "7,320원",
           "discount_rate": 42,
@@ -1249,15 +1258,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/220734021270298-c9a0df01-78b9-4d2e-a937-6792990fbb1c.jpg",
           "url": "https://link.coupang.com/a/hWw1TRKIMu",
           "_ts": 1792303572.797559
-        },
-        {
-          "name": "오랄비 바이탈리티 키즈 프리미엄 전동칫솔, 3708, 프로즌, 1개",
-          "price": "21,420원",
-          "discount_rate": 52,
-          "priceAt": "10.18 14:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/03/21/10/4/47b5f48f-7536-483c-973f-cc12044164cb.jpeg",
-          "url": "https://link.coupang.com/a/hWsJJ9lxds",
-          "_ts": 1792299968.28797
         }
       ]
     },
@@ -2268,16 +2268,6 @@
           "url": "https://toss.shopping/_m/rzfK2G73",
           "_ts": 1792305273.6976829,
           "_product_id": "2652913851"
-        },
-        {
-          "name": "요거프레소 컵커피, 카페라떼 200ml 10개 + 카페모카 200ml 10개, 20개",
-          "price": "12,900원",
-          "discount_rate": 66,
-          "priceAt": "10.18 14:08",
-          "image": "https://shopping.toss.im/live/temp/2026-04-13/91d9faf8-52be-4dca-9794-841e7949a539.png",
-          "url": "https://toss.shopping/_m/fIqsSXRf",
-          "_ts": 1792300089.483107,
-          "_product_id": "88276283"
         }
       ]
     },
