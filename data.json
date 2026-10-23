@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하인즈 50% 슈가 앤 솔트 토마토 케찹, 435g, 1개, 435g × 1개",
+          "price": "3,080원",
+          "discount_rate": 44,
+          "priceAt": "10.23 22:13",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/03/06/17/8/e12e9cd1-c3ce-49e3-88af-3283bb1e0eb2.png",
+          "url": "https://link.coupang.com/a/h5j6wd6n6G",
+          "_ts": 1792761230.2607481
+        },
+        {
           "name": "꼬박꼬밥 고단저당 단백질 쉐이크 미숫가루맛 7p, 280g, 1개, 280g × 1개",
           "price": "15,770원",
           "discount_rate": 28,
@@ -1249,15 +1258,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/25879335185763-e2a3b2a3-d064-4328-9bca-0a2f8f640904.jpg",
           "url": "https://link.coupang.com/a/hW2RC8wubI",
           "_ts": 1792330303.502218
-        },
-        {
-          "name": "솔리몬 스퀴즈드 레몬즙, 1L, 1개, 1L × 1개",
-          "price": "7,990원",
-          "discount_rate": 30,
-          "priceAt": "10.18 21:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6f7b/96c979a3efed6cbb72bcc10dafeba9b2e41175add9c531bad6b222b56934.jpg",
-          "url": "https://link.coupang.com/a/hWY6DS3ttY",
-          "_ts": 1792327147.480489
         }
       ]
     },
@@ -2276,26 +2276,6 @@
           "_ts": 1792335666.4415848,
           "_flash": true,
           "_product_id": "2621363823"
-        },
-        {
-          "name": "마포나루터 돼지목살왕구이, 500g, 3팩",
-          "price": "11,780원",
-          "discount_rate": 46,
-          "priceAt": "10.18 21:59",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDJkNTQz/WHIrYmkydUdhOFRjaEc0bGRBTm9FdExleGhkZFB4eG9OZGprMkdocVp6VT0.png",
-          "url": "https://toss.shopping/_m/rFRW60W6",
-          "_ts": 1792328366.9637709,
-          "_product_id": "314897969"
-        },
-        {
-          "name": "우리 쌀로 만든 끓여먹는 구수한 누룽지, 1kg, 3개",
-          "price": "13,590원",
-          "discount_rate": 47,
-          "priceAt": "10.18 21:28",
-          "image": "https://shopping.toss.im/live/taca/ai/MWEyZjUy/RVZrcHNXYlAxMUpIQmdhZVh6b3FtMXlPN25KS2pxRldxcSt0VXFsK05hZz0.png",
-          "url": "https://toss.shopping/_m/N8o5V621",
-          "_ts": 1792326482.700162,
-          "_product_id": "102153577"
         }
       ]
     },
