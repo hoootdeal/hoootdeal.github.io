@@ -1267,6 +1267,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "배스킨라빈스 베리베리 스트로베리 우유 190ml, 48개",
+          "price": "18,430원",
+          "discount_rate": 69,
+          "priceAt": "10.24 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-10-20/75373638-25e8-49a0-aa3f-298f2943b040.png",
+          "url": "https://toss.shopping/_m/F8LjplfC",
+          "_ts": 1792767727.35714,
+          "_flash": true,
+          "_product_id": "2017407985"
+        },
+        {
+          "name": "네이처바이 알로에 에센스 마스크팩, 100개입, 1세트",
+          "price": "15,790원",
+          "discount_rate": 68,
+          "priceAt": "10.24 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-01-02/387be3ab-6425-4464-8b70-d7431389b44c.jpeg",
+          "url": "https://toss.shopping/_m/LwBk8am8",
+          "_ts": 1792767727.3571,
+          "_flash": true,
+          "_product_id": "525669803"
+        },
+        {
+          "name": "바세린 인텐시브 케어 대용량 바디로션, 1000ml, 1+1 구성, 총 2개",
+          "price": "11,880원",
+          "discount_rate": 60,
+          "priceAt": "10.24 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-03-11/b2020735-6550-406f-9aa6-804e61c0ab79.jpeg",
+          "url": "https://toss.shopping/_m/rAI6yoNz",
+          "_ts": 1792767727.3570502,
+          "_flash": true,
+          "_product_id": "377435835"
+        },
+        {
           "name": "허만두 잎새만두, 알찬고기 1.4kg 1봉 + 알찬김치 1.4kg 1봉, 2봉",
           "price": "13,200원",
           "discount_rate": 44,
@@ -2210,72 +2243,6 @@
           "url": "https://toss.shopping/_m/NTe2OEsD",
           "_ts": 1792373870.841779,
           "_product_id": "2258632599"
-        },
-        {
-          "name": "실속밥상 싸래기쌀, 20kg, 1개",
-          "price": "19,900원",
-          "discount_rate": 53,
-          "priceAt": "10.19 00:01",
-          "image": "https://shopping.toss.im/live/temp/2026-01-30/597b18e3-e1cf-4591-8cb4-a105599845ee.png",
-          "url": "https://toss.shopping/_m/36ufNUbg",
-          "_ts": 1792335695.217301,
-          "_flash": true,
-          "_product_id": "2661853213"
-        },
-        {
-          "name": "쏘울너츠 100% 땅콩버터 크런치, 500g, 2개",
-          "price": "6,970원",
-          "discount_rate": 65,
-          "priceAt": "10.19 00:01",
-          "image": "https://shopping.toss.im/live/temp/2026-01-14/a0a74bde-8214-479d-bc11-399abd45a539.jpeg",
-          "url": "https://toss.shopping/_m/nVbm0Ech",
-          "_ts": 1792335695.217267,
-          "_flash": true,
-          "_product_id": "627713829"
-        },
-        {
-          "name": "아라솔 구운란, 대란, 30구, 2개",
-          "price": "15,300원",
-          "discount_rate": 49,
-          "priceAt": "10.19 00:01",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/OWI2ZTQ0/VllWaW90U2x6SzZxNWxWR3FzelhVMU5xamxsYWMzcWxTVlZWckkwY1RTcz0.png",
-          "url": "https://toss.shopping/_m/vtW0ZbUD",
-          "_ts": 1792335695.217219,
-          "_flash": true,
-          "_product_id": "2374489861"
-        },
-        {
-          "name": "광천파도김 들기름으로 구워 더욱 고소한 광천김, 4g, 32개",
-          "price": "7,750원",
-          "discount_rate": 48,
-          "priceAt": "10.19 00:01",
-          "image": "https://shopping.toss.im/live/taca/ai/YWEzYzA2/QUpadDNrN25OazdKNWpPNThSak9aSTl5Vzk4czd6UnllOGZRc3JhUDFFdlI.png",
-          "url": "https://toss.shopping/_m/9AUNngps",
-          "_ts": 1792335666.4416661,
-          "_flash": true,
-          "_product_id": "170485315"
-        },
-        {
-          "name": "파머스넷 호박고구마, 한입, 5kg, 1박스",
-          "price": "7,030원",
-          "discount_rate": 24,
-          "priceAt": "10.19 00:01",
-          "image": "https://shopping.toss.im/live/taca/ai/MzEzMTE2/QUpheU02WnM0ZmkwazliR25JalJHaG1Nd2VzZGpsRmhVVmRjbHpaeDRveGw.png",
-          "url": "https://toss.shopping/_m/TH5nUsb2",
-          "_ts": 1792335666.441632,
-          "_flash": true,
-          "_product_id": "175489091"
-        },
-        {
-          "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-          "price": "4,990원",
-          "discount_rate": 66,
-          "priceAt": "10.19 00:01",
-          "image": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
-          "url": "https://toss.shopping/_m/dXoRinis",
-          "_ts": 1792335666.4415848,
-          "_flash": true,
-          "_product_id": "2621363823"
         }
       ]
     },
