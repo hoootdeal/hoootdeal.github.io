@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "해태제과 맛동산, 90g, 20개",
+          "price": "15,660원",
+          "discount_rate": 26,
+          "priceAt": "10.23 10:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/428190981151496-15491427-d721-45d0-9b25-70cf4542856f.jpg",
+          "url": "https://link.coupang.com/a/h4uo2GsrsW",
+          "_ts": 1792717820.276017
+        },
+        {
           "name": "스토리퍼니쳐 국내생산 E0 LPM 6단높이조절 라운드 접이식 테이블, 핑키쉬크림, WIDE(800 x 400 x 335 mm)",
           "price": "7,450원",
           "discount_rate": 49,
