@@ -1257,6 +1257,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "서해안 우와한 간장게장, 2kg, 1개",
+          "price": "15,570원",
+          "discount_rate": 60,
+          "priceAt": "10.23 10:12",
+          "image": "https://shopping.toss.im/live/taca/ai/ZjQwYjNk/QVdROFNaQ1VlQzhjU0dEYW1CVGl2WVIyeERkVWFoUmIvTzl6d1hIMzQ1ST0.png",
+          "url": "https://toss.shopping/_m/hmbEzPFo",
+          "_ts": 1792717920.239939,
+          "_product_id": "1734528093"
+        },
+        {
           "name": "지오클린 레몬 주방세제, 4L, 2개",
           "price": "8,900원",
           "discount_rate": 70,
