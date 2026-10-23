@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오레오 초콜릿 샌드위치 쿠키 화이트크림, 100g, 4개",
+          "price": "3,520원",
+          "discount_rate": 24,
+          "priceAt": "10.23 18:33",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/526465160266719-f49c4f6f-bd5d-4da3-bcb1-c83a809a8d50.jpg",
+          "url": "https://link.coupang.com/a/h44ohPxyYm",
+          "_ts": 1792748035.733008
+        },
+        {
           "name": "농심 사무실 과자세트 스낵 8입 세트 (바나나킥 + 조청유과 + 자갈치 + 양파링 + 포스틱 + 새우깡 + 빵부장 소금빵 + 오징어집), 1세트, 8종",
           "price": "8,120원",
           "discount_rate": 25,
