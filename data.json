@@ -1267,6 +1267,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 샘물 생수, 무라벨, 500ml, 40개",
+          "price": "6,900원",
+          "discount_rate": 61,
+          "priceAt": "10.23 14:43",
+          "image": "https://shopping.toss.im/live/temp/2025-04-20/c9d85db0-c752-46f7-92e2-3e40aa80dc0e.jpeg",
+          "url": "https://toss.shopping/_m/3ENDQLhB",
+          "_ts": 1792734182.365731,
+          "_product_id": "12832831"
+        },
+        {
           "name": "메르헨트 퍼퓸 대용량 바디워시, 호텔 딥 우드, 1L, 3개",
           "price": "14,360원",
           "discount_rate": 68,
