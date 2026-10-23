@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "농심 사무실 과자세트 스낵 8입 세트 (바나나킥 + 조청유과 + 자갈치 + 양파링 + 포스틱 + 새우깡 + 빵부장 소금빵 + 오징어집), 1세트, 8종",
+          "price": "8,120원",
+          "discount_rate": 25,
+          "priceAt": "10.23 17:50",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/25396567491795-6f347ab2-d248-418f-b3f0-4ea75057422c.png",
+          "url": "https://link.coupang.com/a/h41jNWkP9h",
+          "_ts": 1792745457.192698
+        },
+        {
           "name": "포스트 그래놀라 제로슈거 파로 통보리, 220g, 1개",
           "price": "2,630원",
           "discount_rate": 42,
@@ -1240,24 +1249,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1327632924357665-a8839ab4-4774-4f41-ad6e-35c22d6abc35.jpg",
           "url": "https://link.coupang.com/a/hWMCaFgBKC",
           "_ts": 1792316658.823883
-        },
-        {
-          "name": "키드오 딸기 크래커 샌드위치, 90g, 3개",
-          "price": "3,450원",
-          "discount_rate": 31,
-          "priceAt": "10.18 17:49",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/934e9b6e-edd5-471f-8cdf-2c862988f50f14035987464014475605.png",
-          "url": "https://link.coupang.com/a/hWIJopIYnY",
-          "_ts": 1792313397.5322082
-        },
-        {
-          "name": "어와란 구워먹기 좋은 구이용 명란 (냉동), 250g, 1개",
-          "price": "6,690원",
-          "discount_rate": 25,
-          "priceAt": "10.18 17:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/55548360320988-5bc3d294-25bb-4e9e-a2fa-3e9fffa39fad.jpg",
-          "url": "https://link.coupang.com/a/hWIfCNbfKm",
-          "_ts": 1792312994.33101
         }
       ]
     },
@@ -2282,16 +2273,6 @@
           "url": "https://toss.shopping/_m/NtRLfv88",
           "_ts": 1792317276.9125628,
           "_product_id": "194042979"
-        },
-        {
-          "name": "교동 육개장, 500g, 10개",
-          "price": "19,100원",
-          "discount_rate": 65,
-          "priceAt": "10.18 17:02",
-          "image": "https://shopping.toss.im/live/taca/ai/OTI5MmUz/QU5MY1g2WFNMTld0djl5bHBaU2szLzBIbUVpc081U2lkVzBRelZRMEw2V2k.png",
-          "url": "https://toss.shopping/_m/7FD5Zkac",
-          "_ts": 1792310523.2250292,
-          "_product_id": "133472721"
         }
       ]
     },
