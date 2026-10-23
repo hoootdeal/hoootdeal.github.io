@@ -1267,6 +1267,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "숨 시그니처 물티슈, 63gsm, 70매, 10팩",
+          "price": "8,490원",
+          "discount_rate": 43,
+          "priceAt": "10.23 19:32",
+          "image": "https://shopping.toss.im/live/taca/ai/ZGFhZTVh/QVB1QlhwdlZ0VmpuUzd3YTV2ODBheFpBcGJsR3EzUXladmY4cTFxb1FkYTU.png",
+          "url": "https://toss.shopping/_m/52g6RlM",
+          "_ts": 1792751544.633541,
+          "_product_id": "1112440899"
+        },
+        {
           "name": "청년곤약 순두부면, 200g, 10개",
           "price": "12,150원",
           "discount_rate": 60,
