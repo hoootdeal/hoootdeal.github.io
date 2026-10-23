@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "폰타나 라치오 베이컨 까르보나라 파스타소스, 430g, 1개",
+          "price": "4,690원",
+          "discount_rate": 32,
+          "priceAt": "10.23 11:22",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/161989645556333-a6b6b4ed-f1b8-4079-b9df-18bd6c56e962.jpg",
+          "url": "https://link.coupang.com/a/h4zwWekZEa",
+          "_ts": 1792722125.82301
+        },
+        {
           "name": "꿀이구마 고소한 보리건빵, 50g, 30개",
           "price": "7,900원",
           "discount_rate": 28,
@@ -1239,15 +1248,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1670583424599-444583f4-0151-439e-adda-671e94c98dce.jpg",
           "url": "https://link.coupang.com/a/hWireWvQzY",
           "_ts": 1792291320.6575308
-        },
-        {
-          "name": "연세두유 고단백 검은콩 & 고칼슘 두유, 190ml, 16개",
-          "price": "9,170원",
-          "discount_rate": 34,
-          "priceAt": "10.18 11:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/03/09/14/7/971e91ea-afcc-4c15-80c3-3b305b8a0c10.jpg",
-          "url": "https://link.coupang.com/a/hWfQIH5vpc",
-          "_ts": 1792289148.8098528
         }
       ]
     },
@@ -2235,16 +2235,6 @@
           "url": "https://toss.shopping/_m/dJOG7g9w",
           "_ts": 1792294889.874305,
           "_product_id": "8638671"
-        },
-        {
-          "name": "앙쥬 모이스처 알로에 폼클렌징, 100ml, 10개",
-          "price": "8,390원",
-          "discount_rate": 91,
-          "priceAt": "10.18 10:52",
-          "image": "https://shopping.toss.im/live/temp/2026-06-25/0f2c8f13-0664-482b-b301-7ac54c902d94.png",
-          "url": "https://toss.shopping/_m/7bViW8eB",
-          "_ts": 1792288341.023681,
-          "_product_id": "2310852455"
         }
       ]
     },
