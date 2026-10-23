@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쿠크다스 화이트 토르테, 289g, 2개",
+          "price": "5,610원",
+          "discount_rate": 25,
+          "priceAt": "10.23 20:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/48099006794162-b2d082f9-77ff-4577-81e1-7aa42091a0cf.jpg",
+          "url": "https://link.coupang.com/a/h5bQHMYtC8",
+          "_ts": 1792754299.282809
+        },
+        {
           "name": "곰곰 조청 쌀엿, 1.2kg, 1개, 1.2kg × 1개",
           "price": "3,440원",
           "discount_rate": 27,
@@ -2276,16 +2285,6 @@
           "url": "https://toss.shopping/_m/N8o5V621",
           "_ts": 1792326482.700162,
           "_product_id": "102153577"
-        },
-        {
-          "name": "신세계푸드 올반 팬피자 4종 세트, 치즈 + 페퍼로니 + 콤비네이션 + 불고기, 1403g, 4개",
-          "price": "16,000원",
-          "discount_rate": 46,
-          "priceAt": "10.18 20:10",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDlhZTE2/V2E2L2RzVFJsdmd3M3dDUDkvYmh4cnlKUTNpajJZSWZqOGRtcU5SRTFjQT0.png",
-          "url": "https://toss.shopping/_m/VZLRQrKt",
-          "_ts": 1792321801.8812401,
-          "_product_id": "120350485"
         }
       ]
     },
