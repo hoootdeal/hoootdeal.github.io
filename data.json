@@ -1267,6 +1267,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "국내산 세척사과, 2kg, 1박스",
+          "price": "7,900원",
+          "discount_rate": 68,
+          "priceAt": "10.23 16:03",
+          "image": "https://shopping.toss.im/live/temp/2026-08-07/a632e06d-22bc-4d02-a12a-6a532bc5197a.png",
+          "url": "https://toss.shopping/_m/jgHyJeDs",
+          "_ts": 1792739017.8337579,
+          "_product_id": "2431229129"
+        },
+        {
           "name": "데코롤 뜯어쓰는 롤행주, 키친데코 20매 + 과일데코 20매, 1세트",
           "price": "7,650원",
           "discount_rate": 61,
