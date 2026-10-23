@@ -1204,6 +1204,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "검정콩 깨강정, 240g, 2개",
+          "price": "8,730원",
+          "discount_rate": 61,
+          "priceAt": "10.24 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-06-05/221edbd1-bcd9-4b87-a3a7-e4a79f14cb5d.jpeg",
+          "url": "https://toss.shopping/_m/VceiTAKk",
+          "_ts": 1792796626.8540611,
+          "_flash": true,
+          "_product_id": "2183365907"
+        },
+        {
+          "name": "논앤밭위드 삼시쉐귀리 귀리쉐이크, 검은콩, 20g, 30개",
+          "price": "8,900원",
+          "discount_rate": 54,
+          "priceAt": "10.24 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/OGIxNjYx/QUpydDdWTlVzcXRzVXoyMVlockZ0VHRLVXJTcmFVMjBzazJ1clVWVG9SdFU.png",
+          "url": "https://toss.shopping/_m/thTTpDti",
+          "_ts": 1792796626.854025,
+          "_flash": true,
+          "_product_id": "105551393"
+        },
+        {
+          "name": "비기온 맛밤, 30g, 30개",
+          "price": "18,480원",
+          "discount_rate": 72,
+          "priceAt": "10.24 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDkyYmNh/QU0zWVZ1UEIySS9oTlZSMTNIRFMwbW9WNDB3MkZnbW1FYjBpYldmenZIQ08.png",
+          "url": "https://toss.shopping/_m/tyW4AUo9",
+          "_ts": 1792796626.853983,
+          "_flash": true,
+          "_product_id": "1320800487"
+        },
+        {
           "name": "정성곳간 명인 강순의 국내산 도가니탕, 800g, 10개",
           "price": "40,390원",
           "discount_rate": 63,
