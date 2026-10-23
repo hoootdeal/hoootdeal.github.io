@@ -1249,24 +1249,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6f7b/96c979a3efed6cbb72bcc10dafeba9b2e41175add9c531bad6b222b56934.jpg",
           "url": "https://link.coupang.com/a/hWY6DS3ttY",
           "_ts": 1792327147.480489
-        },
-        {
-          "name": "끼리 딥앤크런치 블루베리 크림치즈맛, 35g, 3개입, 2개",
-          "price": "6,790원",
-          "discount_rate": 50,
-          "priceAt": "10.18 20:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6712234482093293-89ddac20-35a2-4be6-a757-3fee77a05f94.jpg",
-          "url": "https://link.coupang.com/a/hWU3aRskea",
-          "_ts": 1792323741.512883
-        },
-        {
-          "name": "탐라황감 당도선별 10brix 감귤, 2kg(대과), 1개, 2kg(대과) × 1개",
-          "price": "9,900원",
-          "discount_rate": 34,
-          "priceAt": "10.18 20:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/tvzzsnmf/4e612af48e4b49458a01228f7c280ade.jpg",
-          "url": "https://link.coupang.com/a/hWUQQUD7KK",
-          "_ts": 1792323575.661584
         }
       ]
     },
@@ -1275,6 +1257,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "허만두 잎새만두, 알찬고기 1.4kg 1봉 + 알찬김치 1.4kg 1봉, 2봉",
+          "price": "13,200원",
+          "discount_rate": 44,
+          "priceAt": "10.23 20:55",
+          "image": "https://shopping.toss.im/live/taca/ai/MThmNTll/QUxOaHNZd1p6Snl4NUxFalBQV2d5MFZTa3FXc3lsRjhVeDJ5MnZRdElWR1Q.png",
+          "url": "https://toss.shopping/_m/DkwAAQV",
+          "_ts": 1792756557.512884,
+          "_product_id": "148001577"
+        },
         {
           "name": "마운틴앤필드 다크초콜릿아몬드, 20g, 20개",
           "price": "11,600원",
