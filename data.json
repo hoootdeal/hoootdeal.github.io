@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "꿀이구마 고소한 보리건빵, 50g, 30개",
+          "price": "7,900원",
+          "discount_rate": 28,
+          "priceAt": "10.23 10:25",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/16279626591258-dd049102-303d-48d8-ab3a-884e98b85d77.jpg",
+          "url": "https://link.coupang.com/a/h4vr0ziYk8",
+          "_ts": 1792718701.6742852
+        },
+        {
           "name": "해태제과 맛동산, 90g, 20개",
           "price": "15,660원",
           "discount_rate": 26,
@@ -1239,15 +1248,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/03/09/14/7/971e91ea-afcc-4c15-80c3-3b305b8a0c10.jpg",
           "url": "https://link.coupang.com/a/hWfQIH5vpc",
           "_ts": 1792289148.8098528
-        },
-        {
-          "name": "스탠리 퀜처 H2.0 플로우스테이트 텀블러, 크림 2.0, 591ml, 1개",
-          "price": "24,950원",
-          "discount_rate": 35,
-          "priceAt": "10.18 10:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/a1c2/adf7fd927bfb8e7470c170a0cd01402e76eb12627f9031f37832d3d397de.jpg",
-          "url": "https://link.coupang.com/a/hWb2D6cuSz",
-          "_ts": 1792285953.2561548
         }
       ]
     },
