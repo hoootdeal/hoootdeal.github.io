@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이가자연면 투움바 파스타, 179.5g, 6개",
+          "price": "8,440원",
+          "discount_rate": 23,
+          "priceAt": "10.23 11:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/54086336946569-7b82755f-5a35-4bc1-8961-bb444aa5d6f9.jpg",
+          "url": "https://link.coupang.com/a/h4BRicsars",
+          "_ts": 1792724080.020496
+        },
+        {
           "name": "폰타나 라치오 베이컨 까르보나라 파스타소스, 430g, 1개",
           "price": "4,690원",
           "discount_rate": 32,
@@ -1239,15 +1248,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/25cd/9680efc431b866f092649c04b3c13adfe18236e24133cd1a7d2fb34be3b0.jpg",
           "url": "https://link.coupang.com/a/hWmEjk4k0a",
           "_ts": 1792294857.735788
-        },
-        {
-          "name": "롯데웰푸드 드림카카오 82%, 86g, 3개",
-          "price": "7,160원",
-          "discount_rate": 26,
-          "priceAt": "10.18 11:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1670583424599-444583f4-0151-439e-adda-671e94c98dce.jpg",
-          "url": "https://link.coupang.com/a/hWireWvQzY",
-          "_ts": 1792291320.6575308
         }
       ]
     },
