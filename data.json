@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "클룹 애사비소다 화이바 제로 탄산음료, 500ml, 20개",
+          "price": "14,200원",
+          "discount_rate": 42,
+          "priceAt": "10.23 19:04",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/75736681051792-1e631e15-1bf4-4885-b50b-c01e6fa954e8.jpg",
+          "url": "https://link.coupang.com/a/h46Azm6a8O",
+          "_ts": 1792749880.979702
+        },
+        {
           "name": "오레오 초콜릿 샌드위치 쿠키 화이트크림, 100g, 4개",
           "price": "3,520원",
           "discount_rate": 24,
@@ -1249,15 +1258,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1302174261039632-c0421bf3-7f01-4e6a-a26b-172cad236057.jpg",
           "url": "https://link.coupang.com/a/hWQPH009Ei",
           "_ts": 1792320201.016713
-        },
-        {
-          "name": "추억의국민학교떡볶이 오리지널 (밀떡) (냉동), 600g, 2개",
-          "price": "8,990원",
-          "discount_rate": 20,
-          "priceAt": "10.18 18:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1327632924357665-a8839ab4-4774-4f41-ad6e-35c22d6abc35.jpg",
-          "url": "https://link.coupang.com/a/hWMCaFgBKC",
-          "_ts": 1792316658.823883
         }
       ]
     },
@@ -2282,16 +2282,6 @@
           "url": "https://toss.shopping/_m/5abj1peg",
           "_ts": 1792320643.275226,
           "_product_id": "31367569"
-        },
-        {
-          "name": "해남 호풍미 호박고구마, 대, 5kg, 1박스",
-          "price": "10,370원",
-          "discount_rate": 67,
-          "priceAt": "10.18 18:54",
-          "image": "https://shopping.toss.im/live/temp/2026-02-02/29aedeab-abc6-4b2c-86f7-31bcc48005aa.jpeg",
-          "url": "https://toss.shopping/_m/NtRLfv88",
-          "_ts": 1792317276.9125628,
-          "_product_id": "194042979"
         }
       ]
     },
