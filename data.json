@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "포스트 그래놀라 제로슈거 파로 통보리, 220g, 1개",
+          "price": "2,630원",
+          "discount_rate": 42,
+          "priceAt": "10.23 16:59",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/07/29/18/5/51fe805f-e5fd-4fa0-a8ea-e0ba8662c05e.png",
+          "url": "https://link.coupang.com/a/h4XDl8DMHY",
+          "_ts": 1792742362.884125
+        },
+        {
           "name": "청정원 순창 우리쌀로 만든 100% 국산 고추장, 1kg, 1개, 1kg × 1개",
           "price": "10,290원",
           "discount_rate": 22,
@@ -1249,24 +1258,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/55548360320988-5bc3d294-25bb-4e9e-a2fa-3e9fffa39fad.jpg",
           "url": "https://link.coupang.com/a/hWIfCNbfKm",
           "_ts": 1792312994.33101
-        },
-        {
-          "name": "가나 프리미엄 랑드샤 쇼콜라 초콜릿, 91g, 3개, 91g × 3개",
-          "price": "6,910원",
-          "discount_rate": 31,
-          "priceAt": "10.18 16:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/157504711743975-fc29e20d-c39f-4f77-bcf2-f167f7796e35.jpg",
-          "url": "https://link.coupang.com/a/hWDDWlXT3s",
-          "_ts": 1792309124.81834
-        },
-        {
-          "name": "투쿨포스쿨 프로타주 팔레트, 4호 휘핑 베리, 1개, 4호 휘핑 베리 × 1개",
-          "price": "7,880원",
-          "discount_rate": 38,
-          "priceAt": "10.18 16:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/894090919820295-caac8daf-1134-4d93-8459-49c3d3741753.jpg",
-          "url": "https://link.coupang.com/a/hWBE86lqCW",
-          "_ts": 1792307463.771689
         }
       ]
     },
