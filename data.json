@@ -1258,6 +1258,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청년곤약 순두부면, 200g, 10개",
+          "price": "12,150원",
+          "discount_rate": 60,
+          "priceAt": "10.23 18:02",
+          "image": "https://shopping.toss.im/live/taca/ai/NTg4NWE2/QUptdXl5R1RjRmR2VnNORTg5Vzg5eEpiZ0FEbUtneGZpVHJhdWFPbU0vaW0.png",
+          "url": "https://toss.shopping/_m/TdnL69qy",
+          "_ts": 1792746162.1227121,
+          "_product_id": "2416975769"
+        },
+        {
           "name": "국내산 세척사과, 2kg, 1박스",
           "price": "7,900원",
           "discount_rate": 68,
