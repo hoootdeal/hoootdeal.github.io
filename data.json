@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "티아시아키친 베트남 쌀국수 소스, 350g, 1개, 350g × 1개",
+          "price": "2,690원",
+          "discount_rate": 38,
+          "priceAt": "10.24 09:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/53149089972153-cbcce14b-3613-4a9c-9a0a-ce4dadf735e8.jpg",
+          "url": "https://link.coupang.com/a/h55pIV8UQm",
+          "_ts": 1792800951.1454668
+        },
+        {
           "name": "연세두유 고단백 아몬드 & 잣, 190ml, 16개",
           "price": "9,170원",
           "discount_rate": 28,
@@ -1177,33 +1186,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/625611933342085-567252cf-94f9-40c4-bc75-983bd6629013.jpg",
           "url": "https://link.coupang.com/a/hXP25EzQse",
           "_ts": 1792371600.661141
-        },
-        {
-          "name": "아이오페 레티놀 슈퍼 바운스 세럼 30ml 세트, 1세트",
-          "price": "17,300원",
-          "discount_rate": 53,
-          "priceAt": "10.19 09:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/13/11/1/1a003e03-49ec-4a6a-8d49-070e7daf8f1d.jpg",
-          "url": "https://link.coupang.com/a/hXL4UCkMvI",
-          "_ts": 1792368267.503241
-        },
-        {
-          "name": "고래밥 볶음양념맛, 20g, 10개",
-          "price": "2,870원",
-          "discount_rate": 33,
-          "priceAt": "10.19 08:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2526453695198724-f1feb09a-f17d-43eb-a0b2-4dcacfc7e17e.jpg",
-          "url": "https://link.coupang.com/a/hXLFzo2y28",
-          "_ts": 1792367921.7193751
-        },
-        {
-          "name": "베리밸리 딸기 (냉동), 1kg, 1개",
-          "price": "4,990원",
-          "discount_rate": 31,
-          "priceAt": "10.19 08:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5753778136731562-7b3b6da2-4fbc-4907-86d6-9d85aa9eb20c.jpg",
-          "url": "https://link.coupang.com/a/hXKrZ5VLki",
-          "_ts": 1792366899.427592
         }
       ]
     },
