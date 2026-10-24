@@ -1177,15 +1177,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5917980389101102-10996b16-eb5c-425b-9cda-e3daf2474eff.jpg",
           "url": "https://link.coupang.com/a/hYGx5duP6G",
           "_ts": 1792415680.545896
-        },
-        {
-          "name": "남향또띠아 까르보나라 치킨브리또 (냉동), 125g, 4개입, 1개",
-          "price": "8,670원",
-          "discount_rate": 27,
-          "priceAt": "10.19 21:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2021/06/22/12/8/8184ffdc-2d47-4513-b624-a6643c3f79fd.jpg",
-          "url": "https://link.coupang.com/a/hYB5SXrS8a",
-          "_ts": 1792411939.985096
         }
       ]
     },
@@ -1194,6 +1185,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "프로프룻 시나노골드, 특품, 난좌포장, 3kg, 1박스",
+          "price": "10,700원",
+          "discount_rate": 80,
+          "priceAt": "10.24 21:44",
+          "image": "https://shopping.toss.im/live/temp/2026-10-06/74d4b59b-2bb4-4efb-aeb3-14ae3e570d38.jpeg",
+          "url": "https://toss.shopping/_m/jxERxfRj",
+          "_ts": 1792845876.6119208,
+          "_product_id": "2672325913"
+        },
         {
           "name": "핫앤핫 핫팩, 레드, 10입, 3팩",
           "price": "10,600원",
@@ -2221,16 +2222,6 @@
           "url": "https://toss.shopping/_m/fhRWN0i3",
           "_ts": 1792457932.589859,
           "_product_id": "92679849"
-        },
-        {
-          "name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
-          "price": "5,450원",
-          "discount_rate": 63,
-          "priceAt": "10.19 21:41",
-          "image": "https://shopping.toss.im/live/taca/ai/YmI1NGJk/QUpobU9jOXRzYlNac25uSVpEbW03Wm1lVTF0TXkweFlNekR6VXNubkhLY00.png",
-          "url": "https://toss.shopping/_m/7cAsXrbr",
-          "_ts": 1792413717.805841,
-          "_product_id": "241796467"
         }
       ]
     },
