@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스머커즈 스위트 오렌지 마말레이드, 2개, 510g",
+          "price": "7,270원",
+          "discount_rate": 20,
+          "priceAt": "10.24 15:28",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/b855c93c-6054-4e85-a9c6-184a2874ec3515514476069586486931.png",
+          "url": "https://link.coupang.com/a/h6v0NlEZSS",
+          "_ts": 1792823285.192949
+        },
+        {
           "name": "청정원 체다치즈소스, 230g, 1개",
           "price": "2,330원",
           "discount_rate": 49,
@@ -2206,16 +2215,6 @@
           "url": "https://toss.shopping/_m/Nzoaevb6",
           "_ts": 1792393309.6683478,
           "_product_id": "688130681"
-        },
-        {
-          "name": "한촌설렁탕 국물 6종 세트, 500g, 6개, 1세트",
-          "price": "16,900원",
-          "discount_rate": 57,
-          "priceAt": "10.19 15:24",
-          "image": "https://shopping.toss.im/live/temp/2026-08-21/ab38d43f-623f-4c8b-99e1-1f7fe3b35a15.png",
-          "url": "https://toss.shopping/_m/38QLBUW1",
-          "_ts": 1792391056.726316,
-          "_product_id": "2625185613"
         }
       ]
     },
