@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "제이엠 솔루션 콜라겐 피디알엔 퍼밍 토너 패드 100매, 170ml, 1개",
+          "price": "6,740원",
+          "discount_rate": 38,
+          "priceAt": "10.25 07:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/07/17/12/5/b9e23014-a960-4641-8d23-e28f4dd41d8e.jpg",
+          "url": "https://link.coupang.com/a/h7DRWeLZdI",
+          "_ts": 1792881938.071705
+        },
+        {
           "name": "에이투 고감도 LED 유선 USB 게이밍 마우스, AG0103, 블랙",
           "price": "9,900원",
           "discount_rate": 66,
@@ -1168,15 +1177,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1769998811688997-666985e6-a34b-42ed-b5ad-6edec6444d4c.jpg",
           "url": "https://link.coupang.com/a/hZmeBPlWVg",
           "_ts": 1792450680.222195
-        },
-        {
-          "name": "존쿡 델리미트 전G베이컨, 200g, 6개",
-          "price": "12,840원",
-          "discount_rate": 54,
-          "priceAt": "10.20 07:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/83878822519455-899e20de-3c92-4b90-9c98-5a56ddd3c8b0.jpg",
-          "url": "https://link.coupang.com/a/hZkPJmJi3g",
-          "_ts": 1792449502.266765
         }
       ]
     },
