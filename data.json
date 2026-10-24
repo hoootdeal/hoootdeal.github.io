@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "네이쳐밸리 크런치 로스티드 아몬드 바, 3개, 210g",
+          "price": "7,210원",
+          "discount_rate": 54,
+          "priceAt": "10.24 18:59",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/de488687-7182-479a-911b-6f18dab7aa65246064712942414060.png",
+          "url": "https://link.coupang.com/a/h6K6N0U2Oi",
+          "_ts": 1792835960.525114
+        },
+        {
           "name": "르샤트라1802 인퓨전 초고농축 실내건조 섬유유연제 피오니부케향 리필, 2L, 2개",
           "price": "10,650원",
           "discount_rate": 31,
@@ -1159,15 +1168,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/15/12/8/7768fa08-7c3a-455c-8441-5bd2d588fa12.jpg",
           "url": "https://link.coupang.com/a/hYuJKR2h4u",
           "_ts": 1792405761.859688
-        },
-        {
-          "name": "강고집 바삭 구운 순살 먹태 오리지널, 45g, 3개",
-          "price": "9,460원",
-          "discount_rate": 25,
-          "priceAt": "10.19 18:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/07/22/15/3/56c0af90-c89c-4bf4-aefc-22c40632eeb9.jpg",
-          "url": "https://link.coupang.com/a/hYsnpm0lEq",
-          "_ts": 1792403781.8335009
         }
       ]
     },
@@ -2203,28 +2203,6 @@
           "url": "https://toss.shopping/_m/HuBspGKu",
           "_ts": 1792407934.427973,
           "_product_id": "542546629"
-        },
-        {
-          "name": "지민푸드 통통왕족발, 1kg 내외, 2팩",
-          "price": "14,400원",
-          "discount_rate": 52,
-          "priceAt": "10.19 18:42",
-          "image": "https://shopping.toss.im/live/taca/ai/MGI0ZjQw/QU9OTTJ1eWNZSTVKbWF4T1VCTE15MGFzbmJKcjViV0l4cGh6WWVTVjFBRWY.png",
-          "url": "https://toss.shopping/_m/PwlSgwph",
-          "_ts": 1792402925.788863,
-          "_product_id": "1323071177",
-          "sold_out": true,
-          "_sold_at": 1792832432.0
-        },
-        {
-          "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
-          "price": "9,600원",
-          "discount_rate": 65,
-          "priceAt": "10.19 18:08",
-          "image": "https://shopping.toss.im/live/temp/2026-07-03/6b083d0c-c74f-467a-9ec8-a46fe748c635.png",
-          "url": "https://toss.shopping/_m/PMmtWFLt",
-          "_ts": 1792400928.551688,
-          "_product_id": "2401832945"
         }
       ]
     },
