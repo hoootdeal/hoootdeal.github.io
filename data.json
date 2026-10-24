@@ -1159,15 +1159,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/07/22/15/3/56c0af90-c89c-4bf4-aefc-22c40632eeb9.jpg",
           "url": "https://link.coupang.com/a/hYsnpm0lEq",
           "_ts": 1792403781.8335009
-        },
-        {
-          "name": "오후의홍차 밀크티 1.5L, 8개",
-          "price": "21,080원",
-          "discount_rate": 34,
-          "priceAt": "10.19 17:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/fe5a/8448f21b8dcbee56ca16a1f03b6927868596465153c67ff9b6b7cbb95a6f.jpg",
-          "url": "https://link.coupang.com/a/hYoaBeRRtY",
-          "_ts": 1792400247.26769
         }
       ]
     },
@@ -1176,6 +1167,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "시원밥상 배추김치, 5kg, 1박스",
+          "price": "8,790원",
+          "discount_rate": 48,
+          "priceAt": "10.24 18:01",
+          "image": "https://shopping.toss.im/live/taca/ai/YjFiOTQy/QUpteG05c2hhWW56dGlSU1RzVDh5TnZvbHJrTHZDTlhLd3JVUHFXMVVNM2M.png",
+          "url": "https://toss.shopping/_m/5rNJCL7l",
+          "_ts": 1792832479.451186,
+          "_product_id": "271918131"
+        },
         {
           "name": "외갓집 송탄 서정리 부대찌개 550, 550g, 3개 + 오뚜기 라면사리, 110g, 1개, 1세트",
           "price": "11,000원",
@@ -2215,16 +2216,6 @@
           "url": "https://toss.shopping/_m/PMmtWFLt",
           "_ts": 1792400928.551688,
           "_product_id": "2401832945"
-        },
-        {
-          "name": "쟈니베어 일회용 수세미, 그레이, 80매, 4개",
-          "price": "7,920원",
-          "discount_rate": 77,
-          "priceAt": "10.19 17:28",
-          "image": "https://shopping.toss.im/live/temp/2026-06-15/f3aaa8a2-871e-4215-b4af-c56cb3440548.png",
-          "url": "https://toss.shopping/_m/JqSQGvt4",
-          "_ts": 1792398522.421294,
-          "_product_id": "160417833"
         }
       ]
     },
