@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "샘표 고기맛 살리는 매콤 쌈토장, 450g, 1개",
+          "price": "3,100원",
+          "discount_rate": 27,
+          "priceAt": "10.24 20:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/697480614986782-f806e46b-adc7-4221-a891-f0722c5bc1bf.png",
+          "url": "https://link.coupang.com/a/h6Qz7jWFxc",
+          "_ts": 1792840554.781014
+        },
+        {
           "name": "유명산지 경남단감 소과 5입, 800g, 1개, 800g × 1개",
           "price": "3,990원",
           "discount_rate": 43,
@@ -2203,16 +2212,6 @@
           "url": "https://toss.shopping/_m/7cAsXrbr",
           "_ts": 1792413717.805841,
           "_product_id": "241796467"
-        },
-        {
-          "name": "쵱선생 구룡포 햇 과메기 + 해초 세트, 10마리/20쪽, 1세트",
-          "price": "22,200원",
-          "discount_rate": 39,
-          "priceAt": "10.19 20:05",
-          "image": "https://shopping.toss.im/live/taca/ai/OTI3MjE4/QU16TzdINGJORk5rZTJHWk5HaGVZdFlrN0I4Qm00R3J5eWMwSnQ1ZmtkMnI.png",
-          "url": "https://toss.shopping/_m/HuBspGKu",
-          "_ts": 1792407934.427973,
-          "_product_id": "542546629"
         }
       ]
     },
