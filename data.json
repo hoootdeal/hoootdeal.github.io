@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "락피도 철분 액상 30포, 240ml, 1개, 240ml × 1개",
+          "price": "11,440원",
+          "discount_rate": 23,
+          "priceAt": "10.24 12:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/180584121265773-41f68a42-ccc2-4c9b-a9a7-09dba0ac2505.jpg",
+          "url": "https://link.coupang.com/a/h6iCFBQEai",
+          "_ts": 1792812042.4543989
+        },
+        {
           "name": "뉴트리디데이 프리미엄 멀티비타민 골드, 90정, 1개, 90정 × 1개",
           "price": "8,920원",
           "discount_rate": 25,
@@ -1168,15 +1177,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/04/22/18/8/bf0ed68d-7f75-4550-b7d9-ce124d44e9ec.jpg",
           "url": "https://link.coupang.com/a/hX1itkzrhs",
           "_ts": 1792381043.739944
-        },
-        {
-          "name": "지리산수 무라벨, 18개, 2L",
-          "price": "8,320원",
-          "discount_rate": 22,
-          "priceAt": "10.19 12:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/325765575430263-80acebd5-3852-485b-9910-3c88407c8b30.jpg",
-          "url": "https://link.coupang.com/a/hXZzgW6Rrg",
-          "_ts": 1792379600.04005
         }
       ]
     },
@@ -2212,16 +2212,6 @@
           "url": "https://toss.shopping/_m/vKGXHQT9",
           "_ts": 1792381280.070763,
           "_product_id": "264221195"
-        },
-        {
-          "name": "포천이동 양념LA갈비, 500g, 1팩",
-          "price": "7,900원",
-          "discount_rate": 50,
-          "priceAt": "10.19 12:15",
-          "image": "https://shopping.toss.im/live/taca/ai/YWQ1YzA5/QU16RU01L0lZcC9STjBkV0M3QzZVekM0dzJJSjdIQXo3czRVNXN0b1h1M28.png",
-          "url": "https://toss.shopping/_m/POfKIzmx",
-          "_ts": 1792379751.096183,
-          "_product_id": "2184701663"
         }
       ]
     },
