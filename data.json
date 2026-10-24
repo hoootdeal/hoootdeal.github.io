@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하림 양푼김치찌개라면 112g, 16개, 16개",
+          "price": "11,420원",
+          "discount_rate": 26,
+          "priceAt": "10.24 10:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/167763436856815-e3167053-bcb9-4a3f-8de6-44daa73b7036.jpg",
+          "url": "https://link.coupang.com/a/h59kmJKnQq",
+          "_ts": 1792804243.960035
+        },
+        {
           "name": "티아시아키친 베트남 쌀국수 소스, 350g, 1개, 350g × 1개",
           "price": "2,690원",
           "discount_rate": 38,
