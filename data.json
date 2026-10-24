@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "뻥이요 골드, 35g, 30개",
+          "price": "10,220원",
+          "discount_rate": 37,
+          "priceAt": "10.24 13:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3ad0/bb5a6240f2b83aeceb0fd240910b209cd3e1467dda715bff67e101eb910e.jpg",
+          "url": "https://link.coupang.com/a/h6pqQlzHjM",
+          "_ts": 1792817759.6143732
+        },
+        {
           "name": "코멧 포켓형 손난로 핫팩 150g, 60개, 60개",
           "price": "13,510원",
           "discount_rate": 55,
@@ -1159,15 +1168,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/21713284425888-9f6b2d88-6de1-4dca-b866-e28a4ee5fe88.jpg",
           "url": "https://link.coupang.com/a/hX63dHsKs0",
           "_ts": 1792385874.597739
-        },
-        {
-          "name": "루나 롱래스팅 파운데이션 30ml, 1개, 21호 바닐라",
-          "price": "7,040원",
-          "discount_rate": 53,
-          "priceAt": "10.19 13:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7499/745d639f497c5b6bbf03f458cfe2d21dd76d8d0fe701ce75a31143770497.jpg",
-          "url": "https://link.coupang.com/a/hX6om343ZB",
-          "_ts": 1792385322.488297
         }
       ]
     },
@@ -2193,16 +2193,6 @@
           "url": "https://toss.shopping/_m/38QLBUW1",
           "_ts": 1792391056.726316,
           "_product_id": "2625185613"
-        },
-        {
-          "name": "퓨노센스 듀얼 퓨어 크림, 50ml, 1개",
-          "price": "9,350원",
-          "discount_rate": 81,
-          "priceAt": "10.19 13:43",
-          "image": "https://shopping.toss.im/live/temp/2026-09-09/54739638-2d95-47ad-aec2-81a797d1252b.png",
-          "url": "https://toss.shopping/_m/XrOAjCqD",
-          "_ts": 1792385009.646813,
-          "_product_id": "1896378907"
         }
       ]
     },
