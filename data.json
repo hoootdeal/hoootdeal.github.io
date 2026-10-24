@@ -1168,15 +1168,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2021/06/22/12/8/8184ffdc-2d47-4513-b624-a6643c3f79fd.jpg",
           "url": "https://link.coupang.com/a/hYB5SXrS8a",
           "_ts": 1792411939.985096
-        },
-        {
-          "name": "청정원순창 조개멸치 된장찌개 양념, 450g, 1개, 450g × 1개",
-          "price": "3,530원",
-          "discount_rate": 35,
-          "priceAt": "10.19 20:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/332215834539943-70c0a0cc-2e98-4883-818a-90f7c28cf2ca.jpg",
-          "url": "https://link.coupang.com/a/hYytSo3JDh",
-          "_ts": 1792408905.25456
         }
       ]
     },
@@ -1185,6 +1176,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "핫앤핫 핫팩, 레드, 10입, 3팩",
+          "price": "10,600원",
+          "discount_rate": 77,
+          "priceAt": "10.24 20:59",
+          "image": "https://shopping.toss.im/live/temp/2026-09-24/0507d0a7-d1e3-484d-8db2-3c47bb9f541f.png",
+          "url": "https://toss.shopping/_m/BQ2HJFpd",
+          "_ts": 1792843171.949274,
+          "_product_id": "2654835821"
+        },
         {
           "name": "잘말려 단단한 최상급 무안 일반양파, 소, 5kg, 1박스",
           "price": "6,910원",
