@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "뉴트리디데이 프리미엄 멀티비타민 골드, 90정, 1개, 90정 × 1개",
+          "price": "8,920원",
+          "discount_rate": 25,
+          "priceAt": "10.24 11:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2405012734711003-0376b031-efde-4d12-b4a4-6a569a9c3d1d.png",
+          "url": "https://link.coupang.com/a/h6eJkalVq8",
+          "_ts": 1792808773.1007621
+        },
+        {
           "name": "풀무원 살아있는 실의힘 꼬마나또 김조림 간장소스, 29.9g, 3개입, 1개",
           "price": "2,120원",
           "discount_rate": 35,
@@ -1168,15 +1177,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/325765575430263-80acebd5-3852-485b-9910-3c88407c8b30.jpg",
           "url": "https://link.coupang.com/a/hXZzgW6Rrg",
           "_ts": 1792379600.04005
-        },
-        {
-          "name": "딥스 해양심층수 에코그린 무라벨, 500ml, 20개",
-          "price": "7,200원",
-          "discount_rate": 27,
-          "priceAt": "10.19 11:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3824560954429162-d0e8a208-e533-4713-bd86-40a611535885.jpg",
-          "url": "https://link.coupang.com/a/hXVMe9N8CW",
-          "_ts": 1792376409.794631
         }
       ]
     },
@@ -2234,16 +2234,6 @@
           "url": "https://toss.shopping/_m/NR8WRrkx",
           "_ts": 1792378611.4826958,
           "_product_id": "110224187"
-        },
-        {
-          "name": "헬로바이오 프리미엄 효소 with 카무트 브랜드 밀, 3g, 30포, 1박스",
-          "price": "6,700원",
-          "discount_rate": 70,
-          "priceAt": "10.19 10:37",
-          "image": "https://shopping.toss.im/live/temp/2026-08-11/cfd2dfd3-c086-46a6-b460-81c15299a098.jpeg",
-          "url": "https://toss.shopping/_m/NTe2OEsD",
-          "_ts": 1792373870.841779,
-          "_product_id": "2258632599"
         }
       ]
     },
