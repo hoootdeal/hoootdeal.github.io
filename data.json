@@ -1195,6 +1195,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "라이프턴 퍼스트 엑스트라버진 올리브오일 캡슐 100, 30캡슐, 6박스",
+          "price": "19,900원",
+          "discount_rate": 88,
+          "priceAt": "10.25 00:03",
+          "image": "https://shopping.toss.im/live/temp/2025-10-10/e03b4240-ae99-4957-ace3-a2c05b52c3bb.jpeg",
+          "url": "https://toss.shopping/_m/JxxV4OGD",
+          "_ts": 1792854187.243008,
+          "_flash": true,
+          "_product_id": "240280587"
+        },
+        {
+          "name": "포레스티 국내제조 땅콩버터, 무첨가, 무가당, 무설탕, 450g, 2개",
+          "price": "14,000원",
+          "discount_rate": 72,
+          "priceAt": "10.25 00:03",
+          "image": "https://shopping.toss.im/live/temp/2026-05-28/d3fd1ad9-465d-4067-8306-daad600ecb29.jpeg",
+          "url": "https://toss.shopping/_m/tehUDiVy",
+          "_ts": 1792854187.242969,
+          "_flash": true,
+          "_product_id": "1093819371"
+        },
+        {
+          "name": "자동차 하이브리드 와이퍼, 650mm + 400mm, 1세트",
+          "price": "5,500원",
+          "discount_rate": 72,
+          "priceAt": "10.25 00:03",
+          "image": "https://shopping.toss.im/live/taca/ai/YTMzZTVl/QU0vbC80M1VHVUE3VFhKMDhqZVB5M0YxNHNvSGhRNTAvUDFZZzRFQ01YK3E.png",
+          "url": "https://toss.shopping/_m/XiJ9bUkx",
+          "_ts": 1792854187.242928,
+          "_flash": true,
+          "_product_id": "193293927"
+        },
+        {
           "name": "프로프룻 시나노골드, 특품, 난좌포장, 3kg, 1박스",
           "price": "10,700원",
           "discount_rate": 80,
