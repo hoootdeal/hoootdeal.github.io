@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "국내산 청경채, 4kg, 1박스, 4kg × 1박스",
+          "price": "11,200원",
+          "discount_rate": 40,
+          "priceAt": "10.24 16:35",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4178375662712363-5490a91c-ea43-49d3-979b-323c980361e5.jpg",
+          "url": "https://link.coupang.com/a/h6AOqSNLCC",
+          "_ts": 1792827313.0086122
+        },
+        {
           "name": "데체코 올리오 엑스트라 버진 디 올리바 올리브오일, 1L, 2개",
           "price": "21,180원",
           "discount_rate": 24,
@@ -1159,24 +1168,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/d8c6/192b4255c96235d8a54f20e0b4ee0322e9dc37be4e4d0f186f2323dd90cc.jpg",
           "url": "https://link.coupang.com/a/hYkr9RuK4W",
           "_ts": 1792397128.544899
-        },
-        {
-          "name": "불닭볶음면 140g, 5개",
-          "price": "4,020원",
-          "discount_rate": 21,
-          "priceAt": "10.19 16:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/344801787593852-567aaca7-a965-4d97-adc9-4214051864f5.png",
-          "url": "https://link.coupang.com/a/hYf6NNO8lw",
-          "_ts": 1792393480.689059
-        },
-        {
-          "name": "신라면 로제 134g, 4개",
-          "price": "2,980원",
-          "discount_rate": 30,
-          "priceAt": "10.19 15:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/05/20/16/9/41869940-14d0-43f7-a67d-2c820c0d1457.jpg",
-          "url": "https://link.coupang.com/a/hYeWB1eC4W",
-          "_ts": 1792392502.166681
         }
       ]
     },
@@ -2214,16 +2205,6 @@
           "url": "https://toss.shopping/_m/JqSQGvt4",
           "_ts": 1792398522.421294,
           "_product_id": "160417833"
-        },
-        {
-          "name": "제주 구좌 흙당근, 중, 3kg, 1박스",
-          "price": "8,190원",
-          "discount_rate": 67,
-          "priceAt": "10.19 16:01",
-          "image": "https://shopping.toss.im/live/taca/ai/YjQyYTJh/QU9NTWk4TkF5Z3BVR3RUWGtsRzZISzBnRGNIc25Dby9pLzN5RjJvMmVoNEc.png",
-          "url": "https://toss.shopping/_m/Nzoaevb6",
-          "_ts": 1792393309.6683478,
-          "_product_id": "688130681"
         }
       ]
     },
