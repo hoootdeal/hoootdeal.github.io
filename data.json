@@ -1168,24 +1168,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/e450/4e7d7980d97832d80de1b7117555f4bf0c74e333663f7c5467f8833bc4b7.jpg",
           "url": "https://link.coupang.com/a/hZqVt75ZTg",
           "_ts": 1792454618.5353441
-        },
-        {
-          "name": "청정원순창 재래식 생된장, 2.8kg, 1개",
-          "price": "8,780원",
-          "discount_rate": 23,
-          "priceAt": "10.20 08:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/28401590849864-dc5e7736-f554-4f78-84d5-744f48ebd7a7.jpg",
-          "url": "https://link.coupang.com/a/hZmzzQZQL6",
-          "_ts": 1792450963.029597
-        },
-        {
-          "name": "생면식감 매운맛 95.9g, 4개",
-          "price": "2,680원",
-          "discount_rate": 32,
-          "priceAt": "10.20 07:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1769998811688997-666985e6-a34b-42ed-b5ad-6edec6444d4c.jpg",
-          "url": "https://link.coupang.com/a/hZmeBPlWVg",
-          "_ts": 1792450680.222195
         }
       ]
     },
@@ -1194,6 +1176,39 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "배스킨라빈스 멸균우유, 쿠키앤크림, 190ml, 24개",
+          "price": "10,000원",
+          "discount_rate": 65,
+          "priceAt": "10.25 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-10-20/e82a367b-1845-4c07-98d9-52e855f71aba.png",
+          "url": "https://toss.shopping/_m/pnQU6UWa",
+          "_ts": 1792883008.351,
+          "_flash": true,
+          "_product_id": "86931281"
+        },
+        {
+          "name": "제천빨간오뎅 2개, 390g",
+          "price": "9,740원",
+          "discount_rate": 67,
+          "priceAt": "10.25 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/ZjhjMjlj/VTJMamxqZzBuQzFKb0NqK2xVUlhzN3FtVXBlcWwyRlJvRnhBQjRYNWo3OD0.png",
+          "url": "https://toss.shopping/_m/FRbQfjDf",
+          "_ts": 1792883008.350966,
+          "_flash": true,
+          "_product_id": "157410327"
+        },
+        {
+          "name": "더 진한 육수 멸치맛 65정 + 해물맛 65정, 1세트",
+          "price": "15,070원",
+          "discount_rate": 62,
+          "priceAt": "10.25 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-03-18/c4d7a6e9-e93e-4034-98c2-dccc84949db9.jpeg",
+          "url": "https://toss.shopping/_m/ftazLymy",
+          "_ts": 1792883008.350917,
+          "_flash": true,
+          "_product_id": "1178952607"
+        },
         {
           "name": "라이프턴 퍼스트 엑스트라버진 올리브오일 캡슐 100, 30캡슐, 6박스",
           "price": "19,900원",
