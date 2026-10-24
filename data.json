@@ -1168,24 +1168,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3021948253664879-ae5b30bb-59e7-498d-b9e1-6e89b73aca4d.jpg",
           "url": "https://link.coupang.com/a/hXR1GO43BA",
           "_ts": 1792373259.8268118
-        },
-        {
-          "name": "코멕스 네오박스 리빙박스 정리수납함, 반투명, 2개",
-          "price": "6,440원",
-          "discount_rate": 53,
-          "priceAt": "10.19 10:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/35955184094031-fc134272-179b-4d6d-aaae-81d85accadc5.jpg",
-          "url": "https://link.coupang.com/a/hXQtf0M9hQ",
-          "_ts": 1792371953.6483588
-        },
-        {
-          "name": "비비고 한식간장김자반, 50g, 2개",
-          "price": "3,540원",
-          "discount_rate": 30,
-          "priceAt": "10.19 10:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/625611933342085-567252cf-94f9-40c4-bc75-983bd6629013.jpg",
-          "url": "https://link.coupang.com/a/hXP25EzQse",
-          "_ts": 1792371600.661141
         }
       ]
     },
@@ -1194,6 +1176,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "하루견과 The오리지널, 20g, 100봉",
+          "price": "41,920원",
+          "discount_rate": 79,
+          "priceAt": "10.24 10:09",
+          "image": "https://shopping.toss.im/live/temp/2025-06-19/4800bbaf-5c16-46fa-ad7c-dce26078088c.jpeg",
+          "url": "https://toss.shopping/_m/f7n3ESl7",
+          "_ts": 1792804154.376436,
+          "_product_id": "109281497"
+        },
         {
           "name": "검정콩 깨강정, 240g, 2개",
           "price": "8,730원",
