@@ -1168,6 +1168,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "14Brix 초고당도 제주 감귤, 5kg, 1박스",
+          "price": "9,900원",
+          "discount_rate": 73,
+          "priceAt": "10.24 15:15",
+          "image": "https://shopping.toss.im/live/temp/2026-10-12/76afd3e0-ff97-4698-a7b2-8096cd1cc281.png",
+          "url": "https://toss.shopping/_m/l4ngUImC",
+          "_ts": 1792822551.531904,
+          "_product_id": "2678864329"
+        },
+        {
           "name": "아이제나흐 스테넬 양면 도마, 260x365mm, 1개",
           "price": "9,270원",
           "discount_rate": 76,
