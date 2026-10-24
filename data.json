@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 살아있는 실의힘 꼬마나또 김조림 간장소스, 29.9g, 3개입, 1개",
+          "price": "2,120원",
+          "discount_rate": 35,
+          "priceAt": "10.24 10:30",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/99168567286869-b7c708a8-6d38-4740-a177-144fce90573a.jpg",
+          "url": "https://link.coupang.com/a/h6aIYUfQfQ",
+          "_ts": 1792805410.805588
+        },
+        {
           "name": "하림 양푼김치찌개라면 112g, 16개, 16개",
           "price": "11,420원",
           "discount_rate": 26,
@@ -1168,15 +1177,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3824560954429162-d0e8a208-e533-4713-bd86-40a611535885.jpg",
           "url": "https://link.coupang.com/a/hXVMe9N8CW",
           "_ts": 1792376409.794631
-        },
-        {
-          "name": "가농 단백이 치즈맛 10개입, 640g, 1개",
-          "price": "5,170원",
-          "discount_rate": 30,
-          "priceAt": "10.19 10:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3021948253664879-ae5b30bb-59e7-498d-b9e1-6e89b73aca4d.jpg",
-          "url": "https://link.coupang.com/a/hXR1GO43BA",
-          "_ts": 1792373259.8268118
         }
       ]
     },
