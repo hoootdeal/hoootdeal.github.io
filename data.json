@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오리온 예감 볶은양파 12p, 204g, 2개",
+          "price": "5,010원",
+          "discount_rate": 29,
+          "priceAt": "10.26 07:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/88fb7e74-6fd9-4dcd-a035-39c4908443d87962089318686415179.png",
+          "url": "https://link.coupang.com/a/h9h5OQyKt3",
+          "_ts": 1792967765.4168031
+        },
+        {
           "name": "청정원 허브맛솔트 마늘&양파, 52g, 2개",
           "price": "3,300원",
           "discount_rate": 39,
