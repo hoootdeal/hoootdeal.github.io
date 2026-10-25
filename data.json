@@ -1168,6 +1168,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "로메인 청상추, 1kg, 1박스",
+          "price": "6,950원",
+          "discount_rate": 73,
+          "priceAt": "10.25 20:27",
+          "image": "https://shopping.toss.im/live/taca/ai/NWI2ZjM4/QVBRdjFKc21Gb2k1dHBVbytxR3dYU21WbERrbC9nV2NWZzB2S090WVdselM.png",
+          "url": "https://toss.shopping/_m/xvDjHerB",
+          "_ts": 1792927628.831796,
+          "_product_id": "109851891"
+        },
+        {
           "name": "대식가 일키로 부대찌개, 1kg, 3팩",
           "price": "16,020원",
           "discount_rate": 57,
@@ -2293,16 +2303,6 @@
           "url": "https://toss.shopping/_m/x5TQX90r",
           "_ts": 1792497311.2683132,
           "_product_id": "2113876961"
-        },
-        {
-          "name": "외갓집 시골밥상 청국장찌개, 600g, 5개",
-          "price": "20,980원",
-          "discount_rate": 55,
-          "priceAt": "10.20 20:08",
-          "image": "https://shopping.toss.im/live/taca/ai/NjNjZjEw/ZGliU2RveHBMUTJ3bFBIMlMxc2tZOFdFR2h3TmEwVERsajdVL0NoWnEycz0.png",
-          "url": "https://toss.shopping/_m/Rc08kArh",
-          "_ts": 1792494533.390506,
-          "_product_id": "67604467"
         }
       ]
     },
