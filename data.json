@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아삭오이, 5개입, 1개, 5개입 × 1개",
+          "price": "1,990원",
+          "discount_rate": 48,
+          "priceAt": "10.25 21:52",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1175200293095749-20101ce6-6ee1-405d-b490-484a00eec847.jpg",
+          "url": "https://link.coupang.com/a/h8Cqe8YNSm",
+          "_ts": 1792932779.750803
+        },
+        {
           "name": "HanilMedical 초극세사 패딩솜 엠보 탄소전기요 EPH-201S, 화이트, 더블(150 x 200 cm)",
           "price": "29,900원",
           "discount_rate": 35,
@@ -1150,15 +1159,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c733/79c46f3ba982d1abb143bdaecaa24328ca97f1a972bdc1c42dd1b8f243a3.jpg",
           "url": "https://link.coupang.com/a/h0XrusxZ36",
           "_ts": 1792533975.465656
-        },
-        {
-          "name": "아삭오이, 5개입, 1개, 5개입 × 1개",
-          "price": "1,990원",
-          "discount_rate": 52,
-          "priceAt": "10.20 21:19",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1175200293095749-20101ce6-6ee1-405d-b490-484a00eec847.jpg",
-          "url": "https://link.coupang.com/a/h0huMxMbXE",
-          "_ts": 1792498756.8202538
         }
       ]
     },
@@ -2293,16 +2293,6 @@
           "url": "https://toss.shopping/_m/bS5EeS4r",
           "_ts": 1792545233.236178,
           "_product_id": "2640973183"
-        },
-        {
-          "name": "리얼닥터 비피더스 생 유산균, 30캡슐, 3개",
-          "price": "14,560원",
-          "discount_rate": 75,
-          "priceAt": "10.20 21:37",
-          "image": "https://shopping.toss.im/live/taca/ai/NGZlYjUw/Yjluek04YTAzTTZiTm14bTR3dlROb3ptTGNuR3RJZVpHSmtmYzBlUjRFND0.png",
-          "url": "https://toss.shopping/_m/DyX46LUa",
-          "_ts": 1792499865.965908,
-          "_product_id": "1961145549"
         }
       ]
     },
