@@ -1159,15 +1159,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/49b5/c29ee2867fe57eca8b642274470022a4d946e78494cff41827f56d560959.jpg",
           "url": "https://link.coupang.com/a/hZ7qIc5vX2",
           "_ts": 1792490303.991261
-        },
-        {
-          "name": "하이뮨 프로틴 밸런스 L, 608g, 1개",
-          "price": "25,200원",
-          "discount_rate": 27,
-          "priceAt": "10.20 18:47",
-          "image": "https://image14.coupangcdn.com/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
-          "url": "https://link.coupang.com/a/hZ6FwM9tzU",
-          "_ts": 1792489666.713341
         }
       ]
     },
@@ -1176,6 +1167,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "대식가 일키로 부대찌개, 1kg, 3팩",
+          "price": "16,020원",
+          "discount_rate": 57,
+          "priceAt": "10.25 18:57",
+          "image": "https://shopping.toss.im/live/taca/ai/YjgwY2I2/QUxjd3g4WWVXY1k1MG1tSFBOMHRUVDF3QlQ5OXdXYStYeFVNWFB4VUt2bXA.png",
+          "url": "https://toss.shopping/_m/5ITFBNYb",
+          "_ts": 1792922229.1024241,
+          "_product_id": "129892749"
+        },
         {
           "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
           "price": "9,600원",
@@ -2312,18 +2313,6 @@
           "url": "https://toss.shopping/_m/hwZdNZb2",
           "_ts": 1792490731.6309628,
           "_product_id": "142674611"
-        },
-        {
-          "name": "썬키스트 코코피치, 300ml, 20개",
-          "price": "8,980원",
-          "discount_rate": 70,
-          "priceAt": "10.20 18:23",
-          "image": "https://shopping.toss.im/live/temp/2026-04-28/6cadc1c2-55e8-429d-8816-ca5477eccb31.jpeg",
-          "url": "https://toss.shopping/_m/jLXkkhcq",
-          "_ts": 1792488219.009027,
-          "_product_id": "1734968249",
-          "sold_out": true,
-          "_sold_at": 1792919516.0
         }
       ]
     },
