@@ -1159,15 +1159,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/02/15/1/af41f329-3d9b-4ef0-9888-ef7f4460924f.jpg",
           "url": "https://link.coupang.com/a/hZ086GDX3s",
           "_ts": 1792485028.936564
-        },
-        {
-          "name": "크라운 마이쮸 포도, 44g, 25개",
-          "price": "10,000원",
-          "discount_rate": 21,
-          "priceAt": "10.20 16:37",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/34be2350-4fe1-4d7d-a534-5807f55c7541742407759707379756.png",
-          "url": "https://link.coupang.com/a/hZXmLCX0eG",
-          "_ts": 1792481854.781715
         }
       ]
     },
@@ -1176,6 +1167,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "명식품 파래김, 100매, 1개",
+          "price": "9,300원",
+          "discount_rate": 53,
+          "priceAt": "10.25 16:52",
+          "image": "https://shopping.toss.im/live/taca/ai/MGNhNWI4/UEF3T1EzaTB0T3hUc2Yyc3cvUDd1YTViTDdPOFR0WHpNT1JlNXVPRTg5dz0.png",
+          "url": "https://toss.shopping/_m/1Yiynuq9",
+          "_ts": 1792914729.923603,
+          "_product_id": "184149191"
+        },
         {
           "name": "G7 커피 퓨어블랙 라이트, 0.9g, 110개입, 2개",
           "price": "14,310원",
