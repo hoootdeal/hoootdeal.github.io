@@ -1177,6 +1177,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
+          "price": "9,600원",
+          "discount_rate": 65,
+          "priceAt": "10.25 18:12",
+          "image": "https://shopping.toss.im/live/temp/2026-07-03/6b083d0c-c74f-467a-9ec8-a46fe748c635.png",
+          "url": "https://toss.shopping/_m/PMmtWFLt",
+          "_ts": 1792919563.110518,
+          "_product_id": "2401832945"
+        },
+        {
           "name": "라벨영 쇼킹77 솔루션 링클 앰플, 45ml, 2개",
           "price": "10,900원",
           "discount_rate": 87,
