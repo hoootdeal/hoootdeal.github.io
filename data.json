@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하이뮨 프로틴 밸런스 드링크믹스 RTD, 190ml, 24개, 190ml × 24개",
+          "price": "19,700원",
+          "discount_rate": 23,
+          "priceAt": "10.25 16:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/02/07/14/9/8fcf66ab-e68f-498c-9078-a004d3feebaf.jpg",
+          "url": "https://link.coupang.com/a/h8dnkIQikK",
+          "_ts": 1792911750.126074
+        },
+        {
           "name": "쿠쿠 인스퓨어 필터 정수기 X3 CPWP-C3801W 고객직접설치 화이트 3.8L, X3 CPWP-C3801W",
           "price": "15,900원",
           "discount_rate": 43,
@@ -1159,15 +1168,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/296110430917561-19dcfc24-1828-4b01-81aa-045dbd10af18.jpg",
           "url": "https://link.coupang.com/a/hZVm4Ow980",
           "_ts": 1792480181.348479
-        },
-        {
-          "name": "보노하우스 국내 제조 로코스 정리함 수납 바스켓, M(368 × 262 × 160 mm), 아이보리, 4개",
-          "price": "5,800원",
-          "discount_rate": 50,
-          "priceAt": "10.20 15:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/900740630293144-54f714aa-7246-4468-87b1-d632c229f78d.jpg",
-          "url": "https://link.coupang.com/a/hZTSZlgN0S",
-          "_ts": 1792478933.094869
         }
       ]
     },
@@ -2312,16 +2312,6 @@
           "url": "https://toss.shopping/_m/d4b68hnn",
           "_ts": 1792483125.2363179,
           "_product_id": "2652335355"
-        },
-        {
-          "name": "웅진식품 애사비 오리지널, 500ml, 24개",
-          "price": "12,850원",
-          "discount_rate": 55,
-          "priceAt": "10.20 15:49",
-          "image": "https://shopping.toss.im/live/taca/ai/MjJhNmY0/QUpsanJKbTFZMjM3dm9kMmxFSDRtMk9TbkdscmRwUkphMzRVYkp4L0hiYVU.png",
-          "url": "https://toss.shopping/_m/TzaT3K9h",
-          "_ts": 1792478975.961819,
-          "_product_id": "588859595"
         }
       ]
     },
