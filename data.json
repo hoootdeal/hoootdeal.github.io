@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "HanilMedical 초극세사 패딩솜 엠보 탄소전기요 EPH-201S, 화이트, 더블(150 x 200 cm)",
+          "price": "29,900원",
+          "discount_rate": 35,
+          "priceAt": "10.25 20:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/212826641855654-141c6096-8cd2-4750-9ff5-ee8cfd2e1856.jpg",
+          "url": "https://link.coupang.com/a/h8ykkvV7Pp",
+          "_ts": 1792929340.035074
+        },
+        {
           "name": "차오차이 짜장 마파두부 체험팩 5종 세트, 900g, 1세트",
           "price": "7,300원",
           "discount_rate": 28,
@@ -1150,15 +1159,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1175200293095749-20101ce6-6ee1-405d-b490-484a00eec847.jpg",
           "url": "https://link.coupang.com/a/h0huMxMbXE",
           "_ts": 1792498756.8202538
-        },
-        {
-          "name": "티젠 콤부차 청귤라임, 5g, 50개입, 1개",
-          "price": "10,210원",
-          "discount_rate": 24,
-          "priceAt": "10.20 20:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/633888917972541-8da5a47c-ba8b-46ee-b943-048a4ad5a937.jpg",
-          "url": "https://link.coupang.com/a/h0dPmSmH1g",
-          "_ts": 1792495676.944057
         }
       ]
     },
@@ -2293,16 +2293,6 @@
           "url": "https://toss.shopping/_m/DyX46LUa",
           "_ts": 1792499865.965908,
           "_product_id": "1961145549"
-        },
-        {
-          "name": "양계장사람들 난각번호2번 프리미엄 유정란, 특대란, 60구, 1개",
-          "price": "19,900원",
-          "discount_rate": 50,
-          "priceAt": "10.20 20:55",
-          "image": "https://shopping.toss.im/live/temp/2026-05-26/9539c69b-24ae-47c9-b11e-6f9673332717.png",
-          "url": "https://toss.shopping/_m/x5TQX90r",
-          "_ts": 1792497311.2683132,
-          "_product_id": "2113876961"
         }
       ]
     },
