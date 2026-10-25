@@ -1204,6 +1204,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "제주 서귀포 감귤, 특품, 로얄과, 5kg, 1박스",
+          "price": "12,390원",
+          "discount_rate": 78,
+          "priceAt": "10.25 12:30",
+          "image": "https://shopping.toss.im/live/temp/2026-08-31/86a2246c-f034-4d82-b1b7-1fcb60db2dea.png",
+          "url": "https://toss.shopping/_m/h5oF1Qv4",
+          "_ts": 1792899019.048498,
+          "_product_id": "2651298391"
+        },
+        {
           "name": "펩시 클리어 스퀘어 데스크 선풍기 PEP-ZERO33, 블랙, 1개",
           "price": "9,600원",
           "discount_rate": 75,
