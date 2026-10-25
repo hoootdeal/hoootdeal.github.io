@@ -1186,15 +1186,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1186383588833453-f9d46717-7839-4d1e-aa0b-da6bad455ca3.jpg",
           "url": "https://link.coupang.com/a/hZHGnYS08i",
           "_ts": 1792468693.844249
-        },
-        {
-          "name": "오로나민씨 탄산 드링크, 120ml, 50개, 120ml × 50개",
-          "price": "22,530원",
-          "discount_rate": 22,
-          "priceAt": "10.20 12:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/c60a/83c3d1431c226f75d4c2f0167f76b86955f54157dcbbe0dc691b4a8e8218.jpg",
-          "url": "https://link.coupang.com/a/hZGhCgxUwm",
-          "_ts": 1792467512.982378
         }
       ]
     },
@@ -1203,6 +1194,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "겉바속촉 만두소 가득 호떡쌀군만두, 2개, 1kg",
+          "price": "11,040원",
+          "discount_rate": 55,
+          "priceAt": "10.25 12:57",
+          "image": "https://shopping.toss.im/live/temp/2025-04-07/a782cc10-94cf-4bfd-87d1-29f7db2350a7.jpeg",
+          "url": "https://toss.shopping/_m/9tB4yAVl",
+          "_ts": 1792900675.319544,
+          "_product_id": "156872533"
+        },
         {
           "name": "제주 서귀포 감귤, 특품, 로얄과, 5kg, 1박스",
           "price": "12,390원",
@@ -2337,16 +2338,6 @@
           "url": "https://toss.shopping/_m/d1unotW1",
           "_ts": 1792470758.4802098,
           "_product_id": "12731647"
-        },
-        {
-          "name": "프로프룻 샤인머스켓, 특품, 2kg, 1박스",
-          "price": "9,900원",
-          "discount_rate": 85,
-          "priceAt": "10.20 12:38",
-          "image": "https://shopping.toss.im/live/temp/2026-08-05/d1036994-fd95-42f5-82be-741dff71ead8.jpeg",
-          "url": "https://toss.shopping/_m/xhnmVJBp",
-          "_ts": 1792467531.079533,
-          "_product_id": "2578376693"
         }
       ]
     },
