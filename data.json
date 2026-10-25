@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "웅진 애사비 오리지널, 500ml, 24개, 500ml × 24개",
+          "price": "12,880원",
+          "discount_rate": 27,
+          "priceAt": "10.25 13:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/07/11/3/6eef9d7e-f9fc-40ea-883b-60ffd2ececdd.jpg",
+          "url": "https://link.coupang.com/a/h72c0UvB3k",
+          "_ts": 1792902371.941667
+        },
+        {
           "name": "우리차 콘푸레이크 천마차, 18g, 110개입, 1개",
           "price": "11,500원",
           "discount_rate": 25,
@@ -1168,24 +1177,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1066049124660593-168c3d95-e66a-4552-bf87-4382fb8b9340.jpg",
           "url": "https://link.coupang.com/a/hZL8rgrsVE",
           "_ts": 1792472425.7267919
-        },
-        {
-          "name": "디어커스 누볼라 EVA 욕실화, 블랙, 260mm, 2개",
-          "price": "15,150원",
-          "discount_rate": 52,
-          "priceAt": "10.20 13:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/04a6c8a6-c3c9-4c04-835e-53786a44399912882726484108474083.png",
-          "url": "https://link.coupang.com/a/hZI4BpsaC4",
-          "_ts": 1792469855.736296
-        },
-        {
-          "name": "강릉커피 듀얼브루 Low Sugar 라떼, 250ml, 10개",
-          "price": "13,270원",
-          "discount_rate": 29,
-          "priceAt": "10.20 12:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1186383588833453-f9d46717-7839-4d1e-aa0b-da6bad455ca3.jpg",
-          "url": "https://link.coupang.com/a/hZHGnYS08i",
-          "_ts": 1792468693.844249
         }
       ]
     },
