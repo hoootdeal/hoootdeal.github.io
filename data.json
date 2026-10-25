@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 뿌셔뿌셔 불고기맛, 275g, 2개",
+          "price": "3,890원",
+          "discount_rate": 24,
+          "priceAt": "10.26 07:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5385712788807092-fd5ae554-495c-4c7d-aa3a-29a888063d61.jpg",
+          "url": "https://link.coupang.com/a/h9jBiBZwrY",
+          "_ts": 1792969033.515396
+        },
+        {
           "name": "오리온 예감 볶은양파 12p, 204g, 2개",
           "price": "5,010원",
           "discount_rate": 29,
@@ -1204,24 +1213,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1803cddf-a4ac-4da8-be28-cea497660e793278544228469982155.png",
           "url": "https://link.coupang.com/a/h01hRjv1MW",
           "_ts": 1792537203.9763079
-        },
-        {
-          "name": "청정원 쉐프의 치킨스톡, 465g, 1개",
-          "price": "4,930원",
-          "discount_rate": 32,
-          "priceAt": "10.21 07:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/03/17/15/8/4726d722-2f24-4caa-a87f-e628342f4e97.jpg",
-          "url": "https://link.coupang.com/a/h000rX7c1k",
-          "_ts": 1792536969.6083999
-        },
-        {
-          "name": "천하장사 오리지날 소시지, 980g, 1개",
-          "price": "9,000원",
-          "discount_rate": 21,
-          "priceAt": "10.21 07:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6ce4/53fc570ad4367580959288ee08d316d35a53d68e9b5efa335e4187df3e0b.jpg",
-          "url": "https://link.coupang.com/a/h00n7pg4Jg",
-          "_ts": 1792536450.7552269
         }
       ]
     },
