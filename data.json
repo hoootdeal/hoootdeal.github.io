@@ -1177,6 +1177,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "가쯔 실리콘 인덕션 보호 매트, 베이지, 2개",
+          "price": "5,510원",
+          "discount_rate": 77,
+          "priceAt": "10.25 14:30",
+          "image": "https://shopping.toss.im/live/taca/ai/YTdiZGU2/Wm5OeWZyTTBNNDlUQVFSVEluU3lKbk5MU3NmRFM0MTZoaVJ4cFdtVDJaMD0.png",
+          "url": "https://toss.shopping/_m/HvdMaXd6",
+          "_ts": 1792906237.897805,
+          "_product_id": "28807"
+        },
+        {
           "name": "겉바속촉 만두소 가득 호떡쌀군만두, 2개, 1kg",
           "price": "11,040원",
           "discount_rate": 55,
@@ -2298,18 +2308,6 @@
           "url": "https://toss.shopping/_m/TzaT3K9h",
           "_ts": 1792478975.961819,
           "_product_id": "588859595"
-        },
-        {
-          "name": "자이글 블룸 프라이팬, 28cm, 1개",
-          "price": "17,600원",
-          "discount_rate": 64,
-          "priceAt": "10.20 14:22",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MThlMWY3/QUlUbUIrRURtUU9ZQzQ2Y1pyeHJZNUhqb1QvREh1ZVI0K3VGY3puVmVvd2U.png",
-          "url": "https://toss.shopping/_m/BAC0wKdd",
-          "_ts": 1792473761.347873,
-          "_product_id": "140087361",
-          "sold_out": true,
-          "_sold_at": 1792897218.0
         }
       ]
     },
