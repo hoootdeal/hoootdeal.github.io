@@ -1204,15 +1204,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/2493/fc90a751dbc7f3b4c6e7658e321f3d740a840700d66a459ed9780288d41d.jpg",
           "url": "https://link.coupang.com/a/h05g4bVL08",
           "_ts": 1792540551.7237911
-        },
-        {
-          "name": "잇츠베러 크래커 초코시나몬, 45g, 5개",
-          "price": "8,500원",
-          "discount_rate": 25,
-          "priceAt": "10.21 08:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1803cddf-a4ac-4da8-be28-cea497660e793278544228469982155.png",
-          "url": "https://link.coupang.com/a/h01hRjv1MW",
-          "_ts": 1792537203.9763079
         }
       ]
     },
@@ -1221,6 +1212,39 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "블랑드 와이드 규조토 발매트 세트, 대형+소형, 무지개, 1세트",
+          "price": "8,750원",
+          "discount_rate": 59,
+          "priceAt": "10.26 08:02",
+          "image": "https://shopping.toss.im/live/temp/2026-05-20/da67b7c6-663b-412c-b53b-7264fd61f91d.jpeg",
+          "url": "https://toss.shopping/_m/d7SUCwjc",
+          "_ts": 1792969377.868145,
+          "_flash": true,
+          "_product_id": "142206325"
+        },
+        {
+          "name": "동아 얼박사 제로슈거, 355ml, 24개",
+          "price": "21,580원",
+          "discount_rate": 60,
+          "priceAt": "10.26 08:02",
+          "image": "https://shopping.toss.im/live/taca/ai/OGE1NmI2/UHZRc0FmTURSc09Idk9lMGF0YVp0OW5Ca3MvZmxYZVlNSDY2MTkyQWRhQT0.png",
+          "url": "https://toss.shopping/_m/bvDXy7Rt",
+          "_ts": 1792969377.868109,
+          "_flash": true,
+          "_product_id": "1257701509"
+        },
+        {
+          "name": "샤오커오라 비타민C 종합사탕, 100g, 5개",
+          "price": "12,060원",
+          "discount_rate": 41,
+          "priceAt": "10.26 08:02",
+          "image": "https://shopping.toss.im/live/taca/ai/NTFiZmE3/RUtRMm5EQ29rY3F6QXhUOEQzQjIrcWJUYUVDV1NZMkVQeVRCL0pHSEpqWT0.png",
+          "url": "https://toss.shopping/_m/reqbePMz",
+          "_ts": 1792969377.868063,
+          "_flash": true,
+          "_product_id": "1964260313"
+        },
         {
           "name": "비욘드오리진 효소N 곡물발효효소, 3g, 100포, 1박스",
           "price": "14,500원",
