@@ -1177,6 +1177,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "G7 커피 퓨어블랙 라이트, 0.9g, 110개입, 2개",
+          "price": "14,310원",
+          "discount_rate": 71,
+          "priceAt": "10.25 15:32",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MTU1NzAz/U1U1bEppY21rTnZjMnlNa2dTVGt5VXRrQ1pZY2xpSmJ0bHZkQjdKYkFMdz0.png",
+          "url": "https://toss.shopping/_m/RPrQcqBC",
+          "_ts": 1792909943.086549,
+          "_product_id": "2317495193"
+        },
+        {
           "name": "가쯔 실리콘 인덕션 보호 매트, 베이지, 2개",
           "price": "5,510원",
           "discount_rate": 77,
