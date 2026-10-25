@@ -1186,15 +1186,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/05/27/15/6/0c75be0c-0341-4922-a9a1-7d31cf9370cc.jpg",
           "url": "https://link.coupang.com/a/hZCki5umZg",
           "_ts": 1792464190.143191
-        },
-        {
-          "name": "풀무원 올바른 핫도그 개별 (냉동), 75g, 7개입, 1개",
-          "price": "5,660원",
-          "discount_rate": 38,
-          "priceAt": "10.20 10:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/585207057145919-58eb3b89-b8d2-4f4e-b073-a4f9f6afa3ab.jpg",
-          "url": "https://link.coupang.com/a/hZy0PxeBbM",
-          "_ts": 1792461408.6624231
         }
       ]
     },
@@ -1203,6 +1194,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "펩시 클리어 스퀘어 데스크 선풍기 PEP-ZERO33, 블랙, 1개",
+          "price": "9,600원",
+          "discount_rate": 75,
+          "priceAt": "10.25 11:16",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/ZWU0OWQ3/RDVrVlNpeVp0am5TWitobFRTdExoaVdXdnJsc050SllvdGJLbEgxQUpTcz0.png",
+          "url": "https://toss.shopping/_m/HPEB1H6q",
+          "_ts": 1792894619.964708,
+          "_product_id": "1471480165"
+        },
         {
           "name": "면의 정석 얼큰 우동 10인분 세트, 우동면 230g 10봉 + 우동소스 30g 10봉, 1세트",
           "price": "8,900원",
@@ -2327,16 +2328,6 @@
           "url": "https://toss.shopping/_m/xhnmVJBp",
           "_ts": 1792467531.079533,
           "_product_id": "2578376693"
-        },
-        {
-          "name": "스페시핏 뿌리는 곰팡이 제거제, 500ml, 2개",
-          "price": "6,500원",
-          "discount_rate": 80,
-          "priceAt": "10.20 11:10",
-          "image": "https://shopping.toss.im/live/temp/2025-12-06/bc7b10ed-6617-4bbb-aa8e-c8f4b9bd9bd9.jpeg",
-          "url": "https://toss.shopping/_m/zG8no6F9",
-          "_ts": 1792462245.440929,
-          "_product_id": "2660590911"
         }
       ]
     },
