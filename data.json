@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "카레여왕 치즈 앤 코코넛, 108g, 2개",
+          "price": "4,790원",
+          "discount_rate": 49,
+          "priceAt": "10.26 08:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/242162162510934-381dbd27-402e-4615-804b-b22467ca5e17.jpg",
+          "url": "https://link.coupang.com/a/h9nTRHfAAe",
+          "_ts": 1792972642.176706
+        },
+        {
           "name": "담터 자판기 우유맛 한잔, 22g, 10개입, 1개",
           "price": "2,690원",
           "discount_rate": 41,
@@ -1231,24 +1240,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/586440422434227-74e1a960-ea23-40c1-9dcb-d458003465c9.jpg",
           "url": "https://link.coupang.com/a/h09ymIESrc",
           "_ts": 1792544145.2582579
-        },
-        {
-          "name": "삼양 짜르르 140g, 4개",
-          "price": "3,550원",
-          "discount_rate": 29,
-          "priceAt": "10.21 08:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/223264871090510-86a8255a-fe06-40fa-8abe-13ce21aefce3.png",
-          "url": "https://link.coupang.com/a/h05lSI8i1k",
-          "_ts": 1792540618.470528
-        },
-        {
-          "name": "샘표 국산콩 백일된장, 900g, 1개, 900g × 1개",
-          "price": "10,490원",
-          "discount_rate": 31,
-          "priceAt": "10.21 08:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/2493/fc90a751dbc7f3b4c6e7658e321f3d740a840700d66a459ed9780288d41d.jpg",
-          "url": "https://link.coupang.com/a/h05g4bVL08",
-          "_ts": 1792540551.7237911
         }
       ]
     },
