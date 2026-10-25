@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아임리얼 100 사과 주스, 140ml, 24개",
+          "price": "11,830원",
+          "discount_rate": 20,
+          "priceAt": "10.25 16:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/201475627837864-8f13885a-409c-4fec-816b-7faba794750a.jpg",
+          "url": "https://link.coupang.com/a/h8eiwUGGQ0",
+          "_ts": 1792912523.33989
+        },
+        {
           "name": "하이뮨 프로틴 밸런스 드링크믹스 RTD, 190ml, 24개, 190ml × 24개",
           "price": "19,700원",
           "discount_rate": 23,
@@ -1159,15 +1168,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/34be2350-4fe1-4d7d-a534-5807f55c7541742407759707379756.png",
           "url": "https://link.coupang.com/a/hZXmLCX0eG",
           "_ts": 1792481854.781715
-        },
-        {
-          "name": "브랜든 2세대 여행용 부피순삭 압축 파우치 세트, 소프트카키, S+S+M+M+L",
-          "price": "48,190원",
-          "discount_rate": 36,
-          "priceAt": "10.20 16:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/296110430917561-19dcfc24-1828-4b01-81aa-045dbd10af18.jpg",
-          "url": "https://link.coupang.com/a/hZVm4Ow980",
-          "_ts": 1792480181.348479
         }
       ]
     },
