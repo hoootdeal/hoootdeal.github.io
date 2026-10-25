@@ -1168,6 +1168,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "비욘드오리진 효소N 곡물발효효소, 3g, 100포, 1박스",
+          "price": "14,500원",
+          "discount_rate": 75,
+          "priceAt": "10.26 00:02",
+          "image": "https://shopping.toss.im/live/product/582461/c01d7147-460b-4f6f-b31f-b2959e9d6309.jpg",
+          "url": "https://toss.shopping/_m/tghTajxs",
+          "_ts": 1792940529.28318,
+          "_flash": true,
+          "_product_id": "11878905"
+        },
+        {
+          "name": "유한메디카 징코 플러스 엔 탑 혈행 기억력 케어, 60정, 1개",
+          "price": "9,731원",
+          "discount_rate": 78,
+          "priceAt": "10.26 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/MzEzOTVj/QUtkd0twWnhXRG5KakpUVkxjeHJ0V05UTDk4ZUdQSU0wdUhZZzVhaDFIaHA.png",
+          "url": "https://toss.shopping/_m/vMnqrACn",
+          "_ts": 1792940529.283127,
+          "_flash": true,
+          "_product_id": "37386349"
+        },
+        {
+          "name": "신흥클라스 스테인리스 쌀 세척볼, 26.8x24x13.5cm, 1개",
+          "price": "9,800원",
+          "discount_rate": 75,
+          "priceAt": "10.26 00:02",
+          "image": "https://shopping.toss.im/live/temp/2025-07-17/1bfd87d4-2642-4858-b9d0-902ecdb29b92.jpeg",
+          "url": "https://toss.shopping/_m/d3LSm0Po",
+          "_ts": 1792940529.283079,
+          "_flash": true,
+          "_product_id": "143267291"
+        },
+        {
           "name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
           "price": "5,450원",
           "discount_rate": 63,
