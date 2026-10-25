@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "담터 자판기 우유맛 한잔, 22g, 10개입, 1개",
+          "price": "2,690원",
+          "discount_rate": 41,
+          "priceAt": "10.26 08:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/dd24/045b1012f1260ea8a2620102f03fbafa1486b17f385091a49b1529834e3c.jpg",
+          "url": "https://link.coupang.com/a/h9m4YaADBs",
+          "_ts": 1792971954.144914
+        },
+        {
           "name": "고메 씨제이 시나몬맛 츄러스 (냉동), 262.5g, 1개",
           "price": "2,990원",
           "discount_rate": 39,
