@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "차오차이 짜장 마파두부 체험팩 5종 세트, 900g, 1세트",
+          "price": "7,300원",
+          "discount_rate": 28,
+          "priceAt": "10.25 19:49",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/622492261387003-48f0a6ca-20cf-4e28-ab54-e7eefead19b9.jpg",
+          "url": "https://link.coupang.com/a/h8tCxE7waa",
+          "_ts": 1792925389.8628411
+        },
+        {
           "name": "미미네 오리지널 국물떡볶이 (밀떡) (냉동), 570g, 4개, 570g × 4개",
           "price": "11,610원",
           "discount_rate": 25,
@@ -1150,15 +1159,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/633888917972541-8da5a47c-ba8b-46ee-b943-048a4ad5a937.jpg",
           "url": "https://link.coupang.com/a/h0dPmSmH1g",
           "_ts": 1792495676.944057
-        },
-        {
-          "name": "삼성전자 사운드바 고객직접설치, HW-S61D/KR, 단일색상",
-          "price": "299,000원",
-          "discount_rate": 35,
-          "priceAt": "10.20 19:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/185818497921235-716bca44-a37d-47a8-8e7b-4e8675090fa1.jpg",
-          "url": "https://link.coupang.com/a/hZ9VuRRnlk",
-          "_ts": 1792492402.531698
         }
       ]
     },
@@ -2303,16 +2303,6 @@
           "url": "https://toss.shopping/_m/Rc08kArh",
           "_ts": 1792494533.390506,
           "_product_id": "67604467"
-        },
-        {
-          "name": "한둘 국산콩 연두부, 125g, 18팩",
-          "price": "14,330원",
-          "discount_rate": 60,
-          "priceAt": "10.20 19:05",
-          "image": "https://shopping.toss.im/live/taca/ai/YjY0OTli/QU13NzVJWVpNemJSS1c3eTBLTXNra3dYTEhwaHRMU0RUMXFUS1U3bzgwd3Q.png",
-          "url": "https://toss.shopping/_m/hwZdNZb2",
-          "_ts": 1792490731.6309628,
-          "_product_id": "142674611"
         }
       ]
     },
