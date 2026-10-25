@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데웰푸드 칸쵸 초코, 54g, 4개, 54g × 4개",
+          "price": "2,570원",
+          "discount_rate": 40,
+          "priceAt": "10.26 07:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/66883706241987-ecae22d1-7628-4b27-92d0-17129ac41519.png",
+          "url": "https://link.coupang.com/a/h9f2tf1qAS",
+          "_ts": 1792966041.0365171
+        },
+        {
           "name": "창억떡 부드럽고 쫄깃한 호박인절미 (냉동), 500g, 1개입, 1개",
           "price": "7,130원",
           "discount_rate": 33,
