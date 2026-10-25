@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "미미네 오리지널 국물떡볶이 (밀떡) (냉동), 570g, 4개, 570g × 4개",
+          "price": "11,610원",
+          "discount_rate": 25,
+          "priceAt": "10.25 19:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/269348096652168-f6b945c2-708e-4b5f-b0e9-799e10b5ffc5.jpg",
+          "url": "https://link.coupang.com/a/h8p9HYdjDU",
+          "_ts": 1792922478.755424
+        },
+        {
           "name": "국내산 깐쪽파, 200g, 1개, 200g × 1개",
           "price": "2,380원",
           "discount_rate": 46,
@@ -1150,15 +1159,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/185818497921235-716bca44-a37d-47a8-8e7b-4e8675090fa1.jpg",
           "url": "https://link.coupang.com/a/hZ9VuRRnlk",
           "_ts": 1792492402.531698
-        },
-        {
-          "name": "스니커즈 미니스 초코바, 1.098kg, 1개",
-          "price": "13,460원",
-          "discount_rate": 32,
-          "priceAt": "10.20 18:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/49b5/c29ee2867fe57eca8b642274470022a4d946e78494cff41827f56d560959.jpg",
-          "url": "https://link.coupang.com/a/hZ7qIc5vX2",
-          "_ts": 1792490303.991261
         }
       ]
     },
