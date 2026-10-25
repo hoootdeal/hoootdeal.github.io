@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "리세스 피넛 버터 컵 밀크 초콜릿, 297g, 1개",
+          "price": "10,840원",
+          "discount_rate": 29,
+          "priceAt": "10.25 10:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/d069/31d9c9a53dc7e5ed832be1f7582ef68ff1e957b1b212f1555fddd8374bfd.jpg",
+          "url": "https://link.coupang.com/a/h7Of5XiCgS",
+          "_ts": 1792890657.705513
+        },
+        {
           "name": "오색바람 감귤 랜덤과, 3kg, 1박스, 3kg × 1박스",
           "price": "6,990원",
           "discount_rate": 30,
@@ -1177,15 +1186,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/585207057145919-58eb3b89-b8d2-4f4e-b073-a4f9f6afa3ab.jpg",
           "url": "https://link.coupang.com/a/hZy0PxeBbM",
           "_ts": 1792461408.6624231
-        },
-        {
-          "name": "풀무원다논 그릭 설탕무첨가 플레인, 90g, 8개입, 1개",
-          "price": "4,680원",
-          "discount_rate": 33,
-          "priceAt": "10.20 09:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/327166191294734-cb2b8fa6-c47e-4de2-837a-55281f8bc602.jpg",
-          "url": "https://link.coupang.com/a/hZuSYZUJCS",
-          "_ts": 1792457951.326277
         }
       ]
     },
@@ -2318,16 +2318,6 @@
           "url": "https://toss.shopping/_m/zG8no6F9",
           "_ts": 1792462245.440929,
           "_product_id": "2660590911"
-        },
-        {
-          "name": "맛장군 열무김치, 2kg, 1팩",
-          "price": "7,850원",
-          "discount_rate": 78,
-          "priceAt": "10.20 09:58",
-          "image": "https://shopping.toss.im/live/temp/2026-04-21/af86d4da-e1ab-4491-b61f-c32e0c5c1f69.jpeg",
-          "url": "https://toss.shopping/_m/fhRWN0i3",
-          "_ts": 1792457932.589859,
-          "_product_id": "92679849"
         }
       ]
     },
