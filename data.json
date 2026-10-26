@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오리온초코파이 정, 468g, 1개",
+          "price": "2,520원",
+          "discount_rate": 37,
+          "priceAt": "10.26 10:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2496170397976-7eadff6e-0f55-4120-a67b-09d9f7756b31.jpg",
+          "url": "https://link.coupang.com/a/h9wvr0G2Gi",
+          "_ts": 1792979866.7577431
+        },
+        {
           "name": "해태에이스 바스크치즈케이크맛, 364g, 2개",
           "price": "5,550원",
           "discount_rate": 20,
