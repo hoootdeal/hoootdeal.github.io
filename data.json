@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "햇반 솥반 소고기우엉 영양밥, 2개, 200g",
+          "price": "3,670원",
+          "discount_rate": 39,
+          "priceAt": "10.26 22:40",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1190894799527442-28ede387-05d8-4dbb-a638-3b83984e96ac.jpg",
+          "url": "https://link.coupang.com/a/iakIOQEGv7",
+          "_ts": 1793022028.83039
+        },
+        {
           "name": "샹달프 블루베리잼, 284g, 1개",
           "price": "4,360원",
           "discount_rate": 40,
