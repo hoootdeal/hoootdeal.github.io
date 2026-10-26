@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "더미식 장인라면 맵싸한 맛 135g, 8개",
+          "price": "10,470원",
+          "discount_rate": 24,
+          "priceAt": "10.26 13:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/544144022151414-ed82106e-2e47-4d74-a069-b76f33476d53.jpg",
+          "url": "https://link.coupang.com/a/h9JdAb5ggS",
+          "_ts": 1792990540.29494
+        },
+        {
           "name": "다담 된장찌개양념, 840g, 1개",
           "price": "4,610원",
           "discount_rate": 45,
