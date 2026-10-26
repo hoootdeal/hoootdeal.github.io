@@ -1555,6 +1555,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "김설희 고기손만두, 420g, 2봉 + 김치손만두, 420g, 2봉",
+          "price": "13,900원",
+          "discount_rate": 46,
+          "priceAt": "10.27 00:01",
+          "image": "https://shopping.toss.im/live/temp/2025-02-18/632cecbf-58fa-4fe3-aeef-3a9dadea44ec.jpeg",
+          "url": "https://toss.shopping/_m/PRXt0FCd",
+          "_ts": 1793026919.764748,
+          "_flash": true,
+          "_product_id": "2373707067"
+        },
+        {
+          "name": "유러피안 프리미엄 샐러드 쌈채소, 3-5종 랜덤 혼합, 1kg, 1박스",
+          "price": "8,900원",
+          "discount_rate": 65,
+          "priceAt": "10.27 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/Njc5NzQ2/SW4yQSt5WDFZNlp2d1h6QmJHRWhOeGZEZjFuTmdxd0ZtVU0wQjFZSzJ2Zz0.png",
+          "url": "https://toss.shopping/_m/f2y7hmFi",
+          "_ts": 1793026919.764714,
+          "_flash": true,
+          "_product_id": "451668303"
+        },
+        {
+          "name": "코렐 트리버드 타원접시, 특대, 2개, 1세트",
+          "price": "18,900원",
+          "discount_rate": 73,
+          "priceAt": "10.27 00:01",
+          "image": "https://shopping.toss.im/31eeb6a8-eebe-4700-a910-1fce6d06c5fe.jpeg",
+          "url": "https://toss.shopping/_m/JLhSGbH",
+          "_ts": 1793026919.764671,
+          "_flash": true,
+          "_product_id": "70947"
+        },
+        {
           "name": "쥬르본 종합 모나카, 550g, 1박스",
           "price": "7,440원",
           "discount_rate": 58,
