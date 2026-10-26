@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "네이쳐스웨이 삼부커스 구미, 60정, 3개",
+          "price": "43,900원",
+          "discount_rate": 30,
+          "priceAt": "10.27 07:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e852/4abbac30474bae6ad0b09417691e2d40f3d70e1477cb897e9586296762ba.png",
+          "url": "https://link.coupang.com/a/iaYmjyq1Aa",
+          "_ts": 1793055310.146179
+        },
+        {
           "name": "바닐라코 에센스 스킨 듀 쿠션 파운데이션 11.5g, 21뉴트럴아이보리, 1개",
           "price": "8,770원",
           "discount_rate": 53,
@@ -1537,15 +1546,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/800681b8-7754-4ee0-b808-61f82fb480918411642037414247490.png",
           "url": "https://link.coupang.com/a/h2HbApea8O",
           "_ts": 1792624439.013244
-        },
-        {
-          "name": "페브리즈 에어 실내 탈취제 화이트 페어 앤 베르가못 본품, 165g, 4개, 165g × 4개",
-          "price": "9,900원",
-          "discount_rate": 37,
-          "priceAt": "10.22 07:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/409667076185439-c1ac865b-7e98-42e1-8124-3119a1568217.png",
-          "url": "https://link.coupang.com/a/h2D4zBv7N6",
-          "_ts": 1792621826.38158
         }
       ]
     },
