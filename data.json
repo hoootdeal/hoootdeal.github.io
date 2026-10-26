@@ -1465,6 +1465,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "프로프룻 샤인머스켓, 특품, 2kg, 1박스",
+          "price": "9,690원",
+          "discount_rate": 86,
+          "priceAt": "10.26 16:57",
+          "image": "https://shopping.toss.im/live/temp/2026-08-05/d1036994-fd95-42f5-82be-741dff71ead8.jpeg",
+          "url": "https://toss.shopping/_m/xhnmVJBp",
+          "_ts": 1793001422.235592,
+          "_product_id": "2578376693"
+        },
+        {
           "name": "후디스 소화 편한 우유 오리지널, 190ml, 24개",
           "price": "11,900원",
           "discount_rate": 64,
