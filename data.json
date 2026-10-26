@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "삼양 짜르르 140g, 4개",
+          "price": "3,210원",
+          "discount_rate": 35,
+          "priceAt": "10.26 10:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/223264871090510-86a8255a-fe06-40fa-8abe-13ce21aefce3.png",
+          "url": "https://link.coupang.com/a/h9sq4TTH2a",
+          "_ts": 1792976450.514036
+        },
+        {
           "name": "서울우유 커피, 200ml, 4개",
           "price": "2,700원",
           "discount_rate": 35,
