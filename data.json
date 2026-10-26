@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "헤드앤숄더 두피 토탈 솔루션 샴푸 쿨 멘솔, 1.2L, 1개",
+          "price": "9,090원",
+          "discount_rate": 30,
+          "priceAt": "10.26 15:05",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/583602593894802-45254724-874e-4d28-ba8c-255c7d3ac7f1.jpg",
+          "url": "https://link.coupang.com/a/h9OeHeZI5I",
+          "_ts": 1792994752.512504
+        },
+        {
           "name": "행복한콩 국산콩 100% 부침찌개 겸용 두부, 300g, 2개",
           "price": "2,770원",
           "discount_rate": 36,
@@ -2666,16 +2675,6 @@
           "url": "https://toss.shopping/_m/1Igcs6al",
           "_ts": 1792564784.708137,
           "_product_id": "63317"
-        },
-        {
-          "name": "마농 EMS 발마사지 패드 FOOT-26, 블랙, 1개",
-          "price": "14,133원",
-          "discount_rate": 57,
-          "priceAt": "10.21 15:00",
-          "image": "https://shopping.toss.im/live/taca/ai/MDhiY2Ew/ZEhuendVRDUxM2JBOGQzZWplV2J4QXZFOXI0L2xPOWYvVVp2K1AwUTFhRT0.png",
-          "url": "https://toss.shopping/_m/3GPAcaqD",
-          "_ts": 1792562427.94912,
-          "_product_id": "2185475727"
         }
       ]
     },
