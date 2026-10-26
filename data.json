@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "한촌 설렁탕집 설렁탕, 500g, 3개",
+          "price": "9,990원",
+          "discount_rate": 20,
+          "priceAt": "10.26 15:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/292864805702596-097c94d1-94b2-4144-a50a-3d290f1e4011.jpg",
+          "url": "https://link.coupang.com/a/h9RIJrjYpU",
+          "_ts": 1792997679.557336
+        },
+        {
           "name": "룰루맘 리얼이구마, 20g, 10개",
           "price": "10,640원",
           "discount_rate": 34,
@@ -2674,16 +2683,6 @@
           "url": "https://toss.shopping/_m/VGjB26xx",
           "_ts": 1792571166.823248,
           "_product_id": "2661643751"
-        },
-        {
-          "name": "유한메디카 고함량 마그네슘 엔 탑 400 맥스, 90정, 1개",
-          "price": "7,080원",
-          "discount_rate": 85,
-          "priceAt": "10.21 15:39",
-          "image": "https://shopping.toss.im/live/taca/ai/M2NkZDI1/UEZHZkNlTXo0NXlRNlJ0ang0K3crS0Y0VHFNL2h2ck0rUEJ2RDN5VWtQZz0.png",
-          "url": "https://toss.shopping/_m/1Igcs6al",
-          "_ts": 1792564784.708137,
-          "_product_id": "63317"
         }
       ]
     },
