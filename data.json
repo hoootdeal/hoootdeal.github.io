@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데웰푸드 크런키볼, 76g, 2개",
+          "price": "3,300원",
+          "discount_rate": 38,
+          "priceAt": "10.27 08:34",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/332905734726133-73af6fb7-258e-4524-bd2f-aa7bb1b27696.jpg",
+          "url": "https://link.coupang.com/a/ia087p5MNU",
+          "_ts": 1793057648.420825
+        },
+        {
           "name": "바겐슈타이거 킬른 통3중 스텐 미니화로 + 연로 세트, 170mm, 1세트",
           "price": "20,900원",
           "discount_rate": 33,
@@ -1546,15 +1555,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f1f3/5757af0bce45bd2bf6f0f1919e53f3bed78665e4b72b73238cc66ac15f49.jpg",
           "url": "https://link.coupang.com/a/h2JDiQIFQi",
           "_ts": 1792626494.062896
-        },
-        {
-          "name": "스카트 하루한장 THE 버블 수세미, 그레이, 100개입, 4개",
-          "price": "9,640원",
-          "discount_rate": 41,
-          "priceAt": "10.22 08:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/800681b8-7754-4ee0-b808-61f82fb480918411642037414247490.png",
-          "url": "https://link.coupang.com/a/h2HbApea8O",
-          "_ts": 1792624439.013244
         }
       ]
     },
@@ -2746,39 +2746,6 @@
           "url": "https://toss.shopping/_m/tamkbnX6",
           "_ts": 1792633016.520842,
           "_product_id": "864787777"
-        },
-        {
-          "name": "동원 보성녹차, 350ml, 24개",
-          "price": "11,300원",
-          "discount_rate": 56,
-          "priceAt": "10.22 08:04",
-          "image": "https://shopping.toss.im/live/temp/2025-08-10/a2f8f364-9a30-4a23-86f2-02ddf05779b4.jpeg",
-          "url": "https://toss.shopping/_m/76lnf3Xa",
-          "_ts": 1792623850.618903,
-          "_flash": true,
-          "_product_id": "2652730739"
-        },
-        {
-          "name": "통영 횟감 활새우, 1kg, 1팩",
-          "price": "18,900원",
-          "discount_rate": 62,
-          "priceAt": "10.22 08:04",
-          "image": "https://shopping.toss.im/live/temp/2025-08-18/e01d2940-83b9-4f21-83a8-54aeedca0d40.jpeg",
-          "url": "https://toss.shopping/_m/17cyEu93",
-          "_ts": 1792623850.618869,
-          "_flash": true,
-          "_product_id": "128445015"
-        },
-        {
-          "name": "하마다 USB C타입 메탈 충전 케이블, 5개입, 1.5m, 혼합, 1세트",
-          "price": "5,880원",
-          "discount_rate": 60,
-          "priceAt": "10.22 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-08-19/a0e3560b-b750-497b-9de7-9e67771981fa.jpeg",
-          "url": "https://toss.shopping/_m/nfaO9i8n",
-          "_ts": 1792623850.61883,
-          "_flash": true,
-          "_product_id": "2622883189"
         }
       ]
     },
