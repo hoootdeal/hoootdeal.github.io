@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "테일러 푸룬건자두, 250g, 3개",
+          "price": "11,130원",
+          "discount_rate": 31,
+          "priceAt": "10.26 13:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4745688368474-f42880db-d2d8-4134-9119-554c444dd912.png",
+          "url": "https://link.coupang.com/a/h9FkVXssLI",
+          "_ts": 1792987282.272473
+        },
+        {
           "name": "다르다팝콘 씨네마 카라멜맛 팝콘, 280g, 1개, 280g × 1개",
           "price": "2,700원",
           "discount_rate": 46,
@@ -2612,16 +2621,6 @@
           "url": "https://toss.shopping/_m/9m9AaTh2",
           "_ts": 1792555996.412796,
           "_product_id": "2684020579"
-        },
-        {
-          "name": "스파클 생수, 무라벨, 2L, 30개",
-          "price": "11,810원",
-          "discount_rate": 52,
-          "priceAt": "10.21 12:36",
-          "image": "https://shopping.toss.im/live/temp/2026-03-18/268e4c6a-1595-43e9-9c1b-f101e5774429.jpeg",
-          "url": "https://toss.shopping/_m/DrDWWfG9",
-          "_ts": 1792553760.267067,
-          "_product_id": "43252057"
         }
       ]
     },
