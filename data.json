@@ -1510,6 +1510,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "파이토메이드 칼슘&비타민D 두유, 플레인, 190ml, 24개",
+          "price": "7,620원",
+          "discount_rate": 51,
+          "priceAt": "10.26 20:31",
+          "image": "https://shopping.toss.im/live/temp/2025-07-31/579e12f5-553a-40a1-af86-6814f86e8a1b.jpeg",
+          "url": "https://toss.shopping/_m/13jHAbAD",
+          "_ts": 1793014278.517754,
+          "_product_id": "151478773"
+        },
+        {
           "name": "양반 백합미역국, 460g, 5개",
           "price": "10,660원",
           "discount_rate": 53,
