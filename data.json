@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청우식품 참깨스틱 진, 85g, 4개",
+          "price": "3,660원",
+          "discount_rate": 24,
+          "priceAt": "10.26 21:34",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/164623046895816-e1d01c14-e4ec-4fec-ac03-519b639829fd.jpg",
+          "url": "https://link.coupang.com/a/iaf1sIUk8G",
+          "_ts": 1793018082.4847438
+        },
+        {
           "name": "가루비 감자칩 오리지널, 96g, 6개",
           "price": "10,330원",
           "discount_rate": 26,
