@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "서울우유 커피, 200ml, 4개",
+          "price": "2,700원",
+          "discount_rate": 35,
+          "priceAt": "10.26 09:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/703045130757300-a04f77b6-1f9c-4aa4-9180-4fccabb40e38.jpg",
+          "url": "https://link.coupang.com/a/h9sf9fqEiO",
+          "_ts": 1792976303.888938
+        },
+        {
           "name": "종근당건강 프로메가 오메가3 트리플, 60정, 1개",
           "price": "8,600원",
           "discount_rate": 24,
@@ -1276,15 +1285,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/08/05/14/0/4fbf08a9-649c-4700-af11-1a81cf1be935.png",
           "url": "https://link.coupang.com/a/h1abfN0gAS",
           "_ts": 1792544672.41302
-        },
-        {
-          "name": "켈로그 첵스초코 딸기 크런치, 350g, 1개, 350g × 1개",
-          "price": "3,740원",
-          "discount_rate": 25,
-          "priceAt": "10.21 09:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/586440422434227-74e1a960-ea23-40c1-9dcb-d458003465c9.jpg",
-          "url": "https://link.coupang.com/a/h09ymIESrc",
-          "_ts": 1792544145.2582579
         }
       ]
     },
