@@ -1339,33 +1339,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1117660430868537-6461205c-1a3d-4e15-acad-6bed6f91af9b.jpg",
           "url": "https://link.coupang.com/a/h1jOdNSFMG",
           "_ts": 1792552757.3693042
-        },
-        {
-          "name": "[놓치지 않는] 루멜 초정밀 프리미엄 미세모 족집게 속눈썹 트위저, 1개, 실버",
-          "price": "4,900원",
-          "discount_rate": 37,
-          "priceAt": "10.21 11:52",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bd79/9a509412d4512bc8129de4a99fd102923e0cbd2b2366ae263b1987758251.jpg",
-          "url": "https://link.coupang.com/a/h1hSAnuKXI",
-          "_ts": 1792551137.822217
-        },
-        {
-          "name": "포유스킨 실리콘 반영구 샤워장갑 TPU 샤워글러브, 1개, 1개입, 핑크",
-          "price": "9,800원",
-          "discount_rate": 38,
-          "priceAt": "10.21 11:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cc33/6b7f6478713f41f5d0d63d03687ec632b3c1d71e7c7ebf4bb8c44635ad41.png",
-          "url": "https://link.coupang.com/a/h1hw0i0twa",
-          "_ts": 1792550843.2448692
-        },
-        {
-          "name": "Apple 정품 아이폰 카메라 컨트롤 지원 맥세이프형 Beats Rugged 케이스, 아이폰 17 Pro Max, 알파인 그레이",
-          "price": "19,120원",
-          "discount_rate": 77,
-          "priceAt": "10.21 11:40",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/09/10/6/5/1ced89b6-79ee-4f6a-93d7-d04ab90a1389.jpg",
-          "url": "https://link.coupang.com/a/h1g28CuSrs",
-          "_ts": 1792550440.628441
         }
       ]
     },
@@ -1374,6 +1347,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "지그비 컴팩트 초미세모 칫솔, 22개입, 1세트",
+          "price": "10,210원",
+          "discount_rate": 67,
+          "priceAt": "10.26 11:58",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/ZmE4NmM3/QVBJWlRiSldaSE9aeldZd25ZNWxTVEkyWE1yM2VZcG05Wm1zckYvSFVaT28.png",
+          "url": "https://toss.shopping/_m/fOEc53ox",
+          "_ts": 1792983520.1999779,
+          "_product_id": "174867349"
+        },
         {
           "name": "신대장 국물 떡볶이, 230g, 4팩",
           "price": "7,200원",
