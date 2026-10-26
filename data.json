@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "버터와플 이즈니, 316g, 1개",
+          "price": "4,450원",
+          "discount_rate": 36,
+          "priceAt": "10.26 15:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/06/17/0/c5209f2d-f322-44ad-a604-82a51c3ebcdf.jpg",
+          "url": "https://link.coupang.com/a/h9OsZCfQo8",
+          "_ts": 1792994946.445622
+        },
+        {
           "name": "헤드앤숄더 두피 토탈 솔루션 샴푸 쿨 멘솔, 1.2L, 1개",
           "price": "9,090원",
           "discount_rate": 30,
@@ -1429,15 +1438,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4e4c1496-c182-438f-b94f-0337de3206b52116155464954163746.png",
           "url": "https://link.coupang.com/a/h1zBHjH2No",
           "_ts": 1792566020.805723
-        },
-        {
-          "name": "꼬꼬면 115g, 5개, 5개",
-          "price": "4,220원",
-          "discount_rate": 20,
-          "priceAt": "10.21 15:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a457/9dbddd1193eb66d38db47af68ade8d821d808bf13525b0d92054af70ef97.jpg",
-          "url": "https://link.coupang.com/a/h1vNc7VZ1M",
-          "_ts": 1792562817.933492
         }
       ]
     },
