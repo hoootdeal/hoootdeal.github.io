@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "초코송이, 648g, 1개",
+          "price": "6,520원",
+          "discount_rate": 34,
+          "priceAt": "10.26 18:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/225479658275839-ff29cc81-f425-4a9c-b035-2e975000f5f1.jpg",
+          "url": "https://link.coupang.com/a/h93XziPuKG",
+          "_ts": 1793007956.405185
+        },
+        {
           "name": "짜파게티 범벅 컵라면 70g, 6개",
           "price": "3,190원",
           "discount_rate": 37,
