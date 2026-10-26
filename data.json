@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "로아커 웨하스 미니스 믹스, 150g, 1개",
+          "price": "4,320원",
+          "discount_rate": 31,
+          "priceAt": "10.26 20:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/10/31/10/7/5d5483dd-4928-4958-8345-d804de63fdc9.jpg",
+          "url": "https://link.coupang.com/a/iac9061KSq",
+          "_ts": 1793015679.4700758
+        },
+        {
           "name": "서림식품 프리미엄 진참치액, 500ml, 1개",
           "price": "7,900원",
           "discount_rate": 30,
@@ -1492,15 +1501,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/4b978a50-3922-4641-be32-53bcebbc6ce8_fixing_v2.png",
           "url": "https://link.coupang.com/a/h1YOu6tV0K",
           "_ts": 1792587185.2927701
-        },
-        {
-          "name": "삼립 계란옷 입은 몬테크리스토 토스트 3p, 540g, 2개",
-          "price": "16,960원",
-          "discount_rate": 21,
-          "priceAt": "10.21 20:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/114315325671681-c24006a3-9b47-4b10-a7a6-e3383dfc6cb6.jpg",
-          "url": "https://link.coupang.com/a/h1S5Hr43FY",
-          "_ts": 1792582380.7890859
         }
       ]
     },
