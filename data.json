@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "룰루맘 리얼이구마, 20g, 10개",
+          "price": "10,640원",
+          "discount_rate": 34,
+          "priceAt": "10.26 15:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7700048194494-4a3d5da9-8235-4076-a619-1b2820ea2175.jpg",
+          "url": "https://link.coupang.com/a/h9QAxEDuiO",
+          "_ts": 1792996728.90833
+        },
+        {
           "name": "버터와플 이즈니, 316g, 1개",
           "price": "4,450원",
           "discount_rate": 36,
