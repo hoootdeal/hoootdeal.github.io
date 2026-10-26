@@ -1384,6 +1384,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "가람상점 낱발바나나, 6kg, 1개",
+          "price": "11,600원",
+          "discount_rate": 41,
+          "priceAt": "10.26 12:18",
+          "image": "https://shopping.toss.im/live/taca/ai/OTEyN2E5/SW5sOGZJSERzUHdlbFAvSlJMZHZreHd1OWdzWHdIVGVMQmowZWZGNGc2WT0.png",
+          "url": "https://toss.shopping/_m/hDOzoAPk",
+          "_ts": 1792984701.782027,
+          "_product_id": "2166633935"
+        },
+        {
           "name": "지그비 컴팩트 초미세모 칫솔, 22개입, 1세트",
           "price": "10,210원",
           "discount_rate": 67,
