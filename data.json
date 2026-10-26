@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "물하나 지리산 eco 생수 무라벨, 500ml, 60개",
+          "price": "9,560원",
+          "discount_rate": 20,
+          "priceAt": "10.26 09:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a0a2/4c370f2a2800f2f6a0aab1ba5c3f71c643418b872b788282d9379345ec42.jpg",
+          "url": "https://link.coupang.com/a/h9oLYCRvbg",
+          "_ts": 1792973376.6533172
+        },
+        {
           "name": "닥터스베스트 마그네슘, 240정, 2개",
           "price": "36,710원",
           "discount_rate": 21,
