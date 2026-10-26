@@ -1357,6 +1357,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "신대장 국물 떡볶이, 230g, 4팩",
+          "price": "7,200원",
+          "discount_rate": 54,
+          "priceAt": "10.26 11:02",
+          "image": "https://shopping.toss.im/live/temp/2026-09-28/6dcdf9ab-bbd9-4c7b-b340-065fde60cccf.png",
+          "url": "https://toss.shopping/_m/RctE0rFk",
+          "_ts": 1792980157.223443,
+          "_product_id": "2664974965"
+        },
+        {
           "name": "농산물마루 국내산 아삭아삭 신선한 미니오이, 2kg, 1박스",
           "price": "7,600원",
           "discount_rate": 69,
