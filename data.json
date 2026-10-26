@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "만전김 김스깡, 60g, 5개",
+          "price": "5,520원",
+          "discount_rate": 44,
+          "priceAt": "10.26 12:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/32yxivez/39de3d2899354dceaa216d7cc50ca0ab.jpg",
+          "url": "https://link.coupang.com/a/h9BFneR9ci",
+          "_ts": 1792984198.775666
+        },
+        {
           "name": "프로그 일회용 수세미 엑스트라 스트롱, 그레이, 60개입, 1개",
           "price": "2,650원",
           "discount_rate": 34,
