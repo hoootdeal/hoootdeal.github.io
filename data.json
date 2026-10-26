@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "생생우동, 253g, 4개",
+          "price": "5,120원",
+          "discount_rate": 32,
+          "priceAt": "10.26 14:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/b9ef/14cbb700f8a3eb9808d38117815bc7bfec9e50a0a87a34be1dab385afad9.jpg",
+          "url": "https://link.coupang.com/a/h9L8md8t7A",
+          "_ts": 1792992987.443879
+        },
+        {
           "name": "갯마을 남해안 가열조리용 봉지굴 (냉장), 280g, 2봉",
           "price": "10,720원",
           "discount_rate": 32,
