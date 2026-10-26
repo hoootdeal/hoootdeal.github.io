@@ -1564,6 +1564,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "가락시장521 전기구이 몸통 오징어, 200g, 1개",
+          "price": "8,000원",
+          "discount_rate": 60,
+          "priceAt": "10.27 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-06-08/04466375-e150-44ed-932f-0024c7d7dc26.jpeg",
+          "url": "https://toss.shopping/_m/zOff7Odn",
+          "_ts": 1793055805.723862,
+          "_flash": true,
+          "_product_id": "2185764457"
+        },
+        {
+          "name": "청정원 스파게티소스, 600g, 토마토 1개 + 로제 1개 + 아라비아따 1개, 3개",
+          "price": "11,020원",
+          "discount_rate": 55,
+          "priceAt": "10.27 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-09-23/fd8fae3e-51df-48cf-963c-ed06473e04a3.jpeg",
+          "url": "https://toss.shopping/_m/nXxALO3w",
+          "_ts": 1793055805.723825,
+          "_flash": true,
+          "_product_id": "132709913"
+        },
+        {
+          "name": "스카이 비트 3in1 27W 고속 충전 케이블, 1.2m, 블랙, 2개",
+          "price": "6,910원",
+          "discount_rate": 65,
+          "priceAt": "10.27 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/OTE4Yzk3/QUtWUU9WR3JaaThlcXRGYTgxcXhXdE5xVktWb1ZpaWtTVnJsV3d6TnF0TzI.png",
+          "url": "https://toss.shopping/_m/93X3A7Q",
+          "_ts": 1793055805.723787,
+          "_flash": true,
+          "_product_id": "32579"
+        },
+        {
           "name": "김설희 고기손만두, 420g, 2봉 + 김치손만두, 420g, 2봉",
           "price": "13,900원",
           "discount_rate": 46,
