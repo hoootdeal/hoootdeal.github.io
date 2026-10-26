@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "고래밥 볶음양념맛, 20g, 10개",
+          "price": "2,980원",
+          "discount_rate": 29,
+          "priceAt": "10.26 14:44",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2526453695198724-f1feb09a-f17d-43eb-a0b2-4dcacfc7e17e.jpg",
+          "url": "https://link.coupang.com/a/h9MIFa8rim",
+          "_ts": 1792993478.6903832
+        },
+        {
           "name": "생생우동, 253g, 4개",
           "price": "5,120원",
           "discount_rate": 32,
