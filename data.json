@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "종가 오래오래 맛있는 열무김치, 900g, 1개",
+          "price": "6,800원",
+          "discount_rate": 38,
+          "priceAt": "10.26 19:44",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/42648698125558-8332a65d-6112-4e5b-af64-1e5919797a37.jpg",
+          "url": "https://link.coupang.com/a/h979LvMIDY",
+          "_ts": 1793011479.462156
+        },
+        {
           "name": "꼬깔콘 군옥수수맛, 67g, 3개",
           "price": "2,350원",
           "discount_rate": 37,
