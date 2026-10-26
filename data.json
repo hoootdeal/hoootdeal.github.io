@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "어퓨 과즙팡 젤리 틴트, 05 스트로베리젤리, 3.5g, 1개",
+          "price": "2,920원",
+          "discount_rate": 51,
+          "priceAt": "10.26 21:24",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/03/10/9/5/3244bd49-5c1d-420e-b0be-cdaf73f9ce0b.jpg",
+          "url": "https://link.coupang.com/a/iafi3eJUce",
+          "_ts": 1793017484.0603242
+        },
+        {
           "name": "로아커 웨하스 미니스 믹스, 150g, 1개",
           "price": "4,320원",
           "discount_rate": 31,
@@ -2758,16 +2767,6 @@
           "_ts": 1792594938.7450602,
           "_flash": true,
           "_product_id": "525474375"
-        },
-        {
-          "name": "크리스피 찹쌀 누룽지 달콤한맛, 288g, 4개",
-          "price": "11,360원",
-          "discount_rate": 56,
-          "priceAt": "10.21 21:11",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/OTQxZDZk/T1p3NWpqd3h6bk9lT2NQSGNzUnhqc2VoUERLMTVqdyt5YkhMTWNNOEk4RT0.png",
-          "url": "https://toss.shopping/_m/dknDlCbb",
-          "_ts": 1792584690.6865761,
-          "_product_id": "2447344809"
         }
       ]
     },
