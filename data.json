@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바닐라코 에센스 스킨 듀 쿠션 파운데이션 11.5g, 21뉴트럴아이보리, 1개",
+          "price": "8,770원",
+          "discount_rate": 53,
+          "priceAt": "10.27 07:30",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/09/15/15/8/780aaac3-ddd9-4885-bd3b-ab97ee57ad21.jpg",
+          "url": "https://link.coupang.com/a/iaWzaCvrj2",
+          "_ts": 1793053803.044128
+        },
+        {
           "name": "스카치브라이트 실속형 멀티팩 테이프 클리너 리필 7p, 1개",
           "price": "6,920원",
           "discount_rate": 39,
@@ -1537,33 +1546,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/409667076185439-c1ac865b-7e98-42e1-8124-3119a1568217.png",
           "url": "https://link.coupang.com/a/h2D4zBv7N6",
           "_ts": 1792621826.38158
-        },
-        {
-          "name": "피니시 린스에이드 식기세척기 헹굼보조제, 400ml, 2개",
-          "price": "7,460원",
-          "discount_rate": 40,
-          "priceAt": "10.22 07:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/256566609002528-12ee4a99-f933-4360-b12c-8d2bea80f950.jpg",
-          "url": "https://link.coupang.com/a/h2DtWzqtfU",
-          "_ts": 1792621334.047062
-        },
-        {
-          "name": "제니베이커리 2믹스 쿠키 S, 320g, 4개",
-          "price": "59,020원",
-          "discount_rate": 44,
-          "priceAt": "10.22 07:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4eff38c1-a69c-422a-a040-bddf637e06425513667358561920046.png",
-          "url": "https://link.coupang.com/a/h2DsF1oi1k",
-          "_ts": 1792621312.472029
-        },
-        {
-          "name": "크라운 고소한 땅콩샌드, 279g, 2개, 279g × 2개",
-          "price": "3,910원",
-          "discount_rate": 32,
-          "priceAt": "10.22 07:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/242561747366908-5b261837-b768-4d91-bfe5-54c6f98f1932.jpg",
-          "url": "https://link.coupang.com/a/h2C39hZ8Ds",
-          "_ts": 1792620982.0895638
         }
       ]
     },
