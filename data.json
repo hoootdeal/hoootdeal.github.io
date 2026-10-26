@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "켈로그 리얼 그래놀라 오리지널 시리얼, 350g, 1개, 350g × 1개",
+          "price": "3,640원",
+          "discount_rate": 30,
+          "priceAt": "10.26 16:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/13/12/1/537f991c-5768-4beb-a9b5-6693eed59fac.jpg",
+          "url": "https://link.coupang.com/a/h9VZBtOuCy",
+          "_ts": 1793001265.107639
+        },
+        {
           "name": "경자국밥 돼지국밥 (냉동), 700g, 1개",
           "price": "5,530원",
           "discount_rate": 23,
@@ -1447,15 +1456,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/bfbbb84e-113f-4d09-a52f-8298a3017f2c2560060806167937167.png",
           "url": "https://link.coupang.com/a/h1EGoQpRuu",
           "_ts": 1792570288.0346491
-        },
-        {
-          "name": "오리온 태양의 맛 썬, 30g, 15개",
-          "price": "7,410원",
-          "discount_rate": 20,
-          "priceAt": "10.21 16:32",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/ec71/714aa78c194c545af192c71c81b7a780701d9cb084a05aa15c14dd848bbb.jpg",
-          "url": "https://link.coupang.com/a/h1BSHZQLHU",
-          "_ts": 1792567929.286033
         }
       ]
     },
