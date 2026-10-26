@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "디벨라 홀 토마토 통조림, 400g, 2개",
+          "price": "2,930원",
+          "discount_rate": 30,
+          "priceAt": "10.26 12:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1148847518717209-5e04c77b-531c-4246-80ee-83a0fd6a295d.jpg",
+          "url": "https://link.coupang.com/a/h9BwGFk9f3",
+          "_ts": 1792984081.2098901
+        },
+        {
           "name": "휘태커스 미니 슬랩 아몬드 밀크초콜릿, 180g, 1개, 180g × 1개",
           "price": "8,250원",
           "discount_rate": 32,
