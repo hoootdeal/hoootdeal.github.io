@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "닥터스베스트 마그네슘, 240정, 2개",
+          "price": "36,710원",
+          "discount_rate": 21,
+          "priceAt": "10.26 09:05",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f733/897821b60a9cfefec999bbbaefc5a099664458b86686ae9699bb8e0686db.png",
+          "url": "https://link.coupang.com/a/h9orWvKwUu",
+          "_ts": 1792973104.635125
+        },
+        {
           "name": "카레여왕 치즈 앤 코코넛, 108g, 2개",
           "price": "4,790원",
           "discount_rate": 49,
