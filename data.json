@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "휘태커스 미니 슬랩 아몬드 밀크초콜릿, 180g, 1개, 180g × 1개",
+          "price": "8,250원",
+          "discount_rate": 32,
+          "priceAt": "10.26 12:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/3rdzcwbr/5f09513bf760416b987fc3c8942f1890.jpg",
+          "url": "https://link.coupang.com/a/h9BuCpIp5w",
+          "_ts": 1792984055.039286
+        },
+        {
           "name": "대림선 쫄깃 찰순대, 500g, 2개",
           "price": "5,490원",
           "discount_rate": 34,
