@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "도리토스 나쵸치즈맛 과자, 172g, 4개",
+          "price": "7,110원",
+          "discount_rate": 28,
+          "priceAt": "10.26 22:33",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/22351878449972-f18d65d8-6cfe-4a9f-85e3-bcefa8f61a36.jpg",
+          "url": "https://link.coupang.com/a/iakehihyUu",
+          "_ts": 1793021614.679681
+        },
+        {
           "name": "청우식품 참깨스틱 진, 85g, 4개",
           "price": "3,660원",
           "discount_rate": 24,
@@ -1519,15 +1528,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/242561747366908-5b261837-b768-4d91-bfe5-54c6f98f1932.jpg",
           "url": "https://link.coupang.com/a/h2C39hZ8Ds",
           "_ts": 1792620982.0895638
-        },
-        {
-          "name": "이지앤프리 튼튼이 웨이브킵 냉동실 나눔 정리용기 3칸 1700ml, 1개입, 3개",
-          "price": "14,900원",
-          "discount_rate": 33,
-          "priceAt": "10.21 21:53",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/4b978a50-3922-4641-be32-53bcebbc6ce8_fixing_v2.png",
-          "url": "https://link.coupang.com/a/h1YOu6tV0K",
-          "_ts": 1792587185.2927701
         }
       ]
     },
