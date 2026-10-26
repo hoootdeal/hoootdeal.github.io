@@ -1456,6 +1456,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "셰프초이스 육즙가득 도톰도톰 떡갈비, 2kg, 1개",
+          "price": "15,900원",
+          "discount_rate": 38,
+          "priceAt": "10.26 17:54",
+          "image": "https://shopping.toss.im/live/temp/2026-06-23/f38ffe28-178e-40c9-aae9-4f118e14eb6c.png",
+          "url": "https://toss.shopping/_m/DH6EmYpn",
+          "_ts": 1793004883.102313,
+          "_product_id": "2551902583"
+        },
+        {
           "name": "프로프룻 샤인머스켓, 특품, 2kg, 1박스",
           "price": "9,690원",
           "discount_rate": 86,
