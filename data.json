@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "다담 된장찌개양념, 840g, 1개",
+          "price": "4,610원",
+          "discount_rate": 45,
+          "priceAt": "10.26 13:34",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/d0dt7dng/dd7e362ab98946d1911edd827801217d.jpg",
+          "url": "https://link.coupang.com/a/h9HIwtv9Ii",
+          "_ts": 1792989280.147427
+        },
+        {
           "name": "불닭볶음면 140g, 5개",
           "price": "3,070원",
           "discount_rate": 38,
@@ -1375,24 +1384,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1015587051135-e449aa01-a977-43c9-8e58-032cc58709bf.jpg",
           "url": "https://link.coupang.com/a/h1rvN3SAcS",
           "_ts": 1792559223.156887
-        },
-        {
-          "name": "유니레버 썬 식기세척기용 타블렛 세제 레몬 50개입, 500g, 1개",
-          "price": "6,270원",
-          "discount_rate": 35,
-          "priceAt": "10.21 13:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/88224746440515-5cff185e-3909-4bd4-b42b-8f31b0930bbc.jpg",
-          "url": "https://link.coupang.com/a/h1oe6pg1FQ",
-          "_ts": 1792556477.912098
-        },
-        {
-          "name": "에코맘의산골이유식 산골쌀참, 혼합맛(사과/당근), 25g, 2개",
-          "price": "2,700원",
-          "discount_rate": 50,
-          "priceAt": "10.21 13:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4f7b83c7-d368-4ff3-8f28-85a96ab565905819086543369002452.png",
-          "url": "https://link.coupang.com/a/h1nUTCDjBA",
-          "_ts": 1792556206.215884
         }
       ]
     },
