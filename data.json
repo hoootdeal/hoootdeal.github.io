@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "Apple 펜슬 팁스 MX763FE/A, 화이트, 4개",
+          "price": "7,840원",
+          "discount_rate": 71,
+          "priceAt": "10.26 17:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/12/17/9/4/8ea0e29f-5447-4a77-b052-2992ba837c89.jpg",
+          "url": "https://link.coupang.com/a/h9ZEnR1g72",
+          "_ts": 1793004336.161708
+        },
+        {
           "name": "켈로그 리얼 그래놀라 오리지널 시리얼, 350g, 1개, 350g × 1개",
           "price": "3,640원",
           "discount_rate": 30,
@@ -1438,24 +1447,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d660/b555cbbb14151705f19b0f25a4b724147d9ba5f765bacaef46e0966267ad.jpg",
           "url": "https://link.coupang.com/a/h1KlYpSPnM",
           "_ts": 1792575043.787513
-        },
-        {
-          "name": "비비고 든든 한섬만두 (냉동), 384g, 6개입",
-          "price": "17,290원",
-          "discount_rate": 45,
-          "priceAt": "10.21 17:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2501533321291229-1ce5e8e3-8bf1-45b5-bd01-48557238f0eb.jpg",
-          "url": "https://link.coupang.com/a/h1F5oLRHRB",
-          "_ts": 1792571460.188097
-        },
-        {
-          "name": "한성기업 김밥패키지 5인분, 505g, 2세트, 505g × 2세트",
-          "price": "6,480원",
-          "discount_rate": 28,
-          "priceAt": "10.21 17:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/bfbbb84e-113f-4d09-a52f-8298a3017f2c2560060806167937167.png",
-          "url": "https://link.coupang.com/a/h1EGoQpRuu",
-          "_ts": 1792570288.0346491
         }
       ]
     },
@@ -2693,16 +2684,6 @@
           "url": "https://toss.shopping/_m/3ZiPbi36",
           "_ts": 1792574660.151875,
           "_product_id": "263418447"
-        },
-        {
-          "name": "대박농수산 제주 햇 브로콜리, 특품, 2kg, 1박스",
-          "price": "10,940원",
-          "discount_rate": 56,
-          "priceAt": "10.21 17:26",
-          "image": "https://shopping.toss.im/live/taca/ai/MjhiN2U2/QU9BT3MyUVJYdmFJVXZGQkJOMnpmcldWQndoNktHL01XR1BjQUx0bGVQQU8.png",
-          "url": "https://toss.shopping/_m/VGjB26xx",
-          "_ts": 1792571166.823248,
-          "_product_id": "2661643751"
         }
       ]
     },
