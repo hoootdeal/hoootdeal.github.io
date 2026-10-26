@@ -1510,6 +1510,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쥬르본 종합 모나카, 550g, 1박스",
+          "price": "7,440원",
+          "discount_rate": 58,
+          "priceAt": "10.26 20:58",
+          "image": "https://shopping.toss.im/live/taca/ai/ZmQ5MTA2/UjdTL1cxc25sSWw0dVVTNU9zYlNNZmpac2FIbGNxVkwyVEJzMjVzWjA3UT0.png",
+          "url": "https://toss.shopping/_m/VXeYVMHz",
+          "_ts": 1793015932.9893389,
+          "_product_id": "78459905"
+        },
+        {
           "name": "파이토메이드 칼슘&비타민D 두유, 플레인, 190ml, 24개",
           "price": "7,620원",
           "discount_rate": 51,
