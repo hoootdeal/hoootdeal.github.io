@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하리보 골드베렌 젤리 93개입, 1kg, 1개",
+          "price": "10,490원",
+          "discount_rate": 28,
+          "priceAt": "10.26 10:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/87427671133686-86f0b299-2229-40c0-af6d-54e02704526c.jpg",
+          "url": "https://link.coupang.com/a/h9tsCUz2gC",
+          "_ts": 1792977311.8993862
+        },
+        {
           "name": "삼양 짜르르 140g, 4개",
           "price": "3,210원",
           "discount_rate": 35,
@@ -1285,15 +1294,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/8313504820794042-0c253629-031b-4202-930b-ae11005ca8fb.jpg",
           "url": "https://link.coupang.com/a/h1ezfOiClg",
           "_ts": 1792548354.810853
-        },
-        {
-          "name": "인라이프 포켓형 솔저 프렌즈 핫팩 150g, 30개",
-          "price": "6,900원",
-          "discount_rate": 47,
-          "priceAt": "10.21 10:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/08/05/14/0/4fbf08a9-649c-4700-af11-1a81cf1be935.png",
-          "url": "https://link.coupang.com/a/h1abfN0gAS",
-          "_ts": 1792544672.41302
         }
       ]
     },
@@ -2523,16 +2523,6 @@
           "url": "https://toss.shopping/_m/XUEcLSdr",
           "_ts": 1792547930.993891,
           "_product_id": "128469191"
-        },
-        {
-          "name": "프로프룻 국내산 햇배, 대과, 개별망포장, 5kg, 1박스",
-          "price": "13,610원",
-          "discount_rate": 80,
-          "priceAt": "10.21 10:13",
-          "image": "https://shopping.toss.im/live/temp/2026-09-28/12a8d07f-dcf2-4fc7-ade1-577671bec7dc.png",
-          "url": "https://toss.shopping/_m/bS5EeS4r",
-          "_ts": 1792545233.236178,
-          "_product_id": "2640973183"
         }
       ]
     },
