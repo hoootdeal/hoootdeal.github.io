@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "불닭볶음면 140g, 5개",
+          "price": "3,070원",
+          "discount_rate": 38,
+          "priceAt": "10.26 13:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/344801787593852-567aaca7-a965-4d97-adc9-4214051864f5.png",
+          "url": "https://link.coupang.com/a/h9F1DKkFga",
+          "_ts": 1792987857.8622952
+        },
+        {
           "name": "테일러 푸룬건자두, 250g, 3개",
           "price": "11,130원",
           "discount_rate": 31,
