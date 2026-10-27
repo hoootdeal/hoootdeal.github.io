@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "락피도 프로바이오틱스 키즈 플러스 60p, 120g, 1개, 120g × 1개",
+          "price": "14,010원",
+          "discount_rate": 28,
+          "priceAt": "10.28 08:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1572077319772154-e8c7b116-539f-49c3-9c10-9f9a78d32272.jpg",
+          "url": "https://link.coupang.com/a/icHKNTCdoa",
+          "_ts": 1793145479.996879
+        },
+        {
           "name": "오뚜기 진라면 약간매운맛 120g, 5개",
           "price": "2,600원",
           "discount_rate": 32,
@@ -1483,15 +1492,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/354645231922673-58956ec1-73ac-42a6-b664-4543e6fa7fc7.jpg",
           "url": "https://link.coupang.com/a/h4s3jf1BnM",
           "_ts": 1792716687.385066
-        },
-        {
-          "name": "풀무원자연건면 로스팅 꽃게탕면 103g, 4개, 4개",
-          "price": "3,080원",
-          "discount_rate": 34,
-          "priceAt": "10.23 08:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5a63/ce7997c4a83742b70c16cb47d79256e240b8dc80c0d94823c43b868be32a.jpg",
-          "url": "https://link.coupang.com/a/h4oXMGPn8m",
-          "_ts": 1792713253.133891
         }
       ]
     },
@@ -2637,72 +2637,6 @@
           "url": "https://toss.shopping/_m/hmbEzPFo",
           "_ts": 1792717920.239939,
           "_product_id": "1734528093"
-        },
-        {
-          "name": "지오클린 레몬 주방세제, 4L, 2개",
-          "price": "8,900원",
-          "discount_rate": 70,
-          "priceAt": "10.23 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/ZDFjYWQ4/UzIxN2JIU3p0TktyTFdpMnpQa05JemVFdHRJblVOTWwyeXkwMHBGRWFWbz0.png",
-          "url": "https://toss.shopping/_m/1oqBBcLj",
-          "_ts": 1792710252.702935,
-          "_flash": true,
-          "_product_id": "1443186689"
-        },
-        {
-          "name": "이장네푸드 진한 들기름, 350ml, 4개",
-          "price": "22,900원",
-          "discount_rate": 78,
-          "priceAt": "10.23 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/NWNiMTM3/QU0vYytQTWJubnh4R0p5ZWRaU3Y4ODVyMENjT1c5RE0rVnVZZmJWYm1PMzU.png",
-          "url": "https://toss.shopping/_m/9N5uFR3B",
-          "_ts": 1792710252.7029061,
-          "_flash": true,
-          "_product_id": "513805055"
-        },
-        {
-          "name": "옛날대패삼겹살 대용량, 1kg, 2개",
-          "price": "17,900원",
-          "discount_rate": 68,
-          "priceAt": "10.23 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/MDUwMGU2/QUpKTExmZjErZTFCeU91ZHVlcytQbXB3U3ZhSjlOL0FvUUxsVnYzWDhJdTA.png",
-          "url": "https://toss.shopping/_m/lpufaUze",
-          "_ts": 1792710252.702868,
-          "_flash": true,
-          "_product_id": "2307788465"
-        },
-        {
-          "name": "신세계푸드 냉동 크로와상 생지, 2.25kg, 1개",
-          "price": "12,230원",
-          "discount_rate": 61,
-          "priceAt": "10.23 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/ZGFjYzcx/UXpRR0Q1a3h5TzJ5emg1OHk1cnlCQ1J3T0V6RENKYjg3eHhpUnh6RDFRcz0.png",
-          "url": "https://toss.shopping/_m/VOdm0ibv",
-          "_ts": 1792710226.017268,
-          "_flash": true,
-          "_product_id": "35885"
-        },
-        {
-          "name": "푸드앳홈 순삭 떡볶이, 매운맛, 200g, 5팩",
-          "price": "6,900원",
-          "discount_rate": 66,
-          "priceAt": "10.23 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/ZmFhZDlk/V1hQR1p1eGpHUTJWNTRNZGx0ZmhMWEtiQkxtb2JTVDF4ZW5Ua0g2bEZ2bz0.png",
-          "url": "https://toss.shopping/_m/vGvrdrl3",
-          "_ts": 1792710226.017227,
-          "_flash": true,
-          "_product_id": "469831035"
-        },
-        {
-          "name": "테오푸드 오뎅도리탕, 1.2kg, 1개",
-          "price": "12,780원",
-          "discount_rate": 67,
-          "priceAt": "10.23 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/MGM5NzM3/VG05aDhEK21NT1lxSEZxeVUrNm44WlVZbjJ6WGFoVkRzcXN0aG9vOUJncz0.png",
-          "url": "https://toss.shopping/_m/h9jOZuu7",
-          "_ts": 1792710226.017173,
-          "_flash": true,
-          "_product_id": "11080803"
         }
       ]
     },
