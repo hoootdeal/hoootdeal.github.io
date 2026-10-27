@@ -1528,6 +1528,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "농가살리기 콩쑥개떡, 60g, 30개입, 1개",
+          "price": "11,900원",
+          "discount_rate": 60,
+          "priceAt": "10.27 19:02",
+          "image": "https://shopping.toss.im/live/taca/ai/NzhiNjc0/ZjIzNk5Qc3BmRUNsS1NrOHREalIvQUMxNXZRUDFpUDAvQkkxd0VGcWFNQT0.png",
+          "url": "https://toss.shopping/_m/Jud0lQRy",
+          "_ts": 1793095335.212631,
+          "_product_id": "11029795"
+        },
+        {
           "name": "썬키스트 제로, 복숭아레몬소다, 190ml, 30개",
           "price": "8,700원",
           "discount_rate": 48,
@@ -2648,16 +2658,6 @@
           "url": "https://toss.shopping/_m/Hy2NYwBo",
           "_ts": 1792665207.527818,
           "_product_id": "131272227"
-        },
-        {
-          "name": "사운독스 노이즈 캔슬링 무선 이어폰, Y-07, 화이트, 1개",
-          "price": "16,900원",
-          "discount_rate": 81,
-          "priceAt": "10.22 18:57",
-          "image": "https://shopping.toss.im/live/taca/ai/YjkxZWEw/QVBjR1kvL1J5ZndZR0luMlltSjJIWWZybEJpOTduUm1ZVFZVK1B4VndCY0Q.png",
-          "url": "https://toss.shopping/_m/rybSyyal",
-          "_ts": 1792663051.678037,
-          "_product_id": "157010575"
         }
       ]
     },
