@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "함소아 유기농 푸룬사과 주스, 125ml, 24개",
+          "price": "10,600원",
+          "discount_rate": 24,
+          "priceAt": "10.27 19:41",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/32687556435158-563b21f1-d051-4ce2-b631-8cc3b20d48aa.jpg",
+          "url": "https://link.coupang.com/a/ibMRzrrzoq",
+          "_ts": 1793097714.237344
+        },
+        {
           "name": "아임리얼 풀무원 아임리얼 100 레몬 주스, 140ml, 12개",
           "price": "6,460원",
           "discount_rate": 57,
@@ -1501,15 +1510,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2d29b0b7-7b5d-4617-9ca8-afdcd23460fc16747170923792606617.png",
           "url": "https://link.coupang.com/a/h3xyBrQwpM",
           "_ts": 1792668410.547839
-        },
-        {
-          "name": "무스텔라 노 린스 클렌징 워터, 300ml, 2개",
-          "price": "21,000원",
-          "discount_rate": 35,
-          "priceAt": "10.22 19:40",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/38033014823065-b01deb7e-da94-47b5-8de5-e0691f1efdac.jpg",
-          "url": "https://link.coupang.com/a/h3uc8VVGeq",
-          "_ts": 1792665600.675494
         }
       ]
     },
@@ -2649,16 +2649,6 @@
           "url": "https://toss.shopping/_m/TiGqZpP4",
           "_ts": 1792667374.5487502,
           "_product_id": "7787115"
-        },
-        {
-          "name": "냉동 슬라이스 대파, 1kg, 2개",
-          "price": "7,900원",
-          "discount_rate": 60,
-          "priceAt": "10.22 19:33",
-          "image": "https://shopping.toss.im/live/taca/ai/Y2Y4NDI5/QUtaRU1UcU1uTmFVY1d1c25kZHRabUdacWxpMDN2V3A5ZjlRVnhhNHdybCs.png",
-          "url": "https://toss.shopping/_m/Hy2NYwBo",
-          "_ts": 1792665207.527818,
-          "_product_id": "131272227"
         }
       ]
     },
