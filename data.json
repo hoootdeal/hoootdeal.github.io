@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오트리 고메넛츠, 750g, 3개",
+          "price": "116,250원",
+          "discount_rate": 52,
+          "priceAt": "10.27 09:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2a76bf67-6ce5-48b6-8daa-dd4782c4a4c43866320663566069035.png",
+          "url": "https://link.coupang.com/a/ia3sZRRUrY",
+          "_ts": 1793059596.290687
+        },
+        {
           "name": "롯데웰푸드 크런키볼, 76g, 2개",
           "price": "3,300원",
           "discount_rate": 38,
@@ -1546,15 +1555,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/266339473323547-0b27c254-dd8e-41ce-910a-ba52e2eb7156.jpg",
           "url": "https://link.coupang.com/a/h2NMnDnba0",
           "_ts": 1792629977.049749
-        },
-        {
-          "name": "강화군농협 강화섬쌀 2026년산 햅쌀 고시히카리 백미 상등급, 4kg, 1개",
-          "price": "14,900원",
-          "discount_rate": 28,
-          "priceAt": "10.22 08:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f1f3/5757af0bce45bd2bf6f0f1919e53f3bed78665e4b72b73238cc66ac15f49.jpg",
-          "url": "https://link.coupang.com/a/h2JDiQIFQi",
-          "_ts": 1792626494.062896
         }
       ]
     },
