@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아임리얼 풀무원 아임리얼 100 레몬 주스, 140ml, 12개",
+          "price": "6,460원",
+          "discount_rate": 57,
+          "priceAt": "10.27 18:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/216774580503416-9a19115b-5dd0-4bfc-8221-ae3eba355ece.png",
+          "url": "https://link.coupang.com/a/ibJsZZnR9M",
+          "_ts": 1793094862.145685
+        },
+        {
           "name": "포카리스웨트 페트 무라벨, 500ml, 20개, 500ml × 20개",
           "price": "25,290원",
           "discount_rate": 28,
@@ -1510,15 +1519,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1197/0cc534cf5339bc91408c4fa23fdb71500db6484515750bdb0ac37a6c1f5b.jpg",
           "url": "https://link.coupang.com/a/h3r2mrEiMm",
           "_ts": 1792663776.991294
-        },
-        {
-          "name": "티아시아키친 치킨 마크니 커리, 170g, 4개",
-          "price": "4,950원",
-          "discount_rate": 28,
-          "priceAt": "10.22 18:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/86730185375015-9ab9c0e3-a4bb-41d2-8d88-55795f7b6fbe.png",
-          "url": "https://link.coupang.com/a/h3qFrBcz7s",
-          "_ts": 1792662625.877262
         }
       ]
     },
