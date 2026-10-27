@@ -1501,6 +1501,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "계혁명 염지통닭, 600g, 4마리",
+          "price": "15,910원",
+          "discount_rate": 55,
+          "priceAt": "10.28 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/NTk4ZjMw/VGgvK2F5eFAzaEdMVnM5QU4xNWNiamViak9Dbk1CMkJCK3h3UWZRQzhEOD0.png",
+          "url": "https://toss.shopping/_m/9LwhkWEy",
+          "_ts": 1793142206.32388,
+          "_flash": true,
+          "_product_id": "101753995"
+        },
+        {
+          "name": "종합전병, 720g, 1개",
+          "price": "6,760원",
+          "discount_rate": 77,
+          "priceAt": "10.28 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/ZTllZmFh/ZGVXcG4xRDRuY2FaQjh0V1RPb1hraDZPYmVMeG92WWJ6RTU1SmFLcnhGbz0.png",
+          "url": "https://toss.shopping/_m/jHtJk31B",
+          "_ts": 1793142206.32385,
+          "_flash": true,
+          "_product_id": "2636092631"
+        },
+        {
+          "name": "부스터샷 에브리 유기농 레몬즙 스틱, 20g, 14포, 7박스",
+          "price": "13,200원",
+          "discount_rate": 49,
+          "priceAt": "10.28 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-08-13/bdccb59f-ec4a-444d-92ae-29569c8918c4.jpeg",
+          "url": "https://toss.shopping/_m/Jz31r1rh",
+          "_ts": 1793142206.323806,
+          "_flash": true,
+          "_product_id": "2425693735"
+        },
+        {
           "name": "아이앤오 실리콘 덮개, 28cm, 2개",
           "price": "10,600원",
           "discount_rate": 64,
