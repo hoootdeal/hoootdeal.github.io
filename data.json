@@ -1519,6 +1519,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "맛생각 시골 전통 된장찌개, 600g, 5개",
+          "price": "16,400원",
+          "discount_rate": 53,
+          "priceAt": "10.28 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-06-15/a8bbce69-1c12-4b6f-915a-53a9bbc47f2f.jpeg",
+          "url": "https://toss.shopping/_m/flcjiNhh",
+          "_ts": 1793113321.997086,
+          "_flash": true,
+          "_product_id": "2287417559"
+        },
+        {
+          "name": "드림이음 눈건강 프리미엄 루테인 골드 베타카로틴, 30정, 3개",
+          "price": "9,800원",
+          "discount_rate": 83,
+          "priceAt": "10.28 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-07-13/e2b51d3a-1ba1-4d48-9b44-70ed831967ab.jpeg",
+          "url": "https://toss.shopping/_m/n9Mam7Fy",
+          "_ts": 1793113321.99706,
+          "_flash": true,
+          "_product_id": "2123448925"
+        },
+        {
+          "name": "청우 초코파이 찰떡, 860g, 1박스",
+          "price": "9,900원",
+          "discount_rate": 50,
+          "priceAt": "10.28 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/NmMxYzc5/VjhFcUg5WTVxWFM2dEJITlZwNnBhVmN3Q3EwTldpUzErbUFjUEFMRGQ0WT0.png",
+          "url": "https://toss.shopping/_m/X7VGDRFt",
+          "_ts": 1793113321.997014,
+          "_flash": true,
+          "_product_id": "78459747"
+        },
+        {
           "name": "헤라 블랙쿠션 퍼프, 10개입, 1세트",
           "price": "10,230원",
           "discount_rate": 65,
