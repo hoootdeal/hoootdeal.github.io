@@ -1510,33 +1510,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/153010206207230-41e80502-9437-4d8f-8489-1359bd98a36d.jpg",
           "url": "https://link.coupang.com/a/h3ozhENXDU",
           "_ts": 1792660864.908075
-        },
-        {
-          "name": "면사랑 중화면 5개입 (냉동), 1.15kg, 1개, 1.15kg × 1개",
-          "price": "2,980원",
-          "discount_rate": 36,
-          "priceAt": "10.22 17:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/2nstqrcr/b35f9ec99afe4f7388289a839435fc9b.jpg",
-          "url": "https://link.coupang.com/a/h3kRX7OxFs",
-          "_ts": 1792657759.529299
-        },
-        {
-          "name": "팔도 뽀로로 홍삼쏙쏙 오렌지맛 음료, 100ml, 40개, 100ml × 40개",
-          "price": "11,120원",
-          "discount_rate": 51,
-          "priceAt": "10.22 17:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/b8bcd584-fa5e-475d-aa40-309cee8f5b75_fixing_v2.png",
-          "url": "https://link.coupang.com/a/h3kfcca3Lo",
-          "_ts": 1792657236.540738
-        },
-        {
-          "name": "리고 100% 땅콩버터 청키, 453g, 1개",
-          "price": "6,060원",
-          "discount_rate": 24,
-          "priceAt": "10.22 17:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/14e0/3e8c09085fce56e8c4c27f65ca7a93480b066924528bb4193c728525f78e.jpg",
-          "url": "https://link.coupang.com/a/h3jFco2Rvo",
-          "_ts": 1792656746.6657789
         }
       ]
     },
@@ -1545,6 +1518,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "썬키스트 제로, 복숭아레몬소다, 190ml, 30개",
+          "price": "8,700원",
+          "discount_rate": 48,
+          "priceAt": "10.27 17:46",
+          "image": "https://shopping.toss.im/live/temp/2026-04-28/a4fa3660-d26b-4e45-aa09-7fa574184811.jpeg",
+          "url": "https://toss.shopping/_m/9XBpXhwt",
+          "_ts": 1793090768.122758,
+          "_product_id": "1734855833"
+        },
         {
           "name": "고기중독 양념 LA갈비, 1kg, 1팩",
           "price": "16,990원",
@@ -2666,16 +2649,6 @@
           "url": "https://toss.shopping/_m/rybSyyal",
           "_ts": 1792663051.678037,
           "_product_id": "157010575"
-        },
-        {
-          "name": "켈로그 프링글스, 오리지날 2개 + 양파맛 2개 + 매운맛 2개, 110g, 총 6개",
-          "price": "11,040원",
-          "discount_rate": 37,
-          "priceAt": "10.22 17:26",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/NzcxZjk5/VDJ6czhScHNOazdsTVRPYmJHVE41bTI1T1oxc1pNZVR2R1Q3T3pHWi9Hdz0.png",
-          "url": "https://toss.shopping/_m/jNdenPq7",
-          "_ts": 1792657596.372472,
-          "_product_id": "155891821"
         }
       ]
     },
