@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "몽크슈 액상 위드 알룰로스, 1.3kg, 1개",
+          "price": "9,010원",
+          "discount_rate": 37,
+          "priceAt": "10.27 16:37",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/4415/322a21c186c520b10d9b63b6b42e7e6c0e68d329001246ba68ff4032b744.jpg",
+          "url": "https://link.coupang.com/a/ibzGXrIg32",
+          "_ts": 1793086655.207283
+        },
+        {
           "name": "쁘리엘르 허밍 순면 유아 누비 방수 패드, 아이보리, 대형, 1개",
           "price": "11,900원",
           "discount_rate": 33,
@@ -1528,15 +1537,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/14e0/3e8c09085fce56e8c4c27f65ca7a93480b066924528bb4193c728525f78e.jpg",
           "url": "https://link.coupang.com/a/h3jFco2Rvo",
           "_ts": 1792656746.6657789
-        },
-        {
-          "name": "위트빅스 오리지날 시리얼, 1.2kg, 1개, 1.2kg × 1개",
-          "price": "9,730원",
-          "discount_rate": 27,
-          "priceAt": "10.22 16:24",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/9a78/1ced62e3facab7e3b3a50d148226cc1223d9695ecc5fc91aa9ffd1c0326b.jpg",
-          "url": "https://link.coupang.com/a/h3geAajrQy",
-          "_ts": 1792653867.859532
         }
       ]
     },
@@ -2676,16 +2676,6 @@
           "url": "https://toss.shopping/_m/FwyEu3sn",
           "_ts": 1792655376.41966,
           "_product_id": "2260871189"
-        },
-        {
-          "name": "메르헨트 옴므 아쿠아 스킨 토너, 200ml, 2개",
-          "price": "9,380원",
-          "discount_rate": 60,
-          "priceAt": "10.22 16:09",
-          "image": "https://shopping.toss.im/live/temp/2025-03-26/6b36f1bb-5cff-4630-b194-dd2667494f25.jpeg",
-          "url": "https://toss.shopping/_m/TRgWguNp",
-          "_ts": 1792652966.114078,
-          "_product_id": "86558303"
         }
       ]
     },
