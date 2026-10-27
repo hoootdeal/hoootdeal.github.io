@@ -1546,6 +1546,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "고기중독 양념 LA갈비, 1kg, 1팩",
+          "price": "16,990원",
+          "discount_rate": 66,
+          "priceAt": "10.27 16:45",
+          "image": "https://shopping.toss.im/live/temp/2026-03-08/c34140cc-2e6f-4e1f-b48e-af9eac2ced63.jpeg",
+          "url": "https://toss.shopping/_m/fSYjpeK4",
+          "_ts": 1793087159.4445639,
+          "_product_id": "148065759"
+        },
+        {
           "name": "던킨 미니 글레이즈드, 15g, 10개, 3팩",
           "price": "10,900원",
           "discount_rate": 62,
