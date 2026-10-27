@@ -1555,6 +1555,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "리벤스 소프트 클린 화장실 비데티슈, 60매, 10팩",
+          "price": "8,990원",
+          "discount_rate": 74,
+          "priceAt": "10.27 11:34",
+          "image": "https://shopping.toss.im/live/temp/2026-10-23/91711844-c186-4a04-8152-17872222d75b.jpeg",
+          "url": "https://toss.shopping/_m/X4vegK8r",
+          "_ts": 1793068452.457201,
+          "_product_id": "85614109"
+        },
+        {
           "name": "맛꾼 메추리알 장조림, 1kg, 2개",
           "price": "10,000원",
           "discount_rate": 50,
@@ -2727,16 +2737,6 @@
           "_ts": 1792638790.3878021,
           "_flash": true,
           "_product_id": "1058297393"
-        },
-        {
-          "name": "앙쥬 눈썹문신 아이브로우 워터프루프, 흑갈색, 2+2 구성, 총 4개",
-          "price": "7,870원",
-          "discount_rate": 67,
-          "priceAt": "10.22 11:24",
-          "image": "https://shopping.toss.im/live/product/6506947/9a1b35f3-27dd-4d85-afc2-e106ebf86440.jpeg",
-          "url": "https://toss.shopping/_m/ZzBfzzqt",
-          "_ts": 1792635879.2517052,
-          "_product_id": "1048171753"
         }
       ]
     },
