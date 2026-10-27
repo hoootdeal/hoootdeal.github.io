@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하로로 알루 사와컵, 1개",
+          "price": "6,490원",
+          "discount_rate": 35,
+          "priceAt": "10.28 07:13",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/09/23/14/4/1082a750-0850-4d83-aaad-5445a8edf02a.jpg",
+          "url": "https://link.coupang.com/a/icAhfsN1vo",
+          "_ts": 1793139202.299051
+        },
+        {
           "name": "온더바디 퓨어 더마 마일드 모이스처 바디로션 베이비 파우더향, 1L, 3개",
           "price": "23,570원",
           "discount_rate": 47,
@@ -1501,15 +1510,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/34779369342347-40fcf6a2-7341-42d4-a1d7-6a9bba39e98e.jpg",
           "url": "https://link.coupang.com/a/h4hQ2ysi8O",
           "_ts": 1792707284.0347798
-        },
-        {
-          "name": "뉴트리크라프트 에너지 포도당 캔디 사과맛 100p, 272g, 1개, 272g × 1개",
-          "price": "5,600원",
-          "discount_rate": 42,
-          "priceAt": "10.23 07:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1317062528470419-2f56a7de-fd5a-4969-87fd-ad2672e3e563.jpg",
-          "url": "https://link.coupang.com/a/h4gRnG2WKy",
-          "_ts": 1792706449.225129
         }
       ]
     },
