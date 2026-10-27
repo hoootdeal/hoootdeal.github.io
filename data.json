@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "랩신 섬유항균제 상쾌한솔잎향 본품, 2L, 1개",
+          "price": "8,620원",
+          "discount_rate": 25,
+          "priceAt": "10.27 15:32",
+          "image": "https://img5c.coupangcdn.com/image/retail/images/1751317243841418-86f98a5d-024a-4710-a03e-7ae7104d7560.jpg",
+          "url": "https://link.coupang.com/a/ibu3BRWziC",
+          "_ts": 1793082764.523701
+        },
+        {
           "name": "스프라이트 제로 사이다, 250ml, 30개",
           "price": "11,890원",
           "discount_rate": 23,
@@ -1519,24 +1528,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/9a78/1ced62e3facab7e3b3a50d148226cc1223d9695ecc5fc91aa9ffd1c0326b.jpg",
           "url": "https://link.coupang.com/a/h3geAajrQy",
           "_ts": 1792653867.859532
-        },
-        {
-          "name": "쏘픽 데일리 보건방역 마스크 대형 KF94, 스킨베이지, 10개, 5개입",
-          "price": "5,000원",
-          "discount_rate": 58,
-          "priceAt": "10.22 15:24",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/09/17/15/1/f76f7cb1-b826-4d48-b9b6-4e0c938d8d3b.jpg",
-          "url": "https://link.coupang.com/a/h3bZaEEjJY",
-          "_ts": 1792650299.92567
-        },
-        {
-          "name": "리챔 오리지널, 340g, 3개",
-          "price": "9,600원",
-          "discount_rate": 57,
-          "priceAt": "10.22 15:24",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/14896068917946-7bf71db5-528c-4ff5-9014-6723a24bd343.jpg",
-          "url": "https://link.coupang.com/a/h3bWWxnxHE",
-          "_ts": 1792650276.698447
         }
       ]
     },
