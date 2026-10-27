@@ -1537,15 +1537,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e349/d7c1d814eaa27cddf4a555dc3e7e14f3d0fa7dd0b0098e4925b2b0bcf23c.png",
           "url": "https://link.coupang.com/a/h282lBj8sS",
           "_ts": 1792647824.314443
-        },
-        {
-          "name": "베지밀 고단백두유 검은콩, 190ml, 96개, 190ml × 96개",
-          "price": "39,860원",
-          "discount_rate": 33,
-          "priceAt": "10.22 14:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/105291788848940-234fb8e4-b879-4ff2-b481-be43426f20b6.jpg",
-          "url": "https://link.coupang.com/a/h25XBP2MP6",
-          "_ts": 1792645241.079829
         }
       ]
     },
@@ -1554,6 +1545,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "우리식품 잔기지떡, 30g, 50개입, 1박스",
+          "price": "9,950원",
+          "discount_rate": 60,
+          "priceAt": "10.27 14:10",
+          "image": "https://shopping.toss.im/live/taca/ai/ZmM2OTM1/SllQWVNmTnN4NGZMbmg0bWpwZ3N0bHhZazBIbDRXMDRPaVJFMjRPVFAyOD0.png",
+          "url": "https://toss.shopping/_m/110tgPB4",
+          "_ts": 1793077837.805405,
+          "_product_id": "87788309"
+        },
         {
           "name": "마들 춘천 닭갈비, 500g, 3개",
           "price": "16,600원",
