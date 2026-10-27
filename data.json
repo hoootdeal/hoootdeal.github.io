@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "메이토 로얄 밀크티 분말, 400g, 2개, 400g × 2개",
+          "price": "16,100원",
+          "discount_rate": 29,
+          "priceAt": "10.27 20:41",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/44441136140620-ca59ea6c-c21e-41d6-a7eb-40c2098f7996.jpg",
+          "url": "https://link.coupang.com/a/ibQ5wHqmlw",
+          "_ts": 1793101260.503965
+        },
+        {
           "name": "함소아 유기농 푸룬사과 주스, 125ml, 24개",
           "price": "10,600원",
           "discount_rate": 24,
@@ -1501,15 +1510,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/63164678126174-f588dc02-4786-4f1f-bf32-0128b8d6ba52.jpg",
           "url": "https://link.coupang.com/a/h3yY15HWSW",
           "_ts": 1792669609.240993
-        },
-        {
-          "name": "비비고 시래기 듬뿍 장터국, 2개, 500g",
-          "price": "4,950원",
-          "discount_rate": 33,
-          "priceAt": "10.22 20:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2d29b0b7-7b5d-4617-9ca8-afdcd23460fc16747170923792606617.png",
-          "url": "https://link.coupang.com/a/h3xyBrQwpM",
-          "_ts": 1792668410.547839
         }
       ]
     },
