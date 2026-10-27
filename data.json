@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "카누 벨베티 미디엄 로스트 네스프레소 호환 캡슐 커피, 5.7g, 10개입, 6개",
+          "price": "17,670원",
+          "discount_rate": 44,
+          "priceAt": "10.28 07:35",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/225105255025741-5c6f474c-3305-44eb-8b5d-a68eaebdd336.jpg",
+          "url": "https://link.coupang.com/a/icBPZoDDe8",
+          "_ts": 1793140512.750928
+        },
+        {
           "name": "하로로 알루 사와컵, 1개",
           "price": "6,490원",
           "discount_rate": 35,
@@ -1483,33 +1492,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/398075880292278-1c713f40-06cc-4a51-b9c7-18cdd34f9af5.jpg",
           "url": "https://link.coupang.com/a/h4kLNUpxhQ",
           "_ts": 1792709732.557739
-        },
-        {
-          "name": "유로푸드 유기농 레몬주스, 250ml, 1개, 250ml × 1개",
-          "price": "2,770원",
-          "discount_rate": 50,
-          "priceAt": "10.23 07:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/ee79/bec73f52ec372fb1c97e1dda3a8b324ff8b36ad80de2c12ca94e910dc051.jpg",
-          "url": "https://link.coupang.com/a/h4itrsoaJ2",
-          "_ts": 1792707803.553735
-        },
-        {
-          "name": "데니그리스 사과식초 허니크랜베리, 500ml, 1개",
-          "price": "2,950원",
-          "discount_rate": 36,
-          "priceAt": "10.23 07:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2019/05/13/16/4/b3b7f060-0e2c-4721-9cf0-1567fb162222.jpg",
-          "url": "https://link.coupang.com/a/h4h82FaenB",
-          "_ts": 1792707527.213909
-        },
-        {
-          "name": "더미식 백미밥, 210g, 36개, 210g × 36개",
-          "price": "28,180원",
-          "discount_rate": 43,
-          "priceAt": "10.23 07:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/34779369342347-40fcf6a2-7341-42d4-a1d7-6a9bba39e98e.jpg",
-          "url": "https://link.coupang.com/a/h4hQ2ysi8O",
-          "_ts": 1792707284.0347798
         }
       ]
     },
