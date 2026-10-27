@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이롬 황성주 박사의 국산콩 무가당 검은콩 고칼슘 두유, 16개, 190ml",
+          "price": "7,970원",
+          "discount_rate": 26,
+          "priceAt": "10.27 09:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/187002198562338-e6f45e88-c1d3-4010-b215-d32c496eb01f.jpg",
+          "url": "https://link.coupang.com/a/ia65V9XTFI",
+          "_ts": 1793062643.286147
+        },
+        {
           "name": "오트리 고메넛츠, 750g, 3개",
           "price": "116,250원",
           "discount_rate": 52,
@@ -1546,15 +1555,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/5aedwnva/418027dd34b149c197dbf904e3bf19f3.jpg",
           "url": "https://link.coupang.com/a/h2PQT3bryK",
           "_ts": 1792631718.0913548
-        },
-        {
-          "name": "이브로쉐 라즈베리 헤어 식초 스칼프, 400ml, 2개",
-          "price": "17,350원",
-          "discount_rate": 33,
-          "priceAt": "10.22 09:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/266339473323547-0b27c254-dd8e-41ce-910a-ba52e2eb7156.jpg",
-          "url": "https://link.coupang.com/a/h2NMnDnba0",
-          "_ts": 1792629977.049749
         }
       ]
     },
