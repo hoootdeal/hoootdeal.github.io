@@ -1546,15 +1546,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/105291788848940-234fb8e4-b879-4ff2-b481-be43426f20b6.jpg",
           "url": "https://link.coupang.com/a/h25XBP2MP6",
           "_ts": 1792645241.079829
-        },
-        {
-          "name": "마더케이 유아용 디아 젖병세정제 리필형 무향, 400ml, 4개, 400ml × 4개",
-          "price": "11,950원",
-          "discount_rate": 38,
-          "priceAt": "10.22 12:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/655559865276474-ea8e6694-acab-43b1-8792-504e0768d0d8.jpg",
-          "url": "https://link.coupang.com/a/h21yhhfIVU",
-          "_ts": 1792641538.2368052
         }
       ]
     },
@@ -1563,6 +1554,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "마들 춘천 닭갈비, 500g, 3개",
+          "price": "16,600원",
+          "discount_rate": 63,
+          "priceAt": "10.27 13:42",
+          "image": "https://shopping.toss.im/live/taca/ai/ZWI1YTBi/WkZtSGJyWlNBa3ozSjZSY25aR3hNeWR3eGhOcGFMeHpoUzVOWTVEaTBjWT0.png",
+          "url": "https://toss.shopping/_m/bk2K2GiB",
+          "_ts": 1793076172.3980448,
+          "_product_id": "151328027"
+        },
         {
           "name": "리벤스 소프트 클린 화장실 비데티슈, 60매, 10팩",
           "price": "8,990원",
@@ -2672,16 +2673,6 @@
           "url": "https://toss.shopping/_m/bHi6PwVp",
           "_ts": 1792648139.657563,
           "_product_id": "2534121637"
-        },
-        {
-          "name": "소소락 반반 함흥냉면 10인분, 함흥냉면 2kg + 동치미육수 300g 5팩 + 비빔소스 50g 5팩, 1세트",
-          "price": "8,600원",
-          "discount_rate": 54,
-          "priceAt": "10.22 13:30",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDk5NGQ1/QU8rSEEyQUd4L09EblpyVDh4ZkRRZU5ZNmtLRU1BaXVFT1A0eGZ1QWN4NEk.png",
-          "url": "https://toss.shopping/_m/BFe9xjz3",
-          "_ts": 1792643426.507584,
-          "_product_id": "135578279"
         }
       ]
     },
