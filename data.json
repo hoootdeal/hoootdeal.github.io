@@ -1537,15 +1537,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/14896068917946-7bf71db5-528c-4ff5-9014-6723a24bd343.jpg",
           "url": "https://link.coupang.com/a/h3bWWxnxHE",
           "_ts": 1792650276.698447
-        },
-        {
-          "name": "잘라쓰는 아쿠아 방수 테이프 밴드 롤, 5m X5cm, 1개",
-          "price": "1,890원",
-          "discount_rate": 41,
-          "priceAt": "10.22 14:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e349/d7c1d814eaa27cddf4a555dc3e7e14f3d0fa7dd0b0098e4925b2b0bcf23c.png",
-          "url": "https://link.coupang.com/a/h282lBj8sS",
-          "_ts": 1792647824.314443
         }
       ]
     },
@@ -1554,6 +1545,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "비로르 액화방지 원터치 요리용 부탄가스 토치, 화이트, 1개",
+          "price": "6,050원",
+          "discount_rate": 80,
+          "priceAt": "10.27 14:43",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDRmOTU5/QVBjejJabG1aaWJNeXpuTE9Tek1abWJabVNNdzF0bG1aaTIyMHhzempCek0.png",
+          "url": "https://toss.shopping/_m/tuuQvVKe",
+          "_ts": 1793079835.5932002,
+          "_product_id": "91564771"
+        },
         {
           "name": "우리식품 잔기지떡, 30g, 50개입, 1박스",
           "price": "9,950원",
