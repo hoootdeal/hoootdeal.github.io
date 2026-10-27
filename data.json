@@ -1519,6 +1519,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아침엔과일 청송 시나노골드 사과, 특품, 5kg, 1박스",
+          "price": "14,900원",
+          "discount_rate": 73,
+          "priceAt": "10.27 20:45",
+          "image": "https://shopping.toss.im/live/temp/2026-10-19/cf7078e3-2158-4bc5-8543-425240b00871.png",
+          "url": "https://toss.shopping/_m/h3snK2Ky",
+          "_ts": 1793101503.501239,
+          "_product_id": "2688615757"
+        },
+        {
           "name": "동원 순백 보리차, 1.5L, 12개",
           "price": "9,520원",
           "discount_rate": 51,
