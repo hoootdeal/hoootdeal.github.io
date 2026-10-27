@@ -1492,24 +1492,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1317062528470419-2f56a7de-fd5a-4969-87fd-ad2672e3e563.jpg",
           "url": "https://link.coupang.com/a/h4gRnG2WKy",
           "_ts": 1792706449.225129
-        },
-        {
-          "name": "오리온 포카칩 오리지널, 66g, 10개",
-          "price": "9,100원",
-          "discount_rate": 24,
-          "priceAt": "10.22 21:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/6294607904711-086e1c8a-4aa8-493a-aa95-31cada3ca9cb.jpg",
-          "url": "https://link.coupang.com/a/h3CGHVREaq",
-          "_ts": 1792672719.698068
-        },
-        {
-          "name": "닷이프 여성용 롱/숏 기장 스판좋은 히든밴딩 슬림 부츠컷 청바지, 숏L(30), 워싱블루",
-          "price": "8,900원",
-          "discount_rate": 55,
-          "priceAt": "10.22 21:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/kcjlzais/1500f3af46534ebc82c7e13053f0a2ff.jpg",
-          "url": "https://link.coupang.com/a/h3BOGk2X48",
-          "_ts": 1792671987.656641
         }
       ]
     },
@@ -1518,6 +1500,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "헤라 블랙쿠션 퍼프, 10개입, 1세트",
+          "price": "10,230원",
+          "discount_rate": 65,
+          "priceAt": "10.27 21:57",
+          "image": "https://shopping.toss.im/live/taca/ai/YTZlYzhh/YjErNzlXMWYvZkc5MjMyM3lmdlAzOUhseng0WDlKOGZieFRYVDc0VmVlRT0.png",
+          "url": "https://toss.shopping/_m/9em9N3Fz",
+          "_ts": 1793105867.5271099,
+          "_product_id": "389546109"
+        },
         {
           "name": "아침엔과일 청송 시나노골드 사과, 특품, 5kg, 1박스",
           "price": "14,900원",
@@ -2649,16 +2641,6 @@
           "_ts": 1792681336.530886,
           "_flash": true,
           "_product_id": "1267874151"
-        },
-        {
-          "name": "햇반 발아현미밥, 210g, 36개",
-          "price": "38,500원",
-          "discount_rate": 39,
-          "priceAt": "10.22 21:50",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjcwYTM0/QUxhRnBjVDlMVXZGMEs5YVdrSmV3bDZyZXZVcFA2RjFxYi9FWHVHcVZLdFc.png",
-          "url": "https://toss.shopping/_m/pi1L8Wgn",
-          "_ts": 1792673434.918685,
-          "_product_id": "151310555"
         }
       ]
     },
