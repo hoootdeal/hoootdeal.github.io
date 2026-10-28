@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "둥지냉면 비빔냉면 162g, 4개",
+          "price": "4,560원",
+          "discount_rate": 26,
+          "priceAt": "10.29 08:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/480870394163409-600d44cc-5a1a-4ee5-8a33-14c52bdacbc1.jpg",
+          "url": "https://link.coupang.com/a/ieiYOWclQ4",
+          "_ts": 1793228791.649099
+        },
+        {
           "name": "오레오 치즈케이크 (냉동), 210g, 1개",
           "price": "9,580원",
           "discount_rate": 26,
