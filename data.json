@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데웰푸드 쌀로칩 들기름 김맛, 100g, 3개",
+          "price": "5,460원",
+          "discount_rate": 46,
+          "priceAt": "10.28 22:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/43999cc6-4996-4f46-bb67-c836717e8b4b13235872221828471108.png",
+          "url": "https://link.coupang.com/a/idC8cGAJFc",
+          "_ts": 1793193656.578259
+        },
+        {
           "name": "도브 뷰티바 비누 릴랙싱, 90g, 12개입",
           "price": "9,930원",
           "discount_rate": 39,
@@ -1455,15 +1464,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/6b12/5d29cd15303a09c34425fe8c7282d60b771c058cf0f84909ea2cd00d4f2b.jpg",
           "url": "https://link.coupang.com/a/h5kSNjproG",
           "_ts": 1792761879.2305338
-        },
-        {
-          "name": "하인즈 50% 슈가 앤 솔트 토마토 케찹, 435g, 1개, 435g × 1개",
-          "price": "3,080원",
-          "discount_rate": 44,
-          "priceAt": "10.23 22:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/03/06/17/8/e12e9cd1-c3ce-49e3-88af-3283bb1e0eb2.png",
-          "url": "https://link.coupang.com/a/h5j6wd6n6G",
-          "_ts": 1792761230.2607481
         }
       ]
     },
