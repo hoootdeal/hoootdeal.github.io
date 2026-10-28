@@ -1473,6 +1473,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "멈칫 스테이퍼퓸 핸드크림 세트, 밤쉘, 1개",
+          "price": "7,920원",
+          "discount_rate": 75,
+          "priceAt": "10.28 14:54",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/NDc5NTY2/VkxtdVJ1TXpYb25tVHFrMFY0K3hjVzU4VjR1cDBSWXB1SFJUaDE2MHFIUT0.png",
+          "url": "https://toss.shopping/_m/HLyyGB3v",
+          "_ts": 1793166880.76124,
+          "_product_id": "1373837527"
+        },
+        {
           "name": "홍야 직화고기짬뽕 소스, 400g, 10개",
           "price": "32,280원",
           "discount_rate": 34,
