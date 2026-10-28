@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청우제과 두부스틱, 220g, 2개",
+          "price": "4,340원",
+          "discount_rate": 40,
+          "priceAt": "10.28 20:21",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/8429818902689132-c2709e12-92fa-4ccb-891f-3529ee405e62.crdownload",
+          "url": "https://link.coupang.com/a/iduAjLs5yS",
+          "_ts": 1793186480.312462
+        },
+        {
           "name": "종가 본연의 깊은 맛 묵은지, 900g, 1개, 900g × 1개",
           "price": "8,280원",
           "discount_rate": 28,
@@ -1437,24 +1446,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/08/17/2/0d6748ef-e6e0-495a-951c-d2778f4d142f.jpg",
           "url": "https://link.coupang.com/a/h5fVlrB8mq",
           "_ts": 1792757719.545179
-        },
-        {
-          "name": "쿠크다스 화이트 토르테, 289g, 2개",
-          "price": "5,610원",
-          "discount_rate": 25,
-          "priceAt": "10.23 20:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/48099006794162-b2d082f9-77ff-4577-81e1-7aa42091a0cf.jpg",
-          "url": "https://link.coupang.com/a/h5bQHMYtC8",
-          "_ts": 1792754299.282809
-        },
-        {
-          "name": "곰곰 조청 쌀엿, 1.2kg, 1개, 1.2kg × 1개",
-          "price": "3,440원",
-          "discount_rate": 27,
-          "priceAt": "10.23 19:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/121905690995858-2105420a-843d-44d4-a9cc-1dd45a40c462.jpg",
-          "url": "https://link.coupang.com/a/h5akXJhtIG",
-          "_ts": 1792753030.124655
         }
       ]
     },
@@ -2593,16 +2584,6 @@
           "url": "https://toss.shopping/_m/DkwAAQV",
           "_ts": 1792756557.512884,
           "_product_id": "148001577"
-        },
-        {
-          "name": "마운틴앤필드 다크초콜릿아몬드, 20g, 20개",
-          "price": "11,600원",
-          "discount_rate": 35,
-          "priceAt": "10.23 20:19",
-          "image": "https://shopping.toss.im/live/temp/2026-08-24/4deed396-8f66-498c-9755-d0436fef4ce7.jpeg",
-          "url": "https://toss.shopping/_m/1iftcNwi",
-          "_ts": 1792754375.638103,
-          "_product_id": "2651788481"
         }
       ]
     },
