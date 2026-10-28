@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "안데스 민트 파르페 초콜릿, 1개, 132g",
+          "price": "2,980원",
+          "discount_rate": 36,
+          "priceAt": "10.28 15:49",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/07/14/4/72cf51ca-734d-4242-bbf3-f372ba9dc5be.jpg",
+          "url": "https://link.coupang.com/a/idbaXxcPJI",
+          "_ts": 1793170185.03523
+        },
+        {
           "name": "곰곰 콩비지, 1kg, 1개, 1kg × 1개",
           "price": "2,650원",
           "discount_rate": 45,
@@ -2583,16 +2592,6 @@
           "url": "https://toss.shopping/_m/jgHyJeDs",
           "_ts": 1792739017.8337579,
           "_product_id": "2431229129"
-        },
-        {
-          "name": "데코롤 뜯어쓰는 롤행주, 키친데코 20매 + 과일데코 20매, 1세트",
-          "price": "7,650원",
-          "discount_rate": 61,
-          "priceAt": "10.23 15:41",
-          "image": "https://shopping.toss.im/live/temp/2026-07-29/d5834706-0f76-487a-8afb-974e2dc6251a.jpeg",
-          "url": "https://toss.shopping/_m/jSQQX4UD",
-          "_ts": 1792737691.228568,
-          "_product_id": "2383840149"
         }
       ]
     },
