@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스탠리 어드벤처 워터저그, 포멜로, 7.5L, 1개",
+          "price": "36,050원",
+          "discount_rate": 49,
+          "priceAt": "10.28 11:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2364098824757767-6699c280-d6a5-4a5d-8635-0a62c48039b2.jpg",
+          "url": "https://link.coupang.com/a/icQBUdAZCm",
+          "_ts": 1793152915.970279
+        },
+        {
           "name": "매일우유 멸균 딸기, 200ml, 24개, 200ml × 24개",
           "price": "12,160원",
           "discount_rate": 26,
