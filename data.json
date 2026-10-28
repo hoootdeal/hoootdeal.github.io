@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "귤탐 당도선별 11Brix 감귤, 2kg(대과), 1개",
+          "price": "10,900원",
+          "discount_rate": 42,
+          "priceAt": "10.29 07:49",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/beiui3h1/a4fe76a431254ec198f4706a3e06042f.jpg",
+          "url": "https://link.coupang.com/a/iehKBxaxTU",
+          "_ts": 1793227759.5013251
+        },
+        {
           "name": "은하수산 원양산 오징어 슬라이스 (냉동), 1kg, 2개",
           "price": "21,940원",
           "discount_rate": 33,
