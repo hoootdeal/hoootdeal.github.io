@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "르샤트라1802 섬유유연제 클린 코튼 본품, 4L, 1개입, 1개",
+          "price": "10,080원",
+          "discount_rate": 35,
+          "priceAt": "10.28 13:51",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/08/01/11/3/29ad36dc-6ddb-4efa-b9b7-3bac39d28c28.png",
+          "url": "https://link.coupang.com/a/ic2IVuo9V6",
+          "_ts": 1793163087.355686
+        },
+        {
           "name": "풀무원 자연건면 메밀소바, 464g, 4개",
           "price": "6,990원",
           "discount_rate": 29,
@@ -1455,15 +1464,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/26/10/7/3361a11b-7e0b-40e5-aae0-e47b5bbb882b.jpg",
           "url": "https://link.coupang.com/a/h4L07PihVs",
           "_ts": 1792732611.0205948
-        },
-        {
-          "name": "밀크바오밥 베이비 파우더 헤어 트리트먼트, 1L, 1개",
-          "price": "7,320원",
-          "discount_rate": 42,
-          "priceAt": "10.23 13:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1243294923623461-fe66d0bb-7d5a-4241-838f-20b4a48a3770.jpg",
-          "url": "https://link.coupang.com/a/h4Icd9a5DM",
-          "_ts": 1792729401.702315
         }
       ]
     },
@@ -2590,16 +2590,6 @@
           "url": "https://toss.shopping/_m/3ENDQLhB",
           "_ts": 1792734182.365731,
           "_product_id": "12832831"
-        },
-        {
-          "name": "메르헨트 퍼퓸 대용량 바디워시, 호텔 딥 우드, 1L, 3개",
-          "price": "14,360원",
-          "discount_rate": 68,
-          "priceAt": "10.23 13:42",
-          "image": "https://shopping.toss.im/live/temp/2026-06-02/49d2d093-00ce-4455-b01e-b64edd9e70ca.jpeg",
-          "url": "https://toss.shopping/_m/ZJPVe91r",
-          "_ts": 1792730537.320426,
-          "_product_id": "2164122213"
         }
       ]
     },
