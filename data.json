@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 자연건면 메밀소바, 464g, 4개",
+          "price": "6,990원",
+          "discount_rate": 29,
+          "priceAt": "10.28 12:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/afd876d1-60b3-4efc-9884-1a5d5c291fe47570121875900822785.png",
+          "url": "https://link.coupang.com/a/icYMskguLk",
+          "_ts": 1793159776.118175
+        },
+        {
           "name": "이가자연면 투움바 파스타, 179.5g, 3개, 179.5g × 3개",
           "price": "5,330원",
           "discount_rate": 44,
@@ -1455,15 +1464,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1243294923623461-fe66d0bb-7d5a-4241-838f-20b4a48a3770.jpg",
           "url": "https://link.coupang.com/a/h4Icd9a5DM",
           "_ts": 1792729401.702315
-        },
-        {
-          "name": "나우푸드 엽산 800mcg 비타민 B-12 타블렛, 250정, 1개",
-          "price": "7,160원",
-          "discount_rate": 24,
-          "priceAt": "10.23 12:51",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/b73fbc55-6f1e-40ed-9ad9-bd52a79ba220_fixing_v2.png",
-          "url": "https://link.coupang.com/a/h4FVYDFWfY",
-          "_ts": 1792727501.1026518
         }
       ]
     },
