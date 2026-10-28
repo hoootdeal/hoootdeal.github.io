@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "네추럴라이즈 이뮨 알로에 젤리스틱, 280g, 2개, 280g × 2개",
+          "price": "12,830원",
+          "discount_rate": 34,
+          "priceAt": "10.28 18:50",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/634927871673874-1b703cc8-bbeb-434c-a763-862b75bd319c.jpg",
+          "url": "https://link.coupang.com/a/idn4SdKWDR",
+          "_ts": 1793181017.632171
+        },
+        {
           "name": "엘빈즈 바삭바삭 어린이 현미가케 세트, 빨강마을, 노랑마을, 푸른마을, 4세트, 28g",
           "price": "18,000원",
           "discount_rate": 56,
@@ -1446,15 +1455,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/75736681051792-1e631e15-1bf4-4885-b50b-c01e6fa954e8.jpg",
           "url": "https://link.coupang.com/a/h46Azm6a8O",
           "_ts": 1792749880.979702
-        },
-        {
-          "name": "오레오 초콜릿 샌드위치 쿠키 화이트크림, 100g, 4개",
-          "price": "3,520원",
-          "discount_rate": 24,
-          "priceAt": "10.23 18:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/526465160266719-f49c4f6f-bd5d-4da3-bcb1-c83a809a8d50.jpg",
-          "url": "https://link.coupang.com/a/h44ohPxyYm",
-          "_ts": 1792748035.733008
         }
       ]
     },
