@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이가자연면 투움바 파스타, 179.5g, 3개, 179.5g × 3개",
+          "price": "5,330원",
+          "discount_rate": 44,
+          "priceAt": "10.28 12:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/629991928079208-6d82792c-f3a0-4c70-94d5-93d679675c19.jpg",
+          "url": "https://link.coupang.com/a/icUNk3yuwS",
+          "_ts": 1793156429.4611552
+        },
+        {
           "name": "스탠리 어드벤처 워터저그, 포멜로, 7.5L, 1개",
           "price": "36,050원",
           "discount_rate": 49,
@@ -1465,15 +1474,6 @@
           "url": "https://link.coupang.com/a/h4DzhDO3J6",
           "_ts": 1792725516.152724,
           "_product_id": "coupang_a9d1883d"
-        },
-        {
-          "name": "이가자연면 투움바 파스타, 179.5g, 6개",
-          "price": "8,440원",
-          "discount_rate": 23,
-          "priceAt": "10.23 11:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/54086336946569-7b82755f-5a35-4bc1-8961-bb444aa5d6f9.jpg",
-          "url": "https://link.coupang.com/a/h4BRicsars",
-          "_ts": 1792724080.020496
         }
       ]
     },
