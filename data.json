@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하인즈 굿 갈릭 아이올리 마요네즈, 500ml, 2개",
+          "price": "8,980원",
+          "discount_rate": 44,
+          "priceAt": "10.29 08:48",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6528536790663-ef7384cc-c6ff-458b-9742-e73f553fd2f1.jpg",
+          "url": "https://link.coupang.com/a/ielYS38UQm",
+          "_ts": 1793231312.480012
+        },
+        {
           "name": "둥지냉면 비빔냉면 162g, 4개",
           "price": "4,560원",
           "discount_rate": 26,
@@ -1482,15 +1491,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/53149089972153-cbcce14b-3613-4a9c-9a0a-ce4dadf735e8.jpg",
           "url": "https://link.coupang.com/a/h55pIV8UQm",
           "_ts": 1792800951.1454668
-        },
-        {
-          "name": "연세두유 고단백 아몬드 & 잣, 190ml, 16개",
-          "price": "9,170원",
-          "discount_rate": 28,
-          "priceAt": "10.24 08:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/03/09/14/5/03db71e4-8eec-4cb3-925a-9907dc5d69b9.jpg",
-          "url": "https://link.coupang.com/a/h51sMj3pSe",
-          "_ts": 1792797635.6912751
         }
       ]
     },
