@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "2080 소프트 클린 초미세모 칫솔 20개입, 1개",
+          "price": "7,370원",
+          "discount_rate": 44,
+          "priceAt": "10.29 07:21",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/110760806142644-dae581a7-6aee-4996-b648-ff80066c4227.png",
+          "url": "https://link.coupang.com/a/iefMU3qvZI",
+          "_ts": 1793226113.546997
+        },
+        {
           "name": "롯데웰푸드 쌀로칩 들기름 김맛, 100g, 3개",
           "price": "5,460원",
           "discount_rate": 46,
@@ -1446,15 +1455,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/03/09/14/5/03db71e4-8eec-4cb3-925a-9907dc5d69b9.jpg",
           "url": "https://link.coupang.com/a/h51sMj3pSe",
           "_ts": 1792797635.6912751
-        },
-        {
-          "name": "뉴에라 남녀공용 MLB 뉴욕 양키스 베이직 로고 맨투맨 148815, XXL, 블랙",
-          "price": "28,720원",
-          "discount_rate": 64,
-          "priceAt": "10.24 07:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/613186918513083-aa0673fb-5325-4549-9a79-a042e9a21c77.jpg",
-          "url": "https://link.coupang.com/a/h5WYCUoRhY",
-          "_ts": 1792793869.501785
         }
       ]
     },
