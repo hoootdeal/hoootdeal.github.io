@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "종가 본연의 깊은 맛 묵은지, 900g, 1개, 900g × 1개",
+          "price": "8,280원",
+          "discount_rate": 28,
+          "priceAt": "10.28 19:46",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/b334/e2a47eff48fd4294747eab30963bc5350c71d29aab74149d3d43d9069116.jpg",
+          "url": "https://link.coupang.com/a/idr42C7Hye",
+          "_ts": 1793184377.884309
+        },
+        {
           "name": "네추럴라이즈 이뮨 알로에 젤리스틱, 280g, 2개, 280g × 2개",
           "price": "12,830원",
           "discount_rate": 34,
@@ -2594,16 +2603,6 @@
           "url": "https://toss.shopping/_m/1iftcNwi",
           "_ts": 1792754375.638103,
           "_product_id": "2651788481"
-        },
-        {
-          "name": "숨 시그니처 물티슈, 63gsm, 70매, 10팩",
-          "price": "8,490원",
-          "discount_rate": 43,
-          "priceAt": "10.23 19:32",
-          "image": "https://shopping.toss.im/live/taca/ai/ZGFhZTVh/QVB1QlhwdlZ0VmpuUzd3YTV2ODBheFpBcGJsR3EzUXladmY4cTFxb1FkYTU.png",
-          "url": "https://toss.shopping/_m/52g6RlM",
-          "_ts": 1792751544.633541,
-          "_product_id": "1112440899"
         }
       ]
     },
