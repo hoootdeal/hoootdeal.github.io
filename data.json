@@ -1482,6 +1482,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "산지로드 수제 두부과자, 110g, 5개",
+          "price": "7,600원",
+          "discount_rate": 55,
+          "priceAt": "10.29 08:04",
+          "image": "https://shopping.toss.im/live/taca/ai/ODAzOTFj/VmpNaWJJd1Q4YVNiTFZqTFBaRjVsbk42b3VkbmpjczQzNk9LM3dWSHpBbz0.png",
+          "url": "https://toss.shopping/_m/B1g79357",
+          "_ts": 1793228655.537197,
+          "_flash": true,
+          "_product_id": "2528221353"
+        },
+        {
+          "name": "맘스럽 리얼 헹굼식초, 4L, 2개",
+          "price": "5,600원",
+          "discount_rate": 64,
+          "priceAt": "10.29 08:04",
+          "image": "https://shopping.toss.im/3ff/live/product/834251053/3ffd2f2a-0e54-4d6f-92ba-79e259e224c4.jpg",
+          "url": "https://toss.shopping/_m/PJND5rTt",
+          "_ts": 1793228655.537166,
+          "_flash": true,
+          "_product_id": "2620517383"
+        },
+        {
+          "name": "이롬 황성주박사의 무가당 국내산 약콩 두유, 190ml, 16팩, 4박스",
+          "price": "25,730원",
+          "discount_rate": 61,
+          "priceAt": "10.29 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-08-11/c7461f42-fe9e-4705-842c-3fbccba21f80.png",
+          "url": "https://toss.shopping/_m/X21BXxmm",
+          "_ts": 1793228655.537118,
+          "_flash": true,
+          "_product_id": "2601104611"
+        },
+        {
           "name": "팬택 25W 2포트 파스텔 충전기 + 45W 2m C to C 케이블 세트, 바이올렛, 1개",
           "price": "7,770원",
           "discount_rate": 60,
