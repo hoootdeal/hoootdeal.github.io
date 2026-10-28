@@ -1473,6 +1473,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "홍야 직화고기짬뽕 소스, 400g, 10개",
+          "price": "32,280원",
+          "discount_rate": 34,
+          "priceAt": "10.28 12:59",
+          "image": "https://shopping.toss.im/live/temp/2025-09-16/2e2f832b-d079-4262-aa71-78bef0784b56.png",
+          "url": "https://toss.shopping/_m/Nfb6AWjm",
+          "_ts": 1793159970.47019,
+          "_product_id": "200747223"
+        },
+        {
           "name": "페스츄리 바비큐 오징어, 200g, 1개",
           "price": "7,205원",
           "discount_rate": 63,
