@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "일리 클라시코 클래식 로스트 레귤러 원두커피믹스, 1.6g, 70개입, 2개",
+          "price": "33,910원",
+          "discount_rate": 30,
+          "priceAt": "10.28 16:50",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/12099120562955-f3fae404-ab80-4488-97fb-f94a7de6fe02.jpg",
+          "url": "https://link.coupang.com/a/idfvf40BoW",
+          "_ts": 1793173817.377168
+        },
+        {
           "name": "안데스 민트 파르페 초콜릿, 1개, 132g",
           "price": "2,980원",
           "discount_rate": 36,
@@ -1455,15 +1464,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/07/29/18/5/51fe805f-e5fd-4fa0-a8ea-e0ba8662c05e.png",
           "url": "https://link.coupang.com/a/h4XDl8DMHY",
           "_ts": 1792742362.884125
-        },
-        {
-          "name": "청정원 순창 우리쌀로 만든 100% 국산 고추장, 1kg, 1개, 1kg × 1개",
-          "price": "10,290원",
-          "discount_rate": 22,
-          "priceAt": "10.23 16:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2099550543706664-ded0047d-f362-4a96-ab7e-b3a7855bb5d2.jpg",
-          "url": "https://link.coupang.com/a/h4TUaujmdE",
-          "_ts": 1792739231.5965
         }
       ]
     },
@@ -2582,16 +2582,6 @@
           "url": "https://toss.shopping/_m/TdnL69qy",
           "_ts": 1792746162.1227121,
           "_product_id": "2416975769"
-        },
-        {
-          "name": "국내산 세척사과, 2kg, 1박스",
-          "price": "7,900원",
-          "discount_rate": 68,
-          "priceAt": "10.23 16:03",
-          "image": "https://shopping.toss.im/live/temp/2026-08-07/a632e06d-22bc-4d02-a12a-6a532bc5197a.png",
-          "url": "https://toss.shopping/_m/jgHyJeDs",
-          "_ts": 1792739017.8337579,
-          "_product_id": "2431229129"
         }
       ]
     },
