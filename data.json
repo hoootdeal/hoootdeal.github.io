@@ -1464,6 +1464,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "모짜치즈떡, 1kg, 2봉",
+          "price": "10,980원",
+          "discount_rate": 26,
+          "priceAt": "10.28 18:58",
+          "image": "https://shopping.toss.im/live/taca/ai/MGJmZWY1/QUpObUpveUhacUdjY3VlSUZtWU52Z05aUkg2RFdRME9Dd01aUTIveTgyaHc.png",
+          "url": "https://toss.shopping/_m/bepUGU6C",
+          "_ts": 1793181502.71388,
+          "_product_id": "141213459"
+        },
+        {
           "name": "고기중독 소고기 모듬 한판, 200g, 5개",
           "price": "25,280원",
           "discount_rate": 63,
