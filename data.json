@@ -1464,6 +1464,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "닥터방기원 랩 샴푸, 1L, 2개",
+          "price": "15,250원",
+          "discount_rate": 61,
+          "priceAt": "10.28 17:39",
+          "image": "https://shopping.toss.im/live/temp/2026-10-20/6660947d-e7f8-459c-98b2-0a3b8f53a4f9.jpeg",
+          "url": "https://toss.shopping/_m/Jr8fWpHf",
+          "_ts": 1793176768.905018,
+          "_product_id": "1189448281"
+        },
+        {
           "name": "맛꾼 구운란, 대란, 30구, 1개",
           "price": "11,900원",
           "discount_rate": 40,
