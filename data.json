@@ -1446,15 +1446,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/121905690995858-2105420a-843d-44d4-a9cc-1dd45a40c462.jpg",
           "url": "https://link.coupang.com/a/h5akXJhtIG",
           "_ts": 1792753030.124655
-        },
-        {
-          "name": "클룹 애사비소다 화이바 제로 탄산음료, 500ml, 20개",
-          "price": "14,200원",
-          "discount_rate": 42,
-          "priceAt": "10.23 19:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/75736681051792-1e631e15-1bf4-4885-b50b-c01e6fa954e8.jpg",
-          "url": "https://link.coupang.com/a/h46Azm6a8O",
-          "_ts": 1792749880.979702
         }
       ]
     },
@@ -1463,6 +1454,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "애슐리 시그니처 큐브 스테이크 소스포함, 200g, 4팩",
+          "price": "28,690원",
+          "discount_rate": 42,
+          "priceAt": "10.28 19:18",
+          "image": "https://shopping.toss.im/live/taca/ai/MDFjY2Qy/Y2VUMExUeVIyN01EazBaWnprdzVHVG1NempIaXN3SVhaaDk1NmQvZ0RQUT0.png",
+          "url": "https://toss.shopping/_m/vvZ3naH8",
+          "_ts": 1793182711.50264,
+          "_product_id": "105369607"
+        },
         {
           "name": "모짜치즈떡, 1kg, 2봉",
           "price": "10,980원",
