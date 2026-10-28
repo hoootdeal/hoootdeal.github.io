@@ -1464,16 +1464,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/b73fbc55-6f1e-40ed-9ad9-bd52a79ba220_fixing_v2.png",
           "url": "https://link.coupang.com/a/h4FVYDFWfY",
           "_ts": 1792727501.1026518
-        },
-        {
-          "name": "LG전자 4K UHD QNED TV, 189cm(75인치), 75QNED65ABA, 벽걸이형, 방문설치",
-          "price": "1,200,000원",
-          "discount_rate": 26,
-          "priceAt": "10.23 12:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/264886998766209-29617c5e-ac6b-4bfa-847f-d1dca9eeb34d.png",
-          "url": "https://link.coupang.com/a/h4DzhDO3J6",
-          "_ts": 1792725516.152724,
-          "_product_id": "coupang_a9d1883d"
         }
       ]
     },
@@ -1482,6 +1472,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "페스츄리 바비큐 오징어, 200g, 1개",
+          "price": "7,205원",
+          "discount_rate": 63,
+          "priceAt": "10.28 12:21",
+          "image": "https://shopping.toss.im/live/temp/2026-05-29/695974d4-4a3e-48d5-84bf-14c13dbcd099.jpeg",
+          "url": "https://toss.shopping/_m/ndlP03Vy",
+          "_ts": 1793157697.792796,
+          "_product_id": "2139655313"
+        },
         {
           "name": "오토워킹 프로 싱글 자동 만보기, 블랙, 1개",
           "price": "8,000원",
@@ -2590,39 +2590,6 @@
           "url": "https://toss.shopping/_m/ZJPVe91r",
           "_ts": 1792730537.320426,
           "_product_id": "2164122213"
-        },
-        {
-          "name": "불스원 불스파워 엔진코팅제 블랙, 240ml, 2개",
-          "price": "14,960원",
-          "discount_rate": 69,
-          "priceAt": "10.23 12:12",
-          "image": "https://shopping.toss.im/live/taca/ai/NjNlZGJl/TTlIYVNkd1BMYk1qK05Kcy9BZXRvd1A2VW5UOEVhM3JCKzVTZFBnUnJlcz0.png",
-          "url": "https://toss.shopping/_m/HNdZ2Fus",
-          "_ts": 1792725158.633028,
-          "_flash": true,
-          "_product_id": "127540995"
-        },
-        {
-          "name": "마더스홈 매일 빨아쓰는 피그먼트 순면 베개커버, 밴드형, 베이지, 40x60cm, 2개",
-          "price": "8,680원",
-          "discount_rate": 58,
-          "priceAt": "10.23 12:12",
-          "image": "https://shopping.toss.im/live/temp/2026-03-30/9724dd6e-89a2-4d5b-a08e-0c8a2cb9e50f.jpeg",
-          "url": "https://toss.shopping/_m/bFyHdhQu",
-          "_ts": 1792725158.632988,
-          "_flash": true,
-          "_product_id": "2666193373"
-        },
-        {
-          "name": "청년들기름, 350ml, 2개",
-          "price": "15,860원",
-          "discount_rate": 53,
-          "priceAt": "10.23 12:12",
-          "image": "https://shopping.toss.im/live/taca/ai/YjU1NGZj/VldrR1ByVjJjV1c1UmF0MW1rM0dEM1doVXZRUzFrYTJhcmFxaWtXcGxVcz0.png",
-          "url": "https://toss.shopping/_m/dkuvYKqh",
-          "_ts": 1792725158.632942,
-          "_flash": true,
-          "_product_id": "152109947"
         }
       ]
     },
