@@ -1464,6 +1464,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "무설탕 비타민C 캔디, 12가지맛, 1kg, 1개",
+          "price": "11,600원",
+          "discount_rate": 53,
+          "priceAt": "10.29 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-08-18/ebcb6989-5b28-471f-a096-21755dd423bd.png",
+          "url": "https://toss.shopping/_m/DevYvYEp",
+          "_ts": 1793199727.761677,
+          "_flash": true,
+          "_product_id": "2155181513"
+        },
+        {
+          "name": "올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
+          "price": "19,900원",
+          "discount_rate": 60,
+          "priceAt": "10.29 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-03-05/e493168a-4cca-4b16-9c8e-2afc92a09991.jpeg",
+          "url": "https://toss.shopping/_m/PLbOusue",
+          "_ts": 1793199727.761645,
+          "_flash": true,
+          "_product_id": "40594131"
+        },
+        {
+          "name": "올바른 리얼 파인애플 효소 브로멜라인 100, 3g, 30포, 4개",
+          "price": "19,900원",
+          "discount_rate": 75,
+          "priceAt": "10.29 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-07-24/adc21740-9565-4c4c-8a35-a93d8caf94b9.jpeg",
+          "url": "https://toss.shopping/_m/1jwxRvAe",
+          "_ts": 1793199727.761597,
+          "_flash": true,
+          "_product_id": "2535455963"
+        },
+        {
           "name": "사운독스 노이즈 캔슬링 무선 이어폰, Y-07, 화이트, 1개",
           "price": "16,900원",
           "discount_rate": 81,
@@ -2568,39 +2601,6 @@
           "_ts": 1792796597.974727,
           "_flash": true,
           "_product_id": "2122123131"
-        },
-        {
-          "name": "배스킨라빈스 베리베리 스트로베리 우유 190ml, 48개",
-          "price": "18,430원",
-          "discount_rate": 69,
-          "priceAt": "10.24 00:02",
-          "image": "https://shopping.toss.im/live/temp/2026-10-20/75373638-25e8-49a0-aa3f-298f2943b040.png",
-          "url": "https://toss.shopping/_m/F8LjplfC",
-          "_ts": 1792767727.35714,
-          "_flash": true,
-          "_product_id": "2017407985"
-        },
-        {
-          "name": "네이처바이 알로에 에센스 마스크팩, 100개입, 1세트",
-          "price": "15,790원",
-          "discount_rate": 68,
-          "priceAt": "10.24 00:02",
-          "image": "https://shopping.toss.im/live/temp/2026-01-02/387be3ab-6425-4464-8b70-d7431389b44c.jpeg",
-          "url": "https://toss.shopping/_m/LwBk8am8",
-          "_ts": 1792767727.3571,
-          "_flash": true,
-          "_product_id": "525669803"
-        },
-        {
-          "name": "바세린 인텐시브 케어 대용량 바디로션, 1000ml, 1+1 구성, 총 2개",
-          "price": "11,880원",
-          "discount_rate": 60,
-          "priceAt": "10.24 00:02",
-          "image": "https://shopping.toss.im/live/temp/2026-03-11/b2020735-6550-406f-9aa6-804e61c0ab79.jpeg",
-          "url": "https://toss.shopping/_m/rAI6yoNz",
-          "_ts": 1792767727.3570502,
-          "_flash": true,
-          "_product_id": "377435835"
         }
       ]
     },
