@@ -1491,15 +1491,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/08/25/11/1/9032d4a7-596a-4bc7-a189-e2d2bfd0c110.jpg",
           "url": "https://link.coupang.com/a/h6rPHX7pCK",
           "_ts": 1792819776.8178718
-        },
-        {
-          "name": "뻥이요 골드, 35g, 30개",
-          "price": "10,220원",
-          "discount_rate": 37,
-          "priceAt": "10.24 13:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3ad0/bb5a6240f2b83aeceb0fd240910b209cd3e1467dda715bff67e101eb910e.jpg",
-          "url": "https://link.coupang.com/a/h6pqQlzHjM",
-          "_ts": 1792817759.6143732
         }
       ]
     },
@@ -1508,6 +1499,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "홍씨랑 일반미 쌀떡국떡, 1kg, 3개",
+          "price": "8,810원",
+          "discount_rate": 57,
+          "priceAt": "10.29 14:09",
+          "image": "https://shopping.toss.im/live/temp/2026-09-14/80982e90-0995-4885-9ae8-b6c6c43c1066.jpeg",
+          "url": "https://toss.shopping/_m/3krNmRhi",
+          "_ts": 1793250561.1596758,
+          "_product_id": "39181651"
+        },
         {
           "name": "쏘울너츠 100프로 땅콩버터 슈퍼크런치, 500g, 1개",
           "price": "5,330원",
