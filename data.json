@@ -1509,15 +1509,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/de488687-7182-479a-911b-6f18dab7aa65246064712942414060.png",
           "url": "https://link.coupang.com/a/h6K6N0U2Oi",
           "_ts": 1792835960.525114
-        },
-        {
-          "name": "르샤트라1802 인퓨전 초고농축 실내건조 섬유유연제 피오니부케향 리필, 2L, 2개",
-          "price": "10,650원",
-          "discount_rate": 31,
-          "priceAt": "10.24 18:08",
-          "image": "https://image2.coupangcdn.com/image/retail/images/634635959411553-3d0b19cf-3236-4081-95ce-10eb3b12aa37.png",
-          "url": "https://link.coupang.com/a/h6HrYwNAmi",
-          "_ts": 1792832888.512506
         }
       ]
     },
@@ -1526,6 +1517,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "대봉감, 27과 내외, 5kg, 1박스",
+          "price": "11,900원",
+          "discount_rate": 65,
+          "priceAt": "10.29 18:09",
+          "image": "https://shopping.toss.im/live/temp/2026-10-10/0ab43fd9-b193-4925-8425-f649fe8b0f63.jpeg",
+          "url": "https://toss.shopping/_m/vkbkokEo",
+          "_ts": 1793264983.569103,
+          "_product_id": "2677153369"
+        },
         {
           "name": "노르디쿡 IH 무쇠팬 28cm, 1개 + 뒤집개, 1개, 1세트",
           "price": "13,890원",
@@ -2658,16 +2659,6 @@
           "url": "https://toss.shopping/_m/rFDO03li",
           "_ts": 1792838558.038573,
           "_product_id": "167023795"
-        },
-        {
-          "name": "시원밥상 배추김치, 5kg, 1박스",
-          "price": "8,790원",
-          "discount_rate": 48,
-          "priceAt": "10.24 18:01",
-          "image": "https://shopping.toss.im/live/taca/ai/YjFiOTQy/QUpteG05c2hhWW56dGlSU1RzVDh5TnZvbHJrTHZDTlhLd3JVUHFXMVVNM2M.png",
-          "url": "https://toss.shopping/_m/5rNJCL7l",
-          "_ts": 1792832479.451186,
-          "_product_id": "271918131"
         }
       ]
     },
