@@ -1631,7 +1631,7 @@
           "_flash": true,
           "_product_id": "1283793141",
           "sold_out": true,
-          "_sold_at": 1793256544.0
+          "_sold_at": 1793258322.0
         },
         {
           "name": "한우물 햄야채 볶음밥, 210g, 10개",
@@ -1985,7 +1985,9 @@
           "image": "https://shopping.toss.im/live/temp/2026-03-08/c34140cc-2e6f-4e1f-b48e-af9eac2ced63.jpeg",
           "url": "https://toss.shopping/_m/fSYjpeK4",
           "_ts": 1793087159.4445639,
-          "_product_id": "148065759"
+          "_product_id": "148065759",
+          "sold_out": true,
+          "_sold_at": 1793258322.0
         },
         {
           "name": "던킨 미니 글레이즈드, 15g, 10개, 3팩",
@@ -2226,7 +2228,7 @@
           "_ts": 1792998311.6816452,
           "_product_id": "82189401",
           "sold_out": true,
-          "_sold_at": 1793256544.0
+          "_sold_at": 1793258322.0
         },
         {
           "name": "멈칫 섬유향수, 소프트블루솝, 250ml, 2개",
@@ -2322,7 +2324,7 @@
           "_flash": true,
           "_product_id": "142206325",
           "sold_out": true,
-          "_sold_at": 1793256544.0
+          "_sold_at": 1793258322.0
         },
         {
           "name": "동아 얼박사 제로슈거, 355ml, 24개",
