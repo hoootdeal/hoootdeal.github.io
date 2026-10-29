@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "프린스오브피스 프리미엄 보이차 100개입, 180g, 1개",
+          "price": "7,280원",
+          "discount_rate": 35,
+          "priceAt": "10.29 09:41",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/09e2/e4169184ef381530eca711eb3eabad655406cea86b48e32c56e6809f27de.jpeg",
+          "url": "https://link.coupang.com/a/iepJxC0prM",
+          "_ts": 1793234462.7466528
+        },
+        {
           "name": "하인즈 굿 갈릭 아이올리 마요네즈, 500ml, 2개",
           "price": "8,980원",
           "discount_rate": 44,
@@ -1482,15 +1491,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/167763436856815-e3167053-bcb9-4a3f-8de6-44daa73b7036.jpg",
           "url": "https://link.coupang.com/a/h59kmJKnQq",
           "_ts": 1792804243.960035
-        },
-        {
-          "name": "티아시아키친 베트남 쌀국수 소스, 350g, 1개, 350g × 1개",
-          "price": "2,690원",
-          "discount_rate": 38,
-          "priceAt": "10.24 09:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/53149089972153-cbcce14b-3613-4a9c-9a0a-ce4dadf735e8.jpg",
-          "url": "https://link.coupang.com/a/h55pIV8UQm",
-          "_ts": 1792800951.1454668
         }
       ]
     },
