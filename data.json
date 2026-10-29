@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "곡물그대로21 크리스피롤, 900g, 1개",
+          "price": "9,380원",
+          "discount_rate": 25,
+          "priceAt": "10.29 19:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/c794/493898eded0329ba3edbe4a546a5d0ae02cfb1cd4d08f1f27d18d4bf87ea.jpg",
+          "url": "https://link.coupang.com/a/ie4rmWSp7B",
+          "_ts": 1793268640.8650298
+        },
+        {
           "name": "존쿡델리미트 사각 잠봉, 400g, 2개",
           "price": "13,980원",
           "discount_rate": 36,
@@ -1518,15 +1527,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/63204434855642-ca1bb604-536a-460e-94af-5092d18f0770.jpg",
           "url": "https://link.coupang.com/a/h6O1aXvD5w",
           "_ts": 1792839241.422122
-        },
-        {
-          "name": "네이쳐밸리 크런치 로스티드 아몬드 바, 3개, 210g",
-          "price": "7,210원",
-          "discount_rate": 54,
-          "priceAt": "10.24 18:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/de488687-7182-479a-911b-6f18dab7aa65246064712942414060.png",
-          "url": "https://link.coupang.com/a/h6K6N0U2Oi",
-          "_ts": 1792835960.525114
         }
       ]
     },
