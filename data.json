@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "더미식 삼계탕, 900g, 2개, 900g × 2개",
+          "price": "12,000원",
+          "discount_rate": 50,
+          "priceAt": "10.29 20:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4ea6936a-2055-4e09-aadd-26a0f043b6d37036065318822411509.png",
+          "url": "https://link.coupang.com/a/ifaKmrMQmr",
+          "_ts": 1793273937.380794
+        },
+        {
           "name": "닥터린 포사인 콘드로이친 1200 36g, 30정, 1개",
           "price": "9,130원",
           "discount_rate": 59,
