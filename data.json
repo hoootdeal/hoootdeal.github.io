@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "후디스 그릭요거트 달지않은 저지방, 480g, 3개",
+          "price": "16,000원",
+          "discount_rate": 29,
+          "priceAt": "10.29 10:37",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/259165502243201-8bf267ae-68fc-4342-828c-423993629995.jpg",
+          "url": "https://link.coupang.com/a/ietLd2A1rE",
+          "_ts": 1793237844.6069329
+        },
+        {
           "name": "프린스오브피스 프리미엄 보이차 100개입, 180g, 1개",
           "price": "7,280원",
           "discount_rate": 35,
@@ -1473,15 +1482,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2405012734711003-0376b031-efde-4d12-b4a4-6a569a9c3d1d.png",
           "url": "https://link.coupang.com/a/h6eJkalVq8",
           "_ts": 1792808773.1007621
-        },
-        {
-          "name": "풀무원 살아있는 실의힘 꼬마나또 김조림 간장소스, 29.9g, 3개입, 1개",
-          "price": "2,120원",
-          "discount_rate": 35,
-          "priceAt": "10.24 10:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/99168567286869-b7c708a8-6d38-4740-a177-144fce90573a.jpg",
-          "url": "https://link.coupang.com/a/h6aIYUfQfQ",
-          "_ts": 1792805410.805588
         }
       ]
     },
@@ -2630,16 +2630,6 @@
           "url": "https://toss.shopping/_m/dmhoO9tm",
           "_ts": 1792812392.953374,
           "_product_id": "1345867903"
-        },
-        {
-          "name": "베라 4ZERO 팝업 뽑아쓰는 키친타올, 3겹, 100매, 9팩",
-          "price": "6,543원",
-          "discount_rate": 67,
-          "priceAt": "10.24 10:35",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/ODQyMGY2/SXl3OGIza2VYQk9jdzhNRWdPR2g3RXVValp0NmNKeHhad2RlRUdjT1BsND0.png",
-          "url": "https://toss.shopping/_m/dZyzomLf",
-          "_ts": 1792805753.992685,
-          "_product_id": "1052241537"
         }
       ]
     },
