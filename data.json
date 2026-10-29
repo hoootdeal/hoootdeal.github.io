@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "도브 오리지날 롤온 데오드란트, 40ml, 3개",
+          "price": "6,120원",
+          "discount_rate": 33,
+          "priceAt": "10.29 19:43",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/162527781046398-f6de0e20-03bf-4b6b-9b1a-27ee272770f3.jpg",
+          "url": "https://link.coupang.com/a/ie6NY9tK0G",
+          "_ts": 1793270627.382803
+        },
+        {
           "name": "광식이농장 완숙 토마토, 5kg, 1박스",
           "price": "20,350원",
           "discount_rate": 25,
@@ -2676,16 +2685,6 @@
           "url": "https://toss.shopping/_m/BQ2HJFpd",
           "_ts": 1792843171.949274,
           "_product_id": "2654835821"
-        },
-        {
-          "name": "잘말려 단단한 최상급 무안 일반양파, 소, 5kg, 1박스",
-          "price": "6,910원",
-          "discount_rate": 68,
-          "priceAt": "10.24 19:42",
-          "image": "https://shopping.toss.im/live/taca/ai/N2E0YzY0/VXB3SG1YQ3c1eVlQRFRTSnBZV05tWGpKK0hRUFMxZ1lteEtuTkdERDZtRT0.png",
-          "url": "https://toss.shopping/_m/rFDO03li",
-          "_ts": 1792838558.038573,
-          "_product_id": "167023795"
         }
       ]
     },
