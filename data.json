@@ -1482,15 +1482,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/99168567286869-b7c708a8-6d38-4740-a177-144fce90573a.jpg",
           "url": "https://link.coupang.com/a/h6aIYUfQfQ",
           "_ts": 1792805410.805588
-        },
-        {
-          "name": "하림 양푼김치찌개라면 112g, 16개, 16개",
-          "price": "11,420원",
-          "discount_rate": 26,
-          "priceAt": "10.24 10:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/167763436856815-e3167053-bcb9-4a3f-8de6-44daa73b7036.jpg",
-          "url": "https://link.coupang.com/a/h59kmJKnQq",
-          "_ts": 1792804243.960035
         }
       ]
     },
@@ -1499,6 +1490,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "서로윤 제주 세라마이드 판테놀 시카 크림, 100ml, 1개",
+          "price": "5,600원",
+          "discount_rate": 77,
+          "priceAt": "10.29 10:26",
+          "image": "https://shopping.toss.im/live/taca/ai/MDFiODNm/RHk5MFVJZm4vaWhuZy9BQTg3OEgvMk85L3hMdndSOThnL0Q4R250SW84RT0.png",
+          "url": "https://toss.shopping/_m/5DNSAAvn",
+          "_ts": 1793237189.074561,
+          "_product_id": "86073833"
+        },
         {
           "name": "웰루츠 냉동 애플망고, 페루산, 1kg, 3개",
           "price": "12,600원",
@@ -2639,16 +2640,6 @@
           "url": "https://toss.shopping/_m/dZyzomLf",
           "_ts": 1792805753.992685,
           "_product_id": "1052241537"
-        },
-        {
-          "name": "하루견과 The오리지널, 20g, 100봉",
-          "price": "41,920원",
-          "discount_rate": 79,
-          "priceAt": "10.24 10:09",
-          "image": "https://shopping.toss.im/live/temp/2025-06-19/4800bbaf-5c16-46fa-ad7c-dce26078088c.jpeg",
-          "url": "https://toss.shopping/_m/f7n3ESl7",
-          "_ts": 1792804154.376436,
-          "_product_id": "109281497"
         }
       ]
     },
