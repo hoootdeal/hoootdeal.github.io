@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "완숙 토마토, 5kg, 1박스",
+          "price": "20,350원",
+          "discount_rate": 36,
+          "priceAt": "10.29 22:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/naya6gvi/acf02d70f0c84e2a942d944bb3638a46.jpg",
+          "url": "https://link.coupang.com/a/ifhej7ibHU",
+          "_ts": 1793279379.037198
+        },
+        {
           "name": "마이노멀 초코잼, 280g, 1개, 280g × 1개",
           "price": "7,900원",
           "discount_rate": 37,
@@ -1545,15 +1554,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/6b3c/2e004fe2b903804e8cc4ceab9126587ad8b0cae64fe52f31b05e159af868.jpg",
           "url": "https://link.coupang.com/a/h6Y6GYiTqm",
           "_ts": 1792847712.017465
-        },
-        {
-          "name": "우마이봉 파티타임 콘스프맛, 6g, 60개, 6g × 60개",
-          "price": "10,890원",
-          "discount_rate": 28,
-          "priceAt": "10.24 22:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e7d6/4c3d4222d65bffdeb5d29f2a97cff53ee1a76f16e153bff8751bfa963a05.jpg",
-          "url": "https://link.coupang.com/a/h6Yr2XaaZw",
-          "_ts": 1792847161.5874119
         }
       ]
     },
