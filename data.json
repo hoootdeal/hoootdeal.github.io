@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "옐로욜로 카카오칩스, 25g, 3개, 25g × 3개",
+          "price": "6,250원",
+          "discount_rate": 23,
+          "priceAt": "10.30 08:30",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/b230ec17-352b-4e6c-bfc8-fa8f01625b4618149113920209961852.png",
+          "url": "https://link.coupang.com/a/ifZBaTGYvs",
+          "_ts": 1793316633.615527
+        },
+        {
           "name": "에디슨 패티 미니 젓가락, 핑크, 2개",
           "price": "5,280원",
           "discount_rate": 73,
@@ -1545,33 +1554,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e8b8/df026953aafa9a4dc0399615e0afa2ada5b313b1e659277e4c9fe1a0c023.jpg",
           "url": "https://link.coupang.com/a/h7JhasttXo",
           "_ts": 1792886476.9889011
-        },
-        {
-          "name": "남자라면 115g, 4개, 4개",
-          "price": "2,380원",
-          "discount_rate": 40,
-          "priceAt": "10.25 08:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/308506378141098-56578e9b-d9ed-42f8-9cd7-6796e1e222a0.jpg",
-          "url": "https://link.coupang.com/a/h7Ft9xtvrw",
-          "_ts": 1792883293.755392
-        },
-        {
-          "name": "에이지투웨니스 시그니처 래디언스 퍼스트 에센스, 1개, 150ml",
-          "price": "8,300원",
-          "discount_rate": 45,
-          "priceAt": "10.25 07:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1779489879458705-22659fd2-4632-499d-bce1-800ebb24cef8.jpg",
-          "url": "https://link.coupang.com/a/h7DXsdrk8O",
-          "_ts": 1792882011.4076018
-        },
-        {
-          "name": "제이엠 솔루션 콜라겐 피디알엔 퍼밍 토너 패드 100매, 170ml, 1개",
-          "price": "6,740원",
-          "discount_rate": 38,
-          "priceAt": "10.25 07:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/07/17/12/5/b9e23014-a960-4641-8d23-e28f4dd41d8e.jpg",
-          "url": "https://link.coupang.com/a/h7DRWeLZdI",
-          "_ts": 1792881938.071705
         }
       ]
     },
@@ -2625,72 +2607,6 @@
           "url": "https://toss.shopping/_m/ZtiXcc7C",
           "_ts": 1792890869.3038049,
           "_product_id": "129321499"
-        },
-        {
-          "name": "오즈랜드 오트 초코칩쿠키, 480g, 1개",
-          "price": "7,090원",
-          "discount_rate": 58,
-          "priceAt": "10.25 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/OGZkM2Iw/S3huT3hpbkV4NXZTMWxOYVpMUHJqdFR3b1U2dkVHeVJaeFIxS3RNSW5LVT0.png",
-          "url": "https://toss.shopping/_m/DcgV2B21",
-          "_ts": 1792883035.71976,
-          "_flash": true,
-          "_product_id": "128376941"
-        },
-        {
-          "name": "강원도 땅콩이네 감자떡, 1kg, 2개",
-          "price": "10,400원",
-          "discount_rate": 52,
-          "priceAt": "10.25 08:03",
-          "image": "https://shopping.toss.im/live/temp/2026-08-13/3e2fbd62-6061-44f1-a4f0-ffbd6a7ddc49.jpeg",
-          "url": "https://toss.shopping/_m/vrnusELo",
-          "_ts": 1792883035.71973,
-          "_flash": true,
-          "_product_id": "18663111"
-        },
-        {
-          "name": "샐리의법칙 순면이 좋은날 생리대, 대형, 10개입, 5팩",
-          "price": "5,670원",
-          "discount_rate": 58,
-          "priceAt": "10.25 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/OGUyZjA1/Wk9HRmxwdWIrcGx6TVRKaTRoWEpUa2hPTnJTSHRyMVI5WlRMeTNSQlA3WT0.png",
-          "url": "https://toss.shopping/_m/BJWxxKH9",
-          "_ts": 1792883035.719685,
-          "_flash": true,
-          "_product_id": "270591675"
-        },
-        {
-          "name": "배스킨라빈스 멸균우유, 쿠키앤크림, 190ml, 24개",
-          "price": "10,000원",
-          "discount_rate": 65,
-          "priceAt": "10.25 08:03",
-          "image": "https://shopping.toss.im/live/temp/2026-10-20/e82a367b-1845-4c07-98d9-52e855f71aba.png",
-          "url": "https://toss.shopping/_m/pnQU6UWa",
-          "_ts": 1792883008.351,
-          "_flash": true,
-          "_product_id": "86931281"
-        },
-        {
-          "name": "제천빨간오뎅 2개, 390g",
-          "price": "9,740원",
-          "discount_rate": 67,
-          "priceAt": "10.25 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjhjMjlj/VTJMamxqZzBuQzFKb0NqK2xVUlhzN3FtVXBlcWwyRlJvRnhBQjRYNWo3OD0.png",
-          "url": "https://toss.shopping/_m/FRbQfjDf",
-          "_ts": 1792883008.350966,
-          "_flash": true,
-          "_product_id": "157410327"
-        },
-        {
-          "name": "더 진한 육수 멸치맛 65정 + 해물맛 65정, 1세트",
-          "price": "15,070원",
-          "discount_rate": 62,
-          "priceAt": "10.25 08:03",
-          "image": "https://shopping.toss.im/live/temp/2026-03-18/c4d7a6e9-e93e-4034-98c2-dccc84949db9.jpeg",
-          "url": "https://toss.shopping/_m/ftazLymy",
-          "_ts": 1792883008.350917,
-          "_flash": true,
-          "_product_id": "1178952607"
         }
       ]
     },
