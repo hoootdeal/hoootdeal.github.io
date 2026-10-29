@@ -1509,6 +1509,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "슈페리얼 생연어 회, 노르웨이산, 500g, 1개",
+          "price": "19,900원",
+          "discount_rate": 51,
+          "priceAt": "10.29 15:49",
+          "image": "https://shopping.toss.im/live/temp/2025-03-06/c5f4e10f-f581-47e5-80ab-feb6a05db5ec.jpeg",
+          "url": "https://toss.shopping/_m/ZdLescy9",
+          "_ts": 1793256590.1572502,
+          "_product_id": "85302025"
+        },
+        {
           "name": "살림백서 오브제 퍼퓸 바디워시, 화이트머스크, 1L, 2개",
           "price": "9,000원",
           "discount_rate": 77,
