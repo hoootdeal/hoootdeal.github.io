@@ -1500,6 +1500,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "웰루츠 냉동 애플망고, 페루산, 1kg, 3개",
+          "price": "12,600원",
+          "discount_rate": 55,
+          "priceAt": "10.29 10:04",
+          "image": "https://shopping.toss.im/live/taca/ai/YWQ0YTcy/QU0yTW4zbWZrYk14N1pac3lUdHh6WjdzNVdac2JHVTdidXZCa3hQTTBPenc.png",
+          "url": "https://toss.shopping/_m/lYCWs9fi",
+          "_ts": 1793235842.116605,
+          "_product_id": "121011379"
+        },
+        {
           "name": "산지로드 수제 두부과자, 110g, 5개",
           "price": "7,600원",
           "discount_rate": 55,
