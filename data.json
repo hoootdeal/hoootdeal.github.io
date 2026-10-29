@@ -1563,6 +1563,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "해성 알마늘 장아찌, 1kg, 1개",
+          "price": "6,690원",
+          "discount_rate": 58,
+          "priceAt": "10.29 19:53",
+          "image": "https://shopping.toss.im/live/product/49962267/51cbddb8-a906-4ca8-9302-f1a9db4b4bd4.jpg",
+          "url": "https://toss.shopping/_m/BOS2jnZz",
+          "_ts": 1793271184.348372,
+          "_product_id": "154109255"
+        },
+        {
           "name": "대봉감, 27과 내외, 5kg, 1박스",
           "price": "11,900원",
           "discount_rate": 65,
