@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "광식이농장 완숙 토마토, 5kg, 1박스",
+          "price": "20,350원",
+          "discount_rate": 25,
+          "priceAt": "10.29 19:21",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/4e69/4ad57027b548be274e06ddc9f440349b09d20d2e97a61edf68a46073ba4c.jpg",
+          "url": "https://link.coupang.com/a/ie5bnBNlnw",
+          "_ts": 1793269264.425962
+        },
+        {
           "name": "곡물그대로21 크리스피롤, 900g, 1개",
           "price": "9,380원",
           "discount_rate": 25,
