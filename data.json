@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에디슨 패티 미니 젓가락, 핑크, 2개",
+          "price": "5,280원",
+          "discount_rate": 73,
+          "priceAt": "10.30 07:42",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/dd01704e-5e6f-4163-8b97-363eabbaeb0a684700558644824461.png",
+          "url": "https://link.coupang.com/a/ifV8CtD9pJ",
+          "_ts": 1793313726.0660238
+        },
+        {
           "name": "더미식 육즙 고기교자 (냉동), 350g, 10개",
           "price": "14,550원",
           "discount_rate": 65,
@@ -1563,15 +1572,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/07/17/12/5/b9e23014-a960-4641-8d23-e28f4dd41d8e.jpg",
           "url": "https://link.coupang.com/a/h7DRWeLZdI",
           "_ts": 1792881938.071705
-        },
-        {
-          "name": "에이투 고감도 LED 유선 USB 게이밍 마우스, AG0103, 블랙",
-          "price": "9,900원",
-          "discount_rate": 66,
-          "priceAt": "10.25 07:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f1d4/33e373df2ae39efed4176262a1e25cee1438c86d2b2926c7d37e6d01ee25.jpg",
-          "url": "https://link.coupang.com/a/h7BE7ksW4a",
-          "_ts": 1792880083.5129569
         }
       ]
     },
