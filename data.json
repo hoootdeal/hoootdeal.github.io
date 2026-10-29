@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "카레여왕 망고 앤 바나나 달콤한맛, 108g, 4개, 108g × 4개",
+          "price": "9,400원",
+          "discount_rate": 50,
+          "priceAt": "10.29 15:37",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/935239739623459-d6593164-0876-4372-9586-6b3c0bd2a4d7.jpg",
+          "url": "https://link.coupang.com/a/iePcQ0pr6O",
+          "_ts": 1793255849.9872441
+        },
+        {
           "name": "돈시몬 스파클링 레몬에이드 탄산음료, 330ml, 12개",
           "price": "12,870원",
           "discount_rate": 28,
@@ -1491,24 +1500,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4178375662712363-5490a91c-ea43-49d3-979b-323c980361e5.jpg",
           "url": "https://link.coupang.com/a/h6AOqSNLCC",
           "_ts": 1792827313.0086122
-        },
-        {
-          "name": "데체코 올리오 엑스트라 버진 디 올리바 올리브오일, 1L, 2개",
-          "price": "21,180원",
-          "discount_rate": 24,
-          "priceAt": "10.24 15:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f124/5d121c66cfb5c96ce2e5dffe23f478cc2c4c3eabbcf7fdc8feabc36f3143.jpg",
-          "url": "https://link.coupang.com/a/h6wuqSe7EW",
-          "_ts": 1792823684.875985
-        },
-        {
-          "name": "스머커즈 스위트 오렌지 마말레이드, 2개, 510g",
-          "price": "7,270원",
-          "discount_rate": 20,
-          "priceAt": "10.24 15:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/b855c93c-6054-4e85-a9c6-184a2874ec3515514476069586486931.png",
-          "url": "https://link.coupang.com/a/h6v0NlEZSS",
-          "_ts": 1792823285.192949
         }
       ]
     },
@@ -2647,26 +2638,6 @@
           "url": "https://toss.shopping/_m/HMHKpPzj",
           "_ts": 1792827937.1689322,
           "_product_id": "383195203"
-        },
-        {
-          "name": "14Brix 초고당도 제주 감귤, 5kg, 1박스",
-          "price": "9,900원",
-          "discount_rate": 73,
-          "priceAt": "10.24 15:15",
-          "image": "https://shopping.toss.im/live/temp/2026-10-12/76afd3e0-ff97-4698-a7b2-8096cd1cc281.png",
-          "url": "https://toss.shopping/_m/l4ngUImC",
-          "_ts": 1792822551.531904,
-          "_product_id": "2678864329"
-        },
-        {
-          "name": "아이제나흐 스테넬 양면 도마, 260x365mm, 1개",
-          "price": "9,270원",
-          "discount_rate": 76,
-          "priceAt": "10.24 14:55",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/YTVkMTli/QUtsUzhIN1hxdzg4U2w3NFVsK0RwNndHUEh4Qk9VSEhyWVdzSDZHNFVlQmU.png",
-          "url": "https://toss.shopping/_m/rsZHudqc",
-          "_ts": 1792821351.080928,
-          "_product_id": "2240351273"
         }
       ]
     },
