@@ -1563,6 +1563,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "웰쉐프 훈제 닭다리, 180g, 10개",
+          "price": "22,750원",
+          "discount_rate": 51,
+          "priceAt": "10.29 20:59",
+          "image": "https://shopping.toss.im/live/taca/ai/M2ZhOTEy/QU5qTnpPZEtXdGF6alNNSGEwTnB0a3VWeitYSlk1RWVrNW9VMCtIUThmZ2M.png",
+          "url": "https://toss.shopping/_m/jOUS1sZ4",
+          "_ts": 1793275157.45373,
+          "_product_id": "186658661"
+        },
+        {
           "name": "교동 육개장, 500g, 5개",
           "price": "13,280원",
           "discount_rate": 51,
