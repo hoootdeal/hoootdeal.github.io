@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하리보 해피콜라 젤리, 100g, 4개",
+          "price": "3,760원",
+          "discount_rate": 31,
+          "priceAt": "10.29 21:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/428412189778600-697339dd-1f8a-4a5b-885d-78b9e7949662.jpg",
+          "url": "https://link.coupang.com/a/ifciAg2KHc",
+          "_ts": 1793275236.51175
+        },
+        {
           "name": "오리온 오징어 땅콩, 202g, 5개",
           "price": "7,450원",
           "discount_rate": 24,
