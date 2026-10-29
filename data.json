@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "담터 호박팥차, 1.5g, 40개입, 2개",
+          "price": "5,820원",
+          "discount_rate": 36,
+          "priceAt": "10.29 16:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/24540851011342-e38961cf-1114-4394-8fb1-6e30df7446b7.jpg",
+          "url": "https://link.coupang.com/a/ieUF1PtpN6",
+          "_ts": 1793260441.088632
+        },
+        {
           "name": "파스퇴르 쾌변 요구르트 골드키위, 150ml, 4개입, 4개",
           "price": "13,380원",
           "discount_rate": 37,
@@ -2660,16 +2669,6 @@
           "url": "https://toss.shopping/_m/tGBBfWAy",
           "_ts": 1792829295.454475,
           "_product_id": "66560687"
-        },
-        {
-          "name": "고궁 통참깨 참기름, 350ml, 3개",
-          "price": "16,900원",
-          "discount_rate": 62,
-          "priceAt": "10.24 16:45",
-          "image": "https://shopping.toss.im/live/temp/2026-07-10/0fc37972-1722-4e92-b1ba-fe3fa0feb826.png",
-          "url": "https://toss.shopping/_m/HMHKpPzj",
-          "_ts": 1792827937.1689322,
-          "_product_id": "383195203"
         }
       ]
     },
