@@ -1491,15 +1491,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3ad0/bb5a6240f2b83aeceb0fd240910b209cd3e1467dda715bff67e101eb910e.jpg",
           "url": "https://link.coupang.com/a/h6pqQlzHjM",
           "_ts": 1792817759.6143732
-        },
-        {
-          "name": "코멧 포켓형 손난로 핫팩 150g, 60개, 60개",
-          "price": "13,510원",
-          "discount_rate": 55,
-          "priceAt": "10.24 13:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/08e80575-e4a0-4036-9c1c-169409482c1814752779086158692061.png",
-          "url": "https://link.coupang.com/a/h6nfInSe5Y",
-          "_ts": 1792815931.499274
         }
       ]
     },
@@ -1508,6 +1499,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "쏘울너츠 100프로 땅콩버터 슈퍼크런치, 500g, 1개",
+          "price": "5,330원",
+          "discount_rate": 64,
+          "priceAt": "10.29 13:38",
+          "image": "https://shopping.toss.im/live/temp/2026-08-14/36ad27f8-1368-4f79-be66-e882adcc8b47.jpeg",
+          "url": "https://toss.shopping/_m/pGU52QEj",
+          "_ts": 1793248695.57273,
+          "_product_id": "2578047277"
+        },
         {
           "name": "서로윤 제주 세라마이드 판테놀 시카 크림, 100ml, 1개",
           "price": "5,600원",
