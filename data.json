@@ -1500,15 +1500,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3e2c/99c0ca36c27639a2df31307f451dda9ee9c299dcfe2fd40db946d284aae5.png",
           "url": "https://link.coupang.com/a/h6CcyEwIlE",
           "_ts": 1792828480.541533
-        },
-        {
-          "name": "국내산 청경채, 4kg, 1박스, 4kg × 1박스",
-          "price": "11,200원",
-          "discount_rate": 40,
-          "priceAt": "10.24 16:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4178375662712363-5490a91c-ea43-49d3-979b-323c980361e5.jpg",
-          "url": "https://link.coupang.com/a/h6AOqSNLCC",
-          "_ts": 1792827313.0086122
         }
       ]
     },
@@ -1517,6 +1508,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "노르디쿡 IH 무쇠팬 28cm, 1개 + 뒤집개, 1개, 1세트",
+          "price": "13,890원",
+          "discount_rate": 85,
+          "priceAt": "10.29 16:39",
+          "image": "https://shopping.toss.im/live/taca/ai/OWY1YTgy/TmJObUpKaWJjeDdNV2pHYXBDUlpqRll5bUdTYldTWm03WW5KTXpKa3Bsaz0.png",
+          "url": "https://toss.shopping/_m/f4ftCSph",
+          "_ts": 1793259595.334335,
+          "_product_id": "1184228677"
+        },
         {
           "name": "에브리워터 무라벨, 500ml, 40개",
           "price": "7,980원",
