@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "마이디어 미니 냉장고 44L, 블랙, MDRD86FGO30",
+          "price": "64,000원",
+          "discount_rate": 38,
+          "priceAt": "10.29 17:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/321127250626065-79b4f452-971c-4657-b12a-0196eb8a344e.jpg",
+          "url": "https://link.coupang.com/a/ieWbmTQflc",
+          "_ts": 1793261706.979914
+        },
+        {
           "name": "담터 호박팥차, 1.5g, 40개입, 2개",
           "price": "5,820원",
           "discount_rate": 36,
@@ -1500,15 +1509,6 @@
           "image": "https://image2.coupangcdn.com/image/retail/images/634635959411553-3d0b19cf-3236-4081-95ce-10eb3b12aa37.png",
           "url": "https://link.coupang.com/a/h6HrYwNAmi",
           "_ts": 1792832888.512506
-        },
-        {
-          "name": "해태제과 자가비 짭짤한맛, 45g, 2개",
-          "price": "2,000원",
-          "discount_rate": 86,
-          "priceAt": "10.24 16:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3e2c/99c0ca36c27639a2df31307f451dda9ee9c299dcfe2fd40db946d284aae5.png",
-          "url": "https://link.coupang.com/a/h6CcyEwIlE",
-          "_ts": 1792828480.541533
         }
       ]
     },
@@ -2659,16 +2659,6 @@
           "url": "https://toss.shopping/_m/5rNJCL7l",
           "_ts": 1792832479.451186,
           "_product_id": "271918131"
-        },
-        {
-          "name": "외갓집 송탄 서정리 부대찌개 550, 550g, 3개 + 오뚜기 라면사리, 110g, 1개, 1세트",
-          "price": "11,000원",
-          "discount_rate": 59,
-          "priceAt": "10.24 17:08",
-          "image": "https://shopping.toss.im/live/temp/2026-08-12/835247c5-8ec5-414d-ba2e-a2315bc43d06.jpeg",
-          "url": "https://toss.shopping/_m/tGBBfWAy",
-          "_ts": 1792829295.454475,
-          "_product_id": "66560687"
         }
       ]
     },
