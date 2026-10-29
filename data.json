@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "마이노멀 초코잼, 280g, 1개, 280g × 1개",
+          "price": "7,900원",
+          "discount_rate": 37,
+          "priceAt": "10.29 22:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/cjil2bsa/8fd77b2ed6f842a69662a4563be41272.png",
+          "url": "https://link.coupang.com/a/ifgy5lJkse",
+          "_ts": 1793278820.439776
+        },
+        {
           "name": "하리보 해피콜라 젤리, 100g, 4개",
           "price": "3,760원",
           "discount_rate": 31,
@@ -1545,24 +1554,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e7d6/4c3d4222d65bffdeb5d29f2a97cff53ee1a76f16e153bff8751bfa963a05.jpg",
           "url": "https://link.coupang.com/a/h6Yr2XaaZw",
           "_ts": 1792847161.5874119
-        },
-        {
-          "name": "락앤락 비스프리 모듈러 플러스 정사각 밀폐용기 네이비 260ml, 260ml, 4개",
-          "price": "7,030원",
-          "discount_rate": 42,
-          "priceAt": "10.24 21:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/108b/57f0550958ce6be3de93a7763b4076f94e73d5db4f9ac5e1f50ebf8234ee.jpg",
-          "url": "https://link.coupang.com/a/h6Uu6CimFo",
-          "_ts": 1792843844.1206489
-        },
-        {
-          "name": "헬스헬퍼 맥스컷 프로 Cr, 60정, 1개, 60정 × 1개",
-          "price": "14,900원",
-          "discount_rate": 22,
-          "priceAt": "10.24 21:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/09/22/16/2/f52ae54b-c151-409e-8dee-c1ab9efc116d.jpg",
-          "url": "https://link.coupang.com/a/h6UgpeuYuG",
-          "_ts": 1792843644.009883
         }
       ]
     },
@@ -2715,16 +2706,6 @@
           "_ts": 1792854187.242928,
           "_flash": true,
           "_product_id": "193293927"
-        },
-        {
-          "name": "프로프룻 시나노골드, 특품, 난좌포장, 3kg, 1박스",
-          "price": "10,700원",
-          "discount_rate": 80,
-          "priceAt": "10.24 21:44",
-          "image": "https://shopping.toss.im/live/temp/2026-10-06/74d4b59b-2bb4-4efb-aeb3-14ae3e570d38.jpeg",
-          "url": "https://toss.shopping/_m/jxERxfRj",
-          "_ts": 1792845876.6119208,
-          "_product_id": "2672325913"
         }
       ]
     },
