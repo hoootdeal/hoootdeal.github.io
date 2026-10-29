@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "돈시몬 스파클링 레몬에이드 탄산음료, 330ml, 12개",
+          "price": "12,870원",
+          "discount_rate": 28,
+          "priceAt": "10.29 14:39",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/d4af4b2a-6323-4cf7-8053-3a93c2dc1c6e3145753748619356769.png",
+          "url": "https://link.coupang.com/a/ieK3CYElj2",
+          "_ts": 1793252366.8814158
+        },
+        {
           "name": "청정원 직화짬뽕 분말, 96g, 2개",
           "price": "3,800원",
           "discount_rate": 32,
@@ -2656,16 +2665,6 @@
           "url": "https://toss.shopping/_m/rsZHudqc",
           "_ts": 1792821351.080928,
           "_product_id": "2240351273"
-        },
-        {
-          "name": "오즈랜드 우도 땅콩로쉐, 오리지널, 210g, 1개 + 초코, 210g, 1개",
-          "price": "13,280원",
-          "discount_rate": 58,
-          "priceAt": "10.24 14:35",
-          "image": "https://shopping.toss.im/live/temp/2026-05-28/49cfab45-71e2-4aa4-b915-38187c91587c.jpeg",
-          "url": "https://toss.shopping/_m/3P39hJrr",
-          "_ts": 1792820152.920955,
-          "_product_id": "2018712829"
         }
       ]
     },
