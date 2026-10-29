@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쁘띠첼 과일젤리 밀감, 210g, 3개, 210g × 3개",
+          "price": "4,400원",
+          "discount_rate": 39,
+          "priceAt": "10.29 11:37",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/77580012732238-6302c9dc-2ba4-4384-9e06-275a22805748.jpg",
+          "url": "https://link.coupang.com/a/iex2c1yQLs",
+          "_ts": 1793241433.005323
+        },
+        {
           "name": "후디스 그릭요거트 달지않은 저지방, 480g, 3개",
           "price": "16,000원",
           "discount_rate": 29,
@@ -1473,15 +1482,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/180584121265773-41f68a42-ccc2-4c9b-a9a7-09dba0ac2505.jpg",
           "url": "https://link.coupang.com/a/h6iCFBQEai",
           "_ts": 1792812042.4543989
-        },
-        {
-          "name": "뉴트리디데이 프리미엄 멀티비타민 골드, 90정, 1개, 90정 × 1개",
-          "price": "8,920원",
-          "discount_rate": 25,
-          "priceAt": "10.24 11:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2405012734711003-0376b031-efde-4d12-b4a4-6a569a9c3d1d.png",
-          "url": "https://link.coupang.com/a/h6eJkalVq8",
-          "_ts": 1792808773.1007621
         }
       ]
     },
