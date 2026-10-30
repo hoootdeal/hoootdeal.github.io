@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "자연무이 국내산 정성담은 삼계탕 재료, 100g, 2개",
+          "price": "2,000원",
+          "discount_rate": 49,
+          "priceAt": "10.30 09:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/c3870087-7bc0-4663-b1a2-415db9ddb53415687735032691580327.png",
+          "url": "https://link.coupang.com/a/if3bJqMedg",
+          "_ts": 1793319645.995235
+        },
+        {
           "name": "서울우유 뽀로로 칼슘왕 치즈 180g, 18g, 10개입, 2개",
           "price": "4,580원",
           "discount_rate": 47,
@@ -1563,15 +1572,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/c5lgvztf/f8d873e4ca724fba81ff00d7d5dff00e.jpg",
           "url": "https://link.coupang.com/a/h7MMq8yS9k",
           "_ts": 1792889419.166799
-        },
-        {
-          "name": "돌핀 센소프레도 얼려먹는 아이스바, 2.4L, 1개, 2.4L × 1개",
-          "price": "10,800원",
-          "discount_rate": 38,
-          "priceAt": "10.25 09:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e8b8/df026953aafa9a4dc0399615e0afa2ada5b313b1e659277e4c9fe1a0c023.jpg",
-          "url": "https://link.coupang.com/a/h7JhasttXo",
-          "_ts": 1792886476.9889011
         }
       ]
     },
