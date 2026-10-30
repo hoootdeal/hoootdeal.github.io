@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "파스퇴르 저온살균 우유, 900ml, 2개, 900ml × 2개",
+          "price": "4,180원",
+          "discount_rate": 34,
+          "priceAt": "10.30 19:52",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/6e28/829ad99d1f5074357edc6838973bf9d498179bb9a8c8b8447bb20bc12231.jpg",
+          "url": "https://link.coupang.com/a/igMkksGtAi",
+          "_ts": 1793357543.351237
+        },
+        {
           "name": "쉐프엠 젤리블리 제로 오렌지망고, 60g, 20개입, 1박스",
           "price": "8,000원",
           "discount_rate": 46,
@@ -1608,15 +1617,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/212826641855654-141c6096-8cd2-4750-9ff5-ee8cfd2e1856.jpg",
           "url": "https://link.coupang.com/a/h8ykkvV7Pp",
           "_ts": 1792929340.035074
-        },
-        {
-          "name": "차오차이 짜장 마파두부 체험팩 5종 세트, 900g, 1세트",
-          "price": "7,300원",
-          "discount_rate": 28,
-          "priceAt": "10.25 19:49",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/622492261387003-48f0a6ca-20cf-4e28-ab54-e7eefead19b9.jpg",
-          "url": "https://link.coupang.com/a/h8tCxE7waa",
-          "_ts": 1792925389.8628411
         }
       ]
     },
