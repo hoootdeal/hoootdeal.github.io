@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쉐프엠 젤리블리 제로 오렌지망고, 60g, 20개입, 1박스",
+          "price": "8,000원",
+          "discount_rate": 46,
+          "priceAt": "10.30 19:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/52160419612534-3fa39217-b8a4-4288-a899-2f87aff06262.jpg",
+          "url": "https://link.coupang.com/a/igI3nxYREq",
+          "_ts": 1793354796.440476
+        },
+        {
           "name": "다향 1등급 훈제 오리 슬라이스, 600g, 2개",
           "price": "17,440원",
           "discount_rate": 23,
@@ -1608,15 +1617,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/622492261387003-48f0a6ca-20cf-4e28-ab54-e7eefead19b9.jpg",
           "url": "https://link.coupang.com/a/h8tCxE7waa",
           "_ts": 1792925389.8628411
-        },
-        {
-          "name": "미미네 오리지널 국물떡볶이 (밀떡) (냉동), 570g, 4개, 570g × 4개",
-          "price": "11,610원",
-          "discount_rate": 25,
-          "priceAt": "10.25 19:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/269348096652168-f6b945c2-708e-4b5f-b0e9-799e10b5ffc5.jpg",
-          "url": "https://link.coupang.com/a/h8p9HYdjDU",
-          "_ts": 1792922478.755424
         }
       ]
     },
@@ -2570,16 +2570,6 @@
           "url": "https://toss.shopping/_m/xvDjHerB",
           "_ts": 1792927628.831796,
           "_product_id": "109851891"
-        },
-        {
-          "name": "대식가 일키로 부대찌개, 1kg, 3팩",
-          "price": "16,020원",
-          "discount_rate": 57,
-          "priceAt": "10.25 18:57",
-          "image": "https://shopping.toss.im/live/taca/ai/YjgwY2I2/QUxjd3g4WWVXY1k1MG1tSFBOMHRUVDF3QlQ5OXdXYStYeFVNWFB4VUt2bXA.png",
-          "url": "https://toss.shopping/_m/5ITFBNYb",
-          "_ts": 1792922229.1024241,
-          "_product_id": "129892749"
         }
       ]
     },
