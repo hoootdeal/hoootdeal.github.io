@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "비비고 매콤 납작교자 (냉동), 315g, 4개",
+          "price": "10,480원",
+          "discount_rate": 42,
+          "priceAt": "10.30 13:35",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/41427b28-b387-4e06-a951-08d95ed9c9707448840799673269279.png",
+          "url": "https://link.coupang.com/a/igloqC2oOi",
+          "_ts": 1793334932.123225
+        },
+        {
           "name": "바바김밥 돈즙팡 돼지불고기김밥 (냉동), 5개, 240g",
           "price": "8,590원",
           "discount_rate": 49,
@@ -1590,15 +1599,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/09/11/19/6/a8bea46c-de4f-4f59-a6a8-27f8bf32c63c.jpg",
           "url": "https://link.coupang.com/a/h75tnDuuCy",
           "_ts": 1792905113.515108
-        },
-        {
-          "name": "웅진 애사비 오리지널, 500ml, 24개, 500ml × 24개",
-          "price": "12,880원",
-          "discount_rate": 27,
-          "priceAt": "10.25 13:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/07/11/3/6eef9d7e-f9fc-40ea-883b-60ffd2ececdd.jpg",
-          "url": "https://link.coupang.com/a/h72c0UvB3k",
-          "_ts": 1792902371.941667
         }
       ]
     },
