@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "다향 1등급 훈제 오리 슬라이스, 600g, 2개",
+          "price": "17,440원",
+          "discount_rate": 23,
+          "priceAt": "10.30 18:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/464333546592730-c4e77d01-7030-40ac-be46-c91d3ecc63d1.jpg",
+          "url": "https://link.coupang.com/a/igFyXQJkuy",
+          "_ts": 1793351867.291847
+        },
+        {
           "name": "청정원 건강한 올리고당, 1.2kg, 2개, 1.2kg × 2개",
           "price": "4,820원",
           "discount_rate": 33,
@@ -1608,15 +1617,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/269348096652168-f6b945c2-708e-4b5f-b0e9-799e10b5ffc5.jpg",
           "url": "https://link.coupang.com/a/h8p9HYdjDU",
           "_ts": 1792922478.755424
-        },
-        {
-          "name": "국내산 깐쪽파, 200g, 1개, 200g × 1개",
-          "price": "2,380원",
-          "discount_rate": 46,
-          "priceAt": "10.25 17:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4215368233178-d1de6af8-4daf-49ae-a225-d7061754098e.jpg",
-          "url": "https://link.coupang.com/a/h8lLActrhc",
-          "_ts": 1792918793.928726
         }
       ]
     },
@@ -2580,16 +2580,6 @@
           "url": "https://toss.shopping/_m/5ITFBNYb",
           "_ts": 1792922229.1024241,
           "_product_id": "129892749"
-        },
-        {
-          "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
-          "price": "9,600원",
-          "discount_rate": 65,
-          "priceAt": "10.25 18:12",
-          "image": "https://shopping.toss.im/live/temp/2026-07-03/6b083d0c-c74f-467a-9ec8-a46fe748c635.png",
-          "url": "https://toss.shopping/_m/PMmtWFLt",
-          "_ts": 1792919563.110518,
-          "_product_id": "2401832945"
         }
       ]
     },
