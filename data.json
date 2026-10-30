@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청정원 건강한 올리고당, 1.2kg, 2개, 1.2kg × 2개",
+          "price": "4,820원",
+          "discount_rate": 33,
+          "priceAt": "10.30 17:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/321599313007222-9564c239-10c9-413b-936e-ec024314352d.jpg",
+          "url": "https://link.coupang.com/a/igD6DMxuBE",
+          "_ts": 1793350642.760625
+        },
+        {
           "name": "백설 초코칩 쿠키믹스, 290g, 2개",
           "price": "2,980원",
           "discount_rate": 45,
@@ -2581,16 +2590,6 @@
           "url": "https://toss.shopping/_m/PMmtWFLt",
           "_ts": 1792919563.110518,
           "_product_id": "2401832945"
-        },
-        {
-          "name": "라벨영 쇼킹77 솔루션 링클 앰플, 45ml, 2개",
-          "price": "10,900원",
-          "discount_rate": 87,
-          "priceAt": "10.25 17:25",
-          "image": "https://shopping.toss.im/live/temp/2026-04-07/75bae850-99e2-45fe-a2da-2cd5ea3c441c.jpeg",
-          "url": "https://toss.shopping/_m/l7zv9EA9",
-          "_ts": 1792916713.7147079,
-          "_product_id": "133313839"
         }
       ]
     },
