@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바릴라 아라비아타 파스타소스, 400g, 2개",
+          "price": "6,780원",
+          "discount_rate": 37,
+          "priceAt": "10.30 20:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/878322540851390-40e91d84-434a-46ba-97dd-6253e0de2514.jpg",
+          "url": "https://link.coupang.com/a/igNR986lfo",
+          "_ts": 1793358841.658863
+        },
+        {
           "name": "파스퇴르 저온살균 우유, 900ml, 2개, 900ml × 2개",
           "price": "4,180원",
           "discount_rate": 34,
