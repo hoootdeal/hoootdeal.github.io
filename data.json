@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바바김밥 돈즙팡 돼지불고기김밥 (냉동), 5개, 240g",
+          "price": "8,590원",
+          "discount_rate": 49,
+          "priceAt": "10.30 13:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2156444005871120-8b72062d-59e5-49c4-8022-cff1f9cff854.png",
+          "url": "https://link.coupang.com/a/igjCaZ9tO8",
+          "_ts": 1793333437.981189
+        },
+        {
           "name": "미미네 어묵많이 국물떡볶이 (밀떡) (냉동), 570g, 2봉",
           "price": "6,200원",
           "discount_rate": 47,
@@ -1590,15 +1599,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/07/11/3/6eef9d7e-f9fc-40ea-883b-60ffd2ececdd.jpg",
           "url": "https://link.coupang.com/a/h72c0UvB3k",
           "_ts": 1792902371.941667
-        },
-        {
-          "name": "우리차 콘푸레이크 천마차, 18g, 110개입, 1개",
-          "price": "11,500원",
-          "discount_rate": 25,
-          "priceAt": "10.25 12:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/86795193934867-6f4bfc2c-de28-4fb8-9e98-f45434c6bab7.jpg",
-          "url": "https://link.coupang.com/a/h7X1qIhjjg",
-          "_ts": 1792898855.374007
         }
       ]
     },
@@ -2612,26 +2612,6 @@
           "url": "https://toss.shopping/_m/HvdMaXd6",
           "_ts": 1792906237.897805,
           "_product_id": "28807"
-        },
-        {
-          "name": "겉바속촉 만두소 가득 호떡쌀군만두, 2개, 1kg",
-          "price": "11,040원",
-          "discount_rate": 55,
-          "priceAt": "10.25 12:57",
-          "image": "https://shopping.toss.im/live/temp/2025-04-07/a782cc10-94cf-4bfd-87d1-29f7db2350a7.jpeg",
-          "url": "https://toss.shopping/_m/9tB4yAVl",
-          "_ts": 1792900675.319544,
-          "_product_id": "156872533"
-        },
-        {
-          "name": "제주 서귀포 감귤, 특품, 로얄과, 5kg, 1박스",
-          "price": "12,390원",
-          "discount_rate": 78,
-          "priceAt": "10.25 12:30",
-          "image": "https://shopping.toss.im/live/temp/2026-08-31/86a2246c-f034-4d82-b1b7-1fcb60db2dea.png",
-          "url": "https://toss.shopping/_m/h5oF1Qv4",
-          "_ts": 1792899019.048498,
-          "_product_id": "2651298391"
         }
       ]
     },
