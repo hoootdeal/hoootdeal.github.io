@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "세이로 다용도 욕실 수납 정리함, 반투명, 10개",
+          "price": "3,900원",
+          "discount_rate": 51,
+          "priceAt": "10.30 20:51",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/09b3/6f6276487d7456f49b44880667b893543de8dfa4020d1a7061a65dfc2d06.png",
+          "url": "https://link.coupang.com/a/igQxJG0YAT",
+          "_ts": 1793361084.679378
+        },
+        {
           "name": "바릴라 아라비아타 파스타소스, 400g, 2개",
           "price": "6,780원",
           "discount_rate": 37,
@@ -2569,16 +2578,6 @@
           "url": "https://toss.shopping/_m/3WGv2DDs",
           "_ts": 1792930306.677446,
           "_product_id": "2660552649"
-        },
-        {
-          "name": "로메인 청상추, 1kg, 1박스",
-          "price": "6,950원",
-          "discount_rate": 73,
-          "priceAt": "10.25 20:27",
-          "image": "https://shopping.toss.im/live/taca/ai/NWI2ZjM4/QVBRdjFKc21Gb2k1dHBVbytxR3dYU21WbERrbC9nV2NWZzB2S090WVdselM.png",
-          "url": "https://toss.shopping/_m/xvDjHerB",
-          "_ts": 1792927628.831796,
-          "_product_id": "109851891"
         }
       ]
     },
