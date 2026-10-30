@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 갈릭마요 딥핑소스, 240g, 2개",
+          "price": "3,680원",
+          "discount_rate": 41,
+          "priceAt": "10.31 07:41",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/163668140527136-4bfb19e9-70d3-47bf-a63a-15e90cdbbcc0.jpg",
+          "url": "https://link.coupang.com/a/ihAZFNhFbU",
+          "_ts": 1793400083.88701
+        },
+        {
           "name": "오리온 눈을감자 스낵, 96g, 2개",
           "price": "3,850원",
           "discount_rate": 26,
@@ -1545,15 +1554,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5385712788807092-fd5ae554-495c-4c7d-aa3a-29a888063d61.jpg",
           "url": "https://link.coupang.com/a/h9jBiBZwrY",
           "_ts": 1792969033.515396
-        },
-        {
-          "name": "오리온 예감 볶은양파 12p, 204g, 2개",
-          "price": "5,010원",
-          "discount_rate": 29,
-          "priceAt": "10.26 07:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/88fb7e74-6fd9-4dcd-a035-39c4908443d87962089318686415179.png",
-          "url": "https://link.coupang.com/a/h9h5OQyKt3",
-          "_ts": 1792967765.4168031
         }
       ]
     },
