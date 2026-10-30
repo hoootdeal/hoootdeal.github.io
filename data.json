@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "터블 대용량 텀블러 발포 세정제 10p, 80g, 1개, 80g × 1개",
+          "price": "2,460원",
+          "discount_rate": 50,
+          "priceAt": "10.30 16:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/05/06/16/2/718be5a5-cf78-4e69-bb97-fd6851297d77.jpg",
+          "url": "https://link.coupang.com/a/igzULmVZgy",
+          "_ts": 1793347122.925371
+        },
+        {
           "name": "비피 바질 페스토 알라 제노비스, 140g, 1개, 140g × 1개",
           "price": "5,900원",
           "discount_rate": 32,
@@ -1599,15 +1608,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/19/18/2/6cfbee5e-ef26-4e8d-9cde-61ea3f7cd381.jpg",
           "url": "https://link.coupang.com/a/h8h2TtSPzE",
           "_ts": 1792915671.514265
-        },
-        {
-          "name": "아임리얼 100 사과 주스, 140ml, 24개",
-          "price": "11,830원",
-          "discount_rate": 20,
-          "priceAt": "10.25 16:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/201475627837864-8f13885a-409c-4fec-816b-7faba794750a.jpg",
-          "url": "https://link.coupang.com/a/h8eiwUGGQ0",
-          "_ts": 1792912523.33989
         }
       ]
     },
@@ -2591,16 +2591,6 @@
           "url": "https://toss.shopping/_m/l7zv9EA9",
           "_ts": 1792916713.7147079,
           "_product_id": "133313839"
-        },
-        {
-          "name": "명식품 파래김, 100매, 1개",
-          "price": "9,300원",
-          "discount_rate": 53,
-          "priceAt": "10.25 16:52",
-          "image": "https://shopping.toss.im/live/taca/ai/MGNhNWI4/UEF3T1EzaTB0T3hUc2Yyc3cvUDd1YTViTDdPOFR0WHpNT1JlNXVPRTg5dz0.png",
-          "url": "https://toss.shopping/_m/1Yiynuq9",
-          "_ts": 1792914729.923603,
-          "_product_id": "184149191"
         }
       ]
     },
