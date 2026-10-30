@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에스앤비골든 카레 아주 매운맛, 220g, 3개",
+          "price": "7,470원",
+          "discount_rate": 27,
+          "priceAt": "10.30 10:47",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/2f86/41737dbd6b950c09a46dedfc14e5e675b171fe156336f7f850deb4f0b68d.jpg",
+          "url": "https://link.coupang.com/a/if9mhvDRAa",
+          "_ts": 1793324827.238919
+        },
+        {
           "name": "맥스봉 더오리지널, 525g, 2개",
           "price": "8,100원",
           "discount_rate": 30,
@@ -2624,16 +2633,6 @@
           "url": "https://toss.shopping/_m/HPEB1H6q",
           "_ts": 1792894619.964708,
           "_product_id": "1471480165"
-        },
-        {
-          "name": "면의 정석 얼큰 우동 10인분 세트, 우동면 230g 10봉 + 우동소스 30g 10봉, 1세트",
-          "price": "8,900원",
-          "discount_rate": 50,
-          "priceAt": "10.25 10:14",
-          "image": "https://shopping.toss.im/live/taca/ai/MWYzMmE5/STVuNlk0TWpQY3NoSmpQTjJZVm54WTJSa3pmM2dFN1R3MGhERTg4WXJrdz0.png",
-          "url": "https://toss.shopping/_m/ZtiXcc7C",
-          "_ts": 1792890869.3038049,
-          "_product_id": "129321499"
         }
       ]
     },
