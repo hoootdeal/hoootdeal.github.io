@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "프랑코홈 모노 스탠드 휴지통 10L + 봉투 50p, 소프트옐로우",
+          "price": "13,950원",
+          "discount_rate": 38,
+          "priceAt": "10.30 14:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2780975699009061-7db45d1b-534e-4db7-87b7-dc3c91a84b16.jpg",
+          "url": "https://link.coupang.com/a/igoA5Gf8Gy",
+          "_ts": 1793337621.5752478
+        },
+        {
           "name": "비비고 매콤 납작교자 (냉동), 315g, 4개",
           "price": "10,480원",
           "discount_rate": 42,
@@ -1590,15 +1599,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/25/17/3/56a9133a-0ac1-4abc-ac05-ee33bbd9c133.jpg",
           "url": "https://link.coupang.com/a/h79xw04kCq",
           "_ts": 1792908528.636998
-        },
-        {
-          "name": "휴롬 투톤 착즙기, H400, 웜화이트+샌드베이지",
-          "price": "233,100원",
-          "discount_rate": 33,
-          "priceAt": "10.25 14:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/09/11/19/6/a8bea46c-de4f-4f59-a6a8-27f8bf32c63c.jpg",
-          "url": "https://link.coupang.com/a/h75tnDuuCy",
-          "_ts": 1792905113.515108
         }
       ]
     },
