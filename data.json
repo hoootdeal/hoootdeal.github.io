@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "복음자리 바로 짜먹는 딸기잼, 100g, 3개",
+          "price": "3,870원",
+          "discount_rate": 41,
+          "priceAt": "10.30 15:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/126072288661425-e5dcd9cc-0097-4f41-b92e-01a1f40e43cc.jpg",
+          "url": "https://link.coupang.com/a/igsUX5bOkm",
+          "_ts": 1793341250.4996328
+        },
+        {
           "name": "추억의국민학교떡볶이 오리지널 (밀떡) (냉동), 600g, 2개, 600g × 2개",
           "price": "6,800원",
           "discount_rate": 38,
@@ -1599,15 +1608,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/02/07/14/9/8fcf66ab-e68f-498c-9078-a004d3feebaf.jpg",
           "url": "https://link.coupang.com/a/h8dnkIQikK",
           "_ts": 1792911750.126074
-        },
-        {
-          "name": "쿠쿠 인스퓨어 필터 정수기 X3 CPWP-C3801W 고객직접설치 화이트 3.8L, X3 CPWP-C3801W",
-          "price": "15,900원",
-          "discount_rate": 43,
-          "priceAt": "10.25 15:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/25/17/3/56a9133a-0ac1-4abc-ac05-ee33bbd9c133.jpg",
-          "url": "https://link.coupang.com/a/h79xw04kCq",
-          "_ts": 1792908528.636998
         }
       ]
     },
