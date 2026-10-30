@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "맥스봉 더오리지널, 525g, 2개",
+          "price": "8,100원",
+          "discount_rate": 30,
+          "priceAt": "10.30 10:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/542579813573551-5d2a8518-6b45-41c8-9378-3e6a39470570.jpg",
+          "url": "https://link.coupang.com/a/if6Qnph7E4",
+          "_ts": 1793322715.013068
+        },
+        {
           "name": "프로그 라텍스 컴포트 고무장갑, 애쉬블루, 중(M), 6세트",
           "price": "8,160원",
           "discount_rate": 59,
@@ -1572,24 +1581,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/308513359822038-d05e9981-3c5a-45b3-bbd1-55eb16ef51e4.jpg",
           "url": "https://link.coupang.com/a/h7RrMlx76q",
           "_ts": 1792893333.124044
-        },
-        {
-          "name": "리세스 피넛 버터 컵 밀크 초콜릿, 297g, 1개",
-          "price": "10,840원",
-          "discount_rate": 29,
-          "priceAt": "10.25 10:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/d069/31d9c9a53dc7e5ed832be1f7582ef68ff1e957b1b212f1555fddd8374bfd.jpg",
-          "url": "https://link.coupang.com/a/h7Of5XiCgS",
-          "_ts": 1792890657.705513
-        },
-        {
-          "name": "오색바람 감귤 랜덤과, 3kg, 1박스, 3kg × 1박스",
-          "price": "6,990원",
-          "discount_rate": 30,
-          "priceAt": "10.25 09:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/c5lgvztf/f8d873e4ca724fba81ff00d7d5dff00e.jpg",
-          "url": "https://link.coupang.com/a/h7MMq8yS9k",
-          "_ts": 1792889419.166799
         }
       ]
     },
