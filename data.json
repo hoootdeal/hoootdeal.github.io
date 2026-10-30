@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "닥터지 더모이스처 배리어디 인텐스 크림, 100ml, 2개",
+          "price": "19,200원",
+          "discount_rate": 22,
+          "priceAt": "10.30 22:17",
+          "image": "https://image11.coupangcdn.com/image/retail/images/108854910408158-ed4e771c-6ed2-4b40-82be-f6f2284484b1.jpg",
+          "url": "https://link.coupang.com/a/igWIDVjcwC",
+          "_ts": 1793366271.939222
+        },
+        {
           "name": "세이로 다용도 욕실 수납 정리함, 반투명, 10개",
           "price": "3,900원",
           "discount_rate": 51,
@@ -1617,24 +1626,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/96406796046700-a78d0cd9-7294-4d51-a653-ff4041cfe46d.png",
           "url": "https://link.coupang.com/a/h9fLIvSqQK",
           "_ts": 1792965816.462736
-        },
-        {
-          "name": "아삭오이, 5개입, 1개, 5개입 × 1개",
-          "price": "1,990원",
-          "discount_rate": 48,
-          "priceAt": "10.25 21:52",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1175200293095749-20101ce6-6ee1-405d-b490-484a00eec847.jpg",
-          "url": "https://link.coupang.com/a/h8Cqe8YNSm",
-          "_ts": 1792932779.750803
-        },
-        {
-          "name": "HanilMedical 초극세사 패딩솜 엠보 탄소전기요 EPH-201S, 화이트, 더블(150 x 200 cm)",
-          "price": "29,900원",
-          "discount_rate": 35,
-          "priceAt": "10.25 20:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/212826641855654-141c6096-8cd2-4750-9ff5-ee8cfd2e1856.jpg",
-          "url": "https://link.coupang.com/a/h8ykkvV7Pp",
-          "_ts": 1792929340.035074
         }
       ]
     },
@@ -2558,26 +2549,6 @@
           "_ts": 1792940529.283079,
           "_flash": true,
           "_product_id": "143267291"
-        },
-        {
-          "name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
-          "price": "5,450원",
-          "discount_rate": 63,
-          "priceAt": "10.25 22:00",
-          "image": "https://shopping.toss.im/live/taca/ai/YmI1NGJk/QUpobU9jOXRzYlNac25uSVpEbW03Wm1lVTF0TXkweFlNekR6VXNubkhLY00.png",
-          "url": "https://toss.shopping/_m/7cAsXrbr",
-          "_ts": 1792933239.078451,
-          "_product_id": "241796467"
-        },
-        {
-          "name": "코주부 밀가루 없는 3분 어묵탕, 210g, 4팩",
-          "price": "10,000원",
-          "discount_rate": 49,
-          "priceAt": "10.25 21:11",
-          "image": "https://shopping.toss.im/live/temp/2026-09-21/d18ba55a-82a6-4bcf-9be2-36315d8bf096.jpeg",
-          "url": "https://toss.shopping/_m/3WGv2DDs",
-          "_ts": 1792930306.677446,
-          "_product_id": "2660552649"
         }
       ]
     },
