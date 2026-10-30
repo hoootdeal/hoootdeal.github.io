@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "유로푸드 유기농 레몬주스, 1L, 1개, 1L × 1개",
+          "price": "7,920원",
+          "discount_rate": 39,
+          "priceAt": "10.31 08:34",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/c0e0/24af91cf9bb254968cc8e3d9e34ffb6367b8d0353acf51007fd633b9c591.jpg",
+          "url": "https://link.coupang.com/a/ihEMG4NFOm",
+          "_ts": 1793403267.3808498
+        },
+        {
           "name": "사무실 과자세트 스낵 15입 세트 2호 (쵸코하임 + 버터와플 + 참크래커 + 허니버터칩 + 구운감자 2p + 참쌀선과 + 초코홈런볼 + 초코홈런볼4번들 + 고래밥 볶음양념맛 + 쿠크다스 케이크 + 크라운산도 딸기), 11종, 2세트",
           "price": "26,580원",
           "discount_rate": 55,
@@ -1527,42 +1536,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/nvj33ca0/873c5d9d68164b0cab92be4b94441da7.JPG",
           "url": "https://link.coupang.com/a/h9mkk92lZA",
           "_ts": 1792971321.3621938
-        },
-        {
-          "name": "그릭데이 그릭요거트 시그니처, 100g, 3개",
-          "price": "6,610원",
-          "discount_rate": 35,
-          "priceAt": "10.26 08:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/431654984436990-ed796f2e-b32c-4911-ac2b-2dcb863159d1.jpg",
-          "url": "https://link.coupang.com/a/h9k63BHeSa",
-          "_ts": 1792970303.078109
-        },
-        {
-          "name": "남양유업 드빈치 자연방목 체다치즈, 17g, 30개입, 1개",
-          "price": "6,430원",
-          "discount_rate": 35,
-          "priceAt": "10.26 08:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1013986943071870-aded4675-2aa3-46de-9754-8f3e3227c983.jpg",
-          "url": "https://link.coupang.com/a/h9kA8wfKQm",
-          "_ts": 1792969870.095314
-        },
-        {
-          "name": "서울우유치즈 체다 슬라이스 치즈, 18g, 15개입, 2개",
-          "price": "7,180원",
-          "discount_rate": 24,
-          "priceAt": "10.26 08:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/259415041500391-da0fd4b8-7afc-4010-99ef-de388f557b3c.jpg",
-          "url": "https://link.coupang.com/a/h9kpv1cQLc",
-          "_ts": 1792969711.82222
-        },
-        {
-          "name": "오뚜기 뿌셔뿌셔 불고기맛, 275g, 2개",
-          "price": "3,890원",
-          "discount_rate": 24,
-          "priceAt": "10.26 07:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5385712788807092-fd5ae554-495c-4c7d-aa3a-29a888063d61.jpg",
-          "url": "https://link.coupang.com/a/h9jBiBZwrY",
-          "_ts": 1792969033.515396
         }
       ]
     },
@@ -2385,74 +2358,6 @@
           "url": "https://toss.shopping/_m/RctE0rFk",
           "_ts": 1792980157.223443,
           "_product_id": "2664974965"
-        },
-        {
-          "name": "농산물마루 국내산 아삭아삭 신선한 미니오이, 2kg, 1박스",
-          "price": "7,600원",
-          "discount_rate": 69,
-          "priceAt": "10.26 08:03",
-          "image": "https://shopping.toss.im/live/temp/2025-05-17/f659e451-368f-47a4-a380-4eb5aefc4474.png",
-          "url": "https://toss.shopping/_m/fLa34oCi",
-          "_ts": 1792969406.7777238,
-          "_flash": true,
-          "_product_id": "103952747"
-        },
-        {
-          "name": "센토 프라임 바이브 딥클린 듀얼 초미세 탄력모 칫솔, 20개입, 2개",
-          "price": "14,990원",
-          "discount_rate": 71,
-          "priceAt": "10.26 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/MjI4ZjQy/ZWVONjJZNDFjTkN1Z1Y5VStnWHFENEErcUt1cFVLOVVCZEFVSzFRcWQrND0.png",
-          "url": "https://toss.shopping/_m/B7qIEDO",
-          "_ts": 1792969406.777695,
-          "_flash": true,
-          "_product_id": "1339179985"
-        },
-        {
-          "name": "종표 쫄깃 국수, 1.5kg, 1개",
-          "price": "6,140원",
-          "discount_rate": 68,
-          "priceAt": "10.26 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/MGQxMWZk/V3RjZU5tMW0rUFRoejJIMkJhemxpSDZjRmgvQ1BQcTVxOUFKWGxWRFMyaz0.png",
-          "url": "https://toss.shopping/_m/j1fM3ilC",
-          "_ts": 1792969406.7776582,
-          "_flash": true,
-          "_product_id": "438304075"
-        },
-        {
-          "name": "블랑드 와이드 규조토 발매트 세트, 대형+소형, 무지개, 1세트",
-          "price": "8,750원",
-          "discount_rate": 59,
-          "priceAt": "10.26 08:02",
-          "image": "https://shopping.toss.im/live/temp/2026-05-20/da67b7c6-663b-412c-b53b-7264fd61f91d.jpeg",
-          "url": "https://toss.shopping/_m/d7SUCwjc",
-          "_ts": 1792969377.868145,
-          "_flash": true,
-          "_product_id": "142206325",
-          "sold_out": true,
-          "_sold_at": 1793275115.0
-        },
-        {
-          "name": "동아 얼박사 제로슈거, 355ml, 24개",
-          "price": "21,580원",
-          "discount_rate": 60,
-          "priceAt": "10.26 08:02",
-          "image": "https://shopping.toss.im/live/taca/ai/OGE1NmI2/UHZRc0FmTURSc09Idk9lMGF0YVp0OW5Ca3MvZmxYZVlNSDY2MTkyQWRhQT0.png",
-          "url": "https://toss.shopping/_m/bvDXy7Rt",
-          "_ts": 1792969377.868109,
-          "_flash": true,
-          "_product_id": "1257701509"
-        },
-        {
-          "name": "샤오커오라 비타민C 종합사탕, 100g, 5개",
-          "price": "12,060원",
-          "discount_rate": 41,
-          "priceAt": "10.26 08:02",
-          "image": "https://shopping.toss.im/live/taca/ai/NTFiZmE3/RUtRMm5EQ29rY3F6QXhUOEQzQjIrcWJUYUVDV1NZMkVQeVRCL0pHSEpqWT0.png",
-          "url": "https://toss.shopping/_m/reqbePMz",
-          "_ts": 1792969377.868063,
-          "_flash": true,
-          "_product_id": "1964260313"
         }
       ]
     },
