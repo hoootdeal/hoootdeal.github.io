@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "비피 바질 페스토 알라 제노비스, 140g, 1개, 140g × 1개",
+          "price": "5,900원",
+          "discount_rate": 32,
+          "priceAt": "10.30 16:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/podfymeg/6510a7151e05474db0ac3d40d05c8b67.jpg",
+          "url": "https://link.coupang.com/a/igwJWm4mDk",
+          "_ts": 1793344458.8621461
+        },
+        {
           "name": "복음자리 바로 짜먹는 딸기잼, 100g, 3개",
           "price": "3,870원",
           "discount_rate": 41,
@@ -1599,15 +1608,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/201475627837864-8f13885a-409c-4fec-816b-7faba794750a.jpg",
           "url": "https://link.coupang.com/a/h8eiwUGGQ0",
           "_ts": 1792912523.33989
-        },
-        {
-          "name": "하이뮨 프로틴 밸런스 드링크믹스 RTD, 190ml, 24개, 190ml × 24개",
-          "price": "19,700원",
-          "discount_rate": 23,
-          "priceAt": "10.25 16:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/02/07/14/9/8fcf66ab-e68f-498c-9078-a004d3feebaf.jpg",
-          "url": "https://link.coupang.com/a/h8dnkIQikK",
-          "_ts": 1792911750.126074
         }
       ]
     },
@@ -2601,16 +2601,6 @@
           "url": "https://toss.shopping/_m/1Yiynuq9",
           "_ts": 1792914729.923603,
           "_product_id": "184149191"
-        },
-        {
-          "name": "G7 커피 퓨어블랙 라이트, 0.9g, 110개입, 2개",
-          "price": "14,310원",
-          "discount_rate": 71,
-          "priceAt": "10.25 15:32",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MTU1NzAz/U1U1bEppY21rTnZjMnlNa2dTVGt5VXRrQ1pZY2xpSmJ0bHZkQjdKYkFMdz0.png",
-          "url": "https://toss.shopping/_m/RPrQcqBC",
-          "_ts": 1792909943.086549,
-          "_product_id": "2317495193"
         }
       ]
     },
