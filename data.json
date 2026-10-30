@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오리온 눈을감자 스낵, 96g, 2개",
+          "price": "3,850원",
+          "discount_rate": 26,
+          "priceAt": "10.31 07:33",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5ea014a1-b22c-4690-a79b-ba4aad93f5c15833299314328306871.png",
+          "url": "https://link.coupang.com/a/ihAqfeJUpE",
+          "_ts": 1793399604.322794
+        },
+        {
           "name": "닥터지 더모이스처 배리어디 인텐스 크림, 100ml, 2개",
           "price": "19,200원",
           "discount_rate": 22,
@@ -1545,87 +1554,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/88fb7e74-6fd9-4dcd-a035-39c4908443d87962089318686415179.png",
           "url": "https://link.coupang.com/a/h9h5OQyKt3",
           "_ts": 1792967765.4168031
-        },
-        {
-          "name": "청정원 허브맛솔트 마늘&양파, 52g, 2개",
-          "price": "3,300원",
-          "discount_rate": 39,
-          "priceAt": "10.26 07:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/67946672789193-e05dcc73-924b-4a4c-91fa-23589123ee79.jpg",
-          "url": "https://link.coupang.com/a/h9hHf6Oq60",
-          "_ts": 1792967434.144762
-        },
-        {
-          "name": "크라운 빅파이 살구, 324g, 3개",
-          "price": "5,700원",
-          "discount_rate": 53,
-          "priceAt": "10.26 07:24",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/f233c7c4-144e-42db-9bf4-bf92df59d7c38170754921748093162.png",
-          "url": "https://link.coupang.com/a/h9hgkkld5E",
-          "_ts": 1792967069.7382112
-        },
-        {
-          "name": "아침에주스 미니 사과 주스, 100ml, 10개",
-          "price": "4,400원",
-          "discount_rate": 27,
-          "priceAt": "10.26 07:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/950a/ac49cd3650a37dc07e287285c01f694524eda0bf8a640ba6f0b55051f1d6.jpg",
-          "url": "https://link.coupang.com/a/h9g7yxNTEq",
-          "_ts": 1792966951.6805341
-        },
-        {
-          "name": "해태제과 에이스 씬 에스프레소맛, 2개",
-          "price": "4,790원",
-          "discount_rate": 26,
-          "priceAt": "10.26 07:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6582027825194-162aba3b-4cde-4c34-8554-5631f692c72c.jpg",
-          "url": "https://link.coupang.com/a/h9gQdsmlqu",
-          "_ts": 1792966715.156461
-        },
-        {
-          "name": "LUKT 아이슬란딕 요거트 띠크, 450g, 1개",
-          "price": "9,730원",
-          "discount_rate": 30,
-          "priceAt": "10.26 07:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/324888594095084-bde17f75-ce93-4cea-9c1b-311d8cad419b.jpg",
-          "url": "https://link.coupang.com/a/h9gmunB9Bk",
-          "_ts": 1792966312.524224
-        },
-        {
-          "name": "차일드라이프 액상 칼슘 마그네슘 오렌지맛, 473ml, 1개",
-          "price": "21,860원",
-          "discount_rate": 20,
-          "priceAt": "10.26 07:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/712413295656607-f5bb5f63-1b3c-48bc-bb69-dfa7c5d7025b.png",
-          "url": "https://link.coupang.com/a/h9gam8eUnc",
-          "_ts": 1792966149.1593769
-        },
-        {
-          "name": "롯데웰푸드 칸쵸 초코, 54g, 4개, 54g × 4개",
-          "price": "2,570원",
-          "discount_rate": 40,
-          "priceAt": "10.26 07:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/66883706241987-ecae22d1-7628-4b27-92d0-17129ac41519.png",
-          "url": "https://link.coupang.com/a/h9f2tf1qAS",
-          "_ts": 1792966041.0365171
-        },
-        {
-          "name": "창억떡 부드럽고 쫄깃한 호박인절미 (냉동), 500g, 1개입, 1개",
-          "price": "7,130원",
-          "discount_rate": 33,
-          "priceAt": "10.26 07:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1307630783358384-33b2001e-8846-4747-bcd9-7176e0e265f9.jpg",
-          "url": "https://link.coupang.com/a/h9fX4bk6gK",
-          "_ts": 1792965981.494367
-        },
-        {
-          "name": "스탠리 이지 캐리 쿨러 아이스박스, 포멜로, 15.1L",
-          "price": "48,600원",
-          "discount_rate": 41,
-          "priceAt": "10.26 07:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/96406796046700-a78d0cd9-7294-4d51-a653-ff4041cfe46d.png",
-          "url": "https://link.coupang.com/a/h9fLIvSqQK",
-          "_ts": 1792965816.462736
         }
       ]
     },
