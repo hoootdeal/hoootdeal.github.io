@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "머지 더 퍼스트 벨벳 립 틴트, V2잭로즈, 1개",
+          "price": "3,950원",
+          "discount_rate": 44,
+          "priceAt": "10.31 20:41",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/100588707182770-71868772-c60a-4689-bbc8-9bf529f16a45.jpg",
+          "url": "https://link.coupang.com/a/iiuH98OpgW",
+          "_ts": 1793446866.1855419
+        },
+        {
           "name": "데체코 스파게티, 500g, 2개",
           "price": "5,480원",
           "discount_rate": 25,
@@ -1993,16 +2002,6 @@
           "url": "https://toss.shopping/_m/VXeYVMHz",
           "_ts": 1793015932.9893389,
           "_product_id": "78459905"
-        },
-        {
-          "name": "파이토메이드 칼슘&비타민D 두유, 플레인, 190ml, 24개",
-          "price": "7,620원",
-          "discount_rate": 51,
-          "priceAt": "10.26 20:31",
-          "image": "https://shopping.toss.im/live/temp/2025-07-31/579e12f5-553a-40a1-af86-6814f86e8a1b.jpeg",
-          "url": "https://toss.shopping/_m/13jHAbAD",
-          "_ts": 1793014278.517754,
-          "_product_id": "151478773"
         }
       ]
     },
