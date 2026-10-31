@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "사이오스 올레오 프리미엄 새치커버 염모제, 2B누드베이지, 2개",
+          "price": "8,960원",
+          "discount_rate": 39,
+          "priceAt": "10.31 22:03",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/90398412686385-6f296d22-a682-44d5-9ba8-6fbcd8327323.jpg",
+          "url": "https://link.coupang.com/a/iiAy1Cpbr2",
+          "_ts": 1793451780.497685
+        },
+        {
           "name": "이니스프리 블랙티 유스 인핸싱 앰플 3종 세트, 50ml, 1세트",
           "price": "21,660원",
           "discount_rate": 36,
@@ -1275,24 +1284,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/22351878449972-f18d65d8-6cfe-4a9f-85e3-bcefa8f61a36.jpg",
           "url": "https://link.coupang.com/a/iakehihyUu",
           "_ts": 1793021614.679681
-        },
-        {
-          "name": "청우식품 참깨스틱 진, 85g, 4개",
-          "price": "3,660원",
-          "discount_rate": 24,
-          "priceAt": "10.26 21:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/164623046895816-e1d01c14-e4ec-4fec-ac03-519b639829fd.jpg",
-          "url": "https://link.coupang.com/a/iaf1sIUk8G",
-          "_ts": 1793018082.4847438
-        },
-        {
-          "name": "가루비 감자칩 오리지널, 96g, 6개",
-          "price": "10,330원",
-          "discount_rate": 26,
-          "priceAt": "10.26 21:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/97845026974003-1941c113-38fc-4224-b2d1-e97c0f9c6cf4.jpg",
-          "url": "https://link.coupang.com/a/iafKqSTVf2",
-          "_ts": 1793017853.013052
         }
       ]
     },
