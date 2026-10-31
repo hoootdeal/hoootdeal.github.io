@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "백설 핫케익믹스, 500g, 2개",
+          "price": "2,980원",
+          "discount_rate": 50,
+          "priceAt": "10.31 11:51",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/361571089728980-cda1c2f6-b437-47c2-8299-87bd3c4fe279.jpg",
+          "url": "https://link.coupang.com/a/ihSRbFJ8NM",
+          "_ts": 1793415083.276085
+        },
+        {
           "name": "헬스헬퍼 맥스컷 다이어트 핏 3.1 레몬맛, 140g, 1개, 140g × 1개",
           "price": "20,590원",
           "discount_rate": 27,
