@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "보르니에르 홀그레인 머스타드, 210g, 2개",
+          "price": "5,880원",
+          "discount_rate": 49,
+          "priceAt": "10.31 16:03",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/37142157700402-c3e21f6f-9dea-4191-9132-8e52d246158c.jpg",
+          "url": "https://link.coupang.com/a/iiaQWVEjIG",
+          "_ts": 1793430196.378891
+        },
+        {
           "name": "어부심 산지직송 산채로 포장한 생물새우, 1kg(30~40미), 1박스",
           "price": "18,900원",
           "discount_rate": 28,
@@ -1302,33 +1311,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/13/12/1/537f991c-5768-4beb-a9b5-6693eed59fac.jpg",
           "url": "https://link.coupang.com/a/h9VZBtOuCy",
           "_ts": 1793001265.107639
-        },
-        {
-          "name": "경자국밥 돼지국밥 (냉동), 700g, 1개",
-          "price": "5,530원",
-          "discount_rate": 23,
-          "priceAt": "10.26 15:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/17/12/7/4bf4a198-fe68-4375-ade4-26744befc22d.jpg",
-          "url": "https://link.coupang.com/a/h9RUTZSa9k",
-          "_ts": 1792997843.34389
-        },
-        {
-          "name": "한촌 설렁탕집 설렁탕, 500g, 3개",
-          "price": "9,990원",
-          "discount_rate": 20,
-          "priceAt": "10.26 15:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/292864805702596-097c94d1-94b2-4144-a50a-3d290f1e4011.jpg",
-          "url": "https://link.coupang.com/a/h9RIJrjYpU",
-          "_ts": 1792997679.557336
-        },
-        {
-          "name": "룰루맘 리얼이구마, 20g, 10개",
-          "price": "10,640원",
-          "discount_rate": 34,
-          "priceAt": "10.26 15:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7700048194494-4a3d5da9-8235-4076-a619-1b2820ea2175.jpg",
-          "url": "https://link.coupang.com/a/h9QAxEDuiO",
-          "_ts": 1792996728.90833
         }
       ]
     },
