@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "어부심 산지직송 산채로 포장한 생물새우, 1kg(30~40미), 1박스",
+          "price": "18,900원",
+          "discount_rate": 28,
+          "priceAt": "10.31 15:21",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/577698607710702-6c89dbc5-c5e3-4950-92fa-decd2b016682.jpg",
+          "url": "https://link.coupang.com/a/ih7R0GalTU",
+          "_ts": 1793427688.693692
+        },
+        {
           "name": "서울우유치즈 체다 슬라이스 치즈, 18g, 15개입, 4개",
           "price": "10,980원",
           "discount_rate": 42,
@@ -1320,60 +1329,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7700048194494-4a3d5da9-8235-4076-a619-1b2820ea2175.jpg",
           "url": "https://link.coupang.com/a/h9QAxEDuiO",
           "_ts": 1792996728.90833
-        },
-        {
-          "name": "버터와플 이즈니, 316g, 1개",
-          "price": "4,450원",
-          "discount_rate": 36,
-          "priceAt": "10.26 15:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/06/17/0/c5209f2d-f322-44ad-a604-82a51c3ebcdf.jpg",
-          "url": "https://link.coupang.com/a/h9OsZCfQo8",
-          "_ts": 1792994946.445622
-        },
-        {
-          "name": "헤드앤숄더 두피 토탈 솔루션 샴푸 쿨 멘솔, 1.2L, 1개",
-          "price": "9,090원",
-          "discount_rate": 30,
-          "priceAt": "10.26 15:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/583602593894802-45254724-874e-4d28-ba8c-255c7d3ac7f1.jpg",
-          "url": "https://link.coupang.com/a/h9OeHeZI5I",
-          "_ts": 1792994752.512504
-        },
-        {
-          "name": "행복한콩 국산콩 100% 부침찌개 겸용 두부, 300g, 2개",
-          "price": "2,770원",
-          "discount_rate": 36,
-          "priceAt": "10.26 14:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/lhjta8aw/228de445b7754ba885641aef1c32138a.jpg",
-          "url": "https://link.coupang.com/a/h9NN339cDk",
-          "_ts": 1792994393.287619
-        },
-        {
-          "name": "CJ제일제당 국산콩 두부 찌개용, 380g, 1개",
-          "price": "1,370원",
-          "discount_rate": 47,
-          "priceAt": "10.26 14:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/532308184199441-98e5cff0-4935-4cd5-80ef-6256202218ff.jpg",
-          "url": "https://link.coupang.com/a/h9NxlhUiTA",
-          "_ts": 1792994166.009121
-        },
-        {
-          "name": "고래밥 볶음양념맛, 20g, 10개",
-          "price": "2,980원",
-          "discount_rate": 29,
-          "priceAt": "10.26 14:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2526453695198724-f1feb09a-f17d-43eb-a0b2-4dcacfc7e17e.jpg",
-          "url": "https://link.coupang.com/a/h9MIFa8rim",
-          "_ts": 1792993478.6903832
-        },
-        {
-          "name": "생생우동, 253g, 4개",
-          "price": "5,120원",
-          "discount_rate": 32,
-          "priceAt": "10.26 14:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/b9ef/14cbb700f8a3eb9808d38117815bc7bfec9e50a0a87a34be1dab385afad9.jpg",
-          "url": "https://link.coupang.com/a/h9L8md8t7A",
-          "_ts": 1792992987.443879
         }
       ]
     },
@@ -2146,16 +2101,6 @@
           "_product_id": "82189401",
           "sold_out": true,
           "_sold_at": 1793275115.0
-        },
-        {
-          "name": "멈칫 섬유향수, 소프트블루솝, 250ml, 2개",
-          "price": "7,920원",
-          "discount_rate": 80,
-          "priceAt": "10.26 14:33",
-          "image": "https://shopping.toss.im/live/taca/ai/MTFiOTYy/QVBmMEI4VGVqdy9GWGcvMEhJanpDdVBjODV4ai84eXI3MUFVZHp4UkZQMGM.png",
-          "url": "https://toss.shopping/_m/f8cSKPCt",
-          "_ts": 1792992825.9886599,
-          "_product_id": "2132608885"
         }
       ]
     },
