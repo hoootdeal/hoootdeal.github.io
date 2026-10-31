@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크래프트 아보카도 오일 마요네즈, 2개, 354ml",
+          "price": "5,980원",
+          "discount_rate": 35,
+          "priceAt": "10.31 17:53",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/574575430754351-55627ffb-8ceb-47a1-a3e5-87983600f7db.jpg",
+          "url": "https://link.coupang.com/a/iiiInCOIPQ",
+          "_ts": 1793436796.037517
+        },
+        {
           "name": "한우 1등급 숙성등심 구이용 (냉장), 200g, 1개",
           "price": "15,540원",
           "discount_rate": 27,
@@ -1320,15 +1329,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/208167072739082-b6a87aa7-cfc3-4caa-ac73-cf6bce0903b7.png",
           "url": "https://link.coupang.com/a/h90jv6fqto",
           "_ts": 1793004899.747819
-        },
-        {
-          "name": "Apple 펜슬 팁스 MX763FE/A, 화이트, 4개",
-          "price": "7,840원",
-          "discount_rate": 71,
-          "priceAt": "10.26 17:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/12/17/9/4/8ea0e29f-5447-4a77-b052-2992ba837c89.jpg",
-          "url": "https://link.coupang.com/a/h9ZEnR1g72",
-          "_ts": 1793004336.161708
         }
       ]
     },
