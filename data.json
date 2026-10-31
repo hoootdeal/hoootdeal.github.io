@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "다향 훈제오리, 600g, 1개",
+          "price": "8,090원",
+          "discount_rate": 38,
+          "priceAt": "11.01 07:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/42717724895218-dfac3d2c-5bbb-411f-9b0b-ac87a7cf9db1.jpg",
+          "url": "https://link.coupang.com/a/ije3mVLxRY",
+          "_ts": 1793485778.004933
+        },
+        {
           "name": "빼빼로 혼합 10p 세트, 444g, 1세트",
           "price": "10,540원",
           "discount_rate": 30,
@@ -1266,15 +1275,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/09/15/15/8/780aaac3-ddd9-4885-bd3b-ab97ee57ad21.jpg",
           "url": "https://link.coupang.com/a/iaWzaCvrj2",
           "_ts": 1793053803.044128
-        },
-        {
-          "name": "스카치브라이트 실속형 멀티팩 테이프 클리너 리필 7p, 1개",
-          "price": "6,920원",
-          "discount_rate": 39,
-          "priceAt": "10.27 07:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/994793439780933-14d7218f-5081-47aa-a176-11df99bc4d5d.jpg",
-          "url": "https://link.coupang.com/a/iaVvskJDci",
-          "_ts": 1793052913.727468
         }
       ]
     },
