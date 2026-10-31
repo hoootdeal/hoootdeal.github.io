@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바릴라 엔젤헤어 파스타면, 2개, 500g",
+          "price": "4,480원",
+          "discount_rate": 31,
+          "priceAt": "10.31 14:30",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/274132032794699-463091fd-02f9-405a-9e7b-9d8cc02dbec9.jpg",
+          "url": "https://link.coupang.com/a/ih4b2PVMlM",
+          "_ts": 1793424601.9571881
+        },
+        {
           "name": "스탠리 이지 캐리 쿨러 아이스박스, 포멜로, 15.1L",
           "price": "48,600원",
           "discount_rate": 40,
@@ -1356,33 +1365,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/b9ef/14cbb700f8a3eb9808d38117815bc7bfec9e50a0a87a34be1dab385afad9.jpg",
           "url": "https://link.coupang.com/a/h9L8md8t7A",
           "_ts": 1792992987.443879
-        },
-        {
-          "name": "갯마을 남해안 가열조리용 봉지굴 (냉장), 280g, 2봉",
-          "price": "10,720원",
-          "discount_rate": 32,
-          "priceAt": "10.26 14:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3028876537836-aa69ed35-931e-4f98-b8a6-ee9890c42f0c.jpg",
-          "url": "https://link.coupang.com/a/h9JJ4lZtn2",
-          "_ts": 1792990979.755115
-        },
-        {
-          "name": "상하목장 베이비 유기농 요거트, 85g, 4개",
-          "price": "2,350원",
-          "discount_rate": 40,
-          "priceAt": "10.26 13:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/753765817782799-fba3a872-610a-4f28-9dca-b454908b9813.jpg",
-          "url": "https://link.coupang.com/a/h9JpvYq05I",
-          "_ts": 1792990701.16706
-        },
-        {
-          "name": "더미식 장인라면 맵싸한 맛 135g, 8개",
-          "price": "10,470원",
-          "discount_rate": 24,
-          "priceAt": "10.26 13:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/544144022151414-ed82106e-2e47-4d74-a069-b76f33476d53.jpg",
-          "url": "https://link.coupang.com/a/h9JdAb5ggS",
-          "_ts": 1792990540.29494
         }
       ]
     },
