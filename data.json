@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "헬스헬퍼 맥스컷 다이어트 핏 3.1 레몬맛, 140g, 1개, 140g × 1개",
+          "price": "20,590원",
+          "discount_rate": 27,
+          "priceAt": "10.31 11:32",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/11/06/15/9/15a6345c-c4ef-4949-acb2-ab76d9c43133.jpg",
+          "url": "https://link.coupang.com/a/ihRtD2buBU",
+          "_ts": 1793413927.258955
+        },
+        {
           "name": "풀무원 생물만두 (냉동), 300g, 6개",
           "price": "13,880원",
           "discount_rate": 54,
@@ -1392,69 +1401,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/3rdzcwbr/5f09513bf760416b987fc3c8942f1890.jpg",
           "url": "https://link.coupang.com/a/h9BuCpIp5w",
           "_ts": 1792984055.039286
-        },
-        {
-          "name": "대림선 쫄깃 찰순대, 500g, 2개",
-          "price": "5,490원",
-          "discount_rate": 34,
-          "priceAt": "10.26 11:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7660a3cb-f1dc-4ba0-a2af-a1b327da42c53894693500334268255.png",
-          "url": "https://link.coupang.com/a/h9xdgRsxTE",
-          "_ts": 1792980459.942285
-        },
-        {
-          "name": "에스앤비 다진 생 와사비, 43g, 1개",
-          "price": "2,140원",
-          "discount_rate": 42,
-          "priceAt": "10.26 11:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/02/25/14/8/62edc3f7-ad24-4d7d-b1ab-d5b1954c4d74.jpg",
-          "url": "https://link.coupang.com/a/h9w0wpOCxo",
-          "_ts": 1792980298.480892
-        },
-        {
-          "name": "이디야 스페셜 에디션 원두커피스틱, 1g, 150개입, 1개",
-          "price": "14,970원",
-          "discount_rate": 24,
-          "priceAt": "10.26 11:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/424727854967139-5566ab84-e510-4e9c-9ddd-2b9356ebe6d8.png",
-          "url": "https://link.coupang.com/a/h9wZ1ibuiP",
-          "_ts": 1792980279.551135
-        },
-        {
-          "name": "차오차이 짜장 혼합 5종 x 2p 세트, 180g, 1세트",
-          "price": "10,860원",
-          "discount_rate": 30,
-          "priceAt": "10.26 11:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/622973407518814-2e211b9f-f34a-453d-9245-27fe4dcd42e2.jpg",
-          "url": "https://link.coupang.com/a/h9wN4ZtsEC",
-          "_ts": 1792980119.281194
-        },
-        {
-          "name": "신라명과 달보드레카스테라 5개입, 180g, 1박스",
-          "price": "4,160원",
-          "discount_rate": 35,
-          "priceAt": "10.26 11:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/135588791940444-7ce0ccc0-f442-43f7-8c0c-7053e64e053e.jpg",
-          "url": "https://link.coupang.com/a/h9wGQoUdSC",
-          "_ts": 1792980020.557396
-        },
-        {
-          "name": "오리온초코파이 정, 468g, 1개",
-          "price": "2,520원",
-          "discount_rate": 37,
-          "priceAt": "10.26 10:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2496170397976-7eadff6e-0f55-4120-a67b-09d9f7756b31.jpg",
-          "url": "https://link.coupang.com/a/h9wvr0G2Gi",
-          "_ts": 1792979866.7577431
-        },
-        {
-          "name": "해태에이스 바스크치즈케이크맛, 364g, 2개",
-          "price": "5,550원",
-          "discount_rate": 20,
-          "priceAt": "10.26 10:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/850dcecc-97d6-46dc-89fe-f139fa397e433299424228583482725.png",
-          "url": "https://link.coupang.com/a/h9vBghqnjU",
-          "_ts": 1792979105.559746
         }
       ]
     },
@@ -2267,16 +2213,6 @@
           "url": "https://toss.shopping/_m/fOEc53ox",
           "_ts": 1792983520.1999779,
           "_product_id": "174867349"
-        },
-        {
-          "name": "신대장 국물 떡볶이, 230g, 4팩",
-          "price": "7,200원",
-          "discount_rate": 54,
-          "priceAt": "10.26 11:02",
-          "image": "https://shopping.toss.im/live/temp/2026-09-28/6dcdf9ab-bbd9-4c7b-b340-065fde60cccf.png",
-          "url": "https://toss.shopping/_m/RctE0rFk",
-          "_ts": 1792980157.223443,
-          "_product_id": "2664974965"
         }
       ]
     },
