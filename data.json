@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원녹즙 저당 서리태 비오틴 콩즙두유, 140ml, 24개, 140ml × 24개",
+          "price": "11,820원",
+          "discount_rate": 37,
+          "priceAt": "10.31 19:49",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/99257193116089-353f7446-394d-4d63-95a2-e0d7d6fad671.jpg",
+          "url": "https://link.coupang.com/a/iiq14yA2a4",
+          "_ts": 1793443776.148312
+        },
+        {
           "name": "쉐프엠 젤리블리 애플망고, 60g, 20개입, 1박스",
           "price": "8,000원",
           "discount_rate": 42,
@@ -1284,24 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ced6/648f608fa834c4a24cb79c2f2d0f00793ffc6da6db4fbc7614f760764ca3.jpg",
           "url": "https://link.coupang.com/a/h99KktcbgO",
           "_ts": 1793012813.646222
-        },
-        {
-          "name": "종가 오래오래 맛있는 열무김치, 900g, 1개",
-          "price": "6,800원",
-          "discount_rate": 38,
-          "priceAt": "10.26 19:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/42648698125558-8332a65d-6112-4e5b-af64-1e5919797a37.jpg",
-          "url": "https://link.coupang.com/a/h979LvMIDY",
-          "_ts": 1793011479.462156
-        },
-        {
-          "name": "꼬깔콘 군옥수수맛, 67g, 3개",
-          "price": "2,350원",
-          "discount_rate": 37,
-          "priceAt": "10.26 19:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/527068797679687-d1a7abc1-a047-477e-8e95-2f9b6cee75d2.png",
-          "url": "https://link.coupang.com/a/h95G01K0Lk",
-          "_ts": 1793009411.872443
         }
       ]
     },
@@ -2012,16 +2003,6 @@
           "url": "https://toss.shopping/_m/13jHAbAD",
           "_ts": 1793014278.517754,
           "_product_id": "151478773"
-        },
-        {
-          "name": "양반 백합미역국, 460g, 5개",
-          "price": "10,660원",
-          "discount_rate": 53,
-          "priceAt": "10.26 19:43",
-          "image": "https://shopping.toss.im/live/temp/2026-05-27/87b1903e-4d23-4fbd-b48d-478872b07fec.jpeg",
-          "url": "https://toss.shopping/_m/RAJ1GOt9",
-          "_ts": 1793011410.31136,
-          "_product_id": "12210749"
         }
       ]
     },
