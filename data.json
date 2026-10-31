@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "덴마크 소화가 잘되는 우유 락토프리, 190ml, 24개, 190ml × 24개",
+          "price": "12,980원",
+          "discount_rate": 28,
+          "priceAt": "10.31 12:50",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/6329/4bbc252340a52fd807cccc589168f40863d7056fc5c0f96461a1c8eb524b.jpg",
+          "url": "https://link.coupang.com/a/ihW5xjqqfA",
+          "_ts": 1793418638.7236748
+        },
+        {
           "name": "존쿡델리미트 클래식 이탈리안 살라미, 200g, 2개",
           "price": "9,980원",
           "discount_rate": 47,
@@ -1383,33 +1392,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4745688368474-f42880db-d2d8-4134-9119-554c444dd912.png",
           "url": "https://link.coupang.com/a/h9FkVXssLI",
           "_ts": 1792987282.272473
-        },
-        {
-          "name": "다르다팝콘 씨네마 카라멜맛 팝콘, 280g, 1개, 280g × 1개",
-          "price": "2,700원",
-          "discount_rate": 46,
-          "priceAt": "10.26 12:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/191530782732858-6e6f448f-11f4-4a47-b21a-f2fbbb33569f.jpg",
-          "url": "https://link.coupang.com/a/h9CC86EpgG",
-          "_ts": 1792985009.1255412
-        },
-        {
-          "name": "만전김 김스깡, 60g, 5개",
-          "price": "5,520원",
-          "discount_rate": 44,
-          "priceAt": "10.26 12:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/32yxivez/39de3d2899354dceaa216d7cc50ca0ab.jpg",
-          "url": "https://link.coupang.com/a/h9BFneR9ci",
-          "_ts": 1792984198.775666
-        },
-        {
-          "name": "프로그 일회용 수세미 엑스트라 스트롱, 그레이, 60개입, 1개",
-          "price": "2,650원",
-          "discount_rate": 34,
-          "priceAt": "10.26 12:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/189216264053230-c4abed2b-84fc-4874-88c0-4b993d073036.jpg",
-          "url": "https://link.coupang.com/a/h9BxCph7JI",
-          "_ts": 1792984099.893047
         }
       ]
     },
@@ -2202,16 +2184,6 @@
           "url": "https://toss.shopping/_m/Bed5pIsn",
           "_ts": 1792988166.529268,
           "_product_id": "1534198899"
-        },
-        {
-          "name": "가람상점 낱발바나나, 6kg, 1개",
-          "price": "11,600원",
-          "discount_rate": 41,
-          "priceAt": "10.26 12:18",
-          "image": "https://shopping.toss.im/live/taca/ai/OTEyN2E5/SW5sOGZJSERzUHdlbFAvSlJMZHZreHd1OWdzWHdIVGVMQmowZWZGNGc2WT0.png",
-          "url": "https://toss.shopping/_m/hDOzoAPk",
-          "_ts": 1792984701.782027,
-          "_product_id": "2166633935"
         }
       ]
     },
