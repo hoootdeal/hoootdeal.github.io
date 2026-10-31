@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쁘띠첼 포도 과일젤리, 210g, 3개",
+          "price": "3,270원",
+          "discount_rate": 55,
+          "priceAt": "10.31 18:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/70729600845342-11bf0c98-2023-4e19-8451-35bb54956524.jpg",
+          "url": "https://link.coupang.com/a/iij6JwQUxg",
+          "_ts": 1793437964.489969
+        },
+        {
           "name": "크래프트 아보카도 오일 마요네즈, 2개, 354ml",
           "price": "5,980원",
           "discount_rate": 35,
@@ -1320,15 +1329,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/259123202019659-69e60d9d-ee5e-4a86-8254-9b2c761c703b.jpg",
           "url": "https://link.coupang.com/a/h91NjVvon6",
           "_ts": 1793006138.311966
-        },
-        {
-          "name": "츄파춥스 미니 막대사탕, 300g, 1개",
-          "price": "2,980원",
-          "discount_rate": 39,
-          "priceAt": "10.26 17:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/208167072739082-b6a87aa7-cfc3-4caa-ac73-cf6bce0903b7.png",
-          "url": "https://link.coupang.com/a/h90jv6fqto",
-          "_ts": 1793004899.747819
         }
       ]
     },
@@ -2069,16 +2069,6 @@
           "url": "https://toss.shopping/_m/JRYNiR6A",
           "_ts": 1793006290.047498,
           "_product_id": "166932843"
-        },
-        {
-          "name": "셰프초이스 육즙가득 도톰도톰 떡갈비, 2kg, 1개",
-          "price": "15,900원",
-          "discount_rate": 38,
-          "priceAt": "10.26 17:54",
-          "image": "https://shopping.toss.im/live/temp/2026-06-23/f38ffe28-178e-40c9-aae9-4f118e14eb6c.png",
-          "url": "https://toss.shopping/_m/DH6EmYpn",
-          "_ts": 1793004883.102313,
-          "_product_id": "2551902583"
         }
       ]
     },
