@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이니스프리 블랙티 유스 인핸싱 앰플 3종 세트, 50ml, 1세트",
+          "price": "21,660원",
+          "discount_rate": 36,
+          "priceAt": "10.31 21:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/321296903861218-4d7d9c85-f888-4a03-bc52-e5ffb3b71ba9.jpg",
+          "url": "https://link.coupang.com/a/iixXuzP44i",
+          "_ts": 1793449592.3015501
+        },
+        {
           "name": "머지 더 퍼스트 벨벳 립 틴트, V2잭로즈, 1개",
           "price": "3,950원",
           "discount_rate": 44,
@@ -1284,24 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/97845026974003-1941c113-38fc-4224-b2d1-e97c0f9c6cf4.jpg",
           "url": "https://link.coupang.com/a/iafKqSTVf2",
           "_ts": 1793017853.013052
-        },
-        {
-          "name": "어퓨 과즙팡 젤리 틴트, 05 스트로베리젤리, 3.5g, 1개",
-          "price": "2,920원",
-          "discount_rate": 51,
-          "priceAt": "10.26 21:24",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/03/10/9/5/3244bd49-5c1d-420e-b0be-cdaf73f9ce0b.jpg",
-          "url": "https://link.coupang.com/a/iafi3eJUce",
-          "_ts": 1793017484.0603242
-        },
-        {
-          "name": "로아커 웨하스 미니스 믹스, 150g, 1개",
-          "price": "4,320원",
-          "discount_rate": 31,
-          "priceAt": "10.26 20:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/10/31/10/7/5d5483dd-4928-4958-8345-d804de63fdc9.jpg",
-          "url": "https://link.coupang.com/a/iac9061KSq",
-          "_ts": 1793015679.4700758
         }
       ]
     },
@@ -1992,16 +1983,6 @@
           "_ts": 1793026919.764671,
           "_flash": true,
           "_product_id": "70947"
-        },
-        {
-          "name": "쥬르본 종합 모나카, 550g, 1박스",
-          "price": "7,440원",
-          "discount_rate": 58,
-          "priceAt": "10.26 20:58",
-          "image": "https://shopping.toss.im/live/taca/ai/ZmQ5MTA2/UjdTL1cxc25sSWw0dVVTNU9zYlNNZmpac2FIbGNxVkwyVEJzMjVzWjA3UT0.png",
-          "url": "https://toss.shopping/_m/VXeYVMHz",
-          "_ts": 1793015932.9893389,
-          "_product_id": "78459905"
         }
       ]
     },
