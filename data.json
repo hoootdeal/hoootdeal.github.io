@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 생물만두 (냉동), 300g, 6개",
+          "price": "13,880원",
+          "discount_rate": 54,
+          "priceAt": "10.31 10:42",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/35209298-9f9b-4d27-87c7-1c64fa50b7741811644764034092608.png",
+          "url": "https://link.coupang.com/a/ihNVSPVYfQ",
+          "_ts": 1793410950.5440252
+        },
+        {
           "name": "끼리 딥앤크런치 플레인 가공치즈 + 과자, 35g, 4개입, 1개",
           "price": "4,460원",
           "discount_rate": 34,
@@ -1446,15 +1455,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/850dcecc-97d6-46dc-89fe-f139fa397e433299424228583482725.png",
           "url": "https://link.coupang.com/a/h9vBghqnjU",
           "_ts": 1792979105.559746
-        },
-        {
-          "name": "코코도르 우드볼 차량용 디퓨저 50ml 2개입, 블랙체리, 1개",
-          "price": "4,790원",
-          "discount_rate": 34,
-          "priceAt": "10.26 10:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/fb34/b3e0449f1ad41206b150211ed1e687b2c34364b42df77be879a87bd5acb8.jpg",
-          "url": "https://link.coupang.com/a/h9vpsUxqRU",
-          "_ts": 1792978945.387614
         }
       ]
     },
