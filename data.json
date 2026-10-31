@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "탄씨엔쯔 탄스트라이더 옥스포드 원단 스틸 튜브 캠핑 암체어+보관가방, 베이지, 1개, 소",
+          "price": "4,990원",
+          "discount_rate": 73,
+          "priceAt": "11.01 08:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/c1ab/fa8b2de010ef6e2a608169eff04431c5fa4737d51275e6b10859bcaa5810.jpg",
+          "url": "https://link.coupang.com/a/ijit0D9woC",
+          "_ts": 1793488656.58234
+        },
+        {
           "name": "산가리아 멜론 소다 음료, 500ml, 12개",
           "price": "20,160원",
           "discount_rate": 24,
@@ -1257,24 +1266,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/332905734726133-73af6fb7-258e-4524-bd2f-aa7bb1b27696.jpg",
           "url": "https://link.coupang.com/a/ia087p5MNU",
           "_ts": 1793057648.420825
-        },
-        {
-          "name": "바겐슈타이거 킬른 통3중 스텐 미니화로 + 연로 세트, 170mm, 1세트",
-          "price": "20,900원",
-          "discount_rate": 33,
-          "priceAt": "10.27 07:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/346094926921023-bc83089b-9ad1-451a-8105-d93273198eb0.png",
-          "url": "https://link.coupang.com/a/iaYptNsjtc",
-          "_ts": 1793055352.238246
-        },
-        {
-          "name": "네이쳐스웨이 삼부커스 구미, 60정, 3개",
-          "price": "43,900원",
-          "discount_rate": 30,
-          "priceAt": "10.27 07:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e852/4abbac30474bae6ad0b09417691e2d40f3d70e1477cb897e9586296762ba.png",
-          "url": "https://link.coupang.com/a/iaYmjyq1Aa",
-          "_ts": 1793055310.146179
         }
       ]
     },
@@ -1866,72 +1857,6 @@
           "url": "https://toss.shopping/_m/p6unodAt",
           "_ts": 1793066255.756918,
           "_product_id": "1239471885"
-        },
-        {
-          "name": "베베앙 스탠다드 물티슈 캡형, 120매, 10팩",
-          "price": "10,000원",
-          "discount_rate": 59,
-          "priceAt": "10.27 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/NjI3OGYx/QU96bGIrK2RwWC9jM3lWYTA5cTBXdHY2NU83YUFEZXhzMDFXVzdjY3pMVnM.png",
-          "url": "https://toss.shopping/_m/dIUUhwte",
-          "_ts": 1793055833.7552042,
-          "_flash": true,
-          "_product_id": "25681589"
-        },
-        {
-          "name": "조성아 레몬청 클렌저, 200ml, 2개",
-          "price": "18,800원",
-          "discount_rate": 67,
-          "priceAt": "10.27 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDFlMWJj/QU93ODhQNVI0dzhGOStNUEhCNGVjZVBod2NCOFhpOGZnLzkrSDRPdjBPQjg.png",
-          "url": "https://toss.shopping/_m/9kym8bCu",
-          "_ts": 1793055833.755171,
-          "_flash": true,
-          "_product_id": "2611052525"
-        },
-        {
-          "name": "커밍글 캔디 팜므 아쿠아 헤어 노워시 트리트먼트, 플로럴머스크, 200ml, 1개",
-          "price": "9,430원",
-          "discount_rate": 64,
-          "priceAt": "10.27 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MmQ5YjZi/WkxPMnRXcVVOWnN0V3FXdEtyV2FsSlZMMVdtcmRJcTFxdFZXbERhdGFXMD0.png",
-          "url": "https://toss.shopping/_m/x71r7Kld",
-          "_ts": 1793055833.755133,
-          "_flash": true,
-          "_product_id": "2510983215"
-        },
-        {
-          "name": "가락시장521 전기구이 몸통 오징어, 200g, 1개",
-          "price": "8,000원",
-          "discount_rate": 60,
-          "priceAt": "10.27 08:03",
-          "image": "https://shopping.toss.im/live/temp/2026-06-08/04466375-e150-44ed-932f-0024c7d7dc26.jpeg",
-          "url": "https://toss.shopping/_m/zOff7Odn",
-          "_ts": 1793055805.723862,
-          "_flash": true,
-          "_product_id": "2185764457"
-        },
-        {
-          "name": "청정원 스파게티소스, 600g, 토마토 1개 + 로제 1개 + 아라비아따 1개, 3개",
-          "price": "11,020원",
-          "discount_rate": 55,
-          "priceAt": "10.27 08:03",
-          "image": "https://shopping.toss.im/live/temp/2026-09-23/fd8fae3e-51df-48cf-963c-ed06473e04a3.jpeg",
-          "url": "https://toss.shopping/_m/nXxALO3w",
-          "_ts": 1793055805.723825,
-          "_flash": true,
-          "_product_id": "132709913"
-        },
-        {
-          "name": "스카이 비트 3in1 27W 고속 충전 케이블, 1.2m, 블랙, 2개",
-          "price": "6,910원",
-          "discount_rate": 65,
-          "priceAt": "10.27 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/OTE4Yzk3/QUtWUU9WR3JaaThlcXRGYTgxcXhXdE5xVktWb1ZpaWtTVnJsV3d6TnF0TzI.png",
-          "url": "https://toss.shopping/_m/93X3A7Q",
-          "_ts": 1793055805.723787,
-          "_flash": true,
-          "_product_id": "32579"
         }
       ]
     },
