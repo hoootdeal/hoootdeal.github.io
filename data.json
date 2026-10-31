@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쉐프엠 젤리블리 애플망고, 60g, 20개입, 1박스",
+          "price": "8,000원",
+          "discount_rate": 42,
+          "priceAt": "10.31 19:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/454486156995605-e9495085-3b3b-49f4-92bb-589944110212.jpg",
+          "url": "https://link.coupang.com/a/iinvtQVHie",
+          "_ts": 1793440816.7091851
+        },
+        {
           "name": "쁘띠첼 포도 과일젤리, 210g, 3개",
           "price": "3,270원",
           "discount_rate": 55,
@@ -1293,42 +1302,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/527068797679687-d1a7abc1-a047-477e-8e95-2f9b6cee75d2.png",
           "url": "https://link.coupang.com/a/h95G01K0Lk",
           "_ts": 1793009411.872443
-        },
-        {
-          "name": "존쿡델리미트 오리지널 페퍼로니 (냉동), 2개, 100g",
-          "price": "6,980원",
-          "discount_rate": 21,
-          "priceAt": "10.26 18:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5278557008799594-c6450718-551c-4fee-9a78-09f3619e726d.jpg",
-          "url": "https://link.coupang.com/a/h94FVUh7gy",
-          "_ts": 1793008557.081631
-        },
-        {
-          "name": "워커스쇼트브레드 오리지날 버터쿠키, 150g, 2개",
-          "price": "7,920원",
-          "discount_rate": 39,
-          "priceAt": "10.26 18:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/397967378302069-d06c614b-4a02-4ea6-9640-bb042edb9ec4.jpg",
-          "url": "https://link.coupang.com/a/h933TsEIFM",
-          "_ts": 1793008040.34267
-        },
-        {
-          "name": "초코송이, 648g, 1개",
-          "price": "6,520원",
-          "discount_rate": 34,
-          "priceAt": "10.26 18:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/225479658275839-ff29cc81-f425-4a9c-b035-2e975000f5f1.jpg",
-          "url": "https://link.coupang.com/a/h93XziPuKG",
-          "_ts": 1793007956.405185
-        },
-        {
-          "name": "짜파게티 범벅 컵라면 70g, 6개",
-          "price": "3,190원",
-          "discount_rate": 37,
-          "priceAt": "10.26 18:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/259123202019659-69e60d9d-ee5e-4a86-8254-9b2c761c703b.jpg",
-          "url": "https://link.coupang.com/a/h91NjVvon6",
-          "_ts": 1793006138.311966
         }
       ]
     },
@@ -2049,26 +2022,6 @@
           "url": "https://toss.shopping/_m/RAJ1GOt9",
           "_ts": 1793011410.31136,
           "_product_id": "12210749"
-        },
-        {
-          "name": "특대짜, 5지, 손질 대왕 갈치, 500g, 1팩",
-          "price": "9,430원",
-          "discount_rate": 60,
-          "priceAt": "10.26 18:42",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjMzZGU5/WjdGV0xTVEtZRFNGcFNEYURwTUp0VythYnRGdFBxbEMvUitsQTVndmdMOD0.png",
-          "url": "https://toss.shopping/_m/bA7kSTz9",
-          "_ts": 1793007726.4092958,
-          "_product_id": "135578083"
-        },
-        {
-          "name": "믈렉폴 와치아테 저지방 수입 멸균우유, 1000ml, 12개",
-          "price": "17,020원",
-          "discount_rate": 62,
-          "priceAt": "10.26 18:18",
-          "image": "https://shopping.toss.im/live/temp/2025-11-17/68a8cdd4-e494-40ce-85b9-b9d8b6fbf487.jpeg",
-          "url": "https://toss.shopping/_m/JRYNiR6A",
-          "_ts": 1793006290.047498,
-          "_product_id": "166932843"
         }
       ]
     },
