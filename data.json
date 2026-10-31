@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "일리 클래식 로스트 클라시코 룽고 캡슐커피, 6.2g, 21개입, 1개",
+          "price": "11,060원",
+          "discount_rate": 25,
+          "priceAt": "10.31 09:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/2482/c31055fa92caf86ed1d46367efb68ab14a90edf2e7031de782414a31c22a.jpg",
+          "url": "https://link.coupang.com/a/ihHSDIwd4u",
+          "_ts": 1793405869.074773
+        },
+        {
           "name": "유로푸드 유기농 레몬주스, 1L, 1개, 1L × 1개",
           "price": "7,920원",
           "discount_rate": 39,
@@ -1482,60 +1491,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/8158886049728-05180301-22aa-435f-ae9c-46f99a8dbfca.jpg",
           "url": "https://link.coupang.com/a/h9rhs3G34K",
           "_ts": 1792975481.529165
-        },
-        {
-          "name": "비비드키친 저칼로리 스위트칠리 소스, 1개, 280g",
-          "price": "1,600원",
-          "discount_rate": 50,
-          "priceAt": "10.26 09:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/98782752793762-704f4f3b-265f-454e-ba24-f1f5b9b9361f.jpg",
-          "url": "https://link.coupang.com/a/h9pjsxGAg0",
-          "_ts": 1792973829.0083609
-        },
-        {
-          "name": "물하나 지리산 eco 생수 무라벨, 500ml, 60개",
-          "price": "9,560원",
-          "discount_rate": 20,
-          "priceAt": "10.26 09:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a0a2/4c370f2a2800f2f6a0aab1ba5c3f71c643418b872b788282d9379345ec42.jpg",
-          "url": "https://link.coupang.com/a/h9oLYCRvbg",
-          "_ts": 1792973376.6533172
-        },
-        {
-          "name": "닥터스베스트 마그네슘, 240정, 2개",
-          "price": "36,710원",
-          "discount_rate": 21,
-          "priceAt": "10.26 09:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f733/897821b60a9cfefec999bbbaefc5a099664458b86686ae9699bb8e0686db.png",
-          "url": "https://link.coupang.com/a/h9orWvKwUu",
-          "_ts": 1792973104.635125
-        },
-        {
-          "name": "카레여왕 치즈 앤 코코넛, 108g, 2개",
-          "price": "4,790원",
-          "discount_rate": 49,
-          "priceAt": "10.26 08:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/242162162510934-381dbd27-402e-4615-804b-b22467ca5e17.jpg",
-          "url": "https://link.coupang.com/a/h9nTRHfAAe",
-          "_ts": 1792972642.176706
-        },
-        {
-          "name": "담터 자판기 우유맛 한잔, 22g, 10개입, 1개",
-          "price": "2,690원",
-          "discount_rate": 41,
-          "priceAt": "10.26 08:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/dd24/045b1012f1260ea8a2620102f03fbafa1486b17f385091a49b1529834e3c.jpg",
-          "url": "https://link.coupang.com/a/h9m4YaADBs",
-          "_ts": 1792971954.144914
-        },
-        {
-          "name": "고메 씨제이 시나몬맛 츄러스 (냉동), 262.5g, 1개",
-          "price": "2,990원",
-          "discount_rate": 39,
-          "priceAt": "10.26 08:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/nvj33ca0/873c5d9d68164b0cab92be4b94441da7.JPG",
-          "url": "https://link.coupang.com/a/h9mkk92lZA",
-          "_ts": 1792971321.3621938
         }
       ]
     },
