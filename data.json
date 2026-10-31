@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "데체코 스파게티, 500g, 2개",
+          "price": "5,480원",
+          "discount_rate": 25,
+          "priceAt": "10.31 20:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/43523227340037-a5f858e4-3800-466a-a823-3d8a989a2efa.jpg",
+          "url": "https://link.coupang.com/a/iismhwbNuu",
+          "_ts": 1793444890.601814
+        },
+        {
           "name": "풀무원녹즙 저당 서리태 비오틴 콩즙두유, 140ml, 24개, 140ml × 24개",
           "price": "11,820원",
           "discount_rate": 37,
@@ -1284,15 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/10/31/10/7/5d5483dd-4928-4958-8345-d804de63fdc9.jpg",
           "url": "https://link.coupang.com/a/iac9061KSq",
           "_ts": 1793015679.4700758
-        },
-        {
-          "name": "서림식품 프리미엄 진참치액, 500ml, 1개",
-          "price": "7,900원",
-          "discount_rate": 30,
-          "priceAt": "10.26 20:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ced6/648f608fa834c4a24cb79c2f2d0f00793ffc6da6db4fbc7614f760764ca3.jpg",
-          "url": "https://link.coupang.com/a/h99KktcbgO",
-          "_ts": 1793012813.646222
         }
       ]
     },
