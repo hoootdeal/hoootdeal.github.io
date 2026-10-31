@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "끼리 딥앤크런치 플레인 가공치즈 + 과자, 35g, 4개입, 1개",
+          "price": "4,460원",
+          "discount_rate": 34,
+          "priceAt": "10.31 10:22",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/40de/36d44f5bb722c4a6a5b82a48e0a5e2795a92f7ebbc0deac29a6fb78249b4.jpg",
+          "url": "https://link.coupang.com/a/ihMta7WzxA",
+          "_ts": 1793409721.997091
+        },
+        {
           "name": "바바김밥 야채김밥 (냉동), 230g, 2개입, 230g × 2개입",
           "price": "3,980원",
           "discount_rate": 47,
@@ -1446,24 +1455,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/fb34/b3e0449f1ad41206b150211ed1e687b2c34364b42df77be879a87bd5acb8.jpg",
           "url": "https://link.coupang.com/a/h9vpsUxqRU",
           "_ts": 1792978945.387614
-        },
-        {
-          "name": "지퍼락 그립앤실 지퍼백 냉장용, 소(S), 50개입, 1개",
-          "price": "2,380원",
-          "discount_rate": 30,
-          "priceAt": "10.26 10:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/01/10/18/4/9e4d24e0-dbdd-40e1-9450-8846be4594f6.jpg",
-          "url": "https://link.coupang.com/a/h9tHr67ADQ",
-          "_ts": 1792977512.181998
-        },
-        {
-          "name": "하리보 골드베렌 젤리 93개입, 1kg, 1개",
-          "price": "10,490원",
-          "discount_rate": 28,
-          "priceAt": "10.26 10:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/87427671133686-86f0b299-2229-40c0-af6d-54e02704526c.jpg",
-          "url": "https://link.coupang.com/a/h9tsCUz2gC",
-          "_ts": 1792977311.8993862
         }
       ]
     },
