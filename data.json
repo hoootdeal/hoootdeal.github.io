@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바바김밥 야채김밥 (냉동), 230g, 2개입, 230g × 2개입",
+          "price": "3,980원",
+          "discount_rate": 47,
+          "priceAt": "10.31 10:04",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/876665624087835-7c56d61d-2ec4-46f1-953b-4210703fe418.jpg",
+          "url": "https://link.coupang.com/a/ihLbhD0Rz2",
+          "_ts": 1793408640.1083431
+        },
+        {
           "name": "일리 클래식 로스트 클라시코 룽고 캡슐커피, 6.2g, 21개입, 1개",
           "price": "11,060원",
           "discount_rate": 25,
@@ -1455,42 +1464,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/87427671133686-86f0b299-2229-40c0-af6d-54e02704526c.jpg",
           "url": "https://link.coupang.com/a/h9tsCUz2gC",
           "_ts": 1792977311.8993862
-        },
-        {
-          "name": "삼양 짜르르 140g, 4개",
-          "price": "3,210원",
-          "discount_rate": 35,
-          "priceAt": "10.26 10:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/223264871090510-86a8255a-fe06-40fa-8abe-13ce21aefce3.png",
-          "url": "https://link.coupang.com/a/h9sq4TTH2a",
-          "_ts": 1792976450.514036
-        },
-        {
-          "name": "서울우유 커피, 200ml, 4개",
-          "price": "2,700원",
-          "discount_rate": 35,
-          "priceAt": "10.26 09:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/703045130757300-a04f77b6-1f9c-4aa4-9180-4fccabb40e38.jpg",
-          "url": "https://link.coupang.com/a/h9sf9fqEiO",
-          "_ts": 1792976303.888938
-        },
-        {
-          "name": "종근당건강 프로메가 오메가3 트리플, 60정, 1개",
-          "price": "8,600원",
-          "discount_rate": 24,
-          "priceAt": "10.26 09:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/607967258813539-546924f8-fdf1-4e94-9397-1aa8868410df.jpg",
-          "url": "https://link.coupang.com/a/h9r4cnljm8",
-          "_ts": 1792976141.109285
-        },
-        {
-          "name": "풀무원 다논 요거톡 스타볼 요거트, 132.25g, 2개",
-          "price": "1,300원",
-          "discount_rate": 49,
-          "priceAt": "10.26 09:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/8158886049728-05180301-22aa-435f-ae9c-46f99a8dbfca.jpg",
-          "url": "https://link.coupang.com/a/h9rhs3G34K",
-          "_ts": 1792975481.529165
         }
       ]
     },
