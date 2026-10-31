@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스탠리 이지 캐리 쿨러 아이스박스, 포멜로, 15.1L",
+          "price": "48,600원",
+          "discount_rate": 40,
+          "priceAt": "10.31 13:40",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/96406796046700-a78d0cd9-7294-4d51-a653-ff4041cfe46d.png",
+          "url": "https://link.coupang.com/a/ih0FHrXrgG",
+          "_ts": 1793421646.559207
+        },
+        {
           "name": "한라식품 참치액, 500ml, 2개, 500ml × 2개",
           "price": "9,290원",
           "discount_rate": 34,
@@ -1374,15 +1383,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/544144022151414-ed82106e-2e47-4d74-a069-b76f33476d53.jpg",
           "url": "https://link.coupang.com/a/h9JdAb5ggS",
           "_ts": 1792990540.29494
-        },
-        {
-          "name": "다담 된장찌개양념, 840g, 1개",
-          "price": "4,610원",
-          "discount_rate": 45,
-          "priceAt": "10.26 13:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/d0dt7dng/dd7e362ab98946d1911edd827801217d.jpg",
-          "url": "https://link.coupang.com/a/h9HIwtv9Ii",
-          "_ts": 1792989280.147427
         }
       ]
     },
