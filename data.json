@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "무항생제 신선한 특란, 30구, 1개",
+          "price": "7,980원",
+          "discount_rate": 29,
+          "priceAt": "10.31 16:49",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1514727169265142-4b059cab-0f22-4862-8a47-d3fac940a8d1.jpg",
+          "url": "https://link.coupang.com/a/iid9YbwzF6",
+          "_ts": 1793432970.247215
+        },
+        {
           "name": "보르니에르 홀그레인 머스타드, 210g, 2개",
           "price": "5,880원",
           "discount_rate": 49,
@@ -2071,18 +2080,6 @@
           "url": "https://toss.shopping/_m/xhnmVJBp",
           "_ts": 1793001422.235592,
           "_product_id": "2578376693"
-        },
-        {
-          "name": "후디스 소화 편한 우유 오리지널, 190ml, 24개",
-          "price": "11,900원",
-          "discount_rate": 64,
-          "priceAt": "10.26 16:05",
-          "image": "https://shopping.toss.im/live/temp/2026-10-13/71e1811b-5f3d-40d9-81e7-06500a63a40a.jpeg",
-          "url": "https://toss.shopping/_m/Z7sd87HD",
-          "_ts": 1792998311.6816452,
-          "_product_id": "82189401",
-          "sold_out": true,
-          "_sold_at": 1793275115.0
         }
       ]
     },
