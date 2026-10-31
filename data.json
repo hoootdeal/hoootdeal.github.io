@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오랄비 왁스 치실, 50m, 2개입, 3개",
+          "price": "5,900원",
+          "discount_rate": 39,
+          "priceAt": "10.31 17:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/129565325886577-a53baa01-cd4f-40e4-937a-537117498124.jpg",
+          "url": "https://link.coupang.com/a/iie1dPM2Tc",
+          "_ts": 1793433692.4625752
+        },
+        {
           "name": "무항생제 신선한 특란, 30구, 1개",
           "price": "7,980원",
           "discount_rate": 29,
@@ -1311,15 +1320,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/12/17/9/4/8ea0e29f-5447-4a77-b052-2992ba837c89.jpg",
           "url": "https://link.coupang.com/a/h9ZEnR1g72",
           "_ts": 1793004336.161708
-        },
-        {
-          "name": "켈로그 리얼 그래놀라 오리지널 시리얼, 350g, 1개, 350g × 1개",
-          "price": "3,640원",
-          "discount_rate": 30,
-          "priceAt": "10.26 16:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/13/12/1/537f991c-5768-4beb-a9b5-6693eed59fac.jpg",
-          "url": "https://link.coupang.com/a/h9VZBtOuCy",
-          "_ts": 1793001265.107639
         }
       ]
     },
@@ -2070,16 +2070,6 @@
           "url": "https://toss.shopping/_m/DH6EmYpn",
           "_ts": 1793004883.102313,
           "_product_id": "2551902583"
-        },
-        {
-          "name": "프로프룻 샤인머스켓, 특품, 2kg, 1박스",
-          "price": "9,690원",
-          "discount_rate": 86,
-          "priceAt": "10.26 16:57",
-          "image": "https://shopping.toss.im/live/temp/2026-08-05/d1036994-fd95-42f5-82be-741dff71ead8.jpeg",
-          "url": "https://toss.shopping/_m/xhnmVJBp",
-          "_ts": 1793001422.235592,
-          "_product_id": "2578376693"
         }
       ]
     },
