@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "한라식품 참치액, 500ml, 2개, 500ml × 2개",
+          "price": "9,290원",
+          "discount_rate": 34,
+          "priceAt": "10.31 13:34",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/71808685620838-f5575201-97b5-44de-8321-5575b73dad0f.jpg",
+          "url": "https://link.coupang.com/a/ih0erKDLYy",
+          "_ts": 1793421278.127584
+        },
+        {
           "name": "덴마크 소화가 잘되는 우유 락토프리, 190ml, 24개, 190ml × 24개",
           "price": "12,980원",
           "discount_rate": 28,
@@ -1374,24 +1383,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/d0dt7dng/dd7e362ab98946d1911edd827801217d.jpg",
           "url": "https://link.coupang.com/a/h9HIwtv9Ii",
           "_ts": 1792989280.147427
-        },
-        {
-          "name": "불닭볶음면 140g, 5개",
-          "price": "3,070원",
-          "discount_rate": 38,
-          "priceAt": "10.26 13:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/344801787593852-567aaca7-a965-4d97-adc9-4214051864f5.png",
-          "url": "https://link.coupang.com/a/h9F1DKkFga",
-          "_ts": 1792987857.8622952
-        },
-        {
-          "name": "테일러 푸룬건자두, 250g, 3개",
-          "price": "11,130원",
-          "discount_rate": 31,
-          "priceAt": "10.26 13:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4745688368474-f42880db-d2d8-4134-9119-554c444dd912.png",
-          "url": "https://link.coupang.com/a/h9FkVXssLI",
-          "_ts": 1792987282.272473
         }
       ]
     },
@@ -2174,16 +2165,6 @@
           "url": "https://toss.shopping/_m/f8cSKPCt",
           "_ts": 1792992825.9886599,
           "_product_id": "2132608885"
-        },
-        {
-          "name": "천지벌꿀, 아카시아향, 2.4kg, 2개",
-          "price": "30,550원",
-          "discount_rate": 55,
-          "priceAt": "10.26 13:16",
-          "image": "https://shopping.toss.im/ml-vision/smart-crop/ee952a76-b07f-450e-94d6-e65887f08f42.jpg",
-          "url": "https://toss.shopping/_m/Bed5pIsn",
-          "_ts": 1792988166.529268,
-          "_product_id": "1534198899"
         }
       ]
     },
