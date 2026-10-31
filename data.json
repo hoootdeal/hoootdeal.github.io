@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "산가리아 멜론 소다 음료, 500ml, 12개",
+          "price": "20,160원",
+          "discount_rate": 24,
+          "priceAt": "11.01 07:46",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bad7/ea9b254e84c6f9cfaf135456eedbe5b6e5ecae07fd095f1292a365aecc75.jpg",
+          "url": "https://link.coupang.com/a/ijgegSakKG",
+          "_ts": 1793486765.226648
+        },
+        {
           "name": "다향 훈제오리, 600g, 1개",
           "price": "8,090원",
           "discount_rate": 38,
@@ -1266,15 +1275,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e852/4abbac30474bae6ad0b09417691e2d40f3d70e1477cb897e9586296762ba.png",
           "url": "https://link.coupang.com/a/iaYmjyq1Aa",
           "_ts": 1793055310.146179
-        },
-        {
-          "name": "바닐라코 에센스 스킨 듀 쿠션 파운데이션 11.5g, 21뉴트럴아이보리, 1개",
-          "price": "8,770원",
-          "discount_rate": 53,
-          "priceAt": "10.27 07:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/09/15/15/8/780aaac3-ddd9-4885-bd3b-ab97ee57ad21.jpg",
-          "url": "https://link.coupang.com/a/iaWzaCvrj2",
-          "_ts": 1793053803.044128
         }
       ]
     },
