@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "지구식단 슬림핏 콩면 4인분, 600g, 1개, 600g × 1개",
+          "price": "4,200원",
+          "discount_rate": 56,
+          "priceAt": "11.01 09:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/34542394753729-9cb5997a-64b0-4b5a-8508-13cce52b1a78.jpg",
+          "url": "https://link.coupang.com/a/ijmOn6k0ku",
+          "_ts": 1793492291.3379898
+        },
+        {
           "name": "풀무원아미오 강아지 자연담은 과자 건조간식, 2개, 50g, 두부맛",
           "price": "4,120원",
           "discount_rate": 41,
@@ -1266,24 +1275,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/187002198562338-e6f45e88-c1d3-4010-b215-d32c496eb01f.jpg",
           "url": "https://link.coupang.com/a/ia65V9XTFI",
           "_ts": 1793062643.286147
-        },
-        {
-          "name": "오트리 고메넛츠, 750g, 3개",
-          "price": "116,250원",
-          "discount_rate": 52,
-          "priceAt": "10.27 09:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2a76bf67-6ce5-48b6-8daa-dd4782c4a4c43866320663566069035.png",
-          "url": "https://link.coupang.com/a/ia3sZRRUrY",
-          "_ts": 1793059596.290687
-        },
-        {
-          "name": "롯데웰푸드 크런키볼, 76g, 2개",
-          "price": "3,300원",
-          "discount_rate": 38,
-          "priceAt": "10.27 08:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/332905734726133-73af6fb7-258e-4524-bd2f-aa7bb1b27696.jpg",
-          "url": "https://link.coupang.com/a/ia087p5MNU",
-          "_ts": 1793057648.420825
         }
       ]
     },
