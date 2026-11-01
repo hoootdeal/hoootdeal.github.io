@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "대림선 육즙팡 동그랑땡 (냉동), 300g, 4개",
+          "price": "7,980원",
+          "discount_rate": 26,
+          "priceAt": "11.01 22:13",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/55fe920a-3567-4009-8bce-1ed48a08e1ae4741713075066649198.png",
+          "url": "https://link.coupang.com/a/ikgeGUJRV3",
+          "_ts": 1793538826.218107
+        },
+        {
           "name": "듀오락 데일리키즈 츄어블 어린이 유산균, 60정, 1개",
           "price": "23,100원",
           "discount_rate": 27,
@@ -1822,16 +1831,6 @@
           "_ts": 1793113321.997014,
           "_flash": true,
           "_product_id": "78459747"
-        },
-        {
-          "name": "헤라 블랙쿠션 퍼프, 10개입, 1세트",
-          "price": "10,230원",
-          "discount_rate": 65,
-          "priceAt": "10.27 21:57",
-          "image": "https://shopping.toss.im/live/taca/ai/YTZlYzhh/YjErNzlXMWYvZkc5MjMyM3lmdlAzOUhseng0WDlKOGZieFRYVDc0VmVlRT0.png",
-          "url": "https://toss.shopping/_m/9em9N3Fz",
-          "_ts": 1793105867.5271099,
-          "_product_id": "389546109"
         }
       ]
     },
