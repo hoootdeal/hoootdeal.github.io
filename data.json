@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "곰곰 완숙 토마토, 1kg, 1개, 1kg × 1개",
+          "price": "4,990원",
+          "discount_rate": 32,
+          "priceAt": "11.01 20:22",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/712722502290473-7cd913a1-5d74-470c-aea5-e74f54190a8d.jpg",
+          "url": "https://link.coupang.com/a/ij8gdPmSuO",
+          "_ts": 1793532128.715081
+        },
+        {
           "name": "스탠리 퀜처 부츠 바닥 커버 + 스트로 캡 591ml 887ml 전용, 핑크더스크, 1세트",
           "price": "9,320원",
           "discount_rate": 38,
@@ -1347,15 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/44441136140620-ca59ea6c-c21e-41d6-a7eb-40c2098f7996.jpg",
           "url": "https://link.coupang.com/a/ibQ5wHqmlw",
           "_ts": 1793101260.503965
-        },
-        {
-          "name": "함소아 유기농 푸룬사과 주스, 125ml, 24개",
-          "price": "10,600원",
-          "discount_rate": 24,
-          "priceAt": "10.27 19:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/32687556435158-563b21f1-d051-4ce2-b631-8cc3b20d48aa.jpg",
-          "url": "https://link.coupang.com/a/ibMRzrrzoq",
-          "_ts": 1793097714.237344
         }
       ]
     },
@@ -1833,16 +1833,6 @@
           "url": "https://toss.shopping/_m/h3snK2Ky",
           "_ts": 1793101503.501239,
           "_product_id": "2688615757"
-        },
-        {
-          "name": "동원 순백 보리차, 1.5L, 12개",
-          "price": "9,520원",
-          "discount_rate": 51,
-          "priceAt": "10.27 20:13",
-          "image": "https://shopping.toss.im/live/temp/2026-06-16/d2922a5d-203c-48cc-a9c1-bcaefcde8408.jpeg",
-          "url": "https://toss.shopping/_m/7fhzgJlw",
-          "_ts": 1793099626.2181308,
-          "_product_id": "2273201099"
         }
       ]
     },
