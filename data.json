@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "뉴에라 아동용 MLB 베이직 로고 맨투맨 샌프란시스코 자이언츠, 120, 그레이",
+          "price": "19,900원",
+          "discount_rate": 63,
+          "priceAt": "11.02 07:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/25/11/3/332b3c8b-51d4-43b3-a7bb-8f5d2f726d1c.jpg",
+          "url": "https://link.coupang.com/a/ikSQpFQHfg",
+          "_ts": 1793571242.419492
+        },
+        {
           "name": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러, 로즈페탈쉬머, 1.18L, 1개",
           "price": "20,800원",
           "discount_rate": 59,
@@ -1365,15 +1374,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/225105255025741-5c6f474c-3305-44eb-8b5d-a68eaebdd336.jpg",
           "url": "https://link.coupang.com/a/icBPZoDDe8",
           "_ts": 1793140512.750928
-        },
-        {
-          "name": "하로로 알루 사와컵, 1개",
-          "price": "6,490원",
-          "discount_rate": 35,
-          "priceAt": "10.28 07:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/09/23/14/4/1082a750-0850-4d83-aaad-5445a8edf02a.jpg",
-          "url": "https://link.coupang.com/a/icAhfsN1vo",
-          "_ts": 1793139202.299051
         }
       ]
     },
