@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "해찬들 사계절쌈장, 300g, 3개",
+          "price": "3,270원",
+          "discount_rate": 36,
+          "priceAt": "11.01 16:24",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/86927667254686-10784ce5-ebac-4f81-a357-7d9c50d2b476.jpg",
+          "url": "https://link.coupang.com/a/ijRisqRMNo",
+          "_ts": 1793517888.640605
+        },
+        {
           "name": "쁘띠첼 요거젤리 딸기, 210g, 2개, 210g × 2개",
           "price": "2,200원",
           "discount_rate": 45,
@@ -1329,15 +1338,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/4415/322a21c186c520b10d9b63b6b42e7e6c0e68d329001246ba68ff4032b744.jpg",
           "url": "https://link.coupang.com/a/ibzGXrIg32",
           "_ts": 1793086655.207283
-        },
-        {
-          "name": "쁘리엘르 허밍 순면 유아 누비 방수 패드, 아이보리, 대형, 1개",
-          "price": "11,900원",
-          "discount_rate": 33,
-          "priceAt": "10.27 16:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/523121166482479-e892214b-cd8e-4f5a-9073-3d9fb49b224e.jpg",
-          "url": "https://link.coupang.com/a/ibxh24kuPs",
-          "_ts": 1793084640.069719
         }
       ]
     },
@@ -1865,18 +1865,6 @@
           "url": "https://toss.shopping/_m/fSYjpeK4",
           "_ts": 1793087159.4445639,
           "_product_id": "148065759",
-          "sold_out": true,
-          "_sold_at": 1793275115.0
-        },
-        {
-          "name": "던킨 미니 글레이즈드, 15g, 10개, 3팩",
-          "price": "10,900원",
-          "discount_rate": 62,
-          "priceAt": "10.27 15:51",
-          "image": "https://shopping.toss.im/live/temp/2026-05-20/cd8c9328-da99-40ea-a335-e890e3270a29.png",
-          "url": "https://toss.shopping/_m/dBVrXlQ5",
-          "_ts": 1793083876.470368,
-          "_product_id": "2163303921",
           "sold_out": true,
           "_sold_at": 1793275115.0
         }
