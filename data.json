@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "익스트림 비타민B 컴플렉스 700 42g, 60정, 1개",
+          "price": "7,080원",
+          "discount_rate": 36,
+          "priceAt": "11.01 19:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/53048767265636-8b4665fa-a039-4e38-9b29-68c6ca4d66b5.jpg",
+          "url": "https://link.coupang.com/a/ij21deY1JI",
+          "_ts": 1793527727.445055
+        },
+        {
           "name": "퍼실 딥클린 엑스퍼트 베이비젤 액체세제 겸용, 2개, 1.5L",
           "price": "11,140원",
           "discount_rate": 32,
@@ -1338,24 +1347,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/32687556435158-563b21f1-d051-4ce2-b631-8cc3b20d48aa.jpg",
           "url": "https://link.coupang.com/a/ibMRzrrzoq",
           "_ts": 1793097714.237344
-        },
-        {
-          "name": "아임리얼 풀무원 아임리얼 100 레몬 주스, 140ml, 12개",
-          "price": "6,460원",
-          "discount_rate": 57,
-          "priceAt": "10.27 18:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/216774580503416-9a19115b-5dd0-4bfc-8221-ae3eba355ece.png",
-          "url": "https://link.coupang.com/a/ibJsZZnR9M",
-          "_ts": 1793094862.145685
-        },
-        {
-          "name": "포카리스웨트 페트 무라벨, 500ml, 20개, 500ml × 20개",
-          "price": "25,290원",
-          "discount_rate": 28,
-          "priceAt": "10.27 18:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/06/02/15/1/af41f329-3d9b-4ef0-9888-ef7f4460924f.jpg",
-          "url": "https://link.coupang.com/a/ibIOwaetFs",
-          "_ts": 1793094312.765167
         }
       ]
     },
@@ -1853,16 +1844,6 @@
           "url": "https://toss.shopping/_m/7xXUqK51",
           "_ts": 1793096540.730539,
           "_product_id": "2661643749"
-        },
-        {
-          "name": "농가살리기 콩쑥개떡, 60g, 30개입, 1개",
-          "price": "11,900원",
-          "discount_rate": 60,
-          "priceAt": "10.27 19:02",
-          "image": "https://shopping.toss.im/live/taca/ai/NzhiNjc0/ZjIzNk5Qc3BmRUNsS1NrOHREalIvQUMxNXZRUDFpUDAvQkkxd0VGcWFNQT0.png",
-          "url": "https://toss.shopping/_m/Jud0lQRy",
-          "_ts": 1793095335.212631,
-          "_product_id": "11029795"
         }
       ]
     },
