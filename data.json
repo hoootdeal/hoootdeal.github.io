@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "카누 디카페인 라떼 스틱커피, 13.5g, 30개입, 1개",
+          "price": "9,210원",
+          "discount_rate": 26,
+          "priceAt": "11.01 21:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/96589722032925-0cbbc8f5-b940-4675-8360-e0a25862983b.png",
+          "url": "https://link.coupang.com/a/ikbMU9MZbw",
+          "_ts": 1793535091.890055
+        },
+        {
           "name": "곰곰 완숙 토마토, 1kg, 1개, 1kg × 1개",
           "price": "4,990원",
           "discount_rate": 32,
@@ -1338,24 +1347,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3f60f730-c7bc-41af-a7fe-7f59d1583bd31705134748358240685.png",
           "url": "https://link.coupang.com/a/ibXP2WUKqa",
           "_ts": 1793106928.6165318
-        },
-        {
-          "name": "시크레그 겨울 기모 착시스타킹, 착시블랙",
-          "price": "5,900원",
-          "discount_rate": 31,
-          "priceAt": "10.27 21:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/7fd4/b37204d4bcd01a8f108f1cb829b507ff114f5fb1b8773067e819bb086b4a.png",
-          "url": "https://link.coupang.com/a/ibSAk7vkFo",
-          "_ts": 1793102518.576921
-        },
-        {
-          "name": "메이토 로얄 밀크티 분말, 400g, 2개, 400g × 2개",
-          "price": "16,100원",
-          "discount_rate": 29,
-          "priceAt": "10.27 20:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/44441136140620-ca59ea6c-c21e-41d6-a7eb-40c2098f7996.jpg",
-          "url": "https://link.coupang.com/a/ibQ5wHqmlw",
-          "_ts": 1793101260.503965
         }
       ]
     },
@@ -1823,16 +1814,6 @@
           "url": "https://toss.shopping/_m/9em9N3Fz",
           "_ts": 1793105867.5271099,
           "_product_id": "389546109"
-        },
-        {
-          "name": "아침엔과일 청송 시나노골드 사과, 특품, 5kg, 1박스",
-          "price": "14,900원",
-          "discount_rate": 73,
-          "priceAt": "10.27 20:45",
-          "image": "https://shopping.toss.im/live/temp/2026-10-19/cf7078e3-2158-4bc5-8543-425240b00871.png",
-          "url": "https://toss.shopping/_m/h3snK2Ky",
-          "_ts": 1793101503.501239,
-          "_product_id": "2688615757"
         }
       ]
     },
