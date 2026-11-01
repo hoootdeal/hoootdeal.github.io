@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "티젠 콤부차 청귤라임, 5g, 10개입, 2개",
+          "price": "4,000원",
+          "discount_rate": 37,
+          "priceAt": "11.02 07:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/37521492666584-9ea0716a-fb75-4636-8136-3c5f737bf47a.jpg",
+          "url": "https://link.coupang.com/a/ikVSC3zAPc",
+          "_ts": 1793573792.632179
+        },
+        {
           "name": "리타 스타 ABC주스, 200ml, 30개",
           "price": "10,740원",
           "discount_rate": 59,
@@ -1392,15 +1401,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1572077319772154-e8c7b116-539f-49c3-9c10-9f9a78d32272.jpg",
           "url": "https://link.coupang.com/a/icHKNTCdoa",
           "_ts": 1793145479.996879
-        },
-        {
-          "name": "오뚜기 진라면 약간매운맛 120g, 5개",
-          "price": "2,600원",
-          "discount_rate": 32,
-          "priceAt": "10.28 07:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/05/20/17/6/ce6b9a20-fda0-434c-bd57-d7dce9284033.jpg",
-          "url": "https://link.coupang.com/a/icDdaRdlmu",
-          "_ts": 1793141666.529887
         }
       ]
     },
