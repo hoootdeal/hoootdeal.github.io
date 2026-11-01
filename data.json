@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "CJ제일제당 쁘띠첼 과일젤리 복숭아, 210g, 2개",
+          "price": "2,180원",
+          "discount_rate": 49,
+          "priceAt": "11.01 13:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/fbb15561-468a-4847-8d87-83ebcd09cde7565272628851350281.png",
+          "url": "https://link.coupang.com/a/ijFiYXLf88",
+          "_ts": 1793507818.001947
+        },
+        {
           "name": "백설 100% 통참깨 참기름, 320ml, 2개",
           "price": "11,280원",
           "discount_rate": 50,
@@ -1311,15 +1320,6 @@
           "image": "https://img5c.coupangcdn.com/image/retail/images/679913689494049-b3b158df-32ef-4268-b109-9045643c8175.jpg",
           "url": "https://link.coupang.com/a/ibpyrmLupw",
           "_ts": 1793078142.036627
-        },
-        {
-          "name": "홀리카홀리카 멜로우 글라이딩 펜슬 라이너 0.3g, 05 퓨어 멜로우, 1개, 05 퓨어 멜로우 × 1개",
-          "price": "3,400원",
-          "discount_rate": 43,
-          "priceAt": "10.27 12:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/81923638440724-208c40ad-f14f-48e0-9eb3-c0f37a5c682b.jpg",
-          "url": "https://link.coupang.com/a/ibj3kONnwW",
-          "_ts": 1793073523.8097842
         }
       ]
     },
