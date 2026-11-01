@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "리타 스타 ABC주스, 200ml, 30개",
+          "price": "10,740원",
+          "discount_rate": 59,
+          "priceAt": "11.02 07:47",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3496418120258373-93ae47f9-4320-4b47-9168-2eb2a9dbeb59.jpg",
+          "url": "https://link.coupang.com/a/ikVdMJK9ca",
+          "_ts": 1793573240.867433
+        },
+        {
           "name": "풀무원 얄피꽉찬 쌀 물만두 (냉동), 1kg, 1개",
           "price": "5,990원",
           "discount_rate": 36,
@@ -1392,15 +1401,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/05/20/17/6/ce6b9a20-fda0-434c-bd57-d7dce9284033.jpg",
           "url": "https://link.coupang.com/a/icDdaRdlmu",
           "_ts": 1793141666.529887
-        },
-        {
-          "name": "카누 벨베티 미디엄 로스트 네스프레소 호환 캡슐 커피, 5.7g, 10개입, 6개",
-          "price": "17,670원",
-          "discount_rate": 44,
-          "priceAt": "10.28 07:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/225105255025741-5c6f474c-3305-44eb-8b5d-a68eaebdd336.jpg",
-          "url": "https://link.coupang.com/a/icBPZoDDe8",
-          "_ts": 1793140512.750928
         }
       ]
     },
