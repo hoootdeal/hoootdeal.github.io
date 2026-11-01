@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "배스킨라빈스 아몬드 봉봉 크림 파이, 336g, 1개",
+          "price": "3,560원",
+          "discount_rate": 26,
+          "priceAt": "11.01 15:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/69f2/5067e31df7495ea68db22c782b9cd1aca4eabe880ca5642fc1ec42bfa080.jpg",
+          "url": "https://link.coupang.com/a/ijLlRSYDwO",
+          "_ts": 1793512896.087544
+        },
+        {
           "name": "지베딩 디어 시어서커 여름 이불, 핑크, Q",
           "price": "18,670원",
           "discount_rate": 71,
@@ -1870,16 +1879,6 @@
           "_product_id": "2163303921",
           "sold_out": true,
           "_sold_at": 1793275115.0
-        },
-        {
-          "name": "비로르 액화방지 원터치 요리용 부탄가스 토치, 화이트, 1개",
-          "price": "6,050원",
-          "discount_rate": 80,
-          "priceAt": "10.27 14:43",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDRmOTU5/QVBjejJabG1aaWJNeXpuTE9Tek1abWJabVNNdzF0bG1aaTIyMHhzempCek0.png",
-          "url": "https://toss.shopping/_m/tuuQvVKe",
-          "_ts": 1793079835.5932002,
-          "_product_id": "91564771"
         }
       ]
     },
