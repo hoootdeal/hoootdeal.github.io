@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 다논 요거톡 스타볼 요거트, 132.25g, 8개, 132.25g × 8개",
+          "price": "6,560원",
+          "discount_rate": 30,
+          "priceAt": "11.01 17:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/234950104261223-03aac8ff-694b-4a70-9322-d9a2b1e1a35d.jpg",
+          "url": "https://link.coupang.com/a/ijUSqYuAay",
+          "_ts": 1793520894.285407
+        },
+        {
           "name": "해찬들 사계절쌈장, 300g, 3개",
           "price": "3,270원",
           "discount_rate": 36,
@@ -1329,15 +1338,6 @@
           "image": "https://image1.coupangcdn.com/image/retail/images/1743156704204238-9efd95af-5cae-4d01-9eb7-fc3c671fda51.jpg",
           "url": "https://link.coupang.com/a/ibE8PMlpW8",
           "_ts": 1793091230.805591
-        },
-        {
-          "name": "몽크슈 액상 위드 알룰로스, 1.3kg, 1개",
-          "price": "9,010원",
-          "discount_rate": 37,
-          "priceAt": "10.27 16:37",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/4415/322a21c186c520b10d9b63b6b42e7e6c0e68d329001246ba68ff4032b744.jpg",
-          "url": "https://link.coupang.com/a/ibzGXrIg32",
-          "_ts": 1793086655.207283
         }
       ]
     },
@@ -1855,18 +1855,6 @@
           "url": "https://toss.shopping/_m/9XBpXhwt",
           "_ts": 1793090768.122758,
           "_product_id": "1734855833"
-        },
-        {
-          "name": "고기중독 양념 LA갈비, 1kg, 1팩",
-          "price": "16,990원",
-          "discount_rate": 66,
-          "priceAt": "10.27 16:45",
-          "image": "https://shopping.toss.im/live/temp/2026-03-08/c34140cc-2e6f-4e1f-b48e-af9eac2ced63.jpeg",
-          "url": "https://toss.shopping/_m/fSYjpeK4",
-          "_ts": 1793087159.4445639,
-          "_product_id": "148065759",
-          "sold_out": true,
-          "_sold_at": 1793275115.0
         }
       ]
     },
