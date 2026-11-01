@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "지베딩 디어 시어서커 여름 이불, 핑크, Q",
+          "price": "18,670원",
+          "discount_rate": 71,
+          "priceAt": "11.01 14:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2020/04/10/15/5/112d2345-b5ec-486d-9de2-4ec17bb4dfe3.jpg",
+          "url": "https://link.coupang.com/a/ijH8foq51g",
+          "_ts": 1793510191.757351
+        },
+        {
           "name": "롯데웰푸드 크런키볼, 76g, 8개, 76g × 8개",
           "price": "11,430원",
           "discount_rate": 33,
@@ -1320,15 +1329,6 @@
           "image": "https://img5c.coupangcdn.com/image/retail/images/1751317243841418-86f98a5d-024a-4710-a03e-7ae7104d7560.jpg",
           "url": "https://link.coupang.com/a/ibu3BRWziC",
           "_ts": 1793082764.523701
-        },
-        {
-          "name": "스프라이트 제로 사이다, 250ml, 30개",
-          "price": "11,890원",
-          "discount_rate": 23,
-          "priceAt": "10.27 14:15",
-          "image": "https://img5c.coupangcdn.com/image/retail/images/679913689494049-b3b158df-32ef-4268-b109-9045643c8175.jpg",
-          "url": "https://link.coupang.com/a/ibpyrmLupw",
-          "_ts": 1793078142.036627
         }
       ]
     },
@@ -1880,16 +1880,6 @@
           "url": "https://toss.shopping/_m/tuuQvVKe",
           "_ts": 1793079835.5932002,
           "_product_id": "91564771"
-        },
-        {
-          "name": "우리식품 잔기지떡, 30g, 50개입, 1박스",
-          "price": "9,950원",
-          "discount_rate": 60,
-          "priceAt": "10.27 14:10",
-          "image": "https://shopping.toss.im/live/taca/ai/ZmM2OTM1/SllQWVNmTnN4NGZMbmg0bWpwZ3N0bHhZazBIbDRXMDRPaVJFMjRPVFAyOD0.png",
-          "url": "https://toss.shopping/_m/110tgPB4",
-          "_ts": 1793077837.805405,
-          "_product_id": "87788309"
         }
       ]
     },
