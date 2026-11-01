@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쁘띠첼 요거젤리 딸기, 210g, 2개, 210g × 2개",
+          "price": "2,200원",
+          "discount_rate": 45,
+          "priceAt": "11.01 15:44",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/32e1c6d4-8cba-4114-a8c7-1c4ac922556d3381354280001837768.png",
+          "url": "https://link.coupang.com/a/ijOqzLEHnw",
+          "_ts": 1793515478.7263842
+        },
+        {
           "name": "배스킨라빈스 아몬드 봉봉 크림 파이, 336g, 1개",
           "price": "3,560원",
           "discount_rate": 26,
@@ -1329,15 +1338,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/523121166482479-e892214b-cd8e-4f5a-9073-3d9fb49b224e.jpg",
           "url": "https://link.coupang.com/a/ibxh24kuPs",
           "_ts": 1793084640.069719
-        },
-        {
-          "name": "랩신 섬유항균제 상쾌한솔잎향 본품, 2L, 1개",
-          "price": "8,620원",
-          "discount_rate": 25,
-          "priceAt": "10.27 15:32",
-          "image": "https://img5c.coupangcdn.com/image/retail/images/1751317243841418-86f98a5d-024a-4710-a03e-7ae7104d7560.jpg",
-          "url": "https://link.coupang.com/a/ibu3BRWziC",
-          "_ts": 1793082764.523701
         }
       ]
     },
