@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "잘크톤 멀티튼튼 츄어블정 딸기맛, 90정, 1개",
+          "price": "14,580원",
+          "discount_rate": 34,
+          "priceAt": "11.01 18:13",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/09/10/11/9/412969c9-c2fb-4a8a-aa49-05e006c28a0a.jpg",
+          "url": "https://link.coupang.com/a/ijY5Ef8l5w",
+          "_ts": 1793524431.3078241
+        },
+        {
           "name": "하겐다즈 크리스피 샌드위치 리치 카라멜 아이스크림 (냉동), 60ml, 3개입, 2개",
           "price": "17,900원",
           "discount_rate": 38,
@@ -1338,15 +1347,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/06/02/15/1/af41f329-3d9b-4ef0-9888-ef7f4460924f.jpg",
           "url": "https://link.coupang.com/a/ibIOwaetFs",
           "_ts": 1793094312.765167
-        },
-        {
-          "name": "아이깨끗해 항균 폼 핸드워시 레몬향, 490ml, 3개",
-          "price": "11,020원",
-          "discount_rate": 22,
-          "priceAt": "10.27 17:53",
-          "image": "https://image1.coupangcdn.com/image/retail/images/1743156704204238-9efd95af-5cae-4d01-9eb7-fc3c671fda51.jpg",
-          "url": "https://link.coupang.com/a/ibE8PMlpW8",
-          "_ts": 1793091230.805591
         }
       ]
     },
@@ -1854,16 +1854,6 @@
           "url": "https://toss.shopping/_m/Jud0lQRy",
           "_ts": 1793095335.212631,
           "_product_id": "11029795"
-        },
-        {
-          "name": "썬키스트 제로, 복숭아레몬소다, 190ml, 30개",
-          "price": "8,700원",
-          "discount_rate": 48,
-          "priceAt": "10.27 17:46",
-          "image": "https://shopping.toss.im/live/temp/2026-04-28/a4fa3660-d26b-4e45-aa09-7fa574184811.jpeg",
-          "url": "https://toss.shopping/_m/9XBpXhwt",
-          "_ts": 1793090768.122758,
-          "_product_id": "1734855833"
         }
       ]
     },
