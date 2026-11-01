@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "브레프 디럭스 변기세정제 매그놀리아 가든, 50g, 5개",
+          "price": "5,670원",
+          "discount_rate": 77,
+          "priceAt": "11.01 10:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/182207889753507-69987b57-e0a8-4cb4-a7a4-83e40148566c.jpg",
+          "url": "https://link.coupang.com/a/ijpXmpYBd6",
+          "_ts": 1793494932.8989382
+        },
+        {
           "name": "샘표 우리엄마 매콤한 깻잎, 70g, 16개",
           "price": "19,840원",
           "discount_rate": 29,
@@ -1275,15 +1284,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/316763255177504-cb5da269-f6bc-49f9-b634-de94e6e07cbf.png",
           "url": "https://link.coupang.com/a/ia8sGBPkqq",
           "_ts": 1793063792.411723
-        },
-        {
-          "name": "이롬 황성주 박사의 국산콩 무가당 검은콩 고칼슘 두유, 16개, 190ml",
-          "price": "7,970원",
-          "discount_rate": 26,
-          "priceAt": "10.27 09:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/187002198562338-e6f45e88-c1d3-4010-b215-d32c496eb01f.jpg",
-          "url": "https://link.coupang.com/a/ia65V9XTFI",
-          "_ts": 1793062643.286147
         }
       ]
     },
