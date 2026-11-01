@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청정원 쉐프의치킨스톡 2p, 465g, 2개, 465g × 2개",
+          "price": "7,600원",
+          "discount_rate": 49,
+          "priceAt": "11.01 12:05",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/130397671339623-36b66ef7-8152-4dd9-9757-6e83b32f0e2a.jpg",
+          "url": "https://link.coupang.com/a/ijyLMKsjFQ",
+          "_ts": 1793502332.757934
+        },
+        {
           "name": "바리스타룰스 에스프레소 라떼, 6개, 250ml",
           "price": "7,650원",
           "discount_rate": 31,
@@ -1293,24 +1302,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/81923638440724-208c40ad-f14f-48e0-9eb3-c0f37a5c682b.jpg",
           "url": "https://link.coupang.com/a/ibj3kONnwW",
           "_ts": 1793073523.8097842
-        },
-        {
-          "name": "닥터지 약산성 클렌징 젤 폼, 200ml, 2개",
-          "price": "14,940원",
-          "discount_rate": 33,
-          "priceAt": "10.27 12:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/117434332953080-2a0de7a5-0016-429a-8a00-ef52132ad17f.jpg",
-          "url": "https://link.coupang.com/a/ibf46ACxtk",
-          "_ts": 1793070188.5220082
-        },
-        {
-          "name": "EZn이지엔 위생장갑 플러스, 500개입, 1개",
-          "price": "7,990원",
-          "discount_rate": 30,
-          "priceAt": "10.27 11:45",
-          "image": "https://image9.coupangcdn.com/image/retail/images/5959831660056-6ec74f32-a549-491e-a62b-6e34a8b1635c.jpg",
-          "url": "https://link.coupang.com/a/ibeM1OZBSK",
-          "_ts": 1793069106.0618188
         }
       ]
     },
@@ -1882,16 +1873,6 @@
           "url": "https://toss.shopping/_m/bk2K2GiB",
           "_ts": 1793076172.3980448,
           "_product_id": "151328027"
-        },
-        {
-          "name": "리벤스 소프트 클린 화장실 비데티슈, 60매, 10팩",
-          "price": "8,990원",
-          "discount_rate": 74,
-          "priceAt": "10.27 11:34",
-          "image": "https://shopping.toss.im/live/temp/2026-10-23/91711844-c186-4a04-8152-17872222d75b.jpeg",
-          "url": "https://toss.shopping/_m/X4vegK8r",
-          "_ts": 1793068452.457201,
-          "_product_id": "85614109"
         }
       ]
     },
