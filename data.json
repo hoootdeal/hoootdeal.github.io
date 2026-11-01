@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바리스타룰스 에스프레소 라떼, 6개, 250ml",
+          "price": "7,650원",
+          "discount_rate": 31,
+          "priceAt": "11.01 11:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/19349618635765-3b6232a5-ac97-4bd9-ba7d-86f7348bb95b.jpg",
+          "url": "https://link.coupang.com/a/iju99XgjfM",
+          "_ts": 1793499304.453249
+        },
+        {
           "name": "시크릿데이 블랙 생리대 날개형, 중형, 16개입, 2개",
           "price": "3,550원",
           "discount_rate": 34,
@@ -1883,16 +1892,6 @@
           "url": "https://toss.shopping/_m/X4vegK8r",
           "_ts": 1793068452.457201,
           "_product_id": "85614109"
-        },
-        {
-          "name": "맛꾼 메추리알 장조림, 1kg, 2개",
-          "price": "10,000원",
-          "discount_rate": 50,
-          "priceAt": "10.27 10:57",
-          "image": "https://shopping.toss.im/live/temp/2026-03-24/2eca8ca1-f347-4ec1-bbfa-56e8042f5e2d.jpeg",
-          "url": "https://toss.shopping/_m/p6unodAt",
-          "_ts": 1793066255.756918,
-          "_product_id": "1239471885"
         }
       ]
     },
