@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "순수람 채담카레, 160g, 5개",
+          "price": "5,320원",
+          "discount_rate": 38,
+          "priceAt": "11.02 17:59",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/advertiser/1755675831815/5577e2eb-f864-4b8a-9444-15a716d93d0f.jpg",
+          "url": "https://link.coupang.com/a/ilCVWUfVOC",
+          "_ts": 1793609941.570295
+        },
+        {
           "name": "해찬들 사과듬뿍 비빔장, 470g, 1개, 470g × 1개",
           "price": "1,980원",
           "discount_rate": 69,
@@ -1482,15 +1491,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/634927871673874-1b703cc8-bbeb-434c-a763-862b75bd319c.jpg",
           "url": "https://link.coupang.com/a/idn4SdKWDR",
           "_ts": 1793181017.632171
-        },
-        {
-          "name": "엘빈즈 바삭바삭 어린이 현미가케 세트, 빨강마을, 노랑마을, 푸른마을, 4세트, 28g",
-          "price": "18,000원",
-          "discount_rate": 56,
-          "priceAt": "10.28 17:49",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/101154189246424-527b337d-e215-4707-beb4-820597aa7b50.jpg",
-          "url": "https://link.coupang.com/a/idjLMKdaOO",
-          "_ts": 1793177399.2721548
         }
       ]
     },
@@ -1769,16 +1769,6 @@
           "url": "https://toss.shopping/_m/fegnYf2l",
           "_ts": 1793179851.267892,
           "_product_id": "2507642255"
-        },
-        {
-          "name": "닥터방기원 랩 샴푸, 1L, 2개",
-          "price": "15,250원",
-          "discount_rate": 61,
-          "priceAt": "10.28 17:39",
-          "image": "https://shopping.toss.im/live/temp/2026-10-20/6660947d-e7f8-459c-98b2-0a3b8f53a4f9.jpeg",
-          "url": "https://toss.shopping/_m/Jr8fWpHf",
-          "_ts": 1793176768.905018,
-          "_product_id": "1189448281"
         }
       ]
     },
