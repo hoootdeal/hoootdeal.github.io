@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "연세두유 뼈를 생각한 고칼슘 두유 검은콩, 190ml, 24개",
+          "price": "8,650원",
+          "discount_rate": 26,
+          "priceAt": "11.02 19:16",
+          "image": "https://image6.coupangcdn.com/image/retail/images/68161817442765-816e34e0-3423-44c7-a710-db604bac51ab.jpg",
+          "url": "https://link.coupang.com/a/ilIrj6rw7M",
+          "_ts": 1793614562.60094
+        },
+        {
           "name": "매일바이오 고단백 그릭요거트 드링크 무가당 플레인, 2개, 4개입, 150ml",
           "price": "3,980원",
           "discount_rate": 55,
@@ -1491,15 +1500,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/b334/e2a47eff48fd4294747eab30963bc5350c71d29aab74149d3d43d9069116.jpg",
           "url": "https://link.coupang.com/a/idr42C7Hye",
           "_ts": 1793184377.884309
-        },
-        {
-          "name": "네추럴라이즈 이뮨 알로에 젤리스틱, 280g, 2개, 280g × 2개",
-          "price": "12,830원",
-          "discount_rate": 34,
-          "priceAt": "10.28 18:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/634927871673874-1b703cc8-bbeb-434c-a763-862b75bd319c.jpg",
-          "url": "https://link.coupang.com/a/idn4SdKWDR",
-          "_ts": 1793181017.632171
         }
       ]
     },
@@ -1758,26 +1758,6 @@
           "url": "https://toss.shopping/_m/vvZ3naH8",
           "_ts": 1793182711.50264,
           "_product_id": "105369607"
-        },
-        {
-          "name": "모짜치즈떡, 1kg, 2봉",
-          "price": "10,980원",
-          "discount_rate": 26,
-          "priceAt": "10.28 18:58",
-          "image": "https://shopping.toss.im/live/taca/ai/MGJmZWY1/QUpObUpveUhacUdjY3VlSUZtWU52Z05aUkg2RFdRME9Dd01aUTIveTgyaHc.png",
-          "url": "https://toss.shopping/_m/bepUGU6C",
-          "_ts": 1793181502.71388,
-          "_product_id": "141213459"
-        },
-        {
-          "name": "고기중독 소고기 모듬 한판, 200g, 5개",
-          "price": "25,280원",
-          "discount_rate": 63,
-          "priceAt": "10.28 18:30",
-          "image": "https://shopping.toss.im/live/temp/2025-05-13/b24b2c5b-0488-4c8d-95bd-a6fdac110da5.jpeg",
-          "url": "https://toss.shopping/_m/fegnYf2l",
-          "_ts": 1793179851.267892,
-          "_product_id": "2507642255"
         }
       ]
     },
