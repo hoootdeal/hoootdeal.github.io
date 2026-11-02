@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에뛰드 왓츠인 마이 아이즈, 아임파인땡큐, 1개",
+          "price": "1,800원",
+          "discount_rate": 43,
+          "priceAt": "11.02 22:24",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/02/20/11/8/8f31ca73-7aac-4496-86d2-a2b5691a5c34.jpg",
+          "url": "https://link.coupang.com/a/ilVVypCM2e",
+          "_ts": 1793625886.238367
+        },
+        {
           "name": "키스미 헤비로테이션 컬러링 아이브로우 EX 8g, 03애쉬브라운, 1개",
           "price": "5,120원",
           "discount_rate": 55,
@@ -1482,15 +1491,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/110760806142644-dae581a7-6aee-4996-b648-ff80066c4227.png",
           "url": "https://link.coupang.com/a/iefMU3qvZI",
           "_ts": 1793226113.546997
-        },
-        {
-          "name": "롯데웰푸드 쌀로칩 들기름 김맛, 100g, 3개",
-          "price": "5,460원",
-          "discount_rate": 46,
-          "priceAt": "10.28 22:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/43999cc6-4996-4f46-bb67-c836717e8b4b13235872221828471108.png",
-          "url": "https://link.coupang.com/a/idC8cGAJFc",
-          "_ts": 1793193656.578259
         }
       ]
     },
