@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "키스미 헤비로테이션 컬러링 아이브로우 EX 8g, 03애쉬브라운, 1개",
+          "price": "5,120원",
+          "discount_rate": 55,
+          "priceAt": "11.02 21:46",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/02/28/17/7/4f62a13a-54cf-4748-b4bc-e7f7097b83d1.jpg",
+          "url": "https://link.coupang.com/a/ilTcqd6YOO",
+          "_ts": 1793623598.8203242
+        },
+        {
           "name": "국내산 깐쪽파, 200g, 1개, 200g × 1개",
           "price": "2,380원",
           "discount_rate": 41,
@@ -1482,15 +1491,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/43999cc6-4996-4f46-bb67-c836717e8b4b13235872221828471108.png",
           "url": "https://link.coupang.com/a/idC8cGAJFc",
           "_ts": 1793193656.578259
-        },
-        {
-          "name": "도브 뷰티바 비누 릴랙싱, 90g, 12개입",
-          "price": "9,930원",
-          "discount_rate": 39,
-          "priceAt": "10.28 21:40",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/54683310666232-03730c37-1898-4512-8a88-276e8e829023.jpg",
-          "url": "https://link.coupang.com/a/idAgX2n1t6",
-          "_ts": 1793191256.036362
         }
       ]
     },
@@ -1719,16 +1719,6 @@
           "_ts": 1793199727.761597,
           "_flash": true,
           "_product_id": "2535455963"
-        },
-        {
-          "name": "사운독스 노이즈 캔슬링 무선 이어폰, Y-07, 화이트, 1개",
-          "price": "16,900원",
-          "discount_rate": 81,
-          "priceAt": "10.28 21:44",
-          "image": "https://shopping.toss.im/live/taca/ai/YjkxZWEw/QVBjR1kvL1J5ZndZR0luMlltSjJIWWZybEJpOTduUm1ZVFZVK1B4VndCY0Q.png",
-          "url": "https://toss.shopping/_m/rybSyyal",
-          "_ts": 1793191481.937872,
-          "_product_id": "157010575"
         }
       ]
     },
