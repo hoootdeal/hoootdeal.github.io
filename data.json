@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데웰푸드 슈프림치킨 (냉동), 330g, 2개",
+          "price": "6,480원",
+          "discount_rate": 35,
+          "priceAt": "11.02 20:43",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6fc533aa-eb92-4fe5-a1ee-61ab4d351d3a6566603541176979944.png",
+          "url": "https://link.coupang.com/a/ilOHjIG4qa",
+          "_ts": 1793619818.473964
+        },
+        {
           "name": "다담 국물떡볶이 양념, 530g, 1개",
           "price": "1,980원",
           "discount_rate": 64,
@@ -1482,24 +1491,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/073d/f654acba0180cde9a8f058b5ad634513e4b0192cd768529b610dbca2d596.jpg",
           "url": "https://link.coupang.com/a/idzydl8VUW",
           "_ts": 1793190650.0902
-        },
-        {
-          "name": "레이저 Viper V3 HyperSpeed 무선 마우스, RZ01-0491, 블랙",
-          "price": "69,000원",
-          "discount_rate": 36,
-          "priceAt": "10.28 20:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/70a2/4e4b81a1eea2f637cb8532bb166ecea12b146e13c6965fd963a60a825201.jpg",
-          "url": "https://link.coupang.com/a/idvfXdIUJo",
-          "_ts": 1793187044.5814779
-        },
-        {
-          "name": "청우제과 두부스틱, 220g, 2개",
-          "price": "4,340원",
-          "discount_rate": 40,
-          "priceAt": "10.28 20:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/8429818902689132-c2709e12-92fa-4ccb-891f-3529ee405e62.crdownload",
-          "url": "https://link.coupang.com/a/iduAjLs5yS",
-          "_ts": 1793186480.312462
         }
       ]
     },
