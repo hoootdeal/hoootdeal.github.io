@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "샘표 잔치국수, 101g, 4개",
+          "price": "3,060원",
+          "discount_rate": 40,
+          "priceAt": "11.02 16:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1104498377275392-42e8e80f-7e89-4042-825c-51b4ed98b37d.png",
+          "url": "https://link.coupang.com/a/ilvUEn8j4C",
+          "_ts": 1793604045.830204
+        },
+        {
           "name": "샘표국시 바지락칼국수, 100.3g, 4개",
           "price": "3,060원",
           "discount_rate": 55,
@@ -1482,15 +1491,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/12099120562955-f3fae404-ab80-4488-97fb-f94a7de6fe02.jpg",
           "url": "https://link.coupang.com/a/idfvf40BoW",
           "_ts": 1793173817.377168
-        },
-        {
-          "name": "안데스 민트 파르페 초콜릿, 1개, 132g",
-          "price": "2,980원",
-          "discount_rate": 36,
-          "priceAt": "10.28 15:49",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/07/14/4/72cf51ca-734d-4242-bbf3-f372ba9dc5be.jpg",
-          "url": "https://link.coupang.com/a/idbaXxcPJI",
-          "_ts": 1793170185.03523
         }
       ]
     },
