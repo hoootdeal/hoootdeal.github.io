@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오스카마이어 베이컨 오리지널, 453g, 1개, 453g × 1개",
+          "price": "8,990원",
+          "discount_rate": 43,
+          "priceAt": "11.02 11:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/119432220628905-0edda131-835a-46ab-a606-8da82e6326dc.jpg",
+          "url": "https://link.coupang.com/a/ilasFtmt64",
+          "_ts": 1793586033.9533901
+        },
+        {
           "name": "유하미카쿠토 특농 밀크 8.2, 88g, 6개",
           "price": "12,470원",
           "discount_rate": 39,
@@ -1428,15 +1437,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/629991928079208-6d82792c-f3a0-4c70-94d5-93d679675c19.jpg",
           "url": "https://link.coupang.com/a/icUNk3yuwS",
           "_ts": 1793156429.4611552
-        },
-        {
-          "name": "스탠리 어드벤처 워터저그, 포멜로, 7.5L, 1개",
-          "price": "36,050원",
-          "discount_rate": 49,
-          "priceAt": "10.28 11:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2364098824757767-6699c280-d6a5-4a5d-8635-0a62c48039b2.jpg",
-          "url": "https://link.coupang.com/a/icQBUdAZCm",
-          "_ts": 1793152915.970279
         }
       ]
     },
@@ -1785,16 +1785,6 @@
           "url": "https://toss.shopping/_m/ZpLG2F6w",
           "_ts": 1793155271.2707222,
           "_product_id": "2564061517"
-        },
-        {
-          "name": "달콤쫀득 영동 상주 햇곶감, 500g, 3봉",
-          "price": "22,405원",
-          "discount_rate": 67,
-          "priceAt": "10.28 10:57",
-          "image": "https://shopping.toss.im/live/taca/ai/NzA2ZTQ1/QUptYllsaW5uNnRXdDJnMFppVG1KSXdsakprN2Radk1sbGl6R0NicXA3SmE.png",
-          "url": "https://toss.shopping/_m/JHoxZyYq",
-          "_ts": 1793152626.340814,
-          "_product_id": "68785613"
         }
       ]
     },
