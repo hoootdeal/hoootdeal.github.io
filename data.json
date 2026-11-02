@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "릴크리터스 어린이 오메가 3 DHA 라즈베리 레몬맛 구미, 60정, 3개",
+          "price": "23,840원",
+          "discount_rate": 61,
+          "priceAt": "11.03 08:33",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/44c3/4be6716684303636e37527ebd7992602daf6359e84d3c36b34c65aacb3e5.jpg",
+          "url": "https://link.coupang.com/a/imDo7Swy5I",
+          "_ts": 1793662393.0945458
+        },
+        {
           "name": "풀무원 동치미 물냉면 2인 + 함흥 비빔냉면 2인, 1.306kg, 2개",
           "price": "9,780원",
           "discount_rate": 27,
@@ -1491,24 +1500,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6528536790663-ef7384cc-c6ff-458b-9742-e73f553fd2f1.jpg",
           "url": "https://link.coupang.com/a/ielYS38UQm",
           "_ts": 1793231312.480012
-        },
-        {
-          "name": "둥지냉면 비빔냉면 162g, 4개",
-          "price": "4,560원",
-          "discount_rate": 26,
-          "priceAt": "10.29 08:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/480870394163409-600d44cc-5a1a-4ee5-8a33-14c52bdacbc1.jpg",
-          "url": "https://link.coupang.com/a/ieiYOWclQ4",
-          "_ts": 1793228791.649099
-        },
-        {
-          "name": "오레오 치즈케이크 (냉동), 210g, 1개",
-          "price": "9,580원",
-          "discount_rate": 26,
-          "priceAt": "10.29 08:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/nshpltdj/1d16e5edc3d646ae9548b52977b226d9.jpg",
-          "url": "https://link.coupang.com/a/ieiSwGsf2O",
-          "_ts": 1793228706.264002
         }
       ]
     },
@@ -1636,74 +1627,6 @@
           "url": "https://toss.shopping/_m/lYCWs9fi",
           "_ts": 1793235842.116605,
           "_product_id": "121011379"
-        },
-        {
-          "name": "산지로드 수제 두부과자, 110g, 5개",
-          "price": "7,600원",
-          "discount_rate": 55,
-          "priceAt": "10.29 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/ODAzOTFj/VmpNaWJJd1Q4YVNiTFZqTFBaRjVsbk42b3VkbmpjczQzNk9LM3dWSHpBbz0.png",
-          "url": "https://toss.shopping/_m/B1g79357",
-          "_ts": 1793228655.537197,
-          "_flash": true,
-          "_product_id": "2528221353"
-        },
-        {
-          "name": "맘스럽 리얼 헹굼식초, 4L, 2개",
-          "price": "5,600원",
-          "discount_rate": 64,
-          "priceAt": "10.29 08:04",
-          "image": "https://shopping.toss.im/3ff/live/product/834251053/3ffd2f2a-0e54-4d6f-92ba-79e259e224c4.jpg",
-          "url": "https://toss.shopping/_m/PJND5rTt",
-          "_ts": 1793228655.537166,
-          "_flash": true,
-          "_product_id": "2620517383"
-        },
-        {
-          "name": "이롬 황성주박사의 무가당 국내산 약콩 두유, 190ml, 16팩, 4박스",
-          "price": "25,730원",
-          "discount_rate": 61,
-          "priceAt": "10.29 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-08-11/c7461f42-fe9e-4705-842c-3fbccba21f80.png",
-          "url": "https://toss.shopping/_m/X21BXxmm",
-          "_ts": 1793228655.537118,
-          "_flash": true,
-          "_product_id": "2601104611"
-        },
-        {
-          "name": "팬택 25W 2포트 파스텔 충전기 + 45W 2m C to C 케이블 세트, 바이올렛, 1개",
-          "price": "7,770원",
-          "discount_rate": 60,
-          "priceAt": "10.29 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/YTcxMjY4/R2RLdVV2TFNYQzF4NlFXNVR3UGVVNkhjYm1GOFBadkhEeVNITE5EUjhMND0.png",
-          "url": "https://toss.shopping/_m/RfApmLBs",
-          "_ts": 1793228627.492733,
-          "_flash": true,
-          "_product_id": "1283793141",
-          "sold_out": true,
-          "_sold_at": 1793275115.0
-        },
-        {
-          "name": "한우물 햄야채 볶음밥, 210g, 10개",
-          "price": "10,160원",
-          "discount_rate": 60,
-          "priceAt": "10.29 08:03",
-          "image": "https://shopping.toss.im/live/temp/2026-09-22/67854af3-a012-4ef9-ba29-705eb38ef9ed.png",
-          "url": "https://toss.shopping/_m/bZcpQCD",
-          "_ts": 1793228627.492704,
-          "_flash": true,
-          "_product_id": "2637400321"
-        },
-        {
-          "name": "대원제약 눈건강 파워 루테인 골드, 500mg, 30캡슐, 4개",
-          "price": "12,010원",
-          "discount_rate": 87,
-          "priceAt": "10.29 08:03",
-          "image": "https://shopping.toss.im/live/product/680671/4508f5ff-4514-4ac4-9992-2ed7c288a3aa.jpg",
-          "url": "https://toss.shopping/_m/ZOeaIzui",
-          "_ts": 1793228627.492648,
-          "_flash": true,
-          "_product_id": "12583897"
         }
       ]
     },
