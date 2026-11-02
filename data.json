@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "유하미카쿠토 특농 밀크 8.2, 88g, 6개",
+          "price": "12,470원",
+          "discount_rate": 39,
+          "priceAt": "11.02 10:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6a65/47fccc461e68accc71610c8a7bb18085db082f3d2f56e86793acf0ee107e.jpg",
+          "url": "https://link.coupang.com/a/ik8JNEfXpc",
+          "_ts": 1793584585.7580318
+        },
+        {
           "name": "종근당 홍삼정 애니타임 골드 + 쇼핑백, 30회분, 1세트",
           "price": "19,790원",
           "discount_rate": 31,
@@ -1428,15 +1437,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2364098824757767-6699c280-d6a5-4a5d-8635-0a62c48039b2.jpg",
           "url": "https://link.coupang.com/a/icQBUdAZCm",
           "_ts": 1793152915.970279
-        },
-        {
-          "name": "매일우유 멸균 딸기, 200ml, 24개, 200ml × 24개",
-          "price": "12,160원",
-          "discount_rate": 26,
-          "priceAt": "10.28 10:53",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/fd8b/461d0d06c1882ed4e2e8f33555dd062c9687bb69af5c54bdcef7f83aacd4.jpg",
-          "url": "https://link.coupang.com/a/icP0BAODeu",
-          "_ts": 1793152411.519197
         }
       ]
     },
