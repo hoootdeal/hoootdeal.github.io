@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "다담 국물떡볶이 양념, 530g, 1개",
+          "price": "1,980원",
+          "discount_rate": 64,
+          "priceAt": "11.02 19:47",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/390c/6e2a001f060ffee7a31959b3e3ced7a5187b8e19c26c928619c1bf7594b2.jpg",
+          "url": "https://link.coupang.com/a/ilKHlsTNpQ",
+          "_ts": 1793616460.3557901
+        },
+        {
           "name": "연세두유 뼈를 생각한 고칼슘 두유 검은콩, 190ml, 24개",
           "price": "8,650원",
           "discount_rate": 26,
@@ -1491,15 +1500,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/8429818902689132-c2709e12-92fa-4ccb-891f-3529ee405e62.crdownload",
           "url": "https://link.coupang.com/a/iduAjLs5yS",
           "_ts": 1793186480.312462
-        },
-        {
-          "name": "종가 본연의 깊은 맛 묵은지, 900g, 1개, 900g × 1개",
-          "price": "8,280원",
-          "discount_rate": 28,
-          "priceAt": "10.28 19:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/b334/e2a47eff48fd4294747eab30963bc5350c71d29aab74149d3d43d9069116.jpg",
-          "url": "https://link.coupang.com/a/idr42C7Hye",
-          "_ts": 1793184377.884309
         }
       ]
     },
@@ -1748,16 +1748,6 @@
           "url": "https://toss.shopping/_m/ZfJ0rTCp",
           "_ts": 1793188148.1413991,
           "_product_id": "2656271027"
-        },
-        {
-          "name": "애슐리 시그니처 큐브 스테이크 소스포함, 200g, 4팩",
-          "price": "28,690원",
-          "discount_rate": 42,
-          "priceAt": "10.28 19:18",
-          "image": "https://shopping.toss.im/live/taca/ai/MDFjY2Qy/Y2VUMExUeVIyN01EazBaWnprdzVHVG1NempIaXN3SVhaaDk1NmQvZ0RQUT0.png",
-          "url": "https://toss.shopping/_m/vvZ3naH8",
-          "_ts": 1793182711.50264,
-          "_product_id": "105369607"
         }
       ]
     },
