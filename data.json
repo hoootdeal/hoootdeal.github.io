@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "샘표국시 바지락칼국수, 100.3g, 4개",
+          "price": "3,060원",
+          "discount_rate": 55,
+          "priceAt": "11.02 15:33",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1061274736350111-f8481398-91f4-494d-a27e-9969c646bc58.jpg",
+          "url": "https://link.coupang.com/a/ilswEMqT8K",
+          "_ts": 1793601202.8800268
+        },
+        {
           "name": "스너글 핑크스파클 플러스 섬유유연제 포근향 본품, 2L, 1개",
           "price": "6,990원",
           "discount_rate": 40,
@@ -1780,16 +1789,6 @@
           "url": "https://toss.shopping/_m/p1cLXmI8",
           "_ts": 1793174381.832316,
           "_product_id": "446375191"
-        },
-        {
-          "name": "스파클 생수, 무라벨, 2L, 24개",
-          "price": "11,400원",
-          "discount_rate": 43,
-          "priceAt": "10.28 15:21",
-          "image": "https://shopping.toss.im/live/temp/2026-03-18/268e4c6a-1595-43e9-9c1b-f101e5774429.jpeg",
-          "url": "https://toss.shopping/_m/pLXEPmv9",
-          "_ts": 1793168510.317746,
-          "_product_id": "108753687"
         }
       ]
     },
