@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "미샤 크리미 라떼 클렌징 폼 카카오, 172ml, 6개",
+          "price": "15,650원",
+          "discount_rate": 63,
+          "priceAt": "11.02 13:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/13424456561612-0f971835-10b7-4f0c-a72e-f8e1230cfbf5.jpg",
+          "url": "https://link.coupang.com/a/iliD74L4ma",
+          "_ts": 1793592907.0962381
+        },
+        {
           "name": "아리얼 엑스퍼트 비타 엑소좀 콜라겐 하이드로겔 마스크, 1개입, 4개",
           "price": "10,080원",
           "discount_rate": 37,
@@ -1437,15 +1446,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/08/01/11/3/29ad36dc-6ddb-4efa-b9b7-3bac39d28c28.png",
           "url": "https://link.coupang.com/a/ic2IVuo9V6",
           "_ts": 1793163087.355686
-        },
-        {
-          "name": "풀무원 자연건면 메밀소바, 464g, 4개",
-          "price": "6,990원",
-          "discount_rate": 29,
-          "priceAt": "10.28 12:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/afd876d1-60b3-4efc-9884-1a5d5c291fe47570121875900822785.png",
-          "url": "https://link.coupang.com/a/icYMskguLk",
-          "_ts": 1793159776.118175
         }
       ]
     },
@@ -1764,16 +1764,6 @@
           "url": "https://toss.shopping/_m/HLyyGB3v",
           "_ts": 1793166880.76124,
           "_product_id": "1373837527"
-        },
-        {
-          "name": "홍야 직화고기짬뽕 소스, 400g, 10개",
-          "price": "32,280원",
-          "discount_rate": 34,
-          "priceAt": "10.28 12:59",
-          "image": "https://shopping.toss.im/live/temp/2025-09-16/2e2f832b-d079-4262-aa71-78bef0784b56.png",
-          "url": "https://toss.shopping/_m/Nfb6AWjm",
-          "_ts": 1793159970.47019,
-          "_product_id": "200747223"
         }
       ]
     },
