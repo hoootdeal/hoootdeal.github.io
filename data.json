@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "삼양 볶음간짬뽕, 20개",
+          "price": "13,590원",
+          "discount_rate": 30,
+          "priceAt": "11.02 09:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4694669285900-5825f6af-9ae5-403b-a5ab-299cf47b6592.png",
+          "url": "https://link.coupang.com/a/ik0RzLngMS",
+          "_ts": 1793577976.5991209
+        },
+        {
           "name": "쉐프스토리 갓성비 핫도그 (냉동), 80g, 1개, 10개입",
           "price": "6,900원",
           "discount_rate": 25,
@@ -1410,15 +1419,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/rsv3ecvj/0d9976777da945afa9d7d7c4025f4c35.jpg",
           "url": "https://link.coupang.com/a/icL0vWSMh2",
           "_ts": 1793149051.34734
-        },
-        {
-          "name": "락피도 프로바이오틱스 키즈 플러스 60p, 120g, 1개, 120g × 1개",
-          "price": "14,010원",
-          "discount_rate": 28,
-          "priceAt": "10.28 08:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1572077319772154-e8c7b116-539f-49c3-9c10-9f9a78d32272.jpg",
-          "url": "https://link.coupang.com/a/icHKNTCdoa",
-          "_ts": 1793145479.996879
         }
       ]
     },
