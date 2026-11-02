@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스너글 핑크스파클 플러스 섬유유연제 포근향 본품, 2L, 1개",
+          "price": "6,990원",
+          "discount_rate": 40,
+          "priceAt": "11.02 14:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1baa/3f3728d57d5fbd867b2dd3c7b4c1c516d8a0051af5e045f4b29e874f8e62.jpg",
+          "url": "https://link.coupang.com/a/ilpOinvBCK",
+          "_ts": 1793598922.5614872
+        },
+        {
           "name": "곰곰 돌돌이 무연골 대패 삼겹살 (냉동), 1kg, 1개",
           "price": "8,230원",
           "discount_rate": 31,
@@ -1473,15 +1482,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/07/14/4/72cf51ca-734d-4242-bbf3-f372ba9dc5be.jpg",
           "url": "https://link.coupang.com/a/idbaXxcPJI",
           "_ts": 1793170185.03523
-        },
-        {
-          "name": "곰곰 콩비지, 1kg, 1개, 1kg × 1개",
-          "price": "2,650원",
-          "discount_rate": 45,
-          "priceAt": "10.28 14:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/f1f3/f62c7304c75424205be32d801ed1584a398e66c88d4e7bd5347425687297.jpg",
-          "url": "https://link.coupang.com/a/ic6UxdRgsu",
-          "_ts": 1793166602.396447
         }
       ]
     },
@@ -1790,16 +1790,6 @@
           "url": "https://toss.shopping/_m/pLXEPmv9",
           "_ts": 1793168510.317746,
           "_product_id": "108753687"
-        },
-        {
-          "name": "멈칫 스테이퍼퓸 핸드크림 세트, 밤쉘, 1개",
-          "price": "7,920원",
-          "discount_rate": 75,
-          "priceAt": "10.28 14:54",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/NDc5NTY2/VkxtdVJ1TXpYb25tVHFrMFY0K3hjVzU4VjR1cDBSWXB1SFJUaDE2MHFIUT0.png",
-          "url": "https://toss.shopping/_m/HLyyGB3v",
-          "_ts": 1793166880.76124,
-          "_product_id": "1373837527"
         }
       ]
     },
