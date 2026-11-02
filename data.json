@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크린랩 은사니트 수세미 소, 20개",
+          "price": "7,650원",
+          "discount_rate": 51,
+          "priceAt": "11.02 10:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/55279075077092-d014a40e-39c0-44ab-85a9-0528b8634d68.jpg",
+          "url": "https://link.coupang.com/a/ik59zDpt80",
+          "_ts": 1793582419.471242
+        },
+        {
           "name": "포스트 오레오오즈 요거트큐브 시리얼, 1개, 400g",
           "price": "4,700원",
           "discount_rate": 43,
