@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아리얼 엑스퍼트 비타 엑소좀 콜라겐 하이드로겔 마스크, 1개입, 4개",
+          "price": "10,080원",
+          "discount_rate": 37,
+          "priceAt": "11.02 12:43",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/19/16/4/50f0946c-f479-4af5-bbbe-e16425a16852.jpg",
+          "url": "https://link.coupang.com/a/ilgm76EQ1Y",
+          "_ts": 1793590998.3553321
+        },
+        {
           "name": "카누 볼드 다크 로스트 네스프레소 호환 캡슐 커피, 5.7g, 10개입, 2개",
           "price": "8,120원",
           "discount_rate": 36,
@@ -1765,16 +1774,6 @@
           "url": "https://toss.shopping/_m/Nfb6AWjm",
           "_ts": 1793159970.47019,
           "_product_id": "200747223"
-        },
-        {
-          "name": "페스츄리 바비큐 오징어, 200g, 1개",
-          "price": "7,205원",
-          "discount_rate": 63,
-          "priceAt": "10.28 12:21",
-          "image": "https://shopping.toss.im/live/temp/2026-05-29/695974d4-4a3e-48d5-84bf-14c13dbcd099.jpeg",
-          "url": "https://toss.shopping/_m/ndlP03Vy",
-          "_ts": 1793157697.792796,
-          "_product_id": "2139655313"
         }
       ]
     },
