@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "카누 볼드 다크 로스트 네스프레소 호환 캡슐 커피, 5.7g, 10개입, 2개",
+          "price": "8,120원",
+          "discount_rate": 36,
+          "priceAt": "11.02 12:13",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/269246881709992-57fc1a7c-2731-4595-a7bb-94fa0da40b30.png",
+          "url": "https://link.coupang.com/a/ileg42vbWK",
+          "_ts": 1793589235.3157198
+        },
+        {
           "name": "오스카마이어 베이컨 오리지널, 453g, 1개, 453g × 1개",
           "price": "8,990원",
           "discount_rate": 43,
@@ -1428,15 +1437,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/afd876d1-60b3-4efc-9884-1a5d5c291fe47570121875900822785.png",
           "url": "https://link.coupang.com/a/icYMskguLk",
           "_ts": 1793159776.118175
-        },
-        {
-          "name": "이가자연면 투움바 파스타, 179.5g, 3개, 179.5g × 3개",
-          "price": "5,330원",
-          "discount_rate": 44,
-          "priceAt": "10.28 12:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/629991928079208-6d82792c-f3a0-4c70-94d5-93d679675c19.jpg",
-          "url": "https://link.coupang.com/a/icUNk3yuwS",
-          "_ts": 1793156429.4611552
         }
       ]
     },
@@ -1775,16 +1775,6 @@
           "url": "https://toss.shopping/_m/ndlP03Vy",
           "_ts": 1793157697.792796,
           "_product_id": "2139655313"
-        },
-        {
-          "name": "오토워킹 프로 싱글 자동 만보기, 블랙, 1개",
-          "price": "8,000원",
-          "discount_rate": 60,
-          "priceAt": "10.28 11:41",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/ZWEwNTQy/QUwrVWIwekV0cWd4TkpROWhrcjB3V3UrRFpZdFd6WWJlT1ZNTmk4YjRldVE.png",
-          "url": "https://toss.shopping/_m/ZpLG2F6w",
-          "_ts": 1793155271.2707222,
-          "_product_id": "2564061517"
         }
       ]
     },
