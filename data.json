@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "포스트 오레오오즈 요거트큐브 시리얼, 1개, 400g",
+          "price": "4,700원",
+          "discount_rate": 43,
+          "priceAt": "11.02 09:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/01/11/3/1eb4b3ab-72b8-49ef-9f44-6f449821df0f.jpg",
+          "url": "https://link.coupang.com/a/ik4xlxarK0",
+          "_ts": 1793581060.2073972
+        },
+        {
           "name": "삼양 볶음간짬뽕, 20개",
           "price": "13,590원",
           "discount_rate": 30,
@@ -1410,15 +1419,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/fd8b/461d0d06c1882ed4e2e8f33555dd062c9687bb69af5c54bdcef7f83aacd4.jpg",
           "url": "https://link.coupang.com/a/icP0BAODeu",
           "_ts": 1793152411.519197
-        },
-        {
-          "name": "면사랑 스파게티 5개입 (냉동), 850g, 1개",
-          "price": "4,170원",
-          "discount_rate": 33,
-          "priceAt": "10.28 09:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/rsv3ecvj/0d9976777da945afa9d7d7c4025f4c35.jpg",
-          "url": "https://link.coupang.com/a/icL0vWSMh2",
-          "_ts": 1793149051.34734
         }
       ]
     },
