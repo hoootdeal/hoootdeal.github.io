@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아임리얼 스트로베리 주스, 190ml, 2개",
+          "price": "2,980원",
+          "discount_rate": 49,
+          "priceAt": "11.04 07:13",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/344988913831960-de9efc48-2ee0-4a90-b862-5674d8cce438.jpg",
+          "url": "https://link.coupang.com/a/iocBrJeTcG",
+          "_ts": 1793744002.862299
+        },
+        {
           "name": "헬시오리진스 피크노제놀 100mg 베지 캡슐, 120정, 1개",
           "price": "39,120원",
           "discount_rate": 52,
@@ -1455,15 +1464,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/dd01704e-5e6f-4163-8b97-363eabbaeb0a684700558644824461.png",
           "url": "https://link.coupang.com/a/ifV8CtD9pJ",
           "_ts": 1793313726.0660238
-        },
-        {
-          "name": "더미식 육즙 고기교자 (냉동), 350g, 10개",
-          "price": "14,550원",
-          "discount_rate": 65,
-          "priceAt": "10.30 07:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/145097600329344-1c0213fc-2b90-4d09-9b79-be45f075e187.jpg",
-          "url": "https://link.coupang.com/a/ifTSWNt29k",
-          "_ts": 1793311835.263531
         }
       ]
     },
