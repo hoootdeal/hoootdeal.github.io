@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "햇반 발아현미밥, 210g, 12개, 210g × 12개",
+          "price": "15,420원",
+          "discount_rate": 49,
+          "priceAt": "11.03 19:49",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10082388779533-54e35a0c-a1e2-4933-86cb-0cdf45a99197.jpg",
+          "url": "https://link.coupang.com/a/inpI7O8IQm",
+          "_ts": 1793702964.8408298
+        },
+        {
           "name": "청정원 호밍스 우거지 순살 감자탕 (냉동), 700g, 2개",
           "price": "10,000원",
           "discount_rate": 40,
@@ -1464,42 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4ea6936a-2055-4e09-aadd-26a0f043b6d37036065318822411509.png",
           "url": "https://link.coupang.com/a/ifaKmrMQmr",
           "_ts": 1793273937.380794
-        },
-        {
-          "name": "닥터린 포사인 콘드로이친 1200 36g, 30정, 1개",
-          "price": "9,130원",
-          "discount_rate": 59,
-          "priceAt": "10.29 19:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/123586565633801-7a7624a7-85fa-45f1-933b-c08ccab2b3bd.jpg",
-          "url": "https://link.coupang.com/a/ie6TBiHctg",
-          "_ts": 1793270702.654996
-        },
-        {
-          "name": "도브 오리지날 롤온 데오드란트, 40ml, 3개",
-          "price": "6,120원",
-          "discount_rate": 33,
-          "priceAt": "10.29 19:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/162527781046398-f6de0e20-03bf-4b6b-9b1a-27ee272770f3.jpg",
-          "url": "https://link.coupang.com/a/ie6NY9tK0G",
-          "_ts": 1793270627.382803
-        },
-        {
-          "name": "광식이농장 완숙 토마토, 5kg, 1박스",
-          "price": "20,350원",
-          "discount_rate": 25,
-          "priceAt": "10.29 19:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/4e69/4ad57027b548be274e06ddc9f440349b09d20d2e97a61edf68a46073ba4c.jpg",
-          "url": "https://link.coupang.com/a/ie5bnBNlnw",
-          "_ts": 1793269264.425962
-        },
-        {
-          "name": "곡물그대로21 크리스피롤, 900g, 1개",
-          "price": "9,380원",
-          "discount_rate": 25,
-          "priceAt": "10.29 19:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/c794/493898eded0329ba3edbe4a546a5d0ae02cfb1cd4d08f1f27d18d4bf87ea.jpg",
-          "url": "https://link.coupang.com/a/ie4rmWSp7B",
-          "_ts": 1793268640.8650298
         }
       ]
     },
