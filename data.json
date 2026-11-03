@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청정원 호밍스 우거지 순살 감자탕 (냉동), 700g, 2개",
+          "price": "10,000원",
+          "discount_rate": 40,
+          "priceAt": "11.03 19:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/98731858477948-0987e205-e26e-4ad4-a56f-8dd59aba77bf.jpg",
+          "url": "https://link.coupang.com/a/inmetaiAa4",
+          "_ts": 1793700032.828745
+        },
+        {
           "name": "올리타리아 엑스트라 버진 올리브오일, 250ml, 1개",
           "price": "6,440원",
           "discount_rate": 24,
@@ -1491,24 +1500,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/c794/493898eded0329ba3edbe4a546a5d0ae02cfb1cd4d08f1f27d18d4bf87ea.jpg",
           "url": "https://link.coupang.com/a/ie4rmWSp7B",
           "_ts": 1793268640.8650298
-        },
-        {
-          "name": "존쿡델리미트 사각 잠봉, 400g, 2개",
-          "price": "13,980원",
-          "discount_rate": 36,
-          "priceAt": "10.29 18:49",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10375235675679-4eb05b0f-6f06-429a-8b93-412a4993a1f9.jpg",
-          "url": "https://link.coupang.com/a/ie2UbWuw9I",
-          "_ts": 1793267352.97807
-        },
-        {
-          "name": "팸퍼스 2026 통잠 팬티형 기저귀 남여공용, 5단계, 312매, 5단계 × 312매",
-          "price": "124,210원",
-          "discount_rate": 36,
-          "priceAt": "10.29 18:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/29fa5ebb-bf7b-4de5-9b47-7c9b2c74ed0b7463290399348480511.png",
-          "url": "https://link.coupang.com/a/ie17Y6FWxg",
-          "_ts": 1793266700.894464
         }
       ]
     },
