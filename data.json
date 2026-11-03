@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "대상웰라이프 정품 석류 콜라겐, 300g, 4개, 300g × 4개",
+          "price": "26,820원",
+          "discount_rate": 34,
+          "priceAt": "11.03 20:37",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/54886287741199-15096799-92e6-48c2-976d-64f5fb5cd59a.jpg",
+          "url": "https://link.coupang.com/a/ins8DgHHSC",
+          "_ts": 1793705829.166547
+        },
+        {
           "name": "면사랑 간짜장 소스 3개입 (냉동), 540g, 1개",
           "price": "3,740원",
           "discount_rate": 41,
@@ -1499,16 +1508,6 @@
           "url": "https://toss.shopping/_m/jOUS1sZ4",
           "_ts": 1793275157.45373,
           "_product_id": "186658661"
-        },
-        {
-          "name": "교동 육개장, 500g, 5개",
-          "price": "13,280원",
-          "discount_rate": 51,
-          "priceAt": "10.29 20:12",
-          "image": "https://shopping.toss.im/live/taca/ai/ZWRhZDM0/QUo1dm5KTmt3OXR4bXkwYlpHVHcvSERZTmVQa28rUlUxRzdVSzVFRlRQMXU.png",
-          "url": "https://toss.shopping/_m/3oseGYVa",
-          "_ts": 1793272376.908948,
-          "_product_id": "93252431"
         }
       ]
     },
