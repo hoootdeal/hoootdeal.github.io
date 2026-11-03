@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "곡물그대로21 크리스피롤, 650g, 1개, 650g × 1개",
+          "price": "6,000원",
+          "discount_rate": 30,
+          "priceAt": "11.04 08:52",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/181d/7e92b16dc5c930c2ea1d8651f21a25f5fc0dadc6583c1a3f8fcc117203d7.jpg",
+          "url": "https://link.coupang.com/a/iojHBWRqlp",
+          "_ts": 1793749961.729214
+        },
+        {
           "name": "샘표국시 비빔국수, 135g, 4개",
           "price": "3,060원",
           "discount_rate": 38,
@@ -1464,33 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/c3870087-7bc0-4663-b1a2-415db9ddb53415687735032691580327.png",
           "url": "https://link.coupang.com/a/if3bJqMedg",
           "_ts": 1793319645.995235
-        },
-        {
-          "name": "서울우유 뽀로로 칼슘왕 치즈 180g, 18g, 10개입, 2개",
-          "price": "4,580원",
-          "discount_rate": 47,
-          "priceAt": "10.30 08:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/138403170569287-c40a87ce-cfc8-4654-a090-30ea50b09f3d.jpg",
-          "url": "https://link.coupang.com/a/if0SU622Lc",
-          "_ts": 1793317711.88181
-        },
-        {
-          "name": "데니그리스 유기농 석류 식초, 500ml, 1개",
-          "price": "2,450원",
-          "discount_rate": 58,
-          "priceAt": "10.30 08:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2021/10/15/17/7/4a62dcb5-c201-4f26-bd5c-0274ce1aca33.jpg",
-          "url": "https://link.coupang.com/a/ifZNGK99oq",
-          "_ts": 1793316800.517615
-        },
-        {
-          "name": "옐로욜로 카카오칩스, 25g, 3개, 25g × 3개",
-          "price": "6,250원",
-          "discount_rate": 23,
-          "priceAt": "10.30 08:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/b230ec17-352b-4e6c-bfc8-fa8f01625b4618149113920209961852.png",
-          "url": "https://link.coupang.com/a/ifZBaTGYvs",
-          "_ts": 1793316633.615527
         }
       ]
     },
