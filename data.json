@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "프로쉬 제로 맨손 주방 세제, 500ml, 2개",
+          "price": "10,000원",
+          "discount_rate": 48,
+          "priceAt": "11.03 21:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/eba319ef-c7e1-4e56-b1dd-d18a69d728784719649256017647727.png",
+          "url": "https://link.coupang.com/a/inuQUeUsLY",
+          "_ts": 1793707267.167805
+        },
+        {
           "name": "대상웰라이프 정품 석류 콜라겐, 300g, 4개, 300g × 4개",
           "price": "26,820원",
           "discount_rate": 34,
@@ -1464,33 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/cjil2bsa/8fd77b2ed6f842a69662a4563be41272.png",
           "url": "https://link.coupang.com/a/ifgy5lJkse",
           "_ts": 1793278820.439776
-        },
-        {
-          "name": "하리보 해피콜라 젤리, 100g, 4개",
-          "price": "3,760원",
-          "discount_rate": 31,
-          "priceAt": "10.29 21:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/428412189778600-697339dd-1f8a-4a5b-885d-78b9e7949662.jpg",
-          "url": "https://link.coupang.com/a/ifciAg2KHc",
-          "_ts": 1793275236.51175
-        },
-        {
-          "name": "오리온 오징어 땅콩, 202g, 5개",
-          "price": "7,450원",
-          "discount_rate": 24,
-          "priceAt": "10.29 20:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10114910084879-f2a8332d-ace1-4bdc-8007-e9bb4c4b669b.png",
-          "url": "https://link.coupang.com/a/ifaNFSyjG8",
-          "_ts": 1793273981.2030249
-        },
-        {
-          "name": "더미식 삼계탕, 900g, 2개, 900g × 2개",
-          "price": "12,000원",
-          "discount_rate": 50,
-          "priceAt": "10.29 20:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4ea6936a-2055-4e09-aadd-26a0f043b6d37036065318822411509.png",
-          "url": "https://link.coupang.com/a/ifaKmrMQmr",
-          "_ts": 1793273937.380794
         }
       ]
     },
@@ -1498,18 +1480,7 @@
       "id": "toss",
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
-      "products": [
-        {
-          "name": "웰쉐프 훈제 닭다리, 180g, 10개",
-          "price": "22,750원",
-          "discount_rate": 51,
-          "priceAt": "10.29 20:59",
-          "image": "https://shopping.toss.im/live/taca/ai/M2ZhOTEy/QU5qTnpPZEtXdGF6alNNSGEwTnB0a3VWeitYSlk1RWVrNW9VMCtIUThmZ2M.png",
-          "url": "https://toss.shopping/_m/jOUS1sZ4",
-          "_ts": 1793275157.45373,
-          "_product_id": "186658661"
-        }
-      ]
+      "products": []
     },
     {
       "id": "toss_best50",
