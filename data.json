@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "삐아 라스트 벨벳 립 틴트 5g, 17 꽃보다 살랑, 1개",
+          "price": "6,910원",
+          "discount_rate": 51,
+          "priceAt": "11.03 16:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/04/11/1/79f4dd3e-e05b-41fa-8f40-72c1f8845dda.jpg",
+          "url": "https://link.coupang.com/a/im98mRjOCW",
+          "_ts": 1793689872.19643
+        },
+        {
           "name": "모던하우스 어반 2인조 식기 홈세트 12p, 아이보리 + 그레이, 본품 12p, 2세트",
           "price": "27,240원",
           "discount_rate": 73,
@@ -1491,24 +1500,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/24540851011342-e38961cf-1114-4394-8fb1-6e30df7446b7.jpg",
           "url": "https://link.coupang.com/a/ieUF1PtpN6",
           "_ts": 1793260441.088632
-        },
-        {
-          "name": "파스퇴르 쾌변 요구르트 골드키위, 150ml, 4개입, 4개",
-          "price": "13,380원",
-          "discount_rate": 37,
-          "priceAt": "10.29 15:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1072516421904898-b64151ec-bf11-4212-a173-e89f1c881700.jpg",
-          "url": "https://link.coupang.com/a/ieQM2qFJWm",
-          "_ts": 1793257177.411592
-        },
-        {
-          "name": "카레여왕 망고 앤 바나나 달콤한맛, 108g, 4개, 108g × 4개",
-          "price": "9,400원",
-          "discount_rate": 50,
-          "priceAt": "10.29 15:37",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/935239739623459-d6593164-0876-4372-9586-6b3c0bd2a4d7.jpg",
-          "url": "https://link.coupang.com/a/iePcQ0pr6O",
-          "_ts": 1793255849.9872441
         }
       ]
     },
@@ -1576,16 +1567,6 @@
           "url": "https://toss.shopping/_m/l2Xvm6oc",
           "_ts": 1793258359.592772,
           "_product_id": "12833301"
-        },
-        {
-          "name": "슈페리얼 생연어 회, 노르웨이산, 500g, 1개",
-          "price": "19,900원",
-          "discount_rate": 51,
-          "priceAt": "10.29 15:49",
-          "image": "https://shopping.toss.im/live/temp/2025-03-06/c5f4e10f-f581-47e5-80ab-feb6a05db5ec.jpeg",
-          "url": "https://toss.shopping/_m/ZdLescy9",
-          "_ts": 1793256590.1572502,
-          "_product_id": "85302025"
         }
       ]
     },
