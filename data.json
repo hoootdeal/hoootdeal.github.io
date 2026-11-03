@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "트윅스 탑 초코바, 210g, 1개, 210g × 1개",
+          "price": "3,400원",
+          "discount_rate": 26,
+          "priceAt": "11.03 12:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/23/17/4/0016ec20-5774-4376-8750-00d7f7b7cf75.jpg",
+          "url": "https://link.coupang.com/a/imV5dX2vTg",
+          "_ts": 1793678076.444368
+        },
+        {
           "name": "오스카마이어 로우 소디움 베이컨, 453g, 1개",
           "price": "7,590원",
           "discount_rate": 52,
@@ -1509,15 +1518,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/282c/7b824a7aaf75f07ee9e4652885f6cba91e7c84bf733a0fe2a13acc29aba3.jpg",
           "url": "https://link.coupang.com/a/ieEtJZu6eW",
           "_ts": 1793246843.310598
-        },
-        {
-          "name": "퍼니트 리얼 파인애플 효소 30p, 90g, 1개",
-          "price": "6,620원",
-          "discount_rate": 34,
-          "priceAt": "10.29 12:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/406043228616713-e4d4db71-4626-4eb6-a7cc-8d275495bae4.jpg",
-          "url": "https://link.coupang.com/a/ieAt53G3mS",
-          "_ts": 1793243488.940106
         }
       ]
     },
