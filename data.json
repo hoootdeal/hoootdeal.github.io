@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 가뿐한끼 저당 매콤닭가슴살 카레, 130g, 10개, 130g × 10개",
+          "price": "10,980원",
+          "discount_rate": 25,
+          "priceAt": "11.03 13:48",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/152521295286458-d10e5969-0eef-49c1-a9b2-115fe4ae8325.jpg",
+          "url": "https://link.coupang.com/a/imZV7eBQzc",
+          "_ts": 1793681311.0966852
+        },
+        {
           "name": "트윅스 탑 초코바, 210g, 1개, 210g × 1개",
           "price": "3,400원",
           "discount_rate": 26,
@@ -1509,15 +1518,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1066544254299275-7192c072-e28c-445e-9623-99f1ff8170fe.jpg",
           "url": "https://link.coupang.com/a/ieHKaOEdS9",
           "_ts": 1793249583.5146081
-        },
-        {
-          "name": "칙필에이 소스, 1개, 473ml",
-          "price": "8,450원",
-          "discount_rate": 31,
-          "priceAt": "10.29 13:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/282c/7b824a7aaf75f07ee9e4652885f6cba91e7c84bf733a0fe2a13acc29aba3.jpg",
-          "url": "https://link.coupang.com/a/ieEtJZu6eW",
-          "_ts": 1793246843.310598
         }
       ]
     },
@@ -1615,16 +1615,6 @@
           "url": "https://toss.shopping/_m/3krNmRhi",
           "_ts": 1793250561.1596758,
           "_product_id": "39181651"
-        },
-        {
-          "name": "쏘울너츠 100프로 땅콩버터 슈퍼크런치, 500g, 1개",
-          "price": "5,330원",
-          "discount_rate": 64,
-          "priceAt": "10.29 13:38",
-          "image": "https://shopping.toss.im/live/temp/2026-08-14/36ad27f8-1368-4f79-be66-e882adcc8b47.jpeg",
-          "url": "https://toss.shopping/_m/pGU52QEj",
-          "_ts": 1793248695.57273,
-          "_product_id": "2578047277"
         }
       ]
     },
