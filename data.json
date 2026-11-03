@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "올리타리아 엑스트라 버진 올리브오일, 250ml, 1개",
+          "price": "6,440원",
+          "discount_rate": 24,
+          "priceAt": "11.03 18:24",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/47866779727549-692033a3-ad55-448b-adb7-bd1631eab8f9.jpg",
+          "url": "https://link.coupang.com/a/injEHdr68i",
+          "_ts": 1793697867.9771972
+        },
+        {
           "name": "오설록 제주 순수녹차, 2g, 20개입, 1개",
           "price": "5,600원",
           "discount_rate": 34,
@@ -1537,16 +1546,6 @@
           "url": "https://toss.shopping/_m/BOS2jnZz",
           "_ts": 1793271184.348372,
           "_product_id": "154109255"
-        },
-        {
-          "name": "대봉감, 27과 내외, 5kg, 1박스",
-          "price": "11,900원",
-          "discount_rate": 65,
-          "priceAt": "10.29 18:09",
-          "image": "https://shopping.toss.im/live/temp/2026-10-10/0ab43fd9-b193-4925-8425-f649fe8b0f63.jpeg",
-          "url": "https://toss.shopping/_m/vkbkokEo",
-          "_ts": 1793264983.569103,
-          "_product_id": "2677153369"
         }
       ]
     },
