@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "키오시아 EXCERIA 마이크로 메모리 카드 홈캠 블랙박스 CCTV SD LMEX1L064GG4, 64GB, 1개",
+          "price": "10,330원",
+          "discount_rate": 56,
+          "priceAt": "11.03 10:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/116306729351983-be268789-2db2-4eb3-893c-e91bfe90c026.jpeg",
+          "url": "https://link.coupang.com/a/imNCkYYm5Y",
+          "_ts": 1793670968.1026502
+        },
+        {
           "name": "펩시 제로 슈거 라임향 제로 카페인, 355ml, 24개",
           "price": "12,240원",
           "discount_rate": 23,
@@ -1509,15 +1518,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/77580012732238-6302c9dc-2ba4-4384-9e06-275a22805748.jpg",
           "url": "https://link.coupang.com/a/iex2c1yQLs",
           "_ts": 1793241433.005323
-        },
-        {
-          "name": "후디스 그릭요거트 달지않은 저지방, 480g, 3개",
-          "price": "16,000원",
-          "discount_rate": 29,
-          "priceAt": "10.29 10:37",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/259165502243201-8bf267ae-68fc-4342-828c-423993629995.jpg",
-          "url": "https://link.coupang.com/a/ietLd2A1rE",
-          "_ts": 1793237844.6069329
         }
       ]
     },
