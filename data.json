@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "더미식 황태콩나물국, 350g, 3개, 350g × 3개",
+          "price": "6,300원",
+          "discount_rate": 23,
+          "priceAt": "11.03 10:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/284937371866720-dafdde70-3057-44db-a3d5-23d845f531a3.jpg",
+          "url": "https://link.coupang.com/a/imKvceq9v2",
+          "_ts": 1793668353.654009
+        },
+        {
           "name": "백설 돼지갈비 양념, 840g, 1개",
           "price": "2,480원",
           "discount_rate": 56,
@@ -1500,15 +1509,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/259165502243201-8bf267ae-68fc-4342-828c-423993629995.jpg",
           "url": "https://link.coupang.com/a/ietLd2A1rE",
           "_ts": 1793237844.6069329
-        },
-        {
-          "name": "프린스오브피스 프리미엄 보이차 100개입, 180g, 1개",
-          "price": "7,280원",
-          "discount_rate": 35,
-          "priceAt": "10.29 09:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/09e2/e4169184ef381530eca711eb3eabad655406cea86b48e32c56e6809f27de.jpeg",
-          "url": "https://link.coupang.com/a/iepJxC0prM",
-          "_ts": 1793234462.7466528
         }
       ]
     },
@@ -1626,16 +1626,6 @@
           "url": "https://toss.shopping/_m/5DNSAAvn",
           "_ts": 1793237189.074561,
           "_product_id": "86073833"
-        },
-        {
-          "name": "웰루츠 냉동 애플망고, 페루산, 1kg, 3개",
-          "price": "12,600원",
-          "discount_rate": 55,
-          "priceAt": "10.29 10:04",
-          "image": "https://shopping.toss.im/live/taca/ai/YWQ0YTcy/QU0yTW4zbWZrYk14N1pac3lUdHh6WjdzNVdac2JHVTdidXZCa3hQTTBPenc.png",
-          "url": "https://toss.shopping/_m/lYCWs9fi",
-          "_ts": 1793235842.116605,
-          "_product_id": "121011379"
         }
       ]
     },
