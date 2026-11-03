@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "제주삼다수 그린 무라벨, 2L, 30개",
+          "price": "23,620원",
+          "discount_rate": 23,
+          "priceAt": "11.03 14:22",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/71398883629442-ed0485d7-6609-42b5-8034-7fc5dab9668b.jpg",
+          "url": "https://link.coupang.com/a/im2nelYwtU",
+          "_ts": 1793683356.899905
+        },
+        {
           "name": "오뚜기 가뿐한끼 저당 매콤닭가슴살 카레, 130g, 10개, 130g × 10개",
           "price": "10,980원",
           "discount_rate": 25,
@@ -1500,24 +1509,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/527280203398142-8f2715a8-906f-468a-a075-565a9ef76c9c.png",
           "url": "https://link.coupang.com/a/ieKgRHsXBs",
           "_ts": 1793251707.442209
-        },
-        {
-          "name": "남녀공용 무지 후드집업 오버핏 데일리 빅사이즈 Sevenmoon, 그레이, L",
-          "price": "9,990원",
-          "discount_rate": 40,
-          "priceAt": "10.29 14:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9e00/3db7c8ca2aa266108884e591d57cdb15e1ff6d7c99d92d0996c2526a4bf6.jpg",
-          "url": "https://link.coupang.com/a/ieIZplmzka",
-          "_ts": 1793250629.551738
-        },
-        {
-          "name": "해표 양조식초, 1.8L, 2개",
-          "price": "2,880원",
-          "discount_rate": 34,
-          "priceAt": "10.29 13:53",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1066544254299275-7192c072-e28c-445e-9623-99f1ff8170fe.jpg",
-          "url": "https://link.coupang.com/a/ieHKaOEdS9",
-          "_ts": 1793249583.5146081
         }
       ]
     },
@@ -1605,16 +1596,6 @@
           "url": "https://toss.shopping/_m/nWRu3vlC",
           "_ts": 1793251870.9392,
           "_product_id": "146641171"
-        },
-        {
-          "name": "홍씨랑 일반미 쌀떡국떡, 1kg, 3개",
-          "price": "8,810원",
-          "discount_rate": 57,
-          "priceAt": "10.29 14:09",
-          "image": "https://shopping.toss.im/live/temp/2026-09-14/80982e90-0995-4885-9ae8-b6c6c43c1066.jpeg",
-          "url": "https://toss.shopping/_m/3krNmRhi",
-          "_ts": 1793250561.1596758,
-          "_product_id": "39181651"
         }
       ]
     },
