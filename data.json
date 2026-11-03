@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "펩시 제로 슈거 라임향 제로 카페인, 355ml, 24개",
+          "price": "12,240원",
+          "discount_rate": 23,
+          "priceAt": "11.03 10:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/10/01/11/9/33d77ad6-f56b-41e5-a658-85e2767fa0bc.jpg",
+          "url": "https://link.coupang.com/a/imMbfoNRLw",
+          "_ts": 1793669761.862319
+        },
+        {
           "name": "더미식 황태콩나물국, 350g, 3개, 350g × 3개",
           "price": "6,300원",
           "discount_rate": 23,
@@ -1616,16 +1625,6 @@
           "url": "https://toss.shopping/_m/pGU52QEj",
           "_ts": 1793248695.57273,
           "_product_id": "2578047277"
-        },
-        {
-          "name": "서로윤 제주 세라마이드 판테놀 시카 크림, 100ml, 1개",
-          "price": "5,600원",
-          "discount_rate": 77,
-          "priceAt": "10.29 10:26",
-          "image": "https://shopping.toss.im/live/taca/ai/MDFiODNm/RHk5MFVJZm4vaWhuZy9BQTg3OEgvMk85L3hMdndSOThnL0Q4R250SW84RT0.png",
-          "url": "https://toss.shopping/_m/5DNSAAvn",
-          "_ts": 1793237189.074561,
-          "_product_id": "86073833"
         }
       ]
     },
