@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "시크릿데이 NEW 러브 맥시흡수 생리대 날개형, 중형, 16개입, 4세트",
+          "price": "7,330원",
+          "discount_rate": 48,
+          "priceAt": "11.03 22:32",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/144247888133682-9447edbf-a5ab-43f1-8e8e-2c62bc8581c0.png",
+          "url": "https://link.coupang.com/a/inBmnoks68",
+          "_ts": 1793712732.240587
+        },
+        {
           "name": "해표 순알콩 진간장, 1.8L, 1개",
           "price": "3,070원",
           "discount_rate": 52,
@@ -1464,24 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/350599077133992-2696bc04-02bd-4bf8-a58b-774fa257a569.jpg",
           "url": "https://link.coupang.com/a/ifjysUqLx6",
           "_ts": 1793281332.130348
-        },
-        {
-          "name": "완숙 토마토, 5kg, 1박스",
-          "price": "20,350원",
-          "discount_rate": 36,
-          "priceAt": "10.29 22:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/naya6gvi/acf02d70f0c84e2a942d944bb3638a46.jpg",
-          "url": "https://link.coupang.com/a/ifhej7ibHU",
-          "_ts": 1793279379.037198
-        },
-        {
-          "name": "마이노멀 초코잼, 280g, 1개, 280g × 1개",
-          "price": "7,900원",
-          "discount_rate": 37,
-          "priceAt": "10.29 22:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/cjil2bsa/8fd77b2ed6f842a69662a4563be41272.png",
-          "url": "https://link.coupang.com/a/ifgy5lJkse",
-          "_ts": 1793278820.439776
         }
       ]
     },
