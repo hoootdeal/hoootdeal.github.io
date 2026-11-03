@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "헬시오리진스 피크노제놀 100mg 베지 캡슐, 120정, 1개",
+          "price": "39,120원",
+          "discount_rate": 52,
+          "priceAt": "11.04 07:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/3c9b44ea-e769-4778-951e-9ab470f4323d_fixing_v2.png",
+          "url": "https://link.coupang.com/a/iob8OTKNMa",
+          "_ts": 1793743615.070146
+        },
+        {
           "name": "시크릿데이 NEW 러브 맥시흡수 생리대 날개형, 중형, 16개입, 4세트",
           "price": "7,330원",
           "discount_rate": 48,
@@ -1455,15 +1464,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/145097600329344-1c0213fc-2b90-4d09-9b79-be45f075e187.jpg",
           "url": "https://link.coupang.com/a/ifTSWNt29k",
           "_ts": 1793311835.263531
-        },
-        {
-          "name": "오뚜기 라이트 앤 조이 1/2 하프케찹, 475g, 2개",
-          "price": "3,980원",
-          "discount_rate": 50,
-          "priceAt": "10.30 07:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/835825295012982-598253ea-94e8-4d89-b20f-66d1f36d8603.jpg",
-          "url": "https://link.coupang.com/a/ifTgk2Vwaa",
-          "_ts": 1793311312.407318
         }
       ]
     },
