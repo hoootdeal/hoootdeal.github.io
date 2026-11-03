@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "7D 건조망고, 80g, 5개입, 80g × 5개입",
+          "price": "13,750원",
+          "discount_rate": 27,
+          "priceAt": "11.03 11:40",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/8459/d80b3927b75fa5b1009599aa510c030592a119bdb5ee20c34dad21b5936c.jpg",
+          "url": "https://link.coupang.com/a/imQM6BrR1w",
+          "_ts": 1793673631.747643
+        },
+        {
           "name": "키오시아 EXCERIA 마이크로 메모리 카드 홈캠 블랙박스 CCTV SD LMEX1L064GG4, 64GB, 1개",
           "price": "10,330원",
           "discount_rate": 56,
@@ -1509,15 +1518,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c436/0b6a74e01f56c614fe075b46bdfb1f57ad22d2ccc4fe5ff938ecf994bbac.jpg",
           "url": "https://link.coupang.com/a/ieynU85DiK",
           "_ts": 1793241727.3406239
-        },
-        {
-          "name": "쁘띠첼 과일젤리 밀감, 210g, 3개, 210g × 3개",
-          "price": "4,400원",
-          "discount_rate": 39,
-          "priceAt": "10.29 11:37",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/77580012732238-6302c9dc-2ba4-4384-9e06-275a22805748.jpg",
-          "url": "https://link.coupang.com/a/iex2c1yQLs",
-          "_ts": 1793241433.005323
         }
       ]
     },
