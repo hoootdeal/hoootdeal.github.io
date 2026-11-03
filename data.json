@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "미떼 핫초코 오리지날, 17g, 40개입, 1개",
+          "price": "8,300원",
+          "discount_rate": 23,
+          "priceAt": "11.03 15:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/162401569764164-0a5a12d4-76c3-4bd1-97bf-191a26d90340.jpg",
+          "url": "https://link.coupang.com/a/im58X5WZWK",
+          "_ts": 1793686523.830189
+        },
+        {
           "name": "제주삼다수 그린 무라벨, 2L, 30개",
           "price": "23,620원",
           "discount_rate": 23,
@@ -1491,24 +1500,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/935239739623459-d6593164-0876-4372-9586-6b3c0bd2a4d7.jpg",
           "url": "https://link.coupang.com/a/iePcQ0pr6O",
           "_ts": 1793255849.9872441
-        },
-        {
-          "name": "돈시몬 스파클링 레몬에이드 탄산음료, 330ml, 12개",
-          "price": "12,870원",
-          "discount_rate": 28,
-          "priceAt": "10.29 14:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/d4af4b2a-6323-4cf7-8053-3a93c2dc1c6e3145753748619356769.png",
-          "url": "https://link.coupang.com/a/ieK3CYElj2",
-          "_ts": 1793252366.8814158
-        },
-        {
-          "name": "청정원 직화짬뽕 분말, 96g, 2개",
-          "price": "3,800원",
-          "discount_rate": 32,
-          "priceAt": "10.29 14:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/527280203398142-8f2715a8-906f-468a-a075-565a9ef76c9c.png",
-          "url": "https://link.coupang.com/a/ieKgRHsXBs",
-          "_ts": 1793251707.442209
         }
       ]
     },
@@ -1586,16 +1577,6 @@
           "url": "https://toss.shopping/_m/ZdLescy9",
           "_ts": 1793256590.1572502,
           "_product_id": "85302025"
-        },
-        {
-          "name": "살림백서 오브제 퍼퓸 바디워시, 화이트머스크, 1L, 2개",
-          "price": "9,000원",
-          "discount_rate": 77,
-          "priceAt": "10.29 14:31",
-          "image": "https://shopping.toss.im/live/temp/2026-10-28/0ba5bce8-f5c8-4da0-96a0-ee8e0ccb5140.jpeg",
-          "url": "https://toss.shopping/_m/nWRu3vlC",
-          "_ts": 1793251870.9392,
-          "_product_id": "146641171"
         }
       ]
     },
