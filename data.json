@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이클립스 쿨링 소프트 캔디 청포도향, 585g, 1개",
+          "price": "7,640원",
+          "discount_rate": 38,
+          "priceAt": "11.03 16:27",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/156e/fb65e8f1eafd206c5dc66dff0884949e69722df3f0d39bc6f61c75fd652e.jpg",
+          "url": "https://link.coupang.com/a/inbjIlHdx6",
+          "_ts": 1793690866.433095
+        },
+        {
           "name": "삐아 라스트 벨벳 립 틴트 5g, 17 꽃보다 살랑, 1개",
           "price": "6,910원",
           "discount_rate": 51,
@@ -1557,16 +1566,6 @@
           "url": "https://toss.shopping/_m/f4ftCSph",
           "_ts": 1793259595.334335,
           "_product_id": "1184228677"
-        },
-        {
-          "name": "에브리워터 무라벨, 500ml, 40개",
-          "price": "7,980원",
-          "discount_rate": 59,
-          "priceAt": "10.29 16:19",
-          "image": "https://shopping.toss.im/live/temp/2026-02-17/32d41410-98f1-42d9-a442-9e8820fad904.jpeg",
-          "url": "https://toss.shopping/_m/l2Xvm6oc",
-          "_ts": 1793258359.592772,
-          "_product_id": "12833301"
         }
       ]
     },
