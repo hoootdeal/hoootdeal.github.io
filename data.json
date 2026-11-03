@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "면사랑 간짜장 소스 3개입 (냉동), 540g, 1개",
+          "price": "3,740원",
+          "discount_rate": 41,
+          "priceAt": "11.03 19:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/m6jie0m0/986c59b6024845a88c2398c0ad4c023c.jpg",
+          "url": "https://link.coupang.com/a/inp86uWXUz",
+          "_ts": 1793703316.926856
+        },
+        {
           "name": "햇반 발아현미밥, 210g, 12개, 210g × 12개",
           "price": "15,420원",
           "discount_rate": 49,
@@ -1500,16 +1509,6 @@
           "url": "https://toss.shopping/_m/3oseGYVa",
           "_ts": 1793272376.908948,
           "_product_id": "93252431"
-        },
-        {
-          "name": "해성 알마늘 장아찌, 1kg, 1개",
-          "price": "6,690원",
-          "discount_rate": 58,
-          "priceAt": "10.29 19:53",
-          "image": "https://shopping.toss.im/live/product/49962267/51cbddb8-a906-4ca8-9302-f1a9db4b4bd4.jpg",
-          "url": "https://toss.shopping/_m/BOS2jnZz",
-          "_ts": 1793271184.348372,
-          "_product_id": "154109255"
         }
       ]
     },
