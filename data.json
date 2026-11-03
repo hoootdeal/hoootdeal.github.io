@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "샘표국시 비빔국수, 135g, 4개",
+          "price": "3,060원",
+          "discount_rate": 38,
+          "priceAt": "11.04 08:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/439712768745553-96500f33-ef89-4433-bb60-ce045c3533b3.png",
+          "url": "https://link.coupang.com/a/iof0FAn468",
+          "_ts": 1793746862.59482
+        },
+        {
           "name": "티트리트 여우티 호박팥차, 1.5g, 20개입, 1개",
           "price": "5,720원",
           "discount_rate": 44,
