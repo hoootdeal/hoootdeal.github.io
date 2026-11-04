@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스탠리 퀜처 프로투어 플립스트로 텀블러, 체리 블로썸, 591ml, 1개",
+          "price": "21,600원",
+          "discount_rate": 43,
+          "priceAt": "11.04 16:22",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/514811257064771-af2db239-af31-43a2-9747-cd89656cc4fc.jpg",
+          "url": "https://link.coupang.com/a/ioPOJpAq72",
+          "_ts": 1793776925.23222
+        },
+        {
           "name": "풀무원 국산 홍 고춧가루 (냉장), 200g, 1개",
           "price": "10,340원",
           "discount_rate": 33,
@@ -1437,33 +1446,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/05/06/16/2/718be5a5-cf78-4e69-bb97-fd6851297d77.jpg",
           "url": "https://link.coupang.com/a/igzULmVZgy",
           "_ts": 1793347122.925371
-        },
-        {
-          "name": "비피 바질 페스토 알라 제노비스, 140g, 1개, 140g × 1개",
-          "price": "5,900원",
-          "discount_rate": 32,
-          "priceAt": "10.30 16:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/podfymeg/6510a7151e05474db0ac3d40d05c8b67.jpg",
-          "url": "https://link.coupang.com/a/igwJWm4mDk",
-          "_ts": 1793344458.8621461
-        },
-        {
-          "name": "복음자리 바로 짜먹는 딸기잼, 100g, 3개",
-          "price": "3,870원",
-          "discount_rate": 41,
-          "priceAt": "10.30 15:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/126072288661425-e5dcd9cc-0097-4f41-b92e-01a1f40e43cc.jpg",
-          "url": "https://link.coupang.com/a/igsUX5bOkm",
-          "_ts": 1793341250.4996328
-        },
-        {
-          "name": "추억의국민학교떡볶이 오리지널 (밀떡) (냉동), 600g, 2개, 600g × 2개",
-          "price": "6,800원",
-          "discount_rate": 38,
-          "priceAt": "10.30 15:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1327632924357665-a8839ab4-4774-4f41-ad6e-35c22d6abc35.jpg",
-          "url": "https://link.coupang.com/a/igr1JOMd2W",
-          "_ts": 1793340500.734276
         }
       ]
     },
