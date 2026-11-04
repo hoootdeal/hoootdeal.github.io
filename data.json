@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "브랜든 폴더블 캐리올 토트백, 차콜, 54 x 42 x 18 cm",
+          "price": "14,400원",
+          "discount_rate": 55,
+          "priceAt": "11.04 18:32",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d2da/249109ae7461c09d1a3d25e0a63b25b6208b1e43ac6455262e278fd41678.jpg",
+          "url": "https://link.coupang.com/a/ioY8bC44D6",
+          "_ts": 1793784744.871926
+        },
+        {
           "name": "베이비본죽 영유아용 실온 이유식 완료기, 닭고기알밤진밥, 180g, 2개",
           "price": "5,590원",
           "discount_rate": 44,
@@ -1437,24 +1446,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/52160419612534-3fa39217-b8a4-4288-a899-2f87aff06262.jpg",
           "url": "https://link.coupang.com/a/igI3nxYREq",
           "_ts": 1793354796.440476
-        },
-        {
-          "name": "다향 1등급 훈제 오리 슬라이스, 600g, 2개",
-          "price": "17,440원",
-          "discount_rate": 23,
-          "priceAt": "10.30 18:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/464333546592730-c4e77d01-7030-40ac-be46-c91d3ecc63d1.jpg",
-          "url": "https://link.coupang.com/a/igFyXQJkuy",
-          "_ts": 1793351867.291847
-        },
-        {
-          "name": "청정원 건강한 올리고당, 1.2kg, 2개, 1.2kg × 2개",
-          "price": "4,820원",
-          "discount_rate": 33,
-          "priceAt": "10.30 17:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/321599313007222-9564c239-10c9-413b-936e-ec024314352d.jpg",
-          "url": "https://link.coupang.com/a/igD6DMxuBE",
-          "_ts": 1793350642.760625
         }
       ]
     },
