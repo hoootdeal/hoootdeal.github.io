@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "베이비본죽 영유아용 실온 이유식 완료기, 닭고기알밤진밥, 180g, 2개",
+          "price": "5,590원",
+          "discount_rate": 44,
+          "priceAt": "11.04 17:53",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5190870001472-aaf69566-5777-4d79-915b-1415fcae1c0b.png",
+          "url": "https://link.coupang.com/a/ioWj33FmCW",
+          "_ts": 1793782388.023071
+        },
+        {
           "name": "올레길 AI 당도선별 11brix 감귤, 2kg(로열과), 1개, 2kg(로열과) × 1개",
           "price": "11,900원",
           "discount_rate": 25,
@@ -1446,15 +1455,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/321599313007222-9564c239-10c9-413b-936e-ec024314352d.jpg",
           "url": "https://link.coupang.com/a/igD6DMxuBE",
           "_ts": 1793350642.760625
-        },
-        {
-          "name": "백설 초코칩 쿠키믹스, 290g, 2개",
-          "price": "2,980원",
-          "discount_rate": 45,
-          "priceAt": "10.30 17:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/eaaa/282b674e12d0cd165c2686bb7890f6653fa796fd605e21d9ab9fd4b34e8f.jpg",
-          "url": "https://link.coupang.com/a/igAPENzdCe",
-          "_ts": 1793347893.707117
         }
       ]
     },
