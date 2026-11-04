@@ -1473,6 +1473,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "교동 버섯 들깨탕, 500g, 5개",
+          "price": "11,900원",
+          "discount_rate": 56,
+          "priceAt": "11.05 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/NDE0MDQ4/WW0zZXk3U0RHMkU0Y1dRZTNtUFJObTFqTHRPV0lYbE1qdUd6cVRsRXpQWT0.png",
+          "url": "https://toss.shopping/_m/NtQJKnFC",
+          "_ts": 1793833424.6943932,
+          "_flash": true,
+          "_product_id": "93253001"
+        },
+        {
+          "name": "순수공감 노블 물티슈, 70매, 20팩",
+          "price": "17,900원",
+          "discount_rate": 68,
+          "priceAt": "11.05 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-03-13/a123f072-d6ab-4b2f-9722-6a2b0626ad76.jpeg",
+          "url": "https://toss.shopping/_m/bDAMBJjC",
+          "_ts": 1793833424.6943831,
+          "_flash": true,
+          "_product_id": "1127157129"
+        },
+        {
+          "name": "하람떡방 콩쑥개떡, 30개, 1.8kg",
+          "price": "12,900원",
+          "discount_rate": 69,
+          "priceAt": "11.05 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/OGEwZGMx/UGZPck01enRoZkhiT1MyZDJ1cWUwekd1RTBiRlllMFp2cEpUS1dnbG5PZz0.png",
+          "url": "https://toss.shopping/_m/zobEr3se",
+          "_ts": 1793833424.694368,
+          "_flash": true,
+          "_product_id": "168860335"
+        },
+        {
           "name": "대구축산농협 팔공참한우 1++등급 국거리, 300g, 1개",
           "price": "9,000원",
           "discount_rate": 60,
