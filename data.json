@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "농심 사무실 과자세트 스낵 8입 세트 (바나나킥 + 조청유과 + 자갈치 + 양파링 + 포스틱 + 새우깡 + 빵부장 소금빵 + 오징어집), 1세트, 8종",
+          "price": "7,480원",
+          "discount_rate": 30,
+          "priceAt": "11.04 14:05",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/25396567491795-6f347ab2-d248-418f-b3f0-4ea75057422c.png",
+          "url": "https://link.coupang.com/a/ioF4ixsEnc",
+          "_ts": 1793768739.158269
+        },
+        {
           "name": "바세린 베이비 프로텍팅 젤리, 100ml, 1개, 100ml × 1개",
           "price": "2,300원",
           "discount_rate": 39,
@@ -1446,15 +1455,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2780975699009061-7db45d1b-534e-4db7-87b7-dc3c91a84b16.jpg",
           "url": "https://link.coupang.com/a/igoA5Gf8Gy",
           "_ts": 1793337621.5752478
-        },
-        {
-          "name": "비비고 매콤 납작교자 (냉동), 315g, 4개",
-          "price": "10,480원",
-          "discount_rate": 42,
-          "priceAt": "10.30 13:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/41427b28-b387-4e06-a951-08d95ed9c9707448840799673269279.png",
-          "url": "https://link.coupang.com/a/igloqC2oOi",
-          "_ts": 1793334932.123225
         }
       ]
     },
