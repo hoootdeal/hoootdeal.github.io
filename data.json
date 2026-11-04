@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하이뮨 프로틴 밸런스 L, 608g, 1개, 608g × 1개",
+          "price": "24,840원",
+          "discount_rate": 27,
+          "priceAt": "11.04 10:27",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
+          "url": "https://link.coupang.com/a/ioqufNratE",
+          "_ts": 1793755659.793552
+        },
+        {
           "name": "잘크톤 멀티쑥쑥 츄어블정 포도맛, 90정, 1개, 90정 × 1개",
           "price": "14,580원",
           "discount_rate": 31,
@@ -1446,24 +1455,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/2f86/41737dbd6b950c09a46dedfc14e5e675b171fe156336f7f850deb4f0b68d.jpg",
           "url": "https://link.coupang.com/a/if9mhvDRAa",
           "_ts": 1793324827.238919
-        },
-        {
-          "name": "맥스봉 더오리지널, 525g, 2개",
-          "price": "8,100원",
-          "discount_rate": 30,
-          "priceAt": "10.30 10:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/542579813573551-5d2a8518-6b45-41c8-9378-3e6a39470570.jpg",
-          "url": "https://link.coupang.com/a/if6Qnph7E4",
-          "_ts": 1793322715.013068
-        },
-        {
-          "name": "프로그 라텍스 컴포트 고무장갑, 애쉬블루, 중(M), 6세트",
-          "price": "8,160원",
-          "discount_rate": 59,
-          "priceAt": "10.30 09:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/239214340851006-b83c8470-0d01-41b6-be1e-4c61b66e4556.png",
-          "url": "https://link.coupang.com/a/if4YHebljo",
-          "_ts": 1793321147.568681
         }
       ]
     },
