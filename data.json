@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "도밍고 꿀차 3종 선물세트, 꿀홍차 10p + 꿀민트 10p + 꿀캐모마일 10p, 1세트",
+          "price": "8,000원",
+          "discount_rate": 39,
+          "priceAt": "11.05 08:34",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/392250768397596-68a5af9f-ea35-4cd8-afbf-3a5cd7e690c1.jpg",
+          "url": "https://link.coupang.com/a/ipXiZ3Vc1k",
+          "_ts": 1793835268.8879712
+        },
+        {
           "name": "오뚜기 실쏙 찹쌀 군만두 고기 (냉동), 1.5kg, 1개",
           "price": "5,990원",
           "discount_rate": 40,
@@ -1455,15 +1464,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/2482/c31055fa92caf86ed1d46367efb68ab14a90edf2e7031de782414a31c22a.jpg",
           "url": "https://link.coupang.com/a/ihHSDIwd4u",
           "_ts": 1793405869.074773
-        },
-        {
-          "name": "유로푸드 유기농 레몬주스, 1L, 1개, 1L × 1개",
-          "price": "7,920원",
-          "discount_rate": 39,
-          "priceAt": "10.31 08:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/c0e0/24af91cf9bb254968cc8e3d9e34ffb6367b8d0353acf51007fd633b9c591.jpg",
-          "url": "https://link.coupang.com/a/ihEMG4NFOm",
-          "_ts": 1793403267.3808498
         }
       ]
     },
