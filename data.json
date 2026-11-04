@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이니스프리 포레스트 포맨 올인원 3종 기획 세트, 1개, 30g",
+          "price": "10,990원",
+          "discount_rate": 32,
+          "priceAt": "11.04 11:21",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/21/9/2/ecaa77f0-98ac-411d-b95a-1d03ca9f32ec.png",
+          "url": "https://link.coupang.com/a/iouiEuD5A4",
+          "_ts": 1793758862.3420439
+        },
+        {
           "name": "기장물산 연화리 가마솥 전복죽 (냉동), 200g, 1개",
           "price": "5,160원",
           "discount_rate": 47,
@@ -1455,15 +1464,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/311083425668126-0689f95e-4d2d-47b0-9252-61d5b7863a2a.jpg",
           "url": "https://link.coupang.com/a/igbRIeJxRs",
           "_ts": 1793326932.524946
-        },
-        {
-          "name": "에스앤비골든 카레 아주 매운맛, 220g, 3개",
-          "price": "7,470원",
-          "discount_rate": 27,
-          "priceAt": "10.30 10:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/2f86/41737dbd6b950c09a46dedfc14e5e675b171fe156336f7f850deb4f0b68d.jpg",
-          "url": "https://link.coupang.com/a/if9mhvDRAa",
-          "_ts": 1793324827.238919
         }
       ]
     },
