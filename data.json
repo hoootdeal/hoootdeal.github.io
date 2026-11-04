@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "존쿡델리미트 사각 잠봉, 400g, 1개, 400g × 1개",
+          "price": "6,990원",
+          "discount_rate": 36,
+          "priceAt": "11.04 22:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/10323314882887-10cf865c-7efb-46c7-a10c-938738ea26ef.jpg",
+          "url": "https://link.coupang.com/a/ipfTkyaHca",
+          "_ts": 1793798818.980644
+        },
+        {
           "name": "파스퇴르 쾌변 요구르트 포도, 150ml, 4개입, 2개",
           "price": "6,680원",
           "discount_rate": 44,
@@ -1446,15 +1455,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5ea014a1-b22c-4690-a79b-ba4aad93f5c15833299314328306871.png",
           "url": "https://link.coupang.com/a/ihAqfeJUpE",
           "_ts": 1793399604.322794
-        },
-        {
-          "name": "닥터지 더모이스처 배리어디 인텐스 크림, 100ml, 2개",
-          "price": "19,200원",
-          "discount_rate": 22,
-          "priceAt": "10.30 22:17",
-          "image": "https://image11.coupangcdn.com/image/retail/images/108854910408158-ed4e771c-6ed2-4b40-82be-f6f2284484b1.jpg",
-          "url": "https://link.coupang.com/a/igWIDVjcwC",
-          "_ts": 1793366271.939222
         }
       ]
     },
