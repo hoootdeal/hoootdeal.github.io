@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바세린 베이비 프로텍팅 젤리, 100ml, 1개, 100ml × 1개",
+          "price": "2,300원",
+          "discount_rate": 39,
+          "priceAt": "11.04 13:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f4b7/06a2f8d65baad5364a40a5a728282a4b193652bf1b48dfc579f4b141c084.jpg",
+          "url": "https://link.coupang.com/a/ioCzRKtpD2",
+          "_ts": 1793765809.459716
+        },
+        {
           "name": "순작 유기농 보리차 티백, 10g, 30개입, 1개",
           "price": "1,880원",
           "discount_rate": 37,
@@ -1446,15 +1455,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/41427b28-b387-4e06-a951-08d95ed9c9707448840799673269279.png",
           "url": "https://link.coupang.com/a/igloqC2oOi",
           "_ts": 1793334932.123225
-        },
-        {
-          "name": "바바김밥 돈즙팡 돼지불고기김밥 (냉동), 5개, 240g",
-          "price": "8,590원",
-          "discount_rate": 49,
-          "priceAt": "10.30 13:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2156444005871120-8b72062d-59e5-49c4-8022-cff1f9cff854.png",
-          "url": "https://link.coupang.com/a/igjCaZ9tO8",
-          "_ts": 1793333437.981189
         }
       ]
     },
