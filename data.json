@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 실쏙 찹쌀 군만두 고기 (냉동), 1.5kg, 1개",
+          "price": "5,990원",
+          "discount_rate": 40,
+          "priceAt": "11.05 07:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/f1zgonpi/a2a560b02d564b759975b59764857610.jpg",
+          "url": "https://link.coupang.com/a/ipTL7eUQP6",
+          "_ts": 1793832305.279309
+        },
+        {
           "name": "에이원 틱 앤 하티 스테이크소스, 283g, 1개, 283g × 1개",
           "price": "2,490원",
           "discount_rate": 50,
@@ -1464,15 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/159539220479799-ea397a85-5cb3-4371-a676-5d8cd87e493d.jpg",
           "url": "https://link.coupang.com/a/ihBi2SM1p6",
           "_ts": 1793400346.723831
-        },
-        {
-          "name": "오뚜기 갈릭마요 딥핑소스, 240g, 2개",
-          "price": "3,680원",
-          "discount_rate": 41,
-          "priceAt": "10.31 07:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/163668140527136-4bfb19e9-70d3-47bf-a63a-15e90cdbbcc0.jpg",
-          "url": "https://link.coupang.com/a/ihAZFNhFbU",
-          "_ts": 1793400083.88701
         }
       ]
     },
