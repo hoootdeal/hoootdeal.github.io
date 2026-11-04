@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하루활력 배도라지청, 10ml, 30개입, 1개",
+          "price": "5,300원",
+          "discount_rate": 25,
+          "priceAt": "11.04 20:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4676389838344-5b9a7df0-0a0d-4684-ace8-d4e12b654e7e.jpg",
+          "url": "https://link.coupang.com/a/io7DCWyiMS",
+          "_ts": 1793791889.518549
+        },
+        {
           "name": "광천김 무조미 곱창 전장김, 18g, 10개, 18g × 10개",
           "price": "11,950원",
           "discount_rate": 45,
@@ -1437,15 +1446,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/09b3/6f6276487d7456f49b44880667b893543de8dfa4020d1a7061a65dfc2d06.png",
           "url": "https://link.coupang.com/a/igQxJG0YAT",
           "_ts": 1793361084.679378
-        },
-        {
-          "name": "바릴라 아라비아타 파스타소스, 400g, 2개",
-          "price": "6,780원",
-          "discount_rate": 37,
-          "priceAt": "10.30 20:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/878322540851390-40e91d84-434a-46ba-97dd-6253e0de2514.jpg",
-          "url": "https://link.coupang.com/a/igNR986lfo",
-          "_ts": 1793358841.658863
         }
       ]
     },
