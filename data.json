@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쉐일라지스 브라우니 브리틀 솔티드 캐러멜, 1개, 142g",
+          "price": "5,440원",
+          "discount_rate": 33,
+          "priceAt": "11.04 12:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/aabf/994606d33e4edccdfa46e264004bc47a4a3357f4e9b139f4577b110e8529.jpg",
+          "url": "https://link.coupang.com/a/ioxwDzy59M",
+          "_ts": 1793761569.5836859
+        },
+        {
           "name": "이니스프리 포레스트 포맨 올인원 3종 기획 세트, 1개, 30g",
           "price": "10,990원",
           "discount_rate": 32,
@@ -1455,15 +1464,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/8497573810544506-6ec2af6e-6112-49af-98f8-2132ed2fd509.jpg",
           "url": "https://link.coupang.com/a/igfDzuKVA4",
           "_ts": 1793330099.033812
-        },
-        {
-          "name": "유한락스 욕실청소용 세정제, 600ml, 4개",
-          "price": "9,210원",
-          "discount_rate": 32,
-          "priceAt": "10.30 11:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/311083425668126-0689f95e-4d2d-47b0-9252-61d5b7863a2a.jpg",
-          "url": "https://link.coupang.com/a/igbRIeJxRs",
-          "_ts": 1793326932.524946
         }
       ]
     },
