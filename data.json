@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "순작 유기농 보리차 티백, 10g, 30개입, 1개",
+          "price": "1,880원",
+          "discount_rate": 37,
+          "priceAt": "11.04 12:28",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7533236081311331-ff850705-aa07-4546-8851-fa9c5e24d96f.jpg",
+          "url": "https://link.coupang.com/a/ioy5W9z9WK",
+          "_ts": 1793762884.3678432
+        },
+        {
           "name": "쉐일라지스 브라우니 브리틀 솔티드 캐러멜, 1개, 142g",
           "price": "5,440원",
           "discount_rate": 33,
@@ -1446,24 +1455,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2156444005871120-8b72062d-59e5-49c4-8022-cff1f9cff854.png",
           "url": "https://link.coupang.com/a/igjCaZ9tO8",
           "_ts": 1793333437.981189
-        },
-        {
-          "name": "미미네 어묵많이 국물떡볶이 (밀떡) (냉동), 570g, 2봉",
-          "price": "6,200원",
-          "discount_rate": 47,
-          "priceAt": "10.30 12:24",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/269123568844795-f2f7fe4b-0a89-49fd-867a-ac36957f1574.jpg",
-          "url": "https://link.coupang.com/a/iggkf1po16",
-          "_ts": 1793330677.6240408
-        },
-        {
-          "name": "풀무원 가락 김치우동 2인분, 486.6g, 1개, 486.6g × 1개",
-          "price": "3,740원",
-          "discount_rate": 44,
-          "priceAt": "10.30 12:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/8497573810544506-6ec2af6e-6112-49af-98f8-2132ed2fd509.jpg",
-          "url": "https://link.coupang.com/a/igfDzuKVA4",
-          "_ts": 1793330099.033812
         }
       ]
     },
