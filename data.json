@@ -1518,6 +1518,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "엔코스 트리플 이펙트 올인원 로션, 120ml, 1개",
+          "price": "9,660원",
+          "discount_rate": 72,
+          "priceAt": "11.06 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-03-12/392fc0d2-3fe0-4321-9806-1576fa92b7bd.jpeg",
+          "url": "https://toss.shopping/_m/JbvgELJu",
+          "_ts": 1793919796.120438,
+          "_flash": true,
+          "_product_id": "9115615"
+        },
+        {
+          "name": "한경희 4세대 하이엔드퓨어 BLDC 무선 탁상용 선풍기, HAAN-MFL610, 퓨어화이트, 1개",
+          "price": "18,430원",
+          "discount_rate": 76,
+          "priceAt": "11.06 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/MWNjNTc3/QUtHMENGT1lSOWN0M3I5b2x5WGtqM1ozSjlTbmdyYXJlLzFTaDlKY2c0Z0w.png",
+          "url": "https://toss.shopping/_m/1Wec8w0l",
+          "_ts": 1793919796.120424,
+          "_flash": true,
+          "_product_id": "1959347537"
+        },
+        {
+          "name": "신선맘 미국산 구운 땅콩, 2kg, 1개",
+          "price": "12,900원",
+          "discount_rate": 67,
+          "priceAt": "11.06 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/MDM2MWZi/V2hKMDArVnNpYkd6WWNiZTFMWTVHUm1lNUhIaVU5dmxsVmdtQnVxb2NmND0.png",
+          "url": "https://toss.shopping/_m/ldVvTzYa",
+          "_ts": 1793919796.120405,
+          "_flash": true,
+          "_product_id": "109806747"
+        },
+        {
           "name": "맛생각 전통 청국장, 600g, 4개",
           "price": "12,900원",
           "discount_rate": 64,
