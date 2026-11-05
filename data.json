@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "빼빼로 화이트 쿠키 2p x 딸기 2p + 랜덤 한교동 책갈피 세트, 148g, 1세트",
+          "price": "3,600원",
+          "discount_rate": 39,
+          "priceAt": "11.06 07:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/09/17/16/0/eb993321-414a-4186-83da-2962798094bf.jpg",
+          "url": "https://link.coupang.com/a/irwbqF6rAq",
+          "_ts": 1793916609.649329
+        },
+        {
           "name": "곰곰 당도선별 제주감귤, 500g(로얄과), 1박스, 500g(로얄과) × 1박스",
           "price": "2,190원",
           "discount_rate": 65,
@@ -1491,15 +1500,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/17024641173301-e5f9027f-eb04-4463-aa1d-b07f83f29a97.jpg",
           "url": "https://link.coupang.com/a/ijd1cReKbI",
           "_ts": 1793484908.661549
-        },
-        {
-          "name": "오뚜기 딸기쨈, 500g, 1개",
-          "price": "3,890원",
-          "discount_rate": 39,
-          "priceAt": "11.01 07:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/220230691676749-93331ab4-1ff1-4524-bfd4-903fca8afd42.jpg",
-          "url": "https://link.coupang.com/a/ijdeVe0dOe",
-          "_ts": 1793484254.84166
         }
       ]
     },
