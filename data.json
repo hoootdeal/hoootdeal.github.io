@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "케이트 3D 아이브로우 컬러 Z 6.3g, BR-2 라이트 브..., 1개, BR-2 라이트 브라운",
+          "price": "4,200원",
+          "discount_rate": 62,
+          "priceAt": "11.05 13:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/10/01/14/0/70657776-dee7-4448-a67c-070222bcc7d3.jpg",
+          "url": "https://link.coupang.com/a/iqgl4eYNK8",
+          "_ts": 1793851265.416192
+        },
+        {
           "name": "타이키 물없이 싸먹는 월남쌈 라이스페이퍼 사각 16cm, 3개, 120g",
           "price": "2,400원",
           "discount_rate": 53,
@@ -1464,15 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/71808685620838-f5575201-97b5-44de-8321-5575b73dad0f.jpg",
           "url": "https://link.coupang.com/a/ih0erKDLYy",
           "_ts": 1793421278.127584
-        },
-        {
-          "name": "덴마크 소화가 잘되는 우유 락토프리, 190ml, 24개, 190ml × 24개",
-          "price": "12,980원",
-          "discount_rate": 28,
-          "priceAt": "10.31 12:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/6329/4bbc252340a52fd807cccc589168f40863d7056fc5c0f96461a1c8eb524b.jpg",
-          "url": "https://link.coupang.com/a/ihW5xjqqfA",
-          "_ts": 1793418638.7236748
         }
       ]
     },
