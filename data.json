@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "순창궁 태양초골드 고추장, 500g, 2개입",
+          "price": "5,060원",
+          "discount_rate": 23,
+          "priceAt": "11.05 10:47",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0a24/d6daf5370a7896646d4f96f2663ca80d090062f5c5573b9e7b75ef652d5d.jpg",
+          "url": "https://link.coupang.com/a/ip6Oux0l3Y",
+          "_ts": 1793843253.393665
+        },
+        {
           "name": "Wendini 네모 파스타접시, 그린, 핑크, 6개",
           "price": "4,990원",
           "discount_rate": 62,
@@ -1482,15 +1491,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/11/06/15/9/15a6345c-c4ef-4949-acb2-ab76d9c43133.jpg",
           "url": "https://link.coupang.com/a/ihRtD2buBU",
           "_ts": 1793413927.258955
-        },
-        {
-          "name": "풀무원 생물만두 (냉동), 300g, 6개",
-          "price": "13,880원",
-          "discount_rate": 54,
-          "priceAt": "10.31 10:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/35209298-9f9b-4d27-87c7-1c64fa50b7741811644764034092608.png",
-          "url": "https://link.coupang.com/a/ihNVSPVYfQ",
-          "_ts": 1793410950.5440252
         }
       ]
     },
