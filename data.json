@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "허쉬 초코아몬드 찰떡 파이, 88g, 2개, 88g × 2개",
+          "price": "2,840원",
+          "discount_rate": 32,
+          "priceAt": "11.05 20:42",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/cebc1f88-77fb-43f0-afd0-0cfaf34131e46171270141621483113.png",
+          "url": "https://link.coupang.com/a/iqNiIEXUFU",
+          "_ts": 1793878927.028401
+        },
+        {
           "name": "콘칲 군옥수수맛, 148g, 1개",
           "price": "1,640원",
           "discount_rate": 45,
@@ -1482,24 +1491,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/321296903861218-4d7d9c85-f888-4a03-bc52-e5ffb3b71ba9.jpg",
           "url": "https://link.coupang.com/a/iixXuzP44i",
           "_ts": 1793449592.3015501
-        },
-        {
-          "name": "머지 더 퍼스트 벨벳 립 틴트, V2잭로즈, 1개",
-          "price": "3,950원",
-          "discount_rate": 44,
-          "priceAt": "10.31 20:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/100588707182770-71868772-c60a-4689-bbc8-9bf529f16a45.jpg",
-          "url": "https://link.coupang.com/a/iiuH98OpgW",
-          "_ts": 1793446866.1855419
-        },
-        {
-          "name": "데체코 스파게티, 500g, 2개",
-          "price": "5,480원",
-          "discount_rate": 25,
-          "priceAt": "10.31 20:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/43523227340037-a5f858e4-3800-466a-a823-3d8a989a2efa.jpg",
-          "url": "https://link.coupang.com/a/iismhwbNuu",
-          "_ts": 1793444890.601814
         }
       ]
     },
