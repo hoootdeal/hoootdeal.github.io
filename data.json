@@ -1482,6 +1482,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
+          "price": "5,450원",
+          "discount_rate": 63,
+          "priceAt": "11.05 13:03",
+          "image": "https://shopping.toss.im/live/taca/ai/YmI1NGJk/QUpobU9jOXRzYlNac25uSVpEbW03Wm1lVTF0TXkweFlNekR6VXNubkhLY00.png",
+          "url": "https://toss.shopping/_m/7cAsXrbr",
+          "_ts": 1793851412.0501068,
+          "_product_id": "241796467"
+        },
+        {
           "name": "리프레쉬 백진미 오징어, 1kg, 1봉",
           "price": "18,510원",
           "discount_rate": 65,
