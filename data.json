@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "비비드키친 저칼로리 머스터드소스, 320g, 1개",
+          "price": "2,160원",
+          "discount_rate": 33,
+          "priceAt": "11.06 07:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/63392091134059-5ca0aa78-5ef9-439e-8199-eb111986daf7.jpg",
+          "url": "https://link.coupang.com/a/irye1EKYeH",
+          "_ts": 1793918338.0611289
+        },
+        {
           "name": "오뚜기 라면의 맵쏘디 120g, 10개",
           "price": "4,580원",
           "discount_rate": 34,
@@ -1500,15 +1509,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bad7/ea9b254e84c6f9cfaf135456eedbe5b6e5ecae07fd095f1292a365aecc75.jpg",
           "url": "https://link.coupang.com/a/ijgegSakKG",
           "_ts": 1793486765.226648
-        },
-        {
-          "name": "다향 훈제오리, 600g, 1개",
-          "price": "8,090원",
-          "discount_rate": 38,
-          "priceAt": "11.01 07:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/42717724895218-dfac3d2c-5bbb-411f-9b0b-ac87a7cf9db1.jpg",
-          "url": "https://link.coupang.com/a/ije3mVLxRY",
-          "_ts": 1793485778.004933
         }
       ]
     },
