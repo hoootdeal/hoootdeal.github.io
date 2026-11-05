@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "라멜린 카멜리아 수분 젤 크림, 1개, 50ml",
+          "price": "11,340원",
+          "discount_rate": 65,
+          "priceAt": "11.05 09:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/108315684801769-f2be0d48-d79a-4b64-ac7b-d2d4af52cd53.jpg",
+          "url": "https://link.coupang.com/a/ip0tGCdcgC",
+          "_ts": 1793837931.8731542
+        },
+        {
           "name": "유즈베러띵 발로 꾹 원터치 밀대 걸레, 1개",
           "price": "9,900원",
           "discount_rate": 33,
@@ -1482,15 +1491,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/876665624087835-7c56d61d-2ec4-46f1-953b-4210703fe418.jpg",
           "url": "https://link.coupang.com/a/ihLbhD0Rz2",
           "_ts": 1793408640.1083431
-        },
-        {
-          "name": "일리 클래식 로스트 클라시코 룽고 캡슐커피, 6.2g, 21개입, 1개",
-          "price": "11,060원",
-          "discount_rate": 25,
-          "priceAt": "10.31 09:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/2482/c31055fa92caf86ed1d46367efb68ab14a90edf2e7031de782414a31c22a.jpg",
-          "url": "https://link.coupang.com/a/ihHSDIwd4u",
-          "_ts": 1793405869.074773
         }
       ]
     },
