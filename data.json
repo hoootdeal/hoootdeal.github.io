@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "팔도 라볶이 봉지라면 145g, 8개",
+          "price": "6,830원",
+          "discount_rate": 25,
+          "priceAt": "11.06 07:59",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1058235725848817-3e8fd87c-7dcc-42ae-a0f6-dee4b5840a88.png",
+          "url": "https://link.coupang.com/a/irzGI7XT9E",
+          "_ts": 1793919553.300952
+        },
+        {
           "name": "비비드키친 저칼로리 머스터드소스, 320g, 1개",
           "price": "2,160원",
           "discount_rate": 33,
@@ -1500,15 +1509,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/c1ab/fa8b2de010ef6e2a608169eff04431c5fa4737d51275e6b10859bcaa5810.jpg",
           "url": "https://link.coupang.com/a/ijit0D9woC",
           "_ts": 1793488656.58234
-        },
-        {
-          "name": "산가리아 멜론 소다 음료, 500ml, 12개",
-          "price": "20,160원",
-          "discount_rate": 24,
-          "priceAt": "11.01 07:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bad7/ea9b254e84c6f9cfaf135456eedbe5b6e5ecae07fd095f1292a365aecc75.jpg",
-          "url": "https://link.coupang.com/a/ijgegSakKG",
-          "_ts": 1793486765.226648
         }
       ]
     },
