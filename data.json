@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "콘칲 군옥수수맛, 148g, 1개",
+          "price": "1,640원",
+          "discount_rate": 45,
+          "priceAt": "11.05 19:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/319741552974925-4105c7b6-0b46-4f11-9887-442a86b92e2c.jpg",
+          "url": "https://link.coupang.com/a/iqJ9M9bbe8",
+          "_ts": 1793876286.925826
+        },
+        {
           "name": "삼양 맛있는라면 115g, 5개",
           "price": "3,150원",
           "discount_rate": 31,
@@ -1491,15 +1500,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/43523227340037-a5f858e4-3800-466a-a823-3d8a989a2efa.jpg",
           "url": "https://link.coupang.com/a/iismhwbNuu",
           "_ts": 1793444890.601814
-        },
-        {
-          "name": "풀무원녹즙 저당 서리태 비오틴 콩즙두유, 140ml, 24개, 140ml × 24개",
-          "price": "11,820원",
-          "discount_rate": 37,
-          "priceAt": "10.31 19:49",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/99257193116089-353f7446-394d-4d63-95a2-e0d7d6fad671.jpg",
-          "url": "https://link.coupang.com/a/iiq14yA2a4",
-          "_ts": 1793443776.148312
         }
       ]
     },
