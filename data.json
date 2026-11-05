@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바프 밀크카라멜 팝콘, 80g, 2개",
+          "price": "2,000원",
+          "discount_rate": 50,
+          "priceAt": "11.05 16:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/ca8b0610-c4e1-4ab5-88a4-6c582dc509873018070966905813282.png",
+          "url": "https://link.coupang.com/a/iqtLmldxCe",
+          "_ts": 1793862520.945815
+        },
+        {
           "name": "롯데웰푸드 크런키 초콜릿, 34g, 24개, 34g × 24개",
           "price": "17,220원",
           "discount_rate": 26,
