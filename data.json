@@ -1500,6 +1500,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "리프레쉬 백진미 오징어, 1kg, 1봉",
+          "price": "18,510원",
+          "discount_rate": 65,
+          "priceAt": "11.05 09:40",
+          "image": "https://shopping.toss.im/live/temp/2026-08-14/7daf9aad-1c69-4e91-aa40-8d590501977c.jpeg",
+          "url": "https://toss.shopping/_m/PB1VqeE5",
+          "_ts": 1793839200.0195851,
+          "_product_id": "1980071995"
+        },
+        {
           "name": "교동 버섯 들깨탕, 500g, 5개",
           "price": "11,900원",
           "discount_rate": 56,
