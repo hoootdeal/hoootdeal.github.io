@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 라면의 맵쏘디 120g, 10개",
+          "price": "4,580원",
+          "discount_rate": 34,
+          "priceAt": "11.06 07:24",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/15562985735773-e85ac83f-2a84-4e02-8453-40083a2aedce.jpg",
+          "url": "https://link.coupang.com/a/irxdY2SPQW",
+          "_ts": 1793917483.603178
+        },
+        {
           "name": "담터 메밀차, 1.5g, 100개입, 2개",
           "price": "8,460원",
           "discount_rate": 30,
@@ -1500,15 +1509,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/42717724895218-dfac3d2c-5bbb-411f-9b0b-ac87a7cf9db1.jpg",
           "url": "https://link.coupang.com/a/ije3mVLxRY",
           "_ts": 1793485778.004933
-        },
-        {
-          "name": "빼빼로 혼합 10p 세트, 444g, 1세트",
-          "price": "10,540원",
-          "discount_rate": 30,
-          "priceAt": "11.01 07:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/17024641173301-e5f9027f-eb04-4463-aa1d-b07f83f29a97.jpg",
-          "url": "https://link.coupang.com/a/ijd1cReKbI",
-          "_ts": 1793484908.661549
         }
       ]
     },
