@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "엔탑라이프 혈행 더하기 초임계 rTG 알티지 오메가3 60.6g, 60정, 1개, 60정 × 1개",
+          "price": "8,450원",
+          "discount_rate": 37,
+          "priceAt": "11.05 18:47",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/864381651759808-3fe274c5-4d33-44c5-8b20-737a6a7c60ad.jpg",
+          "url": "https://link.coupang.com/a/iqE6ZsPfuC",
+          "_ts": 1793872049.604955
+        },
+        {
           "name": "리고 100% 땅콩버터 크리미, 453g, 1개",
           "price": "4,500원",
           "discount_rate": 51,
@@ -1482,15 +1491,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/454486156995605-e9495085-3b3b-49f4-92bb-589944110212.jpg",
           "url": "https://link.coupang.com/a/iinvtQVHie",
           "_ts": 1793440816.7091851
-        },
-        {
-          "name": "쁘띠첼 포도 과일젤리, 210g, 3개",
-          "price": "3,270원",
-          "discount_rate": 55,
-          "priceAt": "10.31 18:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/70729600845342-11bf0c98-2023-4e19-8451-35bb54956524.jpg",
-          "url": "https://link.coupang.com/a/iij6JwQUxg",
-          "_ts": 1793437964.489969
         }
       ]
     },
