@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "파르키오니 퓨어 올리브유 올리브오일, 1L, 1개, 1L × 1개",
+          "price": "12,900원",
+          "discount_rate": 41,
+          "priceAt": "11.05 14:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1206756248132496-25c85198-2f32-4bff-80f0-09c5581f2d09.jpg",
+          "url": "https://link.coupang.com/a/iqkJtvmcFM",
+          "_ts": 1793854942.0825632
+        },
+        {
           "name": "더미식 백미밥, 210g, 24개",
           "price": "19,540원",
           "discount_rate": 26,
@@ -1464,24 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/274132032794699-463091fd-02f9-405a-9e7b-9d8cc02dbec9.jpg",
           "url": "https://link.coupang.com/a/ih4b2PVMlM",
           "_ts": 1793424601.9571881
-        },
-        {
-          "name": "스탠리 이지 캐리 쿨러 아이스박스, 포멜로, 15.1L",
-          "price": "48,600원",
-          "discount_rate": 40,
-          "priceAt": "10.31 13:40",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/96406796046700-a78d0cd9-7294-4d51-a653-ff4041cfe46d.png",
-          "url": "https://link.coupang.com/a/ih0FHrXrgG",
-          "_ts": 1793421646.559207
-        },
-        {
-          "name": "한라식품 참치액, 500ml, 2개, 500ml × 2개",
-          "price": "9,290원",
-          "discount_rate": 34,
-          "priceAt": "10.31 13:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/71808685620838-f5575201-97b5-44de-8321-5575b73dad0f.jpg",
-          "url": "https://link.coupang.com/a/ih0erKDLYy",
-          "_ts": 1793421278.127584
         }
       ]
     },
