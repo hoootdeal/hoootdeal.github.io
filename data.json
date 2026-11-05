@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "곡물그대로21 크리스피롤, 900g, 1개",
+          "price": "8,800원",
+          "discount_rate": 29,
+          "priceAt": "11.06 08:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/c794/493898eded0329ba3edbe4a546a5d0ae02cfb1cd4d08f1f27d18d4bf87ea.jpg",
+          "url": "https://link.coupang.com/a/irDSKFhXJk",
+          "_ts": 1793923073.858577
+        },
+        {
           "name": "귤탐 당도선별 11Brix 감귤, 2kg(로열과), 2개",
           "price": "19,980원",
           "discount_rate": 52,
@@ -1500,33 +1509,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/34542394753729-9cb5997a-64b0-4b5a-8508-13cce52b1a78.jpg",
           "url": "https://link.coupang.com/a/ijmOn6k0ku",
           "_ts": 1793492291.3379898
-        },
-        {
-          "name": "풀무원아미오 강아지 자연담은 과자 건조간식, 2개, 50g, 두부맛",
-          "price": "4,120원",
-          "discount_rate": 41,
-          "priceAt": "11.01 08:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/42814671671040-db89fef5-b642-48b5-91fb-9877c284f855.jpg",
-          "url": "https://link.coupang.com/a/ijjqXDuwPQ",
-          "_ts": 1793489455.8765
-        },
-        {
-          "name": "오비안 모던 규조토 욕실 주방 발매트 대형, 대형(120x40), 베이지스트라이프",
-          "price": "9,800원",
-          "discount_rate": 47,
-          "priceAt": "11.01 08:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/13fa/53eea0f45c0b3b30ec03d3df60f22f84fe9cb8e4e379dd79b6892b0af564.png",
-          "url": "https://link.coupang.com/a/ijiNXzwCqW",
-          "_ts": 1793488925.255019
-        },
-        {
-          "name": "탄씨엔쯔 탄스트라이더 옥스포드 원단 스틸 튜브 캠핑 암체어+보관가방, 베이지, 1개, 소",
-          "price": "4,990원",
-          "discount_rate": 73,
-          "priceAt": "11.01 08:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/c1ab/fa8b2de010ef6e2a608169eff04431c5fa4737d51275e6b10859bcaa5810.jpg",
-          "url": "https://link.coupang.com/a/ijit0D9woC",
-          "_ts": 1793488656.58234
         }
       ]
     },
