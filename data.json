@@ -1491,6 +1491,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "유별난 이북식 왕만두, 1kg, 3봉",
+          "price": "20,670원",
+          "discount_rate": 54,
+          "priceAt": "11.05 14:21",
+          "image": "https://shopping.toss.im/live/temp/2026-06-22/58ae19b7-3542-4464-9218-1a922979f224.jpeg",
+          "url": "https://toss.shopping/_m/1k3HELcg",
+          "_ts": 1793856115.690558,
+          "_product_id": "2310519843"
+        },
+        {
           "name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
           "price": "5,450원",
           "discount_rate": 63,
