@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "타이키 물없이 싸먹는 월남쌈 라이스페이퍼 사각 16cm, 3개, 120g",
+          "price": "2,400원",
+          "discount_rate": 53,
+          "priceAt": "11.05 12:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/12/19/15/6/1ddbbde4-575b-4014-ac58-13d53429647a.jpg",
+          "url": "https://link.coupang.com/a/iqdrvyYWvA",
+          "_ts": 1793848820.7499468
+        },
+        {
           "name": "홀리카홀리카 홀리팝 쌍테라이너 0.5g, 오리지널, 1개",
           "price": "2,370원",
           "discount_rate": 42,
@@ -1464,15 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/6329/4bbc252340a52fd807cccc589168f40863d7056fc5c0f96461a1c8eb524b.jpg",
           "url": "https://link.coupang.com/a/ihW5xjqqfA",
           "_ts": 1793418638.7236748
-        },
-        {
-          "name": "존쿡델리미트 클래식 이탈리안 살라미, 200g, 2개",
-          "price": "9,980원",
-          "discount_rate": 47,
-          "priceAt": "10.31 12:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/400288834883164-d9f36a67-d9f9-4546-8abb-148424fc02d0.jpg",
-          "url": "https://link.coupang.com/a/ihT3afWjpQ",
-          "_ts": 1793416086.8028429
         }
       ]
     },
