@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "[비건뷰티] 이니스프리 올리브 비타민 E 리얼 로션, 170ml, 2개",
+          "price": "15,660원",
+          "discount_rate": 34,
+          "priceAt": "11.05 19:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/23533501701972-bd5bf22a-ee9d-46c2-b06b-38fd03e278c6.png",
+          "url": "https://link.coupang.com/a/iqGr8eDLfE",
+          "_ts": 1793873175.338584
+        },
+        {
           "name": "엔탑라이프 혈행 더하기 초임계 rTG 알티지 오메가3 60.6g, 60정, 1개, 60정 × 1개",
           "price": "8,450원",
           "discount_rate": 37,
@@ -1482,15 +1491,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/99257193116089-353f7446-394d-4d63-95a2-e0d7d6fad671.jpg",
           "url": "https://link.coupang.com/a/iiq14yA2a4",
           "_ts": 1793443776.148312
-        },
-        {
-          "name": "쉐프엠 젤리블리 애플망고, 60g, 20개입, 1박스",
-          "price": "8,000원",
-          "discount_rate": 42,
-          "priceAt": "10.31 19:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/454486156995605-e9495085-3b3b-49f4-92bb-589944110212.jpg",
-          "url": "https://link.coupang.com/a/iinvtQVHie",
-          "_ts": 1793440816.7091851
         }
       ]
     },
