@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "동원참치 살코기 인 워터, 100g, 3개, 100g × 3개",
+          "price": "5,440원",
+          "discount_rate": 25,
+          "priceAt": "11.06 10:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/52074579686123-773bc997-ca93-4f46-a472-cf94b3fb6e6e.jpg",
+          "url": "https://link.coupang.com/a/irJt39VMtw",
+          "_ts": 1793927775.445211
+        },
+        {
           "name": "사무실 과자세트 스낵 15입 세트 (참크래커 + 허니버터칩 + 칸쵸 + 구운감자 4p + 딸기웨하스 + 초코홈런볼 4번들 + 돌아온 썬 핫스파이 + 씨리얼초코 + 고래밥 볶음양념맛), 1세트, 10p",
           "price": "10,830원",
           "discount_rate": 37,
@@ -1473,33 +1482,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/528607921407665-607e6bc3-31fc-4d33-ba6a-03b799af87b9.jpg",
           "url": "https://link.coupang.com/a/ijsl1P4kKW",
           "_ts": 1793496946.8586628
-        },
-        {
-          "name": "파스퇴르 쾌변 사과, 150ml, 4개입, 4개",
-          "price": "13,380원",
-          "discount_rate": 29,
-          "priceAt": "11.01 10:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/323102181207562-cce2b2a6-2591-4210-80ff-3ae8c3b68234.jpg",
-          "url": "https://link.coupang.com/a/ijqrUEVylo",
-          "_ts": 1793495348.166858
-        },
-        {
-          "name": "스케쳐스 남성 메모리폼 스포츠 캐주얼 운동화 232005, 275, 올블랙",
-          "price": "41,000원",
-          "discount_rate": 63,
-          "priceAt": "11.01 10:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/88d0/90ba813e8e846f743102d4ccd185c9f511ecfb0206e8e3ad6e3d493a89fd.jpg",
-          "url": "https://link.coupang.com/a/ijqbmhe2eG",
-          "_ts": 1793495121.783246
-        },
-        {
-          "name": "브레프 디럭스 변기세정제 매그놀리아 가든, 50g, 5개",
-          "price": "5,670원",
-          "discount_rate": 77,
-          "priceAt": "11.01 10:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/182207889753507-69987b57-e0a8-4cb4-a7a4-83e40148566c.jpg",
-          "url": "https://link.coupang.com/a/ijpXmpYBd6",
-          "_ts": 1793494932.8989382
         }
       ]
     },
