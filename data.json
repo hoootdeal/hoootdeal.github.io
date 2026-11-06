@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "돌체구스토 네오 스타벅스 앳홈 캡슐커피머신 세트, 9782-A, 블랙",
+          "price": "98,000원",
+          "discount_rate": 51,
+          "priceAt": "11.07 07:59",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/240562857413481-b94ecba4-cdc4-4f05-bdbc-f0c0277c7fbf.jpg",
+          "url": "https://link.coupang.com/a/iteAwbj6NE",
+          "_ts": 1794005948.282583
+        },
+        {
           "name": "첫맛 만능 멸치육수, 1kg, 1개",
           "price": "4,170원",
           "discount_rate": 46,
@@ -1410,24 +1419,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/73045598934988-1c572e97-2eab-4432-99bf-72f22ef2946f.jpg",
           "url": "https://link.coupang.com/a/ikXpNF7aRE",
           "_ts": 1793575081.485363
-        },
-        {
-          "name": "티젠 콤부차 청귤라임, 5g, 10개입, 2개",
-          "price": "4,000원",
-          "discount_rate": 37,
-          "priceAt": "11.02 07:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/37521492666584-9ea0716a-fb75-4636-8136-3c5f737bf47a.jpg",
-          "url": "https://link.coupang.com/a/ikVSC3zAPc",
-          "_ts": 1793573792.632179
-        },
-        {
-          "name": "리타 스타 ABC주스, 200ml, 30개",
-          "price": "10,740원",
-          "discount_rate": 59,
-          "priceAt": "11.02 07:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3496418120258373-93ae47f9-4320-4b47-9168-2eb2a9dbeb59.jpg",
-          "url": "https://link.coupang.com/a/ikVdMJK9ca",
-          "_ts": 1793573240.867433
         }
       ]
     },
