@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "그릭슈바인 육즙 가득 부어스트 스모크, 355g, 1개",
+          "price": "3,320원",
+          "discount_rate": 41,
+          "priceAt": "11.06 19:35",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/8mju9vbh/e14abfef267641ccb00ccd0b65ac5860.JPG",
+          "url": "https://link.coupang.com/a/isnrksy3Ea",
+          "_ts": 1793961325.785892
+        },
+        {
           "name": "모리나가 소금 카라멜, 4개, 83g",
           "price": "9,650원",
           "discount_rate": 40,
@@ -1464,24 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/712722502290473-7cd913a1-5d74-470c-aea5-e74f54190a8d.jpg",
           "url": "https://link.coupang.com/a/ij8gdPmSuO",
           "_ts": 1793532128.715081
-        },
-        {
-          "name": "스탠리 퀜처 부츠 바닥 커버 + 스트로 캡 591ml 887ml 전용, 핑크더스크, 1세트",
-          "price": "9,320원",
-          "discount_rate": 38,
-          "priceAt": "11.01 19:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/939a/fe945549492364aa5be63fc96a0e509b111972528c87f155ce35276386d5.jpg",
-          "url": "https://link.coupang.com/a/ij4FdyE9eK",
-          "_ts": 1793529110.357256
-        },
-        {
-          "name": "익스트림 비타민B 컴플렉스 700 42g, 60정, 1개",
-          "price": "7,080원",
-          "discount_rate": 36,
-          "priceAt": "11.01 19:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/53048767265636-8b4665fa-a039-4e38-9b29-68c6ca4d66b5.jpg",
-          "url": "https://link.coupang.com/a/ij21deY1JI",
-          "_ts": 1793527727.445055
         }
       ]
     },
