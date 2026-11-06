@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "듀이트리 하이 아미노 올 클렌저, 150ml, 2개",
+          "price": "6,040원",
+          "discount_rate": 38,
+          "priceAt": "11.06 13:04",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/269736192273197-21dd5cc7-76a4-4de0-bdee-d6d2b94fa690.jpeg",
+          "url": "https://link.coupang.com/a/irVvh8cxmS",
+          "_ts": 1793937870.035433
+        },
+        {
           "name": "브랜든 여행용 2WAY 멀티 패커블 백팩 슬링백, 올리브, 33 x 15 x 48cm",
           "price": "26,900원",
           "discount_rate": 61,
@@ -1473,24 +1482,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/fbb15561-468a-4847-8d87-83ebcd09cde7565272628851350281.png",
           "url": "https://link.coupang.com/a/ijFiYXLf88",
           "_ts": 1793507818.001947
-        },
-        {
-          "name": "백설 100% 통참깨 참기름, 320ml, 2개",
-          "price": "11,280원",
-          "discount_rate": 50,
-          "priceAt": "11.01 12:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/20596644534940-dbb16780-aab2-427a-81cd-6da88787b63a.jpg",
-          "url": "https://link.coupang.com/a/ijCgpKM3ZA",
-          "_ts": 1793505266.3893702
-        },
-        {
-          "name": "리콜라 스위스 오리지널 허브 캔디, 70g, 1개, 70g × 1개",
-          "price": "2,380원",
-          "discount_rate": 32,
-          "priceAt": "11.01 12:49",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/428118501174033-c918e6b3-32e0-47f9-9061-fa1c72573eb0.jpg",
-          "url": "https://link.coupang.com/a/ijBV73o1nM",
-          "_ts": 1793504990.6820009
         }
       ]
     },
