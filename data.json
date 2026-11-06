@@ -1473,6 +1473,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+          "price": "8,970원",
+          "discount_rate": 73,
+          "priceAt": "11.07 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/Y2VjZDA0/QU0zUE1sbU83WnJNYzlITWJKdE1PMndsdzBsdFdFeHprN1cwNWowT0xJM1Q.png",
+          "url": "https://toss.shopping/_m/HcEDASsr",
+          "_ts": 1793977339.119945,
+          "_flash": true,
+          "_product_id": "2523489535"
+        },
+        {
+          "name": "김정문알로에 큐어 하이드라 수딩 토너, 130ml, 1개 + 에멀젼, 130ml, 1개",
+          "price": "15,290원",
+          "discount_rate": 82,
+          "priceAt": "11.07 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/OTMxNTFi/VUEvOWZLK3JMdFZWVlAyNjhIQnZyMWVMUjhldXY3bndWWEJHajFGUXVmQT0.png",
+          "url": "https://toss.shopping/_m/LkUaV5eb",
+          "_ts": 1793977339.119925,
+          "_flash": true,
+          "_product_id": "1001675647"
+        },
+        {
+          "name": "쉬젤 아티 내열용기 혼합 10종, 320ml 3개 + 400ml 3개 + 520ml 2개 + 640ml 2개, 1세트",
+          "price": "19,700원",
+          "discount_rate": 76,
+          "priceAt": "11.07 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/NTNlMjc0/YzFrczJhMDAyd3pMT1l6am1PYXlTYVl6cEprMkdkdHNNMmJiWk1rd21jWT0.png",
+          "url": "https://toss.shopping/_m/JhTCJ3Z4",
+          "_ts": 1793977339.119895,
+          "_flash": true,
+          "_product_id": "1109054481"
+        },
+        {
           "name": "프로프룻 시나노골드, 특품, 난좌포장, 3kg, 1박스",
           "price": "9,900원",
           "discount_rate": 81,
