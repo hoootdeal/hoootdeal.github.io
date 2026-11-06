@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "티아시아키친 치킨 마크니 커리 170g + 게살 푸팟퐁 커리 170g + 비프 마살라 커리 170g + 스파이시 비프 마살라 커리 170g 세트, 680g, 1세트, 680g × 1세트",
+          "price": "4,640원",
+          "discount_rate": 44,
+          "priceAt": "11.07 08:46",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1768403814282630-76808175-cfe3-4d6e-8c26-b7af9418b7fe.jpg",
+          "url": "https://link.coupang.com/a/ithYVp10SG",
+          "_ts": 1794008798.2031329
+        },
+        {
           "name": "돌체구스토 네오 스타벅스 앳홈 캡슐커피머신 세트, 9782-A, 블랙",
           "price": "98,000원",
           "discount_rate": 51,
@@ -1401,24 +1410,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4694669285900-5825f6af-9ae5-403b-a5ab-299cf47b6592.png",
           "url": "https://link.coupang.com/a/ik0RzLngMS",
           "_ts": 1793577976.5991209
-        },
-        {
-          "name": "쉐프스토리 갓성비 핫도그 (냉동), 80g, 1개, 10개입",
-          "price": "6,900원",
-          "discount_rate": 25,
-          "priceAt": "11.02 08:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/nr5cbb38/621e231b80694ecca59810550519e24e.jpg",
-          "url": "https://link.coupang.com/a/ikZnWVKJ9E",
-          "_ts": 1793576735.602304
-        },
-        {
-          "name": "비비드키친 저칼로리 치킨양념소스, 320g, 2개",
-          "price": "3,580원",
-          "discount_rate": 41,
-          "priceAt": "11.02 08:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/73045598934988-1c572e97-2eab-4432-99bf-72f22ef2946f.jpg",
-          "url": "https://link.coupang.com/a/ikXpNF7aRE",
-          "_ts": 1793575081.485363
         }
       ]
     },
