@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "햇살담은 두번달여 더 진한 진간장, 1.7L, 1개, 1.7L × 1개",
+          "price": "4,230원",
+          "discount_rate": 30,
+          "priceAt": "11.06 15:04",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/251855672748419-983ff46a-0f1e-4766-b34a-e678ab95a141.jpg",
+          "url": "https://link.coupang.com/a/ir36X99ivc",
+          "_ts": 1793945097.2030919
+        },
+        {
           "name": "지도표성경 지도표 두번구운 김밥김 10p, 21g, 2개",
           "price": "3,520원",
           "discount_rate": 46,
@@ -1464,15 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/32e1c6d4-8cba-4114-a8c7-1c4ac922556d3381354280001837768.png",
           "url": "https://link.coupang.com/a/ijOqzLEHnw",
           "_ts": 1793515478.7263842
-        },
-        {
-          "name": "배스킨라빈스 아몬드 봉봉 크림 파이, 336g, 1개",
-          "price": "3,560원",
-          "discount_rate": 26,
-          "priceAt": "11.01 15:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/69f2/5067e31df7495ea68db22c782b9cd1aca4eabe880ca5642fc1ec42bfa080.jpg",
-          "url": "https://link.coupang.com/a/ijLlRSYDwO",
-          "_ts": 1793512896.087544
         }
       ]
     },
