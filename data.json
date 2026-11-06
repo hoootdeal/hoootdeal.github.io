@@ -1491,6 +1491,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "곰도리 온열안대 오리지널 케어 플러스, 40매입, 1개",
+          "price": "7,630원",
+          "discount_rate": 80,
+          "priceAt": "11.06 13:06",
+          "image": "https://shopping.toss.im/live/temp/2026-03-12/820d235f-fa3d-4016-b8b9-51cf650041a6.png",
+          "url": "https://toss.shopping/_m/rBVCC4cr",
+          "_ts": 1793937997.955727,
+          "_product_id": "128185381"
+        },
+        {
           "name": "서문시장 손맛 칼제비, 418g, 4개",
           "price": "8,840원",
           "discount_rate": 50,
