@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "첫맛 만능 멸치육수, 1kg, 1개",
+          "price": "4,170원",
+          "discount_rate": 46,
+          "priceAt": "11.07 07:44",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/07/08/15/9/8427f298-06be-4b68-a065-9a6da7d045d1.jpg",
+          "url": "https://link.coupang.com/a/itdy3cfpng",
+          "_ts": 1794005087.574954
+        },
+        {
           "name": "리큐 진한겔 하이브리드 드럼세탁기용 액상세제 플로럴 부케향 리필, 2.1L, 4개",
           "price": "12,470원",
           "discount_rate": 33,
@@ -1419,51 +1428,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3496418120258373-93ae47f9-4320-4b47-9168-2eb2a9dbeb59.jpg",
           "url": "https://link.coupang.com/a/ikVdMJK9ca",
           "_ts": 1793573240.867433
-        },
-        {
-          "name": "풀무원 얄피꽉찬 쌀 물만두 (냉동), 1kg, 1개",
-          "price": "5,990원",
-          "discount_rate": 36,
-          "priceAt": "11.02 07:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/878123044725723-83f8b2eb-935b-487d-968a-9d88a9bc51cb.jpg",
-          "url": "https://link.coupang.com/a/ikUk3BGfgO",
-          "_ts": 1793572497.3160079
-        },
-        {
-          "name": "휴롬 착즙기, H400, 웜화이트",
-          "price": "207,490원",
-          "discount_rate": 42,
-          "priceAt": "11.02 07:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bf78/1fdf4c77c02dd03748486300da7d564e005b10a667d31eeabb21f3037cff.jpg",
-          "url": "https://link.coupang.com/a/ikT5bxfl1w",
-          "_ts": 1793572282.075546
-        },
-        {
-          "name": "보누맘 아동용 슬림웜 모달 골지 실내복 상하의 세트, 140호",
-          "price": "6,810원",
-          "discount_rate": 64,
-          "priceAt": "11.02 07:19",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/oc8yxycr/d54b036502264729b937aea5124cf8a3.jpg",
-          "url": "https://link.coupang.com/a/ikTdrUQrTM",
-          "_ts": 1793571554.597319
-        },
-        {
-          "name": "뉴에라 아동용 MLB 베이직 로고 맨투맨 샌프란시스코 자이언츠, 120, 그레이",
-          "price": "19,900원",
-          "discount_rate": 63,
-          "priceAt": "11.02 07:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/25/11/3/332b3c8b-51d4-43b3-a7bb-8f5d2f726d1c.jpg",
-          "url": "https://link.coupang.com/a/ikSQpFQHfg",
-          "_ts": 1793571242.419492
-        },
-        {
-          "name": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러, 로즈페탈쉬머, 1.18L, 1개",
-          "price": "20,800원",
-          "discount_rate": 59,
-          "priceAt": "11.02 07:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/545684176040277-145cccb9-aa61-47f1-aff3-267e6027add5.jpg",
-          "url": "https://link.coupang.com/a/ikSFn87zFs",
-          "_ts": 1793571093.3270469
         }
       ]
     },
