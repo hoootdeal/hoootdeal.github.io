@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "모리나가 소금 카라멜, 4개, 83g",
+          "price": "9,650원",
+          "discount_rate": 40,
+          "priceAt": "11.06 18:47",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/6f574c64-a835-4176-8b1b-850bd5d5e2603178885329955657509.png",
+          "url": "https://link.coupang.com/a/isj0jRRCp2",
+          "_ts": 1793958441.4269161
+        },
+        {
           "name": "올곧 바바김밥 참치마요김밥 (냉동), 2개, 240g",
           "price": "3,980원",
           "discount_rate": 47,
