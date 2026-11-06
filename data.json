@@ -1482,15 +1482,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/96589722032925-0cbbc8f5-b940-4675-8360-e0a25862983b.png",
           "url": "https://link.coupang.com/a/ikbMU9MZbw",
           "_ts": 1793535091.890055
-        },
-        {
-          "name": "곰곰 완숙 토마토, 1kg, 1개, 1kg × 1개",
-          "price": "4,990원",
-          "discount_rate": 32,
-          "priceAt": "11.01 20:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/712722502290473-7cd913a1-5d74-470c-aea5-e74f54190a8d.jpg",
-          "url": "https://link.coupang.com/a/ij8gdPmSuO",
-          "_ts": 1793532128.715081
         }
       ]
     },
@@ -1499,6 +1490,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "프로프룻 시나노골드, 특품, 난좌포장, 3kg, 1박스",
+          "price": "9,900원",
+          "discount_rate": 81,
+          "priceAt": "11.06 21:02",
+          "image": "https://shopping.toss.im/live/temp/2026-10-06/74d4b59b-2bb4-4efb-aeb3-14ae3e570d38.jpeg",
+          "url": "https://toss.shopping/_m/jxERxfRj",
+          "_ts": 1793966579.8524349,
+          "_product_id": "2672325913"
+        },
         {
           "name": "셰프애찬 청양 맵짤이, 225g, 2개",
           "price": "11,400원",
