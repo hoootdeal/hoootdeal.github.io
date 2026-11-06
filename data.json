@@ -1482,6 +1482,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "대봉감, 27과 내외, 5kg, 1박스",
+          "price": "11,900원",
+          "discount_rate": 65,
+          "priceAt": "11.06 15:57",
+          "image": "https://shopping.toss.im/live/temp/2026-10-10/0ab43fd9-b193-4925-8425-f649fe8b0f63.jpeg",
+          "url": "https://toss.shopping/_m/vkbkokEo",
+          "_ts": 1793948260.5584419,
+          "_product_id": "2677153369"
+        },
+        {
           "name": "원김치 쪽파김치, 가정용, 2kg, 1개",
           "price": "9,900원",
           "discount_rate": 33,
