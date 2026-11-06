@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "추억의국민학교떡볶이 오리지널 (밀떡) (냉동), 600g, 2개",
+          "price": "6,790원",
+          "discount_rate": 31,
+          "priceAt": "11.06 22:03",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1327632924357665-a8839ab4-4774-4f41-ad6e-35c22d6abc35.jpg",
+          "url": "https://link.coupang.com/a/isxZHETbAy",
+          "_ts": 1793970186.0227652
+        },
+        {
           "name": "오후의홍차 밀크티 1.5L, 8개",
           "price": "17,400원",
           "discount_rate": 45,
@@ -1464,24 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/55fe920a-3567-4009-8bce-1ed48a08e1ae4741713075066649198.png",
           "url": "https://link.coupang.com/a/ikgeGUJRV3",
           "_ts": 1793538826.218107
-        },
-        {
-          "name": "듀오락 데일리키즈 츄어블 어린이 유산균, 60정, 1개",
-          "price": "23,100원",
-          "discount_rate": 27,
-          "priceAt": "11.01 21:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/108974571956415-0d6b666d-43fc-42f2-a494-5f30db37e3d0.jpg",
-          "url": "https://link.coupang.com/a/ikdZKNNrhs",
-          "_ts": 1793536945.665741
-        },
-        {
-          "name": "스카치브라이트 올뉴 정전기 청소포 200매, 대형(37 x 19..., 1개, 대형(37 x 19 cm)",
-          "price": "13,780원",
-          "discount_rate": 41,
-          "priceAt": "11.01 21:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/100701629944995-3d9c719a-0b3d-4542-8043-7ff673427f69.jpg",
-          "url": "https://link.coupang.com/a/ikcCD4rmwK",
-          "_ts": 1793535792.721101
         }
       ]
     },
