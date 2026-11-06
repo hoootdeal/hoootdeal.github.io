@@ -1491,6 +1491,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "원김치 쪽파김치, 가정용, 2kg, 1개",
+          "price": "9,900원",
+          "discount_rate": 33,
+          "priceAt": "11.06 14:08",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MDkxZDUx/QU52Z21LSFI4ZUg3QkoxLzhPZGVRMTF5ZEJvNkdnTnJSZTNWSjhpRGZ0VWk.png",
+          "url": "https://toss.shopping/_m/bHi6PwVp",
+          "_ts": 1793941707.625185,
+          "_product_id": "2534121637"
+        },
+        {
           "name": "곰도리 온열안대 오리지널 케어 플러스, 40매입, 1개",
           "price": "7,630원",
           "discount_rate": 80,
