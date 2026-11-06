@@ -1473,15 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/19349618635765-3b6232a5-ac97-4bd9-ba7d-86f7348bb95b.jpg",
           "url": "https://link.coupang.com/a/iju99XgjfM",
           "_ts": 1793499304.453249
-        },
-        {
-          "name": "시크릿데이 블랙 생리대 날개형, 중형, 16개입, 2개",
-          "price": "3,550원",
-          "discount_rate": 34,
-          "priceAt": "11.01 10:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/528607921407665-607e6bc3-31fc-4d33-ba6a-03b799af87b9.jpg",
-          "url": "https://link.coupang.com/a/ijsl1P4kKW",
-          "_ts": 1793496946.8586628
         }
       ]
     },
@@ -1490,6 +1481,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "서문시장 손맛 칼제비, 418g, 4개",
+          "price": "8,840원",
+          "discount_rate": 50,
+          "priceAt": "11.06 10:48",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/YzMwMzgy/QUp4M04rNVdmMHR1ZktTcDk5bS9KU2JXaEpXWlduMm5RT2lRVlVJTDYxcUk.png",
+          "url": "https://toss.shopping/_m/JG6WBnBe",
+          "_ts": 1793929692.644206,
+          "_product_id": "2559231423"
+        },
         {
           "name": "엔코스 트리플 이펙트 올인원 로션, 120ml, 1개",
           "price": "9,660원",
