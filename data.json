@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오후의홍차 밀크티 1.5L, 8개",
+          "price": "17,400원",
+          "discount_rate": 45,
+          "priceAt": "11.06 21:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/fe5a/8448f21b8dcbee56ca16a1f03b6927868596465153c67ff9b6b7cbb95a6f.jpg",
+          "url": "https://link.coupang.com/a/isuGTlxLLE",
+          "_ts": 1793967413.4895911
+        },
+        {
           "name": "흡입괄사 바디컷튠핏 웰247 부항 원리 저주파 마사지기 셀룰라이트, 본품",
           "price": "39,000원",
           "discount_rate": 70,
@@ -1473,15 +1482,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/100701629944995-3d9c719a-0b3d-4542-8043-7ff673427f69.jpg",
           "url": "https://link.coupang.com/a/ikcCD4rmwK",
           "_ts": 1793535792.721101
-        },
-        {
-          "name": "카누 디카페인 라떼 스틱커피, 13.5g, 30개입, 1개",
-          "price": "9,210원",
-          "discount_rate": 26,
-          "priceAt": "11.01 21:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/96589722032925-0cbbc8f5-b940-4675-8360-e0a25862983b.png",
-          "url": "https://link.coupang.com/a/ikbMU9MZbw",
-          "_ts": 1793535091.890055
         }
       ]
     },
