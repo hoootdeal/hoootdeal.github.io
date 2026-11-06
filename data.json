@@ -1473,15 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/234950104261223-03aac8ff-694b-4a70-9322-d9a2b1e1a35d.jpg",
           "url": "https://link.coupang.com/a/ijUSqYuAay",
           "_ts": 1793520894.285407
-        },
-        {
-          "name": "해찬들 사계절쌈장, 300g, 3개",
-          "price": "3,270원",
-          "discount_rate": 36,
-          "priceAt": "11.01 16:24",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/86927667254686-10784ce5-ebac-4f81-a357-7d9c50d2b476.jpg",
-          "url": "https://link.coupang.com/a/ijRisqRMNo",
-          "_ts": 1793517888.640605
         }
       ]
     },
@@ -1490,6 +1481,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "맥스앤맥스 이지밀 혼합 식기세트, 다이닝볼 4P+원형 핸들 플레이트 2P+사각 핸들 플레이트 2P, 1개",
+          "price": "9,130원",
+          "discount_rate": 60,
+          "priceAt": "11.06 16:31",
+          "image": "https://shopping.toss.im/live/temp/2026-09-21/c82bc6e3-f7b1-4a4d-9c0b-097d7c1d697d.jpeg",
+          "url": "https://toss.shopping/_m/PH03XGpc",
+          "_ts": 1793950273.222163,
+          "_product_id": "2658578693"
+        },
         {
           "name": "대봉감, 27과 내외, 5kg, 1박스",
           "price": "11,900원",
