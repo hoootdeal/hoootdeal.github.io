@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "도브 바디 스크럽 미드나잇 라벤더, 298g, 1개",
+          "price": "8,340원",
+          "discount_rate": 32,
+          "priceAt": "11.06 17:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/19/14/2/bb3e6d4c-b521-4f24-85c3-c5b3a31672da.png",
+          "url": "https://link.coupang.com/a/isefFcW6eG",
+          "_ts": 1793953607.793976
+        },
+        {
           "name": "넛츠그린 100% 무가당 땅콩버터 크런치, 200g, 1개, 200g × 1개",
           "price": "4,730원",
           "discount_rate": 38,
@@ -1464,24 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/09/10/11/9/412969c9-c2fb-4a8a-aa49-05e006c28a0a.jpg",
           "url": "https://link.coupang.com/a/ijY5Ef8l5w",
           "_ts": 1793524431.3078241
-        },
-        {
-          "name": "하겐다즈 크리스피 샌드위치 리치 카라멜 아이스크림 (냉동), 60ml, 3개입, 2개",
-          "price": "17,900원",
-          "discount_rate": 38,
-          "priceAt": "11.01 17:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/242311052157147-9d3c6250-d687-4832-83f5-0336ae99b922.jpg",
-          "url": "https://link.coupang.com/a/ijVGhtFXAy",
-          "_ts": 1793521568.968401
-        },
-        {
-          "name": "풀무원 다논 요거톡 스타볼 요거트, 132.25g, 8개, 132.25g × 8개",
-          "price": "6,560원",
-          "discount_rate": 30,
-          "priceAt": "11.01 17:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/234950104261223-03aac8ff-694b-4a70-9322-d9a2b1e1a35d.jpg",
-          "url": "https://link.coupang.com/a/ijUSqYuAay",
-          "_ts": 1793520894.285407
         }
       ]
     },
