@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 특등급 국산콩 두유, 190ml, 24개, 190ml × 24개",
+          "price": "11,290원",
+          "discount_rate": 41,
+          "priceAt": "11.06 15:53",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/df64bc6f-77a3-476c-adb5-97adf1c543a914579722762742323006.png",
+          "url": "https://link.coupang.com/a/ir7Cdg227o",
+          "_ts": 1793948038.5766988
+        },
+        {
           "name": "햇살담은 두번달여 더 진한 진간장, 1.7L, 1개, 1.7L × 1개",
           "price": "4,230원",
           "discount_rate": 30,
@@ -1464,15 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/86927667254686-10784ce5-ebac-4f81-a357-7d9c50d2b476.jpg",
           "url": "https://link.coupang.com/a/ijRisqRMNo",
           "_ts": 1793517888.640605
-        },
-        {
-          "name": "쁘띠첼 요거젤리 딸기, 210g, 2개, 210g × 2개",
-          "price": "2,200원",
-          "discount_rate": 45,
-          "priceAt": "11.01 15:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/32e1c6d4-8cba-4114-a8c7-1c4ac922556d3381354280001837768.png",
-          "url": "https://link.coupang.com/a/ijOqzLEHnw",
-          "_ts": 1793515478.7263842
         }
       ]
     },
