@@ -1338,15 +1338,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/44c3/4be6716684303636e37527ebd7992602daf6359e84d3c36b34c65aacb3e5.jpg",
           "url": "https://link.coupang.com/a/imDo7Swy5I",
           "_ts": 1793662393.0945458
-        },
-        {
-          "name": "풀무원 동치미 물냉면 2인 + 함흥 비빔냉면 2인, 1.306kg, 2개",
-          "price": "9,780원",
-          "discount_rate": 27,
-          "priceAt": "11.03 07:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1270869676835330-582f4187-fbbc-4336-8b25-eec2be9de078.png",
-          "url": "https://link.coupang.com/a/imARuZ1Ltk",
-          "_ts": 1793660257.039565
         }
       ]
     },
@@ -1355,6 +1346,39 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "덴티클린스 컬러풀 이중미세모 칫솔, 10개입, 3세트",
+          "price": "7,540원",
+          "discount_rate": 74,
+          "priceAt": "11.08 08:03",
+          "image": "https://shopping.toss.im/live/temp/2025-06-12/0b12c7e3-ad55-434d-a5de-f5838943c99a.jpeg",
+          "url": "https://toss.shopping/_m/LgiXyKZk",
+          "_ts": 1794092622.910343,
+          "_flash": true,
+          "_product_id": "156673689"
+        },
+        {
+          "name": "연세우유 저지방 우유, 190ml, 48개",
+          "price": "23,210원",
+          "discount_rate": 47,
+          "priceAt": "11.08 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-10-22/29e8ed7e-f7e8-4a2f-9a42-cd9e516097a2.jpeg",
+          "url": "https://toss.shopping/_m/9S85bP01",
+          "_ts": 1794092622.910322,
+          "_flash": true,
+          "_product_id": "1266772507"
+        },
+        {
+          "name": "국대 프리미엄 어묵탕, 230g, 5팩",
+          "price": "11,600원",
+          "discount_rate": 61,
+          "priceAt": "11.08 08:03",
+          "image": "https://shopping.toss.im/562/live/product/594443037/56211a5a-aaf8-4172-bccf-ca94c7b062fc.jpg",
+          "url": "https://toss.shopping/_m/bob4pWcr",
+          "_ts": 1794092622.910283,
+          "_flash": true,
+          "_product_id": "2280888689"
+        },
         {
           "name": "동구밭 샴푸 앤 트리트먼트바 세트, 로즈마리향 100g 2개 + 네롤리향 100g 2개, 1세트",
           "price": "13,900원",
