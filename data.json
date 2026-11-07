@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "컴포트랩 마카롱 웰핏 팬티 2p, XL",
+          "price": "5,410원",
+          "discount_rate": 85,
+          "priceAt": "11.07 13:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2794313111868886-c99aba3b-2811-43d6-86fa-a30d85d08ecd.jpg",
+          "url": "https://link.coupang.com/a/itDmjsTYaG",
+          "_ts": 1794026748.221517
+        },
+        {
           "name": "스탠리 트랜짓 트위스트플립 머그, 애쉬, 1개, 591ml",
           "price": "24,300원",
           "discount_rate": 55,
@@ -1365,51 +1374,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4703225945339378-545c9d38-a104-42d7-8a65-2b80f2aa8006.png",
           "url": "https://link.coupang.com/a/illPQZTUPs",
           "_ts": 1793595585.885779
-        },
-        {
-          "name": "백설 돼지 불고기 양념, 840g, 1개, 840g × 1개",
-          "price": "1,980원",
-          "discount_rate": 72,
-          "priceAt": "11.02 13:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1280488933172972-8b61d77f-e441-4208-9c0a-e6ea2a418436.jpg",
-          "url": "https://link.coupang.com/a/ilkIu9uWXY",
-          "_ts": 1793594645.855524
-        },
-        {
-          "name": "오뚜기 XO 수제손만두 칼칼김치 (냉동), 364g, 2개",
-          "price": "7,240원",
-          "discount_rate": 37,
-          "priceAt": "11.02 13:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2022/11/17/18/9/bc5b7430-fcae-4bdc-84d9-3a9938ac682b.jpg",
-          "url": "https://link.coupang.com/a/ilkxqkKWPs",
-          "_ts": 1793594496.8872588
-        },
-        {
-          "name": "Venus 정품 Y존 제모 셀프케어 여성용면도기 핸들 + 면도날 2p 세트, 1개입, 1개",
-          "price": "5,500원",
-          "discount_rate": 55,
-          "priceAt": "11.02 13:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4615/3ee1dde740a9cae8db0668be62623b2ae58df79de91f4444ea1f205ce54a.jpg",
-          "url": "https://link.coupang.com/a/iljbHvsJ2a",
-          "_ts": 1793593360.799511
-        },
-        {
-          "name": "미샤 크리미 라떼 클렌징 폼 카카오, 172ml, 6개",
-          "price": "15,650원",
-          "discount_rate": 63,
-          "priceAt": "11.02 13:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/13424456561612-0f971835-10b7-4f0c-a72e-f8e1230cfbf5.jpg",
-          "url": "https://link.coupang.com/a/iliD74L4ma",
-          "_ts": 1793592907.0962381
-        },
-        {
-          "name": "아리얼 엑스퍼트 비타 엑소좀 콜라겐 하이드로겔 마스크, 1개입, 4개",
-          "price": "10,080원",
-          "discount_rate": 37,
-          "priceAt": "11.02 12:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/19/16/4/50f0946c-f479-4af5-bbbe-e16425a16852.jpg",
-          "url": "https://link.coupang.com/a/ilgm76EQ1Y",
-          "_ts": 1793590998.3553321
         }
       ]
     },
