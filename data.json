@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스탠리 트랜짓 트위스트플립 머그, 애쉬, 1개, 591ml",
+          "price": "24,300원",
+          "discount_rate": 55,
+          "priceAt": "11.07 12:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/11/04/11/9/178aae35-b017-4ef0-ae58-8c4ff41d93d4.png",
+          "url": "https://link.coupang.com/a/itxTy945Aa",
+          "_ts": 1794022160.3430889
+        },
+        {
           "name": "일리 디카프 디카페인 캡슐커피, 6.7g, 21개입, 1개",
           "price": "10,320원",
           "discount_rate": 30,
@@ -1401,15 +1410,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/19/16/4/50f0946c-f479-4af5-bbbe-e16425a16852.jpg",
           "url": "https://link.coupang.com/a/ilgm76EQ1Y",
           "_ts": 1793590998.3553321
-        },
-        {
-          "name": "카누 볼드 다크 로스트 네스프레소 호환 캡슐 커피, 5.7g, 10개입, 2개",
-          "price": "8,120원",
-          "discount_rate": 36,
-          "priceAt": "11.02 12:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/269246881709992-57fc1a7c-2731-4595-a7bb-94fa0da40b30.png",
-          "url": "https://link.coupang.com/a/ileg42vbWK",
-          "_ts": 1793589235.3157198
         }
       ]
     },
