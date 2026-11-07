@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "휘오 다이아몬드 EC 무라벨, 500ml, 20개",
+          "price": "3,420원",
+          "discount_rate": 52,
+          "priceAt": "11.08 07:48",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/66701491540340-f95c7e29-a0ad-4aa5-80db-9d4adf56aaae.jpg",
+          "url": "https://link.coupang.com/a/iuSHFpJxEO",
+          "_ts": 1794091685.360667
+        },
+        {
           "name": "후버 착즙 오렌지주스, 1L, 2개",
           "price": "6,420원",
           "discount_rate": 42,
@@ -1338,15 +1347,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1270869676835330-582f4187-fbbc-4336-8b25-eec2be9de078.png",
           "url": "https://link.coupang.com/a/imARuZ1Ltk",
           "_ts": 1793660257.039565
-        },
-        {
-          "name": "빼빼로 샘플러 6종 258g, 1세트",
-          "price": "6,130원",
-          "discount_rate": 27,
-          "priceAt": "11.03 07:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/09/18/15/6/2846ffbe-99d4-42af-9a74-78feab5b6125.jpg",
-          "url": "https://link.coupang.com/a/imz2XfW0gm",
-          "_ts": 1793659574.054671
         }
       ]
     },
