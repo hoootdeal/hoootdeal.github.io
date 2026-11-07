@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "모던하우스 온 미유 수저세트, 아이보리 + 그린, 숟가락 4p + 젓가락 4p, 1개",
+          "price": "10,760원",
+          "discount_rate": 33,
+          "priceAt": "11.08 08:33",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/03/20/15/7/cc4a9c2e-b5b2-499e-a5a2-bc2545e9cea3.jpg",
+          "url": "https://link.coupang.com/a/iuVWoNcqcK",
+          "_ts": 1794094403.664543
+        },
+        {
           "name": "휘오 다이아몬드 EC 무라벨, 500ml, 20개",
           "price": "3,420원",
           "discount_rate": 52,
@@ -1329,15 +1338,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/6b12/5d29cd15303a09c34425fe8c7282d60b771c058cf0f84909ea2cd00d4f2b.jpg",
           "url": "https://link.coupang.com/a/imG0Ug6L0e",
           "_ts": 1793665423.762584
-        },
-        {
-          "name": "릴크리터스 어린이 오메가 3 DHA 라즈베리 레몬맛 구미, 60정, 3개",
-          "price": "23,840원",
-          "discount_rate": 61,
-          "priceAt": "11.03 08:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/44c3/4be6716684303636e37527ebd7992602daf6359e84d3c36b34c65aacb3e5.jpg",
-          "url": "https://link.coupang.com/a/imDo7Swy5I",
-          "_ts": 1793662393.0945458
         }
       ]
     },
