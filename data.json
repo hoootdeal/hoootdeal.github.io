@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "G7 3 in 1 커피믹스, 16g, 50개입, 1개",
+          "price": "12,080원",
+          "discount_rate": 32,
+          "priceAt": "11.07 10:21",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/5c4e/3452f881a55b49709b041f362254b43c4fe899342bebe48fb9f2c38b4f23.jpg",
+          "url": "https://link.coupang.com/a/itoJPGt3HE",
+          "_ts": 1794014471.736235
+        },
+        {
           "name": "세브란스케어 구수한맛 완전균형 영양식, 200ml, 16개, 200ml × 16개",
           "price": "15,810원",
           "discount_rate": 37,
@@ -1392,24 +1401,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d1c2/6b1bcf0cd3f8399532637749a4af890610f96a5760574d9e1a13418a1a72.jpg",
           "url": "https://link.coupang.com/a/ik6rBwH2GW",
           "_ts": 1793582660.474491
-        },
-        {
-          "name": "크린랩 은사니트 수세미 소, 20개",
-          "price": "7,650원",
-          "discount_rate": 51,
-          "priceAt": "11.02 10:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/55279075077092-d014a40e-39c0-44ab-85a9-0528b8634d68.jpg",
-          "url": "https://link.coupang.com/a/ik59zDpt80",
-          "_ts": 1793582419.471242
-        },
-        {
-          "name": "포스트 오레오오즈 요거트큐브 시리얼, 1개, 400g",
-          "price": "4,700원",
-          "discount_rate": 43,
-          "priceAt": "11.02 09:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/01/11/3/1eb4b3ab-72b8-49ef-9f44-6f449821df0f.jpg",
-          "url": "https://link.coupang.com/a/ik4xlxarK0",
-          "_ts": 1793581060.2073972
         }
       ]
     },
