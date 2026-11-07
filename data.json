@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "샘표 국산콩 백일된장, 900g, 1개, 900g × 1개",
+          "price": "8,470원",
+          "discount_rate": 42,
+          "priceAt": "11.07 16:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/2493/fc90a751dbc7f3b4c6e7658e321f3d740a840700d66a459ed9780288d41d.jpg",
+          "url": "https://link.coupang.com/a/itOOqtgp0S",
+          "_ts": 1794036363.6548321
+        },
+        {
           "name": "바디판타지 프래그런스 바디 스프레이 웨딩데이판타지, 2개, 236ml",
           "price": "14,990원",
           "discount_rate": 36,
@@ -1347,15 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1260108943773806-4b7f7bb0-1cfc-4127-a600-8c640983b178.png",
           "url": "https://link.coupang.com/a/ilzn6WEaf6",
           "_ts": 1793606966.258785
-        },
-        {
-          "name": "샘표 잔치국수, 101g, 4개",
-          "price": "3,060원",
-          "discount_rate": 40,
-          "priceAt": "11.02 16:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1104498377275392-42e8e80f-7e89-4042-825c-51b4ed98b37d.png",
-          "url": "https://link.coupang.com/a/ilvUEn8j4C",
-          "_ts": 1793604045.830204
         }
       ]
     },
