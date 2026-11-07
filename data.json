@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "세브란스케어 구수한맛 완전균형 영양식, 200ml, 16개, 200ml × 16개",
+          "price": "15,810원",
+          "discount_rate": 37,
+          "priceAt": "11.07 09:30",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2282802355064856-105b6b15-7c47-4a69-b59a-3672e29e3cef.jpg",
+          "url": "https://link.coupang.com/a/itk5tTjLLo",
+          "_ts": 1794011406.975884
+        },
+        {
           "name": "티아시아키친 치킨 마크니 커리 170g + 게살 푸팟퐁 커리 170g + 비프 마살라 커리 170g + 스파이시 비프 마살라 커리 170g 세트, 680g, 1세트, 680g × 1세트",
           "price": "4,640원",
           "discount_rate": 44,
@@ -1401,15 +1410,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/01/11/3/1eb4b3ab-72b8-49ef-9f44-6f449821df0f.jpg",
           "url": "https://link.coupang.com/a/ik4xlxarK0",
           "_ts": 1793581060.2073972
-        },
-        {
-          "name": "삼양 볶음간짬뽕, 20개",
-          "price": "13,590원",
-          "discount_rate": 30,
-          "priceAt": "11.02 09:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4694669285900-5825f6af-9ae5-403b-a5ab-299cf47b6592.png",
-          "url": "https://link.coupang.com/a/ik0RzLngMS",
-          "_ts": 1793577976.5991209
         }
       ]
     },
