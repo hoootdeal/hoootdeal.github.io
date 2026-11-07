@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바디판타지 프래그런스 바디 스프레이 웨딩데이판타지, 2개, 236ml",
+          "price": "14,990원",
+          "discount_rate": 36,
+          "priceAt": "11.07 15:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/393752046126550-b34f515d-dea1-41ca-8a13-7848f4c7c839.jpg",
+          "url": "https://link.coupang.com/a/itJ6tsvcKO",
+          "_ts": 1794032411.813906
+        },
+        {
           "name": "곰곰 당도선별 감귤, 1kg(로열과), 1개, 1kg(로열과) × 1개",
           "price": "3,980원",
           "discount_rate": 54,
@@ -1356,15 +1365,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1061274736350111-f8481398-91f4-494d-a27e-9969c646bc58.jpg",
           "url": "https://link.coupang.com/a/ilswEMqT8K",
           "_ts": 1793601202.8800268
-        },
-        {
-          "name": "스너글 핑크스파클 플러스 섬유유연제 포근향 본품, 2L, 1개",
-          "price": "6,990원",
-          "discount_rate": 40,
-          "priceAt": "11.02 14:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1baa/3f3728d57d5fbd867b2dd3c7b4c1c516d8a0051af5e045f4b29e874f8e62.jpg",
-          "url": "https://link.coupang.com/a/ilpOinvBCK",
-          "_ts": 1793598922.5614872
         }
       ]
     },
