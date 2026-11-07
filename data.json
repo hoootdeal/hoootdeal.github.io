@@ -1356,15 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1104498377275392-42e8e80f-7e89-4042-825c-51b4ed98b37d.png",
           "url": "https://link.coupang.com/a/ilvUEn8j4C",
           "_ts": 1793604045.830204
-        },
-        {
-          "name": "샘표국시 바지락칼국수, 100.3g, 4개",
-          "price": "3,060원",
-          "discount_rate": 55,
-          "priceAt": "11.02 15:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1061274736350111-f8481398-91f4-494d-a27e-9969c646bc58.jpg",
-          "url": "https://link.coupang.com/a/ilswEMqT8K",
-          "_ts": 1793601202.8800268
         }
       ]
     },
@@ -1373,6 +1364,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "웅진 하늘보리, 500ml, 20개",
+          "price": "9,400원",
+          "discount_rate": 58,
+          "priceAt": "11.07 15:42",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/NDgxYTA5/QVBUa0c5MzA1TEdaeHZUbG5pdlRXbVRkTytVUHg2L25uM0xVZWFseTFONzI.png",
+          "url": "https://toss.shopping/_m/VlHAa6qn",
+          "_ts": 1794033734.518705,
+          "_product_id": "171985429"
+        },
         {
           "name": "프로프룻 햇 부사사과, 최대15brix, 5kg, 1박스",
           "price": "12,900원",
