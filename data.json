@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "남양유업주식회사 불가리스 요거트 딸기 8개입, 640g, 1개",
+          "price": "2,990원",
+          "discount_rate": 50,
+          "priceAt": "11.07 11:27",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/71750737853224-e77a7c68-0cca-40d6-8508-9c68767b7fa0.jpg",
+          "url": "https://link.coupang.com/a/ittsulmWES",
+          "_ts": 1794018437.186999
+        },
+        {
           "name": "뉴트리원 루테인 지아잔틴164 에이엑스 GR 15g, 30정, 6개",
           "price": "75,050원",
           "discount_rate": 74,
@@ -1392,24 +1401,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/269246881709992-57fc1a7c-2731-4595-a7bb-94fa0da40b30.png",
           "url": "https://link.coupang.com/a/ileg42vbWK",
           "_ts": 1793589235.3157198
-        },
-        {
-          "name": "오스카마이어 베이컨 오리지널, 453g, 1개, 453g × 1개",
-          "price": "8,990원",
-          "discount_rate": 43,
-          "priceAt": "11.02 11:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/119432220628905-0edda131-835a-46ab-a606-8da82e6326dc.jpg",
-          "url": "https://link.coupang.com/a/ilasFtmt64",
-          "_ts": 1793586033.9533901
-        },
-        {
-          "name": "유하미카쿠토 특농 밀크 8.2, 88g, 6개",
-          "price": "12,470원",
-          "discount_rate": 39,
-          "priceAt": "11.02 10:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6a65/47fccc461e68accc71610c8a7bb18085db082f3d2f56e86793acf0ee107e.jpg",
-          "url": "https://link.coupang.com/a/ik8JNEfXpc",
-          "_ts": 1793584585.7580318
         }
       ]
     },
