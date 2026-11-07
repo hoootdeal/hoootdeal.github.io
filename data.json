@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "곰곰 당도선별 감귤, 1kg(로열과), 1개, 1kg(로열과) × 1개",
+          "price": "3,980원",
+          "discount_rate": 54,
+          "priceAt": "11.07 14:30",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/540194645421881-31295aa2-fcef-4b12-82de-6eb69c69f1f8.png",
+          "url": "https://link.coupang.com/a/itGyujGiOG",
+          "_ts": 1794029432.270633
+        },
+        {
           "name": "컴포트랩 마카롱 웰핏 팬티 2p, XL",
           "price": "5,410원",
           "discount_rate": 85,
@@ -1356,24 +1365,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1baa/3f3728d57d5fbd867b2dd3c7b4c1c516d8a0051af5e045f4b29e874f8e62.jpg",
           "url": "https://link.coupang.com/a/ilpOinvBCK",
           "_ts": 1793598922.5614872
-        },
-        {
-          "name": "곰곰 돌돌이 무연골 대패 삼겹살 (냉동), 1kg, 1개",
-          "price": "8,230원",
-          "discount_rate": 31,
-          "priceAt": "11.02 14:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/147467444296357-cf26bc4b-6cc7-48bd-a407-955a0afe8960.jpg",
-          "url": "https://link.coupang.com/a/ilnqYq6Sqa",
-          "_ts": 1793596928.5355651
-        },
-        {
-          "name": "오리온 도도한 나초 치즈맛, 155g, 12개",
-          "price": "15,750원",
-          "discount_rate": 26,
-          "priceAt": "11.02 13:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4703225945339378-545c9d38-a104-42d7-8a65-2b80f2aa8006.png",
-          "url": "https://link.coupang.com/a/illPQZTUPs",
-          "_ts": 1793595585.885779
         }
       ]
     },
