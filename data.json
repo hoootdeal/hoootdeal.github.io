@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "일리 디카프 디카페인 캡슐커피, 6.7g, 21개입, 1개",
+          "price": "10,320원",
+          "discount_rate": 30,
+          "priceAt": "11.07 11:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/ccc2/034717ca3cd514681c27f00c27cae29de2cc6ec1be586353e60fe1e5fb56.jpg",
+          "url": "https://link.coupang.com/a/itvIIuVxvg",
+          "_ts": 1794020334.356277
+        },
+        {
           "name": "남양유업주식회사 불가리스 요거트 딸기 8개입, 640g, 1개",
           "price": "2,990원",
           "discount_rate": 50,
