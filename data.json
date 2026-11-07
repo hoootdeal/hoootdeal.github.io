@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 평양 물냉면 4인분, 1.692kg, 1개, 1.692kg × 1개",
+          "price": "3,980원",
+          "discount_rate": 53,
+          "priceAt": "11.07 21:19",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3755755040717350-52d823ff-a392-471b-9728-f709c05a45ce.jpg",
+          "url": "https://link.coupang.com/a/it9OpN0dwW",
+          "_ts": 1794053995.614335
+        },
+        {
           "name": "엘라드 오로라 LPP 트리트먼트 헤어팩, 1L, 3개, 1L × 3개",
           "price": "18,720원",
           "discount_rate": 69,
@@ -1347,15 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4215368233178-d1de6af8-4daf-49ae-a225-d7061754098e.jpg",
           "url": "https://link.coupang.com/a/ilSjwEQEkm",
           "_ts": 1793622853.6053069
-        },
-        {
-          "name": "롯데웰푸드 슈프림치킨 (냉동), 330g, 2개",
-          "price": "6,480원",
-          "discount_rate": 35,
-          "priceAt": "11.02 20:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6fc533aa-eb92-4fe5-a1ee-61ab4d351d3a6566603541176979944.png",
-          "url": "https://link.coupang.com/a/ilOHjIG4qa",
-          "_ts": 1793619818.473964
         }
       ]
     },
