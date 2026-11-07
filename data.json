@@ -1347,15 +1347,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/390c/6e2a001f060ffee7a31959b3e3ced7a5187b8e19c26c928619c1bf7594b2.jpg",
           "url": "https://link.coupang.com/a/ilKHlsTNpQ",
           "_ts": 1793616460.3557901
-        },
-        {
-          "name": "연세두유 뼈를 생각한 고칼슘 두유 검은콩, 190ml, 24개",
-          "price": "8,650원",
-          "discount_rate": 26,
-          "priceAt": "11.02 19:16",
-          "image": "https://image6.coupangcdn.com/image/retail/images/68161817442765-816e34e0-3423-44c7-a710-db604bac51ab.jpg",
-          "url": "https://link.coupang.com/a/ilIrj6rw7M",
-          "_ts": 1793614562.60094
         }
       ]
     },
@@ -1364,6 +1355,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "한돈 뒷고기, 1+등급, 500g, 2개",
+          "price": "10,400원",
+          "discount_rate": 74,
+          "priceAt": "11.07 19:30",
+          "image": "https://shopping.toss.im/live/taca/ai/MGY1MTI4/Y2tCRXBpa3lqeURKTEUzMlMxQjR5V0I4ZHRNdU55OFBYN1loTlpEbWkzYz0.png",
+          "url": "https://toss.shopping/_m/n3ILOqK9",
+          "_ts": 1794047452.645359,
+          "_product_id": "684178563"
+        },
         {
           "name": "면사랑 얼큰짬뽕수제비, 197g, 6개",
           "price": "12,670원",
