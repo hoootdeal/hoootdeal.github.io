@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "MYCHEF 밀푀유나베 & 칼국수 밀키트 2~3인분, 1.05kg, 2개, 1.05kg × 2개",
+          "price": "18,890원",
+          "discount_rate": 23,
+          "priceAt": "11.07 17:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/526927593335678-19d24c5c-6c4d-4d35-ba9e-8ea55b1a7a30.jpg",
+          "url": "https://link.coupang.com/a/itSxXKSlwa",
+          "_ts": 1794039499.6510441
+        },
+        {
           "name": "샘표 국산콩 백일된장, 900g, 1개, 900g × 1개",
           "price": "8,470원",
           "discount_rate": 42,
@@ -1347,15 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/advertiser/1755675831815/5577e2eb-f864-4b8a-9444-15a716d93d0f.jpg",
           "url": "https://link.coupang.com/a/ilCVWUfVOC",
           "_ts": 1793609941.570295
-        },
-        {
-          "name": "해찬들 사과듬뿍 비빔장, 470g, 1개, 470g × 1개",
-          "price": "1,980원",
-          "discount_rate": 69,
-          "priceAt": "11.02 17:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1260108943773806-4b7f7bb0-1cfc-4127-a600-8c640983b178.png",
-          "url": "https://link.coupang.com/a/ilzn6WEaf6",
-          "_ts": 1793606966.258785
         }
       ]
     },
