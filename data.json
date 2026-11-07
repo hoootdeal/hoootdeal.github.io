@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "사푸토 스트링 치즈 라이트, 23.5g, 2개, 24개입",
+          "price": "10,970원",
+          "discount_rate": 55,
+          "priceAt": "11.08 07:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/cb7bd8b2-ffde-4789-abb0-642b73ab91b18716843615754563375.png",
+          "url": "https://link.coupang.com/a/iuP60vb5r2",
+          "_ts": 1794089509.904706
+        },
+        {
           "name": "버터와플 이즈니, 2개, 158g",
           "price": "3,980원",
           "discount_rate": 43,
@@ -1347,15 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/859141356453257-318e3cc2-c80d-4e5b-b50b-8306ad83b27b.jpg",
           "url": "https://link.coupang.com/a/imxPvjNAeO",
           "_ts": 1793657711.789435
-        },
-        {
-          "name": "다이슨 에어랩 i d 멀티 스타일러 앤 드라이어, 257511-01, 세라믹 아프리콧 + 토파즈",
-          "price": "350,270원",
-          "discount_rate": 33,
-          "priceAt": "11.03 07:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/04/14/2/7fda1561-d2f1-4387-a647-d467df11cd05.jpg",
-          "url": "https://link.coupang.com/a/imw6lXXXNI",
-          "_ts": 1793657100.078937
         }
       ]
     },
