@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "메이플조 메이플 시럽, 150g, 1개",
+          "price": "4,490원",
+          "discount_rate": 34,
+          "priceAt": "11.07 18:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/50881849577540-608b3c0a-ddfc-4e54-8975-14969da64868.jpg",
+          "url": "https://link.coupang.com/a/itWY42zqg0",
+          "_ts": 1794043225.481863
+        },
+        {
           "name": "MYCHEF 밀푀유나베 & 칼국수 밀키트 2~3인분, 1.05kg, 2개, 1.05kg × 2개",
           "price": "18,890원",
           "discount_rate": 23,
@@ -1338,24 +1347,6 @@
           "image": "https://image6.coupangcdn.com/image/retail/images/68161817442765-816e34e0-3423-44c7-a710-db604bac51ab.jpg",
           "url": "https://link.coupang.com/a/ilIrj6rw7M",
           "_ts": 1793614562.60094
-        },
-        {
-          "name": "매일바이오 고단백 그릭요거트 드링크 무가당 플레인, 2개, 4개입, 150ml",
-          "price": "3,980원",
-          "discount_rate": 55,
-          "priceAt": "11.02 18:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/142678883584667-630ee73a-cff7-4be3-afca-fe75b6c295ed.jpg",
-          "url": "https://link.coupang.com/a/ilC1Ys6KPY",
-          "_ts": 1793610023.495018
-        },
-        {
-          "name": "순수람 채담카레, 160g, 5개",
-          "price": "5,320원",
-          "discount_rate": 38,
-          "priceAt": "11.02 17:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/advertiser/1755675831815/5577e2eb-f864-4b8a-9444-15a716d93d0f.jpg",
-          "url": "https://link.coupang.com/a/ilCVWUfVOC",
-          "_ts": 1793609941.570295
         }
       ]
     },
