@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 콕콕콕 치즈볶이 95g, 3개",
+          "price": "3,760원",
+          "discount_rate": 30,
+          "priceAt": "11.07 22:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/117552462017264-2ebe73c9-adae-4246-8457-84e90e5fec1c.jpg",
+          "url": "https://link.coupang.com/a/iueN9oRHGu",
+          "_ts": 1794058188.922307
+        },
+        {
           "name": "이몽 뜨왈드주이 양면 어깨패드, 브라운, 2개, 브라운 × 2개",
           "price": "3,420원",
           "discount_rate": 41,
@@ -1338,15 +1347,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/04/14/2/7fda1561-d2f1-4387-a647-d467df11cd05.jpg",
           "url": "https://link.coupang.com/a/imw6lXXXNI",
           "_ts": 1793657100.078937
-        },
-        {
-          "name": "에뛰드 왓츠인 마이 아이즈, 아임파인땡큐, 1개",
-          "price": "1,800원",
-          "discount_rate": 43,
-          "priceAt": "11.02 22:24",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/02/20/11/8/8f31ca73-7aac-4496-86d2-a2b5691a5c34.jpg",
-          "url": "https://link.coupang.com/a/ilVVypCM2e",
-          "_ts": 1793625886.238367
         }
       ]
     },
