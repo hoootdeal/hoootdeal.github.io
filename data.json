@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "후버 착즙 오렌지주스, 1L, 2개",
+          "price": "6,420원",
+          "discount_rate": 42,
+          "priceAt": "11.08 07:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/182870003808746-a0250971-2387-44e6-b675-f5ee7513330d.jpg",
+          "url": "https://link.coupang.com/a/iuRoUnS4ES",
+          "_ts": 1794090591.4780538
+        },
+        {
           "name": "사푸토 스트링 치즈 라이트, 23.5g, 2개, 24개입",
           "price": "10,970원",
           "discount_rate": 55,
@@ -1338,24 +1347,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/09/18/15/6/2846ffbe-99d4-42af-9a74-78feab5b6125.jpg",
           "url": "https://link.coupang.com/a/imz2XfW0gm",
           "_ts": 1793659574.054671
-        },
-        {
-          "name": "케라시스 두피 비듬케어 딥클린 쿨링 단백질 샴푸, 600ml, 2개",
-          "price": "5,560원",
-          "discount_rate": 56,
-          "priceAt": "11.03 07:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/266425056015209-6ea34470-6798-4ae4-a331-0789bbfd63fc.png",
-          "url": "https://link.coupang.com/a/imyJ2TPxHE",
-          "_ts": 1793658477.326199
-        },
-        {
-          "name": "파스퇴르 유기농 주스 배도라지, 125ml, 48개",
-          "price": "10,960원",
-          "discount_rate": 61,
-          "priceAt": "11.03 07:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/859141356453257-318e3cc2-c80d-4e5b-b50b-8306ad83b27b.jpg",
-          "url": "https://link.coupang.com/a/imxPvjNAeO",
-          "_ts": 1793657711.789435
         }
       ]
     },
