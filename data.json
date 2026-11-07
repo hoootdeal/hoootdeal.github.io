@@ -1347,15 +1347,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6fc533aa-eb92-4fe5-a1ee-61ab4d351d3a6566603541176979944.png",
           "url": "https://link.coupang.com/a/ilOHjIG4qa",
           "_ts": 1793619818.473964
-        },
-        {
-          "name": "다담 국물떡볶이 양념, 530g, 1개",
-          "price": "1,980원",
-          "discount_rate": 64,
-          "priceAt": "11.02 19:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/390c/6e2a001f060ffee7a31959b3e3ced7a5187b8e19c26c928619c1bf7594b2.jpg",
-          "url": "https://link.coupang.com/a/ilKHlsTNpQ",
-          "_ts": 1793616460.3557901
         }
       ]
     },
@@ -1364,6 +1355,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "칼로라이트 전자레인지 소형 저당 밥솥, 크림, 1개",
+          "price": "11,090원",
+          "discount_rate": 62,
+          "priceAt": "11.07 20:07",
+          "image": "https://shopping.toss.im/live/temp/2026-10-06/39231bca-4e3e-400c-95ab-2de0735f87b0.jpeg",
+          "url": "https://toss.shopping/_m/pQWjkJb8",
+          "_ts": 1794049640.455306,
+          "_product_id": "581066609"
+        },
         {
           "name": "한돈 뒷고기, 1+등급, 500g, 2개",
           "price": "10,400원",
