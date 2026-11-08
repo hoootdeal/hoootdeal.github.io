@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "올바른건강식품 곡물효소 프로바이오틱스 블랙, 270g, 1개, 270g × 1개",
+          "price": "8,230원",
+          "discount_rate": 55,
+          "priceAt": "11.08 18:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/21/10/8/4ecfdc54-65be-4557-863f-186b00053a24.jpg",
+          "url": "https://link.coupang.com/a/ivBg1lwunQ",
+          "_ts": 1794129111.717654
+        },
+        {
           "name": "트레비 자몽 ECO 탄산음료 무라벨, 350ml, 40개",
           "price": "11,850원",
           "discount_rate": 48,
@@ -1320,15 +1329,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/47866779727549-692033a3-ad55-448b-adb7-bd1631eab8f9.jpg",
           "url": "https://link.coupang.com/a/injEHdr68i",
           "_ts": 1793697867.9771972
-        },
-        {
-          "name": "오설록 제주 순수녹차, 2g, 20개입, 1개",
-          "price": "5,600원",
-          "discount_rate": 34,
-          "priceAt": "11.03 17:51",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/11/12/14/5/0444ec1f-13c9-44c6-93b7-248e4cb4a804.jpg",
-          "url": "https://link.coupang.com/a/inhiaYRwEC",
-          "_ts": 1793695882.6579359
         }
       ]
     },
