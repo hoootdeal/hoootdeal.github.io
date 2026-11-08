@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "템포 내추럴 순면 입는 오버나이트, Free Size, 5개입, 1개",
+          "price": "2,240원",
+          "discount_rate": 47,
+          "priceAt": "11.09 07:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/6306410275685-6ab506db-6b7e-475b-8025-d72666238684.png",
+          "url": "https://link.coupang.com/a/iwuRNSuZzM",
+          "_ts": 1794175787.559943
+        },
+        {
           "name": "립톤 레몬맛 아이스티 분말, 770g, 1개입, 4개",
           "price": "9,700원",
           "discount_rate": 86,
@@ -1293,15 +1302,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/344988913831960-de9efc48-2ee0-4a90-b862-5674d8cce438.jpg",
           "url": "https://link.coupang.com/a/iocBrJeTcG",
           "_ts": 1793744002.862299
-        },
-        {
-          "name": "헬시오리진스 피크노제놀 100mg 베지 캡슐, 120정, 1개",
-          "price": "39,120원",
-          "discount_rate": 52,
-          "priceAt": "11.04 07:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/3c9b44ea-e769-4778-951e-9ab470f4323d_fixing_v2.png",
-          "url": "https://link.coupang.com/a/iob8OTKNMa",
-          "_ts": 1793743615.070146
         }
       ]
     },
