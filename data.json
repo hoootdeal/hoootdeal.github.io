@@ -1338,15 +1338,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/116306729351983-be268789-2db2-4eb3-893c-e91bfe90c026.jpeg",
           "url": "https://link.coupang.com/a/imNCkYYm5Y",
           "_ts": 1793670968.1026502
-        },
-        {
-          "name": "펩시 제로 슈거 라임향 제로 카페인, 355ml, 24개",
-          "price": "12,240원",
-          "discount_rate": 23,
-          "priceAt": "11.03 10:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/10/01/11/9/33d77ad6-f56b-41e5-a658-85e2767fa0bc.jpg",
-          "url": "https://link.coupang.com/a/imMbfoNRLw",
-          "_ts": 1793669761.862319
         }
       ]
     },
@@ -1355,6 +1346,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "카라카라 오렌지, 중대과, 30~35과 내외, 7kg, 1박스",
+          "price": "16,440원",
+          "discount_rate": 71,
+          "priceAt": "11.08 10:47",
+          "image": "https://shopping.toss.im/live/temp/2026-03-13/f02a448b-5ae6-46a1-9678-b780373089fc.jpeg",
+          "url": "https://toss.shopping/_m/Pc7eQH0A",
+          "_ts": 1794102421.5674582,
+          "_product_id": "194214671"
+        },
         {
           "name": "장충동 쫄깃한 편육, 150g, 5개",
           "price": "10,700원",
