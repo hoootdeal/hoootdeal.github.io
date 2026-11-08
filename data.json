@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "마즈 믹스드 패밀리팩, 870g, 1개",
+          "price": "11,600원",
+          "discount_rate": 31,
+          "priceAt": "11.09 07:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/6894/968640094a3d2effd2946a6de80896556d81574d26c917ccce5ea333113e.jpg",
+          "url": "https://link.coupang.com/a/iwwUijmgrA",
+          "_ts": 1794177500.619089
+        },
+        {
           "name": "오투액션 프로 분말형 표백제, 650g, 2개",
           "price": "8,320원",
           "discount_rate": 54,
@@ -1293,15 +1302,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/07/19/17/8/0d09abd3-6093-4ce6-ae7a-de23063415ef.jpg",
           "url": "https://link.coupang.com/a/iofKR8LuCW",
           "_ts": 1793746648.025124
-        },
-        {
-          "name": "오뚜기 제주담음 한라봉 마말레이드 잼, 300g, 2개",
-          "price": "3,790원",
-          "discount_rate": 36,
-          "priceAt": "11.04 07:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/182191619714605-cea94a5e-35b0-40ab-9a7c-717d4e566c16.jpg",
-          "url": "https://link.coupang.com/a/iodBqWEPTM",
-          "_ts": 1793744841.56439
         }
       ]
     },
