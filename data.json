@@ -1311,24 +1311,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/187590491053910-d763f6b1-4b84-4308-9c19-e6c13f7e3ab7.jpg",
           "url": "https://link.coupang.com/a/indJpQ4e0y",
           "_ts": 1793692893.764544
-        },
-        {
-          "name": "이클립스 쿨링 소프트 캔디 청포도향, 585g, 1개",
-          "price": "7,640원",
-          "discount_rate": 38,
-          "priceAt": "11.03 16:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/156e/fb65e8f1eafd206c5dc66dff0884949e69722df3f0d39bc6f61c75fd652e.jpg",
-          "url": "https://link.coupang.com/a/inbjIlHdx6",
-          "_ts": 1793690866.433095
-        },
-        {
-          "name": "삐아 라스트 벨벳 립 틴트 5g, 17 꽃보다 살랑, 1개",
-          "price": "6,910원",
-          "discount_rate": 51,
-          "priceAt": "11.03 16:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/04/11/1/79f4dd3e-e05b-41fa-8f40-72c1f8845dda.jpg",
-          "url": "https://link.coupang.com/a/im98mRjOCW",
-          "_ts": 1793689872.19643
         }
       ]
     },
@@ -1337,6 +1319,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "봉평 메밀국수, 1kg, 3개",
+          "price": "13,760원",
+          "discount_rate": 61,
+          "priceAt": "11.08 16:29",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/YTkxZTdi/ZFl5VDhXNGJHczd6OGN3eFoweXhCaWt4WGl6Mk1jRzhHd1UrRnRoMHQ4az0.png",
+          "url": "https://toss.shopping/_m/D7rpsGVl",
+          "_ts": 1794122942.459635,
+          "_product_id": "2403043187"
+        },
         {
           "name": "맥스앤맥스 냉동밥 소분 밀폐용기, 350ml, 베이지+그린, 8개",
           "price": "6,900원",
