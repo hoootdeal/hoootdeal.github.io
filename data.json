@@ -1329,6 +1329,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "넛츠그린 저당 마일드 초코볼 마카다미아, 30g, 5개",
+          "price": "7,510원",
+          "discount_rate": 49,
+          "priceAt": "11.08 20:34",
+          "image": "https://shopping.toss.im/live/temp/2026-03-19/d124af97-82d4-46cf-a087-2aead8ac0802.jpeg",
+          "url": "https://toss.shopping/_m/LZTnNdx8",
+          "_ts": 1794137665.7158349,
+          "_product_id": "213918355"
+        },
+        {
           "name": "꿀Brix 초고당도 호풍미 호박고구마, 3kg, 1박스",
           "price": "8,900원",
           "discount_rate": 69,
