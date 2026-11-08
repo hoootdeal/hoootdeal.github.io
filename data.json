@@ -1338,6 +1338,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "농협 단일품종 탄탄대로 쌀 새청무, 특등급, 10kg, 1개",
+          "price": "33,220원",
+          "discount_rate": 42,
+          "priceAt": "11.08 17:46",
+          "image": "https://shopping.toss.im/live/taca/ai/YmY4MjRh/QVA2VGJUd0pQcFlCMHZwTnE2K0Z1bjVZYjc1UndiN2xxMjdaa3UyNVpHa1M.png",
+          "url": "https://toss.shopping/_m/3AAWZWEe",
+          "_ts": 1794127604.3737211,
+          "_product_id": "8638689"
+        },
+        {
           "name": "봉평 메밀국수, 1kg, 3개",
           "price": "13,760원",
           "discount_rate": 61,
