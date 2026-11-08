@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "더담은 적두, 2kg, 1개",
+          "price": "17,960원",
+          "discount_rate": 55,
+          "priceAt": "11.08 10:05",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2021/11/24/16/6/760d605d-44f4-4622-bb03-ab59ae0154ea.jpg",
+          "url": "https://link.coupang.com/a/iu2w8tnWI8",
+          "_ts": 1794099941.958753
+        },
+        {
           "name": "우리차 콘푸레이크 천마차, 18g, 110개입, 1개",
           "price": "11,500원",
           "discount_rate": 25,
