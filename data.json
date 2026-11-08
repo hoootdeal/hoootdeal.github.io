@@ -1320,24 +1320,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/54886287741199-15096799-92e6-48c2-976d-64f5fb5cd59a.jpg",
           "url": "https://link.coupang.com/a/ins8DgHHSC",
           "_ts": 1793705829.166547
-        },
-        {
-          "name": "면사랑 간짜장 소스 3개입 (냉동), 540g, 1개",
-          "price": "3,740원",
-          "discount_rate": 41,
-          "priceAt": "11.03 19:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/m6jie0m0/986c59b6024845a88c2398c0ad4c023c.jpg",
-          "url": "https://link.coupang.com/a/inp86uWXUz",
-          "_ts": 1793703316.926856
-        },
-        {
-          "name": "햇반 발아현미밥, 210g, 12개, 210g × 12개",
-          "price": "15,420원",
-          "discount_rate": 49,
-          "priceAt": "11.03 19:49",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10082388779533-54e35a0c-a1e2-4933-86cb-0cdf45a99197.jpg",
-          "url": "https://link.coupang.com/a/inpI7O8IQm",
-          "_ts": 1793702964.8408298
         }
       ]
     },
@@ -1346,6 +1328,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "꿀Brix 초고당도 호풍미 호박고구마, 3kg, 1박스",
+          "price": "8,900원",
+          "discount_rate": 69,
+          "priceAt": "11.08 20:11",
+          "image": "https://shopping.toss.im/live/temp/2026-10-22/7d387633-d8f7-43a9-8dfd-2ae63f23b189.png",
+          "url": "https://toss.shopping/_m/xIhvYXSo",
+          "_ts": 1794136266.3172312,
+          "_product_id": "2694960991"
+        },
         {
           "name": "오즈랜드 리얼 생감자스틱, 20g, 18봉, 1박스",
           "price": "7,900원",
