@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "트레비 자몽 ECO 탄산음료 무라벨, 350ml, 40개",
+          "price": "11,850원",
+          "discount_rate": 48,
+          "priceAt": "11.08 17:23",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/465ba1ff-8424-4e7e-83be-b31c84b3cd9e9189543918617255802.png",
+          "url": "https://link.coupang.com/a/ivxNuP7ZF6",
+          "_ts": 1794126191.060677
+        },
+        {
           "name": "청정원 건강한 쌀올리고당, 1.2kg, 1개",
           "price": "4,430원",
           "discount_rate": 31,
@@ -1320,15 +1329,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/11/12/14/5/0444ec1f-13c9-44c6-93b7-248e4cb4a804.jpg",
           "url": "https://link.coupang.com/a/inhiaYRwEC",
           "_ts": 1793695882.6579359
-        },
-        {
-          "name": "히말라야핑크솔트담은 브라이트닝화이트 펌핑치약, 285g, 2개",
-          "price": "9,900원",
-          "discount_rate": 69,
-          "priceAt": "11.03 17:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/187590491053910-d763f6b1-4b84-4308-9c19-e6c13f7e3ab7.jpg",
-          "url": "https://link.coupang.com/a/indJpQ4e0y",
-          "_ts": 1793692893.764544
         }
       ]
     },
