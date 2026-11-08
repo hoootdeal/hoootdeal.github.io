@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "우리차 콘푸레이크 천마차, 18g, 110개입, 1개",
+          "price": "11,500원",
+          "discount_rate": 25,
+          "priceAt": "11.08 09:59",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/86795193934867-6f4bfc2c-de28-4fb8-9e98-f45434c6bab7.jpg",
+          "url": "https://link.coupang.com/a/iu17VzVAzs",
+          "_ts": 1794099599.5289202
+        },
+        {
           "name": "올가홀푸드 발아 보리차, 500g, 1개입, 1개",
           "price": "7,140원",
           "discount_rate": 35,
