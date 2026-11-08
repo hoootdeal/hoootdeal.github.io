@@ -1311,6 +1311,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "할리스 바닐라 딜라이트 로우슈거, 450ml, 24개",
+          "price": "35,430원",
+          "discount_rate": 53,
+          "priceAt": "11.09 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/YjM4MGIz/QWYvT2EwWjhzWkc1czhyRHprelBIRENqTmVoTlhNNDNxcmNSeUJWSXlETT0.png",
+          "url": "https://toss.shopping/_m/pDwvIOsj",
+          "_ts": 1794150146.426155,
+          "_flash": true,
+          "_product_id": "116052371"
+        },
+        {
+          "name": "에이스퍼플리 고농축 핑크로즈 섬유유연제, 실내건조, 2.5L, 4통",
+          "price": "8,514원",
+          "discount_rate": 62,
+          "priceAt": "11.09 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-07-30/db385086-66ca-43c2-a12b-18f166f3bc85.jpeg",
+          "url": "https://toss.shopping/_m/Pi8TpToB",
+          "_ts": 1794150146.4261272,
+          "_flash": true,
+          "_product_id": "2518338057"
+        },
+        {
+          "name": "지그비 빅헤드 초미세모 칫솔, 12개입, 1세트",
+          "price": "12,900원",
+          "discount_rate": 59,
+          "priceAt": "11.09 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/ZTZjNDY4/UHZrZFhxOHB6d3ZIU1Z2RGZ2VDRvOVFjMWF0VlZPS3p2VlFxdFloandjQT0.png",
+          "url": "https://toss.shopping/_m/J2WRSxtj",
+          "_ts": 1794150146.426095,
+          "_flash": true,
+          "_product_id": "143622155"
+        },
+        {
           "name": "넛츠그린 저당 마일드 초코볼 마카다미아, 30g, 5개",
           "price": "7,510원",
           "discount_rate": 49,
