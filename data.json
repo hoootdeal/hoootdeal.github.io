@@ -1329,15 +1329,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/23/17/4/0016ec20-5774-4376-8750-00d7f7b7cf75.jpg",
           "url": "https://link.coupang.com/a/imV5dX2vTg",
           "_ts": 1793678076.444368
-        },
-        {
-          "name": "오스카마이어 로우 소디움 베이컨, 453g, 1개",
-          "price": "7,590원",
-          "discount_rate": 52,
-          "priceAt": "11.03 12:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/05/08/13/8/866a19fb-e00d-4c86-a82b-b081311b1bbf.jpg",
-          "url": "https://link.coupang.com/a/imSYCBvDwW",
-          "_ts": 1793675468.709484
         }
       ]
     },
@@ -1346,6 +1337,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "클리어 미용티슈, 2겹, 300매, 6개",
+          "price": "6,000원",
+          "discount_rate": 59,
+          "priceAt": "11.08 12:51",
+          "image": "https://shopping.toss.im/live/temp/2026-04-30/346efa4b-0a91-4c9b-836e-49337dfc4eee.jpeg",
+          "url": "https://toss.shopping/_m/91i5OrU1",
+          "_ts": 1794109914.956599,
+          "_product_id": "1776020737"
+        },
         {
           "name": "카라카라 오렌지, 중대과, 30~35과 내외, 7kg, 1박스",
           "price": "16,440원",
