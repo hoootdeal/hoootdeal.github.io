@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "프로그 하루에 한장씩 빨아쓰는 행주, 50개입, 2개",
+          "price": "8,170원",
+          "discount_rate": 34,
+          "priceAt": "11.08 14:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/428935833978785-245d6da0-6720-4f1a-9bb3-1a31dce3435a.jpg",
+          "url": "https://link.coupang.com/a/ivjOu3nrBQ",
+          "_ts": 1794114450.4317608
+        },
+        {
           "name": "티젠 콤부차 스트로베리키위, 5g, 50개입, 2개",
           "price": "18,690원",
           "discount_rate": 23,
@@ -1320,15 +1329,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/71398883629442-ed0485d7-6609-42b5-8034-7fc5dab9668b.jpg",
           "url": "https://link.coupang.com/a/im2nelYwtU",
           "_ts": 1793683356.899905
-        },
-        {
-          "name": "오뚜기 가뿐한끼 저당 매콤닭가슴살 카레, 130g, 10개, 130g × 10개",
-          "price": "10,980원",
-          "discount_rate": 25,
-          "priceAt": "11.03 13:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/152521295286458-d10e5969-0eef-49c1-a9b2-115fe4ae8325.jpg",
-          "url": "https://link.coupang.com/a/imZV7eBQzc",
-          "_ts": 1793681311.0966852
         }
       ]
     },
