@@ -1320,24 +1320,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10082388779533-54e35a0c-a1e2-4933-86cb-0cdf45a99197.jpg",
           "url": "https://link.coupang.com/a/inpI7O8IQm",
           "_ts": 1793702964.8408298
-        },
-        {
-          "name": "청정원 호밍스 우거지 순살 감자탕 (냉동), 700g, 2개",
-          "price": "10,000원",
-          "discount_rate": 40,
-          "priceAt": "11.03 19:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/98731858477948-0987e205-e26e-4ad4-a56f-8dd59aba77bf.jpg",
-          "url": "https://link.coupang.com/a/inmetaiAa4",
-          "_ts": 1793700032.828745
-        },
-        {
-          "name": "올리타리아 엑스트라 버진 올리브오일, 250ml, 1개",
-          "price": "6,440원",
-          "discount_rate": 24,
-          "priceAt": "11.03 18:24",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/47866779727549-692033a3-ad55-448b-adb7-bd1631eab8f9.jpg",
-          "url": "https://link.coupang.com/a/injEHdr68i",
-          "_ts": 1793697867.9771972
         }
       ]
     },
@@ -1346,6 +1328,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "오즈랜드 리얼 생감자스틱, 20g, 18봉, 1박스",
+          "price": "7,900원",
+          "discount_rate": 50,
+          "priceAt": "11.08 19:07",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MWU3ZjEy/Y2VRNW1qTFozck91YkszaEhXbXpjYWFSMXFOVDBsOGVKS1Y2SExWTTk3UT0.png",
+          "url": "https://toss.shopping/_m/tDqRa7my",
+          "_ts": 1794132442.1328971,
+          "_product_id": "2521451623"
+        },
         {
           "name": "전통압착 통참깨 참기름, 350ml, 2개",
           "price": "11,600원",
