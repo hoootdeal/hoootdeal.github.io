@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러, 아메시스트 핑크, 887ml, 1개",
+          "price": "19,850원",
+          "discount_rate": 38,
+          "priceAt": "11.08 11:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/152202746386245-bdee3efe-d148-4058-9efc-a7c4b3bd1d9b.png",
+          "url": "https://link.coupang.com/a/iu6BzpYXrE",
+          "_ts": 1794103357.931563
+        },
+        {
           "name": "곰곰 가득담은 칵테일 새우 (냉동), 900g, 1개",
           "price": "13,300원",
           "discount_rate": 25,
@@ -1329,15 +1338,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/8459/d80b3927b75fa5b1009599aa510c030592a119bdb5ee20c34dad21b5936c.jpg",
           "url": "https://link.coupang.com/a/imQM6BrR1w",
           "_ts": 1793673631.747643
-        },
-        {
-          "name": "키오시아 EXCERIA 마이크로 메모리 카드 홈캠 블랙박스 CCTV SD LMEX1L064GG4, 64GB, 1개",
-          "price": "10,330원",
-          "discount_rate": 56,
-          "priceAt": "11.03 10:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/116306729351983-be268789-2db2-4eb3-893c-e91bfe90c026.jpeg",
-          "url": "https://link.coupang.com/a/imNCkYYm5Y",
-          "_ts": 1793670968.1026502
         }
       ]
     },
