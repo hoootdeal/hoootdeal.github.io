@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "곰곰 가득담은 칵테일 새우 (냉동), 900g, 1개",
+          "price": "13,300원",
+          "discount_rate": 25,
+          "priceAt": "11.08 10:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/387603625410996-2726a094-aca1-4693-adcb-032be9b0599c.jpg",
+          "url": "https://link.coupang.com/a/iu4fX3T21Q",
+          "_ts": 1794101388.3101099
+        },
+        {
           "name": "더담은 적두, 2kg, 1개",
           "price": "17,960원",
           "discount_rate": 55,
