@@ -1338,6 +1338,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "전통압착 통참깨 참기름, 350ml, 2개",
+          "price": "11,600원",
+          "discount_rate": 76,
+          "priceAt": "11.08 18:15",
+          "image": "https://shopping.toss.im/live/temp/2026-06-12/3e77cdec-ff1b-428b-a35f-ea16a4123e88.jpeg",
+          "url": "https://toss.shopping/_m/9v7RLYn8",
+          "_ts": 1794129302.0787609,
+          "_product_id": "156877077"
+        },
+        {
           "name": "농협 단일품종 탄탄대로 쌀 새청무, 특등급, 10kg, 1개",
           "price": "33,220원",
           "discount_rate": 42,
