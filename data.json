@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "립톤 레몬맛 아이스티 분말, 770g, 1개입, 4개",
+          "price": "9,700원",
+          "discount_rate": 86,
+          "priceAt": "11.08 21:22",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3ff6/74f692baf06911d4382e517aa37f1426960b5d23ca20f6ca5896d1556d61.jpg",
+          "url": "https://link.coupang.com/a/ivOUmcgxOe",
+          "_ts": 1794140557.601595
+        },
+        {
           "name": "빈다 천연펄프 4겹 4D Deluxe 엠보싱 보타니컬 롤화장지, 23m, 30개입, 1개",
           "price": "13,190원",
           "discount_rate": 43,
@@ -1311,15 +1320,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/07/09/12/0/98f5be14-f277-4300-9ae6-eff44e0c50ee.jpg",
           "url": "https://link.coupang.com/a/inxS7kJx1M",
           "_ts": 1793709817.21024
-        },
-        {
-          "name": "프로쉬 제로 맨손 주방 세제, 500ml, 2개",
-          "price": "10,000원",
-          "discount_rate": 48,
-          "priceAt": "11.03 21:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/eba319ef-c7e1-4e56-b1dd-d18a69d728784719649256017647727.png",
-          "url": "https://link.coupang.com/a/inuQUeUsLY",
-          "_ts": 1793707267.167805
         }
       ]
     },
