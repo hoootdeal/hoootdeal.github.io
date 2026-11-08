@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 진짬뽕 컵 75g, 6개, 6개",
+          "price": "4,490원",
+          "discount_rate": 35,
+          "priceAt": "11.08 15:39",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/199054702035392-5c0e0d78-6bba-4217-aae3-5ad11ca3cac6.jpg",
+          "url": "https://link.coupang.com/a/ivqm9lxWyy",
+          "_ts": 1794119958.336019
+        },
+        {
           "name": "맑은물에 국산콩 맷돌촌두부, 300g, 2개, 300g × 2개",
           "price": "3,500원",
           "discount_rate": 38,
@@ -1311,15 +1320,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/04/11/1/79f4dd3e-e05b-41fa-8f40-72c1f8845dda.jpg",
           "url": "https://link.coupang.com/a/im98mRjOCW",
           "_ts": 1793689872.19643
-        },
-        {
-          "name": "모던하우스 어반 2인조 식기 홈세트 12p, 아이보리 + 그레이, 본품 12p, 2세트",
-          "price": "27,240원",
-          "discount_rate": 73,
-          "priceAt": "11.03 15:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c312bcc0-2f0f-4eb0-951d-0319e88156f611953206680816749338.png",
-          "url": "https://link.coupang.com/a/im7s0yo10e",
-          "_ts": 1793687633.9092338
         }
       ]
     },
