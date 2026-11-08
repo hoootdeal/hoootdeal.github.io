@@ -1275,33 +1275,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/181d/7e92b16dc5c930c2ea1d8651f21a25f5fc0dadc6583c1a3f8fcc117203d7.jpg",
           "url": "https://link.coupang.com/a/iojHBWRqlp",
           "_ts": 1793749961.729214
-        },
-        {
-          "name": "샘표국시 비빔국수, 135g, 4개",
-          "price": "3,060원",
-          "discount_rate": 38,
-          "priceAt": "11.04 08:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/439712768745553-96500f33-ef89-4433-bb60-ce045c3533b3.png",
-          "url": "https://link.coupang.com/a/iof0FAn468",
-          "_ts": 1793746862.59482
-        },
-        {
-          "name": "티트리트 여우티 호박팥차, 1.5g, 20개입, 1개",
-          "price": "5,720원",
-          "discount_rate": 44,
-          "priceAt": "11.04 07:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/336955511028274-0cef8b06-e19a-4d16-a1a0-35435372f2d6.png",
-          "url": "https://link.coupang.com/a/iofRxg6XrU",
-          "_ts": 1793746737.553719
-        },
-        {
-          "name": "유한락스 주방청소용, 750ml, 2개",
-          "price": "5,570원",
-          "discount_rate": 33,
-          "priceAt": "11.04 07:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/07/19/17/8/0d09abd3-6093-4ce6-ae7a-de23063415ef.jpg",
-          "url": "https://link.coupang.com/a/iofKR8LuCW",
-          "_ts": 1793746648.025124
         }
       ]
     },
@@ -1310,6 +1283,39 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "자동 변기세정제 맥스, 320g, 4개",
+          "price": "5,000원",
+          "discount_rate": 66,
+          "priceAt": "11.09 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-08-26/4e3daee7-51fd-498a-b856-0a5fae0723e1.png",
+          "url": "https://toss.shopping/_m/50EgoECa",
+          "_ts": 1794179040.4713311,
+          "_flash": true,
+          "_product_id": "138282089"
+        },
+        {
+          "name": "프롬바이오 남성건강엔 쏘팔메토 플러스, 30캡슐, 4박스",
+          "price": "18,900원",
+          "discount_rate": 91,
+          "priceAt": "11.09 08:04",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/NWFiYjA1/YlhPYjA4NGNmanlSdzVqR1QyeHRocEhCbko1bVBHTmhuSlpyYVpTMGt2RT0.png",
+          "url": "https://toss.shopping/_m/rZsHNcY4",
+          "_ts": 1794179040.471303,
+          "_flash": true,
+          "_product_id": "170776853"
+        },
+        {
+          "name": "유한메디카 칼슘 마그네슘 엔 탑 비타민D K 망간, 60정, 3개",
+          "price": "13,470원",
+          "discount_rate": 89,
+          "priceAt": "11.09 08:04",
+          "image": "https://shopping.toss.im/live/taca/ai/MzEwNWM0/TmhickZxM0p0T2xjcjNGcC9XdlI0MU04M2o3dXhnN1NnZkEvbGllVXdHaz0.png",
+          "url": "https://toss.shopping/_m/PG0b4AiC",
+          "_ts": 1794179040.471265,
+          "_flash": true,
+          "_product_id": "77671509"
+        },
         {
           "name": "할리스 바닐라 딜라이트 로우슈거, 450ml, 24개",
           "price": "35,430원",
