@@ -1338,15 +1338,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/10/01/11/9/33d77ad6-f56b-41e5-a658-85e2767fa0bc.jpg",
           "url": "https://link.coupang.com/a/imMbfoNRLw",
           "_ts": 1793669761.862319
-        },
-        {
-          "name": "더미식 황태콩나물국, 350g, 3개, 350g × 3개",
-          "price": "6,300원",
-          "discount_rate": 23,
-          "priceAt": "11.03 10:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/284937371866720-dafdde70-3057-44db-a3d5-23d845f531a3.jpg",
-          "url": "https://link.coupang.com/a/imKvceq9v2",
-          "_ts": 1793668353.654009
         }
       ]
     },
@@ -1355,6 +1346,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "장충동 쫄깃한 편육, 150g, 5개",
+          "price": "10,700원",
+          "discount_rate": 56,
+          "priceAt": "11.08 10:16",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDQzYmE0/UFF4TWZwaUJQRGhoNW55ZlA4bFRGdTBCWXIrMDhicFRrT0RZUzkzOHJVND0.png",
+          "url": "https://toss.shopping/_m/BG9DIeuD",
+          "_ts": 1794100598.028877,
+          "_product_id": "9133579"
+        },
         {
           "name": "베라 무해력 4ZERO 뽑아쓰는 키친타월, 3겹, 100매, 18팩",
           "price": "11,810원",
