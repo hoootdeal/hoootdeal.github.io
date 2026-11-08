@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오투액션 프로 분말형 표백제, 650g, 2개",
+          "price": "8,320원",
+          "discount_rate": 54,
+          "priceAt": "11.09 07:25",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/b094300e-cf80-42f1-abcf-70d23444e572196333407291768462.png",
+          "url": "https://link.coupang.com/a/iwvXGdkTlc",
+          "_ts": 1794176705.804478
+        },
+        {
           "name": "템포 내추럴 순면 입는 오버나이트, Free Size, 5개입, 1개",
           "price": "2,240원",
           "discount_rate": 47,
@@ -1293,15 +1302,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/182191619714605-cea94a5e-35b0-40ab-9a7c-717d4e566c16.jpg",
           "url": "https://link.coupang.com/a/iodBqWEPTM",
           "_ts": 1793744841.56439
-        },
-        {
-          "name": "아임리얼 스트로베리 주스, 190ml, 2개",
-          "price": "2,980원",
-          "discount_rate": 49,
-          "priceAt": "11.04 07:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/344988913831960-de9efc48-2ee0-4a90-b862-5674d8cce438.jpg",
-          "url": "https://link.coupang.com/a/iocBrJeTcG",
-          "_ts": 1793744002.862299
         }
       ]
     },
