@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데웰푸드 슈프림치킨 (냉동), 330g, 1개",
+          "price": "2,990원",
+          "discount_rate": 40,
+          "priceAt": "11.09 17:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/vdba0uuz/9bf517f418b94e8d8520548e96c25add.jpg",
+          "url": "https://link.coupang.com/a/ixbyQE1Fam",
+          "_ts": 1794211632.773241
+        },
+        {
           "name": "비달사순 파워 드라이어 2000W, VSD120K, 블랙 + 로즈",
           "price": "11,100원",
           "discount_rate": 43,
@@ -1338,15 +1347,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5190870001472-aaf69566-5777-4d79-915b-1415fcae1c0b.png",
           "url": "https://link.coupang.com/a/ioWj33FmCW",
           "_ts": 1793782388.023071
-        },
-        {
-          "name": "올레길 AI 당도선별 11brix 감귤, 2kg(로열과), 1개, 2kg(로열과) × 1개",
-          "price": "11,900원",
-          "discount_rate": 25,
-          "priceAt": "11.04 17:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/11039528863761-09f44d75-ec54-4e56-87ca-c397da65007f.jpg",
-          "url": "https://link.coupang.com/a/ioSXTfYIiO",
-          "_ts": 1793779568.121423
         }
       ]
     },
