@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바바김밥 야채김밥 (냉동), 230g, 2개입",
+          "price": "3,690원",
+          "discount_rate": 50,
+          "priceAt": "11.09 11:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/876665624087835-7c56d61d-2ec4-46f1-953b-4210703fe418.jpg",
+          "url": "https://link.coupang.com/a/iwNw4I4bFA",
+          "_ts": 1794191461.4649012
+        },
+        {
           "name": "아텍스 메디랩 방수 드레싱 밴드, 20개입, 1개",
           "price": "1,750원",
           "discount_rate": 80,
@@ -1311,15 +1320,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/aabf/994606d33e4edccdfa46e264004bc47a4a3357f4e9b139f4577b110e8529.jpg",
           "url": "https://link.coupang.com/a/ioxwDzy59M",
           "_ts": 1793761569.5836859
-        },
-        {
-          "name": "이니스프리 포레스트 포맨 올인원 3종 기획 세트, 1개, 30g",
-          "price": "10,990원",
-          "discount_rate": 32,
-          "priceAt": "11.04 11:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/21/9/2/ecaa77f0-98ac-411d-b95a-1d03ca9f32ec.png",
-          "url": "https://link.coupang.com/a/iouiEuD5A4",
-          "_ts": 1793758862.3420439
         }
       ]
     },
