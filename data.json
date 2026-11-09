@@ -1347,15 +1347,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1706432031174597-47228814-1067-434c-8ba4-9df694c0b418.jpg",
           "url": "https://link.coupang.com/a/ipcG1CFW6m",
           "_ts": 1793796133.612894
-        },
-        {
-          "name": "올바른건강식품 생유산균 프로바이오틱스 비타민D 90p, 135g, 2개, 135g × 2개",
-          "price": "12,830원",
-          "discount_rate": 41,
-          "priceAt": "11.04 21:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/30547980211856-e2f379e1-99b1-41d2-8170-ba45da4145e0.jpg",
-          "url": "https://link.coupang.com/a/ipaFUNIrIG",
-          "_ts": 1793794438.1517289
         }
       ]
     },
@@ -1364,6 +1355,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "베베앙 시그니처 물티슈 캡형, 100매, 10팩",
+          "price": "9,900원",
+          "discount_rate": 55,
+          "priceAt": "11.09 21:32",
+          "image": "https://shopping.toss.im/live/temp/2026-06-09/3d168097-a6da-4f99-9e12-5b8d3121e04e.jpeg",
+          "url": "https://toss.shopping/_m/dU2qAudq",
+          "_ts": 1794227524.2714791,
+          "_product_id": "13017669"
+        },
         {
           "name": "할리스 시그니처 아메리카노, 550ml, 24개",
           "price": "23,700원",
