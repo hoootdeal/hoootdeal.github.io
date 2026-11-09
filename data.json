@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "재미스 잼있는 사과쿠키, 16g, 200개",
+          "price": "16,560원",
+          "discount_rate": 40,
+          "priceAt": "11.10 07:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/18665383305086-23b10377-7018-4576-b8a7-0d4164f569a7.jpg",
+          "url": "https://link.coupang.com/a/iyc7LMXFw4",
+          "_ts": 1794265002.1052039
+        },
+        {
           "name": "슈가버블 주방세제 레몬 크러쉬, 1.2L, 3개",
           "price": "4,530원",
           "discount_rate": 51,
@@ -1311,24 +1320,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/392250768397596-68a5af9f-ea35-4cd8-afbf-3a5cd7e690c1.jpg",
           "url": "https://link.coupang.com/a/ipXiZ3Vc1k",
           "_ts": 1793835268.8879712
-        },
-        {
-          "name": "오뚜기 실쏙 찹쌀 군만두 고기 (냉동), 1.5kg, 1개",
-          "price": "5,990원",
-          "discount_rate": 40,
-          "priceAt": "11.05 07:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/f1zgonpi/a2a560b02d564b759975b59764857610.jpg",
-          "url": "https://link.coupang.com/a/ipTL7eUQP6",
-          "_ts": 1793832305.279309
-        },
-        {
-          "name": "에이원 틱 앤 하티 스테이크소스, 283g, 1개, 283g × 1개",
-          "price": "2,490원",
-          "discount_rate": 50,
-          "priceAt": "11.05 07:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/03/26/15/4/a7ee423d-acbd-4072-bc14-e9d438fff35c.png",
-          "url": "https://link.coupang.com/a/ipTiK5gQyO",
-          "_ts": 1793831910.988661
         }
       ]
     },
