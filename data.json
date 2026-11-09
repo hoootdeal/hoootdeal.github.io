@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "엠앤엠즈 피넛 펀사이즈 초콜릿, 175.5g, 2개, 175.5g × 2개",
+          "price": "7,820원",
+          "discount_rate": 43,
+          "priceAt": "11.09 21:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/84743568606021-c755de9f-b511-4e77-8eab-e64320f6d309.jpg",
+          "url": "https://link.coupang.com/a/ixsMAPvZ12",
+          "_ts": 1794226092.5715609
+        },
+        {
           "name": "석관동떡볶이 치즈쭈욱 (밀떡) (냉동), 420g, 2개",
           "price": "8,680원",
           "discount_rate": 24,
@@ -1347,15 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/30547980211856-e2f379e1-99b1-41d2-8170-ba45da4145e0.jpg",
           "url": "https://link.coupang.com/a/ipaFUNIrIG",
           "_ts": 1793794438.1517289
-        },
-        {
-          "name": "하루활력 배도라지청, 10ml, 30개입, 1개",
-          "price": "5,300원",
-          "discount_rate": 25,
-          "priceAt": "11.04 20:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4676389838344-5b9a7df0-0a0d-4684-ace8-d4e12b654e7e.jpg",
-          "url": "https://link.coupang.com/a/io7DCWyiMS",
-          "_ts": 1793791889.518549
         }
       ]
     },
