@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아텍스 메디랩 방수 드레싱 밴드, 20개입, 1개",
+          "price": "1,750원",
+          "discount_rate": 80,
+          "priceAt": "11.09 11:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/87496084171999-6e3518ae-3bb3-4a88-97fb-f497952a7450.jpg",
+          "url": "https://link.coupang.com/a/iwMMlSYNHw",
+          "_ts": 1794190825.753804
+        },
+        {
           "name": "서울우유 A2플러스 우유, 2개, 1.7L",
           "price": "8,290원",
           "discount_rate": 32,
