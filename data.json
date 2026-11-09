@@ -1365,6 +1365,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오늘부터 1분 비빔곤약밥 김간장맛, 110g, 6개",
+          "price": "13,050원",
+          "discount_rate": 56,
+          "priceAt": "11.09 18:43",
+          "image": "https://shopping.toss.im/live/temp/2026-10-27/c10a9c92-2d58-41d8-b8f1-70d69408c2c3.jpeg",
+          "url": "https://toss.shopping/_m/LKu090Bj",
+          "_ts": 1794217413.660157,
+          "_product_id": "2311450689"
+        },
+        {
           "name": "가성비가브랜드다 더 강력한 냉장고 탈취제, 참숯, 300g, 4개",
           "price": "7,180원",
           "discount_rate": 75,
