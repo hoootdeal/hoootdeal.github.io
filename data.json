@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쉐푸드 고추마요치킨 (냉동), 330g, 1개",
+          "price": "2,990원",
+          "discount_rate": 40,
+          "priceAt": "11.09 15:34",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/ji6bevht/a37c0ca6f0494046937ad7bef471a62a.jpg",
+          "url": "https://link.coupang.com/a/iw4VPXIinA",
+          "_ts": 1794206067.5766778
+        },
+        {
           "name": "페이스팩토리 UV 충전형 전동 발각질제거기, 혼합색상, FF-17",
           "price": "10,890원",
           "discount_rate": 52,
