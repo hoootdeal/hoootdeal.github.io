@@ -1347,24 +1347,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/11039528863761-09f44d75-ec54-4e56-87ca-c397da65007f.jpg",
           "url": "https://link.coupang.com/a/ioSXTfYIiO",
           "_ts": 1793779568.121423
-        },
-        {
-          "name": "익스트림 올인원 포 맨 멀티비타민, 30회분, 1개",
-          "price": "26,900원",
-          "discount_rate": 20,
-          "priceAt": "11.04 16:23",
-          "image": "https://image10.coupangcdn.com/image/retail/images/18599164913266-4643237f-af88-4ca5-91d0-6dd923145a00.jpg",
-          "url": "https://link.coupang.com/a/ioPVIniCiq",
-          "_ts": 1793777018.650579
-        },
-        {
-          "name": "스탠리 퀜처 프로투어 플립스트로 텀블러, 체리 블로썸, 591ml, 1개",
-          "price": "21,600원",
-          "discount_rate": 43,
-          "priceAt": "11.04 16:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/514811257064771-af2db239-af31-43a2-9747-cd89656cc4fc.jpg",
-          "url": "https://link.coupang.com/a/ioPOJpAq72",
-          "_ts": 1793776925.23222
         }
       ]
     },
@@ -1373,6 +1355,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "셰프초이스 육즙가득 도톰도톰 떡갈비, 750g, 1개",
+          "price": "9,320원",
+          "discount_rate": 37,
+          "priceAt": "11.09 16:51",
+          "image": "https://shopping.toss.im/live/taca/ai/MzA3OTI4/QUlSRzExVE02VDdEeGN6NnhoczduQmI3NFlxU05nYnlISWhaUmxKRnRzbXA.png",
+          "url": "https://toss.shopping/_m/Tt6AvWx4",
+          "_ts": 1794210687.5972722,
+          "_product_id": "106834445"
+        },
         {
           "name": "로마나 황금 고구마칩, 320g, 4개",
           "price": "11,500원",
