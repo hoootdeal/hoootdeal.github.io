@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "투데이넛 너트한줌 검은콩오곡 믹스넛, 600g, 1개",
+          "price": "13,090원",
+          "discount_rate": 29,
+          "priceAt": "11.09 18:39",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/8932391058053-d42cbb28-3908-4eac-9285-9d5bc3d57103.jpg",
+          "url": "https://link.coupang.com/a/ixh8225vr2",
+          "_ts": 1794217159.0580978
+        },
+        {
           "name": "샤오커오라 민트향 비타민C 과일 12종 믹스 무설탕 사탕 캔디, 100g, 1개, 100g × 1개",
           "price": "3,300원",
           "discount_rate": 29,
@@ -1347,15 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/89820954795798-bb84a264-0447-4465-adb2-e4c920af3db2.jpg",
           "url": "https://link.coupang.com/a/io2EyXtWrQ",
           "_ts": 1793787702.289396
-        },
-        {
-          "name": "브랜든 폴더블 캐리올 토트백, 차콜, 54 x 42 x 18 cm",
-          "price": "14,400원",
-          "discount_rate": 55,
-          "priceAt": "11.04 18:32",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d2da/249109ae7461c09d1a3d25e0a63b25b6208b1e43ac6455262e278fd41678.jpg",
-          "url": "https://link.coupang.com/a/ioY8bC44D6",
-          "_ts": 1793784744.871926
         }
       ]
     },
