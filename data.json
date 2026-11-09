@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "슈가버블 주방세제 레몬 크러쉬, 1.2L, 3개",
+          "price": "4,530원",
+          "discount_rate": 51,
+          "priceAt": "11.10 07:35",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/72ae/3467aa221f962ef040a1e6c25341427c564c68e80ac9e0efec40b0618cc0.jpg",
+          "url": "https://link.coupang.com/a/iybBSxzJy8",
+          "_ts": 1794263733.834395
+        },
+        {
           "name": "고메 소바바 치킨 양념 순살 (냉동), 375g, 1개, 375g × 1개",
           "price": "5,530원",
           "discount_rate": 34,
@@ -1320,24 +1329,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/03/26/15/4/a7ee423d-acbd-4072-bc14-e9d438fff35c.png",
           "url": "https://link.coupang.com/a/ipTiK5gQyO",
           "_ts": 1793831910.988661
-        },
-        {
-          "name": "프로그 고리형 고무장갑, 라임펀치, 소(S), 5개",
-          "price": "5,600원",
-          "discount_rate": 57,
-          "priceAt": "11.05 07:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4269584990883547-02abc5cb-c31e-4b0b-816a-4ca4f1d21755.jpg",
-          "url": "https://link.coupang.com/a/ipR39ldyj6",
-          "_ts": 1793830869.4860978
-        },
-        {
-          "name": "차일드라이프 액상 칼슘 마그네슘, 473ml, 1개, 473ml × 1개",
-          "price": "18,570원",
-          "discount_rate": 25,
-          "priceAt": "11.05 07:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/c279/b6b88838c9052c7fd014585be4a0fc5e5154eec29ade49dfeee4fcf9a90e.jpg",
-          "url": "https://link.coupang.com/a/ipRpniO8rs",
-          "_ts": 1793830318.621697
         }
       ]
     },
