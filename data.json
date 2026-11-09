@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "자일리톨팝 파우치 오리지널, 1개, 150g",
+          "price": "7,730원",
+          "discount_rate": 32,
+          "priceAt": "11.09 19:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/10/15/15/0/5b744694-63f2-4458-a497-3aaec7c1a5d9.jpg",
+          "url": "https://link.coupang.com/a/ixlQVi2vhk",
+          "_ts": 1794220273.6812391
+        },
+        {
           "name": "투데이넛 너트한줌 검은콩오곡 믹스넛, 600g, 1개",
           "price": "13,090원",
           "discount_rate": 29,
@@ -1347,15 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3f60f730-c7bc-41af-a7fe-7f59d1583bd31705134748358240685.png",
           "url": "https://link.coupang.com/a/io58kVJZHE",
           "_ts": 1793790624.3256829
-        },
-        {
-          "name": "면사랑 해물짬뽕 1인분 (냉동), 363g, 2개, 363g × 2개",
-          "price": "5,990원",
-          "discount_rate": 32,
-          "priceAt": "11.04 19:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/89820954795798-bb84a264-0447-4465-adb2-e4c920af3db2.jpg",
-          "url": "https://link.coupang.com/a/io2EyXtWrQ",
-          "_ts": 1793787702.289396
         }
       ]
     },
