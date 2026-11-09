@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "타타와 티타임 어쏘티드 쿠키, 400g, 1개, 400g × 1개",
+          "price": "4,800원",
+          "discount_rate": 35,
+          "priceAt": "11.09 09:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/299767599959398-c262a9c9-aec1-44ad-9dbd-fd74d2a23df6.png",
+          "url": "https://link.coupang.com/a/iwE0VbuS4W",
+          "_ts": 1794184306.816318
+        },
+        {
           "name": "비안 스마트폰 터치 방한 스포츠 장갑, 블랙, XL, 1개",
           "price": "2,390원",
           "discount_rate": 47,
@@ -1284,15 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/09/10/11/2/1fb65259-0691-4d5b-804e-20a8f13c61f2.jpg",
           "url": "https://link.coupang.com/a/iom5RUN3kW",
           "_ts": 1793752809.8349388
-        },
-        {
-          "name": "곡물그대로21 크리스피롤, 650g, 1개, 650g × 1개",
-          "price": "6,000원",
-          "discount_rate": 30,
-          "priceAt": "11.04 08:52",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/181d/7e92b16dc5c930c2ea1d8651f21a25f5fc0dadc6583c1a3f8fcc117203d7.jpg",
-          "url": "https://link.coupang.com/a/iojHBWRqlp",
-          "_ts": 1793749961.729214
         }
       ]
     },
