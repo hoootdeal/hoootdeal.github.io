@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "고메 소바바 치킨 양념 순살 (냉동), 375g, 1개, 375g × 1개",
+          "price": "5,530원",
+          "discount_rate": 34,
+          "priceAt": "11.09 22:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/94445873958707-34e0a71f-74ba-445c-8683-e988da2a7103.jpg",
+          "url": "https://link.coupang.com/a/ixwyPmGCTk",
+          "_ts": 1794229265.359892
+        },
+        {
           "name": "엠앤엠즈 피넛 펀사이즈 초콜릿, 175.5g, 2개, 175.5g × 2개",
           "price": "7,820원",
           "discount_rate": 43,
@@ -1338,15 +1347,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/10323314882887-10cf865c-7efb-46c7-a10c-938738ea26ef.jpg",
           "url": "https://link.coupang.com/a/ipfTkyaHca",
           "_ts": 1793798818.980644
-        },
-        {
-          "name": "파스퇴르 쾌변 요구르트 포도, 150ml, 4개입, 2개",
-          "price": "6,680원",
-          "discount_rate": 44,
-          "priceAt": "11.04 21:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1706432031174597-47228814-1067-434c-8ba4-9df694c0b418.jpg",
-          "url": "https://link.coupang.com/a/ipcG1CFW6m",
-          "_ts": 1793796133.612894
         }
       ]
     },
