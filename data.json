@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "삼진어묵 한끼든든 어묵탕 매운맛 1~2인분 (냉동), 245g, 2개, 245g × 2개",
+          "price": "4,950원",
+          "discount_rate": 37,
+          "priceAt": "11.09 10:48",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/96737662757118-da128da8-59cc-4473-ae28-2efa728e4306.jpg",
+          "url": "https://link.coupang.com/a/iwKuljsBK8",
+          "_ts": 1794188903.813694
+        },
+        {
           "name": "널담 마카롱 사랑세트 8종 (냉동), 50g, 8개입, 1세트",
           "price": "8,210원",
           "discount_rate": 29,
@@ -1293,24 +1302,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/21/9/2/ecaa77f0-98ac-411d-b95a-1d03ca9f32ec.png",
           "url": "https://link.coupang.com/a/iouiEuD5A4",
           "_ts": 1793758862.3420439
-        },
-        {
-          "name": "기장물산 연화리 가마솥 전복죽 (냉동), 200g, 1개",
-          "price": "5,160원",
-          "discount_rate": 47,
-          "priceAt": "11.04 10:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/56360594011404-fe3573f6-aa82-45d3-9a81-541122fe2c61.jpg",
-          "url": "https://link.coupang.com/a/ioq3EPzxOS",
-          "_ts": 1793756139.44132
-        },
-        {
-          "name": "하이뮨 프로틴 밸런스 L, 608g, 1개, 608g × 1개",
-          "price": "24,840원",
-          "discount_rate": 27,
-          "priceAt": "11.04 10:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
-          "url": "https://link.coupang.com/a/ioqufNratE",
-          "_ts": 1793755659.793552
         }
       ]
     },
