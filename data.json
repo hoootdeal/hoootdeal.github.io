@@ -1239,15 +1239,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/174497641171762-2fc6d74b-4c17-441d-85fd-5ad99527c84e.jpg",
           "url": "https://link.coupang.com/a/iqQwkeOn8e",
           "_ts": 1793881627.542046
-        },
-        {
-          "name": "허쉬 초코아몬드 찰떡 파이, 88g, 2개, 88g × 2개",
-          "price": "2,840원",
-          "discount_rate": 32,
-          "priceAt": "11.05 20:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/cebc1f88-77fb-43f0-afd0-0cfaf34131e46171270141621483113.png",
-          "url": "https://link.coupang.com/a/iqNiIEXUFU",
-          "_ts": 1793878927.028401
         }
       ]
     },
@@ -1256,6 +1247,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "널담 뚱낭시에, 50g, 8개입, 1박스",
+          "price": "8,720원",
+          "discount_rate": 53,
+          "priceAt": "11.10 20:57",
+          "image": "https://shopping.toss.im/live/taca/ai/NWFjY2Jl/QU1ubm1XMXJNa2c4eFBJMVlUWjVpbWZHVXNOYXlOaDQ4RkRUYmRNOGJoNDk.png",
+          "url": "https://toss.shopping/_m/xKKImjGj",
+          "_ts": 1794311824.099767,
+          "_product_id": "132723801"
+        },
         {
           "name": "국내산 골드키위 최대 18Brix, 특대과, 2kg, 1박스",
           "price": "11,900원",
