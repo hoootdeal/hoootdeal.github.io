@@ -1239,24 +1239,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/52653807860561-4c51c0ea-5bce-4e77-bfc9-bc5de7863178.jpg",
           "url": "https://link.coupang.com/a/iqIKg3WEr6",
           "_ts": 1793875100.8509529
-        },
-        {
-          "name": "[비건뷰티] 이니스프리 올리브 비타민 E 리얼 로션, 170ml, 2개",
-          "price": "15,660원",
-          "discount_rate": 34,
-          "priceAt": "11.05 19:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/23533501701972-bd5bf22a-ee9d-46c2-b06b-38fd03e278c6.png",
-          "url": "https://link.coupang.com/a/iqGr8eDLfE",
-          "_ts": 1793873175.338584
-        },
-        {
-          "name": "엔탑라이프 혈행 더하기 초임계 rTG 알티지 오메가3 60.6g, 60정, 1개, 60정 × 1개",
-          "price": "8,450원",
-          "discount_rate": 37,
-          "priceAt": "11.05 18:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/864381651759808-3fe274c5-4d33-44c5-8b20-737a6a7c60ad.jpg",
-          "url": "https://link.coupang.com/a/iqE6ZsPfuC",
-          "_ts": 1793872049.604955
         }
       ]
     },
@@ -1265,6 +1247,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "국내산 골드키위 최대 18Brix, 특대과, 2kg, 1박스",
+          "price": "11,900원",
+          "discount_rate": 76,
+          "priceAt": "11.10 19:16",
+          "image": "https://shopping.toss.im/live/temp/2026-10-27/5b372bdf-d229-49e8-8418-4e181bc6fd96.png",
+          "url": "https://toss.shopping/_m/lHrMfqlm",
+          "_ts": 1794305817.32958,
+          "_product_id": "2702174407"
+        },
         {
           "name": "에브리워터 무라벨, 500ml, 80개",
           "price": "12,300원",
