@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "테팔 인덕션 매직핸즈 스테인리스 컬렉션 트라이미 프라이팬세트 3개, 스테인리스스틸, 프라이팬 22cm + 프라이팬 26cm + 매직핸즈 분리형 손잡이, 1세트",
+          "price": "49,880원",
+          "discount_rate": 28,
+          "priceAt": "11.10 22:24",
+          "image": "https://image12.coupangcdn.com/image/retail/images/552866890985248-c312f232-3033-4899-a095-545fa6ff1d0f.jpg",
+          "url": "https://link.coupang.com/a/izc9IM19fE",
+          "_ts": 1794317086.126561
+        },
+        {
           "name": "하리보 프루티 부시 젤리, 100g, 30개, 100g × 30개",
           "price": "34,360원",
           "discount_rate": 47,
@@ -1212,33 +1221,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/09/17/16/0/eb993321-414a-4186-83da-2962798094bf.jpg",
           "url": "https://link.coupang.com/a/irwbqF6rAq",
           "_ts": 1793916609.649329
-        },
-        {
-          "name": "곰곰 당도선별 제주감귤, 500g(로얄과), 1박스, 500g(로얄과) × 1박스",
-          "price": "2,190원",
-          "discount_rate": 65,
-          "priceAt": "11.05 22:19",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/540102755990684-c03d16c8-d403-4a86-83d1-245b26689c0b.png",
-          "url": "https://link.coupang.com/a/iqUeYEUOe4",
-          "_ts": 1793884751.585877
-        },
-        {
-          "name": "빌리프 맨올로지 얼티밋 멀티 클렌징 폼, 160ml, 1개",
-          "price": "8,910원",
-          "discount_rate": 57,
-          "priceAt": "11.05 21:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/49950746389871-992e92ec-5338-47cb-803d-ccc368a91b8a.jpg",
-          "url": "https://link.coupang.com/a/iqQ7qnsaPs",
-          "_ts": 1793882128.505339
-        },
-        {
-          "name": "프루팁스 오리지널 젤리, 140g, 3개",
-          "price": "5,670원",
-          "discount_rate": 36,
-          "priceAt": "11.05 21:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2694947320097380-f04952d5-89c9-4376-aeb9-7e02d4f8ac8c.jpg",
-          "url": "https://link.coupang.com/a/iqQD2vEe6e",
-          "_ts": 1793881731.891907
         }
       ]
     },
@@ -2231,16 +2213,6 @@
           "_ts": 1793890931.9588742,
           "_flash": true,
           "_product_id": "2493176893"
-        },
-        {
-          "name": "란센 초음파 렌즈세척기, BPL-04, 화이트, 1개",
-          "price": "10,900원",
-          "discount_rate": 81,
-          "priceAt": "11.05 21:46",
-          "image": "https://shopping.toss.im/live/temp/2026-09-17/07401430-f927-404f-992f-ef2c92a0d715.jpeg",
-          "url": "https://toss.shopping/_m/Dh9sDDc2",
-          "_ts": 1793882809.3334022,
-          "_product_id": "2658087741"
         }
       ]
     },
