@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에뛰드하우스 디어 달링 워터젤 틴트, OR201 낑깡레드, 1개, OR201 낑깡레드 × 1개",
+          "price": "3,400원",
+          "discount_rate": 35,
+          "priceAt": "11.10 14:03",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/08/29/16/9/85595a8b-f3ed-4dad-a3cb-91c2085237b4.jpg",
+          "url": "https://link.coupang.com/a/iyDmM4yDiC",
+          "_ts": 1794287036.102967
+        },
+        {
           "name": "오뚜기 고소한 참기름, 500ml, 1개, 500ml × 1개",
           "price": "8,410원",
           "discount_rate": 41,
@@ -1275,24 +1284,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1014935164462408-6ae09d84-447f-480c-a36b-7f70f3b57c3c.jpg",
           "url": "https://link.coupang.com/a/iqlWF3hevc",
           "_ts": 1793855957.64014
-        },
-        {
-          "name": "파르키오니 퓨어 올리브유 올리브오일, 1L, 1개, 1L × 1개",
-          "price": "12,900원",
-          "discount_rate": 41,
-          "priceAt": "11.05 14:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1206756248132496-25c85198-2f32-4bff-80f0-09c5581f2d09.jpg",
-          "url": "https://link.coupang.com/a/iqkJtvmcFM",
-          "_ts": 1793854942.0825632
-        },
-        {
-          "name": "더미식 백미밥, 210g, 24개",
-          "price": "19,540원",
-          "discount_rate": 26,
-          "priceAt": "11.05 13:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2987/8596d68a15509638de080c016221c2260de57482dc7ab11ef6140c5a87ed.jpg",
-          "url": "https://link.coupang.com/a/iqhNIBO54C",
-          "_ts": 1793852476.6794329
         }
       ]
     },
