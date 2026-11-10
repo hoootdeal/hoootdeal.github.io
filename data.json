@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스너글 스파클링 시트러스 더블 소프트 섬유탈취제 본품, 470ml, 1개",
+          "price": "3,080원",
+          "discount_rate": 41,
+          "priceAt": "11.11 07:53",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/06/20/10/6/ba4022ae-68b7-495e-85f5-af49561a3497.jpg",
+          "url": "https://link.coupang.com/a/izROKt86tU",
+          "_ts": 1794351226.48176
+        },
+        {
           "name": "에뛰드 베이킹파우더 모공 클렌징 대용량 폼, 300ml, 2개",
           "price": "4,870원",
           "discount_rate": 42,
@@ -1203,24 +1212,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1058235725848817-3e8fd87c-7dcc-42ae-a0f6-dee4b5840a88.png",
           "url": "https://link.coupang.com/a/irzGI7XT9E",
           "_ts": 1793919553.300952
-        },
-        {
-          "name": "비비드키친 저칼로리 머스터드소스, 320g, 1개",
-          "price": "2,160원",
-          "discount_rate": 33,
-          "priceAt": "11.06 07:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/63392091134059-5ca0aa78-5ef9-439e-8199-eb111986daf7.jpg",
-          "url": "https://link.coupang.com/a/irye1EKYeH",
-          "_ts": 1793918338.0611289
-        },
-        {
-          "name": "오뚜기 라면의 맵쏘디 120g, 10개",
-          "price": "4,580원",
-          "discount_rate": 34,
-          "priceAt": "11.06 07:24",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/15562985735773-e85ac83f-2a84-4e02-8453-40083a2aedce.jpg",
-          "url": "https://link.coupang.com/a/irxdY2SPQW",
-          "_ts": 1793917483.603178
         }
       ]
     },
