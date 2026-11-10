@@ -1248,15 +1248,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/864381651759808-3fe274c5-4d33-44c5-8b20-737a6a7c60ad.jpg",
           "url": "https://link.coupang.com/a/iqE6ZsPfuC",
           "_ts": 1793872049.604955
-        },
-        {
-          "name": "리고 100% 땅콩버터 크리미, 453g, 1개",
-          "price": "4,500원",
-          "discount_rate": 51,
-          "priceAt": "11.05 17:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9d8f/7222ff98e7996871634283d164f3c7df8ecdc8a5a0b01885d47a9c06d0fa.jpg",
-          "url": "https://link.coupang.com/a/iqBFC4ivlc",
-          "_ts": 1793869160.112538
         }
       ]
     },
@@ -1265,6 +1256,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "에브리워터 무라벨, 500ml, 80개",
+          "price": "12,300원",
+          "discount_rate": 57,
+          "priceAt": "11.10 18:32",
+          "image": "https://shopping.toss.im/live/taca/ai/OWIxZGMx/VnNiTVcrRnhjaGtmbW1IbWluMzh3L1hCTmpBUnVpTTdtbkg5aDF4SGlQND0.png",
+          "url": "https://toss.shopping/_m/rmmsFFrt",
+          "_ts": 1794303122.313164,
+          "_product_id": "133292949"
+        },
         {
           "name": "올리 프리미엄 워싱소다, 3kg, 2개",
           "price": "7,130원",
