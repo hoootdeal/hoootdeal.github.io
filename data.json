@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "널담 뚱낭시에 8종 세트 (냉동), 50g, 8개입, 2세트",
+          "price": "15,940원",
+          "discount_rate": 29,
+          "priceAt": "11.10 09:30",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/a1c9/dcf1fb2543b7bbedd93c2a32284e053e5e909a81908c63cc64619a714ba5.jpg",
+          "url": "https://link.coupang.com/a/iyjN5EY4BM",
+          "_ts": 1794270613.5212002
+        },
+        {
           "name": "후그 수영용품 수경케이스 GGC027, 160 x 45 mm, 워시 블루",
           "price": "9,000원",
           "discount_rate": 36,
@@ -1284,42 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/61906224743559-4dca4250-fe47-4650-b87d-7278be021182.png",
           "url": "https://link.coupang.com/a/ip3CmuERC8",
           "_ts": 1793840568.602165
-        },
-        {
-          "name": "라멜린 카멜리아 수분 젤 크림, 1개, 50ml",
-          "price": "11,340원",
-          "discount_rate": 65,
-          "priceAt": "11.05 09:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/108315684801769-f2be0d48-d79a-4b64-ac7b-d2d4af52cd53.jpg",
-          "url": "https://link.coupang.com/a/ip0tGCdcgC",
-          "_ts": 1793837931.8731542
-        },
-        {
-          "name": "유즈베러띵 발로 꾹 원터치 밀대 걸레, 1개",
-          "price": "9,900원",
-          "discount_rate": 33,
-          "priceAt": "11.05 09:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/12a6/605455546d7d351bb53dcc887a6ff324c3893c472189def018ae9b504ee6.jpg",
-          "url": "https://link.coupang.com/a/ipZYIG9jXM",
-          "_ts": 1793837513.768328
-        },
-        {
-          "name": "하늘보리 에코 무라벨, 500ml, 20개",
-          "price": "11,440원",
-          "discount_rate": 25,
-          "priceAt": "11.05 09:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/381711721875626-f63d3efa-506b-42b8-9515-f19e338b5d79.jpg",
-          "url": "https://link.coupang.com/a/ipZdynzL6y",
-          "_ts": 1793836876.362098
-        },
-        {
-          "name": "크라운산도 딸기크림치즈, 323g, 3개",
-          "price": "7,700원",
-          "discount_rate": 47,
-          "priceAt": "11.05 08:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3034803072328199-b7bd261c-0f92-49f6-bd90-e58be6bfbcd6.jpg",
-          "url": "https://link.coupang.com/a/ipX9AxvRHo",
-          "_ts": 1793835980.2537868
         }
       ]
     },
