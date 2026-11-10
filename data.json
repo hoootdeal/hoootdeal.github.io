@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "국내산 한입밤고구마, 500g, 2개, 500g × 2개",
+          "price": "2,990원",
+          "discount_rate": 50,
+          "priceAt": "11.10 19:22",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/149974f6-aa35-4daf-9d8a-64d2ba98bb6c8875137536214268658.png",
+          "url": "https://link.coupang.com/a/iy0ai9dnTU",
+          "_ts": 1794306176.971029
+        },
+        {
           "name": "일리윤 세라마이드 아토 버블워시 앤 샴푸 바디워시 무향, 900ml, 1개",
           "price": "12,700원",
           "discount_rate": 42,
