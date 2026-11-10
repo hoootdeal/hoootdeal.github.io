@@ -1257,24 +1257,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/138175359716615-a3ae5ebf-5471-4aba-a861-447599254be9.jpg",
           "url": "https://link.coupang.com/a/iqzByZz5Vs",
           "_ts": 1793867425.782034
-        },
-        {
-          "name": "하인즈 토마토 바질 파스타 소스, 350g, 3개",
-          "price": "7,070원",
-          "discount_rate": 61,
-          "priceAt": "11.05 16:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/ee047813-8403-4c46-a583-ee768207e82c4953484096121152475.png",
-          "url": "https://link.coupang.com/a/iqxbuDPqPk",
-          "_ts": 1793865393.736089
-        },
-        {
-          "name": "국내산 배추, 1개입, 1개, 1개입 × 1개",
-          "price": "2,080원",
-          "discount_rate": 61,
-          "priceAt": "11.05 16:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/90262080714804-50167cba-bd6d-4d09-b376-df81f37c1db1.jpg",
-          "url": "https://link.coupang.com/a/iqw60W040O",
-          "_ts": 1793865333.298621
         }
       ]
     },
@@ -1283,6 +1265,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "올리 프리미엄 워싱소다, 3kg, 2개",
+          "price": "7,130원",
+          "discount_rate": 52,
+          "priceAt": "11.10 17:00",
+          "image": "https://shopping.toss.im/live/temp/2026-01-14/fe57a0c4-4032-4ef0-98eb-219baf585ad1.jpeg",
+          "url": "https://toss.shopping/_m/fJoedoLj",
+          "_ts": 1794297613.554086,
+          "_product_id": "627705785"
+        },
         {
           "name": "유러피안샐러드, 1kg, 1박스",
           "price": "7,140원",
