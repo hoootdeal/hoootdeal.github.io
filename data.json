@@ -1230,6 +1230,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "고기중독 순살 닭다리살, 냉동, 2kg, 2개",
+          "price": "25,950원",
+          "discount_rate": 71,
+          "priceAt": "11.11 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/ZmM4OTlk/QUtEVUZCa1V2d2ZHV3Y3L3h1cFJPUWFwWDBvZkJWdW0zMUV2YmJDcTVkY0E.png",
+          "url": "https://toss.shopping/_m/djFpp48i",
+          "_ts": 1794322942.532588,
+          "_flash": true,
+          "_product_id": "2419966771"
+        },
+        {
+          "name": "전라도 전통 여린 열무김치, 3kg, 1박스",
+          "price": "12,900원",
+          "discount_rate": 64,
+          "priceAt": "11.11 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/NjE4MjY1/YlVzWnpFdXNrbm1uTlV4bkQ1SlNscVBVQjVVY2YxMzVjK0cxRDhrODNwST0.png",
+          "url": "https://toss.shopping/_m/B0uSD2bn",
+          "_ts": 1794322942.532558,
+          "_flash": true,
+          "_product_id": "86166697"
+        },
+        {
+          "name": "코오롱제약 올인원 하루한알 멀티비타민, 900mg, 60정, 3박스",
+          "price": "12,200원",
+          "discount_rate": 90,
+          "priceAt": "11.11 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/MzMzMTJm/RDhWREorTnRoNTRQa1R0bUV6a09Rem1CdTJhY21ZODg3SEhpV3pYaytjdz0.png",
+          "url": "https://toss.shopping/_m/dOVr9IaB",
+          "_ts": 1794322942.532516,
+          "_flash": true,
+          "_product_id": "92778185"
+        },
+        {
           "name": "터치 탄산 워싱소다, 스푼 포함, 5kg, 1팩",
           "price": "6,240원",
           "discount_rate": 60,
@@ -2180,39 +2213,6 @@
           "_ts": 1793919769.518613,
           "_flash": true,
           "_product_id": "1335376851"
-        },
-        {
-          "name": "배스킨라빈스 레인보우 샤베트 워터, 500ml, 6개 + 피치요거트 워터, 500ml, 6개, 1세트",
-          "price": "9,400원",
-          "discount_rate": 68,
-          "priceAt": "11.06 00:02",
-          "image": "https://shopping.toss.im/live/temp/2026-09-04/a83819ac-4c7e-4fa3-96b3-36c8b4ffe8e4.png",
-          "url": "https://toss.shopping/_m/REMvht3A",
-          "_ts": 1793890931.958911,
-          "_flash": true,
-          "_product_id": "2644552917"
-        },
-        {
-          "name": "페페브루노 엑스트라버진 올리브 오일, 1L, 2개",
-          "price": "25,500원",
-          "discount_rate": 63,
-          "priceAt": "11.06 00:02",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjA2ZGYw/QU9oYzVEKy9zcHczbGZCenlVS1ByTFpBanp5MDcveUxTNVZEK2J5VlVuUzg.png",
-          "url": "https://toss.shopping/_m/bPlp2hbB",
-          "_ts": 1793890931.9588962,
-          "_flash": true,
-          "_product_id": "303280721"
-        },
-        {
-          "name": "메르헨트 데오 프레쉬 차량용 고체탈취제, 프레쉬 린넨, 250g, 2개",
-          "price": "13,900원",
-          "discount_rate": 65,
-          "priceAt": "11.06 00:02",
-          "image": "https://shopping.toss.im/live/temp/2026-07-16/a2b7b7f4-f0de-4a05-8766-cf1d6ba14bc0.jpeg",
-          "url": "https://toss.shopping/_m/jZVZGkc1",
-          "_ts": 1793890931.9588742,
-          "_flash": true,
-          "_product_id": "2493176893"
         }
       ]
     },
