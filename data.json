@@ -1284,15 +1284,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0a24/d6daf5370a7896646d4f96f2663ca80d090062f5c5573b9e7b75ef652d5d.jpg",
           "url": "https://link.coupang.com/a/ip6Oux0l3Y",
           "_ts": 1793843253.393665
-        },
-        {
-          "name": "Wendini 네모 파스타접시, 그린, 핑크, 6개",
-          "price": "4,990원",
-          "discount_rate": 62,
-          "priceAt": "11.05 10:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ba81/5c78a1afaffcf3ee71d78f16dbff466917cef32d499103448922697bdb46.jpg",
-          "url": "https://link.coupang.com/a/ip5mSudTi0",
-          "_ts": 1793842040.124736
         }
       ]
     },
@@ -1301,6 +1292,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "맘스럽 아토워시 프렌치 라벤더 캡슐세제 파우치형, 8g, 200개입, 1개",
+          "price": "6,750원",
+          "discount_rate": 54,
+          "priceAt": "11.10 10:30",
+          "image": "https://shopping.toss.im/live/temp/2025-05-14/52c78bea-ea6e-40df-92a3-fca69d1d7141.jpeg",
+          "url": "https://toss.shopping/_m/1JGAXtnt",
+          "_ts": 1794274243.166954,
+          "_product_id": "102193743"
+        },
         {
           "name": "리프레쉬 맥반석오징어, 13-25미 내외, 300g, 1봉",
           "price": "13,680원",
