@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "맛있는두유GT 검은콩깨 로우슈거, 200ml, 10개, 200ml × 10개",
+          "price": "5,900원",
+          "discount_rate": 32,
+          "priceAt": "11.10 17:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1140/b0000b1f062473875e4c3fb744656fd642885f8ce949961b0f4a57a463f1.jpg",
+          "url": "https://link.coupang.com/a/iyT59uluxw",
+          "_ts": 1794301082.814281
+        },
+        {
           "name": "래핑카우 벨큐브 플레인, 5.2g, 24개입, 1개",
           "price": "6,560원",
           "discount_rate": 27,
@@ -1248,15 +1257,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9d8f/7222ff98e7996871634283d164f3c7df8ecdc8a5a0b01885d47a9c06d0fa.jpg",
           "url": "https://link.coupang.com/a/iqBFC4ivlc",
           "_ts": 1793869160.112538
-        },
-        {
-          "name": "브랜든 2세대 여행용 부피순삭 압축 파우치 세트, 브릭핑크, S+S+M+M+L",
-          "price": "48,110원",
-          "discount_rate": 52,
-          "priceAt": "11.05 17:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/138175359716615-a3ae5ebf-5471-4aba-a861-447599254be9.jpg",
-          "url": "https://link.coupang.com/a/iqzByZz5Vs",
-          "_ts": 1793867425.782034
         }
       ]
     },
@@ -2237,16 +2237,6 @@
           "url": "https://toss.shopping/_m/p1cLXmI8",
           "_ts": 1793874402.513321,
           "_product_id": "446375191"
-        },
-        {
-          "name": "센토 프라임 고불소 구취케어 치약 아쿠아민트향, 120g, 8개",
-          "price": "13,990원",
-          "discount_rate": 67,
-          "priceAt": "11.05 17:51",
-          "image": "https://shopping.toss.im/live/temp/2026-06-09/7d26bb8a-c103-4912-b06e-21ec2b01c871.jpeg",
-          "url": "https://toss.shopping/_m/TGfOeDSD",
-          "_ts": 1793868713.732743,
-          "_product_id": "301838905"
         }
       ]
     },
