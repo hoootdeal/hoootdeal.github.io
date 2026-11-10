@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "고래사어묵 어묵떡볶이 2인분 (쌀떡) (냉동), 520g, 1팩",
+          "price": "3,600원",
+          "discount_rate": 39,
+          "priceAt": "11.11 07:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/260260218102880-b3bc3450-4bc5-4b93-bed1-f5af38509c34.jpg",
+          "url": "https://link.coupang.com/a/izOMhg1KX6",
+          "_ts": 1794348677.762172
+        },
+        {
           "name": "테팔 인덕션 매직핸즈 스테인리스 컬렉션 트라이미 프라이팬세트 3개, 스테인리스스틸, 프라이팬 22cm + 프라이팬 26cm + 매직핸즈 분리형 손잡이, 1세트",
           "price": "49,880원",
           "discount_rate": 28,
@@ -1212,15 +1221,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/538548008355907-0492ca97-02a9-44c6-9a53-c4978a34b9b6.jpg",
           "url": "https://link.coupang.com/a/irwlvz1iCq",
           "_ts": 1793916747.6403468
-        },
-        {
-          "name": "빼빼로 화이트 쿠키 2p x 딸기 2p + 랜덤 한교동 책갈피 세트, 148g, 1세트",
-          "price": "3,600원",
-          "discount_rate": 39,
-          "priceAt": "11.06 07:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/09/17/16/0/eb993321-414a-4186-83da-2962798094bf.jpg",
-          "url": "https://link.coupang.com/a/irwbqF6rAq",
-          "_ts": 1793916609.649329
         }
       ]
     },
