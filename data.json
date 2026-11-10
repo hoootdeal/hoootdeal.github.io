@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청정원 맛술, 830ml, 2개",
+          "price": "5,180원",
+          "discount_rate": 24,
+          "priceAt": "11.10 19:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2762763047257-6ffa04ac-a8af-41bd-bd0a-456de126fd23.jpg",
+          "url": "https://link.coupang.com/a/iy1hRArWvY",
+          "_ts": 1794307120.607786
+        },
+        {
           "name": "국내산 한입밤고구마, 500g, 2개, 500g × 2개",
           "price": "2,990원",
           "discount_rate": 50,
@@ -1239,15 +1248,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/319741552974925-4105c7b6-0b46-4f11-9887-442a86b92e2c.jpg",
           "url": "https://link.coupang.com/a/iqJ9M9bbe8",
           "_ts": 1793876286.925826
-        },
-        {
-          "name": "삼양 맛있는라면 115g, 5개",
-          "price": "3,150원",
-          "discount_rate": 31,
-          "priceAt": "11.05 19:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/52653807860561-4c51c0ea-5bce-4e77-bfc9-bc5de7863178.jpg",
-          "url": "https://link.coupang.com/a/iqIKg3WEr6",
-          "_ts": 1793875100.8509529
         }
       ]
     },
@@ -2238,16 +2238,6 @@
           "url": "https://toss.shopping/_m/tYDrLP5C",
           "_ts": 1793880494.682972,
           "_product_id": "109834949"
-        },
-        {
-          "name": "맛꾼 구운란, 대란, 30구, 1개",
-          "price": "10,900원",
-          "discount_rate": 45,
-          "priceAt": "11.05 19:26",
-          "image": "https://shopping.toss.im/live/temp/2026-01-27/1bf55bed-c772-4d55-9035-2a657f24e3b3.jpeg",
-          "url": "https://toss.shopping/_m/p1cLXmI8",
-          "_ts": 1793874402.513321,
-          "_product_id": "446375191"
         }
       ]
     },
