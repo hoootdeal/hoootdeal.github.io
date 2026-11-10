@@ -1266,33 +1266,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/54831248923930-9db65223-8e34-42bf-a0b4-da9b57a9095d.jpg",
           "url": "https://link.coupang.com/a/iqqxfdVwdw",
           "_ts": 1793859814.464243
-        },
-        {
-          "name": "닥터방기원 맥주 효모 탈모증상 완화 샴푸, 1L, 2개",
-          "price": "16,420원",
-          "discount_rate": 33,
-          "priceAt": "11.05 15:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/90201870125825-464cdf16-e4cf-47d3-963e-739ac1c25093.jpg",
-          "url": "https://link.coupang.com/a/iqp6iGikPQ",
-          "_ts": 1793859445.61609
-        },
-        {
-          "name": "애경바세린 모이스처 버블 핸드워시, 500ml, 1개",
-          "price": "3,320원",
-          "discount_rate": 38,
-          "priceAt": "11.05 15:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/99473660610153-2503ef24-528a-46aa-ba40-9e312666782e.png",
-          "url": "https://link.coupang.com/a/iqpxpJr06C",
-          "_ts": 1793858974.076174
-        },
-        {
-          "name": "비비고 찰보리 감자만두 (냉동), 400g, 4개입, 400g × 4개입",
-          "price": "10,480원",
-          "discount_rate": 44,
-          "priceAt": "11.05 14:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2502053673047365-3222b602-7167-4906-bb8f-b18a0ff83b79.jpg",
-          "url": "https://link.coupang.com/a/iqoy9FGhkO",
-          "_ts": 1793858157.785527
         }
       ]
     },
@@ -1301,6 +1274,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "유러피안샐러드, 1kg, 1박스",
+          "price": "7,140원",
+          "discount_rate": 68,
+          "priceAt": "11.10 15:22",
+          "image": "https://shopping.toss.im/live/temp/2026-03-19/825d63ff-c6d0-4660-89f8-8fd9149a542d.jpeg",
+          "url": "https://toss.shopping/_m/PU6tLjXy",
+          "_ts": 1794291762.6412091,
+          "_product_id": "1189931433"
+        },
         {
           "name": "티젠 애플 사이다 비니거, 5g, 50개입, 1개",
           "price": "10,440원",
