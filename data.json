@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 고소한 참기름, 500ml, 1개, 500ml × 1개",
+          "price": "8,410원",
+          "discount_rate": 41,
+          "priceAt": "11.10 13:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2487475493103343-8c9cf850-cdde-49af-86f8-722ff0c2b563.jpg",
+          "url": "https://link.coupang.com/a/iyzAhaeFwW",
+          "_ts": 1794283862.082557
+        },
+        {
           "name": "카멕스 모이스처라이징 튜브 립밤 3개입, 스트로베리, 15g, 1개",
           "price": "5,900원",
           "discount_rate": 49,
@@ -1284,15 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2987/8596d68a15509638de080c016221c2260de57482dc7ab11ef6140c5a87ed.jpg",
           "url": "https://link.coupang.com/a/iqhNIBO54C",
           "_ts": 1793852476.6794329
-        },
-        {
-          "name": "케이트 3D 아이브로우 컬러 Z 6.3g, BR-2 라이트 브..., 1개, BR-2 라이트 브라운",
-          "price": "4,200원",
-          "discount_rate": 62,
-          "priceAt": "11.05 13:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/10/01/14/0/70657776-dee7-4448-a67c-070222bcc7d3.jpg",
-          "url": "https://link.coupang.com/a/iqgl4eYNK8",
-          "_ts": 1793851265.416192
         }
       ]
     },
@@ -2271,16 +2271,6 @@
           "url": "https://toss.shopping/_m/1k3HELcg",
           "_ts": 1793856115.690558,
           "_product_id": "2310519843"
-        },
-        {
-          "name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
-          "price": "5,450원",
-          "discount_rate": 63,
-          "priceAt": "11.05 13:03",
-          "image": "https://shopping.toss.im/live/taca/ai/YmI1NGJk/QUpobU9jOXRzYlNac25uSVpEbW03Wm1lVTF0TXkweFlNekR6VXNubkhLY00.png",
-          "url": "https://toss.shopping/_m/7cAsXrbr",
-          "_ts": 1793851412.0501068,
-          "_product_id": "241796467"
         }
       ]
     },
