@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하리보 프루티 부시 젤리, 100g, 30개, 100g × 30개",
+          "price": "34,360원",
+          "discount_rate": 47,
+          "priceAt": "11.10 21:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3395c025-e183-49e2-81bb-296bf91dbdb91181078353997251270.png",
+          "url": "https://link.coupang.com/a/iy7IqWOavQ",
+          "_ts": 1794312518.517971
+        },
+        {
           "name": "자연실록 무항생제 인증 태양초 닭볶음탕 밀키트, 600g, 1개",
           "price": "8,500원",
           "discount_rate": 36,
@@ -2231,16 +2240,6 @@
           "url": "https://toss.shopping/_m/Dh9sDDc2",
           "_ts": 1793882809.3334022,
           "_product_id": "2658087741"
-        },
-        {
-          "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
-          "price": "8,890원",
-          "discount_rate": 50,
-          "priceAt": "11.05 21:08",
-          "image": "https://shopping.toss.im/live/temp/2025-07-25/7ca9d4c9-fb69-4a3e-bd3d-58c5a6980da7.jpeg",
-          "url": "https://toss.shopping/_m/tYDrLP5C",
-          "_ts": 1793880494.682972,
-          "_product_id": "109834949"
         }
       ]
     },
