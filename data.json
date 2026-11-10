@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "불닭볶음면 140g, 10개",
+          "price": "6,700원",
+          "discount_rate": 29,
+          "priceAt": "11.11 08:46",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/344801897244744-1de94e9f-29e9-408c-9143-88bbc2a9998e.png",
+          "url": "https://link.coupang.com/a/izVAWCVGa4",
+          "_ts": 1794354398.28495
+        },
+        {
           "name": "CJ제일제당 소바바 소이허니 순살치킨 (냉동), 240g, 1개",
           "price": "3,680원",
           "discount_rate": 41,
@@ -1212,24 +1221,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/c794/493898eded0329ba3edbe4a546a5d0ae02cfb1cd4d08f1f27d18d4bf87ea.jpg",
           "url": "https://link.coupang.com/a/irDSKFhXJk",
           "_ts": 1793923073.858577
-        },
-        {
-          "name": "귤탐 당도선별 11Brix 감귤, 2kg(로열과), 2개",
-          "price": "19,980원",
-          "discount_rate": 52,
-          "priceAt": "11.06 08:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/70303917-ab39-43d3-b20e-d9757ce7b1d6577395086143283756.png",
-          "url": "https://link.coupang.com/a/irAOUObaQC",
-          "_ts": 1793920513.4120152
-        },
-        {
-          "name": "아케이 노세범 헤어 파우더 드라이샴푸 우디 머스크 프루츠향, 4g, 2개",
-          "price": "8,590원",
-          "discount_rate": 32,
-          "priceAt": "11.06 08:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/463693033034914-94cfd14a-bf7a-495b-9e97-958a1c1e94e4.jpg",
-          "url": "https://link.coupang.com/a/irAN2UMKdg",
-          "_ts": 1793920492.08513
         }
       ]
     },
