@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에뛰드 베이킹파우더 모공 클렌징 대용량 폼, 300ml, 2개",
+          "price": "4,870원",
+          "discount_rate": 42,
+          "priceAt": "11.11 07:24",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1750902174059560-4cf1679e-d1c5-447c-86a6-480ec7da93cd.jpg",
+          "url": "https://link.coupang.com/a/izPHp1MI7U",
+          "_ts": 1794349448.1238852
+        },
+        {
           "name": "고래사어묵 어묵떡볶이 2인분 (쌀떡) (냉동), 520g, 1팩",
           "price": "3,600원",
           "discount_rate": 39,
@@ -1212,15 +1221,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/15562985735773-e85ac83f-2a84-4e02-8453-40083a2aedce.jpg",
           "url": "https://link.coupang.com/a/irxdY2SPQW",
           "_ts": 1793917483.603178
-        },
-        {
-          "name": "담터 메밀차, 1.5g, 100개입, 2개",
-          "price": "8,460원",
-          "discount_rate": 30,
-          "priceAt": "11.06 07:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/538548008355907-0492ca97-02a9-44c6-9a53-c4978a34b9b6.jpg",
-          "url": "https://link.coupang.com/a/irwlvz1iCq",
-          "_ts": 1793916747.6403468
         }
       ]
     },
