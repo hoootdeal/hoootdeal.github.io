@@ -1284,15 +1284,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/10/01/14/0/70657776-dee7-4448-a67c-070222bcc7d3.jpg",
           "url": "https://link.coupang.com/a/iqgl4eYNK8",
           "_ts": 1793851265.416192
-        },
-        {
-          "name": "타이키 물없이 싸먹는 월남쌈 라이스페이퍼 사각 16cm, 3개, 120g",
-          "price": "2,400원",
-          "discount_rate": 53,
-          "priceAt": "11.05 12:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/12/19/15/6/1ddbbde4-575b-4014-ac58-13d53429647a.jpg",
-          "url": "https://link.coupang.com/a/iqdrvyYWvA",
-          "_ts": 1793848820.7499468
         }
       ]
     },
@@ -1301,6 +1292,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "쏘울너츠 100% 땅콩버터 스무스, 500g, 2개",
+          "price": "7,900원",
+          "discount_rate": 61,
+          "priceAt": "11.10 12:26",
+          "image": "https://shopping.toss.im/live/temp/2026-02-24/7684754b-dfe3-4e6e-91f5-c1c7774315d0.jpeg",
+          "url": "https://toss.shopping/_m/FfxzNEY",
+          "_ts": 1794281181.972663,
+          "_product_id": "559214405"
+        },
         {
           "name": "소소락 북촌 항아리 얼큰수제비 6인분, 생수제비 1kg 1개 + 고추장 수제비소스 50g 6개, 1세트",
           "price": "5,905원",
