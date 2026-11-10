@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "자연실록 무항생제 인증 태양초 닭볶음탕 밀키트, 600g, 1개",
+          "price": "8,500원",
+          "discount_rate": 36,
+          "priceAt": "11.10 20:24",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2020/04/06/18/2/741cf758-0a4b-465c-ad78-bf5a9e588d0e.jpg",
+          "url": "https://link.coupang.com/a/iy4xPKBMjY",
+          "_ts": 1794309855.179009
+        },
+        {
           "name": "청정원 맛술, 830ml, 2개",
           "price": "5,180원",
           "discount_rate": 24,
@@ -1239,15 +1248,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/cebc1f88-77fb-43f0-afd0-0cfaf34131e46171270141621483113.png",
           "url": "https://link.coupang.com/a/iqNiIEXUFU",
           "_ts": 1793878927.028401
-        },
-        {
-          "name": "콘칲 군옥수수맛, 148g, 1개",
-          "price": "1,640원",
-          "discount_rate": 45,
-          "priceAt": "11.05 19:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/319741552974925-4105c7b6-0b46-4f11-9887-442a86b92e2c.jpg",
-          "url": "https://link.coupang.com/a/iqJ9M9bbe8",
-          "_ts": 1793876286.925826
         }
       ]
     },
