@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "케라시스 데빌스 퍼퓸 린스 고저스 머스크, 1L, 1개",
+          "price": "6,060원",
+          "discount_rate": 39,
+          "priceAt": "11.11 12:27",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/9447875860518428-92753d80-a6f2-4f21-b3cc-97fd271b5344.jpg",
+          "url": "https://link.coupang.com/a/iAbpdpRIaa",
+          "_ts": 1794367672.492237
+        },
+        {
           "name": "비비고 고단백 고등어구이, 60g, 1개",
           "price": "2,280원",
           "discount_rate": 41,
@@ -1266,15 +1275,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/zmrdhiek/f9379a2f235e450f87a4d8aef37c39c1.jpg",
           "url": "https://link.coupang.com/a/irTg01XAEm",
           "_ts": 1793935996.455904
-        },
-        {
-          "name": "스탠리 올데이 슬림 보틀, 로즈쿼츠 글로스, 591ml, 1개",
-          "price": "18,630원",
-          "discount_rate": 32,
-          "priceAt": "11.06 12:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/583627749959306-615d7967-6093-4008-aaa6-c9e49a226a5d.jpg",
-          "url": "https://link.coupang.com/a/irSaGiDrm8",
-          "_ts": 1793935071.618135
         }
       ]
     },
