@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "덴프스 정품 덴마크 유산균이야기, 30정, 2개, 30정 × 2개",
+          "price": "19,200원",
+          "discount_rate": 39,
+          "priceAt": "11.12 07:50",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/132787610542910-ea93a5bc-e2cd-46cd-9271-188e275050c0.jpg",
+          "url": "https://link.coupang.com/a/iBwvxm2E6m",
+          "_ts": 1794437447.222481
+        },
+        {
           "name": "카레여왕 구운마늘 앤 양파 진한 맛, 108g, 1개",
           "price": "2,490원",
           "discount_rate": 40,
@@ -1347,24 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/240562857413481-b94ecba4-cdc4-4f05-bdbc-f0c0277c7fbf.jpg",
           "url": "https://link.coupang.com/a/iteAwbj6NE",
           "_ts": 1794005948.282583
-        },
-        {
-          "name": "첫맛 만능 멸치육수, 1kg, 1개",
-          "price": "4,170원",
-          "discount_rate": 46,
-          "priceAt": "11.07 07:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/07/08/15/9/8427f298-06be-4b68-a065-9a6da7d045d1.jpg",
-          "url": "https://link.coupang.com/a/itdy3cfpng",
-          "_ts": 1794005087.574954
-        },
-        {
-          "name": "리큐 진한겔 하이브리드 드럼세탁기용 액상세제 플로럴 부케향 리필, 2.1L, 4개",
-          "price": "12,470원",
-          "discount_rate": 33,
-          "priceAt": "11.07 07:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4180078129401006-76d1ae19-f0bc-4ea4-88fa-d0a089ba538a.png",
-          "url": "https://link.coupang.com/a/ita9JEExhI",
-          "_ts": 1794003068.8320692
         }
       ]
     },
