@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바나나킥, 75g, 3개, 75g × 3개",
+          "price": "2,520원",
+          "discount_rate": 35,
+          "priceAt": "11.11 16:05",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/149724806210642-f2d7e496-1065-467d-ab05-86c3d4df28f6.jpg",
+          "url": "https://link.coupang.com/a/iAqXzSDUv6",
+          "_ts": 1794380731.984521
+        },
+        {
           "name": "광동제약 쌍화골드, 100ml, 10개",
           "price": "3,940원",
           "discount_rate": 36,
@@ -1284,24 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1922716195096385-b18ecce1-481d-42f3-9b70-88cfef5c0e84.jpg",
           "url": "https://link.coupang.com/a/isa387I6a4",
           "_ts": 1793950936.533507
-        },
-        {
-          "name": "브릿지뷰 코어핏 척추지지 허리보호대, L, 1개",
-          "price": "11,800원",
-          "discount_rate": 52,
-          "priceAt": "11.06 15:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/bf08/810494b6d064426ad8f5a3efd7ab273d6f55d4e4884ee982841725655923.png",
-          "url": "https://link.coupang.com/a/ir7TjgWQKG",
-          "_ts": 1793948277.985654
-        },
-        {
-          "name": "풀무원 특등급 국산콩 두유, 190ml, 24개, 190ml × 24개",
-          "price": "11,290원",
-          "discount_rate": 41,
-          "priceAt": "11.06 15:53",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/df64bc6f-77a3-476c-adb5-97adf1c543a914579722762742323006.png",
-          "url": "https://link.coupang.com/a/ir7Cdg227o",
-          "_ts": 1793948038.5766988
         }
       ]
     },
@@ -2284,16 +2275,6 @@
           "url": "https://toss.shopping/_m/PH03XGpc",
           "_ts": 1793950273.222163,
           "_product_id": "2658578693"
-        },
-        {
-          "name": "대봉감, 27과 내외, 5kg, 1박스",
-          "price": "11,900원",
-          "discount_rate": 65,
-          "priceAt": "11.06 15:57",
-          "image": "https://shopping.toss.im/live/temp/2026-10-10/0ab43fd9-b193-4925-8425-f649fe8b0f63.jpeg",
-          "url": "https://toss.shopping/_m/vkbkokEo",
-          "_ts": 1793948260.5584419,
-          "_product_id": "2677153369"
         }
       ]
     },
