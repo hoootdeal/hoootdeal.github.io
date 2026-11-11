@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "킨더 초콜릿 미니 20p, 120g, 1개",
+          "price": "2,500원",
+          "discount_rate": 37,
+          "priceAt": "11.11 10:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/256098277242447-a028c562-9131-46da-8f0c-c6ea9723a2b4.jpg",
+          "url": "https://link.coupang.com/a/iz1A6ZPICi",
+          "_ts": 1794359437.368109
+        },
+        {
           "name": "가그린 어린이용 구강세정제 딸기향, 380ml, 1개",
           "price": "1,720원",
           "discount_rate": 49,
