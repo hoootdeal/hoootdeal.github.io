@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "농심 조청유과, 96g, 5개",
+          "price": "4,540원",
+          "discount_rate": 29,
+          "priceAt": "11.11 11:04",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/890431338746743-bff17348-f524-4af4-b421-0a8ecdcc9ec0.jpg",
+          "url": "https://link.coupang.com/a/iz5qYfAHKe",
+          "_ts": 1794362657.387199
+        },
+        {
           "name": "백설 핫케익믹스, 1kg, 1개",
           "price": "2,780원",
           "discount_rate": 35,
