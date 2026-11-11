@@ -1221,6 +1221,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "법성포 영광굴비, 20cm 내외, 20마리",
+          "price": "25,900원",
+          "discount_rate": 87,
+          "priceAt": "11.11 09:35",
+          "image": "https://shopping.toss.im/live/taca/ai/MWIxNWY5/QUp6QjVkb2YzTHNDZllkd0tNQUVOVjdBL3lvckVsVUtGaS83MVIvK29DSXQ.png",
+          "url": "https://toss.shopping/_m/hh5KdYDu",
+          "_ts": 1794357309.887567,
+          "_product_id": "627710385"
+        },
+        {
           "name": "이지앤프리 에어클립 프레시 밀폐용기 체험팩, 레몬, 5종, 7P, 1세트",
           "price": "8,990원",
           "discount_rate": 68,
