@@ -1356,6 +1356,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "김규흔 한과 더 건강한 너츠 영양바, 125g, 5개입, 5박스",
+          "price": "11,460원",
+          "discount_rate": 64,
+          "priceAt": "11.12 08:04",
+          "image": "https://shopping.toss.im/live/temp/2025-12-16/db9f8dcd-dae1-49e0-b7cb-9f9d9b946e4a.jpeg",
+          "url": "https://toss.shopping/_m/LdztIWF5",
+          "_ts": 1794438285.246092,
+          "_flash": true,
+          "_product_id": "2601049533"
+        },
+        {
+          "name": "바덴하임 몽실이 슬라이딩 지퍼백, 소, 20매 + 중, 20매 + 대, 15매 + 특대, 12매, 1세트",
+          "price": "8,900원",
+          "discount_rate": 55,
+          "priceAt": "11.12 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-08-27/2b541d09-0d68-496b-b566-1d8a7ac4ebda.jpeg",
+          "url": "https://toss.shopping/_m/n0Vu5rTa",
+          "_ts": 1794438285.2460642,
+          "_flash": true,
+          "_product_id": "2636618375"
+        },
+        {
+          "name": "gleam 다용도 접이식 롤링카트, 실버, 60L, 1개",
+          "price": "16,870원",
+          "discount_rate": 57,
+          "priceAt": "11.12 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-09-08/31122fc2-48c5-4881-ac96-69f818d4c74b.jpeg",
+          "url": "https://toss.shopping/_m/DU79Q2so",
+          "_ts": 1794438285.246023,
+          "_flash": true,
+          "_product_id": "2651879571"
+        },
+        {
           "name": "동아제약 비타그란 비타민C 1000, 200정, 1개",
           "price": "8,200원",
           "discount_rate": 67,
