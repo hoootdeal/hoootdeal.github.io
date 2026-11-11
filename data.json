@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "안성탕면 순하군 125g, 5개",
+          "price": "2,120원",
+          "discount_rate": 39,
+          "priceAt": "11.11 12:59",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2288221132452370-5fe21320-7453-448f-ad86-16c26152a2df.jpg",
+          "url": "https://link.coupang.com/a/iAdGTmDoHs",
+          "_ts": 1794369591.964624
+        },
+        {
           "name": "케라시스 데빌스 퍼퓸 린스 고저스 머스크, 1L, 1개",
           "price": "6,060원",
           "discount_rate": 39,
@@ -1266,15 +1275,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/269736192273197-21dd5cc7-76a4-4de0-bdee-d6d2b94fa690.jpeg",
           "url": "https://link.coupang.com/a/irVvh8cxmS",
           "_ts": 1793937870.035433
-        },
-        {
-          "name": "브랜든 여행용 2WAY 멀티 패커블 백팩 슬링백, 올리브, 33 x 15 x 48cm",
-          "price": "26,900원",
-          "discount_rate": 61,
-          "priceAt": "11.06 12:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/zmrdhiek/f9379a2f235e450f87a4d8aef37c39c1.jpg",
-          "url": "https://link.coupang.com/a/irTg01XAEm",
-          "_ts": 1793935996.455904
         }
       ]
     },
