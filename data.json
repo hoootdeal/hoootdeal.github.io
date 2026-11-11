@@ -1311,6 +1311,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 아임리얼100 고농축 푸룬, 120ml, 24개",
+          "price": "15,470원",
+          "discount_rate": 65,
+          "priceAt": "11.11 16:21",
+          "image": "https://shopping.toss.im/live/taca/ai/N2MzMTY2/QU9ZK05teFkrWnkwb2VWejU1ZVA1NXBlSGh4cHlGWmpkS1hwOVliT3RCcDU.png",
+          "url": "https://toss.shopping/_m/jrzt1aK5",
+          "_ts": 1794381671.567301,
+          "_product_id": "1564275167"
+        },
+        {
           "name": "한끼루 깐 새우장, 간장, 350g, 2통",
           "price": "14,750원",
           "discount_rate": 56,
