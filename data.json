@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "미원 맛소금 용기, 95g, 2개",
+          "price": "2,690원",
+          "discount_rate": 39,
+          "priceAt": "11.11 13:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1000356035261-0d962c12-30b1-4d87-80d0-5c0c502b32af.jpg",
+          "url": "https://link.coupang.com/a/iAeCAiC5dc",
+          "_ts": 1794370373.150763
+        },
+        {
           "name": "안성탕면 순하군 125g, 5개",
           "price": "2,120원",
           "discount_rate": 39,
@@ -1266,15 +1275,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/08/11/15/0/30241899-4ce5-4198-9375-ca1e75f212e2.jpg",
           "url": "https://link.coupang.com/a/irY2C3sH4m",
           "_ts": 1793940837.849638
-        },
-        {
-          "name": "듀이트리 하이 아미노 올 클렌저, 150ml, 2개",
-          "price": "6,040원",
-          "discount_rate": 38,
-          "priceAt": "11.06 13:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/269736192273197-21dd5cc7-76a4-4de0-bdee-d6d2b94fa690.jpeg",
-          "url": "https://link.coupang.com/a/irVvh8cxmS",
-          "_ts": 1793937870.035433
         }
       ]
     },
@@ -2257,16 +2257,6 @@
           "url": "https://toss.shopping/_m/bHi6PwVp",
           "_ts": 1793941707.625185,
           "_product_id": "2534121637"
-        },
-        {
-          "name": "곰도리 온열안대 오리지널 케어 플러스, 40매입, 1개",
-          "price": "7,630원",
-          "discount_rate": 80,
-          "priceAt": "11.06 13:06",
-          "image": "https://shopping.toss.im/live/temp/2026-03-12/820d235f-fa3d-4016-b8b9-51cf650041a6.png",
-          "url": "https://toss.shopping/_m/rBVCC4cr",
-          "_ts": 1793937997.955727,
-          "_product_id": "128185381"
         }
       ]
     },
