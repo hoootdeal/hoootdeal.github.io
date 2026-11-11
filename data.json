@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "새우깡, 90g, 4개",
+          "price": "3,020원",
+          "discount_rate": 35,
+          "priceAt": "11.11 14:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/268741224140966-4ae882cd-c215-4d84-8e29-c26902447a37.jpg",
+          "url": "https://link.coupang.com/a/iAlXD2D9ga",
+          "_ts": 1794376534.8354628
+        },
+        {
           "name": "애경바세린 데일리 모이스처 바디로션, 450ml, 1개",
           "price": "2,780원",
           "discount_rate": 41,
@@ -1293,15 +1302,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/251855672748419-983ff46a-0f1e-4766-b34a-e678ab95a141.jpg",
           "url": "https://link.coupang.com/a/ir36X99ivc",
           "_ts": 1793945097.2030919
-        },
-        {
-          "name": "지도표성경 지도표 두번구운 김밥김 10p, 21g, 2개",
-          "price": "3,520원",
-          "discount_rate": 46,
-          "priceAt": "11.06 14:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/205702697951590-3ff9479e-cb0e-4bca-ba05-0dd86910881a.png",
-          "url": "https://link.coupang.com/a/ir2xNH4UPQ",
-          "_ts": 1793943779.585647
         }
       ]
     },
