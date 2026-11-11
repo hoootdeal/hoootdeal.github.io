@@ -1329,6 +1329,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "뽀롱뽀롱 뽀로로 비타민C, 1.2g, 300정, 1개",
+          "price": "9,250원",
+          "discount_rate": 63,
+          "priceAt": "11.11 18:24",
+          "image": "https://shopping.toss.im/live/temp/2024-11-22/0909141c-d8ee-4469-a548-647a2cc226ac.jpeg",
+          "url": "https://toss.shopping/_m/v6t7q4bC",
+          "_ts": 1794389047.823652,
+          "_product_id": "2383220095"
+        },
+        {
           "name": "살라메르 로얄스네일 콜라겐 앰플 마스크팩, 주름기능성 20매 + 미백기능성 20매, 40매",
           "price": "11,720원",
           "discount_rate": 70,
