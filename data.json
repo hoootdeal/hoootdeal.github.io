@@ -1356,6 +1356,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "동아제약 비타그란 비타민C 1000, 200정, 1개",
+          "price": "8,200원",
+          "discount_rate": 67,
+          "priceAt": "11.12 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-07-13/35456443-13df-4fd4-af99-a37b733c9c99.jpeg",
+          "url": "https://toss.shopping/_m/J0BCkcUg",
+          "_ts": 1794438256.7965639,
+          "_flash": true,
+          "_product_id": "2667663539"
+        },
+        {
+          "name": "동화약품 퀵앤써액 복숭아향, 12ml, 8포, 4박스",
+          "price": "14,870원",
+          "discount_rate": 90,
+          "priceAt": "11.12 08:04",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MTc5OWJh/QU5tREhaazNPYk01blp4NlJuTmhSc2JjdWVaTEpubGp3ejNSbThQWjRYdzg.png",
+          "url": "https://toss.shopping/_m/LLkjy4w3",
+          "_ts": 1794438256.796535,
+          "_flash": true,
+          "_product_id": "1234098383"
+        },
+        {
+          "name": "풍연 꿀설기, 50g, 20개",
+          "price": "7,960원",
+          "discount_rate": 60,
+          "priceAt": "11.12 08:04",
+          "image": "https://shopping.toss.im/live/taca/ai/Y2Q0NjBl/Vkp5V1RocG9SU1F5MlZiRGlWTXM1RWRic0p4dEkxcmMwS056YUxaUEJwZz0.png",
+          "url": "https://toss.shopping/_m/tvLJxKLu",
+          "_ts": 1794438256.7964952,
+          "_flash": true,
+          "_product_id": "151316073"
+        },
+        {
           "name": "빌트루 진한 헛개수 진액 헛개차 원액, 480g, 1개",
           "price": "8,900원",
           "discount_rate": 68,
@@ -2316,39 +2349,6 @@
           "url": "https://toss.shopping/_m/hwhHkl8n",
           "_ts": 1794018937.5753868,
           "_product_id": "2558819489"
-        },
-        {
-          "name": "베트남 고산지대 자연산 토종 생꿀, 2.4kg, 2병",
-          "price": "50,020원",
-          "discount_rate": 79,
-          "priceAt": "11.07 08:03",
-          "image": "https://shopping.toss.im/live/temp/2026-09-01/7211798a-d0a4-4160-bf9f-33d4d09893c8.jpeg",
-          "url": "https://toss.shopping/_m/xc6JGIyo",
-          "_ts": 1794006228.40378,
-          "_flash": true,
-          "_product_id": "2123292341"
-        },
-        {
-          "name": "사바나나 바나나칩, 100g, 5봉",
-          "price": "10,900원",
-          "discount_rate": 66,
-          "priceAt": "11.07 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/Y2U3NWE3/QU8wMjJQaktXOGJTVklsaktUNUp6a3lFeWJadFprVXAxcDFVMGV1cFZOZXI.png",
-          "url": "https://toss.shopping/_m/b9TbX4ud",
-          "_ts": 1794006228.403763,
-          "_flash": true,
-          "_product_id": "727989761"
-        },
-        {
-          "name": "할리스 카페 라떼, 15g, 30개입, 2개",
-          "price": "15,700원",
-          "discount_rate": 61,
-          "priceAt": "11.07 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjVhYjY5/QUpaN2U0NDV5eU4rMXJHVmVpdlVlYWZVZnQ2VjFDczFhanVoeWw2clZIZUI.png",
-          "url": "https://toss.shopping/_m/pHoWvRDj",
-          "_ts": 1794006228.403736,
-          "_flash": true,
-          "_product_id": "133624321"
         }
       ]
     },
