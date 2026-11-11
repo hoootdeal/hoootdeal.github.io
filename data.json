@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "짜파게티 범벅 컵라면 70g, 6개",
+          "price": "3,190원",
+          "discount_rate": 36,
+          "priceAt": "11.11 13:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/259123202019659-69e60d9d-ee5e-4a86-8254-9b2c761c703b.jpg",
+          "url": "https://link.coupang.com/a/iAgUWq5XNs",
+          "_ts": 1794372300.664039
+        },
+        {
           "name": "미원 맛소금 용기, 95g, 2개",
           "price": "2,690원",
           "discount_rate": 39,
