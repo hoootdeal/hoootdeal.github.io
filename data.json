@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "짜왕, 8개",
+          "price": "6,470원",
+          "discount_rate": 30,
+          "priceAt": "11.11 10:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/118888610038270-e970db90-b63a-4ae2-b77d-f7770d97633d.jpg",
+          "url": "https://link.coupang.com/a/iz4Yt1adsO",
+          "_ts": 1794362272.6609821
+        },
+        {
           "name": "청정원 클래식 돈카츠 소스, 400g, 1개",
           "price": "1,640원",
           "discount_rate": 41,
@@ -1221,15 +1230,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/01/22/14/1/35bd6e99-5fa6-4fe7-aa72-4b7882f72f24.jpg",
           "url": "https://link.coupang.com/a/irPyZ8xZiC",
           "_ts": 1793932881.755114
-        },
-        {
-          "name": "해피홈 이지워시 레몬소다 주방세제 리필, 1L, 2개",
-          "price": "4,330원",
-          "discount_rate": 50,
-          "priceAt": "11.06 10:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/266248213871619-b2c95118-b017-436f-93af-373d4e75c016.jpg",
-          "url": "https://link.coupang.com/a/irMn16V7YW",
-          "_ts": 1793930215.933123
         }
       ]
     },
