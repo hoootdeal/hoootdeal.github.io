@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "널담 고단백 저당 슬랩 (냉동), 600g, 1개, 1개입",
+          "price": "6,080원",
+          "discount_rate": 35,
+          "priceAt": "11.11 22:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/q6grgri1/cd64b4d54887419abf97598314539bdb.jpg",
+          "url": "https://link.coupang.com/a/iAQR0HixVY",
+          "_ts": 1794402485.6672761
+        },
+        {
           "name": "신라면 컵 65g, 6개",
           "price": "4,120원",
           "discount_rate": 31,
@@ -1320,15 +1329,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4180078129401006-76d1ae19-f0bc-4ea4-88fa-d0a089ba538a.png",
           "url": "https://link.coupang.com/a/ita9JEExhI",
           "_ts": 1794003068.8320692
-        },
-        {
-          "name": "추억의국민학교떡볶이 오리지널 (밀떡) (냉동), 600g, 2개",
-          "price": "6,790원",
-          "discount_rate": 31,
-          "priceAt": "11.06 22:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1327632924357665-a8839ab4-4774-4f41-ad6e-35c22d6abc35.jpg",
-          "url": "https://link.coupang.com/a/isxZHETbAy",
-          "_ts": 1793970186.0227652
         }
       ]
     },
