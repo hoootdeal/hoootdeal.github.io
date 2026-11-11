@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청정원 클래식 돈카츠 소스, 400g, 1개",
+          "price": "1,640원",
+          "discount_rate": 41,
+          "priceAt": "11.11 10:53",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/71d1/6727f60742f93d23677afae9fe7944b7bd1c401acc745ed4d7a60c908a31.jpg",
+          "url": "https://link.coupang.com/a/iz4DpqtIOa",
+          "_ts": 1794361987.182824
+        },
+        {
           "name": "킨더 초콜릿 미니 20p, 120g, 1개",
           "price": "2,500원",
           "discount_rate": 37,
@@ -1221,15 +1230,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/266248213871619-b2c95118-b017-436f-93af-373d4e75c016.jpg",
           "url": "https://link.coupang.com/a/irMn16V7YW",
           "_ts": 1793930215.933123
-        },
-        {
-          "name": "동원참치 살코기 인 워터, 100g, 3개, 100g × 3개",
-          "price": "5,440원",
-          "discount_rate": 25,
-          "priceAt": "11.06 10:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/52074579686123-773bc997-ca93-4f46-a472-cf94b3fb6e6e.jpg",
-          "url": "https://link.coupang.com/a/irJt39VMtw",
-          "_ts": 1793927775.445211
         }
       ]
     },
@@ -2222,16 +2222,6 @@
           "url": "https://toss.shopping/_m/rBVCC4cr",
           "_ts": 1793937997.955727,
           "_product_id": "128185381"
-        },
-        {
-          "name": "서문시장 손맛 칼제비, 418g, 4개",
-          "price": "8,840원",
-          "discount_rate": 50,
-          "priceAt": "11.06 10:48",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/YzMwMzgy/QUp4M04rNVdmMHR1ZktTcDk5bS9KU2JXaEpXWlduMm5RT2lRVlVJTDYxcUk.png",
-          "url": "https://toss.shopping/_m/JG6WBnBe",
-          "_ts": 1793929692.644206,
-          "_product_id": "2559231423"
         }
       ]
     },
