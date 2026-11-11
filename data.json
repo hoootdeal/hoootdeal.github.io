@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "벌집핏자, 90g, 3개",
+          "price": "2,520원",
+          "discount_rate": 42,
+          "priceAt": "11.11 18:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/3279/b117baffec205360998d88db5b605450aa0595434e7f2aff590d7affd3a6.jpg",
+          "url": "https://link.coupang.com/a/iAzQCsDtC0",
+          "_ts": 1794388193.487075
+        },
+        {
           "name": "다시다 명품 골드 쇠고기, 100g, 2개",
           "price": "4,570원",
           "discount_rate": 41,
@@ -1311,15 +1320,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/116615121399185-9a3ee158-f563-4917-b068-e1166e5d3a1a.jpg",
           "url": "https://link.coupang.com/a/ishpbk9Ixo",
           "_ts": 1793956258.311352
-        },
-        {
-          "name": "목우촌 주부9단 슬라이스 로스구이 (냉동), 1kg, 2개",
-          "price": "17,640원",
-          "discount_rate": 31,
-          "priceAt": "11.06 18:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/0ac5b5a1-6315-4069-8d70-073e5dcb3b642068527638381799967.png",
-          "url": "https://link.coupang.com/a/ishdnvxtoy",
-          "_ts": 1793956098.825648
         }
       ]
     },
