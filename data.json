@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "포스트 그래놀라 제로슈거 파로 통보리, 220g, 1개",
+          "price": "2,120원",
+          "discount_rate": 49,
+          "priceAt": "11.11 09:28",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/07/29/18/5/51fe805f-e5fd-4fa0-a8ea-e0ba8662c05e.png",
+          "url": "https://link.coupang.com/a/izYALn3W20",
+          "_ts": 1794356913.167878
+        },
+        {
           "name": "불닭볶음면 140g, 10개",
           "price": "6,700원",
           "discount_rate": 29,
@@ -1203,24 +1212,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/52074579686123-773bc997-ca93-4f46-a472-cf94b3fb6e6e.jpg",
           "url": "https://link.coupang.com/a/irJt39VMtw",
           "_ts": 1793927775.445211
-        },
-        {
-          "name": "사무실 과자세트 스낵 15입 세트 (참크래커 + 허니버터칩 + 칸쵸 + 구운감자 4p + 딸기웨하스 + 초코홈런볼 4번들 + 돌아온 썬 핫스파이 + 씨리얼초코 + 고래밥 볶음양념맛), 1세트, 10p",
-          "price": "10,830원",
-          "discount_rate": 37,
-          "priceAt": "11.06 09:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/64901507888671-65372b68-b0f9-4e5e-a075-4991474080be.png",
-          "url": "https://link.coupang.com/a/irFQ6wa95E",
-          "_ts": 1793924731.243136
-        },
-        {
-          "name": "곡물그대로21 크리스피롤, 900g, 1개",
-          "price": "8,800원",
-          "discount_rate": 29,
-          "priceAt": "11.06 08:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/c794/493898eded0329ba3edbe4a546a5d0ae02cfb1cd4d08f1f27d18d4bf87ea.jpg",
-          "url": "https://link.coupang.com/a/irDSKFhXJk",
-          "_ts": 1793923073.858577
         }
       ]
     },
