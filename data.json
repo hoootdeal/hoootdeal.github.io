@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오징어집, 78g, 3개",
+          "price": "2,520원",
+          "discount_rate": 33,
+          "priceAt": "11.11 21:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/c178efff-89f0-4bd6-841d-b41f0e439d5b13827241500126010111.png",
+          "url": "https://link.coupang.com/a/iANltcyVqK",
+          "_ts": 1794399522.081308
+        },
+        {
           "name": "해표 순알콩 진간장, 1개, 840ml",
           "price": "1,590원",
           "discount_rate": 54,
@@ -1302,15 +1311,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1327632924357665-a8839ab4-4774-4f41-ad6e-35c22d6abc35.jpg",
           "url": "https://link.coupang.com/a/isxZHETbAy",
           "_ts": 1793970186.0227652
-        },
-        {
-          "name": "오후의홍차 밀크티 1.5L, 8개",
-          "price": "17,400원",
-          "discount_rate": 45,
-          "priceAt": "11.06 21:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/fe5a/8448f21b8dcbee56ca16a1f03b6927868596465153c67ff9b6b7cbb95a6f.jpg",
-          "url": "https://link.coupang.com/a/isuGTlxLLE",
-          "_ts": 1793967413.4895911
         }
       ]
     },
@@ -2301,16 +2301,6 @@
           "_ts": 1793977339.119895,
           "_flash": true,
           "_product_id": "1109054481"
-        },
-        {
-          "name": "프로프룻 시나노골드, 특품, 난좌포장, 3kg, 1박스",
-          "price": "9,900원",
-          "discount_rate": 81,
-          "priceAt": "11.06 21:02",
-          "image": "https://shopping.toss.im/live/temp/2026-10-06/74d4b59b-2bb4-4efb-aeb3-14ae3e570d38.jpeg",
-          "url": "https://toss.shopping/_m/jxERxfRj",
-          "_ts": 1793966579.8524349,
-          "_product_id": "2672325913"
         }
       ]
     },
