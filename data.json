@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "네스프레소 이스피라치오네 이탈리아나 아르페지오 디카페나토 캡슐커피, 5.5g, 10개입, 1개",
+          "price": "4,390원",
+          "discount_rate": 43,
+          "priceAt": "11.11 13:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/06/26/12/9/3247ca4c-c0ea-4d61-9848-6d03ff65a0d6.jpg",
+          "url": "https://link.coupang.com/a/iAhABodZlI",
+          "_ts": 1794372862.2654378
+        },
+        {
           "name": "짜파게티 범벅 컵라면 70g, 6개",
           "price": "3,190원",
           "discount_rate": 36,
@@ -1275,15 +1284,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/205702697951590-3ff9479e-cb0e-4bca-ba05-0dd86910881a.png",
           "url": "https://link.coupang.com/a/ir2xNH4UPQ",
           "_ts": 1793943779.585647
-        },
-        {
-          "name": "푸드올로지 톡스올로지 클렌즈 48시간 ABC Mini, 180ml, 6개, 180ml × 6개",
-          "price": "10,840원",
-          "discount_rate": 47,
-          "priceAt": "11.06 13:53",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/08/11/15/0/30241899-4ce5-4198-9375-ca1e75f212e2.jpg",
-          "url": "https://link.coupang.com/a/irY2C3sH4m",
-          "_ts": 1793940837.849638
         }
       ]
     },
