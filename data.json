@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크라운산도 딸기크림치즈, 323g, 3개",
+          "price": "7,360원",
+          "discount_rate": 49,
+          "priceAt": "11.11 18:13",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3034803072328199-b7bd261c-0f92-49f6-bd90-e58be6bfbcd6.jpg",
+          "url": "https://link.coupang.com/a/iAz5ms8fEO",
+          "_ts": 1794388394.140498
+        },
+        {
           "name": "벌집핏자, 90g, 3개",
           "price": "2,520원",
           "discount_rate": 42,
@@ -1311,15 +1320,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/6f574c64-a835-4176-8b1b-850bd5d5e2603178885329955657509.png",
           "url": "https://link.coupang.com/a/isj0jRRCp2",
           "_ts": 1793958441.4269161
-        },
-        {
-          "name": "올곧 바바김밥 참치마요김밥 (냉동), 2개, 240g",
-          "price": "3,980원",
-          "discount_rate": 47,
-          "priceAt": "11.06 18:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/116615121399185-9a3ee158-f563-4917-b068-e1166e5d3a1a.jpg",
-          "url": "https://link.coupang.com/a/ishpbk9Ixo",
-          "_ts": 1793956258.311352
         }
       ]
     },
