@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "동원 교자만두 (냉동), 600g, 1개, 600g × 1개",
+          "price": "2,070원",
+          "discount_rate": 48,
+          "priceAt": "11.11 16:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/b0i3lzoh/819b67ac7cd24e2ca0e45a09db42dbaa.jpg",
+          "url": "https://link.coupang.com/a/iAuKPtnXJA",
+          "_ts": 1794383917.155179
+        },
+        {
           "name": "고구마깡, 83g, 3개",
           "price": "2,520원",
           "discount_rate": 37,
@@ -1293,15 +1302,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/19/14/2/bb3e6d4c-b521-4f24-85c3-c5b3a31672da.png",
           "url": "https://link.coupang.com/a/isefFcW6eG",
           "_ts": 1793953607.793976
-        },
-        {
-          "name": "넛츠그린 100% 무가당 땅콩버터 크런치, 200g, 1개, 200g × 1개",
-          "price": "4,730원",
-          "discount_rate": 38,
-          "priceAt": "11.06 16:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1922716195096385-b18ecce1-481d-42f3-9b70-88cfef5c0e84.jpg",
-          "url": "https://link.coupang.com/a/isa387I6a4",
-          "_ts": 1793950936.533507
         }
       ]
     },
@@ -2282,16 +2282,6 @@
           "url": "https://toss.shopping/_m/jqH2Scld",
           "_ts": 1793958403.189708,
           "_product_id": "84334631"
-        },
-        {
-          "name": "맥스앤맥스 이지밀 혼합 식기세트, 다이닝볼 4P+원형 핸들 플레이트 2P+사각 핸들 플레이트 2P, 1개",
-          "price": "9,130원",
-          "discount_rate": 60,
-          "priceAt": "11.06 16:31",
-          "image": "https://shopping.toss.im/live/temp/2026-09-21/c82bc6e3-f7b1-4a4d-9c0b-097d7c1d697d.jpeg",
-          "url": "https://toss.shopping/_m/PH03XGpc",
-          "_ts": 1793950273.222163,
-          "_product_id": "2658578693"
         }
       ]
     },
