@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "포테토칩 교촌간장치킨맛, 55g, 3개, 55g × 3개",
+          "price": "2,350원",
+          "discount_rate": 37,
+          "priceAt": "11.11 17:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/92743807480201-c0c8a200-a16f-46a9-a538-6998d3e54c40.jpg",
+          "url": "https://link.coupang.com/a/iAy1DH4DcG",
+          "_ts": 1794387504.573836
+        },
+        {
           "name": "알새우칩, 68g, 3개",
           "price": "2,520원",
           "discount_rate": 37,
@@ -1302,15 +1311,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/0ac5b5a1-6315-4069-8d70-073e5dcb3b642068527638381799967.png",
           "url": "https://link.coupang.com/a/ishdnvxtoy",
           "_ts": 1793956098.825648
-        },
-        {
-          "name": "도브 바디 스크럽 미드나잇 라벤더, 298g, 1개",
-          "price": "8,340원",
-          "discount_rate": 32,
-          "priceAt": "11.06 17:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/19/14/2/bb3e6d4c-b521-4f24-85c3-c5b3a31672da.png",
-          "url": "https://link.coupang.com/a/isefFcW6eG",
-          "_ts": 1793953607.793976
         }
       ]
     },
