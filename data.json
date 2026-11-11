@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 1400도 직화 순살 고등어, 85g, 1개",
+          "price": "4,630원",
+          "discount_rate": 26,
+          "priceAt": "11.11 20:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/271123820061597-08118dbf-f271-4569-9c31-5151563805ae.jpg",
+          "url": "https://link.coupang.com/a/iAHVjgYstU",
+          "_ts": 1794394975.8769732
+        },
+        {
           "name": "존쿡델리미트 컨츄리 베이컨 (냉장), 120g, 4개",
           "price": "16,250원",
           "discount_rate": 34,
@@ -1293,33 +1302,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/fe5a/8448f21b8dcbee56ca16a1f03b6927868596465153c67ff9b6b7cbb95a6f.jpg",
           "url": "https://link.coupang.com/a/isuGTlxLLE",
           "_ts": 1793967413.4895911
-        },
-        {
-          "name": "흡입괄사 바디컷튠핏 웰247 부항 원리 저주파 마사지기 셀룰라이트, 본품",
-          "price": "39,000원",
-          "discount_rate": 70,
-          "priceAt": "11.06 19:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/stage/manual/83fd1c00-6c78-4f00-b821-e6572a223586_1782354602138.jpeg",
-          "url": "https://link.coupang.com/a/isnX60zAo8",
-          "_ts": 1793961779.6905239
-        },
-        {
-          "name": "잔다리 서리태 속청 로스팅 콩, 250g, 5개",
-          "price": "27,810원",
-          "discount_rate": 40,
-          "priceAt": "11.06 19:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/865085299422559-38faacd8-a29c-4621-a16d-8114be2c8359.jpg",
-          "url": "https://link.coupang.com/a/isnXswAfKL",
-          "_ts": 1793961759.800742
-        },
-        {
-          "name": "그릭슈바인 육즙 가득 부어스트 스모크, 355g, 1개",
-          "price": "3,320원",
-          "discount_rate": 41,
-          "priceAt": "11.06 19:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/8mju9vbh/e14abfef267641ccb00ccd0b65ac5860.JPG",
-          "url": "https://link.coupang.com/a/isnrksy3Ea",
-          "_ts": 1793961325.785892
         }
       ]
     },
@@ -2320,16 +2302,6 @@
           "url": "https://toss.shopping/_m/jxERxfRj",
           "_ts": 1793966579.8524349,
           "_product_id": "2672325913"
-        },
-        {
-          "name": "셰프애찬 청양 맵짤이, 225g, 2개",
-          "price": "11,400원",
-          "discount_rate": 62,
-          "priceAt": "11.06 20:01",
-          "image": "https://shopping.toss.im/live/temp/2026-08-25/2f72eb9e-beb9-440e-b752-44ee3fb0ea19.jpeg",
-          "url": "https://toss.shopping/_m/LlKySMWg",
-          "_ts": 1793962897.262926,
-          "_product_id": "2609356619"
         }
       ]
     },
