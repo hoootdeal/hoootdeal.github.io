@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "곰곰 쌀 떡국떡, 1kg, 2개",
+          "price": "4,420원",
+          "discount_rate": 49,
+          "priceAt": "11.11 14:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/31346547137430-2339312f-220b-49e1-8e99-f451816568f7.jpg",
+          "url": "https://link.coupang.com/a/iAjbP2ihDE",
+          "_ts": 1794374206.561436
+        },
+        {
           "name": "네스프레소 이스피라치오네 이탈리아나 아르페지오 디카페나토 캡슐커피, 5.5g, 10개입, 1개",
           "price": "4,390원",
           "discount_rate": 43,
@@ -2256,16 +2265,6 @@
           "url": "https://toss.shopping/_m/vkbkokEo",
           "_ts": 1793948260.5584419,
           "_product_id": "2677153369"
-        },
-        {
-          "name": "원김치 쪽파김치, 가정용, 2kg, 1개",
-          "price": "9,900원",
-          "discount_rate": 33,
-          "priceAt": "11.06 14:08",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MDkxZDUx/QU52Z21LSFI4ZUg3QkoxLzhPZGVRMTF5ZEJvNkdnTnJSZTNWSjhpRGZ0VWk.png",
-          "url": "https://toss.shopping/_m/bHi6PwVp",
-          "_ts": 1793941707.625185,
-          "_product_id": "2534121637"
         }
       ]
     },
