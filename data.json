@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청우식품 초코파이찰떡, 215g, 2개",
+          "price": "5,090원",
+          "discount_rate": 28,
+          "priceAt": "11.13 07:13",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2121072438821752-e8d2137d-1b7b-4dce-a1c8-654eb3c0196a.jpg",
+          "url": "https://link.coupang.com/a/iC8LTwe5vM",
+          "_ts": 1794521630.383148
+        },
+        {
           "name": "곰곰 고당도 12.5brix 감귤, 1kg(로열과), 1개, 1kg(로열과) × 1개",
           "price": "7,790원",
           "discount_rate": 34,
@@ -1347,24 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/182870003808746-a0250971-2387-44e6-b675-f5ee7513330d.jpg",
           "url": "https://link.coupang.com/a/iuRoUnS4ES",
           "_ts": 1794090591.4780538
-        },
-        {
-          "name": "사푸토 스트링 치즈 라이트, 23.5g, 2개, 24개입",
-          "price": "10,970원",
-          "discount_rate": 55,
-          "priceAt": "11.08 07:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/cb7bd8b2-ffde-4789-abb0-642b73ab91b18716843615754563375.png",
-          "url": "https://link.coupang.com/a/iuP60vb5r2",
-          "_ts": 1794089509.904706
-        },
-        {
-          "name": "버터와플 이즈니, 2개, 158g",
-          "price": "3,980원",
-          "discount_rate": 43,
-          "priceAt": "11.08 07:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/c727f5f0-46bb-464a-867d-c8b7d95ba76b15062451377496771992.png",
-          "url": "https://link.coupang.com/a/iuPvtQDf5g",
-          "_ts": 1794089002.3488572
         }
       ]
     },
