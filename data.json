@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 동물복지 인증 에그샐러드, 350g, 1개, 350g × 1개",
+          "price": "3,740원",
+          "discount_rate": 46,
+          "priceAt": "11.12 19:47",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/yzbzw3ov/a54e96b02e4c465d9729f2d6f98a2456.jpg",
+          "url": "https://link.coupang.com/a/iClKsM2N7Q",
+          "_ts": 1794480470.921118
+        },
+        {
           "name": "프로쉬 다목적 키친클리너, 300ml, 1개",
           "price": "7,560원",
           "discount_rate": 40,
@@ -1365,24 +1374,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1118103897480582-cd1ea016-2eba-4665-a456-67e373a8f83f.jpg",
           "url": "https://link.coupang.com/a/it6FokTdKe",
           "_ts": 1794051355.373605
-        },
-        {
-          "name": "카누 볼드 다크로스트 돌체구스토 호환 캡슐커피, 7g, 16개입, 2세트",
-          "price": "12,190원",
-          "discount_rate": 32,
-          "priceAt": "11.07 19:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/191545290231063-12d5b774-1722-49d0-b3ee-2c2ac399175f.jpg",
-          "url": "https://link.coupang.com/a/it3bdrBqnc",
-          "_ts": 1794048427.236325
-        },
-        {
-          "name": "비비드키친 저칼로리 치킨양념소스, 320g, 1개",
-          "price": "1,810원",
-          "discount_rate": 49,
-          "priceAt": "11.07 19:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/ea0b/65e3fb7daf951cc9e49c6a0d3fe315cff5d16d97d5a70a4a0afd5170ba37.jpg",
-          "url": "https://link.coupang.com/a/itZVHeJssu",
-          "_ts": 1794045699.752883
         }
       ]
     },
@@ -2412,16 +2403,6 @@
           "url": "https://toss.shopping/_m/pQWjkJb8",
           "_ts": 1794049640.455306,
           "_product_id": "581066609"
-        },
-        {
-          "name": "한돈 뒷고기, 1+등급, 500g, 2개",
-          "price": "10,400원",
-          "discount_rate": 74,
-          "priceAt": "11.07 19:30",
-          "image": "https://shopping.toss.im/live/taca/ai/MGY1MTI4/Y2tCRXBpa3lqeURKTEUzMlMxQjR5V0I4ZHRNdU55OFBYN1loTlpEbWkzYz0.png",
-          "url": "https://toss.shopping/_m/n3ILOqK9",
-          "_ts": 1794047452.645359,
-          "_product_id": "684178563"
         }
       ]
     },
