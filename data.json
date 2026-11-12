@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하림 텐더스틱 (냉동), 550g, 3개",
+          "price": "13,300원",
+          "discount_rate": 48,
+          "priceAt": "11.12 09:32",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3b0b0bb6-fe1d-4413-9428-98470bd9aa6b6767064610774060613.png",
+          "url": "https://link.coupang.com/a/iBDKa4XfRk",
+          "_ts": 1794443521.1901739
+        },
+        {
           "name": "매일우유 멸균 딸기, 200ml, 24개",
           "price": "11,500원",
           "discount_rate": 30,
@@ -1347,15 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/5c4e/3452f881a55b49709b041f362254b43c4fe899342bebe48fb9f2c38b4f23.jpg",
           "url": "https://link.coupang.com/a/itoJPGt3HE",
           "_ts": 1794014471.736235
-        },
-        {
-          "name": "세브란스케어 구수한맛 완전균형 영양식, 200ml, 16개, 200ml × 16개",
-          "price": "15,810원",
-          "discount_rate": 37,
-          "priceAt": "11.07 09:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2282802355064856-105b6b15-7c47-4a69-b59a-3672e29e3cef.jpg",
-          "url": "https://link.coupang.com/a/itk5tTjLLo",
-          "_ts": 1794011406.975884
         }
       ]
     },
