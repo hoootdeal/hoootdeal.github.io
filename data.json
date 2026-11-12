@@ -1383,6 +1383,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "유한메디카 코엔자임 Q10 엔 탑 높은 혈압 케어, 60캡슐, 2개",
+          "price": "15,770원",
+          "discount_rate": 84,
+          "priceAt": "11.12 18:53",
+          "image": "https://shopping.toss.im/live/taca/ai/YTBhMjYx/QU5SK2RHazRwNStjVWV1UDFzNGZnUnloNE5JdnZEUjZwN0R3N2hjUGxxSDQ.png",
+          "url": "https://toss.shopping/_m/1aeQApns",
+          "_ts": 1794477220.7810109,
+          "_product_id": "115211959"
+        },
+        {
           "name": "사운독스 노이즈 캔슬링 무선 이어폰, Y-07, 화이트, 1개",
           "price": "16,900원",
           "discount_rate": 81,
@@ -2403,16 +2413,6 @@
           "url": "https://toss.shopping/_m/n3ILOqK9",
           "_ts": 1794047452.645359,
           "_product_id": "684178563"
-        },
-        {
-          "name": "면사랑 얼큰짬뽕수제비, 197g, 6개",
-          "price": "12,670원",
-          "discount_rate": 49,
-          "priceAt": "11.07 18:35",
-          "image": "https://shopping.toss.im/live/temp/2025-12-31/0eb86ebe-c5c6-41e4-aa9e-8ded735151da.png",
-          "url": "https://toss.shopping/_m/pfIdNib3",
-          "_ts": 1794044105.432964,
-          "_product_id": "513483141"
         }
       ]
     },
