@@ -1365,6 +1365,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바른 전라도 열무자박이 김치, 1kg, 1개",
+          "price": "6,450원",
+          "discount_rate": 82,
+          "priceAt": "11.12 10:00",
+          "image": "https://shopping.toss.im/live/temp/2026-08-29/57a4c3f8-d74a-4fba-8fdc-89198de4a4fa.jpeg",
+          "url": "https://toss.shopping/_m/1UItnORl",
+          "_ts": 1794445235.079422,
+          "_product_id": "1910549827"
+        },
+        {
           "name": "김규흔 한과 더 건강한 너츠 영양바, 125g, 5개입, 5박스",
           "price": "11,460원",
           "discount_rate": 64,
