@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "모리나가 소금 카라멜, 2개, 83g",
+          "price": "5,620원",
+          "discount_rate": 30,
+          "priceAt": "11.12 17:39",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/8160b1bf-4959-496c-b3e0-3aa2175b455410486260188420083652.png",
+          "url": "https://link.coupang.com/a/iCczg2DEVU",
+          "_ts": 1794472761.7504268
+        },
+        {
           "name": "국내산 배추, 1개입, 3개, 1개입 × 3개",
           "price": "4,620원",
           "discount_rate": 69,
@@ -1365,15 +1374,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/50881849577540-608b3c0a-ddfc-4e54-8975-14969da64868.jpg",
           "url": "https://link.coupang.com/a/itWY42zqg0",
           "_ts": 1794043225.481863
-        },
-        {
-          "name": "MYCHEF 밀푀유나베 & 칼국수 밀키트 2~3인분, 1.05kg, 2개, 1.05kg × 2개",
-          "price": "18,890원",
-          "discount_rate": 23,
-          "priceAt": "11.07 17:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/526927593335678-19d24c5c-6c4d-4d35-ba9e-8ea55b1a7a30.jpg",
-          "url": "https://link.coupang.com/a/itSxXKSlwa",
-          "_ts": 1794039499.6510441
         }
       ]
     },
