@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "백설 햄스빌 굿베이컨, 110g, 6개",
+          "price": "7,480원",
+          "discount_rate": 24,
+          "priceAt": "11.12 15:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/656690119600158-ad84138e-cc38-4106-8029-20841f5c94b1.jpg",
+          "url": "https://link.coupang.com/a/iB2Fjyb5Lo",
+          "_ts": 1794464447.94091
+        },
+        {
           "name": "오뚜기 오쉐프 토마토 파스타 소스, 2kg, 1개",
           "price": "5,500원",
           "discount_rate": 33,
@@ -1338,15 +1347,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/2493/fc90a751dbc7f3b4c6e7658e321f3d740a840700d66a459ed9780288d41d.jpg",
           "url": "https://link.coupang.com/a/itOOqtgp0S",
           "_ts": 1794036363.6548321
-        },
-        {
-          "name": "바디판타지 프래그런스 바디 스프레이 웨딩데이판타지, 2개, 236ml",
-          "price": "14,990원",
-          "discount_rate": 36,
-          "priceAt": "11.07 15:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/393752046126550-b34f515d-dea1-41ca-8a13-7848f4c7c839.jpg",
-          "url": "https://link.coupang.com/a/itJ6tsvcKO",
-          "_ts": 1794032411.813906
         }
       ]
     },
