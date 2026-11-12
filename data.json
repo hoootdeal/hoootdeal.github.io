@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "곰곰 고당도 12.5brix 감귤, 1kg(로열과), 1개, 1kg(로열과) × 1개",
+          "price": "7,790원",
+          "discount_rate": 34,
+          "priceAt": "11.12 21:50",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2711457921615327-b1167a4f-0918-4c15-906b-484f7d918aee.jpg",
+          "url": "https://link.coupang.com/a/iCuxkoIwfI",
+          "_ts": 1794487847.41068
+        },
+        {
           "name": "광식이농장 칵테일토마토, 700g, 1팩, 700g × 1팩",
           "price": "4,190원",
           "discount_rate": 40,
@@ -1374,15 +1383,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/416300510335958-f8bc8501-d515-4ace-9fd9-41edc7f259c2.jpg",
           "url": "https://link.coupang.com/a/iucWigurC1",
           "_ts": 1794056620.566984
-        },
-        {
-          "name": "풀무원 평양 물냉면 4인분, 1.692kg, 1개, 1.692kg × 1개",
-          "price": "3,980원",
-          "discount_rate": 53,
-          "priceAt": "11.07 21:19",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3755755040717350-52d823ff-a392-471b-9728-f709c05a45ce.jpg",
-          "url": "https://link.coupang.com/a/it9OpN0dwW",
-          "_ts": 1794053995.614335
         }
       ]
     },
@@ -2402,16 +2402,6 @@
           "_ts": 1794063726.377671,
           "_flash": true,
           "_product_id": "166416251"
-        },
-        {
-          "name": "양계장청년 난각1번 자연방사 상황버섯 먹여 키운 무항생제 유정란, 40구, 1박스",
-          "price": "15,200원",
-          "discount_rate": 52,
-          "priceAt": "11.07 21:28",
-          "image": "https://shopping.toss.im/live/taca/ai/ZThhMTYy/SVRad25ld3lFVXdHN1dOenROZms3RXNwSE9RU3hCc0hFcDIyOGExakcyWT0.png",
-          "url": "https://toss.shopping/_m/x75w1mph",
-          "_ts": 1794054536.563699,
-          "_product_id": "259321811"
         }
       ]
     },
