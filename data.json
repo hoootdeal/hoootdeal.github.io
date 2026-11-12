@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "싱싱잡곡 찹쌀, 800g, 1개, 800g × 1개",
+          "price": "3,780원",
+          "discount_rate": 48,
+          "priceAt": "11.12 10:19",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/147349928033029-f00d5851-cb88-4279-ab80-51a5d6061597.jpg",
+          "url": "https://link.coupang.com/a/iBG9lURCrk",
+          "_ts": 1794446381.282609
+        },
+        {
           "name": "하림 텐더스틱 (냉동), 550g, 3개",
           "price": "13,300원",
           "discount_rate": 48,
