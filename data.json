@@ -1365,15 +1365,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/03/20/15/7/cc4a9c2e-b5b2-499e-a5a2-bc2545e9cea3.jpg",
           "url": "https://link.coupang.com/a/iuVWoNcqcK",
           "_ts": 1794094403.664543
-        },
-        {
-          "name": "휘오 다이아몬드 EC 무라벨, 500ml, 20개",
-          "price": "3,420원",
-          "discount_rate": 52,
-          "priceAt": "11.08 07:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/66701491540340-f95c7e29-a0ad-4aa5-80db-9d4adf56aaae.jpg",
-          "url": "https://link.coupang.com/a/iuSHFpJxEO",
-          "_ts": 1794091685.360667
         }
       ]
     },
@@ -1382,6 +1373,39 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "누벨린 디펜턴 토탈 솔루션 앰플 세럼, 30ml, 2개",
+          "price": "13,850원",
+          "discount_rate": 84,
+          "priceAt": "11.13 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-02-24/9baed7ef-d970-4470-a73e-ae10683da11a.jpeg",
+          "url": "https://toss.shopping/_m/NHVWdNAd",
+          "_ts": 1794524640.754037,
+          "_flash": true,
+          "_product_id": "973592143"
+        },
+        {
+          "name": "산과들에 윤서의달밤, 30g, 20봉",
+          "price": "10,520원",
+          "discount_rate": 59,
+          "priceAt": "11.13 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-08-07/d3842a8f-f17f-4c65-abcf-1abbd9080a7a.jpeg",
+          "url": "https://toss.shopping/_m/pI2tV1Wa",
+          "_ts": 1794524640.754007,
+          "_flash": true,
+          "_product_id": "2589981913"
+        },
+        {
+          "name": "뉴클 3IN1 맥세이프 마그네틱 무선 고속충전 거치대, 화이트, 1개 + CtoC 고속케이블, 1개 + 메탈링, 1개",
+          "price": "15,140원",
+          "discount_rate": 80,
+          "priceAt": "11.13 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-09-04/3313d13e-bbfc-431e-9a0c-01be0fa4753b.jpeg",
+          "url": "https://toss.shopping/_m/fAghme5r",
+          "_ts": 1794524640.75397,
+          "_flash": true,
+          "_product_id": "2645627835"
+        },
         {
           "name": "앙쥬 모이스처 알로에 폼클렌징, 100ml, 10개",
           "price": "9,900원",
@@ -2362,39 +2386,6 @@
           "_ts": 1794092651.146881,
           "_flash": true,
           "_product_id": "1514960829"
-        },
-        {
-          "name": "덴티클린스 컬러풀 이중미세모 칫솔, 10개입, 3세트",
-          "price": "7,540원",
-          "discount_rate": 74,
-          "priceAt": "11.08 08:03",
-          "image": "https://shopping.toss.im/live/temp/2025-06-12/0b12c7e3-ad55-434d-a5de-f5838943c99a.jpeg",
-          "url": "https://toss.shopping/_m/LgiXyKZk",
-          "_ts": 1794092622.910343,
-          "_flash": true,
-          "_product_id": "156673689"
-        },
-        {
-          "name": "연세우유 저지방 우유, 190ml, 48개",
-          "price": "23,210원",
-          "discount_rate": 47,
-          "priceAt": "11.08 08:03",
-          "image": "https://shopping.toss.im/live/temp/2026-10-22/29e8ed7e-f7e8-4a2f-9a42-cd9e516097a2.jpeg",
-          "url": "https://toss.shopping/_m/9S85bP01",
-          "_ts": 1794092622.910322,
-          "_flash": true,
-          "_product_id": "1266772507"
-        },
-        {
-          "name": "국대 프리미엄 어묵탕, 230g, 5팩",
-          "price": "11,600원",
-          "discount_rate": 61,
-          "priceAt": "11.08 08:03",
-          "image": "https://shopping.toss.im/562/live/product/594443037/56211a5a-aaf8-4172-bccf-ca94c7b062fc.jpg",
-          "url": "https://toss.shopping/_m/bob4pWcr",
-          "_ts": 1794092622.910283,
-          "_flash": true,
-          "_product_id": "2280888689"
         }
       ]
     },
