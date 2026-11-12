@@ -1374,6 +1374,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "클리어 키친타월, 100매, 3겹, 18팩",
+          "price": "9,900원",
+          "discount_rate": 41,
+          "priceAt": "11.13 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-08-28/2b7cc9f8-09e5-4772-a1c6-b1e37d157bda.jpeg",
+          "url": "https://toss.shopping/_m/RH7apewn",
+          "_ts": 1794524698.403533,
+          "_flash": true,
+          "_product_id": "2598873501"
+        },
+        {
+          "name": "연세두유 고단백 PRO 플레인, 240ml, 32개",
+          "price": "30,150원",
+          "discount_rate": 66,
+          "priceAt": "11.13 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-10-12/98c293e2-25b8-4616-9afe-edefe141605c.jpeg",
+          "url": "https://toss.shopping/_m/ty4IPAf7",
+          "_ts": 1794524698.403494,
+          "_flash": true,
+          "_product_id": "1975074559"
+        },
+        {
+          "name": "당연구소 귀리뻥, 40g, 10봉",
+          "price": "8,480원",
+          "discount_rate": 78,
+          "priceAt": "11.13 08:04",
+          "image": "https://shopping.toss.im/live/taca/ai/OGYwNTBl/QUlsTXpubVdiTzlOYTB4WXpkbHNtUTR4MlRtc0xZMzJzSVkxaDd6N1JGcEQ.png",
+          "url": "https://toss.shopping/_m/hwarW9V1",
+          "_ts": 1794524698.403458,
+          "_flash": true,
+          "_product_id": "1054244129"
+        },
+        {
           "name": "bhc 뿌링팝콘, 60g, 12개",
           "price": "10,000원",
           "discount_rate": 53,
