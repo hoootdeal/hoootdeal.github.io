@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오타후쿠 이카텐 텐까스 오징어맛 우동 후레이크, 2개, 50g",
+          "price": "2,800원",
+          "discount_rate": 36,
+          "priceAt": "11.13 07:34",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/78698593264702-01524759-85e5-46d3-ae38-9a9ff5fceda2.jpg",
+          "url": "https://link.coupang.com/a/iDafdDsVvo",
+          "_ts": 1794522865.896992
+        },
+        {
           "name": "PSK 칠레산 블루베리, 310g, 1개",
           "price": "9,980원",
           "discount_rate": 23,
@@ -1356,15 +1365,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/66701491540340-f95c7e29-a0ad-4aa5-80db-9d4adf56aaae.jpg",
           "url": "https://link.coupang.com/a/iuSHFpJxEO",
           "_ts": 1794091685.360667
-        },
-        {
-          "name": "후버 착즙 오렌지주스, 1L, 2개",
-          "price": "6,420원",
-          "discount_rate": 42,
-          "priceAt": "11.08 07:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/182870003808746-a0250971-2387-44e6-b675-f5ee7513330d.jpg",
-          "url": "https://link.coupang.com/a/iuRoUnS4ES",
-          "_ts": 1794090591.4780538
         }
       ]
     },
