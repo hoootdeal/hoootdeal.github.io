@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "그로비타 구피 열대어 사료, 130g, 1개",
+          "price": "5,620원",
+          "discount_rate": 40,
+          "priceAt": "11.12 15:52",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/147441974259364-d54e5187-38f2-45f0-a9c1-0713bfe4e645.jpg",
+          "url": "https://link.coupang.com/a/iB4XiMOoQ8",
+          "_ts": 1794466367.7161338
+        },
+        {
           "name": "백설 햄스빌 굿베이컨, 110g, 6개",
           "price": "7,480원",
           "discount_rate": 24,
