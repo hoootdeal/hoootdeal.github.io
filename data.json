@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "샘표 고추장 고기 볶음, 95g, 2개, 95g × 2개",
+          "price": "2,480원",
+          "discount_rate": 38,
+          "priceAt": "11.12 16:40",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/822e/e5b5225af0715832048c111d5b297f5442501d27d488df779f5e71cd641f.jpg",
+          "url": "https://link.coupang.com/a/iB8ndFJezQ",
+          "_ts": 1794469239.553087
+        },
+        {
           "name": "그로비타 구피 열대어 사료, 130g, 1개",
           "price": "5,620원",
           "discount_rate": 40,
@@ -1347,15 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/526927593335678-19d24c5c-6c4d-4d35-ba9e-8ea55b1a7a30.jpg",
           "url": "https://link.coupang.com/a/itSxXKSlwa",
           "_ts": 1794039499.6510441
-        },
-        {
-          "name": "샘표 국산콩 백일된장, 900g, 1개, 900g × 1개",
-          "price": "8,470원",
-          "discount_rate": 42,
-          "priceAt": "11.07 16:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/2493/fc90a751dbc7f3b4c6e7658e321f3d740a840700d66a459ed9780288d41d.jpg",
-          "url": "https://link.coupang.com/a/itOOqtgp0S",
-          "_ts": 1794036363.6548321
         }
       ]
     },
