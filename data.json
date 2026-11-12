@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이니스프리 비자 시카 밤, 40ml, 1개, 40ml × 1개",
+          "price": "5,850원",
+          "discount_rate": 57,
+          "priceAt": "11.12 13:47",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3564957005783793-f50966c5-1135-4c37-9834-7e489e73882f.jpg",
+          "url": "https://link.coupang.com/a/iBVYVghYyG",
+          "_ts": 1794458835.764948
+        },
+        {
           "name": "에코맘의산골이유식 산골고구마, 고구마, 70g, 2개",
           "price": "4,000원",
           "discount_rate": 44,
@@ -1329,15 +1338,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/540194645421881-31295aa2-fcef-4b12-82de-6eb69c69f1f8.png",
           "url": "https://link.coupang.com/a/itGyujGiOG",
           "_ts": 1794029432.270633
-        },
-        {
-          "name": "컴포트랩 마카롱 웰핏 팬티 2p, XL",
-          "price": "5,410원",
-          "discount_rate": 85,
-          "priceAt": "11.07 13:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2794313111868886-c99aba3b-2811-43d6-86fa-a30d85d08ecd.jpg",
-          "url": "https://link.coupang.com/a/itDmjsTYaG",
-          "_ts": 1794026748.221517
         }
       ]
     },
