@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "큐원 홈메이드 비스킷믹스 플레인, 250g, 3개",
+          "price": "5,960원",
+          "discount_rate": 33,
+          "priceAt": "11.12 12:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/35627779970060-3b00b2ae-af15-4901-a8dc-a94717ecd575.jpg",
+          "url": "https://link.coupang.com/a/iBOnJqgCCy",
+          "_ts": 1794452453.8212118
+        },
+        {
           "name": "롯데제과 퀘이커 마시는오트밀 오트&그레인, 50g, 20개, 50g × 20개",
           "price": "15,880원",
           "discount_rate": 43,
@@ -1329,15 +1338,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/11/04/11/9/178aae35-b017-4ef0-ae58-8c4ff41d93d4.png",
           "url": "https://link.coupang.com/a/itxTy945Aa",
           "_ts": 1794022160.3430889
-        },
-        {
-          "name": "일리 디카프 디카페인 캡슐커피, 6.7g, 21개입, 1개",
-          "price": "10,320원",
-          "discount_rate": 30,
-          "priceAt": "11.07 11:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/ccc2/034717ca3cd514681c27f00c27cae29de2cc6ec1be586353e60fe1e5fb56.jpg",
-          "url": "https://link.coupang.com/a/itvIIuVxvg",
-          "_ts": 1794020334.356277
         }
       ]
     },
@@ -2379,16 +2379,6 @@
           "url": "https://toss.shopping/_m/lOwpgefc",
           "_ts": 1794022343.180654,
           "_product_id": "766800443"
-        },
-        {
-          "name": "불도깨비 칠리 치즈스틱, 500g, 1개",
-          "price": "8,400원",
-          "discount_rate": 61,
-          "priceAt": "11.07 11:35",
-          "image": "https://shopping.toss.im/live/temp/2026-08-24/eb34e696-dad0-4ba7-af96-0fc35170de17.png",
-          "url": "https://toss.shopping/_m/hwhHkl8n",
-          "_ts": 1794018937.5753868,
-          "_product_id": "2558819489"
         }
       ]
     },
