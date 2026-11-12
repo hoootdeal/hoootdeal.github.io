@@ -1338,15 +1338,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/ccc2/034717ca3cd514681c27f00c27cae29de2cc6ec1be586353e60fe1e5fb56.jpg",
           "url": "https://link.coupang.com/a/itvIIuVxvg",
           "_ts": 1794020334.356277
-        },
-        {
-          "name": "남양유업주식회사 불가리스 요거트 딸기 8개입, 640g, 1개",
-          "price": "2,990원",
-          "discount_rate": 50,
-          "priceAt": "11.07 11:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/71750737853224-e77a7c68-0cca-40d6-8508-9c68767b7fa0.jpg",
-          "url": "https://link.coupang.com/a/ittsulmWES",
-          "_ts": 1794018437.186999
         }
       ]
     },
@@ -1355,6 +1346,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "고기중독 왕십리 칼집돼지 왕구이, 1kg, 2팩",
+          "price": "15,510원",
+          "discount_rate": 68,
+          "priceAt": "11.12 11:30",
+          "image": "https://shopping.toss.im/live/temp/2026-03-19/afab400f-201c-4d79-9f4c-e5eda29d6f19.jpeg",
+          "url": "https://toss.shopping/_m/LyQGb4ec",
+          "_ts": 1794450631.710251,
+          "_product_id": "1181979367"
+        },
         {
           "name": "바른 전라도 열무자박이 김치, 1kg, 1개",
           "price": "6,450원",
