@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 오쉐프 토마토 파스타 소스, 2kg, 1개",
+          "price": "5,500원",
+          "discount_rate": 33,
+          "priceAt": "11.12 14:42",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/04/16/9/9/e78fc3a4-e53a-4441-ac68-ec9498fbb48a.jpg",
+          "url": "https://link.coupang.com/a/iBZTFoFzCm",
+          "_ts": 1794462120.854623
+        },
+        {
           "name": "빽다방 아메리카노 스틱커피, 1.6g, 100개입, 4개",
           "price": "52,510원",
           "discount_rate": 31,
