@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "광식이농장 칵테일토마토, 700g, 1팩, 700g × 1팩",
+          "price": "4,190원",
+          "discount_rate": 40,
+          "priceAt": "11.12 20:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1111120298120075-03c0c2ab-b1ee-4a5a-860e-77f488bc82e5.jpg",
+          "url": "https://link.coupang.com/a/iCqN7xdUJw",
+          "_ts": 1794484716.0029418
+        },
+        {
           "name": "아오란 캠핑의자 접이식 각도조절 경량 무중력의자, 카키 카키색 통풍망, 2개",
           "price": "14,900원",
           "discount_rate": 45,
@@ -1374,15 +1383,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3755755040717350-52d823ff-a392-471b-9728-f709c05a45ce.jpg",
           "url": "https://link.coupang.com/a/it9OpN0dwW",
           "_ts": 1794053995.614335
-        },
-        {
-          "name": "엘라드 오로라 LPP 트리트먼트 헤어팩, 1L, 3개, 1L × 3개",
-          "price": "18,720원",
-          "discount_rate": 69,
-          "priceAt": "11.07 20:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1118103897480582-cd1ea016-2eba-4665-a456-67e373a8f83f.jpg",
-          "url": "https://link.coupang.com/a/it6FokTdKe",
-          "_ts": 1794051355.373605
         }
       ]
     },
