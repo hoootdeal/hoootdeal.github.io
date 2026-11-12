@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데제과 퀘이커 마시는오트밀 오트&그레인, 50g, 20개, 50g × 20개",
+          "price": "15,880원",
+          "discount_rate": 43,
+          "priceAt": "11.12 11:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/03/09/9/5/7ef56909-9e9c-4c67-8363-e99f621f7ccc.png",
+          "url": "https://link.coupang.com/a/iBKCo07dQG",
+          "_ts": 1794449295.609641
+        },
+        {
           "name": "싱싱잡곡 찹쌀, 800g, 1개, 800g × 1개",
           "price": "3,780원",
           "discount_rate": 48,
@@ -1338,33 +1347,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/71750737853224-e77a7c68-0cca-40d6-8508-9c68767b7fa0.jpg",
           "url": "https://link.coupang.com/a/ittsulmWES",
           "_ts": 1794018437.186999
-        },
-        {
-          "name": "뉴트리원 루테인 지아잔틴164 에이엑스 GR 15g, 30정, 6개",
-          "price": "75,050원",
-          "discount_rate": 74,
-          "priceAt": "11.07 10:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/a0aa/a9a3f61f043c3c0e8b14ffa240ed18df680bf5acf15aea694edc91c41cbc.jpg",
-          "url": "https://link.coupang.com/a/itqjcKGPiS",
-          "_ts": 1794015789.793879
-        },
-        {
-          "name": "엘쏘 대용량 화장품 파우치, 블랙, FREE",
-          "price": "2,570원",
-          "discount_rate": 50,
-          "priceAt": "11.07 10:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/958919796412606-969242ad-422c-48cc-ab11-73c8e2da688c.jpg",
-          "url": "https://link.coupang.com/a/itqdnLbmbQ",
-          "_ts": 1794015711.453444
-        },
-        {
-          "name": "G7 3 in 1 커피믹스, 16g, 50개입, 1개",
-          "price": "12,080원",
-          "discount_rate": 32,
-          "priceAt": "11.07 10:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/5c4e/3452f881a55b49709b041f362254b43c4fe899342bebe48fb9f2c38b4f23.jpg",
-          "url": "https://link.coupang.com/a/itoJPGt3HE",
-          "_ts": 1794014471.736235
         }
       ]
     },
