@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스팸 25% 라이트, 1.81kg, 1개, 1.81kg × 1개",
+          "price": "21,640원",
+          "discount_rate": 29,
+          "priceAt": "11.12 18:23",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/14929183761577-b9ceb919-3794-4053-89e2-c96d34b0b5cd.jpg",
+          "url": "https://link.coupang.com/a/iCfJduF1Lo",
+          "_ts": 1794475414.099
+        },
+        {
           "name": "모리나가 소금 카라멜, 2개, 83g",
           "price": "5,620원",
           "discount_rate": 30,
@@ -1365,15 +1374,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/ea0b/65e3fb7daf951cc9e49c6a0d3fe315cff5d16d97d5a70a4a0afd5170ba37.jpg",
           "url": "https://link.coupang.com/a/itZVHeJssu",
           "_ts": 1794045699.752883
-        },
-        {
-          "name": "메이플조 메이플 시럽, 150g, 1개",
-          "price": "4,490원",
-          "discount_rate": 34,
-          "priceAt": "11.07 18:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/50881849577540-608b3c0a-ddfc-4e54-8975-14969da64868.jpg",
-          "url": "https://link.coupang.com/a/itWY42zqg0",
-          "_ts": 1794043225.481863
         }
       ]
     },
