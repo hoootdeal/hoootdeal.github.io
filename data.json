@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "베베쿡 꼬소미콘칩 구운옥수수 과자, 구운옥수수맛, 25g, 6개",
+          "price": "6,000원",
+          "discount_rate": 44,
+          "priceAt": "11.13 18:34",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/485ddadc-ea30-448d-9585-2e18be8ca0847442427208827330608.png",
+          "url": "https://link.coupang.com/a/iDVqJ05wHs",
+          "_ts": 1794562484.2775402
+        },
+        {
           "name": "코멧 뽑아쓰는 천연펄프 3겹 키친타올 100매, 3개입, 1개",
           "price": "2,800원",
           "discount_rate": 33,
@@ -1347,15 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/stage/manual/41874e6f6c80902b7a72e3727aae8d1739e38a1da04aae80eda8fb3077b9_1791446653213.jpg",
           "url": "https://link.coupang.com/a/ivGeI5jANE",
           "_ts": 1794133276.6318562
-        },
-        {
-          "name": "크리스마스 갓성비 PVC 그린팁 트리 + 오너먼트 + 별토퍼 + 트리스커트 풀세트, 레드실버, 150cm",
-          "price": "15,360원",
-          "discount_rate": 34,
-          "priceAt": "11.08 18:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/13900834207608-73494105-ce0f-44b1-9351-bd33012b4a7c.jpg",
-          "url": "https://link.coupang.com/a/ivBWZmV9BA",
-          "_ts": 1794129678.4738681
         }
       ]
     },
@@ -2364,16 +2364,6 @@
           "url": "https://toss.shopping/_m/tDqRa7my",
           "_ts": 1794132442.1328971,
           "_product_id": "2521451623"
-        },
-        {
-          "name": "전통압착 통참깨 참기름, 350ml, 2개",
-          "price": "11,600원",
-          "discount_rate": 76,
-          "priceAt": "11.08 18:15",
-          "image": "https://shopping.toss.im/live/temp/2026-06-12/3e77cdec-ff1b-428b-a35f-ea16a4123e88.jpeg",
-          "url": "https://toss.shopping/_m/9v7RLYn8",
-          "_ts": 1794129302.0787609,
-          "_product_id": "156877077"
         }
       ]
     },
