@@ -1356,24 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/697d55e7-2232-4207-bf00-46c69bcc776e7531038465539973477.png",
           "url": "https://link.coupang.com/a/ivm1K0R2Rw",
           "_ts": 1794117150.27772
-        },
-        {
-          "name": "프로그 하루에 한장씩 빨아쓰는 행주, 50개입, 2개",
-          "price": "8,170원",
-          "discount_rate": 34,
-          "priceAt": "11.08 14:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/428935833978785-245d6da0-6720-4f1a-9bb3-1a31dce3435a.jpg",
-          "url": "https://link.coupang.com/a/ivjOu3nrBQ",
-          "_ts": 1794114450.4317608
-        },
-        {
-          "name": "티젠 콤부차 스트로베리키위, 5g, 50개입, 2개",
-          "price": "18,690원",
-          "discount_rate": 23,
-          "priceAt": "11.08 13:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1187597674234970-c2a271c4-846b-481d-aea9-e578222e062e.png",
-          "url": "https://link.coupang.com/a/ivh1018Bum",
-          "_ts": 1794112955.625628
         }
       ]
     },
@@ -1382,6 +1364,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "셰프초이스 동그랑땡, 2kg, 1개",
+          "price": "14,400원",
+          "discount_rate": 44,
+          "priceAt": "11.13 14:23",
+          "image": "https://shopping.toss.im/live/temp/2026-07-01/c531b0a1-b43a-4e3b-9457-853e56f55bab.png",
+          "url": "https://toss.shopping/_m/FgqKH6rr",
+          "_ts": 1794547405.5192268,
+          "_product_id": "2551894295"
+        },
         {
           "name": "클리어 키친타월, 100매, 3겹, 18팩",
           "price": "9,900원",
@@ -2390,16 +2382,6 @@
           "url": "https://toss.shopping/_m/ThAmLrq9",
           "_ts": 1794118820.7446258,
           "_product_id": "2225788075"
-        },
-        {
-          "name": "코피코 커피맛 캔디 블리스터 팩, 384g, 2개",
-          "price": "11,560원",
-          "discount_rate": 53,
-          "priceAt": "11.08 13:33",
-          "image": "https://shopping.toss.im/live/taca/ai/NTViYjky/QU0yZk16bW1UTXpibVd3OXM1ODUyek5Nek15emt4a05tVms1Tm5sbk9kbU0.png",
-          "url": "https://toss.shopping/_m/PAXkgoFa",
-          "_ts": 1794112425.693376,
-          "_product_id": "145359961"
         }
       ]
     },
