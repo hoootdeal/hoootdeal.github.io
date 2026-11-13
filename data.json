@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "해찬들 100% 태양초 알찬 고추장, 2kg, 1개, 2kg × 1개",
+          "price": "7,480원",
+          "discount_rate": 31,
+          "priceAt": "11.13 09:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/03/30/10/4/7f1ba9a5-9747-45ef-b81f-26c67a7cd2de.jpg",
+          "url": "https://link.coupang.com/a/iDhmO133am",
+          "_ts": 1794528846.4171689
+        },
+        {
           "name": "퀘이커 마시는 오트밀 오트 딸기, 50g, 20개, 50g × 20개",
           "price": "15,670원",
           "discount_rate": 40,
@@ -1365,15 +1374,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/10380027010991-007fe564-575c-41d7-83fb-7c50b6eb233c.jpg",
           "url": "https://link.coupang.com/a/iuYZ1BuwVw",
           "_ts": 1794096973.03023
-        },
-        {
-          "name": "모던하우스 온 미유 수저세트, 아이보리 + 그린, 숟가락 4p + 젓가락 4p, 1개",
-          "price": "10,760원",
-          "discount_rate": 33,
-          "priceAt": "11.08 08:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/03/20/15/7/cc4a9c2e-b5b2-499e-a5a2-bc2545e9cea3.jpg",
-          "url": "https://link.coupang.com/a/iuVWoNcqcK",
-          "_ts": 1794094403.664543
         }
       ]
     },
