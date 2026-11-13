@@ -1356,15 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/465ba1ff-8424-4e7e-83be-b31c84b3cd9e9189543918617255802.png",
           "url": "https://link.coupang.com/a/ivxNuP7ZF6",
           "_ts": 1794126191.060677
-        },
-        {
-          "name": "청정원 건강한 쌀올리고당, 1.2kg, 1개",
-          "price": "4,430원",
-          "discount_rate": 31,
-          "priceAt": "11.08 16:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/317352741187637-da45a997-01bc-4df6-98be-363920f7d29f.jpg",
-          "url": "https://link.coupang.com/a/ivu81A46OO",
-          "_ts": 1794123964.036992
         }
       ]
     },
@@ -1373,6 +1364,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "맘스럽 플로럴 액체세제, 2.5L, 5개",
+          "price": "6,890원",
+          "discount_rate": 56,
+          "priceAt": "11.13 17:04",
+          "image": "https://shopping.toss.im/live/temp/2026-06-26/14462407-64c6-4bd0-928f-ab234f01c071.jpeg",
+          "url": "https://toss.shopping/_m/75K6e7a2",
+          "_ts": 1794557063.7359822,
+          "_product_id": "2335791299"
+        },
         {
           "name": "셰프초이스 동그랑땡, 2kg, 1개",
           "price": "14,400원",
