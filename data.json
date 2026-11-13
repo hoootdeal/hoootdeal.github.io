@@ -1374,6 +1374,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "커클랜드 시그니춰 전자레인지 팝콘, 버터맛, 93g, 11개",
+          "price": "8,540원",
+          "discount_rate": 65,
+          "priceAt": "11.14 08:04",
+          "image": "https://shopping.toss.im/live/taca/ai/ODA2ZGIy/QU9EeHcyOXBORWloVWNPdkZsODAyVEc5dzdoVE9OQ2JuY1Zoc1FmVktrejQ.png",
+          "url": "https://toss.shopping/_m/X9GlMzKu",
+          "_ts": 1794611057.766687,
+          "_flash": true,
+          "_product_id": "1338023347"
+        },
+        {
+          "name": "프로스펙스 무릎 보호대 1, 블랙, 5.5x41cm, 2개",
+          "price": "7,760원",
+          "discount_rate": 80,
+          "priceAt": "11.14 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-10-21/30d482df-5b83-4967-b78e-b673626f35a0.jpeg",
+          "url": "https://toss.shopping/_m/LIlyJ6C3",
+          "_ts": 1794611057.766659,
+          "_flash": true,
+          "_product_id": "2115036665"
+        },
+        {
+          "name": "청우 쫀득초코칩, 800g, 1개",
+          "price": "9,270원",
+          "discount_rate": 53,
+          "priceAt": "11.14 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-01-07/75c15421-836a-4162-b402-d9a7abe457e7.jpeg",
+          "url": "https://toss.shopping/_m/Hk95mw46",
+          "_ts": 1794611057.766619,
+          "_flash": true,
+          "_product_id": "78459743"
+        },
+        {
           "name": "리빙아트 프로벨라 실리콘 조리도구, 그레이, 6종, 1세트",
           "price": "11,900원",
           "discount_rate": 82,
@@ -2336,39 +2369,6 @@
           "_product_id": "2517669083",
           "sold_out": true,
           "_sold_at": 1794581414.0
-        },
-        {
-          "name": "자동 변기세정제 맥스, 320g, 4개",
-          "price": "5,000원",
-          "discount_rate": 66,
-          "priceAt": "11.09 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-08-26/4e3daee7-51fd-498a-b856-0a5fae0723e1.png",
-          "url": "https://toss.shopping/_m/50EgoECa",
-          "_ts": 1794179040.4713311,
-          "_flash": true,
-          "_product_id": "138282089"
-        },
-        {
-          "name": "프롬바이오 남성건강엔 쏘팔메토 플러스, 30캡슐, 4박스",
-          "price": "18,900원",
-          "discount_rate": 91,
-          "priceAt": "11.09 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/NWFiYjA1/YlhPYjA4NGNmanlSdzVqR1QyeHRocEhCbko1bVBHTmhuSlpyYVpTMGt2RT0.png",
-          "url": "https://toss.shopping/_m/rZsHNcY4",
-          "_ts": 1794179040.471303,
-          "_flash": true,
-          "_product_id": "170776853"
-        },
-        {
-          "name": "유한메디카 칼슘 마그네슘 엔 탑 비타민D K 망간, 60정, 3개",
-          "price": "13,470원",
-          "discount_rate": 89,
-          "priceAt": "11.09 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/MzEwNWM0/TmhickZxM0p0T2xjcjNGcC9XdlI0MU04M2o3dXhnN1NnZkEvbGllVXdHaz0.png",
-          "url": "https://toss.shopping/_m/PG0b4AiC",
-          "_ts": 1794179040.471265,
-          "_flash": true,
-          "_product_id": "77671509"
         }
       ]
     },
