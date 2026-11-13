@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "프로메가 알티지 오메가3 듀얼 플러스, 60정, 1개, 60정 × 1개",
+          "price": "8,900원",
+          "discount_rate": 31,
+          "priceAt": "11.13 10:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3287297779299569-2a1e5fbe-73ef-45cb-a669-2ebf8d85dcd7.jpg",
+          "url": "https://link.coupang.com/a/iDoBCpF1yK",
+          "_ts": 1794534925.6357708
+        },
+        {
           "name": "하기스 2025 네이처메이드 밴드형 기저귀 남여공용, 2단계, 58매, 2단계 × 58매",
           "price": "19,000원",
           "discount_rate": 52,
@@ -1356,15 +1365,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/152202746386245-bdee3efe-d148-4058-9efc-a7c4b3bd1d9b.png",
           "url": "https://link.coupang.com/a/iu6BzpYXrE",
           "_ts": 1794103357.931563
-        },
-        {
-          "name": "곰곰 가득담은 칵테일 새우 (냉동), 900g, 1개",
-          "price": "13,300원",
-          "discount_rate": 25,
-          "priceAt": "11.08 10:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/387603625410996-2726a094-aca1-4693-adcb-032be9b0599c.jpg",
-          "url": "https://link.coupang.com/a/iu4fX3T21Q",
-          "_ts": 1794101388.3101099
         }
       ]
     },
@@ -2405,26 +2405,6 @@
           "url": "https://toss.shopping/_m/91i5OrU1",
           "_ts": 1794109914.956599,
           "_product_id": "1776020737"
-        },
-        {
-          "name": "카라카라 오렌지, 중대과, 30~35과 내외, 7kg, 1박스",
-          "price": "16,440원",
-          "discount_rate": 71,
-          "priceAt": "11.08 10:47",
-          "image": "https://shopping.toss.im/live/temp/2026-03-13/f02a448b-5ae6-46a1-9678-b780373089fc.jpeg",
-          "url": "https://toss.shopping/_m/Pc7eQH0A",
-          "_ts": 1794102421.5674582,
-          "_product_id": "194214671"
-        },
-        {
-          "name": "장충동 쫄깃한 편육, 150g, 5개",
-          "price": "10,700원",
-          "discount_rate": 56,
-          "priceAt": "11.08 10:16",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDQzYmE0/UFF4TWZwaUJQRGhoNW55ZlA4bFRGdTBCWXIrMDhicFRrT0RZUzkzOHJVND0.png",
-          "url": "https://toss.shopping/_m/BG9DIeuD",
-          "_ts": 1794100598.028877,
-          "_product_id": "9133579"
         }
       ]
     },
