@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "락앤락 무흠집 이지그립 수세미, 2개입, 6개",
+          "price": "7,160원",
+          "discount_rate": 69,
+          "priceAt": "11.14 07:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/29719057469086-a12e6aa0-8ada-4110-9c90-7190115aa9c1.jpg",
+          "url": "https://link.coupang.com/a/iEQTIWfUom",
+          "_ts": 1794610735.652292
+        },
+        {
           "name": "큐원 홈메이드 홈메이드 계란빵믹스, 50g, 4개",
           "price": "3,960원",
           "discount_rate": 50,
@@ -1356,15 +1365,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/03/31/14/5/bf7ba1c0-61bb-41e8-a459-0501e14428de.jpg",
           "url": "https://link.coupang.com/a/iwAmlGgNXw",
           "_ts": 1794180396.245439
-        },
-        {
-          "name": "마즈 믹스드 패밀리팩, 870g, 1개",
-          "price": "11,600원",
-          "discount_rate": 31,
-          "priceAt": "11.09 07:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/6894/968640094a3d2effd2946a6de80896556d81574d26c917ccce5ea333113e.jpg",
-          "url": "https://link.coupang.com/a/iwwUijmgrA",
-          "_ts": 1794177500.619089
         }
       ]
     },
