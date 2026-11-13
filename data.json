@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "마이노멀 밀가루 ZERO 두부면, 180g, 5개, 180g × 5개",
+          "price": "8,330원",
+          "discount_rate": 33,
+          "priceAt": "11.14 08:49",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/26/18/1/09d978a7-fb0c-41fa-a3b5-838682795525.jpg",
+          "url": "https://link.coupang.com/a/iEUuLuLZF6",
+          "_ts": 1794613757.242469
+        },
+        {
           "name": "락앤락 무흠집 이지그립 수세미, 2개입, 6개",
           "price": "7,160원",
           "discount_rate": 69,
@@ -1356,15 +1365,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1846439411151012-ee1905b2-b89a-4468-983e-8f688599b6c7.png",
           "url": "https://link.coupang.com/a/iwB43jWivA",
           "_ts": 1794181845.212553
-        },
-        {
-          "name": "첵스초코 쿠키앤크림 시리얼, 420g, 1개, 420g × 1개",
-          "price": "4,260원",
-          "discount_rate": 31,
-          "priceAt": "11.09 08:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/03/31/14/5/bf7ba1c0-61bb-41e8-a459-0501e14428de.jpg",
-          "url": "https://link.coupang.com/a/iwAmlGgNXw",
-          "_ts": 1794180396.245439
         }
       ]
     },
