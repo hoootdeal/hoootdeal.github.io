@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "룩트킨디 얼려먹는 젤리 10p, 사과, 200g, 1개",
+          "price": "3,760원",
+          "discount_rate": 50,
+          "priceAt": "11.13 21:24",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/361370526213099-1972ceb1-2e20-4843-8765-80f50ff15333.png",
+          "url": "https://link.coupang.com/a/iD7xxITJZc",
+          "_ts": 1794572652.066586
+        },
+        {
           "name": "파스퇴르 바른목장 소화가 잘되는 우유, 2.3L, 1개",
           "price": "6,990원",
           "discount_rate": 34,
@@ -1347,15 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/6306410275685-6ab506db-6b7e-475b-8025-d72666238684.png",
           "url": "https://link.coupang.com/a/iwuRNSuZzM",
           "_ts": 1794175787.559943
-        },
-        {
-          "name": "립톤 레몬맛 아이스티 분말, 770g, 1개입, 4개",
-          "price": "9,700원",
-          "discount_rate": 86,
-          "priceAt": "11.08 21:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3ff6/74f692baf06911d4382e517aa37f1426960b5d23ca20f6ca5896d1556d61.jpg",
-          "url": "https://link.coupang.com/a/ivOUmcgxOe",
-          "_ts": 1794140557.601595
         }
       ]
     },
