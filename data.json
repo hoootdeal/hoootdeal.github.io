@@ -1356,15 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/13900834207608-73494105-ce0f-44b1-9351-bd33012b4a7c.jpg",
           "url": "https://link.coupang.com/a/ivBWZmV9BA",
           "_ts": 1794129678.4738681
-        },
-        {
-          "name": "올바른건강식품 곡물효소 프로바이오틱스 블랙, 270g, 1개, 270g × 1개",
-          "price": "8,230원",
-          "discount_rate": 55,
-          "priceAt": "11.08 18:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/21/10/8/4ecfdc54-65be-4557-863f-186b00053a24.jpg",
-          "url": "https://link.coupang.com/a/ivBg1lwunQ",
-          "_ts": 1794129111.717654
         }
       ]
     },
@@ -1373,6 +1364,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "구이삼 소곱창 모둠 한판, 610g, 1팩",
+          "price": "11,440원",
+          "discount_rate": 62,
+          "priceAt": "11.13 18:14",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/ODM4ZGY1/QU1RZjZQZHpoaTRNTE85enpIYjBabUgyaUYrZXdadjVPVTdZKzZRc0lnVGI.png",
+          "url": "https://toss.shopping/_m/NTQfNbXt",
+          "_ts": 1794561276.584404,
+          "_product_id": "2179426111"
+        },
         {
           "name": "맘스럽 플로럴 액체세제, 2.5L, 5개",
           "price": "6,890원",
