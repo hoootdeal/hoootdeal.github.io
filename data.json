@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아잇팜 어린이 홍삼스틱 6년근 키즈홍삼 어린이홍삼 30포, 30정, 1개",
+          "price": "10,890원",
+          "discount_rate": 29,
+          "priceAt": "11.13 13:28",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/a5cb/b421e12006b32260c15e55ee63f57bbd95c8900e77a7381066df08a78c96.jpg",
+          "url": "https://link.coupang.com/a/iDzycPX2S4",
+          "_ts": 1794544113.8559082
+        },
+        {
           "name": "닥터포헤어 정수리 냄새 노세범 쿨링 스프레이, 1개, 100ml",
           "price": "4,240원",
           "discount_rate": 62,
@@ -2391,16 +2400,6 @@
           "url": "https://toss.shopping/_m/PAXkgoFa",
           "_ts": 1794112425.693376,
           "_product_id": "145359961"
-        },
-        {
-          "name": "클리어 미용티슈, 2겹, 300매, 6개",
-          "price": "6,000원",
-          "discount_rate": 59,
-          "priceAt": "11.08 12:51",
-          "image": "https://shopping.toss.im/live/temp/2026-04-30/346efa4b-0a91-4c9b-836e-49337dfc4eee.jpeg",
-          "url": "https://toss.shopping/_m/91i5OrU1",
-          "_ts": 1794109914.956599,
-          "_product_id": "1776020737"
         }
       ]
     },
