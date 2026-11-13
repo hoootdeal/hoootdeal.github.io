@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "홈스타 냄새먹는 냉장고용 탈취제 유칼립투스 본품, 420g, 1개",
+          "price": "3,990원",
+          "discount_rate": 32,
+          "priceAt": "11.13 11:46",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/01/16/14/0/5a5cd35e-8093-4332-a812-bf6e384c92db.jpg",
+          "url": "https://link.coupang.com/a/iDseLSjF0u",
+          "_ts": 1794537974.227642
+        },
+        {
           "name": "프로메가 알티지 오메가3 듀얼 플러스, 60정, 1개, 60정 × 1개",
           "price": "8,900원",
           "discount_rate": 31,
@@ -1347,24 +1356,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1187597674234970-c2a271c4-846b-481d-aea9-e578222e062e.png",
           "url": "https://link.coupang.com/a/ivh1018Bum",
           "_ts": 1794112955.625628
-        },
-        {
-          "name": "비비드키친 저칼로리 머스타드 소스, 280g, 2개",
-          "price": "3,640원",
-          "discount_rate": 54,
-          "priceAt": "11.08 11:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/98219807434579-75d6affc-8769-41e1-b1a7-9b601deeac82.jpg",
-          "url": "https://link.coupang.com/a/iu8NKmxrb2",
-          "_ts": 1794105203.095978
-        },
-        {
-          "name": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러, 아메시스트 핑크, 887ml, 1개",
-          "price": "19,850원",
-          "discount_rate": 38,
-          "priceAt": "11.08 11:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/152202746386245-bdee3efe-d148-4058-9efc-a7c4b3bd1d9b.png",
-          "url": "https://link.coupang.com/a/iu6BzpYXrE",
-          "_ts": 1794103357.931563
         }
       ]
     },
