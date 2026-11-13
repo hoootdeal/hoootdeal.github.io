@@ -1374,6 +1374,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "리빙아트 프로벨라 실리콘 조리도구, 그레이, 6종, 1세트",
+          "price": "11,900원",
+          "discount_rate": 82,
+          "priceAt": "11.14 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/YzQ5MTRk/QUxLR3pyU3pNL0xHMlR6YkxOYzhlYVJiUzdMVFQzbXRiZGFTVWx2a3RDNWI.png",
+          "url": "https://toss.shopping/_m/FKa88yai",
+          "_ts": 1794582141.5603251,
+          "_flash": true,
+          "_product_id": "2636685663"
+        },
+        {
+          "name": "백년본가 통참깨 저온압착 옛날 방앗간 참기름, 350ml, 3개",
+          "price": "18,700원",
+          "discount_rate": 68,
+          "priceAt": "11.14 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-07-29/3cd2f86c-b89c-40b6-a41d-c39d2663804b.png",
+          "url": "https://toss.shopping/_m/bCAzllir",
+          "_ts": 1794582141.560291,
+          "_flash": true,
+          "_product_id": "615268755"
+        },
+        {
+          "name": "맛생각 전통 청국장, 600g, 4개",
+          "price": "14,000원",
+          "discount_rate": 61,
+          "priceAt": "11.14 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-08-14/d9d3fda3-adac-49d0-83c1-8771f663cb67.jpeg",
+          "url": "https://toss.shopping/_m/1pE13cy3",
+          "_ts": 1794582141.560241,
+          "_flash": true,
+          "_product_id": "2609408381"
+        },
+        {
           "name": "연세두유 뼈를 생각한 고칼슘 두유 칼마디, 190ml, 검은콩 24개 + 호두아몬드 24개, 1세트",
           "price": "17,300원",
           "discount_rate": 56,
