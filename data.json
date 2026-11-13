@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이디야커피연구소 아이스 아메리카노, 1L, 6개",
+          "price": "11,940원",
+          "discount_rate": 32,
+          "priceAt": "11.14 07:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/64977849450463-d60cfa5f-2296-4c40-95aa-2c57ab40d6bd.jpg",
+          "url": "https://link.coupang.com/a/iENpv2DN24",
+          "_ts": 1794607807.767523
+        },
+        {
           "name": "에코맘의산골이유식 산골쌀참, 시금치, 25g, 2개",
           "price": "2,700원",
           "discount_rate": 44,
@@ -1356,15 +1365,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/b094300e-cf80-42f1-abcf-70d23444e572196333407291768462.png",
           "url": "https://link.coupang.com/a/iwvXGdkTlc",
           "_ts": 1794176705.804478
-        },
-        {
-          "name": "템포 내추럴 순면 입는 오버나이트, Free Size, 5개입, 1개",
-          "price": "2,240원",
-          "discount_rate": 47,
-          "priceAt": "11.09 07:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/6306410275685-6ab506db-6b7e-475b-8025-d72666238684.png",
-          "url": "https://link.coupang.com/a/iwuRNSuZzM",
-          "_ts": 1794175787.559943
         }
       ]
     },
