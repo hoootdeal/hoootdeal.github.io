@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "밀라 마스카포네 치즈, 250g, 1개입, 1개",
+          "price": "5,500원",
+          "discount_rate": 31,
+          "priceAt": "11.13 16:43",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/42475291036571-490b5dcd-8f9a-4317-8307-f4ca0b60cd4a.jpg",
+          "url": "https://link.coupang.com/a/iDNvaIyllk",
+          "_ts": 1794555825.734875
+        },
+        {
           "name": "위칙 멀티플 주방세제, 500ml, 3개",
           "price": "13,200원",
           "discount_rate": 40,
@@ -1356,15 +1365,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/317352741187637-da45a997-01bc-4df6-98be-363920f7d29f.jpg",
           "url": "https://link.coupang.com/a/ivu81A46OO",
           "_ts": 1794123964.036992
-        },
-        {
-          "name": "포카칩 오리지널, 66g, 4개, 66g × 4개",
-          "price": "2,190원",
-          "discount_rate": 58,
-          "priceAt": "11.08 16:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2532576284644573-43fd403e-e1c1-44a7-a2ec-fe709c300e3c.jpg",
-          "url": "https://link.coupang.com/a/ivuz8eJMoC",
-          "_ts": 1794123491.708521
         }
       ]
     },
@@ -2373,16 +2373,6 @@
           "url": "https://toss.shopping/_m/3AAWZWEe",
           "_ts": 1794127604.3737211,
           "_product_id": "8638689"
-        },
-        {
-          "name": "봉평 메밀국수, 1kg, 3개",
-          "price": "13,760원",
-          "discount_rate": 61,
-          "priceAt": "11.08 16:29",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/YTkxZTdi/ZFl5VDhXNGJHczd6OGN3eFoweXhCaWt4WGl6Mk1jRzhHd1UrRnRoMHQ4az0.png",
-          "url": "https://toss.shopping/_m/D7rpsGVl",
-          "_ts": 1794122942.459635,
-          "_product_id": "2403043187"
         }
       ]
     },
