@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "큐원 홈메이드 홈메이드 계란빵믹스, 50g, 4개",
+          "price": "3,960원",
+          "discount_rate": 50,
+          "priceAt": "11.14 07:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/468745489211590-dc60bc41-5054-45d8-bb59-45f0f95a5aa1.jpg",
+          "url": "https://link.coupang.com/a/iEPqbTHXiK",
+          "_ts": 1794609494.9709299
+        },
+        {
           "name": "이디야커피연구소 아이스 아메리카노, 1L, 6개",
           "price": "11,940원",
           "discount_rate": 32,
@@ -1356,15 +1365,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/6894/968640094a3d2effd2946a6de80896556d81574d26c917ccce5ea333113e.jpg",
           "url": "https://link.coupang.com/a/iwwUijmgrA",
           "_ts": 1794177500.619089
-        },
-        {
-          "name": "오투액션 프로 분말형 표백제, 650g, 2개",
-          "price": "8,320원",
-          "discount_rate": 54,
-          "priceAt": "11.09 07:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/b094300e-cf80-42f1-abcf-70d23444e572196333407291768462.png",
-          "url": "https://link.coupang.com/a/iwvXGdkTlc",
-          "_ts": 1794176705.804478
         }
       ]
     },
