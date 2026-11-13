@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하기스 2025 네이처메이드 밴드형 기저귀 남여공용, 2단계, 58매, 2단계 × 58매",
+          "price": "19,000원",
+          "discount_rate": 52,
+          "priceAt": "11.13 10:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/253104256728657-9736fadb-5085-4583-9a98-06484aecfc9b.jpg",
+          "url": "https://link.coupang.com/a/iDlwzKOKZ2",
+          "_ts": 1794532338.564057
+        },
+        {
           "name": "큐원 우리아이 영양쿠키믹스, 250g, 2개",
           "price": "5,680원",
           "discount_rate": 23,
@@ -1356,24 +1365,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/387603625410996-2726a094-aca1-4693-adcb-032be9b0599c.jpg",
           "url": "https://link.coupang.com/a/iu4fX3T21Q",
           "_ts": 1794101388.3101099
-        },
-        {
-          "name": "더담은 적두, 2kg, 1개",
-          "price": "17,960원",
-          "discount_rate": 55,
-          "priceAt": "11.08 10:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2021/11/24/16/6/760d605d-44f4-4622-bb03-ab59ae0154ea.jpg",
-          "url": "https://link.coupang.com/a/iu2w8tnWI8",
-          "_ts": 1794099941.958753
-        },
-        {
-          "name": "우리차 콘푸레이크 천마차, 18g, 110개입, 1개",
-          "price": "11,500원",
-          "discount_rate": 25,
-          "priceAt": "11.08 09:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/86795193934867-6f4bfc2c-de28-4fb8-9e98-f45434c6bab7.jpg",
-          "url": "https://link.coupang.com/a/iu17VzVAzs",
-          "_ts": 1794099599.5289202
         }
       ]
     },
