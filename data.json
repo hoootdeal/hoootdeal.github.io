@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "티젠 알파CD 콤부차 자두, 5g, 1개, 50개입",
+          "price": "10,960원",
+          "discount_rate": 31,
+          "priceAt": "11.13 15:50",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/02/26/18/5/4ba6e900-34ae-4399-9e5c-b9242e47b9a6.jpg",
+          "url": "https://link.coupang.com/a/iDJI2V26JE",
+          "_ts": 1794552655.484155
+        },
+        {
           "name": "이니스프리 New 비자 바하 트러블 클렌징 폼, 150g, 2개",
           "price": "6,530원",
           "discount_rate": 38,
@@ -1356,15 +1365,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/285871019493352-6685143e-67d4-4336-a72c-22c68d506054.jpg",
           "url": "https://link.coupang.com/a/ivrstBpulU",
           "_ts": 1794120873.610804
-        },
-        {
-          "name": "오뚜기 진짬뽕 컵 75g, 6개, 6개",
-          "price": "4,490원",
-          "discount_rate": 35,
-          "priceAt": "11.08 15:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/199054702035392-5c0e0d78-6bba-4217-aae3-5ad11ca3cac6.jpg",
-          "url": "https://link.coupang.com/a/ivqm9lxWyy",
-          "_ts": 1794119958.336019
         }
       ]
     },
@@ -2381,16 +2381,6 @@
           "url": "https://toss.shopping/_m/D7rpsGVl",
           "_ts": 1794122942.459635,
           "_product_id": "2403043187"
-        },
-        {
-          "name": "맥스앤맥스 냉동밥 소분 밀폐용기, 350ml, 베이지+그린, 8개",
-          "price": "6,900원",
-          "discount_rate": 65,
-          "priceAt": "11.08 15:20",
-          "image": "https://shopping.toss.im/live/temp/2026-06-11/44ade68f-83cc-49ec-a140-2d58f1c96da5.png",
-          "url": "https://toss.shopping/_m/ThAmLrq9",
-          "_ts": 1794118820.7446258,
-          "_product_id": "2225788075"
         }
       ]
     },
