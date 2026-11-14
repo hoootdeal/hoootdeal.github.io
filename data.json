@@ -1284,15 +1284,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/31129954325552-68b3f8e8-bf74-46c9-9bd0-6cdb624578a9.jpg",
           "url": "https://link.coupang.com/a/ixoZqhCaOa",
           "_ts": 1794222908.009341
-        },
-        {
-          "name": "자일리톨팝 파우치 오리지널, 1개, 150g",
-          "price": "7,730원",
-          "discount_rate": 32,
-          "priceAt": "11.09 19:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/10/15/15/0/5b744694-63f2-4458-a497-3aaec7c1a5d9.jpg",
-          "url": "https://link.coupang.com/a/ixlQVi2vhk",
-          "_ts": 1794220273.6812391
         }
       ]
     },
@@ -1301,6 +1292,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "교동 사골곰탕, 500g, 18개",
+          "price": "13,000원",
+          "discount_rate": 75,
+          "priceAt": "11.14 19:33",
+          "image": "https://shopping.toss.im/live/taca/ai/YTYwZmFj/QUtrN2N2RTVLVWJaOGVuNDJUTWtnOUZrcEoyWmpKUVRhMzVVYmlXNVVwSHk.png",
+          "url": "https://toss.shopping/_m/5HYn5sUz",
+          "_ts": 1794652422.457922,
+          "_product_id": "161310659"
+        },
         {
           "name": "후디스 소화 편한 우유 오리지널, 190ml, 24개",
           "price": "12,000원",
