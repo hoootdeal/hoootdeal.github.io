@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크라운 레트로 우체통 과자선물세트, 과자 9종, 6세트, 과자 9종 × 6세트",
+          "price": "51,160원",
+          "discount_rate": 35,
+          "priceAt": "11.14 09:30",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/c6668e37-3b97-438d-883f-c4c553ac53203277066463290896616.png",
+          "url": "https://link.coupang.com/a/iEXtD0xEU8",
+          "_ts": 1794616259.503773
+        },
+        {
           "name": "마이노멀 밀가루 ZERO 두부면, 180g, 5개, 180g × 5개",
           "price": "8,330원",
           "discount_rate": 33,
@@ -1356,15 +1365,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/299767599959398-c262a9c9-aec1-44ad-9dbd-fd74d2a23df6.png",
           "url": "https://link.coupang.com/a/iwE0VbuS4W",
           "_ts": 1794184306.816318
-        },
-        {
-          "name": "비안 스마트폰 터치 방한 스포츠 장갑, 블랙, XL, 1개",
-          "price": "2,390원",
-          "discount_rate": 47,
-          "priceAt": "11.09 08:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1846439411151012-ee1905b2-b89a-4468-983e-8f688599b6c7.png",
-          "url": "https://link.coupang.com/a/iwB43jWivA",
-          "_ts": 1794181845.212553
         }
       ]
     },
