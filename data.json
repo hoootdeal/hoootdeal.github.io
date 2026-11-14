@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "꾸버스 접이식 사각 차콜스타터, 16 x 16 x ..., 1개, 16 x 16 x 29 cm",
+          "price": "10,500원",
+          "discount_rate": 39,
+          "priceAt": "11.14 13:37",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2891965881020318-f2c4e892-812f-415d-ac61-f7d229342788.jpg",
+          "url": "https://link.coupang.com/a/iFe6IdmJEG",
+          "_ts": 1794631060.206186
+        },
+        {
           "name": "코스알엑스 더 나이아신아마이드 15 세럼, 20ml, 1개, 20ml × 1개",
           "price": "11,100원",
           "discount_rate": 31,
@@ -1302,15 +1311,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/153090359647013-0b8aef4d-a86d-458a-8345-9713d0ad0324.jpg",
           "url": "https://link.coupang.com/a/iwYSgrhB3Q",
           "_ts": 1794200983.048355
-        },
-        {
-          "name": "광식이농장 완숙 토마토, 1kg, 1팩, 1kg × 1팩",
-          "price": "3,650원",
-          "discount_rate": 29,
-          "priceAt": "11.09 13:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/86467865193944-be61a333-eaf7-4313-bbf4-855acd3c3518.jpg",
-          "url": "https://link.coupang.com/a/iwVeNZYhcO",
-          "_ts": 1794197927.9545999
         }
       ]
     },
