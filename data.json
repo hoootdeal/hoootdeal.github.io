@@ -1293,15 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/94445873958707-34e0a71f-74ba-445c-8683-e988da2a7103.jpg",
           "url": "https://link.coupang.com/a/ixwyPmGCTk",
           "_ts": 1794229265.359892
-        },
-        {
-          "name": "엠앤엠즈 피넛 펀사이즈 초콜릿, 175.5g, 2개, 175.5g × 2개",
-          "price": "7,820원",
-          "discount_rate": 43,
-          "priceAt": "11.09 21:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/84743568606021-c755de9f-b511-4e77-8eab-e64320f6d309.jpg",
-          "url": "https://link.coupang.com/a/ixsMAPvZ12",
-          "_ts": 1794226092.5715609
         }
       ]
     },
@@ -1310,6 +1301,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "김규흔 한과 명인 꿀약과 박스형, 400g, 1박스",
+          "price": "7,010원",
+          "discount_rate": 55,
+          "priceAt": "11.14 21:24",
+          "image": "https://shopping.toss.im/live/taca/ai/MDAxNWU0/WXF3WVdVNGpOVTQ2czZycHE1eU9uOXA3eTdYbzU0czFxc2c0bEtjam5WZz0.png",
+          "url": "https://toss.shopping/_m/broSrld6",
+          "_ts": 1794659083.521667,
+          "_product_id": "438280501"
+        },
         {
           "name": "맛춤상회 토시살, 200g, 2팩 + 안창살, 200g, 3팩",
           "price": "23,500원",
