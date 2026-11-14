@@ -1293,15 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/84743568606021-c755de9f-b511-4e77-8eab-e64320f6d309.jpg",
           "url": "https://link.coupang.com/a/ixsMAPvZ12",
           "_ts": 1794226092.5715609
-        },
-        {
-          "name": "석관동떡볶이 치즈쭈욱 (밀떡) (냉동), 420g, 2개",
-          "price": "8,680원",
-          "discount_rate": 24,
-          "priceAt": "11.09 20:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/31129954325552-68b3f8e8-bf74-46c9-9bd0-6cdb624578a9.jpg",
-          "url": "https://link.coupang.com/a/ixoZqhCaOa",
-          "_ts": 1794222908.009341
         }
       ]
     },
@@ -1310,6 +1301,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "맛춤상회 토시살, 200g, 2팩 + 안창살, 200g, 3팩",
+          "price": "23,500원",
+          "discount_rate": 52,
+          "priceAt": "11.14 20:44",
+          "image": "https://shopping.toss.im/live/taca/ai/ZmZkMWNm/SCtsYVZ0YW5SNGw1bXRBMk9kWUtRN1N4UEttcWRrbFNpOUt3ZE5QeFJocz0.png",
+          "url": "https://toss.shopping/_m/fJ78p0n7",
+          "_ts": 1794656686.234698,
+          "_product_id": "711455319"
+        },
         {
           "name": "교동 사골곰탕, 500g, 18개",
           "price": "13,000원",
