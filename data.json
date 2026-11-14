@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "코스알엑스 더 나이아신아마이드 15 세럼, 20ml, 1개, 20ml × 1개",
+          "price": "11,100원",
+          "discount_rate": 31,
+          "priceAt": "11.14 12:52",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/145d/4cd6ffbf602d22c4dc267895124106da27d3797ff766b96628e7eae6a85b.jpg",
+          "url": "https://link.coupang.com/a/iFbQT1XDIO",
+          "_ts": 1794628328.715863
+        },
+        {
           "name": "러그 고용량 납작 플러그 접지 멀티탭 3구 LUG-B-S03K-1.5, 퍼플, 1개, 50cm",
           "price": "7,500원",
           "discount_rate": 34,
@@ -1302,24 +1311,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/86467865193944-be61a333-eaf7-4313-bbf4-855acd3c3518.jpg",
           "url": "https://link.coupang.com/a/iwVeNZYhcO",
           "_ts": 1794197927.9545999
-        },
-        {
-          "name": "네스프레소 캡슐 커피, 5.3g, 10개입, 1개",
-          "price": "5,790원",
-          "discount_rate": 25,
-          "priceAt": "11.09 12:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/06/26/15/8/fc095c3f-7019-4109-9e79-5300437d41fc.png",
-          "url": "https://link.coupang.com/a/iwRuq9wMtU",
-          "_ts": 1794194782.2904918
-        },
-        {
-          "name": "동구밭 설거지 워싱바, 150g, 1개, 150g × 1개",
-          "price": "3,010원",
-          "discount_rate": 50,
-          "priceAt": "11.09 12:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/154414666561050-c64bd8fe-4eb9-4f07-8c3f-2a9962c31a27.png",
-          "url": "https://link.coupang.com/a/iwRafKLwg8",
-          "_ts": 1794194508.710708
         }
       ]
     },
@@ -2345,16 +2336,6 @@
           "url": "https://toss.shopping/_m/lFK4KHid",
           "_ts": 1794202224.9878201,
           "_product_id": "146053115"
-        },
-        {
-          "name": "골드럽 리프레쉬 섬유탈취제 자스민블루, 500ml, 3개",
-          "price": "7,480원",
-          "discount_rate": 65,
-          "priceAt": "11.09 12:39",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTFkMWIy/QVBzTHFjK2c3cVFIMnlHbCtMZjhXSnc5QXYrQy8rTFE5b0FmUUI5VkJuOWs.png",
-          "url": "https://toss.shopping/_m/BWBJVJ57",
-          "_ts": 1794195567.722552,
-          "_product_id": "1617612285"
         }
       ]
     },
