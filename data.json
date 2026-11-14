@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "엠보그 모짜렐라 슬라이스 치즈, 150g, 1개, 1개입",
+          "price": "3,580원",
+          "discount_rate": 47,
+          "priceAt": "11.14 17:33",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/915362171954671-a8a36e9f-7607-4134-bd53-ffac52682acb.jpg",
+          "url": "https://link.coupang.com/a/iFvV9REU1s",
+          "_ts": 1794645192.447547
+        },
+        {
           "name": "이금기 중화 해선장 스파우트팩, 2kg, 1개, 2kg × 1개",
           "price": "11,100원",
           "discount_rate": 27,
@@ -1275,24 +1284,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1351016630454358-1ab62844-fd18-4c02-9c5e-8bd8b5b130b4.jpg",
           "url": "https://link.coupang.com/a/ixgqhIcz3A",
           "_ts": 1794215712.477809
-        },
-        {
-          "name": "오뚜기 진라면 약간매운맛 120g, 5개",
-          "price": "2,600원",
-          "discount_rate": 28,
-          "priceAt": "11.09 17:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/05/20/17/6/ce6b9a20-fda0-434c-bd57-d7dce9284033.jpg",
-          "url": "https://link.coupang.com/a/ixdcCOjQNU",
-          "_ts": 1794213010.557175
-        },
-        {
-          "name": "롯데웰푸드 슈프림치킨 (냉동), 330g, 1개",
-          "price": "2,990원",
-          "discount_rate": 40,
-          "priceAt": "11.09 17:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/vdba0uuz/9bf517f418b94e8d8520548e96c25add.jpg",
-          "url": "https://link.coupang.com/a/ixbyQE1Fam",
-          "_ts": 1794211632.773241
         }
       ]
     },
@@ -2308,16 +2299,6 @@
           "url": "https://toss.shopping/_m/nEeIyN6A",
           "_ts": 1794214847.827543,
           "_product_id": "15727887"
-        },
-        {
-          "name": "셰프초이스 육즙가득 도톰도톰 떡갈비, 750g, 1개",
-          "price": "9,320원",
-          "discount_rate": 37,
-          "priceAt": "11.09 16:51",
-          "image": "https://shopping.toss.im/live/taca/ai/MzA3OTI4/QUlSRzExVE02VDdEeGN6NnhoczduQmI3NFlxU05nYnlISWhaUmxKRnRzbXA.png",
-          "url": "https://toss.shopping/_m/Tt6AvWx4",
-          "_ts": 1794210687.5972722,
-          "_product_id": "106834445"
         }
       ]
     },
