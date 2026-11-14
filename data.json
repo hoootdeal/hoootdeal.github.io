@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "백설 제로 칼로리 알룰로스, 700g, 1개, 700g × 1개",
+          "price": "5,100원",
+          "discount_rate": 33,
+          "priceAt": "11.14 15:35",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/62105761744726-d96db768-6b61-4d16-b700-7df2043e5cf1.jpg",
+          "url": "https://link.coupang.com/a/iFnvenm0No",
+          "_ts": 1794638110.601341
+        },
+        {
           "name": "만토바 엑스트라버진 올리브오일 스프레이, 200ml, 2개, 200ml × 2개",
           "price": "15,980원",
           "discount_rate": 33,
@@ -1284,24 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/01/15/17/8/118e1954-f840-4d93-809f-f4607d417faf.jpg",
           "url": "https://link.coupang.com/a/iw5QUiKCPc",
           "_ts": 1794206838.997728
-        },
-        {
-          "name": "쉐푸드 고추마요치킨 (냉동), 330g, 1개",
-          "price": "2,990원",
-          "discount_rate": 40,
-          "priceAt": "11.09 15:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/ji6bevht/a37c0ca6f0494046937ad7bef471a62a.jpg",
-          "url": "https://link.coupang.com/a/iw4VPXIinA",
-          "_ts": 1794206067.5766778
-        },
-        {
-          "name": "페이스팩토리 UV 충전형 전동 발각질제거기, 혼합색상, FF-17",
-          "price": "10,890원",
-          "discount_rate": 52,
-          "priceAt": "11.09 15:19",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/631966843236979-687d1309-76da-4789-aa75-b10909ab771f.jpg",
-          "url": "https://link.coupang.com/a/iw3S3rgSya",
-          "_ts": 1794205190.674913
         }
       ]
     },
