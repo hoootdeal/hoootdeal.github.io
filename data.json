@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "삐아 레디 투 웨어 아이 새도우, 08모태지적, 1개",
+          "price": "2,600원",
+          "discount_rate": 36,
+          "priceAt": "11.14 21:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/f15a/dfa6596a5193618c9d8bb8094f3c7aeb82909a97a0f038ac8735bbd37f29.jpg",
+          "url": "https://link.coupang.com/a/iFOIOvAjp6",
+          "_ts": 1794660966.61833
+        },
+        {
           "name": "우리차 17곡 안동 마차, 15g, 50개입, 1개",
           "price": "6,180원",
           "discount_rate": 28,
@@ -2308,16 +2317,6 @@
           "_ts": 1794236544.6150882,
           "_flash": true,
           "_product_id": "13499979"
-        },
-        {
-          "name": "베베앙 시그니처 물티슈 캡형, 100매, 10팩",
-          "price": "9,900원",
-          "discount_rate": 55,
-          "priceAt": "11.09 21:32",
-          "image": "https://shopping.toss.im/live/temp/2026-06-09/3d168097-a6da-4f99-9e12-5b8d3121e04e.jpeg",
-          "url": "https://toss.shopping/_m/dU2qAudq",
-          "_ts": 1794227524.2714791,
-          "_product_id": "13017669"
         }
       ]
     },
