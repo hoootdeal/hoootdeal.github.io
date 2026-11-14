@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뗄 차슈 (냉장), 500g, 1개",
+          "price": "8,410원",
+          "discount_rate": 24,
+          "priceAt": "11.14 20:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/oporxuwh/3a1f7c81a9514594a4ad673686154342.jpg",
+          "url": "https://link.coupang.com/a/iFHui3upwG",
+          "_ts": 1794654891.512989
+        },
+        {
           "name": "양반 볶음김치, 80g, 8개",
           "price": "6,720원",
           "discount_rate": 32,
@@ -2298,28 +2307,6 @@
           "url": "https://toss.shopping/_m/dU2qAudq",
           "_ts": 1794227524.2714791,
           "_product_id": "13017669"
-        },
-        {
-          "name": "할리스 시그니처 아메리카노, 550ml, 24개",
-          "price": "23,700원",
-          "discount_rate": 69,
-          "priceAt": "11.09 20:12",
-          "image": "https://shopping.toss.im/live/taca/ai/MGZkYjE2/Sk1aZUQrbHcxUGpHUERqSHp3dTdoelphYXo0Y2ZzT1dQdFRsYWMya1VuST0.png",
-          "url": "https://toss.shopping/_m/PScsPEmj",
-          "_ts": 1794222749.637009,
-          "_product_id": "106741129",
-          "sold_out": true,
-          "_sold_at": 1794652374.0
-        },
-        {
-          "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
-          "price": "9,600원",
-          "discount_rate": 65,
-          "priceAt": "11.09 19:52",
-          "image": "https://shopping.toss.im/live/temp/2026-07-03/6b083d0c-c74f-467a-9ec8-a46fe748c635.png",
-          "url": "https://toss.shopping/_m/PMmtWFLt",
-          "_ts": 1794221555.860103,
-          "_product_id": "2401832945"
         }
       ]
     },
