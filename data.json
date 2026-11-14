@@ -1311,6 +1311,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "냉동 삶은 찰옥수수, 특대, 220g, 10개",
+          "price": "8,880원",
+          "discount_rate": 65,
+          "priceAt": "11.15 08:05",
+          "image": "https://shopping.toss.im/live/temp/2026-11-09/2af06ea5-4022-4210-a363-6eb6c4fd3be6.png",
+          "url": "https://toss.shopping/_m/p1NvkRm9",
+          "_ts": 1794697520.5968199,
+          "_flash": true,
+          "_product_id": "2494969283"
+        },
+        {
+          "name": "뉴트리디데이 엑스트라 버진 올리브유, 1025mg, 30캡슐, 3개",
+          "price": "12,290원",
+          "discount_rate": 88,
+          "priceAt": "11.15 08:05",
+          "image": "https://shopping.toss.im/live/temp/2026-05-22/409a57de-0c27-4adc-a43e-09fbc189a5f2.jpeg",
+          "url": "https://toss.shopping/_m/1p7uwFaw",
+          "_ts": 1794697520.596787,
+          "_flash": true,
+          "_product_id": "279807607"
+        },
+        {
+          "name": "오감식탁 더 진한 육수, 3g, 65정, 2개",
+          "price": "15,760원",
+          "discount_rate": 58,
+          "priceAt": "11.15 08:05",
+          "image": "https://shopping.toss.im/live/temp/2025-09-16/fa3a3aef-3be4-4839-95cd-03d886f3fe89.jpeg",
+          "url": "https://toss.shopping/_m/525tGxGy",
+          "_ts": 1794697520.596745,
+          "_flash": true,
+          "_product_id": "200571871"
+        },
+        {
           "name": "아임에코 가벼운샘 생수, 1L, 24개",
           "price": "7,200원",
           "discount_rate": 48,
