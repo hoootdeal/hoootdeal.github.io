@@ -1293,6 +1293,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "MRC 국대 프리미엄 어묵탕, 230g, 5팩",
+          "price": "11,430원",
+          "discount_rate": 50,
+          "priceAt": "11.14 18:08",
+          "image": "https://shopping.toss.im/live/taca/ai/NThjY2Qw/WXphY3gyVDJjVEZKRTA0WG1kYVRzQ3h6MHNNMDJreHMwTW96bWtzS1lTWT0.png",
+          "url": "https://toss.shopping/_m/jPn4sh27",
+          "_ts": 1794647319.547606,
+          "_product_id": "1044461245"
+        },
+        {
           "name": "리르 PDRN 리쥬딘 크림, 10g, 2개",
           "price": "9,600원",
           "discount_rate": 76,
@@ -2289,16 +2299,6 @@
           "url": "https://toss.shopping/_m/LKu090Bj",
           "_ts": 1794217413.660157,
           "_product_id": "2311450689"
-        },
-        {
-          "name": "가성비가브랜드다 더 강력한 냉장고 탈취제, 참숯, 300g, 4개",
-          "price": "7,180원",
-          "discount_rate": 75,
-          "priceAt": "11.09 18:00",
-          "image": "https://shopping.toss.im/live/product/1405123/b711c139-bc7a-476c-8e7a-dadcca31f73b.jpeg",
-          "url": "https://toss.shopping/_m/nEeIyN6A",
-          "_ts": 1794214847.827543,
-          "_product_id": "15727887"
         }
       ]
     },
