@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데웰푸드 애니타임 민트, 92g, 10개, 92g × 10개",
+          "price": "9,970원",
+          "discount_rate": 29,
+          "priceAt": "11.14 16:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/316751973750103-80b3b75d-6ae8-4294-a854-3a0b455d85ff.jpg",
+          "url": "https://link.coupang.com/a/iFqmBXMXhk",
+          "_ts": 1794640514.684156
+        },
+        {
           "name": "백설 제로 칼로리 알룰로스, 700g, 1개, 700g × 1개",
           "price": "5,100원",
           "discount_rate": 33,
