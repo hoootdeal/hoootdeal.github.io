@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "허브마리 1848 온천수 바디로션 제주동백, 500ml, 1개",
+          "price": "4,130원",
+          "discount_rate": 50,
+          "priceAt": "11.14 11:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/30641924263012-cbbabe05-248b-4620-876c-970f29f07b1f.jpg",
+          "url": "https://link.coupang.com/a/iE4AGf8tpI",
+          "_ts": 1794622232.548218
+        },
+        {
           "name": "밀크바오밥 퍼퓸 바디워시 화이트머스크, 500ml, 3개",
           "price": "16,740원",
           "discount_rate": 57,
@@ -1329,24 +1338,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/87496084171999-6e3518ae-3bb3-4a88-97fb-f497952a7450.jpg",
           "url": "https://link.coupang.com/a/iwMMlSYNHw",
           "_ts": 1794190825.753804
-        },
-        {
-          "name": "서울우유 A2플러스 우유, 2개, 1.7L",
-          "price": "8,290원",
-          "discount_rate": 32,
-          "priceAt": "11.09 10:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/dd523728-6840-4d30-9230-33bac062a207838123489467947523.png",
-          "url": "https://link.coupang.com/a/iwK17dLVjU",
-          "_ts": 1794189360.8303528
-        },
-        {
-          "name": "삼진어묵 한끼든든 어묵탕 매운맛 1~2인분 (냉동), 245g, 2개, 245g × 2개",
-          "price": "4,950원",
-          "discount_rate": 37,
-          "priceAt": "11.09 10:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/96737662757118-da128da8-59cc-4473-ae28-2efa728e4306.jpg",
-          "url": "https://link.coupang.com/a/iwKuljsBK8",
-          "_ts": 1794188903.813694
         }
       ]
     },
