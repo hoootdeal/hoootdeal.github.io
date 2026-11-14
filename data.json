@@ -1302,15 +1302,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/axn8smsb/95f4366e0878448cad2a62bb853f94ba.jpg",
           "url": "https://link.coupang.com/a/iyglQp8AqO",
           "_ts": 1794267711.761129
-        },
-        {
-          "name": "재미스 잼있는 사과쿠키, 16g, 200개",
-          "price": "16,560원",
-          "discount_rate": 40,
-          "priceAt": "11.10 07:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/18665383305086-23b10377-7018-4576-b8a7-0d4164f569a7.jpg",
-          "url": "https://link.coupang.com/a/iyc7LMXFw4",
-          "_ts": 1794265002.1052039
         }
       ]
     },
@@ -1319,6 +1310,39 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "아임에코 가벼운샘 생수, 1L, 24개",
+          "price": "7,200원",
+          "discount_rate": 48,
+          "priceAt": "11.15 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-08-06/3b268136-a3b6-4290-a446-8d4865f0b095.png",
+          "url": "https://toss.shopping/_m/xClep07i",
+          "_ts": 1794697491.0794282,
+          "_flash": true,
+          "_product_id": "78000661"
+        },
+        {
+          "name": "농협안심 탄탄대로쌀, 햅쌀, 상등급, 당일도정, 단일품종, 새청무, 10kg, 1개",
+          "price": "29,290원",
+          "discount_rate": 47,
+          "priceAt": "11.15 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-10-19/d133c052-8b15-4dae-8938-737e071a5b18.jpeg",
+          "url": "https://toss.shopping/_m/FrZumZG",
+          "_ts": 1794697491.079403,
+          "_flash": true,
+          "_product_id": "2688242219"
+        },
+        {
+          "name": "G7 커피 퓨어블랙 라이트, 0.9g, 110개입, 1개",
+          "price": "9,050원",
+          "discount_rate": 63,
+          "priceAt": "11.15 08:04",
+          "image": "https://shopping.toss.im/live/taca/ai/MWFiNTFm/QU1zbEs3VzBtK3piUzJTYmEzS1VGNUd1VzJabWxUdnBUbWh1bHJFRzBHcE8.png",
+          "url": "https://toss.shopping/_m/rcvltl8i",
+          "_ts": 1794697491.079366,
+          "_flash": true,
+          "_product_id": "138286213"
+        },
         {
           "name": "순살 양념 목살구이, 600g, 3개",
           "price": "16,900원",
@@ -2260,72 +2284,6 @@
           "url": "https://toss.shopping/_m/DDn7xhWj",
           "_ts": 1794272593.095863,
           "_product_id": "2656113063"
-        },
-        {
-          "name": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
-          "price": "6,900원",
-          "discount_rate": 77,
-          "priceAt": "11.10 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-04-07/020b76ca-3a1a-45e9-ad26-e430ccf4c508.jpeg",
-          "url": "https://toss.shopping/_m/5abj1peg",
-          "_ts": 1794265489.230695,
-          "_flash": true,
-          "_product_id": "31367569"
-        },
-        {
-          "name": "상온발효 그릭 요거트 스타터 플레인, 2g, 10포, 6박스",
-          "price": "15,900원",
-          "discount_rate": 77,
-          "priceAt": "11.10 08:04",
-          "image": "https://shopping.toss.im/live/temp/2025-12-03/60a596b2-88c3-4f01-8e28-a55435b3dc4f.jpeg",
-          "url": "https://toss.shopping/_m/Vu385tvo",
-          "_ts": 1794265489.230664,
-          "_flash": true,
-          "_product_id": "363977187"
-        },
-        {
-          "name": "배스킨라빈스 베리베리 스트로베리 우유 190ml, 24개",
-          "price": "9,000원",
-          "discount_rate": 62,
-          "priceAt": "11.10 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-10-20/75373638-25e8-49a0-aa3f-298f2943b040.png",
-          "url": "https://toss.shopping/_m/DWGRIHGi",
-          "_ts": 1794265489.230628,
-          "_flash": true,
-          "_product_id": "86929049"
-        },
-        {
-          "name": "뉴트리디데이 NEW 플러스 멀티비타민 앤 미네랄, 60정, 3개",
-          "price": "9,080원",
-          "discount_rate": 89,
-          "priceAt": "11.10 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-06-16/a5837802-5cff-42d6-a7fa-233829008a81.jpeg",
-          "url": "https://toss.shopping/_m/RzEqt0yj",
-          "_ts": 1794265460.284319,
-          "_flash": true,
-          "_product_id": "327098527"
-        },
-        {
-          "name": "애슐리 볶음밥 올인원 10종 세트, 1개",
-          "price": "17,220원",
-          "discount_rate": 62,
-          "priceAt": "11.10 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/YTUyZjk2/S1YyaXdQcEJwZTAxK29mcUM4ZjlZVWw1V0dGc29hRTVWRENEeDA1ZXUyWT0.png",
-          "url": "https://toss.shopping/_m/j5dwfSTy",
-          "_ts": 1794265460.284286,
-          "_flash": true,
-          "_product_id": "31419195"
-        },
-        {
-          "name": "메르헨트 퍼퓸 핸드크림, 50ml, 4개입, 1세트",
-          "price": "7,840원",
-          "discount_rate": 73,
-          "priceAt": "11.10 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-03-11/dae48860-0671-4c3f-be66-7dbe38a6c657.jpeg",
-          "url": "https://toss.shopping/_m/xVDRR62B",
-          "_ts": 1794265460.284249,
-          "_flash": true,
-          "_product_id": "143197693"
         }
       ]
     },
