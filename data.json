@@ -1284,15 +1284,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/10/15/15/0/5b744694-63f2-4458-a497-3aaec7c1a5d9.jpg",
           "url": "https://link.coupang.com/a/ixlQVi2vhk",
           "_ts": 1794220273.6812391
-        },
-        {
-          "name": "투데이넛 너트한줌 검은콩오곡 믹스넛, 600g, 1개",
-          "price": "13,090원",
-          "discount_rate": 29,
-          "priceAt": "11.09 18:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/8932391058053-d42cbb28-3908-4eac-9285-9d5bc3d57103.jpg",
-          "url": "https://link.coupang.com/a/ixh8225vr2",
-          "_ts": 1794217159.0580978
         }
       ]
     },
@@ -1301,6 +1292,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "후디스 소화 편한 우유 오리지널, 190ml, 24개",
+          "price": "12,000원",
+          "discount_rate": 64,
+          "priceAt": "11.14 18:52",
+          "image": "https://shopping.toss.im/live/temp/2026-10-13/71e1811b-5f3d-40d9-81e7-06500a63a40a.jpeg",
+          "url": "https://toss.shopping/_m/Z7sd87HD",
+          "_ts": 1794649945.9439218,
+          "_product_id": "82189401"
+        },
         {
           "name": "MRC 국대 프리미엄 어묵탕, 230g, 5팩",
           "price": "11,430원",
@@ -2298,16 +2299,6 @@
           "url": "https://toss.shopping/_m/PMmtWFLt",
           "_ts": 1794221555.860103,
           "_product_id": "2401832945"
-        },
-        {
-          "name": "오늘부터 1분 비빔곤약밥 김간장맛, 110g, 6개",
-          "price": "13,050원",
-          "discount_rate": 56,
-          "priceAt": "11.09 18:43",
-          "image": "https://shopping.toss.im/live/temp/2026-10-27/c10a9c92-2d58-41d8-b8f1-70d69408c2c3.jpeg",
-          "url": "https://toss.shopping/_m/LKu090Bj",
-          "_ts": 1794217413.660157,
-          "_product_id": "2311450689"
         }
       ]
     },
