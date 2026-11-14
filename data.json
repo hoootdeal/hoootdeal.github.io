@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에코맘의산골이유식 산골 과일참 통째로 배칩, 10g, 4개",
+          "price": "5,600원",
+          "discount_rate": 40,
+          "priceAt": "11.14 18:30",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1893625936499427-83323d97-fcd1-4e93-9384-904a938e2cc6.jpg",
+          "url": "https://link.coupang.com/a/iFz2adlQce",
+          "_ts": 1794648631.112732
+        },
+        {
           "name": "오뚜기 찹쌀 미니도나스 믹스, 250g, 2개, 250g × 2개",
           "price": "3,980원",
           "discount_rate": 46,
@@ -1284,15 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/8932391058053-d42cbb28-3908-4eac-9285-9d5bc3d57103.jpg",
           "url": "https://link.coupang.com/a/ixh8225vr2",
           "_ts": 1794217159.0580978
-        },
-        {
-          "name": "샤오커오라 민트향 비타민C 과일 12종 믹스 무설탕 사탕 캔디, 100g, 1개, 100g × 1개",
-          "price": "3,300원",
-          "discount_rate": 29,
-          "priceAt": "11.09 18:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1351016630454358-1ab62844-fd18-4c02-9c5e-8bd8b5b130b4.jpg",
-          "url": "https://link.coupang.com/a/ixgqhIcz3A",
-          "_ts": 1794215712.477809
         }
       ]
     },
