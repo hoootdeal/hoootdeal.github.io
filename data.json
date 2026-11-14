@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "재로우 사카로미세스 보울라디 + MOS 유산균 베지 캡, 180정, 3개",
+          "price": "76,250원",
+          "discount_rate": 28,
+          "priceAt": "11.15 07:35",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1dbb/99a25044e4d782f38cf05c7ce78f50c0fe8f48c37078d272749b170fb6e2.jpg",
+          "url": "https://link.coupang.com/a/iGt9NTZ2zc",
+          "_ts": 1794695751.9895282
+        },
+        {
           "name": "페리오 효소의발견 1450 고불소 치약 시그니처후레쉬민트, 85g, 1개",
           "price": "990원",
           "discount_rate": 80,
@@ -1293,15 +1302,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/18665383305086-23b10377-7018-4576-b8a7-0d4164f569a7.jpg",
           "url": "https://link.coupang.com/a/iyc7LMXFw4",
           "_ts": 1794265002.1052039
-        },
-        {
-          "name": "슈가버블 주방세제 레몬 크러쉬, 1.2L, 3개",
-          "price": "4,530원",
-          "discount_rate": 51,
-          "priceAt": "11.10 07:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/72ae/3467aa221f962ef040a1e6c25341427c564c68e80ac9e0efec40b0618cc0.jpg",
-          "url": "https://link.coupang.com/a/iybBSxzJy8",
-          "_ts": 1794263733.834395
         }
       ]
     },
