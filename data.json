@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "몰티져스 트러플 초콜릿, 200g, 1개",
+          "price": "7,600원",
+          "discount_rate": 24,
+          "priceAt": "11.15 08:50",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/b1f7/02a97952f09fa5ce93bea426921695989902cce2aa8662a5cd264368d2be.jpg",
+          "url": "https://link.coupang.com/a/iGzvuH8iwC",
+          "_ts": 1794700247.309088
+        },
+        {
           "name": "만전김 한끼한포 스틱 김자반 7p, 70g, 2개",
           "price": "4,780원",
           "discount_rate": 34,
@@ -1302,15 +1311,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/a1c9/dcf1fb2543b7bbedd93c2a32284e053e5e909a81908c63cc64619a714ba5.jpg",
           "url": "https://link.coupang.com/a/iyjN5EY4BM",
           "_ts": 1794270613.5212002
-        },
-        {
-          "name": "후그 수영용품 수경케이스 GGC027, 160 x 45 mm, 워시 블루",
-          "price": "9,000원",
-          "discount_rate": 36,
-          "priceAt": "11.10 08:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/axn8smsb/95f4366e0878448cad2a62bb853f94ba.jpg",
-          "url": "https://link.coupang.com/a/iyglQp8AqO",
-          "_ts": 1794267711.761129
         }
       ]
     },
