@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "만토바 엑스트라버진 올리브오일 스프레이, 200ml, 2개, 200ml × 2개",
+          "price": "15,980원",
+          "discount_rate": 33,
+          "priceAt": "11.14 14:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/65593689744936-5c662603-9d04-4480-b659-3116bf928465.jpg",
+          "url": "https://link.coupang.com/a/iFkB9JQGVE",
+          "_ts": 1794635686.9948301
+        },
+        {
           "name": "그로비타 플레코 안시 전용사료, 115g, 1개",
           "price": "2,180원",
           "discount_rate": 64,
@@ -1302,24 +1311,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/588115208393310-f53052c5-45f8-4541-ac6d-72f34cbb2883.jpg",
           "url": "https://link.coupang.com/a/iw2IWLDKw0",
           "_ts": 1794204215.2201889
-        },
-        {
-          "name": "한성기업 톳두부랑땡 (냉동), 400g, 1개",
-          "price": "4,580원",
-          "discount_rate": 23,
-          "priceAt": "11.09 14:53",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/vcjzejdu/b7298c420856459ebced37d1a1a98048.jpg",
-          "url": "https://link.coupang.com/a/iw1YiN9yeG",
-          "_ts": 1794203582.7329211
-        },
-        {
-          "name": "바세린 인텐시브 케어 드라이 스킨 리페어 바디로션, 120ml, 1개, 120ml × 1개",
-          "price": "2,110원",
-          "discount_rate": 45,
-          "priceAt": "11.09 14:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/153090359647013-0b8aef4d-a86d-458a-8345-9713d0ad0324.jpg",
-          "url": "https://link.coupang.com/a/iwYSgrhB3Q",
-          "_ts": 1794200983.048355
         }
       ]
     },
@@ -2335,16 +2326,6 @@
           "url": "https://toss.shopping/_m/Tt6AvWx4",
           "_ts": 1794210687.5972722,
           "_product_id": "106834445"
-        },
-        {
-          "name": "로마나 황금 고구마칩, 320g, 4개",
-          "price": "11,500원",
-          "discount_rate": 70,
-          "priceAt": "11.09 14:30",
-          "image": "https://shopping.toss.im/live/temp/2026-08-10/20e248fc-5766-4547-9fc2-3bf847ab7803.jpeg",
-          "url": "https://toss.shopping/_m/lFK4KHid",
-          "_ts": 1794202224.9878201,
-          "_product_id": "146053115"
         }
       ]
     },
