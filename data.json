@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 찹쌀 미니도나스 믹스, 250g, 2개, 250g × 2개",
+          "price": "3,980원",
+          "discount_rate": 46,
+          "priceAt": "11.14 18:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2e5d1638-8e42-4bff-9849-d5f1fd37a5d03969315092946262989.png",
+          "url": "https://link.coupang.com/a/iFyDNR7GrQ",
+          "_ts": 1794647462.1996028
+        },
+        {
           "name": "엠보그 모짜렐라 슬라이스 치즈, 150g, 1개, 1개입",
           "price": "3,580원",
           "discount_rate": 47,
