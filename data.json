@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "미정당 밀 국물떡볶이 (냉동), 580g, 2개",
+          "price": "5,990원",
+          "discount_rate": 39,
+          "priceAt": "11.14 09:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/be2d5a27-c773-42dd-8b35-8223964c1bd47467764088396693729.png",
+          "url": "https://link.coupang.com/a/iEZgJ1Nk2m",
+          "_ts": 1794617764.403156
+        },
+        {
           "name": "크라운 레트로 우체통 과자선물세트, 과자 9종, 6세트, 과자 9종 × 6세트",
           "price": "51,160원",
           "discount_rate": 35,
@@ -1338,24 +1347,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/1d62/0face1741fb7fabdeb0a384cd5bdb4fc709602c87eb0034753dc86674333.jpg",
           "url": "https://link.coupang.com/a/iwHinVL9MW",
           "_ts": 1794186222.405455
-        },
-        {
-          "name": "홈스타 맥스프레쉬 뿌리는 곰팡이 싹 세정제, 500ml, 1개",
-          "price": "2,390원",
-          "discount_rate": 30,
-          "priceAt": "11.09 09:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/524523002686200-c7724822-796d-4610-aca0-7c85cc007c41.jpg",
-          "url": "https://link.coupang.com/a/iwGCXzCVBQ",
-          "_ts": 1794185661.6528971
-        },
-        {
-          "name": "빼빼로 스키즈 아몬드, 37g, 40개",
-          "price": "31,920원",
-          "discount_rate": 60,
-          "priceAt": "11.09 09:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/33249913473740-53df3471-44d0-4eaf-9bf8-f81b78f327e3.jpg",
-          "url": "https://link.coupang.com/a/iwFLJoBVym",
-          "_ts": 1794184940.459695
         }
       ]
     },
