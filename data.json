@@ -1293,6 +1293,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "팬톤 25W GaN 듀얼포트 PPS 초고속 PD 충전기, RCE-2521ACLR, 그레이, 1개",
+          "price": "5,900원",
+          "discount_rate": 85,
+          "priceAt": "11.16 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/NTkzOGZm/UExZK1BtWStIRHgyV3l6dG04ZG03TW1EOFlTbHlkblRkbndOUzRlbGRqdz0.png",
+          "url": "https://toss.shopping/_m/h56u2imy",
+          "_ts": 1794754939.056693,
+          "_flash": true,
+          "_product_id": "2073223469"
+        },
+        {
+          "name": "할리스 카페 라떼, 15g, 30개입, 3개",
+          "price": "24,220원",
+          "discount_rate": 60,
+          "priceAt": "11.16 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/NDRmMDM3/QUpaN2U0NDV5eU4rMXJHVmVpdlVlYWZVZnQ2VjFDczFhanVoeWw2clZIZUI.png",
+          "url": "https://toss.shopping/_m/f5eGSxOo",
+          "_ts": 1794754939.0566661,
+          "_flash": true,
+          "_product_id": "202648505"
+        },
+        {
+          "name": "일양약품 우리가족 멀티비타민 츄어블, 60정, 2개",
+          "price": "6,900원",
+          "discount_rate": 77,
+          "priceAt": "11.16 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-09-23/710346bd-e4bc-4303-86ad-bc00c2e54660.png",
+          "url": "https://toss.shopping/_m/FBWnpU5g",
+          "_ts": 1794754939.056632,
+          "_flash": true,
+          "_product_id": "2625255849"
+        },
+        {
           "name": "소 안창살, 구이용, 300g, 2팩",
           "price": "21,010원",
           "discount_rate": 59,
