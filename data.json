@@ -1293,15 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3395c025-e183-49e2-81bb-296bf91dbdb91181078353997251270.png",
           "url": "https://link.coupang.com/a/iy7IqWOavQ",
           "_ts": 1794312518.517971
-        },
-        {
-          "name": "자연실록 무항생제 인증 태양초 닭볶음탕 밀키트, 600g, 1개",
-          "price": "8,500원",
-          "discount_rate": 36,
-          "priceAt": "11.10 20:24",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2020/04/06/18/2/741cf758-0a4b-465c-ad78-bf5a9e588d0e.jpg",
-          "url": "https://link.coupang.com/a/iy4xPKBMjY",
-          "_ts": 1794309855.179009
         }
       ]
     },
@@ -1310,6 +1301,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "소 안창살, 구이용, 300g, 2팩",
+          "price": "21,010원",
+          "discount_rate": 59,
+          "priceAt": "11.15 20:48",
+          "image": "https://shopping.toss.im/live/temp/2026-10-15/68841063-c0ce-45b6-ac06-b6488448ceb5.png",
+          "url": "https://toss.shopping/_m/xofzYBHo",
+          "_ts": 1794743293.483281,
+          "_product_id": "2656145515"
+        },
         {
           "name": "배스킨라빈스 아몬드 봉봉 크림 파이, 336g, 3개",
           "price": "8,200원",
