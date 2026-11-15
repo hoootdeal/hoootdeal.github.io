@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "다우니 실내건조 초고농축 섬유유연제 코튼 & 프레시 비누, 2L, 3개",
+          "price": "21,750원",
+          "discount_rate": 34,
+          "priceAt": "11.15 12:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/36a99e49-c721-4e58-bcbc-803aa3af2fcd9322318869827394686.png",
+          "url": "https://link.coupang.com/a/iGQgCyh6OG",
+          "_ts": 1794714317.511062
+        },
+        {
           "name": "스너글 룸스프레이 카밍 포레스트 본품, 200ml, 1개",
           "price": "5,990원",
           "discount_rate": 35,
@@ -1311,15 +1320,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2487475493103343-8c9cf850-cdde-49af-86f8-722ff0c2b563.jpg",
           "url": "https://link.coupang.com/a/iyzAhaeFwW",
           "_ts": 1794283862.082557
-        },
-        {
-          "name": "카멕스 모이스처라이징 튜브 립밤 3개입, 스트로베리, 15g, 1개",
-          "price": "5,900원",
-          "discount_rate": 49,
-          "priceAt": "11.10 12:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/b27e032f-1935-4549-9177-4dffeda87739_fixing_v2.png",
-          "url": "https://link.coupang.com/a/iywzctVabk",
-          "_ts": 1794281326.323379
         }
       ]
     },
@@ -2330,16 +2330,6 @@
           "url": "https://toss.shopping/_m/9Cpi9ekh",
           "_ts": 1794282953.985109,
           "_product_id": "794488291"
-        },
-        {
-          "name": "쏘울너츠 100% 땅콩버터 스무스, 500g, 2개",
-          "price": "7,900원",
-          "discount_rate": 61,
-          "priceAt": "11.10 12:26",
-          "image": "https://shopping.toss.im/live/temp/2026-02-24/7684754b-dfe3-4e6e-91f5-c1c7774315d0.jpeg",
-          "url": "https://toss.shopping/_m/FfxzNEY",
-          "_ts": 1794281181.972663,
-          "_product_id": "559214405"
         }
       ]
     },
