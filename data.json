@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "클리덴트 치아교정기 세정폼, 50ml, 1개",
+          "price": "4,250원",
+          "discount_rate": 43,
+          "priceAt": "11.15 10:46",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/06/19/12/8/f1b7fa7d-bd0c-4b85-a896-4d05ee866f27.jpg",
+          "url": "https://link.coupang.com/a/iGHKee4OKO",
+          "_ts": 1794707163.466109
+        },
+        {
           "name": "비비드키친 저당 닭가슴살 브리또 바비큐 (냉동), 125g, 2개, 1개입",
           "price": "4,100원",
           "discount_rate": 37,
@@ -1320,15 +1329,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/495964253898676-66773b0a-866e-4d04-a47b-32f4e0f8274a.jpg",
           "url": "https://link.coupang.com/a/iypHXETgGq",
           "_ts": 1794275567.002232
-        },
-        {
-          "name": "크린스킨 마스터 니트릴장갑, 블랙, 소, 3개",
-          "price": "26,110원",
-          "discount_rate": 34,
-          "priceAt": "11.10 10:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/295582148211157-a9ee6a95-78a8-455a-ab61-d19e588f4568.jpg",
-          "url": "https://link.coupang.com/a/iymlPhIfqm",
-          "_ts": 1794272748.0362968
         }
       ]
     },
@@ -2359,16 +2359,6 @@
           "url": "https://toss.shopping/_m/N10Kct17",
           "_ts": 1794276253.796814,
           "_product_id": "18135239"
-        },
-        {
-          "name": "맘스럽 아토워시 프렌치 라벤더 캡슐세제 파우치형, 8g, 200개입, 1개",
-          "price": "6,750원",
-          "discount_rate": 54,
-          "priceAt": "11.10 10:30",
-          "image": "https://shopping.toss.im/live/temp/2025-05-14/52c78bea-ea6e-40df-92a3-fca69d1d7141.jpeg",
-          "url": "https://toss.shopping/_m/1JGAXtnt",
-          "_ts": 1794274243.166954,
-          "_product_id": "102193743"
         }
       ]
     },
