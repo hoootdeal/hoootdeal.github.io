@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원 퓨어 무라벨 생수, 500ml, 40개",
+          "price": "6,130원",
+          "discount_rate": 38,
+          "priceAt": "11.16 08:51",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/275371538050635-af72da0e-528f-4fea-b7e1-3e817f941351.png",
+          "url": "https://link.coupang.com/a/iIerAIfKNg",
+          "_ts": 1794786673.4556842
+        },
+        {
           "name": "오설록 블루밍 티 기프트, 티백 9종 + 쇼핑..., 1세트, 티백 9종 + 쇼핑백",
           "price": "18,700원",
           "discount_rate": 38,
@@ -1239,15 +1248,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/07/29/18/5/51fe805f-e5fd-4fa0-a8ea-e0ba8662c05e.png",
           "url": "https://link.coupang.com/a/izYALn3W20",
           "_ts": 1794356913.167878
-        },
-        {
-          "name": "불닭볶음면 140g, 10개",
-          "price": "6,700원",
-          "discount_rate": 29,
-          "priceAt": "11.11 08:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/344801897244744-1de94e9f-29e9-408c-9143-88bbc2a9998e.png",
-          "url": "https://link.coupang.com/a/izVAWCVGa4",
-          "_ts": 1794354398.28495
         }
       ]
     },
