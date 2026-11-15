@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "올반 키친 찹쌀 꿔바로우 (냉동), 500g, 2개",
+          "price": "13,600원",
+          "discount_rate": 32,
+          "priceAt": "11.15 11:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/8018741076333-8b649126-eceb-481c-9933-fb4555f582e2.jpg",
+          "url": "https://link.coupang.com/a/iGK1iAJY3E",
+          "_ts": 1794709913.713804
+        },
+        {
           "name": "클리덴트 치아교정기 세정폼, 50ml, 1개",
           "price": "4,250원",
           "discount_rate": 43,
@@ -1302,33 +1311,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/b27e032f-1935-4549-9177-4dffeda87739_fixing_v2.png",
           "url": "https://link.coupang.com/a/iywzctVabk",
           "_ts": 1794281326.323379
-        },
-        {
-          "name": "Apple 정품 아이폰 맥세이프 투명 케이스, 아이폰 17 Pro",
-          "price": "15,000원",
-          "discount_rate": 63,
-          "priceAt": "11.10 11:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/09/10/7/7/d1ab2018-1584-4b86-81f6-7bb8de481476.jpg",
-          "url": "https://link.coupang.com/a/iysmgrMxoG",
-          "_ts": 1794277792.216542
-        },
-        {
-          "name": "상도푸드 갓성비 달콤한 닭강정 (냉동), 700g, 2개",
-          "price": "9,840원",
-          "discount_rate": 29,
-          "priceAt": "11.10 10:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5113cad6-8a2d-481d-8b46-220f98bec150672636759290673477.png",
-          "url": "https://link.coupang.com/a/iyp7Kla6xw",
-          "_ts": 1794275916.131511
-        },
-        {
-          "name": "믈레코비타 1.5% 저지방 멸균우유, 1L, 24개, 1L × 24개",
-          "price": "31,800원",
-          "discount_rate": 28,
-          "priceAt": "11.10 10:52",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/495964253898676-66773b0a-866e-4d04-a47b-32f4e0f8274a.jpg",
-          "url": "https://link.coupang.com/a/iypHXETgGq",
-          "_ts": 1794275567.002232
         }
       ]
     },
@@ -2349,16 +2331,6 @@
           "url": "https://toss.shopping/_m/FfxzNEY",
           "_ts": 1794281181.972663,
           "_product_id": "559214405"
-        },
-        {
-          "name": "소소락 북촌 항아리 얼큰수제비 6인분, 생수제비 1kg 1개 + 고추장 수제비소스 50g 6개, 1세트",
-          "price": "5,905원",
-          "discount_rate": 65,
-          "priceAt": "11.10 11:04",
-          "image": "https://shopping.toss.im/live/taca/ai/Y2U2MGNi/YVQ2UDJHZW9wVFcrSXRVa0RyNVUyRHp5V3JMd002NzI0ZU1oeVFZTFB3Yz0.png",
-          "url": "https://toss.shopping/_m/N10Kct17",
-          "_ts": 1794276253.796814,
-          "_product_id": "18135239"
         }
       ]
     },
