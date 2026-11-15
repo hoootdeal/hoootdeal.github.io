@@ -1302,15 +1302,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/149974f6-aa35-4daf-9d8a-64d2ba98bb6c8875137536214268658.png",
           "url": "https://link.coupang.com/a/iy0ai9dnTU",
           "_ts": 1794306176.971029
-        },
-        {
-          "name": "일리윤 세라마이드 아토 버블워시 앤 샴푸 바디워시 무향, 900ml, 1개",
-          "price": "12,700원",
-          "discount_rate": 42,
-          "priceAt": "11.10 18:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/99932012017758-8e0abc5f-dd20-4d92-b31e-b239d3876e2f.jpg",
-          "url": "https://link.coupang.com/a/iyW3lQerOS",
-          "_ts": 1794303564.37237
         }
       ]
     },
@@ -1319,6 +1310,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "프로프룻 제주 노지 감귤 최대15brix, 5kg, 1박스",
+          "price": "7,800원",
+          "discount_rate": 84,
+          "priceAt": "11.15 18:47",
+          "image": "https://shopping.toss.im/live/temp/2026-10-27/e6996bfe-7d26-41db-8b99-9f3d0acf0415.png",
+          "url": "https://toss.shopping/_m/VQYEueR",
+          "_ts": 1794736022.062567,
+          "_product_id": "2702170951"
+        },
         {
           "name": "리퀴드 고농축 라벤더 세탁세제, 실내건조, 중성, 액체세제, 2.5L, 4병",
           "price": "7,390원",
@@ -2299,16 +2300,6 @@
           "url": "https://toss.shopping/_m/lHrMfqlm",
           "_ts": 1794305817.32958,
           "_product_id": "2702174407"
-        },
-        {
-          "name": "에브리워터 무라벨, 500ml, 80개",
-          "price": "12,300원",
-          "discount_rate": 57,
-          "priceAt": "11.10 18:32",
-          "image": "https://shopping.toss.im/live/taca/ai/OWIxZGMx/VnNiTVcrRnhjaGtmbW1IbWluMzh3L1hCTmpBUnVpTTdtbkg5aDF4SGlQND0.png",
-          "url": "https://toss.shopping/_m/rmmsFFrt",
-          "_ts": 1794303122.313164,
-          "_product_id": "133292949"
         }
       ]
     },
