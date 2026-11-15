@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청정원 순창 우리쌀로 만든 100% 국산 고추장, 1kg, 2개",
+          "price": "19,080원",
+          "discount_rate": 28,
+          "priceAt": "11.15 15:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1183863012786-5dc1a5ff-5968-445d-ac7c-5c2fcd4e8f26.jpg",
+          "url": "https://link.coupang.com/a/iG0A5cbtzU",
+          "_ts": 1794722993.015266
+        },
+        {
           "name": "파라스 착즙 레몬 주스, 1L, 1개",
           "price": "4,550원",
           "discount_rate": 35,
@@ -1311,24 +1320,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/812340684362513-d0211b59-6c8b-448a-9a53-07fbaef78b5a.jpg",
           "url": "https://link.coupang.com/a/iyI0Hto0Z2",
           "_ts": 1794291778.900151
-        },
-        {
-          "name": "비비고 큰 채소가득 고기만두 고기 & 양배추 (냉동), 400g, 4개",
-          "price": "9,500원",
-          "discount_rate": 42,
-          "priceAt": "11.10 14:53",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/0bdec5da-5f0b-4ccc-b01d-bda8489916387768305983540236218.png",
-          "url": "https://link.coupang.com/a/iyGU5eH4sS",
-          "_ts": 1794290018.078659
-        },
-        {
-          "name": "풀무원 새콤달콤 생쫄면 4인, 920g, 2개, 920g × 2개",
-          "price": "9,480원",
-          "discount_rate": 37,
-          "priceAt": "11.10 14:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1725119485514089-5542ec90-9c08-4ede-bbbf-74876f783c57.jpg",
-          "url": "https://link.coupang.com/a/iyGmYywbf2",
-          "_ts": 1794289557.4545121
         }
       ]
     },
@@ -2329,16 +2320,6 @@
           "url": "https://toss.shopping/_m/PU6tLjXy",
           "_ts": 1794291762.6412091,
           "_product_id": "1189931433"
-        },
-        {
-          "name": "티젠 애플 사이다 비니거, 5g, 50개입, 1개",
-          "price": "10,440원",
-          "discount_rate": 70,
-          "priceAt": "11.10 14:39",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/YThiMDIx/QVBaV2w3eU5nWTJ6T2MxM1l5OE4zK1AyeVp6bVk0RnR3K0FaV3d6WkIrQlk.png",
-          "url": "https://toss.shopping/_m/JnbxyZow",
-          "_ts": 1794289161.8048341,
-          "_product_id": "2636661281"
         }
       ]
     },
