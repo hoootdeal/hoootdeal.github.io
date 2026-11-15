@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하림 동물복지 자연실록 매콤한 닭갈비, 400g, 1개",
+          "price": "5,660원",
+          "discount_rate": 37,
+          "priceAt": "11.15 17:59",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1487651755230198-9fa88ae1-cb5f-4a8c-8e5f-90ff29e0c053.jpg",
+          "url": "https://link.coupang.com/a/iHcJcUsx5g",
+          "_ts": 1794733177.0883892
+        },
+        {
           "name": "동아제약 박카스 디카페에이, 120ml, 50개",
           "price": "17,950원",
           "discount_rate": 46,
@@ -1302,15 +1311,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/99932012017758-8e0abc5f-dd20-4d92-b31e-b239d3876e2f.jpg",
           "url": "https://link.coupang.com/a/iyW3lQerOS",
           "_ts": 1794303564.37237
-        },
-        {
-          "name": "맛있는두유GT 검은콩깨 로우슈거, 200ml, 10개, 200ml × 10개",
-          "price": "5,900원",
-          "discount_rate": 32,
-          "priceAt": "11.10 17:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1140/b0000b1f062473875e4c3fb744656fd642885f8ce949961b0f4a57a463f1.jpg",
-          "url": "https://link.coupang.com/a/iyT59uluxw",
-          "_ts": 1794301082.814281
         }
       ]
     },
