@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오설록 블루밍 티 기프트, 티백 9종 + 쇼핑..., 1세트, 티백 9종 + 쇼핑백",
+          "price": "18,700원",
+          "discount_rate": 38,
+          "priceAt": "11.16 08:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/05/15/17/4/4825b792-5d3e-42e3-8779-e93e32ac0aeb.png",
+          "url": "https://link.coupang.com/a/iIbQsYicwe",
+          "_ts": 1794784493.801484
+        },
+        {
           "name": "돈시몬 스파클링 레몬에이드 탄산음료, 330ml, 12개",
           "price": "10,760원",
           "discount_rate": 40,
@@ -1239,24 +1248,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/344801897244744-1de94e9f-29e9-408c-9143-88bbc2a9998e.png",
           "url": "https://link.coupang.com/a/izVAWCVGa4",
           "_ts": 1794354398.28495
-        },
-        {
-          "name": "CJ제일제당 소바바 소이허니 순살치킨 (냉동), 240g, 1개",
-          "price": "3,680원",
-          "discount_rate": 41,
-          "priceAt": "11.11 08:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/62139374119658-5c7733c9-16ce-4c23-8020-e7a06c97aece.png",
-          "url": "https://link.coupang.com/a/izSWzdnBXo",
-          "_ts": 1794352169.854073
-        },
-        {
-          "name": "바디피트 볼록맞춤 생리대 날개형, 오버나이트, 12개입, 1개",
-          "price": "1,870원",
-          "discount_rate": 59,
-          "priceAt": "11.11 08:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/09/12/10/8/fa67522c-752f-4a2a-a075-1ab838c33bc7.png",
-          "url": "https://link.coupang.com/a/izSLPJjupg",
-          "_ts": 1794352024.669096
         }
       ]
     },
@@ -2282,39 +2273,6 @@
           "url": "https://toss.shopping/_m/hh5KdYDu",
           "_ts": 1794357309.887567,
           "_product_id": "627710385"
-        },
-        {
-          "name": "이지앤프리 에어클립 프레시 밀폐용기 체험팩, 레몬, 5종, 7P, 1세트",
-          "price": "8,990원",
-          "discount_rate": 68,
-          "priceAt": "11.11 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-09-10/727e15a6-ef63-40e3-9d2a-03832f4bd058.jpeg",
-          "url": "https://toss.shopping/_m/vGnK2Xbc",
-          "_ts": 1794351873.33804,
-          "_flash": true,
-          "_product_id": "2651839795"
-        },
-        {
-          "name": "올챌린지 뽑아쓰는 미용티슈, 바이올렛, 250매, 12개입",
-          "price": "12,310원",
-          "discount_rate": 69,
-          "priceAt": "11.11 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/NzJkZjY3/QUlDWXlwek16NDU4R2VzYTFweHpMSGd4T09YR2NwVGdaeG9WNWNmV3RCTWM.png",
-          "url": "https://toss.shopping/_m/JHK2ivme",
-          "_ts": 1794351873.338012,
-          "_flash": true,
-          "_product_id": "507438595"
-        },
-        {
-          "name": "맘스케이크 플랫파운드, 혼합, 50g, 20개",
-          "price": "9,100원",
-          "discount_rate": 61,
-          "priceAt": "11.11 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-09-11/000e96a6-7249-4341-815e-053dabad7e08.png",
-          "url": "https://toss.shopping/_m/HmGS3Veh",
-          "_ts": 1794351873.33797,
-          "_flash": true,
-          "_product_id": "2621891757"
         }
       ]
     },
