@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청우식품 그랑쉘사과, 195g, 10개",
+          "price": "15,720원",
+          "discount_rate": 24,
+          "priceAt": "11.15 19:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2021/03/26/15/0/38538c42-5147-4438-aaf8-ccf1ae6f251f.jpg",
+          "url": "https://link.coupang.com/a/iHkWRLrYya",
+          "_ts": 1794740078.497354
+        },
+        {
           "name": "달팽이리빙 퀴진드마망 실리콘 씽크대 물막이, 그레이, 1개",
           "price": "6,900원",
           "discount_rate": 21,
@@ -1293,24 +1302,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2020/04/06/18/2/741cf758-0a4b-465c-ad78-bf5a9e588d0e.jpg",
           "url": "https://link.coupang.com/a/iy4xPKBMjY",
           "_ts": 1794309855.179009
-        },
-        {
-          "name": "청정원 맛술, 830ml, 2개",
-          "price": "5,180원",
-          "discount_rate": 24,
-          "priceAt": "11.10 19:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2762763047257-6ffa04ac-a8af-41bd-bd0a-456de126fd23.jpg",
-          "url": "https://link.coupang.com/a/iy1hRArWvY",
-          "_ts": 1794307120.607786
-        },
-        {
-          "name": "국내산 한입밤고구마, 500g, 2개, 500g × 2개",
-          "price": "2,990원",
-          "discount_rate": 50,
-          "priceAt": "11.10 19:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/149974f6-aa35-4daf-9d8a-64d2ba98bb6c8875137536214268658.png",
-          "url": "https://link.coupang.com/a/iy0ai9dnTU",
-          "_ts": 1794306176.971029
         }
       ]
     },
@@ -2299,16 +2290,6 @@
           "url": "https://toss.shopping/_m/xKKImjGj",
           "_ts": 1794311824.099767,
           "_product_id": "132723801"
-        },
-        {
-          "name": "국내산 골드키위 최대 18Brix, 특대과, 2kg, 1박스",
-          "price": "11,900원",
-          "discount_rate": 76,
-          "priceAt": "11.10 19:16",
-          "image": "https://shopping.toss.im/live/temp/2026-10-27/5b372bdf-d229-49e8-8418-4e181bc6fd96.png",
-          "url": "https://toss.shopping/_m/lHrMfqlm",
-          "_ts": 1794305817.32958,
-          "_product_id": "2702174407"
         }
       ]
     },
