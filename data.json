@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "비비드키친 저당 닭가슴살 브리또 바비큐 (냉동), 125g, 2개, 1개입",
+          "price": "4,100원",
+          "discount_rate": 37,
+          "priceAt": "11.15 10:04",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/higitfpk/dfccb34343c446d0a123216d54b5c67a.jpg",
+          "url": "https://link.coupang.com/a/iGELPFGCNo",
+          "_ts": 1794704665.451535
+        },
+        {
           "name": "오뚜기 핫케이크 믹스, 1kg, 1개",
           "price": "3,100원",
           "discount_rate": 44,
@@ -2360,16 +2369,6 @@
           "url": "https://toss.shopping/_m/1JGAXtnt",
           "_ts": 1794274243.166954,
           "_product_id": "102193743"
-        },
-        {
-          "name": "리프레쉬 맥반석오징어, 13-25미 내외, 300g, 1봉",
-          "price": "13,680원",
-          "discount_rate": 49,
-          "priceAt": "11.10 10:03",
-          "image": "https://shopping.toss.im/live/temp/2026-04-07/9c81eb45-6040-431f-b33c-02f399d09cdc.jpeg",
-          "url": "https://toss.shopping/_m/DDn7xhWj",
-          "_ts": 1794272593.095863,
-          "_product_id": "2656113063"
         }
       ]
     },
