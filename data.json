@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "귤탐 당도선별 11Brix 감귤, 2kg(로열과), 1개",
+          "price": "12,990원",
+          "discount_rate": 35,
+          "priceAt": "11.15 21:17",
+          "image": "https://image3.coupangcdn.com/image/retail/images/794109263576664-2ba8b398-7d86-4899-8769-06cf38ce61ba.jpg",
+          "url": "https://link.coupang.com/a/iHqR4307Fc",
+          "_ts": 1794745051.718179
+        },
+        {
           "name": "청우식품 그랑쉘사과, 195g, 10개",
           "price": "15,720원",
           "discount_rate": 24,
@@ -1284,15 +1293,6 @@
           "image": "https://image12.coupangcdn.com/image/retail/images/552866890985248-c312f232-3033-4899-a095-545fa6ff1d0f.jpg",
           "url": "https://link.coupang.com/a/izc9IM19fE",
           "_ts": 1794317086.126561
-        },
-        {
-          "name": "하리보 프루티 부시 젤리, 100g, 30개, 100g × 30개",
-          "price": "34,360원",
-          "discount_rate": 47,
-          "priceAt": "11.10 21:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3395c025-e183-49e2-81bb-296bf91dbdb91181078353997251270.png",
-          "url": "https://link.coupang.com/a/iy7IqWOavQ",
-          "_ts": 1794312518.517971
         }
       ]
     },
@@ -2293,16 +2293,6 @@
           "url": "https://toss.shopping/_m/3rm8GqZA",
           "_ts": 1794313636.4675798,
           "_product_id": "1078924497"
-        },
-        {
-          "name": "널담 뚱낭시에, 50g, 8개입, 1박스",
-          "price": "8,720원",
-          "discount_rate": 53,
-          "priceAt": "11.10 20:57",
-          "image": "https://shopping.toss.im/live/taca/ai/NWFjY2Jl/QU1ubm1XMXJNa2c4eFBJMVlUWjVpbWZHVXNOYXlOaDQ4RkRUYmRNOGJoNDk.png",
-          "url": "https://toss.shopping/_m/xKKImjGj",
-          "_ts": 1794311824.099767,
-          "_product_id": "132723801"
         }
       ]
     },
