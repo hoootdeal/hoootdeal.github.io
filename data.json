@@ -1257,15 +1257,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/09/12/10/8/fa67522c-752f-4a2a-a075-1ab838c33bc7.png",
           "url": "https://link.coupang.com/a/izSLPJjupg",
           "_ts": 1794352024.669096
-        },
-        {
-          "name": "도브 뷰티 너리싱 바디워시, 1kg, 1개",
-          "price": "4,680원",
-          "discount_rate": 31,
-          "priceAt": "11.11 08:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/621627372783151-091c6d59-516e-4d09-bcd9-9481d12740bc.jpg",
-          "url": "https://link.coupang.com/a/izSzfWWn8K",
-          "_ts": 1794351856.5044942
         }
       ]
     },
@@ -1274,6 +1265,39 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "비타오리진 프리미엄 유기농 레몬즙, 20g, 14포, 3박스",
+          "price": "11,600원",
+          "discount_rate": 80,
+          "priceAt": "11.16 08:04",
+          "image": "https://shopping.toss.im/live/taca/ai/ODNlZGI4/QUpKU1VoOXlodW1oRExtcFdLTm90VU5VcjBpdDhCWlNLYVZvSlVrcnhkS1g.png",
+          "url": "https://toss.shopping/_m/LOTaGFfi",
+          "_ts": 1794783873.150666,
+          "_flash": true,
+          "_product_id": "93428111"
+        },
+        {
+          "name": "캡슐 표백제 세제 부스터, 30개입, 390g, 3팩",
+          "price": "11,680원",
+          "discount_rate": 80,
+          "priceAt": "11.16 08:04",
+          "image": "https://shopping.toss.im/live/taca/ai/NDU1N2Uz/R2J3U3ZLbFczWnhXcXl0VzA2ZVpOdUU4M1NPYVVYYkxMTmxQb2ExVXVYND0.png",
+          "url": "https://toss.shopping/_m/BBi4zOfi",
+          "_ts": 1794783873.1506371,
+          "_flash": true,
+          "_product_id": "1365683861"
+        },
+        {
+          "name": "청우 쫀득 4종세트, 쫀득초코칩 20g 20봉 + 초코파이 찰떡 21.5g 20봉 + 찰떡쿠키 오리지널 21.5g 20봉 + 그랑쉘 사과 19.5g 20봉, 1세트",
+          "price": "16,920원",
+          "discount_rate": 53,
+          "priceAt": "11.16 08:04",
+          "image": "https://shopping.toss.im/live/taca/ai/ZmNjN2Q2/ZnRiOEplbXg4Y3MxNFo1cFRwRHlleUcwRzBzVFlYZXJlOEh1Zzc1RWlYUT0.png",
+          "url": "https://toss.shopping/_m/XKuglkvo",
+          "_ts": 1794783873.150599,
+          "_flash": true,
+          "_product_id": "89656875"
+        },
         {
           "name": "리엑셀 프리미엄 달팽이 마스크팩, 미백, 25g, 20장 + 주름, 25g, 20장",
           "price": "16,471원",
