@@ -1275,6 +1275,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "리엑셀 프리미엄 달팽이 마스크팩, 미백, 25g, 20장 + 주름, 25g, 20장",
+          "price": "16,471원",
+          "discount_rate": 76,
+          "priceAt": "11.16 08:04",
+          "image": "https://shopping.toss.im/live/temp/2025-07-15/571d2e11-c2ef-4912-843f-f593811696d3.jpeg",
+          "url": "https://toss.shopping/_m/1ZRveWeC",
+          "_ts": 1794783841.565789,
+          "_flash": true,
+          "_product_id": "141974613"
+        },
+        {
+          "name": "네슬레 킷캣 아이스크림 스틱, 90ml, 12개",
+          "price": "20,420원",
+          "discount_rate": 57,
+          "priceAt": "11.16 08:04",
+          "image": "https://shopping.toss.im/live/taca/ai/MzhmNGVk/ZUJmaWN5ODV5NG1Rd1dTY2cyNDhkSTgyNG5Oays1MnQvMG42UnJrRVJQaz0.png",
+          "url": "https://toss.shopping/_m/NqzLqpvj",
+          "_ts": 1794783841.56576,
+          "_flash": true,
+          "_product_id": "1569823841"
+        },
+        {
+          "name": "센텔리안24 마데카 크림 파워 부스팅 포뮬러 AD, 50ml 2개 + 15ml 1개 + 1ml 10매, 1세트",
+          "price": "19,500원",
+          "discount_rate": 76,
+          "priceAt": "11.16 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-02-04/73d1064d-3699-45ba-980e-bc10dcac6eca.jpeg",
+          "url": "https://toss.shopping/_m/nCBou9mc",
+          "_ts": 1794783841.565707,
+          "_flash": true,
+          "_product_id": "180141233"
+        },
+        {
           "name": "프리미엄 스테인레스 양배추칼+채칼, 2개",
           "price": "6,100원",
           "discount_rate": 83,
@@ -2258,39 +2291,6 @@
           "_ts": 1794351873.33797,
           "_flash": true,
           "_product_id": "2621891757"
-        },
-        {
-          "name": "이롬 황성주박사의 과채습관 그린, 140ml, 24팩",
-          "price": "7,800원",
-          "discount_rate": 51,
-          "priceAt": "11.11 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/MDNmYmM0/YVpzOGtzMmJsTk1jaytNMHRkdGpKR1pwVTIvYU5MekxaclI5T2ZGcHh0UT0.png",
-          "url": "https://toss.shopping/_m/bX5SP1i2",
-          "_ts": 1794351835.035809,
-          "_flash": true,
-          "_product_id": "167928259"
-        },
-        {
-          "name": "멕시카나 닭강정, 매콤달콤맛, 500g, 2개 + 마늘간장맛, 500g, 2개",
-          "price": "20,500원",
-          "discount_rate": 65,
-          "priceAt": "11.11 08:03",
-          "image": "https://shopping.toss.im/live/temp/2025-11-03/400af32f-7a7e-41a3-a8c2-9ac69af3d272.png",
-          "url": "https://toss.shopping/_m/5YObPJTg",
-          "_ts": 1794351835.035784,
-          "_flash": true,
-          "_product_id": "294615809"
-        },
-        {
-          "name": "예진원 국내산 ABC주스, 80ml, 100개",
-          "price": "19,900원",
-          "discount_rate": 53,
-          "priceAt": "11.11 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjY4Mjlh/YnllVzB5MjV5eVNTV3lScjI0eXd4aXhuMkp5eTlFbGtiYlRHT0ZtMHVjTT0.png",
-          "url": "https://toss.shopping/_m/32k190n8",
-          "_ts": 1794351835.0357409,
-          "_flash": true,
-          "_product_id": "146650681"
         }
       ]
     },
