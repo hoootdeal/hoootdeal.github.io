@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "홍영의 붉은대게백간장 선물세트, 500ml, 2개",
+          "price": "14,000원",
+          "discount_rate": 27,
+          "priceAt": "11.17 08:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/232870062652813-06456ac8-c4fb-473e-85ab-a70077df5b36.jpg",
+          "url": "https://link.coupang.com/a/iJQMG8cjWm",
+          "_ts": 1794870922.3749042
+        },
+        {
           "name": "스타벅스 말차라테, 24g, 4개입, 2개",
           "price": "9,720원",
           "discount_rate": 35,
@@ -2127,39 +2136,6 @@
           "url": "https://toss.shopping/_m/1UItnORl",
           "_ts": 1794445235.079422,
           "_product_id": "1910549827"
-        },
-        {
-          "name": "김규흔 한과 더 건강한 너츠 영양바, 125g, 5개입, 5박스",
-          "price": "11,460원",
-          "discount_rate": 64,
-          "priceAt": "11.12 08:04",
-          "image": "https://shopping.toss.im/live/temp/2025-12-16/db9f8dcd-dae1-49e0-b7cb-9f9d9b946e4a.jpeg",
-          "url": "https://toss.shopping/_m/LdztIWF5",
-          "_ts": 1794438285.246092,
-          "_flash": true,
-          "_product_id": "2601049533"
-        },
-        {
-          "name": "바덴하임 몽실이 슬라이딩 지퍼백, 소, 20매 + 중, 20매 + 대, 15매 + 특대, 12매, 1세트",
-          "price": "8,900원",
-          "discount_rate": 55,
-          "priceAt": "11.12 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-08-27/2b541d09-0d68-496b-b566-1d8a7ac4ebda.jpeg",
-          "url": "https://toss.shopping/_m/n0Vu5rTa",
-          "_ts": 1794438285.2460642,
-          "_flash": true,
-          "_product_id": "2636618375"
-        },
-        {
-          "name": "gleam 다용도 접이식 롤링카트, 실버, 60L, 1개",
-          "price": "16,870원",
-          "discount_rate": 57,
-          "priceAt": "11.12 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-09-08/31122fc2-48c5-4881-ac96-69f818d4c74b.jpeg",
-          "url": "https://toss.shopping/_m/DU79Q2so",
-          "_ts": 1794438285.246023,
-          "_flash": true,
-          "_product_id": "2651879571"
         }
       ]
     },
