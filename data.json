@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "엠앤엠즈 크리스피 펀사이즈 초콜릿, 144g, 3개",
+          "price": "9,600원",
+          "discount_rate": 37,
+          "priceAt": "11.16 21:19",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/130929987956827-136f467d-a011-4cc0-a20f-acb199c2a98c.jpg",
+          "url": "https://link.coupang.com/a/iI5Ur0wDvg",
+          "_ts": 1794831563.379725
+        },
+        {
           "name": "홈앤키즈 육포, 한돈육포, 30g, 4개",
           "price": "8,060원",
           "discount_rate": 37,
@@ -1158,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/88955613687375-65c581ff-fe90-4bd0-9b9c-c45cea7af536.jpg",
           "url": "https://link.coupang.com/a/iANz1EucRU",
           "_ts": 1794399720.656944
-        },
-        {
-          "name": "오징어집, 78g, 3개",
-          "price": "2,520원",
-          "discount_rate": 33,
-          "priceAt": "11.11 21:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/c178efff-89f0-4bd6-841d-b41f0e439d5b13827241500126010111.png",
-          "url": "https://link.coupang.com/a/iANltcyVqK",
-          "_ts": 1794399522.081308
         }
       ]
     },
