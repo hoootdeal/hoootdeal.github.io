@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "불닭 볶음탕면 145g, 16개",
+          "price": "11,500원",
+          "discount_rate": 34,
+          "priceAt": "11.16 19:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1719769554002687-f621dce1-5155-466a-9a53-d7772ed6a8ef.jpg",
+          "url": "https://link.coupang.com/a/iIWFRevnye",
+          "_ts": 1794823808.483445
+        },
+        {
           "name": "데자와 로얄 밀크티, 240ml, 30개",
           "price": "13,300원",
           "discount_rate": 29,
@@ -1149,15 +1158,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/271123820061597-08118dbf-f271-4569-9c31-5151563805ae.jpg",
           "url": "https://link.coupang.com/a/iAHVjgYstU",
           "_ts": 1794394975.8769732
-        },
-        {
-          "name": "존쿡델리미트 컨츄리 베이컨 (냉장), 120g, 4개",
-          "price": "16,250원",
-          "discount_rate": 34,
-          "priceAt": "11.11 18:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2ccecb5d-dca1-4b57-b65a-4831ab3541bb6648978937457470980.png",
-          "url": "https://link.coupang.com/a/iACoi4mcY8",
-          "_ts": 1794390334.596821
         }
       ]
     },
@@ -2153,16 +2153,6 @@
           "url": "https://toss.shopping/_m/7cAsXrbr",
           "_ts": 1794392818.1051798,
           "_product_id": "241796467"
-        },
-        {
-          "name": "씨없는 청도 반시, 5kg, 51-60과, 1박스",
-          "price": "7,900원",
-          "discount_rate": 63,
-          "priceAt": "11.11 18:47",
-          "image": "https://shopping.toss.im/live/temp/2026-09-09/eedd5246-1fd2-47e8-8af5-d77b5e45c17e.png",
-          "url": "https://toss.shopping/_m/Dw9mreTg",
-          "_ts": 1794390427.20735,
-          "_product_id": "2652574317"
         }
       ]
     },
