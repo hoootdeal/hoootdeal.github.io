@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쿠첸 전자레인지 다이얼식 20L, CMW-N201W",
+          "price": "49,400원",
+          "discount_rate": 31,
+          "priceAt": "11.16 14:41",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1056825121335562-2ade2a11-2759-4844-87be-9a7107cf41a7.jpg",
+          "url": "https://link.coupang.com/a/iIDsdFDH08",
+          "_ts": 1794807672.889287
+        },
+        {
           "name": "롯데웰푸드 월드콘 + 구구콘 세트 (냉동), 160ml, 1개입, 16개",
           "price": "13,680원",
           "discount_rate": 27,
@@ -1167,42 +1176,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/268741224140966-4ae882cd-c215-4d84-8e29-c26902447a37.jpg",
           "url": "https://link.coupang.com/a/iAlXD2D9ga",
           "_ts": 1794376534.8354628
-        },
-        {
-          "name": "애경바세린 데일리 모이스처 바디로션, 450ml, 1개",
-          "price": "2,780원",
-          "discount_rate": 41,
-          "priceAt": "11.11 14:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/179937400568482-7cd760b4-b1d5-4d68-a828-e63dcbc2bf65.png",
-          "url": "https://link.coupang.com/a/iAkNZulK2u",
-          "_ts": 1794375562.17605
-        },
-        {
-          "name": "곰곰 쌀 떡국떡, 1kg, 2개",
-          "price": "4,420원",
-          "discount_rate": 49,
-          "priceAt": "11.11 14:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/31346547137430-2339312f-220b-49e1-8e99-f451816568f7.jpg",
-          "url": "https://link.coupang.com/a/iAjbP2ihDE",
-          "_ts": 1794374206.561436
-        },
-        {
-          "name": "네스프레소 이스피라치오네 이탈리아나 아르페지오 디카페나토 캡슐커피, 5.5g, 10개입, 1개",
-          "price": "4,390원",
-          "discount_rate": 43,
-          "priceAt": "11.11 13:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/06/26/12/9/3247ca4c-c0ea-4d61-9848-6d03ff65a0d6.jpg",
-          "url": "https://link.coupang.com/a/iAhABodZlI",
-          "_ts": 1794372862.2654378
-        },
-        {
-          "name": "짜파게티 범벅 컵라면 70g, 6개",
-          "price": "3,190원",
-          "discount_rate": 36,
-          "priceAt": "11.11 13:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/259123202019659-69e60d9d-ee5e-4a86-8254-9b2c761c703b.jpg",
-          "url": "https://link.coupang.com/a/iAgUWq5XNs",
-          "_ts": 1794372300.664039
         }
       ]
     },
@@ -2226,16 +2199,6 @@
           "url": "https://toss.shopping/_m/VgeproG3",
           "_ts": 1794376551.882616,
           "_product_id": "148036435"
-        },
-        {
-          "name": "센토 프라임 초미세 딥클린 점보 칫솔, 12개입, 2개",
-          "price": "13,600원",
-          "discount_rate": 72,
-          "priceAt": "11.11 14:35",
-          "image": "https://shopping.toss.im/live/temp/2025-11-05/3285eccd-790e-4bb3-a732-f548238d5a0b.jpeg",
-          "url": "https://toss.shopping/_m/379jTRJj",
-          "_ts": 1794375319.1185868,
-          "_product_id": "301940091"
         }
       ]
     },
