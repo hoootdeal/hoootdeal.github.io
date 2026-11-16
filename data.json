@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 제주담음 제주청귤 고등어구이 3미 (냉동), 1개, 222g",
+          "price": "9,980원",
+          "discount_rate": 33,
+          "priceAt": "11.16 16:19",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/epd96p5g/6f58d5d93cc94075b59811d481d3e561.jpg",
+          "url": "https://link.coupang.com/a/iIKsNn67Nc",
+          "_ts": 1794813557.74988
+        },
+        {
           "name": "불닭볶음면 큰컵 105g, 10개",
           "price": "9,190원",
           "discount_rate": 24,
@@ -1158,24 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/b0i3lzoh/819b67ac7cd24e2ca0e45a09db42dbaa.jpg",
           "url": "https://link.coupang.com/a/iAuKPtnXJA",
           "_ts": 1794383917.155179
-        },
-        {
-          "name": "고구마깡, 83g, 3개",
-          "price": "2,520원",
-          "discount_rate": 37,
-          "priceAt": "11.11 16:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/123724225852234-7935f53f-633a-4368-a420-5ff22d9b9256.jpg",
-          "url": "https://link.coupang.com/a/iArjGbfyea",
-          "_ts": 1794381035.83801
-        },
-        {
-          "name": "바나나킥, 75g, 3개, 75g × 3개",
-          "price": "2,520원",
-          "discount_rate": 35,
-          "priceAt": "11.11 16:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/149724806210642-f2d7e496-1065-467d-ab05-86c3d4df28f6.jpg",
-          "url": "https://link.coupang.com/a/iAqXzSDUv6",
-          "_ts": 1794380731.984521
         }
       ]
     },
