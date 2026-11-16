@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이니스프리 히알루론 수분 선크림 기획 세트 50ml + 20ml SPF50+ PA++++, 2개",
+          "price": "18,360원",
+          "discount_rate": 57,
+          "priceAt": "11.16 22:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/342983939354563-7e1b3e7a-9ca7-4362-a465-730d28718f77.jpg",
+          "url": "https://link.coupang.com/a/iI8OHPv9vU",
+          "_ts": 1794834006.4201658
+        },
+        {
           "name": "스윗토 스테비아 완숙토마토, 1kg, 2개",
           "price": "11,590원",
           "discount_rate": 47,
@@ -2141,16 +2150,6 @@
           "_ts": 1794409336.8297842,
           "_flash": true,
           "_product_id": "86221567"
-        },
-        {
-          "name": "맛꾼 구운란, 대란, 30구, 1개",
-          "price": "10,900원",
-          "discount_rate": 45,
-          "priceAt": "11.11 21:32",
-          "image": "https://shopping.toss.im/live/temp/2026-01-27/1bf55bed-c772-4d55-9035-2a657f24e3b3.jpeg",
-          "url": "https://toss.shopping/_m/p1cLXmI8",
-          "_ts": 1794400336.045902,
-          "_product_id": "446375191"
         }
       ]
     },
