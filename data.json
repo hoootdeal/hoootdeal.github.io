@@ -1149,6 +1149,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "라이프턴 퍼스트 엑스트라버진 올리브오일 캡슐 100, 30캡슐, 6박스",
+          "price": "16,800원",
+          "discount_rate": 90,
+          "priceAt": "11.17 08:04",
+          "image": "https://shopping.toss.im/live/temp/2025-10-10/e03b4240-ae99-4957-ace3-a2c05b52c3bb.jpeg",
+          "url": "https://toss.shopping/_m/JxxV4OGD",
+          "_ts": 1794870278.675488,
+          "_flash": true,
+          "_product_id": "240280587"
+        },
+        {
+          "name": "메르헨트 저분자 히알루론산 모공 토너, 1000ml, 2개",
+          "price": "10,860원",
+          "discount_rate": 72,
+          "priceAt": "11.17 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-07-27/8c936d9f-59f0-46b0-b6b2-1a9497694033.jpeg",
+          "url": "https://toss.shopping/_m/bRhimG2r",
+          "_ts": 1794870278.67546,
+          "_flash": true,
+          "_product_id": "2545977563"
+        },
+        {
+          "name": "아이앤어스 3스텝 캡슐 식기세척기 세제, 레몬향, 10g, 50개입, 2개",
+          "price": "8,250원",
+          "discount_rate": 79,
+          "priceAt": "11.17 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-07-01/0a8c679d-730a-4d5f-a1a5-f6c35a7835a8.png",
+          "url": "https://toss.shopping/_m/prlHACqh",
+          "_ts": 1794870278.675423,
+          "_flash": true,
+          "_product_id": "327142829"
+        },
+        {
           "name": "코리아푸드 백옥콘 강냉이, 1.4kg, 1개",
           "price": "8,160원",
           "discount_rate": 41,
@@ -2127,39 +2160,6 @@
           "_ts": 1794438285.246023,
           "_flash": true,
           "_product_id": "2651879571"
-        },
-        {
-          "name": "동아제약 비타그란 비타민C 1000, 200정, 1개",
-          "price": "8,200원",
-          "discount_rate": 67,
-          "priceAt": "11.12 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-07-13/35456443-13df-4fd4-af99-a37b733c9c99.jpeg",
-          "url": "https://toss.shopping/_m/J0BCkcUg",
-          "_ts": 1794438256.7965639,
-          "_flash": true,
-          "_product_id": "2667663539"
-        },
-        {
-          "name": "동화약품 퀵앤써액 복숭아향, 12ml, 8포, 4박스",
-          "price": "14,870원",
-          "discount_rate": 90,
-          "priceAt": "11.12 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MTc5OWJh/QU5tREhaazNPYk01blp4NlJuTmhSc2JjdWVaTEpubGp3ejNSbThQWjRYdzg.png",
-          "url": "https://toss.shopping/_m/LLkjy4w3",
-          "_ts": 1794438256.796535,
-          "_flash": true,
-          "_product_id": "1234098383"
-        },
-        {
-          "name": "풍연 꿀설기, 50g, 20개",
-          "price": "7,960원",
-          "discount_rate": 60,
-          "priceAt": "11.12 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/Y2Q0NjBl/Vkp5V1RocG9SU1F5MlZiRGlWTXM1RWRic0p4dEkxcmMwS056YUxaUEJwZz0.png",
-          "url": "https://toss.shopping/_m/tvLJxKLu",
-          "_ts": 1794438256.7964952,
-          "_flash": true,
-          "_product_id": "151316073"
         }
       ]
     },
