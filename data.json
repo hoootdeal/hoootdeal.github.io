@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "갭 아이비 방한샌들, 베이지, 280",
+          "price": "15,000원",
+          "discount_rate": 62,
+          "priceAt": "11.16 13:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/948529715745716-3021c979-d07e-4b59-8a50-03cc67e98439.jpg",
+          "url": "https://link.coupang.com/a/iIxkCgbsKO",
+          "_ts": 1794802531.272304
+        },
+        {
           "name": "한돈 앞다리 수육용 (냉장), 1kg, 1개",
           "price": "12,380원",
           "discount_rate": 29,
@@ -1176,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/259123202019659-69e60d9d-ee5e-4a86-8254-9b2c761c703b.jpg",
           "url": "https://link.coupang.com/a/iAgUWq5XNs",
           "_ts": 1794372300.664039
-        },
-        {
-          "name": "미원 맛소금 용기, 95g, 2개",
-          "price": "2,690원",
-          "discount_rate": 39,
-          "priceAt": "11.11 13:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1000356035261-0d962c12-30b1-4d87-80d0-5c0c502b32af.jpg",
-          "url": "https://link.coupang.com/a/iAeCAiC5dc",
-          "_ts": 1794370373.150763
         }
       ]
     },
