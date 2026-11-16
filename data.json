@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "흰다리 새우살 (냉동), 200g(31/50..., 5개, 200g(31/50)",
+          "price": "19,200원",
+          "discount_rate": 54,
+          "priceAt": "11.16 17:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1456896603029111-0d02c9f0-a52e-43e6-8ad9-9caa80cde323.jpg",
+          "url": "https://link.coupang.com/a/iINUN1WFoW",
+          "_ts": 1794816456.192922
+        },
+        {
           "name": "오뚜기 제주담음 제주청귤 고등어구이 3미 (냉동), 1개, 222g",
           "price": "9,980원",
           "discount_rate": 33,
@@ -1158,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/6669347175003-0456f1e6-f40c-4fe6-b843-a75129bff0f3.jpg",
           "url": "https://link.coupang.com/a/iAvqMtCSIe",
           "_ts": 1794384486.03843
-        },
-        {
-          "name": "동원 교자만두 (냉동), 600g, 1개, 600g × 1개",
-          "price": "2,070원",
-          "discount_rate": 48,
-          "priceAt": "11.11 16:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/b0i3lzoh/819b67ac7cd24e2ca0e45a09db42dbaa.jpg",
-          "url": "https://link.coupang.com/a/iAuKPtnXJA",
-          "_ts": 1794383917.155179
         }
       ]
     },
@@ -2170,26 +2170,6 @@
           "url": "https://toss.shopping/_m/v6t7q4bC",
           "_ts": 1794389047.823652,
           "_product_id": "2383220095"
-        },
-        {
-          "name": "살라메르 로얄스네일 콜라겐 앰플 마스크팩, 주름기능성 20매 + 미백기능성 20매, 40매",
-          "price": "11,720원",
-          "discount_rate": 70,
-          "priceAt": "11.11 17:02",
-          "image": "https://shopping.toss.im/live/temp/2025-05-22/a8401a96-ac5f-454f-96a5-155b470e783a.jpeg",
-          "url": "https://toss.shopping/_m/L5Wm9BUg",
-          "_ts": 1794384125.210647,
-          "_product_id": "161346493"
-        },
-        {
-          "name": "풀무원 아임리얼100 고농축 푸룬, 120ml, 24개",
-          "price": "15,470원",
-          "discount_rate": 65,
-          "priceAt": "11.11 16:21",
-          "image": "https://shopping.toss.im/live/taca/ai/N2MzMTY2/QU9ZK05teFkrWnkwb2VWejU1ZVA1NXBlSGh4cHlGWmpkS1hwOVliT3RCcDU.png",
-          "url": "https://toss.shopping/_m/jrzt1aK5",
-          "_ts": 1794381671.567301,
-          "_product_id": "1564275167"
         }
       ]
     },
