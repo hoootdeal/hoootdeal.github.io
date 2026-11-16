@@ -1131,6 +1131,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청년참기름, 350ml, 1개 + 청년들기름, 350ml, 1개",
+          "price": "17,800원",
+          "discount_rate": 65,
+          "priceAt": "11.17 00:02",
+          "image": "https://shopping.toss.im/live/product/74175/aefb4ffd-b4e4-4de5-93dc-d5009423eb1b.jpeg",
+          "url": "https://toss.shopping/_m/tE3BtLGf",
+          "_ts": 1794841337.851229,
+          "_flash": true,
+          "_product_id": "274525487"
+        },
+        {
+          "name": "플로비즈 시그니처 야생화꿀, 2kg, 1개",
+          "price": "14,350원",
+          "discount_rate": 68,
+          "priceAt": "11.17 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/ZjgyMTM3/QUxUbnNPRmJjazhQbk16eThHY2pUczhZWExNNTUrUEswQW9mTlEvMTRPNUY.png",
+          "url": "https://toss.shopping/_m/58yIFqGa",
+          "_ts": 1794841337.8511932,
+          "_flash": true,
+          "_product_id": "103365137"
+        },
+        {
+          "name": "할리스 시그니처 아메리카노 미니, 마일드, 0.9g, 100개입, 3개",
+          "price": "26,900원",
+          "discount_rate": 66,
+          "priceAt": "11.17 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/YTAwNGEx/QUtuL1ZLL1Y2cXZXV3BVLyt2L1YxSytGZXNxbFZmdDNXUHFGci9hbFZGS3A.png",
+          "url": "https://toss.shopping/_m/rbZxHdr4",
+          "_ts": 1794841337.851147,
+          "_flash": true,
+          "_product_id": "156685683"
+        },
+        {
           "name": "수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
           "price": "9,900원",
           "discount_rate": 83,
@@ -2076,39 +2109,6 @@
           "_ts": 1794438228.026412,
           "_flash": true,
           "_product_id": "386800781"
-        },
-        {
-          "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
-          "price": "15,700원",
-          "discount_rate": 66,
-          "priceAt": "11.12 00:02",
-          "image": "https://shopping.toss.im/live/temp/2026-09-08/131ff3ca-add9-4eb4-887d-a5bfc5f03ac0.jpeg",
-          "url": "https://toss.shopping/_m/PjzyV7zd",
-          "_ts": 1794409336.829859,
-          "_flash": true,
-          "_product_id": "2651864571"
-        },
-        {
-          "name": "유한메디카 올데이 비타민C 엔 탑 3000 맥스, 90포, 2개",
-          "price": "15,670원",
-          "discount_rate": 90,
-          "priceAt": "11.12 00:02",
-          "image": "https://shopping.toss.im/live/taca/ai/ZGJlN2Q3/SmxsZWVUOXd5Q2xwT0ppek1UZ2V4ekY0SE1NdWtlV00wcFJ6SE1yV29ibz0.png",
-          "url": "https://toss.shopping/_m/FBpvkMZ1",
-          "_ts": 1794409336.829827,
-          "_flash": true,
-          "_product_id": "58528219"
-        },
-        {
-          "name": "메디트리 파워업 마시는 알부민, 15g, 30포, 3박스",
-          "price": "16,850원",
-          "discount_rate": 83,
-          "priceAt": "11.12 00:02",
-          "image": "https://shopping.toss.im/live/taca/ai/NmNjNTk0/QUtISlhQWmFQbkJKSlliQ1k3STVleDVPOGliRnMwMk1GWlFQcnVwYitxMHE.png",
-          "url": "https://toss.shopping/_m/dNxK6Te2",
-          "_ts": 1794409336.8297842,
-          "_flash": true,
-          "_product_id": "86221567"
         }
       ]
     },
