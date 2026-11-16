@@ -1149,33 +1149,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3034803072328199-b7bd261c-0f92-49f6-bd90-e58be6bfbcd6.jpg",
           "url": "https://link.coupang.com/a/iAz5ms8fEO",
           "_ts": 1794388394.140498
-        },
-        {
-          "name": "벌집핏자, 90g, 3개",
-          "price": "2,520원",
-          "discount_rate": 42,
-          "priceAt": "11.11 18:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/3279/b117baffec205360998d88db5b605450aa0595434e7f2aff590d7affd3a6.jpg",
-          "url": "https://link.coupang.com/a/iAzQCsDtC0",
-          "_ts": 1794388193.487075
-        },
-        {
-          "name": "다시다 명품 골드 쇠고기, 100g, 2개",
-          "price": "4,570원",
-          "discount_rate": 41,
-          "priceAt": "11.11 18:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1239028057463541-24e05113-2ed7-4a4a-954c-c858f5505476.jpg",
-          "url": "https://link.coupang.com/a/iAznpsHduK",
-          "_ts": 1794387798.5362391
-        },
-        {
-          "name": "포테토칩 교촌간장치킨맛, 55g, 3개, 55g × 3개",
-          "price": "2,350원",
-          "discount_rate": 37,
-          "priceAt": "11.11 17:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/92743807480201-c0c8a200-a16f-46a9-a538-6998d3e54c40.jpg",
-          "url": "https://link.coupang.com/a/iAy1DH4DcG",
-          "_ts": 1794387504.573836
         }
       ]
     },
@@ -1184,6 +1157,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "널담 고단백 저당 네모 바게트, 5종혼합, 90g, 10개",
+          "price": "10,090원",
+          "discount_rate": 71,
+          "priceAt": "11.16 18:10",
+          "image": "https://shopping.toss.im/live/taca/ai/ODM2MDAy/WXhneWsxaHBNeU9lM0ZzWjgweHBocDdMcE54TE03YXhhN1lsaGsyZVduST0.png",
+          "url": "https://toss.shopping/_m/n9hUA8wn",
+          "_ts": 1794820244.0286138,
+          "_product_id": "146054185"
+        },
         {
           "name": "프로프룻 시나노골드, 특품, 난좌포장, 5kg, 1박스",
           "price": "12,990원",
