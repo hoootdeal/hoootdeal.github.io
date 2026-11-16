@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "인디안밥, 83g, 8개",
+          "price": "6,930원",
+          "discount_rate": 28,
+          "priceAt": "11.16 11:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/346623668631815-d434f208-6141-407d-9e98-b2f698d4f40e.jpg",
+          "url": "https://link.coupang.com/a/iIowbKdre8",
+          "_ts": 1794795132.0191019
+        },
+        {
           "name": "오레오오즈 컵 시리얼, 30g, 12개",
           "price": "7,660원",
           "discount_rate": 38,
@@ -1203,51 +1212,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/228103078890340-ecc25a33-3998-4feb-9522-e6de39a6031f.jpg",
           "url": "https://link.coupang.com/a/iz6Spc1T4K",
           "_ts": 1794363869.3337421
-        },
-        {
-          "name": "포스틱 과자, 84g, 3개",
-          "price": "2,520원",
-          "discount_rate": 37,
-          "priceAt": "11.11 11:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/581365099347924-49173108-bdcd-41f0-84de-e89df0f5f0e5.jpg",
-          "url": "https://link.coupang.com/a/iz5QtjD1um",
-          "_ts": 1794363002.868313
-        },
-        {
-          "name": "농심 조청유과, 96g, 5개",
-          "price": "4,540원",
-          "discount_rate": 29,
-          "priceAt": "11.11 11:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/890431338746743-bff17348-f524-4af4-b421-0a8ecdcc9ec0.jpg",
-          "url": "https://link.coupang.com/a/iz5qYfAHKe",
-          "_ts": 1794362657.387199
-        },
-        {
-          "name": "백설 핫케익믹스, 1kg, 1개",
-          "price": "2,780원",
-          "discount_rate": 35,
-          "priceAt": "11.11 11:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/9375/6747f6db96482d50dd997b090eda3457c349cfd0056cfcb9e9c858ff46b5.jpg",
-          "url": "https://link.coupang.com/a/iz5crmsDE4",
-          "_ts": 1794362461.1120698
-        },
-        {
-          "name": "짜왕, 8개",
-          "price": "6,470원",
-          "discount_rate": 30,
-          "priceAt": "11.11 10:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/118888610038270-e970db90-b63a-4ae2-b77d-f7770d97633d.jpg",
-          "url": "https://link.coupang.com/a/iz4Yt1adsO",
-          "_ts": 1794362272.6609821
-        },
-        {
-          "name": "청정원 클래식 돈카츠 소스, 400g, 1개",
-          "price": "1,640원",
-          "discount_rate": 41,
-          "priceAt": "11.11 10:53",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/71d1/6727f60742f93d23677afae9fe7944b7bd1c401acc745ed4d7a60c908a31.jpg",
-          "url": "https://link.coupang.com/a/iz4DpqtIOa",
-          "_ts": 1794361987.182824
         }
       ]
     },
