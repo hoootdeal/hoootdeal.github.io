@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "위드샨 60초 매니큐어, M159초코베어, 9ml, 1개",
+          "price": "2,700원",
+          "discount_rate": 48,
+          "priceAt": "11.16 20:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/02/14/11/5/7504e650-ddab-493a-8520-34bdd68f1155.jpg",
+          "url": "https://link.coupang.com/a/iI2njOlcg8",
+          "_ts": 1794828595.8713422
+        },
+        {
           "name": "삼양 불닭볶음탕면 145g, 16개",
           "price": "11,920원",
           "discount_rate": 30,
