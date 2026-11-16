@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "보르니에르 홀그레인 머스타드, 420g, 2개",
+          "price": "17,560원",
+          "discount_rate": 24,
+          "priceAt": "11.16 15:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/958117362395741-fdbf7223-fcd1-40bd-abcb-b0f68dddc348.jpg",
+          "url": "https://link.coupang.com/a/iIGg1Ww6qi",
+          "_ts": 1794810041.80415
+        },
+        {
           "name": "쿠첸 전자레인지 다이얼식 20L, CMW-N201W",
           "price": "49,400원",
           "discount_rate": 31,
@@ -1167,15 +1176,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/78ef/ddd9c1e49fccc81dc6cfc70af1dfbbae44699ffe46ec6275e4cb03ec01a8.jpg",
           "url": "https://link.coupang.com/a/iAnKYxlowC",
           "_ts": 1794378042.943661
-        },
-        {
-          "name": "새우깡, 90g, 4개",
-          "price": "3,020원",
-          "discount_rate": 35,
-          "priceAt": "11.11 14:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/268741224140966-4ae882cd-c215-4d84-8e29-c26902447a37.jpg",
-          "url": "https://link.coupang.com/a/iAlXD2D9ga",
-          "_ts": 1794376534.8354628
         }
       ]
     },
@@ -2189,16 +2189,6 @@
           "url": "https://toss.shopping/_m/jrzt1aK5",
           "_ts": 1794381671.567301,
           "_product_id": "1564275167"
-        },
-        {
-          "name": "한끼루 깐 새우장, 간장, 350g, 2통",
-          "price": "14,750원",
-          "discount_rate": 56,
-          "priceAt": "11.11 14:55",
-          "image": "https://shopping.toss.im/live/taca/ai/MGE1ZDVi/UzN6OW8wOFo4YWU5Ykh2aTlDMmkyWkg4dG53ZTlWWGorNVNPbndWVHpIbz0.png",
-          "url": "https://toss.shopping/_m/VgeproG3",
-          "_ts": 1794376551.882616,
-          "_product_id": "148036435"
         }
       ]
     },
