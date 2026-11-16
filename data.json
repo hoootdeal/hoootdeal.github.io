@@ -1248,6 +1248,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이씨네김치 이씨네 전라도 포기김치, 5kg, 1개",
+          "price": "17,560원",
+          "discount_rate": 60,
+          "priceAt": "11.16 10:11",
+          "image": "https://shopping.toss.im/live/taca/ai/YmViYTM0/TDJ4Q0JxeG1BRGUzUEM5eUJPMnA0Z0M5WjI3U3NjRnZINE51cFFjT1ZxVT0.png",
+          "url": "https://toss.shopping/_m/rvyPB33w",
+          "_ts": 1794791490.374027,
+          "_product_id": "1606006517"
+        },
+        {
           "name": "비타오리진 프리미엄 유기농 레몬즙, 20g, 14포, 3박스",
           "price": "11,600원",
           "discount_rate": 80,
