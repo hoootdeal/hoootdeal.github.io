@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바겐슈타이거 플렉시벨 플래티넘 실리콘 조리도구 8종 세트, 블랙, 1세트",
+          "price": "23,440원",
+          "discount_rate": 34,
+          "priceAt": "11.16 17:28",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1139017462751460-79ab322b-7bc7-47cf-b515-2340eb283f76.jpg",
+          "url": "https://link.coupang.com/a/iIPozCuXfg",
+          "_ts": 1794817698.299972
+        },
+        {
           "name": "흰다리 새우살 (냉동), 200g(31/50..., 5개, 200g(31/50)",
           "price": "19,200원",
           "discount_rate": 54,
@@ -1158,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/92743807480201-c0c8a200-a16f-46a9-a538-6998d3e54c40.jpg",
           "url": "https://link.coupang.com/a/iAy1DH4DcG",
           "_ts": 1794387504.573836
-        },
-        {
-          "name": "알새우칩, 68g, 3개",
-          "price": "2,520원",
-          "discount_rate": 37,
-          "priceAt": "11.11 17:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/6669347175003-0456f1e6-f40c-4fe6-b843-a75129bff0f3.jpg",
-          "url": "https://link.coupang.com/a/iAvqMtCSIe",
-          "_ts": 1794384486.03843
         }
       ]
     },
