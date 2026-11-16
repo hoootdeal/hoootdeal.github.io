@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "홀리카홀리카 마이 페이브 피스 아이섀도우, 로즈토프, 1개",
+          "price": "2,820원",
+          "discount_rate": 39,
+          "priceAt": "11.16 10:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/268501903719644-22e47592-cbea-4985-b341-fe403ebdfdbb.png",
+          "url": "https://link.coupang.com/a/iIj7F25G8a",
+          "_ts": 1794791442.933117
+        },
+        {
           "name": "풀무원 퓨어 무라벨 생수, 500ml, 40개",
           "price": "6,130원",
           "discount_rate": 38,
@@ -1221,24 +1230,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/71d1/6727f60742f93d23677afae9fe7944b7bd1c401acc745ed4d7a60c908a31.jpg",
           "url": "https://link.coupang.com/a/iz4DpqtIOa",
           "_ts": 1794361987.182824
-        },
-        {
-          "name": "킨더 초콜릿 미니 20p, 120g, 1개",
-          "price": "2,500원",
-          "discount_rate": 37,
-          "priceAt": "11.11 10:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/256098277242447-a028c562-9131-46da-8f0c-c6ea9723a2b4.jpg",
-          "url": "https://link.coupang.com/a/iz1A6ZPICi",
-          "_ts": 1794359437.368109
-        },
-        {
-          "name": "가그린 어린이용 구강세정제 딸기향, 380ml, 1개",
-          "price": "1,720원",
-          "discount_rate": 49,
-          "priceAt": "11.11 09:49",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1482609804014276-961fc41a-fa73-48da-b73e-2a755e4581bc.jpg",
-          "url": "https://link.coupang.com/a/izZ3pG8YxM",
-          "_ts": 1794358141.56754
         }
       ]
     },
