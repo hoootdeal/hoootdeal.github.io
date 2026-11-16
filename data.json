@@ -1185,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1000356035261-0d962c12-30b1-4d87-80d0-5c0c502b32af.jpg",
           "url": "https://link.coupang.com/a/iAeCAiC5dc",
           "_ts": 1794370373.150763
-        },
-        {
-          "name": "안성탕면 순하군 125g, 5개",
-          "price": "2,120원",
-          "discount_rate": 39,
-          "priceAt": "11.11 12:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2288221132452370-5fe21320-7453-448f-ad86-16c26152a2df.jpg",
-          "url": "https://link.coupang.com/a/iAdGTmDoHs",
-          "_ts": 1794369591.964624
         }
       ]
     },
@@ -1202,6 +1193,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "헤디안 아로마 데일리 모이스처 바디워시, 호텔포레스트향, 1L, 4개",
+          "price": "16,690원",
+          "discount_rate": 81,
+          "priceAt": "11.16 13:00",
+          "image": "https://shopping.toss.im/live/temp/2026-10-22/8b51e610-286d-4daf-af97-182fba1ebf77.jpeg",
+          "url": "https://toss.shopping/_m/tktET7Tt",
+          "_ts": 1794801609.086677,
+          "_product_id": "274709655"
+        },
         {
           "name": "이씨네김치 이씨네 전라도 포기김치, 5kg, 1개",
           "price": "17,560원",
