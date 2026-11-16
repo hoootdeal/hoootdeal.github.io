@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "삼양 불닭볶음탕면 145g, 16개",
+          "price": "11,920원",
+          "discount_rate": 30,
+          "priceAt": "11.16 19:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/2423064680356067-f9be2c63-a6f5-437b-af2f-5ad95bfec8d5.jpg",
+          "url": "https://link.coupang.com/a/iIZV6SEem4",
+          "_ts": 1794826552.3015501
+        },
+        {
           "name": "불닭 볶음탕면 145g, 16개",
           "price": "11,500원",
           "discount_rate": 34,
@@ -2143,16 +2152,6 @@
           "url": "https://toss.shopping/_m/p1cLXmI8",
           "_ts": 1794400336.045902,
           "_product_id": "446375191"
-        },
-        {
-          "name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
-          "price": "5,490원",
-          "discount_rate": 62,
-          "priceAt": "11.11 19:26",
-          "image": "https://shopping.toss.im/live/taca/ai/YmI1NGJk/QUpobU9jOXRzYlNac25uSVpEbW03Wm1lVTF0TXkweFlNekR6VXNubkhLY00.png",
-          "url": "https://toss.shopping/_m/7cAsXrbr",
-          "_ts": 1794392818.1051798,
-          "_product_id": "241796467"
         }
       ]
     },
