@@ -1140,15 +1140,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/c848/0c859d3b162a171668007bb9de3874cde9a2395802d4eb451854a8c91c71.jpg",
           "url": "https://link.coupang.com/a/iBzGcN5BJY",
           "_ts": 1794440109.3241138
-        },
-        {
-          "name": "덴프스 정품 덴마크 유산균이야기, 30정, 2개, 30정 × 2개",
-          "price": "19,200원",
-          "discount_rate": 39,
-          "priceAt": "11.12 07:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/132787610542910-ea93a5bc-e2cd-46cd-9271-188e275050c0.jpg",
-          "url": "https://link.coupang.com/a/iBwvxm2E6m",
-          "_ts": 1794437447.222481
         }
       ]
     },
@@ -1157,6 +1148,39 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "신흥 박스테이프, 경포장, 100M, 투명, 5개",
+          "price": "6,150원",
+          "discount_rate": 65,
+          "priceAt": "11.17 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-10-12/f31acf27-98df-443b-886a-3f4c2e72cde9.jpeg",
+          "url": "https://toss.shopping/_m/nBPssaXk",
+          "_ts": 1794870225.8135161,
+          "_flash": true,
+          "_product_id": "10608541"
+        },
+        {
+          "name": "서해안 우와한 간장게장, 2kg, 1개",
+          "price": "14,910원",
+          "discount_rate": 61,
+          "priceAt": "11.17 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/ZjQwYjNk/QVdROFNaQ1VlQzhjU0dEYW1CVGl2WVIyeERkVWFoUmIvTzl6d1hIMzQ1ST0.png",
+          "url": "https://toss.shopping/_m/hmbEzPFo",
+          "_ts": 1794870225.813478,
+          "_flash": true,
+          "_product_id": "1734528093"
+        },
+        {
+          "name": "네이처바이 알로에 에센스 마스크팩, 100개입, 1세트",
+          "price": "14,900원",
+          "discount_rate": 70,
+          "priceAt": "11.17 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-01-02/387be3ab-6425-4464-8b70-d7431389b44c.jpeg",
+          "url": "https://toss.shopping/_m/LwBk8am8",
+          "_ts": 1794870225.813432,
+          "_flash": true,
+          "_product_id": "525669803"
+        },
         {
           "name": "청년참기름, 350ml, 1개 + 청년들기름, 350ml, 1개",
           "price": "17,800원",
