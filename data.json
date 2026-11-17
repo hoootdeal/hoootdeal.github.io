@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "삼양 우돈 사골곰탕면 110g, 5개",
+          "price": "3,460원",
+          "discount_rate": 28,
+          "priceAt": "11.17 16:51",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/205426917989951-d7adc252-8ddb-48b7-a0cb-51ff1905bf1f.jpg",
+          "url": "https://link.coupang.com/a/iKrEG1OV2G",
+          "_ts": 1794901880.353774
+        },
+        {
           "name": "오테이스트 손맛 된장국, 5.9g, 24개",
           "price": "15,200원",
           "discount_rate": 29,
