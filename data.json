@@ -1185,24 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/03/09/9/9/65bcd8d2-130a-4137-ab81-143e4e4cd888.png",
           "url": "https://link.coupang.com/a/iDedIPWjbo",
           "_ts": 1794526205.946581
-        },
-        {
-          "name": "옥시크린 큐 바르는 얼룩제거제, 220ml, 2개",
-          "price": "5,250원",
-          "discount_rate": 35,
-          "priceAt": "11.13 07:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/ffea9798-c183-4cf5-8a12-8e0d6bbff34b18385155640305242094.png",
-          "url": "https://link.coupang.com/a/iDaJzlJw7M",
-          "_ts": 1794523277.049421
-        },
-        {
-          "name": "오타후쿠 이카텐 텐까스 오징어맛 우동 후레이크, 2개, 50g",
-          "price": "2,800원",
-          "discount_rate": 36,
-          "priceAt": "11.13 07:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/78698593264702-01524759-85e5-46d3-ae38-9a9ff5fceda2.jpg",
-          "url": "https://link.coupang.com/a/iDafdDsVvo",
-          "_ts": 1794522865.896992
         }
       ]
     },
@@ -1211,6 +1193,39 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "생과일 저온숙성 돼지 생막창, 1kg, 1팩",
+          "price": "11,910원",
+          "discount_rate": 60,
+          "priceAt": "11.18 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-08-10/54e3bc11-7ab9-4d8f-9267-38e22cd4c186.jpeg",
+          "url": "https://toss.shopping/_m/rdoOHKk8",
+          "_ts": 1794956602.91204,
+          "_flash": true,
+          "_product_id": "2598612659"
+        },
+        {
+          "name": "뉴트리가든 혈당 혈행 혈압 코큐텐블러드Q, 650mg, 30캡슐, 3박스",
+          "price": "16,400원",
+          "discount_rate": 81,
+          "priceAt": "11.18 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/NGQ2N2Ux/QU9XT3ROdWVzOU0yc3RiVzI3TFd5WGx0TkcybHlwU21XbzZXUGFHODFKSmU.png",
+          "url": "https://toss.shopping/_m/xQEr0nfe",
+          "_ts": 1794956602.912006,
+          "_flash": true,
+          "_product_id": "87612387"
+        },
+        {
+          "name": "헬로바이오 프리미엄 효소 with 카무트 브랜드 밀, 3g, 30포, 1박스",
+          "price": "7,560원",
+          "discount_rate": 66,
+          "priceAt": "11.18 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-08-11/cfd2dfd3-c086-46a6-b460-81c15299a098.jpeg",
+          "url": "https://toss.shopping/_m/NTe2OEsD",
+          "_ts": 1794956602.911967,
+          "_flash": true,
+          "_product_id": "2258632599"
+        },
         {
           "name": "올바른 유기농 레몬즙 착즙 100, 스페인산, 20g, 14포, 6박스",
           "price": "15,900원",
