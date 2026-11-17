@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "갭 캠프 패딩 슬리퍼, 블랙, 270",
+          "price": "27,800원",
+          "discount_rate": 30,
+          "priceAt": "11.17 13:21",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/09/27/17/1/f3bf8de9-d8e4-4837-9c7c-1dde25fa6d9b.jpg",
+          "url": "https://link.coupang.com/a/iKcFeGdbW0",
+          "_ts": 1794889289.0422678
+        },
+        {
           "name": "스킨푸드 블랙슈가 퍼펙트 엔자임 파우더 워시 30p, 36g, 1개",
           "price": "6,630원",
           "discount_rate": 50,
@@ -1167,15 +1176,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3564957005783793-f50966c5-1135-4c37-9834-7e489e73882f.jpg",
           "url": "https://link.coupang.com/a/iBVYVghYyG",
           "_ts": 1794458835.764948
-        },
-        {
-          "name": "에코맘의산골이유식 산골고구마, 고구마, 70g, 2개",
-          "price": "4,000원",
-          "discount_rate": 44,
-          "priceAt": "11.12 12:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/80713668655405-190d622d-5c50-4576-9157-8786f1f7de17.jpg",
-          "url": "https://link.coupang.com/a/iBSjxJJUSO",
-          "_ts": 1794455755.25361
         }
       ]
     },
