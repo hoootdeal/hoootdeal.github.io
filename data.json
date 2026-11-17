@@ -1203,6 +1203,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "산지직송 제주 감귤, 대과 이상, 10kg, 1박스",
+          "price": "8,900원",
+          "discount_rate": 68,
+          "priceAt": "11.17 18:09",
+          "image": "https://shopping.toss.im/live/temp/2026-10-18/62a26f73-c269-48ba-90c2-dc2952c201ed.jpeg",
+          "url": "https://toss.shopping/_m/PNZl6qRk",
+          "_ts": 1794906582.573626,
+          "_product_id": "2714205019"
+        },
+        {
           "name": "야무진살림 스텐304 양면도마, 스텐+핑크, 365x250x10mm, 1개",
           "price": "14,220원",
           "discount_rate": 64,
