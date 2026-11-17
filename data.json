@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "프릴 시크릿 오브 베이킹소다 플러스 퓨어레몬향, 700ml, 2개",
+          "price": "8,740원",
+          "discount_rate": 36,
+          "priceAt": "11.17 09:25",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/ebaaf14a-626d-425b-b530-1756b4cad0a215282826042719047888.png",
+          "url": "https://link.coupang.com/a/iJVPlg8UQ8",
+          "_ts": 1794875155.57647
+        },
+        {
           "name": "롯데웰푸드 크런키 초콜릿, 34g, 24개",
           "price": "17,220원",
           "discount_rate": 23,
@@ -1140,15 +1149,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3b0b0bb6-fe1d-4413-9428-98470bd9aa6b6767064610774060613.png",
           "url": "https://link.coupang.com/a/iBDKa4XfRk",
           "_ts": 1794443521.1901739
-        },
-        {
-          "name": "매일우유 멸균 딸기, 200ml, 24개",
-          "price": "11,500원",
-          "discount_rate": 30,
-          "priceAt": "11.12 09:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/fd8b/461d0d06c1882ed4e2e8f33555dd062c9687bb69af5c54bdcef7f83aacd4.jpg",
-          "url": "https://link.coupang.com/a/iBB1tA4zZc",
-          "_ts": 1794442077.767501
         }
       ]
     },
