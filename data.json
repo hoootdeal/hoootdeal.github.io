@@ -1194,15 +1194,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/14929183761577-b9ceb919-3794-4053-89e2-c96d34b0b5cd.jpg",
           "url": "https://link.coupang.com/a/iCfJduF1Lo",
           "_ts": 1794475414.099
-        },
-        {
-          "name": "모리나가 소금 카라멜, 2개, 83g",
-          "price": "5,620원",
-          "discount_rate": 30,
-          "priceAt": "11.12 17:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/8160b1bf-4959-496c-b3e0-3aa2175b455410486260188420083652.png",
-          "url": "https://link.coupang.com/a/iCczg2DEVU",
-          "_ts": 1794472761.7504268
         }
       ]
     },
@@ -1211,6 +1202,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "야무진살림 스텐304 양면도마, 스텐+핑크, 365x250x10mm, 1개",
+          "price": "14,220원",
+          "discount_rate": 64,
+          "priceAt": "11.17 17:44",
+          "image": "https://shopping.toss.im/live/temp/2025-06-04/64a42973-882d-4d87-90ea-697ce048df09.jpeg",
+          "url": "https://toss.shopping/_m/r1Kn4oVo",
+          "_ts": 1794905046.613426,
+          "_product_id": "115251205"
+        },
         {
           "name": "슬림떡볶이 혼합맛 세트, 로제맛 2개 + 중간맛 1개 + 매운맛 1개, 230g, 4개",
           "price": "7,170원",
