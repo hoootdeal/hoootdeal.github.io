@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "백설 육수에는 1분링 야채 50개입, 200g, 2개",
+          "price": "11,500원",
+          "discount_rate": 26,
+          "priceAt": "11.17 14:46",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/0706b655-78c5-481d-8ce1-aeedafd7dc118396906452469154871.png",
+          "url": "https://link.coupang.com/a/iKiJva6cWi",
+          "_ts": 1794894388.227901
+        },
+        {
           "name": "홈스타 락스와 세제 허벌시트러스, 750ml, 2개",
           "price": "4,090원",
           "discount_rate": 30,
@@ -1167,24 +1176,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/656690119600158-ad84138e-cc38-4106-8029-20841f5c94b1.jpg",
           "url": "https://link.coupang.com/a/iB2Fjyb5Lo",
           "_ts": 1794464447.94091
-        },
-        {
-          "name": "오뚜기 오쉐프 토마토 파스타 소스, 2kg, 1개",
-          "price": "5,500원",
-          "discount_rate": 33,
-          "priceAt": "11.12 14:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/04/16/9/9/e78fc3a4-e53a-4441-ac68-ec9498fbb48a.jpg",
-          "url": "https://link.coupang.com/a/iBZTFoFzCm",
-          "_ts": 1794462120.854623
-        },
-        {
-          "name": "빽다방 아메리카노 스틱커피, 1.6g, 100개입, 4개",
-          "price": "52,510원",
-          "discount_rate": 31,
-          "priceAt": "11.12 14:32",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/22117b29-aa7c-4512-a6b9-9d66ab7322cc2143458513890986654.png",
-          "url": "https://link.coupang.com/a/iBZfuExzjg",
-          "_ts": 1794461578.212853
         }
       ]
     },
@@ -2160,16 +2151,6 @@
           "url": "https://toss.shopping/_m/rybSyyal",
           "_ts": 1794466067.501838,
           "_product_id": "157010575"
-        },
-        {
-          "name": "파파네정육점 통삼겹살, 수육용, 1kg, 2개",
-          "price": "14,900원",
-          "discount_rate": 61,
-          "priceAt": "11.12 14:32",
-          "image": "https://shopping.toss.im/live/temp/2025-02-11/7c310022-457f-454e-8a9e-3febca69d059.jpeg",
-          "url": "https://toss.shopping/_m/tYRvmUnm",
-          "_ts": 1794461540.167181,
-          "_product_id": "80369007"
         }
       ]
     },
