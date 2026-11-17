@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "홈스타 락스와 세제 허벌시트러스, 750ml, 2개",
+          "price": "4,090원",
+          "discount_rate": 30,
+          "priceAt": "11.17 14:05",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/29042384652044-77b807b3-ad99-4a48-8493-46b298869015.jpg",
+          "url": "https://link.coupang.com/a/iKfOyW2fLM",
+          "_ts": 1794891939.640626
+        },
+        {
           "name": "데일리라이크 파스텔 스텐 머그컵 300ml x 4종 세트, 혼합색상, 1개",
           "price": "11,300원",
           "discount_rate": 62,
@@ -1176,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/22117b29-aa7c-4512-a6b9-9d66ab7322cc2143458513890986654.png",
           "url": "https://link.coupang.com/a/iBZfuExzjg",
           "_ts": 1794461578.212853
-        },
-        {
-          "name": "이니스프리 비자 시카 밤, 40ml, 1개, 40ml × 1개",
-          "price": "5,850원",
-          "discount_rate": 57,
-          "priceAt": "11.12 13:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3564957005783793-f50966c5-1135-4c37-9834-7e489e73882f.jpg",
-          "url": "https://link.coupang.com/a/iBVYVghYyG",
-          "_ts": 1794458835.764948
         }
       ]
     },
