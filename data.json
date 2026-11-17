@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "폴메디슨 그린라차 후레쉬민트 치약, 150g, 4개",
+          "price": "6,720원",
+          "discount_rate": 46,
+          "priceAt": "11.17 20:13",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/05/26/13/4/d71d5147-154c-419e-89e4-6518cbb96c13.jpg",
+          "url": "https://link.coupang.com/a/iKF5aRZGSa",
+          "_ts": 1794913996.763944
+        },
+        {
           "name": "제주 손질 고등어 (냉동), 150g, 4개",
           "price": "7,250원",
           "discount_rate": 30,
@@ -1194,15 +1203,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1111120298120075-03c0c2ab-b1ee-4a5a-860e-77f488bc82e5.jpg",
           "url": "https://link.coupang.com/a/iCqN7xdUJw",
           "_ts": 1794484716.0029418
-        },
-        {
-          "name": "아오란 캠핑의자 접이식 각도조절 경량 무중력의자, 카키 카키색 통풍망, 2개",
-          "price": "14,900원",
-          "discount_rate": 45,
-          "priceAt": "11.12 20:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/537c/5783f8857b6593f57b3795fb8596395597d3986df69d219a91a7c0bbc8be.png",
-          "url": "https://link.coupang.com/a/iCnvrl9lbU",
-          "_ts": 1794481944.795647
         }
       ]
     },
