@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "일리윤 세라마이드 아토 버블워시 앤 샴푸 바디워시 무향, 900ml, 1개",
+          "price": "13,100원",
+          "discount_rate": 40,
+          "priceAt": "11.17 15:53",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/99932012017758-8e0abc5f-dd20-4d92-b31e-b239d3876e2f.jpg",
+          "url": "https://link.coupang.com/a/iKnyBrQlK8",
+          "_ts": 1794898438.817502
+        },
+        {
           "name": "신송 짠맛을 줄인 건강한 재래된장, 1kg, 4개",
           "price": "10,700원",
           "discount_rate": 45,
@@ -1176,15 +1185,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/822e/e5b5225af0715832048c111d5b297f5442501d27d488df779f5e71cd641f.jpg",
           "url": "https://link.coupang.com/a/iB8ndFJezQ",
           "_ts": 1794469239.553087
-        },
-        {
-          "name": "그로비타 구피 열대어 사료, 130g, 1개",
-          "price": "5,620원",
-          "discount_rate": 40,
-          "priceAt": "11.12 15:52",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/147441974259364-d54e5187-38f2-45f0-a9c1-0713bfe4e645.jpg",
-          "url": "https://link.coupang.com/a/iB4XiMOoQ8",
-          "_ts": 1794466367.7161338
         }
       ]
     },
@@ -2160,16 +2160,6 @@
           "url": "https://toss.shopping/_m/1aeQApns",
           "_ts": 1794477220.7810109,
           "_product_id": "115211959"
-        },
-        {
-          "name": "사운독스 노이즈 캔슬링 무선 이어폰, Y-07, 화이트, 1개",
-          "price": "16,900원",
-          "discount_rate": 81,
-          "priceAt": "11.12 15:47",
-          "image": "https://shopping.toss.im/live/taca/ai/YjkxZWEw/QVBjR1kvL1J5ZndZR0luMlltSjJIWWZybEJpOTduUm1ZVFZVK1B4VndCY0Q.png",
-          "url": "https://toss.shopping/_m/rybSyyal",
-          "_ts": 1794466067.501838,
-          "_product_id": "157010575"
         }
       ]
     },
