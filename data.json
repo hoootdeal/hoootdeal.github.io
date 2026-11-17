@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스킨푸드 블랙슈가 퍼펙트 엔자임 파우더 워시 30p, 36g, 1개",
+          "price": "6,630원",
+          "discount_rate": 50,
+          "priceAt": "11.17 12:43",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/e101/c8789e92b208114f5902ae1892db13ef63a45bf8e507d62c7a5a0e0cc92e.jpg",
+          "url": "https://link.coupang.com/a/iJ9YoiE7Mq",
+          "_ts": 1794887032.155485
+        },
+        {
           "name": "엠바레 밀크 카라멜, 720g, 2개",
           "price": "8,960원",
           "discount_rate": 30,
@@ -2142,16 +2151,6 @@
           "url": "https://toss.shopping/_m/tYRvmUnm",
           "_ts": 1794461540.167181,
           "_product_id": "80369007"
-        },
-        {
-          "name": "퓨어코튼 플레쉬블루 고농축 실내건조 섬유유연제 본품, 5.5L, 1개",
-          "price": "10,251원",
-          "discount_rate": 57,
-          "priceAt": "11.12 12:40",
-          "image": "https://shopping.toss.im/live/temp/2026-03-11/77bceb55-073f-4b32-89ea-553ab490f3d3.jpeg",
-          "url": "https://toss.shopping/_m/TgWg2D1m",
-          "_ts": 1794454836.673673,
-          "_product_id": "1111578083"
         }
       ]
     },
