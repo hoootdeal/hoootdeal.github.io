@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "신송 짠맛을 줄인 건강한 재래된장, 1kg, 4개",
+          "price": "10,700원",
+          "discount_rate": 45,
+          "priceAt": "11.17 15:39",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/125718369387154-1e90fb64-12e5-4b7d-82ce-0b26754e6cc7.jpg",
+          "url": "https://link.coupang.com/a/iKmvstmRsO",
+          "_ts": 1794897554.552864
+        },
+        {
           "name": "허쉬 초콜릿 드링크 쿠키앤크림, 235ml, 24개",
           "price": "14,700원",
           "discount_rate": 27,
