@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "포켓커피 페레로 초콜릿 5p, 62.5g, 1개",
+          "price": "3,920원",
+          "discount_rate": 51,
+          "priceAt": "11.18 07:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/426309971770747-008ff076-6760-4f00-8156-d9e5ccb7cf10.jpg",
+          "url": "https://link.coupang.com/a/iLszbi0wto",
+          "_ts": 1794954701.809977
+        },
+        {
           "name": "잔스포츠 남녀공용 하프 파인트 백팩 JS00TDH6, 프리, 블랙",
           "price": "21,280원",
           "discount_rate": 42,
@@ -1194,24 +1203,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/78698593264702-01524759-85e5-46d3-ae38-9a9ff5fceda2.jpg",
           "url": "https://link.coupang.com/a/iDafdDsVvo",
           "_ts": 1794522865.896992
-        },
-        {
-          "name": "PSK 칠레산 블루베리, 310g, 1개",
-          "price": "9,980원",
-          "discount_rate": 23,
-          "priceAt": "11.13 07:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4264201145038356-7050c5f2-9513-42b2-98ed-b6d34011af00.jpg",
-          "url": "https://link.coupang.com/a/iC8ZTEYqbs",
-          "_ts": 1794521820.039532
-        },
-        {
-          "name": "청우식품 초코파이찰떡, 215g, 2개",
-          "price": "5,090원",
-          "discount_rate": 28,
-          "priceAt": "11.13 07:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2121072438821752-e8d2137d-1b7b-4dce-a1c8-654eb3c0196a.jpg",
-          "url": "https://link.coupang.com/a/iC8LTwe5vM",
-          "_ts": 1794521630.383148
         }
       ]
     },
