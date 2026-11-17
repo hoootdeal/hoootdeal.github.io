@@ -1167,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/147441974259364-d54e5187-38f2-45f0-a9c1-0713bfe4e645.jpg",
           "url": "https://link.coupang.com/a/iB4XiMOoQ8",
           "_ts": 1794466367.7161338
-        },
-        {
-          "name": "백설 햄스빌 굿베이컨, 110g, 6개",
-          "price": "7,480원",
-          "discount_rate": 24,
-          "priceAt": "11.12 15:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/656690119600158-ad84138e-cc38-4106-8029-20841f5c94b1.jpg",
-          "url": "https://link.coupang.com/a/iB2Fjyb5Lo",
-          "_ts": 1794464447.94091
         }
       ]
     },
@@ -1184,6 +1175,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "슬림떡볶이 혼합맛 세트, 로제맛 2개 + 중간맛 1개 + 매운맛 1개, 230g, 4개",
+          "price": "7,170원",
+          "discount_rate": 54,
+          "priceAt": "11.17 15:28",
+          "image": "https://shopping.toss.im/live/temp/2026-08-10/6f1a5b34-e012-4a5b-8d48-e0a5bf0019e8.jpeg",
+          "url": "https://toss.shopping/_m/1mLA00ni",
+          "_ts": 1794896897.715976,
+          "_product_id": "2599285231"
+        },
         {
           "name": "배스킨라빈스 과즙워터 애플요거트 + 레인보우샤베트, 120ml, 24팩 + 24팩, 1세트",
           "price": "13,270원",
