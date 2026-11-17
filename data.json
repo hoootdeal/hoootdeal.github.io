@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "잔스포츠 남녀공용 하프 파인트 백팩 JS00TDH6, 프리, 블랙",
+          "price": "21,280원",
+          "discount_rate": 42,
+          "priceAt": "11.17 21:51",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5c79/491cbefccc497b9d01d65b722b8fdf257adb0ad6cf12ac5e03b72b8be957.png",
+          "url": "https://link.coupang.com/a/iKM8Eps7EW",
+          "_ts": 1794919915.0734248
+        },
+        {
           "name": "냉장고바지 여성 와이드 밴딩 팬츠 살랑살랑 냉감소재 여름 통풍바지 베이잉, 블랙, F(권장55-77)",
           "price": "3,000원",
           "discount_rate": 40,
@@ -1203,15 +1212,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2121072438821752-e8d2137d-1b7b-4dce-a1c8-654eb3c0196a.jpg",
           "url": "https://link.coupang.com/a/iC8LTwe5vM",
           "_ts": 1794521630.383148
-        },
-        {
-          "name": "곰곰 고당도 12.5brix 감귤, 1kg(로열과), 1개, 1kg(로열과) × 1개",
-          "price": "7,790원",
-          "discount_rate": 34,
-          "priceAt": "11.12 21:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2711457921615327-b1167a4f-0918-4c15-906b-484f7d918aee.jpg",
-          "url": "https://link.coupang.com/a/iCuxkoIwfI",
-          "_ts": 1794487847.41068
         }
       ]
     },
