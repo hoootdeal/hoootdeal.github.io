@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "제주 손질 고등어 (냉동), 150g, 4개",
+          "price": "7,250원",
+          "discount_rate": 30,
+          "priceAt": "11.17 20:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1373006019071471-6a450b83-006f-495a-85f1-d9917c37471d.jpg",
+          "url": "https://link.coupang.com/a/iKFNtO48Rg",
+          "_ts": 1794913752.991982
+        },
+        {
           "name": "해태제과 아이비 크래커, 155g, 6개",
           "price": "8,580원",
           "discount_rate": 26,
