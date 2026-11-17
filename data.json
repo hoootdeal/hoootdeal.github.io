@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "곰곰 부여 햇 알밤, 1kg, 1팩",
+          "price": "5,140원",
+          "discount_rate": 44,
+          "priceAt": "11.17 18:50",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/176908895232999-dcffb420-db43-49a5-ae44-3246e39388c6.jpg",
+          "url": "https://link.coupang.com/a/iKAarOkGAK",
+          "_ts": 1794909025.1944692
+        },
+        {
           "name": "이엔푸드 노리 후리가께, 500g, 2박스",
           "price": "11,000원",
           "discount_rate": 33,
@@ -1194,15 +1203,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/463765284757418-cb0955d9-9b3b-4aab-a6a5-3cee3f947653.jpg",
           "url": "https://link.coupang.com/a/iCieHzMr3Q",
           "_ts": 1794477520.755947
-        },
-        {
-          "name": "스팸 25% 라이트, 1.81kg, 1개, 1.81kg × 1개",
-          "price": "21,640원",
-          "discount_rate": 29,
-          "priceAt": "11.12 18:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/14929183761577-b9ceb919-3794-4053-89e2-c96d34b0b5cd.jpg",
-          "url": "https://link.coupang.com/a/iCfJduF1Lo",
-          "_ts": 1794475414.099
         }
       ]
     },
