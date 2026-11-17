@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "냉장고바지 여성 와이드 밴딩 팬츠 살랑살랑 냉감소재 여름 통풍바지 베이잉, 블랙, F(권장55-77)",
+          "price": "3,000원",
+          "discount_rate": 40,
+          "priceAt": "11.17 21:24",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1039/ec8811e5c3e8efd61b52dc71d17e47ea041533afaa277ee39de39839e06d.jpg",
+          "url": "https://link.coupang.com/a/iKK87jlSZE",
+          "_ts": 1794918244.8132339
+        },
+        {
           "name": "스너글 허거블 코튼 클린 앤 케어 시그니처향 캡슐세제 15g, 13개입, 1개",
           "price": "5,300원",
           "discount_rate": 60,
@@ -1203,15 +1212,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2711457921615327-b1167a4f-0918-4c15-906b-484f7d918aee.jpg",
           "url": "https://link.coupang.com/a/iCuxkoIwfI",
           "_ts": 1794487847.41068
-        },
-        {
-          "name": "광식이농장 칵테일토마토, 700g, 1팩, 700g × 1팩",
-          "price": "4,190원",
-          "discount_rate": 40,
-          "priceAt": "11.12 20:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1111120298120075-03c0c2ab-b1ee-4a5a-860e-77f488bc82e5.jpg",
-          "url": "https://link.coupang.com/a/iCqN7xdUJw",
-          "_ts": 1794484716.0029418
         }
       ]
     },
@@ -2187,16 +2187,6 @@
           "_ts": 1794495740.324353,
           "_flash": true,
           "_product_id": "774304463"
-        },
-        {
-          "name": "오뚜기 컵밥 12개 세트, 진짬뽕밥 3개 + 전주식 콩나물국밥 3개 + 미역국밥 3개 + 사골곰탕밥 3개, 1세트",
-          "price": "26,060원",
-          "discount_rate": 58,
-          "priceAt": "11.12 20:58",
-          "image": "https://shopping.toss.im/live/taca/ai/ZGRhZGE4/QUxXbVNIUE01NHNPSHpZOC9IT1VzMnUyM0hLMEk1UzN1MGpSYXhaTTBUVFU.png",
-          "url": "https://toss.shopping/_m/dU1TIabv",
-          "_ts": 1794484734.0790558,
-          "_product_id": "2324747655"
         }
       ]
     },
