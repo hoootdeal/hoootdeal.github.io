@@ -1266,6 +1266,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "탐나유 호풍미 호박고구마, 한입, 5kg, 1개",
+          "price": "9,070원",
+          "discount_rate": 63,
+          "priceAt": "11.18 17:40",
+          "image": "https://shopping.toss.im/live/temp/2025-11-24/0ec0e42c-1e04-4bd9-a0d7-e4192d0c5546.jpeg",
+          "url": "https://toss.shopping/_m/RtHxqPqq",
+          "_ts": 1794991249.8703701,
+          "_product_id": "2640177923"
+        },
+        {
           "name": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
           "price": "8,600원",
           "discount_rate": 49,
