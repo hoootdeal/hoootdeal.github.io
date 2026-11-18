@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "원스탑 제로갭 슬림 납작 컬러 개별 스위치 멀티탭 3구 16A + 안전커버 세트, 1m, 버터옐로우, 1세트",
+          "price": "8,300원",
+          "discount_rate": 39,
+          "priceAt": "11.18 15:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1780125769470353-c79bbfc6-2e6c-4525-a477-adf9f3bfdaf4.jpg",
+          "url": "https://link.coupang.com/a/iLZKPY0ulM",
+          "_ts": 1794982563.88316
+        },
+        {
           "name": "돼지바 요거트 저당 (냉동), 8개, 1개입, 70ml",
           "price": "4,800원",
           "discount_rate": 41,
@@ -1248,15 +1257,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/02/26/18/5/4ba6e900-34ae-4399-9e5c-b9242e47b9a6.jpg",
           "url": "https://link.coupang.com/a/iDJI2V26JE",
           "_ts": 1794552655.484155
-        },
-        {
-          "name": "이니스프리 New 비자 바하 트러블 클렌징 폼, 150g, 2개",
-          "price": "6,530원",
-          "discount_rate": 38,
-          "priceAt": "11.13 15:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/28278735821283-7e6bca71-a5bf-4450-94ea-643913ff7ec8.jpg",
-          "url": "https://link.coupang.com/a/iDF5CV3ZWC",
-          "_ts": 1794549602.864656
         }
       ]
     },
