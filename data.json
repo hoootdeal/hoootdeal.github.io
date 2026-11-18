@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "상하목장 얼려먹는 아이스크림 귤 배, 85ml, 24개",
+          "price": "11,240원",
+          "discount_rate": 30,
+          "priceAt": "11.19 08:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/04/28/11/6/85deda89-cc2d-4d9c-a252-a8edc90b433f.jpg",
+          "url": "https://link.coupang.com/a/iNalSMo8S4",
+          "_ts": 1795043518.9760041
+        },
+        {
           "name": "페레로로쉐 라파엘로, 150g, 1개",
           "price": "7,680원",
           "discount_rate": 36,
@@ -2167,72 +2176,6 @@
           "url": "https://toss.shopping/_m/ZQ0pCS7i",
           "_ts": 1794626447.94698,
           "_product_id": "9628313"
-        },
-        {
-          "name": "일양약품 눈건강 루테인 골드, 500mg, 30캡슐, 4박스",
-          "price": "16,720원",
-          "discount_rate": 91,
-          "priceAt": "11.14 08:05",
-          "image": "https://shopping.toss.im/live/taca/ai/Mzg2Mjhi/YUh4dmI2SGgyNVlQelJ3YzJUblBsbTgwSGg2Nk5PTndhOUhoNlFQUVBVTT0.png",
-          "url": "https://toss.shopping/_m/bpKT3X7d",
-          "_ts": 1794611112.970582,
-          "_flash": true,
-          "_product_id": "7706995"
-        },
-        {
-          "name": "이스트밸리 트리플 슈레드 치즈, 1kg, 1개",
-          "price": "13,020원",
-          "discount_rate": 48,
-          "priceAt": "11.14 08:05",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTNmOGM5/QU5EOHBXbDBLenNVcndQT2RDN1MwWnpCakRPaDBEbHNiMmRXbXBNUDFLMTg.png",
-          "url": "https://toss.shopping/_m/ZF2FBjj2",
-          "_ts": 1794611112.970557,
-          "_flash": true,
-          "_product_id": "841049705"
-        },
-        {
-          "name": "사리원 소불고기, 500g, 4팩",
-          "price": "14,900원",
-          "discount_rate": 62,
-          "priceAt": "11.14 08:05",
-          "image": "https://shopping.toss.im/live/taca/ai/MDVkNWU3/QU9uMEFXT0h1WUhHdjlEeHJCNUFRNlg5WUlleDhDSWZBV1BDQ0QvT0R2UGk.png",
-          "url": "https://toss.shopping/_m/l58b1wJ5",
-          "_ts": 1794611112.97052,
-          "_flash": true,
-          "_product_id": "128320725"
-        },
-        {
-          "name": "대한민국농수산 착한감자탕, 3kg, 1개",
-          "price": "10,900원",
-          "discount_rate": 71,
-          "priceAt": "11.14 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/YTYyY2Uz/QVBEb25jd2JIRW5ObXp5enczTWxFaTloTVR4enRqTWs4ZVExMDV4YTBvdGg.png",
-          "url": "https://toss.shopping/_m/95RLprWp",
-          "_ts": 1794611085.1375968,
-          "_flash": true,
-          "_product_id": "1635986563"
-        },
-        {
-          "name": "은우담 설탕없는 진한 쌍화차, 18g, 20개입, 2박스",
-          "price": "16,890원",
-          "discount_rate": 71,
-          "priceAt": "11.14 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-02-07/3fdc895c-e2b1-4188-be1c-00890764c490.jpeg",
-          "url": "https://toss.shopping/_m/1N3AV67b",
-          "_ts": 1794611085.137567,
-          "_flash": true,
-          "_product_id": "811845505"
-        },
-        {
-          "name": "빌트루 프리미엄 카무트 곡물 효소 골드, 3g, 30포, 2박스",
-          "price": "11,380원",
-          "discount_rate": 61,
-          "priceAt": "11.14 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/Yzg4MTlh/QUozQk10b3M4MXFidm1YTCtQOEVJM1J3dERsVytaVXpicVBReGEvTVJONkI.png",
-          "url": "https://toss.shopping/_m/pjSMzbS9",
-          "_ts": 1794611085.1375191,
-          "_flash": true,
-          "_product_id": "2604991473"
         }
       ]
     },
