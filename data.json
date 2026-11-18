@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "자연실록 무항생제 인증 태양초 닭볶음탕 밀키트, 600g, 1개",
+          "price": "7,720원",
+          "discount_rate": 41,
+          "priceAt": "11.18 17:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2020/04/06/18/2/741cf758-0a4b-465c-ad78-bf5a9e588d0e.jpg",
+          "url": "https://link.coupang.com/a/iL8F6JdoUm",
+          "_ts": 1794990056.8883572
+        },
+        {
           "name": "크래프트 아보카도 오일 마요네즈, 354ml, 1개",
           "price": "3,220원",
           "discount_rate": 28,
@@ -1248,24 +1257,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/340023104947790-2609c850-168c-4071-bc8a-69adeccfb628.jpg",
           "url": "https://link.coupang.com/a/iDSJdu74U0",
           "_ts": 1794560214.498365
-        },
-        {
-          "name": "이금기 팬더 굴소스, 320g, 2개",
-          "price": "4,980원",
-          "discount_rate": 30,
-          "priceAt": "11.13 17:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/dfaa77a1-e3be-4adb-9c62-fca730739a389495682882417082134.png",
-          "url": "https://link.coupang.com/a/iDO6KyzOJU",
-          "_ts": 1794557174.80964
-        },
-        {
-          "name": "밀라 마스카포네 치즈, 250g, 1개입, 1개",
-          "price": "5,500원",
-          "discount_rate": 31,
-          "priceAt": "11.13 16:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/42475291036571-490b5dcd-8f9a-4317-8307-f4ca0b60cd4a.jpg",
-          "url": "https://link.coupang.com/a/iDNvaIyllk",
-          "_ts": 1794555825.734875
         }
       ]
     },
@@ -2228,16 +2219,6 @@
           "url": "https://toss.shopping/_m/NTQfNbXt",
           "_ts": 1794561276.584404,
           "_product_id": "2179426111"
-        },
-        {
-          "name": "맘스럽 플로럴 액체세제, 2.5L, 5개",
-          "price": "6,890원",
-          "discount_rate": 56,
-          "priceAt": "11.13 17:04",
-          "image": "https://shopping.toss.im/live/temp/2026-06-26/14462407-64c6-4bd0-928f-ab234f01c071.jpeg",
-          "url": "https://toss.shopping/_m/75K6e7a2",
-          "_ts": 1794557063.7359822,
-          "_product_id": "2335791299"
         }
       ]
     },
