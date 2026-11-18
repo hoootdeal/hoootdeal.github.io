@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "내츄럴스파이스 크러쉬드 레드페퍼, 340g, 1개",
+          "price": "8,250원",
+          "discount_rate": 32,
+          "priceAt": "11.18 10:59",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/8435039960206843-933e1612-628d-48a5-9295-784e17e68ad1.jpg",
+          "url": "https://link.coupang.com/a/iLHr2GupEG",
+          "_ts": 1794967196.290126
+        },
+        {
           "name": "강황 수용성 리포좀 커큐민 골드플러스 식약처인증 100% HACCP, 2개, 30정",
           "price": "9,900원",
           "discount_rate": 37,
@@ -1221,15 +1230,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/01/16/14/0/5a5cd35e-8093-4332-a812-bf6e384c92db.jpg",
           "url": "https://link.coupang.com/a/iDseLSjF0u",
           "_ts": 1794537974.227642
-        },
-        {
-          "name": "프로메가 알티지 오메가3 듀얼 플러스, 60정, 1개, 60정 × 1개",
-          "price": "8,900원",
-          "discount_rate": 31,
-          "priceAt": "11.13 10:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3287297779299569-2a1e5fbe-73ef-45cb-a669-2ebf8d85dcd7.jpg",
-          "url": "https://link.coupang.com/a/iDoBCpF1yK",
-          "_ts": 1794534925.6357708
         }
       ]
     },
