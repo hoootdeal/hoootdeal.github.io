@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "셀렉스 프로핏 밀크 바닐라, 250ml, 2개",
+          "price": "3,070원",
+          "discount_rate": 39,
+          "priceAt": "11.18 11:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/53958715792576-1f8e70ce-1a5e-4160-be1f-7ee99be21301.jpg",
+          "url": "https://link.coupang.com/a/iLKeRby56G",
+          "_ts": 1794969537.741496
+        },
+        {
           "name": "더미식 메밀 비빔면 121g, 4개",
           "price": "3,480원",
           "discount_rate": 37,
