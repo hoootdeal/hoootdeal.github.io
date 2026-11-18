@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아이원 루테인지아잔틴 미니, 60정, 2개",
+          "price": "21,490원",
+          "discount_rate": 25,
+          "priceAt": "11.18 19:23",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/207171439678709-919ab53f-2787-455c-a578-3345030ec15e.jpg",
+          "url": "https://link.coupang.com/a/iMhppTBIzs",
+          "_ts": 1794997388.760475
+        },
+        {
           "name": "풀무원 얼큰 순두부찌개 킷 2인분, 600g, 2개",
           "price": "5,400원",
           "discount_rate": 34,
@@ -1248,15 +1257,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/advertiser/1754036582901/67a8d346-2822-44ae-b4e4-de2ad8582473.jpg",
           "url": "https://link.coupang.com/a/iD0IayIW28",
           "_ts": 1794566915.5856059
-        },
-        {
-          "name": "99바이탈 코큐텐 코엔자임Q10 미니, 1개, 90정",
-          "price": "6,600원",
-          "discount_rate": 33,
-          "priceAt": "11.13 19:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5b7f/aa9451fd119f7ce13b2b4bca2bf7b210337d6cc3c0d21f13a8b5deac78a7.jpg",
-          "url": "https://link.coupang.com/a/iDYMQe9Nds",
-          "_ts": 1794565303.469781
         }
       ]
     },
