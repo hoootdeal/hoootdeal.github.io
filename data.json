@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "페레로로쉐 라파엘로, 150g, 1개",
+          "price": "7,680원",
+          "discount_rate": 36,
+          "priceAt": "11.19 07:37",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/03/05/17/3/76015e49-f649-43cf-8189-9cd2ba82be00.jpg",
+          "url": "https://link.coupang.com/a/iM7UcGRsrY",
+          "_ts": 1795041468.0947788
+        },
+        {
           "name": "삼호어묵 부산어묵 바른사각, 1kg, 1개",
           "price": "3,160원",
           "discount_rate": 36,
@@ -1257,15 +1266,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/468745489211590-dc60bc41-5054-45d8-bb59-45f0f95a5aa1.jpg",
           "url": "https://link.coupang.com/a/iEPqbTHXiK",
           "_ts": 1794609494.9709299
-        },
-        {
-          "name": "이디야커피연구소 아이스 아메리카노, 1L, 6개",
-          "price": "11,940원",
-          "discount_rate": 32,
-          "priceAt": "11.14 07:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/64977849450463-d60cfa5f-2296-4c40-95aa-2c57ab40d6bd.jpg",
-          "url": "https://link.coupang.com/a/iENpv2DN24",
-          "_ts": 1794607807.767523
         }
       ]
     },
