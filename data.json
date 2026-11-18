@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "돼지바 요거트 저당 (냉동), 8개, 1개입, 70ml",
+          "price": "4,800원",
+          "discount_rate": 41,
+          "priceAt": "11.18 14:39",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/ggzzv7jw/6699573eddfe4c558a4e16944c62c8d2.jpg",
+          "url": "https://link.coupang.com/a/iLW9FKn4O4",
+          "_ts": 1794980382.4269178
+        },
+        {
           "name": "광동제약 아이스웨일 플레인 제로 탄산수, 500ml, 40개",
           "price": "13,300원",
           "discount_rate": 31,
@@ -1248,15 +1257,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/28278735821283-7e6bca71-a5bf-4450-94ea-643913ff7ec8.jpg",
           "url": "https://link.coupang.com/a/iDF5CV3ZWC",
           "_ts": 1794549602.864656
-        },
-        {
-          "name": "톤28 S21 샴푸바 참숯, 100g, 1개, 100g × 1개",
-          "price": "5,510원",
-          "discount_rate": 37,
-          "priceAt": "11.13 14:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/12704025158260-ea7dd99a-9026-4e3c-8e9d-4d7ed70f79f0.jpg",
-          "url": "https://link.coupang.com/a/iDDuqyH9Do",
-          "_ts": 1794547423.4836679
         }
       ]
     },
@@ -2233,16 +2233,6 @@
           "url": "https://toss.shopping/_m/75K6e7a2",
           "_ts": 1794557063.7359822,
           "_product_id": "2335791299"
-        },
-        {
-          "name": "셰프초이스 동그랑땡, 2kg, 1개",
-          "price": "14,400원",
-          "discount_rate": 44,
-          "priceAt": "11.13 14:23",
-          "image": "https://shopping.toss.im/live/temp/2026-07-01/c531b0a1-b43a-4e3b-9457-853e56f55bab.png",
-          "url": "https://toss.shopping/_m/FgqKH6rr",
-          "_ts": 1794547405.5192268,
-          "_product_id": "2551894295"
         }
       ]
     },
