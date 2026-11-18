@@ -1230,6 +1230,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "지민푸드 통통왕족발, 800g, 1팩",
+          "price": "8,800원",
+          "discount_rate": 48,
+          "priceAt": "11.18 09:54",
+          "image": "https://shopping.toss.im/live/taca/ai/ZTM5YTc1/SmM4a2hlTHRucFFhTk5zd3EyQlpMeFRiUnE5VUcyYjN0WXc0UTFxMGFzOD0.png",
+          "url": "https://toss.shopping/_m/HiD40uVl",
+          "_ts": 1794963265.790619,
+          "_product_id": "1323071175"
+        },
+        {
           "name": "산들내음 산림방사 유정란, 난각번호 1번, 60구, 1박스",
           "price": "20,940원",
           "discount_rate": 63,
