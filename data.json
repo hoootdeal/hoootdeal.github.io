@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하우하우 매운육수베이스, 600g, 2개",
+          "price": "11,300원",
+          "discount_rate": 26,
+          "priceAt": "11.18 18:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/81178493867746-5fe83ee5-1ce4-4348-8c73-d9b8a1e1a7f2.jpg",
+          "url": "https://link.coupang.com/a/iMbuZHt2kK",
+          "_ts": 1794992425.499415
+        },
+        {
           "name": "자연실록 무항생제 인증 태양초 닭볶음탕 밀키트, 600g, 1개",
           "price": "7,720원",
           "discount_rate": 41,
@@ -1248,15 +1257,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/485ddadc-ea30-448d-9585-2e18be8ca0847442427208827330608.png",
           "url": "https://link.coupang.com/a/iDVqJ05wHs",
           "_ts": 1794562484.2775402
-        },
-        {
-          "name": "코멧 뽑아쓰는 천연펄프 3겹 키친타올 100매, 3개입, 1개",
-          "price": "2,800원",
-          "discount_rate": 33,
-          "priceAt": "11.13 17:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/340023104947790-2609c850-168c-4071-bc8a-69adeccfb628.jpg",
-          "url": "https://link.coupang.com/a/iDSJdu74U0",
-          "_ts": 1794560214.498365
         }
       ]
     },
