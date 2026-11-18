@@ -1257,6 +1257,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
+          "price": "8,600원",
+          "discount_rate": 49,
+          "priceAt": "11.18 13:13",
+          "image": "https://shopping.toss.im/live/taca/ai/YjM4MDY0/ZW15MThmWGpjczZ0SGNTSG53d2UvaDYwK0lmNzNIaG5ZVkFOZVZWK291QT0.png",
+          "url": "https://toss.shopping/_m/LRmDYdV4",
+          "_ts": 1794975201.828112,
+          "_product_id": "153902721"
+        },
+        {
           "name": "숨 데일리 화장지, 천연펄프, 3겹, 30m, 30롤, 1팩",
           "price": "9,500원",
           "discount_rate": 40,
