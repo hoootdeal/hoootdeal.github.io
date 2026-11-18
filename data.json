@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "더미식 메밀 비빔면 121g, 4개",
+          "price": "3,480원",
+          "discount_rate": 37,
+          "priceAt": "11.18 11:05",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/106425499074375-6919fd70-d38f-4d68-9fb1-1f3313eb245c.jpg",
+          "url": "https://link.coupang.com/a/iLHQ0QI1q8",
+          "_ts": 1794967535.7164538
+        },
+        {
           "name": "내츄럴스파이스 크러쉬드 레드페퍼, 340g, 1개",
           "price": "8,250원",
           "discount_rate": 32,
