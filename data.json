@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쵸코하임 화이트, 284g, 4개",
+          "price": "11,200원",
+          "discount_rate": 26,
+          "priceAt": "11.18 09:27",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/19110309244545-b34d5911-4729-46c9-8331-b28f93026467.jpg",
+          "url": "https://link.coupang.com/a/iLARynUW6u",
+          "_ts": 1794961665.8121119
+        },
+        {
           "name": "로또 남성용 이중 쿠션 중목 스포츠 양말 7켤레, 250~280mm, 혼합색상(화이트 3켤레, 블랙 2켤레, 그레이 2켤레)",
           "price": "5,990원",
           "discount_rate": 39,
@@ -1203,15 +1212,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/253104256728657-9736fadb-5085-4583-9a98-06484aecfc9b.jpg",
           "url": "https://link.coupang.com/a/iDlwzKOKZ2",
           "_ts": 1794532338.564057
-        },
-        {
-          "name": "큐원 우리아이 영양쿠키믹스, 250g, 2개",
-          "price": "5,680원",
-          "discount_rate": 23,
-          "priceAt": "11.13 09:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/299373405250621-71b9d670-9c91-4ede-ab3f-66d7a69deacf.jpg",
-          "url": "https://link.coupang.com/a/iDhX9GxTqe",
-          "_ts": 1794529352.2948842
         }
       ]
     },
