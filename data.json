@@ -1239,15 +1239,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/05/08/9/3/b2babb9a-61fa-4702-a913-b1bf6333eb12.png",
           "url": "https://link.coupang.com/a/iDv8LLMFky",
           "_ts": 1794541251.295077
-        },
-        {
-          "name": "홈스타 냄새먹는 냉장고용 탈취제 유칼립투스 본품, 420g, 1개",
-          "price": "3,990원",
-          "discount_rate": 32,
-          "priceAt": "11.13 11:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/01/16/14/0/5a5cd35e-8093-4332-a812-bf6e384c92db.jpg",
-          "url": "https://link.coupang.com/a/iDseLSjF0u",
-          "_ts": 1794537974.227642
         }
       ]
     },
@@ -1256,6 +1247,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "숨 데일리 화장지, 천연펄프, 3겹, 30m, 30롤, 1팩",
+          "price": "9,500원",
+          "discount_rate": 40,
+          "priceAt": "11.18 12:05",
+          "image": "https://shopping.toss.im/live/taca/ai/YmMzNzJl/Zng3eXRJdkRIY24wTkhnMkU0SEh6bmhlTnJFSFRwdVIxTG5rYmtMeEc1RT0.png",
+          "url": "https://toss.shopping/_m/TGVNbvd",
+          "_ts": 1794971132.333141,
+          "_product_id": "503276161"
+        },
         {
           "name": "지민푸드 통통왕족발, 800g, 1팩",
           "price": "8,800원",
