@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바나나킥, 75g, 5세트",
+          "price": "4,540원",
+          "discount_rate": 27,
+          "priceAt": "11.18 20:41",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/20649852617449-b57a0118-4632-4c90-a756-89bea72159d4.png",
+          "url": "https://link.coupang.com/a/iMm06xF1d6",
+          "_ts": 1795002096.628778
+        },
+        {
           "name": "오즈키즈 유아용 뽀글동글 뽀글이 털안감 슬립온, 브라운, 180",
           "price": "13,680원",
           "discount_rate": 31,
@@ -1257,15 +1266,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/361370526213099-1972ceb1-2e20-4843-8765-80f50ff15333.png",
           "url": "https://link.coupang.com/a/iD7xxITJZc",
           "_ts": 1794572652.066586
-        },
-        {
-          "name": "파스퇴르 바른목장 소화가 잘되는 우유, 2.3L, 1개",
-          "price": "6,990원",
-          "discount_rate": 34,
-          "priceAt": "11.13 20:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3001871188644-0ed9c85e-f672-4748-9f35-a9ba7d1d73c4.jpg",
-          "url": "https://link.coupang.com/a/iD35LGNFNQ",
-          "_ts": 1794569758.293164
         }
       ]
     },
