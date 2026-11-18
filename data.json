@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "로또 남성용 이중 쿠션 중목 스포츠 양말 7켤레, 250~280mm, 혼합색상(화이트 3켤레, 블랙 2켤레, 그레이 2켤레)",
+          "price": "5,990원",
+          "discount_rate": 39,
+          "priceAt": "11.18 09:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4608699164769795-15e6f4a3-b3d0-4779-a3f4-29a47d0cbf0b.jpg",
+          "url": "https://link.coupang.com/a/iLzZFhWrZs",
+          "_ts": 1794960938.8330119
+        },
+        {
           "name": "일동후디스 유기가공식품 인증 유기농 그릭요거트 달지않은 플레인, 450g, 2개",
           "price": "7,050원",
           "discount_rate": 31,
@@ -1203,15 +1212,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/299373405250621-71b9d670-9c91-4ede-ab3f-66d7a69deacf.jpg",
           "url": "https://link.coupang.com/a/iDhX9GxTqe",
           "_ts": 1794529352.2948842
-        },
-        {
-          "name": "해찬들 100% 태양초 알찬 고추장, 2kg, 1개, 2kg × 1개",
-          "price": "7,480원",
-          "discount_rate": 31,
-          "priceAt": "11.13 09:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/03/30/10/4/7f1ba9a5-9747-45ef-b81f-26c67a7cd2de.jpg",
-          "url": "https://link.coupang.com/a/iDhmO133am",
-          "_ts": 1794528846.4171689
         }
       ]
     },
