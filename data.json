@@ -1248,24 +1248,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/26/18/1/09d978a7-fb0c-41fa-a3b5-838682795525.jpg",
           "url": "https://link.coupang.com/a/iEUuLuLZF6",
           "_ts": 1794613757.242469
-        },
-        {
-          "name": "락앤락 무흠집 이지그립 수세미, 2개입, 6개",
-          "price": "7,160원",
-          "discount_rate": 69,
-          "priceAt": "11.14 07:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/29719057469086-a12e6aa0-8ada-4110-9c90-7190115aa9c1.jpg",
-          "url": "https://link.coupang.com/a/iEQTIWfUom",
-          "_ts": 1794610735.652292
-        },
-        {
-          "name": "큐원 홈메이드 홈메이드 계란빵믹스, 50g, 4개",
-          "price": "3,960원",
-          "discount_rate": 50,
-          "priceAt": "11.14 07:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/468745489211590-dc60bc41-5054-45d8-bb59-45f0f95a5aa1.jpg",
-          "url": "https://link.coupang.com/a/iEPqbTHXiK",
-          "_ts": 1794609494.9709299
         }
       ]
     },
@@ -1274,6 +1256,39 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "애경 리큐 프레쉬 실내건조 일반용, 2.1L, 4개, 1세트",
+          "price": "9,780원",
+          "discount_rate": 53,
+          "priceAt": "11.19 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-11-18/39895c3e-bbba-43ba-845b-f1a0fc939fbd.png",
+          "url": "https://toss.shopping/_m/DR7cBkP5",
+          "_ts": 1795043046.936528,
+          "_flash": true,
+          "_product_id": "828134109"
+        },
+        {
+          "name": "대식가 일키로 부대찌개, 1kg, 2팩",
+          "price": "11,900원",
+          "discount_rate": 57,
+          "priceAt": "11.19 08:04",
+          "image": "https://shopping.toss.im/live/taca/ai/YjgwY2I2/QUxjd3g4WWVXY1k1MG1tSFBOMHRUVDF3QlQ5OXdXYStYeFVNWFB4VUt2bXA.png",
+          "url": "https://toss.shopping/_m/nSVSZCTy",
+          "_ts": 1795043046.9364932,
+          "_flash": true,
+          "_product_id": "129892747"
+        },
+        {
+          "name": "스위칠랜드아미 IH 저압 냄비, 7L, 1개",
+          "price": "19,500원",
+          "discount_rate": 82,
+          "priceAt": "11.19 08:04",
+          "image": "https://shopping.toss.im/live/taca/ai/MGI0NTEy/UkpLWTZabk0xekYwdVUyWU5ua3ljOXpNT2JGNnMyellNeGxpcDVORXBtUT0.png",
+          "url": "https://toss.shopping/_m/xUUkHa2u",
+          "_ts": 1795043046.936457,
+          "_flash": true,
+          "_product_id": "445214021"
+        },
         {
           "name": "메르헨트 마이크로 미셀라 딥 클렌징폼, 230ml, 4개",
           "price": "9,900원",
