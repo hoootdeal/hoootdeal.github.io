@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "더바른떡 파베 초코 크림떡 (냉동), 60g, 4개, 6개입",
+          "price": "32,740원",
+          "discount_rate": 29,
+          "priceAt": "11.19 16:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/013f8167-02f8-41f8-b7c7-1b51ec91399216923520608350859693.png",
+          "url": "https://link.coupang.com/a/iNLQHwLah2",
+          "_ts": 1795075001.7761102
+        },
+        {
           "name": "코멧 키친 밥보관 사각 밀폐용기 그린 10p + 아이보리 10p 세트, 400ml x 10..., 1세트, 400ml x 10p",
           "price": "7,990원",
           "discount_rate": 34,
@@ -1293,24 +1302,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/915362171954671-a8a36e9f-7607-4134-bd53-ffac52682acb.jpg",
           "url": "https://link.coupang.com/a/iFvV9REU1s",
           "_ts": 1794645192.447547
-        },
-        {
-          "name": "이금기 중화 해선장 스파우트팩, 2kg, 1개, 2kg × 1개",
-          "price": "11,100원",
-          "discount_rate": 27,
-          "priceAt": "11.14 16:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2020/02/05/14/9/61f9eff1-9a48-43ac-b85e-bc6c7e825a5f.jpg",
-          "url": "https://link.coupang.com/a/iFsLfAa5p6",
-          "_ts": 1794642526.000271
-        },
-        {
-          "name": "롯데웰푸드 애니타임 민트, 92g, 10개, 92g × 10개",
-          "price": "9,970원",
-          "discount_rate": 29,
-          "priceAt": "11.14 16:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/316751973750103-80b3b75d-6ae8-4294-a854-3a0b455d85ff.jpg",
-          "url": "https://link.coupang.com/a/iFqmBXMXhk",
-          "_ts": 1794640514.684156
         }
       ]
     },
