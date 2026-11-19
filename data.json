@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "안드레아밀라노 유기농 사과식초, 1L, 1개",
+          "price": "4,800원",
+          "discount_rate": 34,
+          "priceAt": "11.19 10:04",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/260426582217554-21c261eb-c2e7-415f-8e94-00d56304cd86.jpg",
+          "url": "https://link.coupang.com/a/iNimNq8CUS",
+          "_ts": 1795050249.8222861
+        },
+        {
           "name": "카프 PTC 공기순환난방 미니 온풍기, KF-FH01, 블랙",
           "price": "12,900원",
           "discount_rate": 45,
@@ -1266,15 +1275,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/23042481121410-c36ae1b3-4fe0-4982-9b14-7e013466a135.jpg",
           "url": "https://link.coupang.com/a/iE2fr7bQs0",
           "_ts": 1794620265.28631
-        },
-        {
-          "name": "미정당 밀 국물떡볶이 (냉동), 580g, 2개",
-          "price": "5,990원",
-          "discount_rate": 39,
-          "priceAt": "11.14 09:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/be2d5a27-c773-42dd-8b35-8223964c1bd47467764088396693729.png",
-          "url": "https://link.coupang.com/a/iEZgJ1Nk2m",
-          "_ts": 1794617764.403156
         }
       ]
     },
