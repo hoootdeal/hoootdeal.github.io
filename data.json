@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "PSK 칠레산 블루베리, 310g, 1개",
+          "price": "8,980원",
+          "discount_rate": 29,
+          "priceAt": "11.19 20:43",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4264201145038356-7050c5f2-9513-42b2-98ed-b6d34011af00.jpg",
+          "url": "https://link.coupang.com/a/iN12tcK5Nk",
+          "_ts": 1795088597.980017
+        },
+        {
           "name": "라벨리아이스크림 디 요거트 아이스크림 (냉동), 180ml, 1개입, 24개",
           "price": "23,500원",
           "discount_rate": 35,
@@ -1302,15 +1311,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2023/02/07/15/3/a1d3c507-f9a7-4046-b874-240cc005942e.jpg",
           "url": "https://link.coupang.com/a/iFJN2ImKvA",
           "_ts": 1794656837.188287
-        },
-        {
-          "name": "오뗄 차슈 (냉장), 500g, 1개",
-          "price": "8,410원",
-          "discount_rate": 24,
-          "priceAt": "11.14 20:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/oporxuwh/3a1f7c81a9514594a4ad673686154342.jpg",
-          "url": "https://link.coupang.com/a/iFHui3upwG",
-          "_ts": 1794654891.512989
         }
       ]
     },
