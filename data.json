@@ -1302,6 +1302,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "먹꾸먹꾸 옛날과자 한입 현미강정, 750g, 1박스",
+          "price": "8,971원",
+          "discount_rate": 64,
+          "priceAt": "11.19 13:10",
+          "image": "https://shopping.toss.im/live/taca/ai/MzY2YTdi/SEo0ek5OdWI1dXcyVzgya004dU0wNXdzUE12cE5HYmJKaHlUTmxqWkxHdz0.png",
+          "url": "https://toss.shopping/_m/XB6KoZi6",
+          "_ts": 1795061455.9508018,
+          "_product_id": "684179983"
+        },
+        {
           "name": "피죤 무균무때 곰팡이용, 500ml, 4개",
           "price": "9,350원",
           "discount_rate": 63,
