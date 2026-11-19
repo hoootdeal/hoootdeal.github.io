@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "EVLUTIONNUTRITION 웨이 프로틴 바닐라 아이스 크림 맛, 2.268kg, 1개",
+          "price": "76,940원",
+          "discount_rate": 32,
+          "priceAt": "11.19 14:22",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/0600/75d3590c88ce5998386268d7648ae740cacc53c4834dad5e49df51f8efa6.jpg",
+          "url": "https://link.coupang.com/a/iNAP4CGiOW",
+          "_ts": 1795065758.34405
+        },
+        {
           "name": "피지오겔 데일리 모이스쳐 테라피 포맨 플루이드 올인원 로션, 100ml, 1개",
           "price": "13,370원",
           "discount_rate": 36,
@@ -1284,15 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/65593689744936-5c662603-9d04-4480-b659-3116bf928465.jpg",
           "url": "https://link.coupang.com/a/iFkB9JQGVE",
           "_ts": 1794635686.9948301
-        },
-        {
-          "name": "그로비타 플레코 안시 전용사료, 115g, 1개",
-          "price": "2,180원",
-          "discount_rate": 64,
-          "priceAt": "11.14 14:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/367549150161580-d5f4d3f2-9015-428b-af09-16b584507c3a.jpg",
-          "url": "https://link.coupang.com/a/iFgZ5Dh4ma",
-          "_ts": 1794632648.6851468
         }
       ]
     },
