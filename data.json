@@ -1329,6 +1329,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "네오디뮴 자석고리 자석걸이, 180도 회전, 대, 실버, 7kg, 1세트",
+          "price": "8,283원",
+          "discount_rate": 79,
+          "priceAt": "11.20 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-10-19/5999ba6f-3771-41fd-bc7d-16a14037ed3b.jpeg",
+          "url": "https://toss.shopping/_m/VwAfZaCe",
+          "_ts": 1795100546.3624818,
+          "_flash": true,
+          "_product_id": "2653158953"
+        },
+        {
+          "name": "보라톡스 제로슈가 파비플로라 알파CD 보라워터, 500ml, 24개",
+          "price": "23,600원",
+          "discount_rate": 88,
+          "priceAt": "11.20 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-09-03/31bd8534-8c21-4808-9c9a-ed08fc5efd4a.jpeg",
+          "url": "https://toss.shopping/_m/3r9cSrpB",
+          "_ts": 1795100546.3624551,
+          "_flash": true,
+          "_product_id": "1130712335"
+        },
+        {
+          "name": "뉴리스 필터 샤워기, 본품 1개 + 필터 6개, 1세트",
+          "price": "8,410원",
+          "discount_rate": 53,
+          "priceAt": "11.20 00:02",
+          "image": "https://shopping.toss.im/live/temp/2025-10-17/34235be0-2df3-4364-9573-eafb6c738e3f.jpeg",
+          "url": "https://toss.shopping/_m/3ZiPbi36",
+          "_ts": 1795100546.362415,
+          "_flash": true,
+          "_product_id": "263418447"
+        },
+        {
           "name": "꿀Brix 초고당도 호풍미 호박고구마, 3kg, 1박스",
           "price": "8,900원",
           "discount_rate": 69,
@@ -2194,39 +2227,6 @@
           "_ts": 1794697491.079366,
           "_flash": true,
           "_product_id": "138286213"
-        },
-        {
-          "name": "순살 양념 목살구이, 600g, 3개",
-          "price": "16,900원",
-          "discount_rate": 57,
-          "priceAt": "11.15 00:02",
-          "image": "https://shopping.toss.im/live/taca/ai/MTkyMTNl/QUp0cFQ3Q0pXZmd5QjZ5NVNYY0dRSDdqUWlGdzU4TS96S29CZU5JYVgwemc.png",
-          "url": "https://toss.shopping/_m/NFoQdxTA",
-          "_ts": 1794668543.29597,
-          "_flash": true,
-          "_product_id": "1179530071"
-        },
-        {
-          "name": "데일리룸 에센 다마스커스 5종 칼세트, 중식나이프+쉐프나이프+유틸리티 나이프+가위+집게, 1세트",
-          "price": "16,900원",
-          "discount_rate": 94,
-          "priceAt": "11.15 00:02",
-          "image": "https://shopping.toss.im/live/taca/ai/NWEwZmFl/QUpHWm1Xelp6azJuek5sbVZHdVpabU8yYkpNeXlUTEd3eVVzTExhYzVwbFo.png",
-          "url": "https://toss.shopping/_m/BOPeYn3A",
-          "_ts": 1794668543.2959402,
-          "_flash": true,
-          "_product_id": "808603171"
-        },
-        {
-          "name": "Nucle 팅글탱글 PD 20W 고속 충전기 + 60W C to C 초고속 케이블, 오렌지, 1m, 1세트",
-          "price": "6,550원",
-          "discount_rate": 78,
-          "priceAt": "11.15 00:02",
-          "image": "https://shopping.toss.im/live/temp/2026-09-15/50a35422-1265-4368-a1bc-cbf1e9d8e5af.jpeg",
-          "url": "https://toss.shopping/_m/rzfK2G73",
-          "_ts": 1794668543.295891,
-          "_flash": true,
-          "_product_id": "2652913851"
         }
       ]
     },
