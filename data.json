@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "후디스그릭요거트 다이어트 무지방 그릭요거트, 400g, 1개",
+          "price": "3,330원",
+          "discount_rate": 40,
+          "priceAt": "11.19 12:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/neakthp8/bdedcf81fae34867861b684dc2ed5fb1.jpg",
+          "url": "https://link.coupang.com/a/iNqLPRlfki",
+          "_ts": 1795057307.075319
+        },
+        {
           "name": "김정문알로에 라센스 로에 큐어 리알로에 워터 스플래쉬 카밍 톤업 선크림 SPF50+ PA++++, 40g, 2개",
           "price": "9,000원",
           "discount_rate": 82,
