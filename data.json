@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "켈로그 현미 푸레이크, 550g, 1개",
+          "price": "3,850원",
+          "discount_rate": 36,
+          "priceAt": "11.20 08:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/02/11/17/5/9138d29d-a056-4939-8a72-690cb386dd76.jpg",
+          "url": "https://link.coupang.com/a/iOOARtVaP6",
+          "_ts": 1795129365.96363
+        },
+        {
           "name": "오뚜기 제주담음 제주청귤 갈치구이 (냉동), 222g, 3개",
           "price": "10,720원",
           "discount_rate": 66,
@@ -1302,24 +1311,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/72596865274536-a5058a84-75d1-4e41-a105-0c3f0fa1330c.jpg",
           "url": "https://link.coupang.com/a/iGwYQsaqQ0",
           "_ts": 1794698124.80288
-        },
-        {
-          "name": "뵤도 유기농 토마토 케첩 키즈, 300ml, 1개",
-          "price": "5,710원",
-          "discount_rate": 44,
-          "priceAt": "11.15 07:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/122168987424675-01c32be5-d034-4343-b064-1c833b1fe293.jpg",
-          "url": "https://link.coupang.com/a/iGuYby4wFg",
-          "_ts": 1794696437.899085
-        },
-        {
-          "name": "재로우 사카로미세스 보울라디 + MOS 유산균 베지 캡, 180정, 3개",
-          "price": "76,250원",
-          "discount_rate": 28,
-          "priceAt": "11.15 07:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1dbb/99a25044e4d782f38cf05c7ce78f50c0fe8f48c37078d272749b170fb6e2.jpg",
-          "url": "https://link.coupang.com/a/iGt9NTZ2zc",
-          "_ts": 1794695751.9895282
         }
       ]
     },
