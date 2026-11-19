@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 델리 토마토 케찹, 800g, 1개",
+          "price": "2,510원",
+          "discount_rate": 32,
+          "priceAt": "11.19 18:33",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/66872725367182-13f2ce28-4be4-4ee0-b264-c7be970a75e2.jpg",
+          "url": "https://link.coupang.com/a/iNSJQyy4hU",
+          "_ts": 1795080786.863939
+        },
+        {
           "name": "모닝하임 수수부꾸미 (냉동), 1kg, 1개",
           "price": "6,750원",
           "discount_rate": 46,
@@ -1293,24 +1302,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1285512854744671-fdf0d465-0113-465a-bf66-fdfb8c374344.jpg",
           "url": "https://link.coupang.com/a/iFCE01r5Iy",
           "_ts": 1794650839.4977121
-        },
-        {
-          "name": "에코맘의산골이유식 산골 과일참 통째로 배칩, 10g, 4개",
-          "price": "5,600원",
-          "discount_rate": 40,
-          "priceAt": "11.14 18:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1893625936499427-83323d97-fcd1-4e93-9384-904a938e2cc6.jpg",
-          "url": "https://link.coupang.com/a/iFz2adlQce",
-          "_ts": 1794648631.112732
-        },
-        {
-          "name": "오뚜기 찹쌀 미니도나스 믹스, 250g, 2개, 250g × 2개",
-          "price": "3,980원",
-          "discount_rate": 46,
-          "priceAt": "11.14 18:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2e5d1638-8e42-4bff-9849-d5f1fd37a5d03969315092946262989.png",
-          "url": "https://link.coupang.com/a/iFyDNR7GrQ",
-          "_ts": 1794647462.1996028
         }
       ]
     },
