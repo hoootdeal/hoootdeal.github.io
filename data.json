@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "프레쉬팜 달콤 허니듀메론, 850g, 1개",
+          "price": "6,070원",
+          "discount_rate": 41,
+          "priceAt": "11.19 13:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/51237923516097-ccb63355-8c12-4abd-93c9-54234cd80221.jpg",
+          "url": "https://link.coupang.com/a/iNu3fQhd3A",
+          "_ts": 1795060899.651563
+        },
+        {
           "name": "이금기 팬더 굴소스, 320g, 2개",
           "price": "4,980원",
           "discount_rate": 30,
@@ -1284,15 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2891965881020318-f2c4e892-812f-415d-ac61-f7d229342788.jpg",
           "url": "https://link.coupang.com/a/iFe6IdmJEG",
           "_ts": 1794631060.206186
-        },
-        {
-          "name": "코스알엑스 더 나이아신아마이드 15 세럼, 20ml, 1개, 20ml × 1개",
-          "price": "11,100원",
-          "discount_rate": 31,
-          "priceAt": "11.14 12:52",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/145d/4cd6ffbf602d22c4dc267895124106da27d3797ff766b96628e7eae6a85b.jpg",
-          "url": "https://link.coupang.com/a/iFbQT1XDIO",
-          "_ts": 1794628328.715863
         }
       ]
     },
