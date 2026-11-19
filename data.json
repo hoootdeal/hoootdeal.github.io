@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "보쉬 충전 USB 자동 드릴 드라이버 GO 3, 1개",
+          "price": "29,440원",
+          "discount_rate": 35,
+          "priceAt": "11.19 15:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/18/14/0/2b330018-2712-480f-aad4-5ba566a98d89.jpg",
+          "url": "https://link.coupang.com/a/iNELYzqeGG",
+          "_ts": 1795069061.3836942
+        },
+        {
           "name": "광천김 소문난 두번 구운 김밥김, 22g, 10개",
           "price": "12,970원",
           "discount_rate": 31,
@@ -2220,16 +2229,6 @@
           "_product_id": "1044461245",
           "sold_out": true,
           "_sold_at": 1795057217.0
-        },
-        {
-          "name": "리르 PDRN 리쥬딘 크림, 10g, 2개",
-          "price": "9,600원",
-          "discount_rate": 76,
-          "priceAt": "11.14 15:07",
-          "image": "https://shopping.toss.im/live/taca/ai/NzYwMmEy/QUxEV005Yk9HU25PTVdiT0cwR3NNK2ZXTzlXbE04UHNXcTBsT3RhSzFrMnA.png",
-          "url": "https://toss.shopping/_m/dhI8Ji8l",
-          "_ts": 1794636426.2529259,
-          "_product_id": "178573643"
         }
       ]
     },
