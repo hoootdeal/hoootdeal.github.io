@@ -1320,6 +1320,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "꿀Brix 초고당도 호풍미 호박고구마, 3kg, 1박스",
+          "price": "8,900원",
+          "discount_rate": 69,
+          "priceAt": "11.19 21:34",
+          "image": "https://shopping.toss.im/live/temp/2026-10-22/7d387633-d8f7-43a9-8dfd-2ae63f23b189.png",
+          "url": "https://toss.shopping/_m/xIhvYXSo",
+          "_ts": 1795091683.5279648,
+          "_product_id": "2694960991"
+        },
+        {
           "name": "가쯔 오래쓰는 자동 변기세정제, 260g, 4개",
           "price": "6,580원",
           "discount_rate": 77,
@@ -2208,16 +2218,6 @@
           "_ts": 1794668543.295891,
           "_flash": true,
           "_product_id": "2652913851"
-        },
-        {
-          "name": "김규흔 한과 명인 꿀약과 박스형, 400g, 1박스",
-          "price": "7,010원",
-          "discount_rate": 55,
-          "priceAt": "11.14 21:24",
-          "image": "https://shopping.toss.im/live/taca/ai/MDAxNWU0/WXF3WVdVNGpOVTQ2czZycHE1eU9uOXA3eTdYbzU0czFxc2c0bEtjam5WZz0.png",
-          "url": "https://toss.shopping/_m/broSrld6",
-          "_ts": 1794659083.521667,
-          "_product_id": "438280501"
         }
       ]
     },
