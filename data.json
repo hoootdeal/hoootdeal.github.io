@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "라벨리아이스크림 디 요거트 아이스크림 (냉동), 180ml, 1개입, 24개",
+          "price": "23,500원",
+          "discount_rate": 35,
+          "priceAt": "11.19 19:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1049731660562425-a2da2adf-db2f-452f-9490-4075b75fbb12.jpg",
+          "url": "https://link.coupang.com/a/iNYRI86NPg",
+          "_ts": 1795085931.831703
+        },
+        {
           "name": "하림 무항생제 인증 마늘 듬뿍 닭볶음탕 밀키트, 1.085kg, 1개",
           "price": "8,580원",
           "discount_rate": 41,
@@ -1302,15 +1311,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/oporxuwh/3a1f7c81a9514594a4ad673686154342.jpg",
           "url": "https://link.coupang.com/a/iFHui3upwG",
           "_ts": 1794654891.512989
-        },
-        {
-          "name": "양반 볶음김치, 80g, 8개",
-          "price": "6,720원",
-          "discount_rate": 32,
-          "priceAt": "11.14 19:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1033450233553015-be033519-6600-4263-a813-5f0f6647e2d0.jpg",
-          "url": "https://link.coupang.com/a/iFEKNIusq4",
-          "_ts": 1794652594.331733
         }
       ]
     },
@@ -2228,16 +2228,6 @@
           "url": "https://toss.shopping/_m/fJ78p0n7",
           "_ts": 1794656686.234698,
           "_product_id": "711455319"
-        },
-        {
-          "name": "교동 사골곰탕, 500g, 18개",
-          "price": "13,000원",
-          "discount_rate": 75,
-          "priceAt": "11.14 19:33",
-          "image": "https://shopping.toss.im/live/taca/ai/YTYwZmFj/QUtrN2N2RTVLVWJaOGVuNDJUTWtnOUZrcEoyWmpKUVRhMzVVYmlXNVVwSHk.png",
-          "url": "https://toss.shopping/_m/5HYn5sUz",
-          "_ts": 1794652422.457922,
-          "_product_id": "161310659"
         }
       ]
     },
