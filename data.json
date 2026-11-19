@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오늘부터 Y케어 질 유래 특허 여성유산균, 60g, 1개",
+          "price": "6,800원",
+          "discount_rate": 30,
+          "priceAt": "11.19 17:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/160395344247520-6b1d54cf-f6fd-4a2f-b2b1-655189575ec8.jpg",
+          "url": "https://link.coupang.com/a/iNOHSceBKC",
+          "_ts": 1795077401.463541
+        },
+        {
           "name": "더바른떡 파베 초코 크림떡 (냉동), 60g, 4개, 6개입",
           "price": "32,740원",
           "discount_rate": 29,
@@ -1293,15 +1302,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2e5d1638-8e42-4bff-9849-d5f1fd37a5d03969315092946262989.png",
           "url": "https://link.coupang.com/a/iFyDNR7GrQ",
           "_ts": 1794647462.1996028
-        },
-        {
-          "name": "엠보그 모짜렐라 슬라이스 치즈, 150g, 1개, 1개입",
-          "price": "3,580원",
-          "discount_rate": 47,
-          "priceAt": "11.14 17:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/915362171954671-a8a36e9f-7607-4134-bd53-ffac52682acb.jpg",
-          "url": "https://link.coupang.com/a/iFvV9REU1s",
-          "_ts": 1794645192.447547
         }
       ]
     },
