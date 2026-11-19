@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이금기 팬더 굴소스, 320g, 2개",
+          "price": "4,980원",
+          "discount_rate": 30,
+          "priceAt": "11.19 12:23",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/dfaa77a1-e3be-4adb-9c62-fca730739a389495682882417082134.png",
+          "url": "https://link.coupang.com/a/iNsiYKAscm",
+          "_ts": 1795058592.7934551
+        },
+        {
           "name": "후디스그릭요거트 다이어트 무지방 그릭요거트, 400g, 1개",
           "price": "3,330원",
           "discount_rate": 40,
@@ -1284,15 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/145d/4cd6ffbf602d22c4dc267895124106da27d3797ff766b96628e7eae6a85b.jpg",
           "url": "https://link.coupang.com/a/iFbQT1XDIO",
           "_ts": 1794628328.715863
-        },
-        {
-          "name": "러그 고용량 납작 플러그 접지 멀티탭 3구 LUG-B-S03K-1.5, 퍼플, 1개, 50cm",
-          "price": "7,500원",
-          "discount_rate": 34,
-          "priceAt": "11.14 12:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/08/26/18/3/7769b0c3-e957-40de-b86a-c8b7eeaa0dfc.png",
-          "url": "https://link.coupang.com/a/iE8SOdfzVY",
-          "_ts": 1794625836.9168398
         }
       ]
     },
@@ -2210,16 +2210,6 @@
           "url": "https://toss.shopping/_m/dhI8Ji8l",
           "_ts": 1794636426.2529259,
           "_product_id": "178573643"
-        },
-        {
-          "name": "봄내춘천닭갈비, 500g, 4팩",
-          "price": "17,310원",
-          "discount_rate": 60,
-          "priceAt": "11.14 12:20",
-          "image": "https://shopping.toss.im/live/taca/ai/YjdiNjZl/QVAvbkJwZGNOK2JZdklMU1QxNFgrT3lOUnJrZC9XajlFRWU0eXZJNDhBUEg.png",
-          "url": "https://toss.shopping/_m/ZQ0pCS7i",
-          "_ts": 1794626447.94698,
-          "_product_id": "9628313"
         }
       ]
     },
