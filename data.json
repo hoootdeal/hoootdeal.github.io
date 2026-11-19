@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "다이쇼 오이 탕탕이 중화요리풍 양념, 150ml, 3개",
+          "price": "6,790원",
+          "discount_rate": 24,
+          "priceAt": "11.20 08:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5526/c0d6882f866bc04292ff6dcac1439038dd59991759daacd6048804776a80.jpg",
+          "url": "https://link.coupang.com/a/iOORCjprbM",
+          "_ts": 1795129590.674113
+        },
+        {
           "name": "켈로그 현미 푸레이크, 550g, 1개",
           "price": "3,850원",
           "discount_rate": 36,
@@ -2185,39 +2194,6 @@
           "url": "https://toss.shopping/_m/n2clDnWp",
           "_ts": 1794716153.682716,
           "_product_id": "135264173"
-        },
-        {
-          "name": "산파트리지오 엑스트라버진 올리브오일, 750ml, 2개",
-          "price": "20,510원",
-          "discount_rate": 58,
-          "priceAt": "11.15 08:05",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTIxMGQ3/QVBGd2p3OUhqKzkweGNyZDhDb1Bacys5ZUhadnFIeWJsRlZBZG10VlVIYis.png",
-          "url": "https://toss.shopping/_m/vS6bUSHe",
-          "_ts": 1794697548.5748212,
-          "_flash": true,
-          "_product_id": "222694361"
-        },
-        {
-          "name": "애슐리 주먹밥 체험팩, 7가지맛, 100g, 7개",
-          "price": "9,440원",
-          "discount_rate": 52,
-          "priceAt": "11.15 08:05",
-          "image": "https://shopping.toss.im/live/temp/2026-08-12/c775957b-aaa8-4b3e-9e00-aabef8c2a89f.jpeg",
-          "url": "https://toss.shopping/_m/n4Dg9s87",
-          "_ts": 1794697548.57479,
-          "_flash": true,
-          "_product_id": "2605058187"
-        },
-        {
-          "name": "라오메뜨 전설의패치 레전드, 준대형, 40매, 2개",
-          "price": "13,250원",
-          "discount_rate": 66,
-          "priceAt": "11.15 08:05",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/YWUyMGI0/ZkRRTER2dmg1SDFIbXpubTZoT1IvTjhEWkhnSVBOL2lzQTNEK203a01BVT0.png",
-          "url": "https://toss.shopping/_m/RxDPgHVy",
-          "_ts": 1794697548.574757,
-          "_flash": true,
-          "_product_id": "163222353"
         }
       ]
     },
