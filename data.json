@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "허먼밀러 뉴 에어론 풀 의자 방문설치, 미네랄, B",
+          "price": "1,077,900원",
+          "discount_rate": 36,
+          "priceAt": "11.19 20:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/201963097782127-6fa1a96b-cc5a-4f83-bfe0-d5975e8e445a.jpg",
+          "url": "https://link.coupang.com/a/iN204YWSFU",
+          "_ts": 1795089417.639719
+        },
+        {
           "name": "PSK 칠레산 블루베리, 310g, 1개",
           "price": "8,980원",
           "discount_rate": 29,
@@ -1302,15 +1311,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/f15a/dfa6596a5193618c9d8bb8094f3c7aeb82909a97a0f038ac8735bbd37f29.jpg",
           "url": "https://link.coupang.com/a/iFOIOvAjp6",
           "_ts": 1794660966.61833
-        },
-        {
-          "name": "우리차 17곡 안동 마차, 15g, 50개입, 1개",
-          "price": "6,180원",
-          "discount_rate": 28,
-          "priceAt": "11.14 20:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2023/02/07/15/3/a1d3c507-f9a7-4046-b874-240cc005942e.jpg",
-          "url": "https://link.coupang.com/a/iFJN2ImKvA",
-          "_ts": 1794656837.188287
         }
       ]
     },
@@ -2218,16 +2218,6 @@
           "url": "https://toss.shopping/_m/broSrld6",
           "_ts": 1794659083.521667,
           "_product_id": "438280501"
-        },
-        {
-          "name": "맛춤상회 토시살, 200g, 2팩 + 안창살, 200g, 3팩",
-          "price": "23,500원",
-          "discount_rate": 52,
-          "priceAt": "11.14 20:44",
-          "image": "https://shopping.toss.im/live/taca/ai/ZmZkMWNm/SCtsYVZ0YW5SNGw1bXRBMk9kWUtRN1N4UEttcWRrbFNpOUt3ZE5QeFJocz0.png",
-          "url": "https://toss.shopping/_m/fJ78p0n7",
-          "_ts": 1794656686.234698,
-          "_product_id": "711455319"
         }
       ]
     },
