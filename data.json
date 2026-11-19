@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "광천김 소문난 두번 구운 김밥김, 22g, 10개",
+          "price": "12,970원",
+          "discount_rate": 31,
+          "priceAt": "11.19 14:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5036732462217800-58861dff-ca1e-4b7d-b0df-720d833507ad.jpg",
+          "url": "https://link.coupang.com/a/iNDnGlE30m",
+          "_ts": 1795067892.803893
+        },
+        {
           "name": "EVLUTIONNUTRITION 웨이 프로틴 바닐라 아이스 크림 맛, 2.268kg, 1개",
           "price": "76,940원",
           "discount_rate": 32,
@@ -1284,15 +1293,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/62105761744726-d96db768-6b61-4d16-b700-7df2043e5cf1.jpg",
           "url": "https://link.coupang.com/a/iFnvenm0No",
           "_ts": 1794638110.601341
-        },
-        {
-          "name": "만토바 엑스트라버진 올리브오일 스프레이, 200ml, 2개, 200ml × 2개",
-          "price": "15,980원",
-          "discount_rate": 33,
-          "priceAt": "11.14 14:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/65593689744936-5c662603-9d04-4480-b659-3116bf928465.jpg",
-          "url": "https://link.coupang.com/a/iFkB9JQGVE",
-          "_ts": 1794635686.9948301
         }
       ]
     },
