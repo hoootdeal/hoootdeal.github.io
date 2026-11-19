@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "백설 나폴리맛피아 권성준셰프 베이컨 머쉬룸 크림 파스타소스, 430g, 3개",
+          "price": "11,250원",
+          "discount_rate": 35,
+          "priceAt": "11.19 19:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1dc74813-237a-4c8f-8a53-a605ee0553ab17121721329900038458.png",
+          "url": "https://link.coupang.com/a/iNVeHEvraK",
+          "_ts": 1795082885.657119
+        },
+        {
           "name": "오뚜기 델리 토마토 케찹, 800g, 1개",
           "price": "2,510원",
           "discount_rate": 32,
@@ -1293,15 +1302,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1033450233553015-be033519-6600-4263-a813-5f0f6647e2d0.jpg",
           "url": "https://link.coupang.com/a/iFEKNIusq4",
           "_ts": 1794652594.331733
-        },
-        {
-          "name": "아인슈타인 베이비 플러스 우유, 120ml, 24개, 120ml × 24개",
-          "price": "13,500원",
-          "discount_rate": 28,
-          "priceAt": "11.14 19:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1285512854744671-fdf0d465-0113-465a-bf66-fdfb8c374344.jpg",
-          "url": "https://link.coupang.com/a/iFCE01r5Iy",
-          "_ts": 1794650839.4977121
         }
       ]
     },
