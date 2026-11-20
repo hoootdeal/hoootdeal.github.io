@@ -1338,6 +1338,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "수타식 천왕 짜장면, 150g, 10인분",
+          "price": "11,910원",
+          "discount_rate": 54,
+          "priceAt": "11.20 10:12",
+          "image": "https://shopping.toss.im/live/taca/ai/ZGMyNzY2/QUtrMXNHdlZSdENxRXFoV2FQUlNzRnFxM1NKUks0SCt5WkFUYXBzaWRrK1M.png",
+          "url": "https://toss.shopping/_m/VHVyYYa4",
+          "_ts": 1795137172.159394,
+          "_product_id": "160282629"
+        },
+        {
           "name": "청년 국산 고춧가루, 보통맛, 굵은가루, 1kg, 1개",
           "price": "20,850원",
           "discount_rate": 51,
