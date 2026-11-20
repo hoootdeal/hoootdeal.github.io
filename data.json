@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "허쉬 오리지널 핫초코분말, 450g, 1개입, 2개",
+          "price": "12,960원",
+          "discount_rate": 24,
+          "priceAt": "11.20 15:41",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/37437416627168-d59932cd-085b-4759-9b64-e91e47bd888b.jpg",
+          "url": "https://link.coupang.com/a/iPllJZf22S",
+          "_ts": 1795156867.260134
+        },
+        {
           "name": "가루비 쟈가리코 명란버터, 52g, 12개",
           "price": "12,420원",
           "discount_rate": 39,
@@ -1356,15 +1365,6 @@
           "image": "https://image8.coupangcdn.com/image/rs_quotation_api/elku7tft/67aae165cf524118b3fbd9a76e1c308c.jpg",
           "url": "https://link.coupang.com/a/iG53mi9WO4",
           "_ts": 1794727573.589889
-        },
-        {
-          "name": "청정원 순창 우리쌀로 만든 100% 국산 고추장, 1kg, 2개",
-          "price": "19,080원",
-          "discount_rate": 28,
-          "priceAt": "11.15 15:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1183863012786-5dc1a5ff-5968-445d-ac7c-5c2fcd4e8f26.jpg",
-          "url": "https://link.coupang.com/a/iG0A5cbtzU",
-          "_ts": 1794722993.015266
         }
       ]
     },
