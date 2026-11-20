@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "제이숲 실크 케라틴 단백질 트리트먼트 피치 에디션, 500ml, 2개",
+          "price": "19,650원",
+          "discount_rate": 59,
+          "priceAt": "11.20 19:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/92464057737931-8daef7de-863f-432e-8c15-825da9763d6d.jpg",
+          "url": "https://link.coupang.com/a/iPDGsuqlhI",
+          "_ts": 1795172260.2717
+        },
+        {
           "name": "일양약품 센스오리진 프레쉬민트 30g, 30정, 1개",
           "price": "6,510원",
           "discount_rate": 34,
@@ -1383,15 +1392,6 @@
           "image": "https://image3.coupangcdn.com/image/retail/images/794109263576664-2ba8b398-7d86-4899-8769-06cf38ce61ba.jpg",
           "url": "https://link.coupang.com/a/iHqR4307Fc",
           "_ts": 1794745051.718179
-        },
-        {
-          "name": "청우식품 그랑쉘사과, 195g, 10개",
-          "price": "15,720원",
-          "discount_rate": 24,
-          "priceAt": "11.15 19:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2021/03/26/15/0/38538c42-5147-4438-aaf8-ccf1ae6f251f.jpg",
-          "url": "https://link.coupang.com/a/iHkWRLrYya",
-          "_ts": 1794740078.497354
         }
       ]
     },
