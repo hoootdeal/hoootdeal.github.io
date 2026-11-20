@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하인즈 리듀스드 슈가 토마토 케찹, 369g, 1개",
+          "price": "3,130원",
+          "discount_rate": 28,
+          "priceAt": "11.20 20:48",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/a337/bc12eb77a94ef4aff632c19e7605ae4b00b78226b33b248af61aa77ee2fa.jpg",
+          "url": "https://link.coupang.com/a/iPHjGiCfRJ",
+          "_ts": 1795175311.1064231
+        },
+        {
           "name": "헬스헬퍼 맥스컷 CCA 클렌즈 주스 48시간, 1L, 1개",
           "price": "5,690원",
           "discount_rate": 64,
@@ -2263,16 +2272,6 @@
           "_ts": 1794754939.056632,
           "_flash": true,
           "_product_id": "2625255849"
-        },
-        {
-          "name": "소 안창살, 구이용, 300g, 2팩",
-          "price": "21,010원",
-          "discount_rate": 59,
-          "priceAt": "11.15 20:48",
-          "image": "https://shopping.toss.im/live/temp/2026-10-15/68841063-c0ce-45b6-ac06-b6488448ceb5.png",
-          "url": "https://toss.shopping/_m/xofzYBHo",
-          "_ts": 1794743293.483281,
-          "_product_id": "2656145515"
         }
       ]
     },
