@@ -1383,6 +1383,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "옥돌김치 333 프리미엄 총각김치, 2kg, 1개",
+          "price": "13,960원",
+          "discount_rate": 54,
+          "priceAt": "11.20 16:50",
+          "image": "https://shopping.toss.im/live/taca/ai/MTU5ZjFi/QU14bU1WcTBjeVRCa3gzdUdaZWJHVWYrUmhWbzF2UnlXLy9DQU9ZSW04KzE.png",
+          "url": "https://toss.shopping/_m/1v9cPKZ1",
+          "_ts": 1795161007.8902621,
+          "_product_id": "209977279"
+        },
+        {
           "name": "국내산 세척사과, 5kg, 1박스",
           "price": "15,050원",
           "discount_rate": 72,
