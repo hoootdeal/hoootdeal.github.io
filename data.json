@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "헬스헬퍼 맥스컷 CCA 클렌즈 주스 48시간, 1L, 1개",
+          "price": "5,690원",
+          "discount_rate": 64,
+          "priceAt": "11.20 20:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/22866505581581-3f70f679-ff9c-4f01-a7d4-92b9bebd5be6.jpg",
+          "url": "https://link.coupang.com/a/iPF5PNToDA",
+          "_ts": 1795174284.312917
+        },
+        {
           "name": "제이숲 실크 케라틴 단백질 트리트먼트 피치 에디션, 500ml, 2개",
           "price": "19,650원",
           "discount_rate": 59,
@@ -2264,16 +2273,6 @@
           "url": "https://toss.shopping/_m/xofzYBHo",
           "_ts": 1794743293.483281,
           "_product_id": "2656145515"
-        },
-        {
-          "name": "배스킨라빈스 아몬드 봉봉 크림 파이, 336g, 3개",
-          "price": "8,200원",
-          "discount_rate": 60,
-          "priceAt": "11.15 20:17",
-          "image": "https://shopping.toss.im/live/temp/2025-01-23/8957c14b-6356-4246-922a-74fd445faf8b.jpeg",
-          "url": "https://toss.shopping/_m/7qo2W6Ex",
-          "_ts": 1794741450.617513,
-          "_product_id": "78945315"
         }
       ]
     },
