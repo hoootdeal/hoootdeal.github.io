@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "코튼원 순면 100% 여성 맥시팬티 5매입, 105, 혼합색상",
+          "price": "8,900원",
+          "discount_rate": 44,
+          "priceAt": "11.20 18:43",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/fa74/178b88fcc8d5c1f05026f96c5c217b9e22bcc6d6fb949435f96fc3aa58c8.jpg",
+          "url": "https://link.coupang.com/a/iPynyxWSzs",
+          "_ts": 1795167806.680904
+        },
+        {
           "name": "비욘드 딥 모이스처 세럼 인 바디오일, 350ml, 1개",
           "price": "17,600원",
           "discount_rate": 32,
@@ -1383,15 +1392,6 @@
           "image": "https://img1c.coupangcdn.com/image/vendor_inventory/2d34/31a094026f807ca4d633320cea31207b57c58c30fcaa423bb5df42c392cd.jpg",
           "url": "https://link.coupang.com/a/iHhP2gXNVQ",
           "_ts": 1794737466.931015
-        },
-        {
-          "name": "하림 동물복지 자연실록 매콤한 닭갈비, 400g, 1개",
-          "price": "5,660원",
-          "discount_rate": 37,
-          "priceAt": "11.15 17:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1487651755230198-9fa88ae1-cb5f-4a8c-8e5f-90ff29e0c053.jpg",
-          "url": "https://link.coupang.com/a/iHcJcUsx5g",
-          "_ts": 1794733177.0883892
         }
       ]
     },
@@ -2274,16 +2274,6 @@
           "url": "https://toss.shopping/_m/VQYEueR",
           "_ts": 1794736022.062567,
           "_product_id": "2702170951"
-        },
-        {
-          "name": "리퀴드 고농축 라벤더 세탁세제, 실내건조, 중성, 액체세제, 2.5L, 4병",
-          "price": "7,390원",
-          "discount_rate": 58,
-          "priceAt": "11.15 18:23",
-          "image": "https://shopping.toss.im/live/temp/2026-03-07/24519ddb-8968-4c30-a060-82f45f764398.jpeg",
-          "url": "https://toss.shopping/_m/Lhq5sucB",
-          "_ts": 1794734599.903894,
-          "_product_id": "1141343649"
         }
       ]
     },
