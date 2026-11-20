@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "뉴에라 아동용 MLB 스몰 로고 맨투맨 샌프란시스코 자이언츠, 150, 그레이",
+          "price": "19,900원",
+          "discount_rate": 68,
+          "priceAt": "11.21 08:59",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/25/11/5/24023116-346c-4943-939b-0ce1e4b9ff08.jpg",
+          "url": "https://link.coupang.com/a/iQxwxHBkku",
+          "_ts": 1795219141.80074
+        },
+        {
           "name": "데니그리스 유기농 사과식초, 500ml, 1개",
           "price": "4,960원",
           "discount_rate": 27,
@@ -1446,15 +1455,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/268501903719644-22e47592-cbea-4985-b341-fe403ebdfdbb.png",
           "url": "https://link.coupang.com/a/iIj7F25G8a",
           "_ts": 1794791442.933117
-        },
-        {
-          "name": "풀무원 퓨어 무라벨 생수, 500ml, 40개",
-          "price": "6,130원",
-          "discount_rate": 38,
-          "priceAt": "11.16 08:51",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/275371538050635-af72da0e-528f-4fea-b7e1-3e817f941351.png",
-          "url": "https://link.coupang.com/a/iIerAIfKNg",
-          "_ts": 1794786673.4556842
         }
       ]
     },
