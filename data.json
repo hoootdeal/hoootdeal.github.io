@@ -1455,6 +1455,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "자동차 하이브리드 와이퍼, 600mm + 450mm, 1세트",
+          "price": "5,110원",
+          "discount_rate": 74,
+          "priceAt": "11.21 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/YTMzZTVl/QU0vbC80M1VHVUE3VFhKMDhqZVB5M0YxNHNvSGhRNTAvUDFZZzRFQ01YK3E.png",
+          "url": "https://toss.shopping/_m/xjBw1u8n",
+          "_ts": 1795215826.142447,
+          "_flash": true,
+          "_product_id": "193293915"
+        },
+        {
+          "name": "프로프룻 샤인머스켓, 특품, 2kg, 1박스",
+          "price": "9,800원",
+          "discount_rate": 85,
+          "priceAt": "11.21 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-08-05/d1036994-fd95-42f5-82be-741dff71ead8.jpeg",
+          "url": "https://toss.shopping/_m/xhnmVJBp",
+          "_ts": 1795215826.142424,
+          "_flash": true,
+          "_product_id": "2578376693"
+        },
+        {
+          "name": "풍년보감 6년근 고려홍삼정 에브리데이100, 15g, 100포",
+          "price": "16,510원",
+          "discount_rate": 69,
+          "priceAt": "11.21 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-01-23/c416b67c-4e95-4900-8cf8-2a49bceb77e7.jpeg",
+          "url": "https://toss.shopping/_m/DGvYRSRg",
+          "_ts": 1795215826.142393,
+          "_flash": true,
+          "_product_id": "33427621"
+        },
+        {
           "name": "티아시아 커리 버라이어티 6종, 170g, 6개",
           "price": "10,910원",
           "discount_rate": 62,
@@ -2322,39 +2355,6 @@
           "_ts": 1794783841.565707,
           "_flash": true,
           "_product_id": "180141233"
-        },
-        {
-          "name": "프리미엄 스테인레스 양배추칼+채칼, 2개",
-          "price": "6,100원",
-          "discount_rate": 83,
-          "priceAt": "11.16 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/NDY5NDRk/SHJrcmN1YVBtMll2WTlSN2NhRit3cW1lcFF4VzcyYWI2MlhoekZXREVlUT0.png",
-          "url": "https://toss.shopping/_m/Rj55bvDs",
-          "_ts": 1794783812.453887,
-          "_flash": true,
-          "_product_id": "7865383"
-        },
-        {
-          "name": "닥터브라이언 비오틴 구미 5000, 피치플레이버, 3g, 100개입, 1통",
-          "price": "9,450원",
-          "discount_rate": 62,
-          "priceAt": "11.16 08:03",
-          "image": "https://shopping.toss.im/live/temp/2024-09-26/554380a1-deab-4ada-90c8-79c5dd983a2b.jpeg",
-          "url": "https://toss.shopping/_m/lFoQeh6C",
-          "_ts": 1794783812.453856,
-          "_flash": true,
-          "_product_id": "86834745"
-        },
-        {
-          "name": "베라 무해력 4ZERO 클래식, 3겹, 30롤, 25m, 2팩",
-          "price": "14,200원",
-          "discount_rate": 64,
-          "priceAt": "11.16 08:03",
-          "image": "https://shopping.toss.im/live/temp/2026-07-14/26d21fa5-b884-434a-9fe8-f571cd72703e.jpeg",
-          "url": "https://toss.shopping/_m/NR8WRrkx",
-          "_ts": 1794783812.453818,
-          "_flash": true,
-          "_product_id": "110224187"
         }
       ]
     },
