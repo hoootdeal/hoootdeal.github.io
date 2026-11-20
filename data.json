@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "르샤트라1802 인퓨전 초고농축 섬유유연제 피오니부케향, 2L, 1개",
+          "price": "5,960원",
+          "discount_rate": 38,
+          "priceAt": "11.20 16:46",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/06/02/11/8/e541eaf3-33ad-4d27-91f9-13e5a84f9042.jpg",
+          "url": "https://link.coupang.com/a/iPp0qr5yKG",
+          "_ts": 1795160776.380852
+        },
+        {
           "name": "데일리라이크 타포린 분리수거함 세트, 혼합색상, 25 x 35 x 60 cm, 1세트",
           "price": "7,900원",
           "discount_rate": 39,
@@ -1365,15 +1374,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/20a638f2-d0c7-40d8-9baf-1551ca1ec8824691733853092571156.png",
           "url": "https://link.coupang.com/a/iG9X170dhs",
           "_ts": 1794730858.807712
-        },
-        {
-          "name": "브랜든 여행용 도난방지 세이프 백팩, 블랙, 21L(31 x 41 x 17 cm)",
-          "price": "48,100원",
-          "discount_rate": 28,
-          "priceAt": "11.15 16:26",
-          "image": "https://image8.coupangcdn.com/image/rs_quotation_api/elku7tft/67aae165cf524118b3fbd9a76e1c308c.jpg",
-          "url": "https://link.coupang.com/a/iG53mi9WO4",
-          "_ts": 1794727573.589889
         }
       ]
     },
