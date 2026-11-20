@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "전두유 완전두유 더진한 서리태 무가당 99.9, 190ml, 24개",
+          "price": "11,830원",
+          "discount_rate": 24,
+          "priceAt": "11.20 10:52",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/08/11/9/615838d0-8e1d-47e7-9604-2f471710b6bd.jpg",
+          "url": "https://link.coupang.com/a/iO0IkNVa0W",
+          "_ts": 1795139541.806447
+        },
+        {
           "name": "터치인솔 프리티필터 인마이하트 스틱 블러셔 6g, 펀치핑크, 1개",
           "price": "5,100원",
           "discount_rate": 64,
@@ -1320,15 +1329,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/8018741076333-8b649126-eceb-481c-9933-fb4555f582e2.jpg",
           "url": "https://link.coupang.com/a/iGK1iAJY3E",
           "_ts": 1794709913.713804
-        },
-        {
-          "name": "클리덴트 치아교정기 세정폼, 50ml, 1개",
-          "price": "4,250원",
-          "discount_rate": 43,
-          "priceAt": "11.15 10:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/06/19/12/8/f1b7fa7d-bd0c-4b85-a896-4d05ee866f27.jpg",
-          "url": "https://link.coupang.com/a/iGHKee4OKO",
-          "_ts": 1794707163.466109
         }
       ]
     },
