@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "데니그리스 유기농 사과식초, 500ml, 1개",
+          "price": "4,960원",
+          "discount_rate": 27,
+          "priceAt": "11.21 08:44",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/33042786775771-d55a2fe7-649d-4b4d-9718-28704a5280b3.jpg",
+          "url": "https://link.coupang.com/a/iQwsvTQeFo",
+          "_ts": 1795218249.774281
+        },
+        {
           "name": "에뛰드하우스 립 앤 아이 리무버, 250ml, 1개",
           "price": "4,370원",
           "discount_rate": 34,
@@ -1446,15 +1455,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/275371538050635-af72da0e-528f-4fea-b7e1-3e817f941351.png",
           "url": "https://link.coupang.com/a/iIerAIfKNg",
           "_ts": 1794786673.4556842
-        },
-        {
-          "name": "오설록 블루밍 티 기프트, 티백 9종 + 쇼핑..., 1세트, 티백 9종 + 쇼핑백",
-          "price": "18,700원",
-          "discount_rate": 38,
-          "priceAt": "11.16 08:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/05/15/17/4/4825b792-5d3e-42e3-8779-e93e32ac0aeb.png",
-          "url": "https://link.coupang.com/a/iIbQsYicwe",
-          "_ts": 1794784493.801484
         }
       ]
     },
