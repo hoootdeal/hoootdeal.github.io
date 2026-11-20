@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "프로그 라텍스 컴포트 고무장갑, 베이비핑크, 중(M), 5세트",
+          "price": "5,170원",
+          "discount_rate": 44,
+          "priceAt": "11.20 17:21",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2612953048106585-8d85a6c4-f302-4678-9509-137d6a686cd0.jpg",
+          "url": "https://link.coupang.com/a/iPsvD50nfg",
+          "_ts": 1795162877.020222
+        },
+        {
           "name": "모리나가 초이스 비스켓 14장 x 5상자, 5개",
           "price": "10,930원",
           "discount_rate": 40,
@@ -1374,15 +1383,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1487651755230198-9fa88ae1-cb5f-4a8c-8e5f-90ff29e0c053.jpg",
           "url": "https://link.coupang.com/a/iHcJcUsx5g",
           "_ts": 1794733177.0883892
-        },
-        {
-          "name": "동아제약 박카스 디카페에이, 120ml, 50개",
-          "price": "17,950원",
-          "discount_rate": 46,
-          "priceAt": "11.15 17:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/20a638f2-d0c7-40d8-9baf-1551ca1ec8824691733853092571156.png",
-          "url": "https://link.coupang.com/a/iG9X170dhs",
-          "_ts": 1794730858.807712
         }
       ]
     },
