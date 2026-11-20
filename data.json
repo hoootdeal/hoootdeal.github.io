@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바브키즈 절개 면 팬츠, 아이보리, 11호",
+          "price": "8,420원",
+          "discount_rate": 70,
+          "priceAt": "11.20 13:35",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/hbra818y/619602677c944d57a7c40b4146d54bfe.jpg",
+          "url": "https://link.coupang.com/a/iPclM40czk",
+          "_ts": 1795149311.3922791
+        },
+        {
           "name": "롯데제과 퀘이커 오트 그래놀라 시리얼 골든넛츠, 350g, 2개",
           "price": "9,220원",
           "discount_rate": 45,
@@ -1329,15 +1338,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1489301544598094-dc928ec2-cf3f-4634-b31a-0a22a8084c63.jpg",
           "url": "https://link.coupang.com/a/iGX3jLD0Sa",
           "_ts": 1794720854.570401
-        },
-        {
-          "name": "[&WOX] 코튼 브라탑 나시 배쏙티 바디쉐이퍼 똥배 허리 뱃살 노와이어 몸매 보정 속옷 웨어, S, 화이트",
-          "price": "11,910원",
-          "discount_rate": 73,
-          "priceAt": "11.15 13:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4197/9d7661a838f11fb28276eeda2b882b2aea52f226767cf7a12487f7ff6529.jpg",
-          "url": "https://link.coupang.com/a/iGSZwWxqZE",
-          "_ts": 1794716605.5717602
         }
       ]
     },
@@ -2220,16 +2220,6 @@
           "url": "https://toss.shopping/_m/tne3MLKa",
           "_ts": 1794724954.413443,
           "_product_id": "2635765919"
-        },
-        {
-          "name": "CJ제일제당 스팸 클래식, 340g, 10개",
-          "price": "32,970원",
-          "discount_rate": 45,
-          "priceAt": "11.15 13:15",
-          "image": "https://shopping.toss.im/live/temp/2026-10-28/65c3a478-af16-4ae0-9017-e2fc1a058e31.jpeg",
-          "url": "https://toss.shopping/_m/n2clDnWp",
-          "_ts": 1794716153.682716,
-          "_product_id": "135264173"
         }
       ]
     },
