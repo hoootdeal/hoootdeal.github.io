@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바나나맛우유, 240ml, 6개",
+          "price": "5,970원",
+          "discount_rate": 31,
+          "priceAt": "11.20 09:34",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/179465695997182-2fafb62e-4ae0-4111-8f59-4d4de40ddb63.jpg",
+          "url": "https://link.coupang.com/a/iOU9zh7fYy",
+          "_ts": 1795134870.955193
+        },
+        {
           "name": "크노르 치킨스톡 파우더, 120g, 4개",
           "price": "6,780원",
           "discount_rate": 68,
@@ -1320,24 +1329,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/higitfpk/dfccb34343c446d0a123216d54b5c67a.jpg",
           "url": "https://link.coupang.com/a/iGELPFGCNo",
           "_ts": 1794704665.451535
-        },
-        {
-          "name": "오뚜기 핫케이크 믹스, 1kg, 1개",
-          "price": "3,100원",
-          "discount_rate": 44,
-          "priceAt": "11.15 09:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/87060605900171-f042e02a-7905-47b9-8c3f-24f261864cf5.jpg",
-          "url": "https://link.coupang.com/a/iGCan2gi7g",
-          "_ts": 1794702475.90096
-        },
-        {
-          "name": "팁코 100% 착즙 ABC 주스, 200ml, 24개",
-          "price": "19,980원",
-          "discount_rate": 27,
-          "priceAt": "11.15 09:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/35ff/fd5ad4f7d98f7c3760fe2175188f5af3252a1ad6cb93bf2705a9e1b1bed9.jpg",
-          "url": "https://link.coupang.com/a/iGBO5rNqNw",
-          "_ts": 1794702187.2675378
         }
       ]
     },
