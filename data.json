@@ -1356,6 +1356,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "국내산 세척사과, 5kg, 1박스",
+          "price": "15,050원",
+          "discount_rate": 72,
+          "priceAt": "11.20 14:11",
+          "image": "https://shopping.toss.im/live/temp/2026-08-07/a632e06d-22bc-4d02-a12a-6a532bc5197a.png",
+          "url": "https://toss.shopping/_m/b1eqOdqa",
+          "_ts": 1795151487.093813,
+          "_product_id": "2431229133"
+        },
+        {
           "name": "앙쥬 PDRN 캡슐크림, 120g, 1+1 구성, 총 2개",
           "price": "14,210원",
           "discount_rate": 87,
