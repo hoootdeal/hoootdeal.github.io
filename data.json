@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "친환경 인증 토마토, 3kg, 1박스",
+          "price": "14,980원",
+          "discount_rate": 44,
+          "priceAt": "11.20 13:48",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/185913734219372-7b751a70-7038-4aa2-949f-30f99cb7f59f.jpg",
+          "url": "https://link.coupang.com/a/iPdhorZJkq",
+          "_ts": 1795150090.077031
+        },
+        {
           "name": "바브키즈 절개 면 팬츠, 아이보리, 11호",
           "price": "8,420원",
           "discount_rate": 70,
