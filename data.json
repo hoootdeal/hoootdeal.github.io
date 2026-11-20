@@ -1455,6 +1455,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "티아시아 커리 버라이어티 6종, 170g, 6개",
+          "price": "10,910원",
+          "discount_rate": 62,
+          "priceAt": "11.21 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/ZWYzNzUy/QU5nUHRwbHo5cHpENCtUeGZwUGN5OHZ0NURTMXRWeVhaSkVRYnRtUUVybGE.png",
+          "url": "https://toss.shopping/_m/FoWQj503",
+          "_ts": 1795215798.353693,
+          "_flash": true,
+          "_product_id": "444175137"
+        },
+        {
+          "name": "동진 종이컵, 6.5oz, 1000개입, 1박스",
+          "price": "8,120원",
+          "discount_rate": 59,
+          "priceAt": "11.21 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/Mzk1NDkx/QUkyeEpvWEtIZWVNZFF1V1BieE5oeGNpOE1tUDlFODQ0Ykh3T1hIWHhKWWQ.png",
+          "url": "https://toss.shopping/_m/twFpNQIv",
+          "_ts": 1795215798.3536582,
+          "_flash": true,
+          "_product_id": "144828393"
+        },
+        {
+          "name": "티젠 베스트 콤부차 7종 세트, 5g, 10개입, 7박스",
+          "price": "16,190원",
+          "discount_rate": 66,
+          "priceAt": "11.21 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/YzZkMmRm/ZVJ0enpHMnpua3RMYlpaa2sxdHBteHpHV3o3a3BKeTJaN0dUNWNPME5saz0.png",
+          "url": "https://toss.shopping/_m/NvuVd7Uu",
+          "_ts": 1795215798.35362,
+          "_flash": true,
+          "_product_id": "513387709"
+        },
+        {
           "name": "안성마춤농협 고시히카리쌀, 특등급, 10kg, 1개",
           "price": "40,900원",
           "discount_rate": 54,
