@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롯데제과 퀘이커 오트 그래놀라 시리얼 골든넛츠, 350g, 2개",
+          "price": "9,220원",
+          "discount_rate": 45,
+          "priceAt": "11.20 12:52",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/df3b728b-d86b-4f8a-a5aa-5844d43075595486241383359773147.png",
+          "url": "https://link.coupang.com/a/iO9ky7Q9Se",
+          "_ts": 1795146772.628639
+        },
+        {
           "name": "리더스 인솔루션 바세린 모이스처 마스크, 10개입, 1개",
           "price": "3,870원",
           "discount_rate": 51,
@@ -1329,24 +1338,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4197/9d7661a838f11fb28276eeda2b882b2aea52f226767cf7a12487f7ff6529.jpg",
           "url": "https://link.coupang.com/a/iGSZwWxqZE",
           "_ts": 1794716605.5717602
-        },
-        {
-          "name": "차돌양지 샤브샤브 (냉동), 500g, 1개",
-          "price": "9,300원",
-          "discount_rate": 30,
-          "priceAt": "11.15 12:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1016597092211293-cadc75b7-c481-49a6-a2a8-4e8128805c51.jpg",
-          "url": "https://link.coupang.com/a/iGQlWebLNc",
-          "_ts": 1794714390.975706
-        },
-        {
-          "name": "다우니 실내건조 초고농축 섬유유연제 코튼 & 프레시 비누, 2L, 3개",
-          "price": "21,750원",
-          "discount_rate": 34,
-          "priceAt": "11.15 12:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/36a99e49-c721-4e58-bcbc-803aa3af2fcd9322318869827394686.png",
-          "url": "https://link.coupang.com/a/iGQgCyh6OG",
-          "_ts": 1794714317.511062
         }
       ]
     },
