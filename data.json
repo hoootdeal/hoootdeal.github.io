@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에뛰드하우스 립 앤 아이 리무버, 250ml, 1개",
+          "price": "4,370원",
+          "discount_rate": 34,
+          "priceAt": "11.21 08:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/07/24/17/9/9b1d8b51-cd68-47e6-bfb9-322502ee839c.jpg",
+          "url": "https://link.coupang.com/a/iQtLSI2tXM",
+          "_ts": 1795215993.5472362
+        },
+        {
           "name": "퀘이커 마시는 오트밀 단백질, 80g, 16개",
           "price": "11,530원",
           "discount_rate": 60,
@@ -2289,72 +2298,6 @@
           "url": "https://toss.shopping/_m/rvyPB33w",
           "_ts": 1794791490.374027,
           "_product_id": "1606006517"
-        },
-        {
-          "name": "비타오리진 프리미엄 유기농 레몬즙, 20g, 14포, 3박스",
-          "price": "11,600원",
-          "discount_rate": 80,
-          "priceAt": "11.16 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/ODNlZGI4/QUpKU1VoOXlodW1oRExtcFdLTm90VU5VcjBpdDhCWlNLYVZvSlVrcnhkS1g.png",
-          "url": "https://toss.shopping/_m/LOTaGFfi",
-          "_ts": 1794783873.150666,
-          "_flash": true,
-          "_product_id": "93428111"
-        },
-        {
-          "name": "캡슐 표백제 세제 부스터, 30개입, 390g, 3팩",
-          "price": "11,680원",
-          "discount_rate": 80,
-          "priceAt": "11.16 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/NDU1N2Uz/R2J3U3ZLbFczWnhXcXl0VzA2ZVpOdUU4M1NPYVVYYkxMTmxQb2ExVXVYND0.png",
-          "url": "https://toss.shopping/_m/BBi4zOfi",
-          "_ts": 1794783873.1506371,
-          "_flash": true,
-          "_product_id": "1365683861"
-        },
-        {
-          "name": "청우 쫀득 4종세트, 쫀득초코칩 20g 20봉 + 초코파이 찰떡 21.5g 20봉 + 찰떡쿠키 오리지널 21.5g 20봉 + 그랑쉘 사과 19.5g 20봉, 1세트",
-          "price": "16,920원",
-          "discount_rate": 53,
-          "priceAt": "11.16 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/ZmNjN2Q2/ZnRiOEplbXg4Y3MxNFo1cFRwRHlleUcwRzBzVFlYZXJlOEh1Zzc1RWlYUT0.png",
-          "url": "https://toss.shopping/_m/XKuglkvo",
-          "_ts": 1794783873.150599,
-          "_flash": true,
-          "_product_id": "89656875"
-        },
-        {
-          "name": "리엑셀 프리미엄 달팽이 마스크팩, 미백, 25g, 20장 + 주름, 25g, 20장",
-          "price": "16,471원",
-          "discount_rate": 76,
-          "priceAt": "11.16 08:04",
-          "image": "https://shopping.toss.im/live/temp/2025-07-15/571d2e11-c2ef-4912-843f-f593811696d3.jpeg",
-          "url": "https://toss.shopping/_m/1ZRveWeC",
-          "_ts": 1794783841.565789,
-          "_flash": true,
-          "_product_id": "141974613"
-        },
-        {
-          "name": "네슬레 킷캣 아이스크림 스틱, 90ml, 12개",
-          "price": "20,420원",
-          "discount_rate": 57,
-          "priceAt": "11.16 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/MzhmNGVk/ZUJmaWN5ODV5NG1Rd1dTY2cyNDhkSTgyNG5Oays1MnQvMG42UnJrRVJQaz0.png",
-          "url": "https://toss.shopping/_m/NqzLqpvj",
-          "_ts": 1794783841.56576,
-          "_flash": true,
-          "_product_id": "1569823841"
-        },
-        {
-          "name": "센텔리안24 마데카 크림 파워 부스팅 포뮬러 AD, 50ml 2개 + 15ml 1개 + 1ml 10매, 1세트",
-          "price": "19,500원",
-          "discount_rate": 76,
-          "priceAt": "11.16 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-02-04/73d1064d-3699-45ba-980e-bc10dcac6eca.jpeg",
-          "url": "https://toss.shopping/_m/nCBou9mc",
-          "_ts": 1794783841.565707,
-          "_flash": true,
-          "_product_id": "180141233"
         }
       ]
     },
