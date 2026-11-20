@@ -1329,15 +1329,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/36a99e49-c721-4e58-bcbc-803aa3af2fcd9322318869827394686.png",
           "url": "https://link.coupang.com/a/iGQgCyh6OG",
           "_ts": 1794714317.511062
-        },
-        {
-          "name": "스너글 룸스프레이 카밍 포레스트 본품, 200ml, 1개",
-          "price": "5,990원",
-          "discount_rate": 35,
-          "priceAt": "11.15 12:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5dd0/2516b01023a364e5946f1919d7ce2fc5a71ff2c9d0ed7e862d2754b1a7d4.jpg",
-          "url": "https://link.coupang.com/a/iGNnjbRFro",
-          "_ts": 1794711890.644066
         }
       ]
     },
@@ -1346,6 +1337,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "앙쥬 PDRN 캡슐크림, 120g, 1+1 구성, 총 2개",
+          "price": "14,210원",
+          "discount_rate": 87,
+          "priceAt": "11.20 12:06",
+          "image": "https://shopping.toss.im/live/temp/2026-01-19/c140d260-0af9-4fdf-b03d-9acfb9320aff.jpeg",
+          "url": "https://toss.shopping/_m/PykC560C",
+          "_ts": 1795143989.633018,
+          "_product_id": "156685065"
+        },
         {
           "name": "수타식 천왕 짜장면, 150g, 10인분",
           "price": "11,910원",
