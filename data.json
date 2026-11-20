@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크노르 치킨스톡 파우더, 120g, 4개",
+          "price": "6,780원",
+          "discount_rate": 68,
+          "priceAt": "11.20 09:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/81856978233367-37f18868-ff48-4be9-a0d1-ab95a8a099d6.jpg",
+          "url": "https://link.coupang.com/a/iOT7QsNlmg",
+          "_ts": 1795134008.227455
+        },
+        {
           "name": "멘소래담 워터 립 무향 4.5g x3개, 단품, 3개",
           "price": "7,630원",
           "discount_rate": 54,
@@ -1329,15 +1338,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/35ff/fd5ad4f7d98f7c3760fe2175188f5af3252a1ad6cb93bf2705a9e1b1bed9.jpg",
           "url": "https://link.coupang.com/a/iGBO5rNqNw",
           "_ts": 1794702187.2675378
-        },
-        {
-          "name": "몰티져스 트러플 초콜릿, 200g, 1개",
-          "price": "7,600원",
-          "discount_rate": 24,
-          "priceAt": "11.15 08:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/b1f7/02a97952f09fa5ce93bea426921695989902cce2aa8662a5cd264368d2be.jpg",
-          "url": "https://link.coupang.com/a/iGzvuH8iwC",
-          "_ts": 1794700247.309088
         }
       ]
     },
