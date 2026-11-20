@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "퀘이커 마시는 오트밀 단백질, 80g, 16개",
+          "price": "11,530원",
+          "discount_rate": 60,
+          "priceAt": "11.21 07:39",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/03/06/17/1/0883b106-8481-4dc5-bacb-5342e3918a6d.png",
+          "url": "https://link.coupang.com/a/iQrNTNQBOK",
+          "_ts": 1795214341.529174
+        },
+        {
           "name": "오리온 초코칩쿠키 말차라떼맛, 104g, 3개",
           "price": "3,380원",
           "discount_rate": 30,
@@ -1437,15 +1446,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/05/15/17/4/4825b792-5d3e-42e3-8779-e93e32ac0aeb.png",
           "url": "https://link.coupang.com/a/iIbQsYicwe",
           "_ts": 1794784493.801484
-        },
-        {
-          "name": "돈시몬 스파클링 레몬에이드 탄산음료, 330ml, 12개",
-          "price": "10,760원",
-          "discount_rate": 40,
-          "priceAt": "11.16 07:37",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/d4af4b2a-6323-4cf7-8053-3a93c2dc1c6e3145753748619356769.png",
-          "url": "https://link.coupang.com/a/iH89Q1QbqC",
-          "_ts": 1794782236.275233
         }
       ]
     },
