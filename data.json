@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "미제르바 여성 경량 패딩 퀼팅 점퍼 노카라 자켓 초경량, 블랙, 미디엄 (44-55)",
+          "price": "9,900원",
+          "discount_rate": 47,
+          "priceAt": "11.20 11:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/b3c3/1fe1661052618e1275bc25ded08962d0fe3330dd88381a392e6a1584447b.jpg",
+          "url": "https://link.coupang.com/a/iO32ajgoM0",
+          "_ts": 1795142326.885772
+        },
+        {
           "name": "퀘이커 마시는 오트밀 오트 앤 그레인 낱봉팩, 50g, 20개",
           "price": "12,110원",
           "discount_rate": 44,
@@ -1329,15 +1338,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5dd0/2516b01023a364e5946f1919d7ce2fc5a71ff2c9d0ed7e862d2754b1a7d4.jpg",
           "url": "https://link.coupang.com/a/iGNnjbRFro",
           "_ts": 1794711890.644066
-        },
-        {
-          "name": "올반 키친 찹쌀 꿔바로우 (냉동), 500g, 2개",
-          "price": "13,600원",
-          "discount_rate": 32,
-          "priceAt": "11.15 11:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/8018741076333-8b649126-eceb-481c-9933-fb4555f582e2.jpg",
-          "url": "https://link.coupang.com/a/iGK1iAJY3E",
-          "_ts": 1794709913.713804
         }
       ]
     },
