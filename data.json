@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "일양약품 센스오리진 프레쉬민트 30g, 30정, 1개",
+          "price": "6,510원",
+          "discount_rate": 34,
+          "priceAt": "11.20 19:22",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/05/18/14/1/57fca133-727f-4401-a5a3-7652d767af33.jpg",
+          "url": "https://link.coupang.com/a/iPA8uxbt48",
+          "_ts": 1795170121.319554
+        },
+        {
           "name": "코튼원 순면 100% 여성 맥시팬티 5매입, 105, 혼합색상",
           "price": "8,900원",
           "discount_rate": 44,
@@ -1383,15 +1392,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2021/03/26/15/0/38538c42-5147-4438-aaf8-ccf1ae6f251f.jpg",
           "url": "https://link.coupang.com/a/iHkWRLrYya",
           "_ts": 1794740078.497354
-        },
-        {
-          "name": "달팽이리빙 퀴진드마망 실리콘 씽크대 물막이, 그레이, 1개",
-          "price": "6,900원",
-          "discount_rate": 21,
-          "priceAt": "11.15 19:11",
-          "image": "https://img1c.coupangcdn.com/image/vendor_inventory/2d34/31a094026f807ca4d633320cea31207b57c58c30fcaa423bb5df42c392cd.jpg",
-          "url": "https://link.coupang.com/a/iHhP2gXNVQ",
-          "_ts": 1794737466.931015
         }
       ]
     },
@@ -2264,16 +2264,6 @@
           "url": "https://toss.shopping/_m/7qo2W6Ex",
           "_ts": 1794741450.617513,
           "_product_id": "78945315"
-        },
-        {
-          "name": "프로프룻 제주 노지 감귤 최대15brix, 5kg, 1박스",
-          "price": "7,800원",
-          "discount_rate": 84,
-          "priceAt": "11.15 18:47",
-          "image": "https://shopping.toss.im/live/temp/2026-10-27/e6996bfe-7d26-41db-8b99-9f3d0acf0415.png",
-          "url": "https://toss.shopping/_m/VQYEueR",
-          "_ts": 1794736022.062567,
-          "_product_id": "2702170951"
         }
       ]
     },
