@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오리온 초코칩쿠키 말차라떼맛, 104g, 3개",
+          "price": "3,380원",
+          "discount_rate": 30,
+          "priceAt": "11.21 07:25",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/d6a5ffb1-b8b7-42df-b5ac-05f3e9afcecb17460439166442798584.png",
+          "url": "https://link.coupang.com/a/iQqQNOqFKS",
+          "_ts": 1795213541.994328
+        },
+        {
           "name": "페리오 거품의 혁신 칫솔, 1개입, 1개",
           "price": "990원",
           "discount_rate": 66,
