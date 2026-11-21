@@ -1446,15 +1446,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/02/14/11/5/7504e650-ddab-493a-8520-34bdd68f1155.jpg",
           "url": "https://link.coupang.com/a/iI2njOlcg8",
           "_ts": 1794828595.8713422
-        },
-        {
-          "name": "삼양 불닭볶음탕면 145g, 16개",
-          "price": "11,920원",
-          "discount_rate": 30,
-          "priceAt": "11.16 19:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/2423064680356067-f9be2c63-a6f5-437b-af2f-5ad95bfec8d5.jpg",
-          "url": "https://link.coupang.com/a/iIZV6SEem4",
-          "_ts": 1794826552.3015501
         }
       ]
     },
@@ -1463,6 +1454,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
+          "price": "5,490원",
+          "discount_rate": 62,
+          "priceAt": "11.21 19:59",
+          "image": "https://shopping.toss.im/live/taca/ai/YmI1NGJk/QUpobU9jOXRzYlNac25uSVpEbW03Wm1lVTF0TXkweFlNekR6VXNubkhLY00.png",
+          "url": "https://toss.shopping/_m/7cAsXrbr",
+          "_ts": 1795258782.580909,
+          "_product_id": "241796467"
+        },
         {
           "name": "정성곳간 명인 강순의 국내산 도가니탕, 800g, 10개",
           "price": "39,110원",
