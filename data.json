@@ -1473,6 +1473,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "큰나무 호주산 루피니빈 콩, 1kg, 2개",
+          "price": "9,700원",
+          "discount_rate": 79,
+          "priceAt": "11.21 09:32",
+          "image": "https://shopping.toss.im/live/temp/2026-08-25/85af9aa7-6f58-43c9-8b8b-6e99faacbee0.jpeg",
+          "url": "https://toss.shopping/_m/pW7cbhgD",
+          "_ts": 1795221148.066387,
+          "_product_id": "2635662717"
+        },
+        {
           "name": "자동차 하이브리드 와이퍼, 600mm + 450mm, 1세트",
           "price": "5,110원",
           "discount_rate": 74,
