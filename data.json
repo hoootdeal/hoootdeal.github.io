@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "만전김 슈퍼초이스 만전김, 20g, 6개",
+          "price": "6,180원",
+          "discount_rate": 56,
+          "priceAt": "11.21 15:50",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/9911513083378-26cdf0aa-889a-4ba0-a15b-cfd0d0921156.png",
+          "url": "https://link.coupang.com/a/iQ0VbOkmXI",
+          "_ts": 1795243828.051042
+        },
+        {
           "name": "다르다팝콘 시네마 믹스, 30g, 15개",
           "price": "9,410원",
           "discount_rate": 29,
@@ -1455,24 +1464,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/epd96p5g/6f58d5d93cc94075b59811d481d3e561.jpg",
           "url": "https://link.coupang.com/a/iIKsNn67Nc",
           "_ts": 1794813557.74988
-        },
-        {
-          "name": "불닭볶음면 큰컵 105g, 10개",
-          "price": "9,190원",
-          "discount_rate": 24,
-          "priceAt": "11.16 15:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/437764983124989-447a7d39-3557-4347-9766-db763b8c25c6.png",
-          "url": "https://link.coupang.com/a/iIHSVYDczs",
-          "_ts": 1794811392.677359
-        },
-        {
-          "name": "보르니에르 홀그레인 머스타드, 420g, 2개",
-          "price": "17,560원",
-          "discount_rate": 24,
-          "priceAt": "11.16 15:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/958117362395741-fdbf7223-fcd1-40bd-abcb-b0f68dddc348.jpg",
-          "url": "https://link.coupang.com/a/iIGg1Ww6qi",
-          "_ts": 1794810041.80415
         }
       ]
     },
@@ -2302,18 +2293,6 @@
           "url": "https://toss.shopping/_m/n9hUA8wn",
           "_ts": 1794820244.0286138,
           "_product_id": "146054185"
-        },
-        {
-          "name": "프로프룻 시나노골드, 특품, 난좌포장, 5kg, 1박스",
-          "price": "12,990원",
-          "discount_rate": 78,
-          "priceAt": "11.16 15:22",
-          "image": "https://shopping.toss.im/live/temp/2026-10-06/74d4b59b-2bb4-4efb-aeb3-14ae3e570d38.jpeg",
-          "url": "https://toss.shopping/_m/LfFgdcTt",
-          "_ts": 1794810179.728276,
-          "_product_id": "2672325915",
-          "sold_out": true,
-          "_sold_at": 1795230016.0
         }
       ]
     },
