@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "파티굿즈 LED 조명 크리스마스장식 인테리어 소품 데코용품, 트리조명가랜드, 1개, 트리, 3.5M",
+          "price": "11,990원",
+          "discount_rate": 31,
+          "priceAt": "11.21 19:04",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/65df/30cb0dca527316512ed43da7e7b420f8f9966ab5d1281fec61b982038ced.JPG",
+          "url": "https://link.coupang.com/a/iReLR5ru0W",
+          "_ts": 1795255455.5609758
+        },
+        {
           "name": "네이쳐밸리 크런치 오츠 앤 허니 바, 210g, 1개",
           "price": "2,680원",
           "discount_rate": 62,
@@ -1446,24 +1455,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1719769554002687-f621dce1-5155-466a-9a53-d7772ed6a8ef.jpg",
           "url": "https://link.coupang.com/a/iIWFRevnye",
           "_ts": 1794823808.483445
-        },
-        {
-          "name": "데자와 로얄 밀크티, 240ml, 30개",
-          "price": "13,300원",
-          "discount_rate": 29,
-          "priceAt": "11.16 18:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/03/31/13/8/1ea00af6-e527-482a-ae67-c0487e965675.png",
-          "url": "https://link.coupang.com/a/iIUQDosIvY",
-          "_ts": 1794822276.1755579
-        },
-        {
-          "name": "청정원 쌀로만든 멸치 컵쌀국수, 92g, 6개",
-          "price": "7,790원",
-          "discount_rate": 27,
-          "priceAt": "11.16 18:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/10033988168618-475527c0-334a-49e5-8475-052f6c91a9f8.jpg",
-          "url": "https://link.coupang.com/a/iISyW4qkSW",
-          "_ts": 1794820359.1314619
         }
       ]
     },
@@ -2303,16 +2294,6 @@
           "url": "https://toss.shopping/_m/3iRhlTj2",
           "_ts": 1794828848.968492,
           "_product_id": "2653091083"
-        },
-        {
-          "name": "널담 고단백 저당 네모 바게트, 5종혼합, 90g, 10개",
-          "price": "10,090원",
-          "discount_rate": 71,
-          "priceAt": "11.16 18:10",
-          "image": "https://shopping.toss.im/live/taca/ai/ODM2MDAy/WXhneWsxaHBNeU9lM0ZzWjgweHBocDdMcE54TE03YXhhN1lsaGsyZVduST0.png",
-          "url": "https://toss.shopping/_m/n9hUA8wn",
-          "_ts": 1794820244.0286138,
-          "_product_id": "146054185"
         }
       ]
     },
