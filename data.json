@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 실쏙 얇은피 잎새만두 고기 (냉동), 1.5kg, 2개",
+          "price": "16,600원",
+          "discount_rate": 51,
+          "priceAt": "11.22 08:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/db564a77-2960-4d2a-a85e-fce504835e4d560952500723513103.png",
+          "url": "https://link.coupang.com/a/iR82BIuIdE",
+          "_ts": 1795302702.084859
+        },
+        {
           "name": "행복한엄마밥상 씻거나 불릴 필요 없는 찰진 체질 균형식 영양8곡, 3kg, 1개",
           "price": "10,980원",
           "discount_rate": 50,
@@ -2230,39 +2239,6 @@
           "url": "https://toss.shopping/_m/lpufaUze",
           "_ts": 1794876688.066547,
           "_product_id": "2307788465"
-        },
-        {
-          "name": "라이프턴 퍼스트 엑스트라버진 올리브오일 캡슐 100, 30캡슐, 6박스",
-          "price": "16,800원",
-          "discount_rate": 90,
-          "priceAt": "11.17 08:04",
-          "image": "https://shopping.toss.im/live/temp/2025-10-10/e03b4240-ae99-4957-ace3-a2c05b52c3bb.jpeg",
-          "url": "https://toss.shopping/_m/JxxV4OGD",
-          "_ts": 1794870278.675488,
-          "_flash": true,
-          "_product_id": "240280587"
-        },
-        {
-          "name": "메르헨트 저분자 히알루론산 모공 토너, 1000ml, 2개",
-          "price": "10,860원",
-          "discount_rate": 72,
-          "priceAt": "11.17 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-07-27/8c936d9f-59f0-46b0-b6b2-1a9497694033.jpeg",
-          "url": "https://toss.shopping/_m/bRhimG2r",
-          "_ts": 1794870278.67546,
-          "_flash": true,
-          "_product_id": "2545977563"
-        },
-        {
-          "name": "아이앤어스 3스텝 캡슐 식기세척기 세제, 레몬향, 10g, 50개입, 2개",
-          "price": "8,250원",
-          "discount_rate": 79,
-          "priceAt": "11.17 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-07-01/0a8c679d-730a-4d5f-a1a5-f6c35a7835a8.png",
-          "url": "https://toss.shopping/_m/prlHACqh",
-          "_ts": 1794870278.675423,
-          "_flash": true,
-          "_product_id": "327142829"
         }
       ]
     },
