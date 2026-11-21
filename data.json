@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "샤바스 스칸디나 폴딩 이동식 반신욕조, 1430 x 600 x 580 mm, 그레이, 1개",
+          "price": "89,550원",
+          "discount_rate": 32,
+          "priceAt": "11.21 21:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/2d46/f4c862767d9d252b86230c18421d1a57f0cd257d1568543c70a226eeaace.jpg",
+          "url": "https://link.coupang.com/a/iRo7kGwQZU",
+          "_ts": 1795264144.0962718
+        },
+        {
           "name": "코코도르 고체탈취제 양재동꽃시장, 300g, 3개",
           "price": "21,610원",
           "discount_rate": 37,
@@ -1419,15 +1428,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/342983939354563-7e1b3e7a-9ca7-4362-a465-730d28718f77.jpg",
           "url": "https://link.coupang.com/a/iI8OHPv9vU",
           "_ts": 1794834006.4201658
-        },
-        {
-          "name": "스윗토 스테비아 완숙토마토, 1kg, 2개",
-          "price": "11,590원",
-          "discount_rate": 47,
-          "priceAt": "11.16 21:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/685858637151205-63944b45-5df1-41a4-a0ef-e501157227a6.jpg",
-          "url": "https://link.coupang.com/a/iI6cVm0K0y",
-          "_ts": 1794831813.330436
         }
       ]
     },
