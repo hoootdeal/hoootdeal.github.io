@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "YALE 남녀공용 16수 코마사 스몰아치 루즈핏 반팔 티셔츠 2p, M, WHITE + BLACK",
+          "price": "14,610원",
+          "discount_rate": 33,
+          "priceAt": "11.21 13:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/06/24/11/0/39fdbeb8-793e-4608-aec6-10b44d1b65a2.jpg",
+          "url": "https://link.coupang.com/a/iQSDcy9Fuu",
+          "_ts": 1795236867.841354
+        },
+        {
           "name": "쁘리엘르 유아 다이노 면 누비 방수패드, 다이노 민트, 대형, 1개",
           "price": "11,900원",
           "discount_rate": 32,
@@ -1455,24 +1464,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1056825121335562-2ade2a11-2759-4844-87be-9a7107cf41a7.jpg",
           "url": "https://link.coupang.com/a/iIDsdFDH08",
           "_ts": 1794807672.889287
-        },
-        {
-          "name": "롯데웰푸드 월드콘 + 구구콘 세트 (냉동), 160ml, 1개입, 16개",
-          "price": "13,680원",
-          "discount_rate": 27,
-          "priceAt": "11.16 13:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/279415323096579-d3626d0e-57c6-4c78-a09a-7b2bd7f49ba5.png",
-          "url": "https://link.coupang.com/a/iIzqNo4w5A",
-          "_ts": 1794804295.99597
-        },
-        {
-          "name": "스카치브라이트 브러쉬 4종 세트 + 코맨드 훅 1p, 혼합색상, 1세트",
-          "price": "9,680원",
-          "discount_rate": 41,
-          "priceAt": "11.16 13:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/c728/a4e98a556051273b59b7f361b043139e393035ba2196299efcf3478b3a02.jpg",
-          "url": "https://link.coupang.com/a/iIyIqTVNoO",
-          "_ts": 1794803693.2715678
         }
       ]
     },
