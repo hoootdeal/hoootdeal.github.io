@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "파스퇴르 위드맘 산양 100일 제왕 분유, 750g, 1개",
+          "price": "26,600원",
+          "discount_rate": 29,
+          "priceAt": "11.22 08:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/172841999549779-5ca129e1-c661-49a0-bd56-22a4d8c8d24d.jpg",
+          "url": "https://link.coupang.com/a/iSbsp6sa04",
+          "_ts": 1795304729.6427898
+        },
+        {
           "name": "티젠 애플사이다 비니거, 250g, 1개",
           "price": "9,900원",
           "discount_rate": 32,
