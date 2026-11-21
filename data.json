@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "푸드랩플러스 설탕대신 알룰로스를 사용하여 만든 제로슈가 소불고기, 500g, 1개",
+          "price": "8,900원",
+          "discount_rate": 26,
+          "priceAt": "11.21 10:48",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/10750513201177-6c6f734e-aa50-4170-a2c7-e70b04373ee6.jpg",
+          "url": "https://link.coupang.com/a/iQFkd7P4LI",
+          "_ts": 1795225692.383635
+        },
+        {
           "name": "테이크얼라이브 망고 멸균, 200ml, 24개",
           "price": "7,900원",
           "discount_rate": 39,
@@ -1455,33 +1464,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/346623668631815-d434f208-6141-407d-9e98-b2f698d4f40e.jpg",
           "url": "https://link.coupang.com/a/iIowbKdre8",
           "_ts": 1794795132.0191019
-        },
-        {
-          "name": "오레오오즈 컵 시리얼, 30g, 12개",
-          "price": "7,660원",
-          "discount_rate": 38,
-          "priceAt": "11.16 10:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/5a60/69fb4af8f67bd3cdded9cc69e01d4f9b2294617d9949362313e350ae6e91.jpg",
-          "url": "https://link.coupang.com/a/iIkfnqHGXk",
-          "_ts": 1794791547.173972
-        },
-        {
-          "name": "트라택 EVA 폼롤러 원형 + 운동법 매뉴얼 + 포스터, 블루, 91cm, 1개",
-          "price": "20,200원",
-          "discount_rate": 41,
-          "priceAt": "11.16 10:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2592893536904037-5dd786dc-1940-46bf-bac5-dbc20ae39492.jpg",
-          "url": "https://link.coupang.com/a/iIj8FpRYqG",
-          "_ts": 1794791464.326331
-        },
-        {
-          "name": "홀리카홀리카 마이 페이브 피스 아이섀도우, 로즈토프, 1개",
-          "price": "2,820원",
-          "discount_rate": 39,
-          "priceAt": "11.16 10:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/268501903719644-22e47592-cbea-4985-b341-fe403ebdfdbb.png",
-          "url": "https://link.coupang.com/a/iIj7F25G8a",
-          "_ts": 1794791442.933117
         }
       ]
     },
@@ -2323,16 +2305,6 @@
           "url": "https://toss.shopping/_m/tktET7Tt",
           "_ts": 1794801609.086677,
           "_product_id": "274709655"
-        },
-        {
-          "name": "이씨네김치 이씨네 전라도 포기김치, 5kg, 1개",
-          "price": "17,560원",
-          "discount_rate": 60,
-          "priceAt": "11.16 10:11",
-          "image": "https://shopping.toss.im/live/taca/ai/YmViYTM0/TDJ4Q0JxeG1BRGUzUEM5eUJPMnA0Z0M5WjI3U3NjRnZINE51cFFjT1ZxVT0.png",
-          "url": "https://toss.shopping/_m/rvyPB33w",
-          "_ts": 1794791490.374027,
-          "_product_id": "1606006517"
         }
       ]
     },
