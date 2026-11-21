@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아리얼 스트레스릴리빙 퓨어풀 클렌징티슈, 15매입, 6개",
+          "price": "2,940원",
+          "discount_rate": 36,
+          "priceAt": "11.21 16:34",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/261622882116676-acddb24a-035a-4f4c-8439-a9f720a34e96.png",
+          "url": "https://link.coupang.com/a/iQ335D7TQi",
+          "_ts": 1795246467.87674
+        },
+        {
           "name": "석관동떡볶이 국물 떡볶이 (밀떡) (냉동), 490g, 4개",
           "price": "14,210원",
           "discount_rate": 43,
@@ -1464,15 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1456896603029111-0d02c9f0-a52e-43e6-8ad9-9caa80cde323.jpg",
           "url": "https://link.coupang.com/a/iINUN1WFoW",
           "_ts": 1794816456.192922
-        },
-        {
-          "name": "오뚜기 제주담음 제주청귤 고등어구이 3미 (냉동), 1개, 222g",
-          "price": "9,980원",
-          "discount_rate": 33,
-          "priceAt": "11.16 16:19",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/epd96p5g/6f58d5d93cc94075b59811d481d3e561.jpg",
-          "url": "https://link.coupang.com/a/iIKsNn67Nc",
-          "_ts": 1794813557.74988
         }
       ]
     },
