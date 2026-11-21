@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "베베쿡 유아용 사르르쿵 과자, 치즈요거트맛, 23g, 2개",
+          "price": "3,000원",
+          "discount_rate": 40,
+          "priceAt": "11.21 11:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/101444250545066-1250eac0-f1c7-4465-848c-7e687ce95546.jpg",
+          "url": "https://link.coupang.com/a/iQIh4YfVJs",
+          "_ts": 1795228185.32237
+        },
+        {
           "name": "푸드랩플러스 설탕대신 알룰로스를 사용하여 만든 제로슈가 소불고기, 500g, 1개",
           "price": "8,900원",
           "discount_rate": 26,
@@ -1455,15 +1464,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/235323958430510-9a61bc73-e4f1-4655-9501-d943a2463703.jpg",
           "url": "https://link.coupang.com/a/iIrgEuJdRI",
           "_ts": 1794797439.6232488
-        },
-        {
-          "name": "인디안밥, 83g, 8개",
-          "price": "6,930원",
-          "discount_rate": 28,
-          "priceAt": "11.16 11:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/346623668631815-d434f208-6141-407d-9e98-b2f698d4f40e.jpg",
-          "url": "https://link.coupang.com/a/iIowbKdre8",
-          "_ts": 1794795132.0191019
         }
       ]
     },
