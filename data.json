@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "팔도 비빔장 저칼로리, 185g, 1개",
+          "price": "2,740원",
+          "discount_rate": 35,
+          "priceAt": "11.21 09:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/990647491375469-9df535c1-8301-4498-84c7-1725904f7150.jpg",
+          "url": "https://link.coupang.com/a/iQzF5Xq1E4",
+          "_ts": 1795220950.460017
+        },
+        {
           "name": "뉴에라 아동용 MLB 스몰 로고 맨투맨 샌프란시스코 자이언츠, 150, 그레이",
           "price": "19,900원",
           "discount_rate": 68,
