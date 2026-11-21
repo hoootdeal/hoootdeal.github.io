@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "네이쳐러브메레 프리미엄 녹두 물티슈 캡형, 77g, 70매, 10개",
+          "price": "14,410원",
+          "discount_rate": 36,
+          "priceAt": "11.21 12:42",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/jpblshen/ae3a48702a474cc2804a891963c0b6a6.jpg",
+          "url": "https://link.coupang.com/a/iQNsFJTudo",
+          "_ts": 1795232526.5329542
+        },
+        {
           "name": "크리스마스 럭셔리 선물세트, 웨이퍼 5종, 1세트",
           "price": "8,810원",
           "discount_rate": 27,
@@ -1455,15 +1464,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/948529715745716-3021c979-d07e-4b59-8a50-03cc67e98439.jpg",
           "url": "https://link.coupang.com/a/iIxkCgbsKO",
           "_ts": 1794802531.272304
-        },
-        {
-          "name": "한돈 앞다리 수육용 (냉장), 1kg, 1개",
-          "price": "12,380원",
-          "discount_rate": 29,
-          "priceAt": "11.16 12:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2176421836735475-7c4bbd94-c22b-4cd8-b0d5-38cfd0b7767b.jpg",
-          "url": "https://link.coupang.com/a/iIuauf642m",
-          "_ts": 1794799874.72092
         }
       ]
     },
