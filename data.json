@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "테이크얼라이브 망고 멸균, 200ml, 24개",
+          "price": "7,900원",
+          "discount_rate": 39,
+          "priceAt": "11.21 10:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/07/20/17/0/c05541a1-35a6-47fa-b3ae-4db233c50277.png",
+          "url": "https://link.coupang.com/a/iQCpIhAx3Y",
+          "_ts": 1795223248.214138
+        },
+        {
           "name": "맑은내일 양파껍질차, 500ml, 24개",
           "price": "20,930원",
           "discount_rate": 28,
