@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크리스마스 럭셔리 선물세트, 웨이퍼 5종, 1세트",
+          "price": "8,810원",
+          "discount_rate": 27,
+          "priceAt": "11.21 12:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/d58d/c657bae537427440c8c91b349c1d7fa246033bfdc90fd41ac94155327023.jpg",
+          "url": "https://link.coupang.com/a/iQKEtx2jyS",
+          "_ts": 1795230167.737698
+        },
+        {
           "name": "베베쿡 유아용 사르르쿵 과자, 치즈요거트맛, 23g, 2개",
           "price": "3,000원",
           "discount_rate": 40,
@@ -1455,15 +1464,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2176421836735475-7c4bbd94-c22b-4cd8-b0d5-38cfd0b7767b.jpg",
           "url": "https://link.coupang.com/a/iIuauf642m",
           "_ts": 1794799874.72092
-        },
-        {
-          "name": "리츠 샌드위치 크래커 초코, 77g, 3개",
-          "price": "2,840원",
-          "discount_rate": 29,
-          "priceAt": "11.16 11:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/235323958430510-9a61bc73-e4f1-4655-9501-d943a2463703.jpg",
-          "url": "https://link.coupang.com/a/iIrgEuJdRI",
-          "_ts": 1794797439.6232488
         }
       ]
     },
