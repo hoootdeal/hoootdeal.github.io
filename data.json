@@ -1437,15 +1437,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/130929987956827-136f467d-a011-4cc0-a20f-acb199c2a98c.jpg",
           "url": "https://link.coupang.com/a/iI5Ur0wDvg",
           "_ts": 1794831563.379725
-        },
-        {
-          "name": "홈앤키즈 육포, 한돈육포, 30g, 4개",
-          "price": "8,060원",
-          "discount_rate": 37,
-          "priceAt": "11.16 21:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/75638324604294-b4ca6130-0816-40b8-b664-a385d34b10ee.jpg",
-          "url": "https://link.coupang.com/a/iI49JiDX0S",
-          "_ts": 1794830931.454439
         }
       ]
     },
@@ -1454,6 +1445,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "서귀포 조생 감귤, 최고15Brix, 10kg, 1개",
+          "price": "11,800원",
+          "discount_rate": 70,
+          "priceAt": "11.21 21:14",
+          "image": "https://shopping.toss.im/live/temp/2026-11-12/825daeff-7676-4ebe-9877-62eea3834a46.jpeg",
+          "url": "https://toss.shopping/_m/HB6xA0zn",
+          "_ts": 1795263280.743521,
+          "_product_id": "2725837549"
+        },
         {
           "name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
           "price": "5,490원",
