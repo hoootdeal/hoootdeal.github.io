@@ -1419,6 +1419,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하마다 USB C타입 메탈 충전 케이블, 5개입, 1.5m, 혼합, 1세트",
+          "price": "5,670원",
+          "discount_rate": 62,
+          "priceAt": "11.22 08:04",
+          "image": "https://shopping.toss.im/live/temp/2026-08-19/a0e3560b-b750-497b-9de7-9e67771981fa.jpeg",
+          "url": "https://toss.shopping/_m/nfaO9i8n",
+          "_ts": 1795302261.322525,
+          "_flash": true,
+          "_product_id": "2622883189"
+        },
+        {
+          "name": "이롬 황성주 과채습관, 퍼플, 140ml, 24개",
+          "price": "8,050원",
+          "discount_rate": 49,
+          "priceAt": "11.22 08:04",
+          "image": "https://shopping.toss.im/live/taca/ai/YWZiNTQy/Wm12Tm0yY2JsbWJOazNac3l4NHhqRHBrYTJPVExNdHpsS3dNT1hCeDhNdz0.png",
+          "url": "https://toss.shopping/_m/J2YC4Rpm",
+          "_ts": 1795302261.322498,
+          "_flash": true,
+          "_product_id": "172413425"
+        },
+        {
+          "name": "베라 4ZERO 팝업 뽑아쓰는 키친타올, 3겹, 100매, 9팩",
+          "price": "6,200원",
+          "discount_rate": 68,
+          "priceAt": "11.22 08:04",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/ODQyMGY2/SXl3OGIza2VYQk9jdzhNRWdPR2g3RXVValp0NmNKeHhad2RlRUdjT1BsND0.png",
+          "url": "https://toss.shopping/_m/dZyzomLf",
+          "_ts": 1795302261.322465,
+          "_flash": true,
+          "_product_id": "1052241537"
+        },
+        {
           "name": "웰니스바이오 홍삼진액365, 10g, 100포, 1박스",
           "price": "15,710원",
           "discount_rate": 64,
@@ -2230,39 +2263,6 @@
           "_ts": 1794870278.675423,
           "_flash": true,
           "_product_id": "327142829"
-        },
-        {
-          "name": "코리아푸드 백옥콘 강냉이, 1.4kg, 1개",
-          "price": "8,160원",
-          "discount_rate": 41,
-          "priceAt": "11.17 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/YTAxMDhk/QUoyRVBNVWFwMHFqd3FMUm1OV2N3SzJDTElNdGswTWt4MVJpNC8valBYSU4.png",
-          "url": "https://toss.shopping/_m/DFf3pSN4",
-          "_ts": 1794870253.760586,
-          "_flash": true,
-          "_product_id": "143159197"
-        },
-        {
-          "name": "비기온 맛밤, 30g, 30개",
-          "price": "20,000원",
-          "discount_rate": 69,
-          "priceAt": "11.17 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-03-30/28a25391-9cef-48f3-a66c-183e6f21c6e4.png",
-          "url": "https://toss.shopping/_m/tyW4AUo9",
-          "_ts": 1794870253.7605581,
-          "_flash": true,
-          "_product_id": "1320800487"
-        },
-        {
-          "name": "헬로바이오 무가당 자연발효 그릭요거트 스타터, 3g, 5포, 4개",
-          "price": "9,400원",
-          "discount_rate": 76,
-          "priceAt": "11.17 08:04",
-          "image": "https://shopping.toss.im/live/temp/2025-12-31/2fb4b87f-517b-4d7a-a1be-4686f09eec81.jpeg",
-          "url": "https://toss.shopping/_m/9LG7h2aA",
-          "_ts": 1794870253.7605178,
-          "_flash": true,
-          "_product_id": "515512547"
         }
       ]
     },
