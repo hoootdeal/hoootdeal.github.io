@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "까사니 인덕션 볼리레 샤브샤브 냄비, 24cm, 단일 색상, 1개",
+          "price": "11,800원",
+          "discount_rate": 36,
+          "priceAt": "11.21 17:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3a6b/c6bda941c0cf5695ac5873e8ced41f20384d64e434cfa4c5f3061a120346.jpg",
+          "url": "https://link.coupang.com/a/iQ6F2GZT1o",
+          "_ts": 1795248660.5097978
+        },
+        {
           "name": "아리얼 스트레스릴리빙 퓨어풀 클렌징티슈, 15매입, 6개",
           "price": "2,940원",
           "discount_rate": 36,
@@ -1464,15 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1139017462751460-79ab322b-7bc7-47cf-b515-2340eb283f76.jpg",
           "url": "https://link.coupang.com/a/iIPozCuXfg",
           "_ts": 1794817698.299972
-        },
-        {
-          "name": "흰다리 새우살 (냉동), 200g(31/50..., 5개, 200g(31/50)",
-          "price": "19,200원",
-          "discount_rate": 54,
-          "priceAt": "11.16 17:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1456896603029111-0d02c9f0-a52e-43e6-8ad9-9caa80cde323.jpg",
-          "url": "https://link.coupang.com/a/iINUN1WFoW",
-          "_ts": 1794816456.192922
         }
       ]
     },
