@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "맑은내일 양파껍질차, 500ml, 24개",
+          "price": "20,930원",
+          "discount_rate": 28,
+          "priceAt": "11.21 09:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/99200944-08c7-4db5-844f-978cf336e1b3_fixing_v2.png",
+          "url": "https://link.coupang.com/a/iQBwI8yenk",
+          "_ts": 1795222502.9185011
+        },
+        {
           "name": "팔도 비빔장 저칼로리, 185g, 1개",
           "price": "2,740원",
           "discount_rate": 35,
