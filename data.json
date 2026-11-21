@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "쁘리엘르 유아 다이노 면 누비 방수패드, 다이노 민트, 대형, 1개",
+          "price": "11,900원",
+          "discount_rate": 32,
+          "priceAt": "11.21 13:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/9318016546751-7cf4c7b3-8bf9-4498-8867-ab8c78774704.jpg",
+          "url": "https://link.coupang.com/a/iQP3uJnH9U",
+          "_ts": 1795234704.489839
+        },
+        {
           "name": "치토스 매콤달콤한맛, 82g, 3개",
           "price": "3,930원",
           "discount_rate": 56,
@@ -1464,15 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/c728/a4e98a556051273b59b7f361b043139e393035ba2196299efcf3478b3a02.jpg",
           "url": "https://link.coupang.com/a/iIyIqTVNoO",
           "_ts": 1794803693.2715678
-        },
-        {
-          "name": "갭 아이비 방한샌들, 베이지, 280",
-          "price": "15,000원",
-          "discount_rate": 62,
-          "priceAt": "11.16 13:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/948529715745716-3021c979-d07e-4b59-8a50-03cc67e98439.jpg",
-          "url": "https://link.coupang.com/a/iIxkCgbsKO",
-          "_ts": 1794802531.272304
         }
       ]
     },
@@ -2304,16 +2304,6 @@
           "_product_id": "2672325915",
           "sold_out": true,
           "_sold_at": 1795230016.0
-        },
-        {
-          "name": "헤디안 아로마 데일리 모이스처 바디워시, 호텔포레스트향, 1L, 4개",
-          "price": "16,690원",
-          "discount_rate": 81,
-          "priceAt": "11.16 13:00",
-          "image": "https://shopping.toss.im/live/temp/2026-10-22/8b51e610-286d-4daf-af97-182fba1ebf77.jpeg",
-          "url": "https://toss.shopping/_m/tktET7Tt",
-          "_ts": 1794801609.086677,
-          "_product_id": "274709655"
         }
       ]
     },
