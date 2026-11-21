@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "다르다팝콘 시네마 믹스, 30g, 15개",
+          "price": "9,410원",
+          "discount_rate": 29,
+          "priceAt": "11.21 15:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/398106114345926-f93b0e66-b7b1-484e-9b17-c867177f771e.jpg",
+          "url": "https://link.coupang.com/a/iQYbLcean6",
+          "_ts": 1795241529.3945339
+        },
+        {
           "name": "다슈 데일리 비타플렉스 올인원 바디워시, 500ml, 1개",
           "price": "7,750원",
           "discount_rate": 33,
@@ -1464,15 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/958117362395741-fdbf7223-fcd1-40bd-abcb-b0f68dddc348.jpg",
           "url": "https://link.coupang.com/a/iIGg1Ww6qi",
           "_ts": 1794810041.80415
-        },
-        {
-          "name": "쿠첸 전자레인지 다이얼식 20L, CMW-N201W",
-          "price": "49,400원",
-          "discount_rate": 31,
-          "priceAt": "11.16 14:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1056825121335562-2ade2a11-2759-4844-87be-9a7107cf41a7.jpg",
-          "url": "https://link.coupang.com/a/iIDsdFDH08",
-          "_ts": 1794807672.889287
         }
       ]
     },
