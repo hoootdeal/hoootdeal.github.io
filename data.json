@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "순수한집 곤약쫀드기 현미맛, 600g, 1개",
+          "price": "8,590원",
+          "discount_rate": 31,
+          "priceAt": "11.22 07:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1280555334973504-0ea97dd3-c304-4bf2-ab51-f47c83fe0775.jpg",
+          "url": "https://link.coupang.com/a/iR4Zb55Y04",
+          "_ts": 1795299295.3396192
+        },
+        {
           "name": "샤바스 스칸디나 폴딩 이동식 반신욕조, 1430 x 600 x 580 mm, 그레이, 1개",
           "price": "89,550원",
           "discount_rate": 32,
@@ -1401,24 +1410,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/9ad32736-1b08-4faf-9dcf-6bd44834026e15426519028899807867.png",
           "url": "https://link.coupang.com/a/iJOVpTflYW",
           "_ts": 1794869357.484266
-        },
-        {
-          "name": "도브 바디러브 어웨이크닝 케어 핸드크림 그린티 앤 라벤더 향, 75ml, 2개",
-          "price": "4,830원",
-          "discount_rate": 40,
-          "priceAt": "11.17 07:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2653351392824-53c77ebe-b8c5-4a07-9d41-c6421772ced3.jpg",
-          "url": "https://link.coupang.com/a/iJMi3jDCx2",
-          "_ts": 1794867161.993332
-        },
-        {
-          "name": "쿠쿠 스피드팟 멀티쿠커, CMC-A0655FB",
-          "price": "58,480원",
-          "discount_rate": 32,
-          "priceAt": "11.17 07:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1fa2/37b86d39c9c61491879eb498ef20bff7447eb298a5533a806858719ee514.jpg",
-          "url": "https://link.coupang.com/a/iJLJ4rHEbc",
-          "_ts": 1794866687.3638651
         }
       ]
     },
