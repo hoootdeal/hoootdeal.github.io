@@ -1428,6 +1428,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풍연 굳지않는 저당 앙꼬절편, 50g, 20개",
+          "price": "9,200원",
+          "discount_rate": 69,
+          "priceAt": "11.22 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-10-20/7aa7bbf8-013d-464e-b66c-308c9009a108.jpeg",
+          "url": "https://toss.shopping/_m/NpA7mFKl",
+          "_ts": 1795273343.861965,
+          "_flash": true,
+          "_product_id": "1188864757"
+        },
+        {
+          "name": "던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 150g 1팩, 3팩",
+          "price": "15,900원",
+          "discount_rate": 65,
+          "priceAt": "11.22 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-09-08/f23cdba2-f0bb-4800-84f5-7e04cafdfbd4.png",
+          "url": "https://toss.shopping/_m/9m9AaTh2",
+          "_ts": 1795273343.861942,
+          "_flash": true,
+          "_product_id": "2684020579"
+        },
+        {
+          "name": "앙쥬 마유코팅 핸드크림, 100ml, 10+1, 총 11개",
+          "price": "9,500원",
+          "discount_rate": 95,
+          "priceAt": "11.22 00:02",
+          "image": "https://shopping.toss.im/live/temp/2025-10-14/b347fb0d-6ec4-4c11-968e-ad52046aac2e.jpeg",
+          "url": "https://toss.shopping/_m/rAyQRT5f",
+          "_ts": 1795273343.861909,
+          "_flash": true,
+          "_product_id": "972483019"
+        },
+        {
           "name": "서귀포 조생 감귤, 최고15Brix, 10kg, 1개",
           "price": "11,800원",
           "discount_rate": 70,
@@ -2239,39 +2272,6 @@
           "_ts": 1794870225.813432,
           "_flash": true,
           "_product_id": "525669803"
-        },
-        {
-          "name": "청년참기름, 350ml, 1개 + 청년들기름, 350ml, 1개",
-          "price": "17,800원",
-          "discount_rate": 65,
-          "priceAt": "11.17 00:02",
-          "image": "https://shopping.toss.im/live/product/74175/aefb4ffd-b4e4-4de5-93dc-d5009423eb1b.jpeg",
-          "url": "https://toss.shopping/_m/tE3BtLGf",
-          "_ts": 1794841337.851229,
-          "_flash": true,
-          "_product_id": "274525487"
-        },
-        {
-          "name": "플로비즈 시그니처 야생화꿀, 2kg, 1개",
-          "price": "14,350원",
-          "discount_rate": 68,
-          "priceAt": "11.17 00:02",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjgyMTM3/QUxUbnNPRmJjazhQbk16eThHY2pUczhZWExNNTUrUEswQW9mTlEvMTRPNUY.png",
-          "url": "https://toss.shopping/_m/58yIFqGa",
-          "_ts": 1794841337.8511932,
-          "_flash": true,
-          "_product_id": "103365137"
-        },
-        {
-          "name": "할리스 시그니처 아메리카노 미니, 마일드, 0.9g, 100개입, 3개",
-          "price": "26,900원",
-          "discount_rate": 66,
-          "priceAt": "11.17 00:02",
-          "image": "https://shopping.toss.im/live/taca/ai/YTAwNGEx/QUtuL1ZLL1Y2cXZXV3BVLyt2L1YxSytGZXNxbFZmdDNXUHFGci9hbFZGS3A.png",
-          "url": "https://toss.shopping/_m/rbZxHdr4",
-          "_ts": 1794841337.851147,
-          "_flash": true,
-          "_product_id": "156685683"
         }
       ]
     },
