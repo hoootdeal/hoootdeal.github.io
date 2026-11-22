@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "해태제과 크림 웨하스, 50g, 24개",
+          "price": "11,250원",
+          "discount_rate": 25,
+          "priceAt": "11.22 12:48",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1371665265202536-43a2b711-8555-45e0-8dcd-264bcc413069.jpg",
+          "url": "https://link.coupang.com/a/iSsPD16c1c",
+          "_ts": 1795319315.199348
+        },
+        {
           "name": "오뚜기프레스코 알리오올리오 파스타소스, 380g, 2개",
           "price": "7,250원",
           "discount_rate": 27,
@@ -1410,15 +1419,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/09/27/17/1/f3bf8de9-d8e4-4837-9c7c-1dde25fa6d9b.jpg",
           "url": "https://link.coupang.com/a/iKcFeGdbW0",
           "_ts": 1794889289.0422678
-        },
-        {
-          "name": "스킨푸드 블랙슈가 퍼펙트 엔자임 파우더 워시 30p, 36g, 1개",
-          "price": "6,630원",
-          "discount_rate": 50,
-          "priceAt": "11.17 12:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/e101/c8789e92b208114f5902ae1892db13ef63a45bf8e507d62c7a5a0e0cc92e.jpg",
-          "url": "https://link.coupang.com/a/iJ9YoiE7Mq",
-          "_ts": 1794887032.155485
         }
       ]
     },
