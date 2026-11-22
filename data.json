@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "루카스나인 시그니처 바닐라라떼 커피믹스, 16.9g, 30개입, 2개",
+          "price": "16,650원",
+          "discount_rate": 25,
+          "priceAt": "11.22 11:44",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/107080781584504-899cf868-debe-4569-996d-3a6bc8091fd5.jpg",
+          "url": "https://link.coupang.com/a/iSofXibZRY",
+          "_ts": 1795315473.9444191
+        },
+        {
           "name": "콘칲 C 군옥수수맛, 70g, 10개",
           "price": "7,400원",
           "discount_rate": 25,
@@ -1419,24 +1428,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/512167589916052-72e73f2d-a216-4015-b1da-506960ccabf4.jpg",
           "url": "https://link.coupang.com/a/iJ7jRlGEE0",
           "_ts": 1794884800.608971
-        },
-        {
-          "name": "어부심 산지직송 산채로 포장한 생물새우, 1kg(30~40미..., 2박스, 1kg(30~40미)",
-          "price": "39,800원",
-          "discount_rate": 40,
-          "priceAt": "11.17 11:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/83042702958530-cc1cf731-ae91-45c1-a26f-b851d4c0e2dd.jpg",
-          "url": "https://link.coupang.com/a/iJ4cmhmVYy",
-          "_ts": 1794882194.173568
-        },
-        {
-          "name": "김대감 어린이용 새우멸치 스틱김자반, 400g, 2개",
-          "price": "25,910원",
-          "discount_rate": 31,
-          "priceAt": "11.17 11:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/9511954928521-668ce6dd-ddf8-4bc9-9552-3c4e572a4de8.jpg",
-          "url": "https://link.coupang.com/a/iJ23IwUX00",
-          "_ts": 1794881227.173223
         }
       ]
     },
