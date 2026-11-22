@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "일가집 프리미엄 더 맛있는 김밥세트, 525g, 1세트",
+          "price": "6,600원",
+          "discount_rate": 34,
+          "priceAt": "11.23 07:46",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2531584328309897-32aae1a6-7381-4c35-bf59-e5adb4d2f2ab.jpg",
+          "url": "https://link.coupang.com/a/iTL9kEF7Wm",
+          "_ts": 1795387593.825842
+        },
+        {
           "name": "오리온 다이제샌드 우도땅콩맛 8p, 392g, 1개",
           "price": "4,200원",
           "discount_rate": 26,
