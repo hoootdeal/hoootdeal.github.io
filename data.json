@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "인디안밥, 83g, 5개",
+          "price": "4,800원",
+          "discount_rate": 24,
+          "priceAt": "11.22 18:34",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2485663860150-5d6a79bd-9dde-4308-ba08-a15c1682a7cd.jpg",
+          "url": "https://link.coupang.com/a/iSRxrOBTVI",
+          "_ts": 1795340059.892612
+        },
+        {
           "name": "곰곰 완숙 토마토, 5kg, 1개",
           "price": "15,860원",
           "discount_rate": 45,
