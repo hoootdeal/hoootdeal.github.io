@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오리온 다이제샌드 우도땅콩맛 8p, 392g, 1개",
+          "price": "4,200원",
+          "discount_rate": 26,
+          "priceAt": "11.23 07:39",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/07/17/6/b8087345-0e0b-4784-aae5-10f43d591ce2.jpg",
+          "url": "https://link.coupang.com/a/iTLFTpFL9o",
+          "_ts": 1795387197.248202
+        },
+        {
           "name": "에코맘의산골이유식 산골 과일참 통째로 사과칩, 10g, 4개",
           "price": "5,600원",
           "discount_rate": 43,
@@ -1383,15 +1392,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/8789080562233-52df4b76-b60a-4228-bfe5-f546203034a4.jpg",
           "url": "https://link.coupang.com/a/iLvbCb3a3w",
           "_ts": 1794956899.7353559
-        },
-        {
-          "name": "포켓커피 페레로 초콜릿 5p, 62.5g, 1개",
-          "price": "3,920원",
-          "discount_rate": 51,
-          "priceAt": "11.18 07:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/426309971770747-008ff076-6760-4f00-8156-d9e5ccb7cf10.jpg",
-          "url": "https://link.coupang.com/a/iLszbi0wto",
-          "_ts": 1794954701.809977
         }
       ]
     },
