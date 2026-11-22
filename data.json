@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "첫맛 만능 멸치육수, 1.95kg, 1개",
+          "price": "9,710원",
+          "discount_rate": 28,
+          "priceAt": "11.22 09:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/07/08/14/9/9ff0e9b2-5598-44cf-b23c-1be5740841a7.jpg",
+          "url": "https://link.coupang.com/a/iSgnsbfBg4",
+          "_ts": 1795308862.8391418
+        },
+        {
           "name": "배스킨라빈스 민트초코 우유, 190ml, 24개",
           "price": "11,900원",
           "discount_rate": 37,
@@ -2243,16 +2252,6 @@
           "url": "https://toss.shopping/_m/rAI6yoNz",
           "_ts": 1794884759.250892,
           "_product_id": "377435835"
-        },
-        {
-          "name": "옛날대패삼겹살 대용량, 1kg, 2개",
-          "price": "16,070원",
-          "discount_rate": 64,
-          "priceAt": "11.17 09:51",
-          "image": "https://shopping.toss.im/live/taca/ai/MDUwMGU2/QUpKTExmZjErZTFCeU91ZHVlcytQbXB3U3ZhSjlOL0FvUUxsVnYzWDhJdTA.png",
-          "url": "https://toss.shopping/_m/lpufaUze",
-          "_ts": 1794876688.066547,
-          "_product_id": "2307788465"
         }
       ]
     },
