@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "배스킨라빈스 민트초코 우유, 190ml, 24개",
+          "price": "11,900원",
+          "discount_rate": 37,
+          "priceAt": "11.22 09:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1155570306024914-e9962cfd-802d-46a3-8836-be46bf1e68cf.jpg",
+          "url": "https://link.coupang.com/a/iSdIlGWZq0",
+          "_ts": 1795306625.6674502
+        },
+        {
           "name": "파스퇴르 위드맘 산양 100일 제왕 분유, 750g, 1개",
           "price": "26,600원",
           "discount_rate": 29,
@@ -1419,15 +1428,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/ebaaf14a-626d-425b-b530-1756b4cad0a215282826042719047888.png",
           "url": "https://link.coupang.com/a/iJVPlg8UQ8",
           "_ts": 1794875155.57647
-        },
-        {
-          "name": "롯데웰푸드 크런키 초콜릿, 34g, 24개",
-          "price": "17,220원",
-          "discount_rate": 23,
-          "priceAt": "11.17 08:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/54831248923930-9db65223-8e34-42bf-a0b4-da9b57a9095d.jpg",
-          "url": "https://link.coupang.com/a/iJTz7m5Oy4",
-          "_ts": 1794873267.4654489
         }
       ]
     },
