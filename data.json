@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "곰곰 완숙 토마토, 5kg, 1개",
+          "price": "15,860원",
+          "discount_rate": 45,
+          "priceAt": "11.22 18:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/500389728553835-ad3cf8bb-7d4c-4ae0-99ba-501da1ee5480.jpg",
+          "url": "https://link.coupang.com/a/iSPFebhiYS",
+          "_ts": 1795338486.52913
+        },
+        {
           "name": "겟리비온 차량용 충전기 동시4대충전 릴타입 고속충전, 단일색상, PT-SX16-2(애플+C타입)",
           "price": "7,400원",
           "discount_rate": 66,
@@ -1383,15 +1392,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1443337522357105-6cd0700a-9b03-4346-a342-11fcebf83267.jpg",
           "url": "https://link.coupang.com/a/iKxw3ge5Ke",
           "_ts": 1794906813.342587
-        },
-        {
-          "name": "MYCHEF 버섯가득 소불고기전골 밀키트 2~3인분, 915g, 1개",
-          "price": "8,940원",
-          "discount_rate": 24,
-          "priceAt": "11.17 17:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/58243196328177-ce61032d-80a5-4cc4-bb54-4da57c56fdb3.jpg",
-          "url": "https://link.coupang.com/a/iKuIfgqXRs",
-          "_ts": 1794904446.0065038
         }
       ]
     },
@@ -2204,16 +2204,6 @@
           "url": "https://toss.shopping/_m/PNZl6qRk",
           "_ts": 1794906582.573626,
           "_product_id": "2714205019"
-        },
-        {
-          "name": "야무진살림 스텐304 양면도마, 스텐+핑크, 365x250x10mm, 1개",
-          "price": "14,220원",
-          "discount_rate": 64,
-          "priceAt": "11.17 17:44",
-          "image": "https://shopping.toss.im/live/temp/2025-06-04/64a42973-882d-4d87-90ea-697ce048df09.jpeg",
-          "url": "https://toss.shopping/_m/r1Kn4oVo",
-          "_ts": 1794905046.613426,
-          "_product_id": "115251205"
         }
       ]
     },
