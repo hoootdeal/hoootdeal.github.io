@@ -1365,15 +1365,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1039/ec8811e5c3e8efd61b52dc71d17e47ea041533afaa277ee39de39839e06d.jpg",
           "url": "https://link.coupang.com/a/iKK87jlSZE",
           "_ts": 1794918244.8132339
-        },
-        {
-          "name": "스너글 허거블 코튼 클린 앤 케어 시그니처향 캡슐세제 15g, 13개입, 1개",
-          "price": "5,300원",
-          "discount_rate": 60,
-          "priceAt": "11.17 20:53",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/164544091201413-b01fcb60-f2dc-4a89-95cc-1491b5b01267.jpg",
-          "url": "https://link.coupang.com/a/iKIYP3G9nw",
-          "_ts": 1794916424.998406
         }
       ]
     },
@@ -1382,6 +1373,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "란센 초음파 렌즈세척기, BPL-04, 화이트, 1개",
+          "price": "10,900원",
+          "discount_rate": 81,
+          "priceAt": "11.22 20:58",
+          "image": "https://shopping.toss.im/live/temp/2026-09-17/07401430-f927-404f-992f-ef2c92a0d715.jpeg",
+          "url": "https://toss.shopping/_m/Dh9sDDc2",
+          "_ts": 1795348703.4471722,
+          "_product_id": "2658087741"
+        },
         {
           "name": "제주도산 극조생 햇귤, 10kg, 1박스",
           "price": "9,990원",
