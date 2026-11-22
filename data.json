@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "동원 노르웨이 두툼한 생연어회, 200g, 2개",
+          "price": "18,860원",
+          "discount_rate": 35,
+          "priceAt": "11.22 19:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/49266304213228-a5c5e1f1-bba9-4e0b-8bfb-172f0ef6ba48.jpg",
+          "url": "https://link.coupang.com/a/iSTU04o9sG",
+          "_ts": 1795342060.303463
+        },
+        {
           "name": "인디안밥, 83g, 5개",
           "price": "4,800원",
           "discount_rate": 24,
@@ -1383,15 +1392,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/235984689794649-4c416766-2674-4603-9498-a31e3f41e619.jpg",
           "url": "https://link.coupang.com/a/iKCFiiqhP2",
           "_ts": 1794911123.022658
-        },
-        {
-          "name": "곰곰 부여 햇 알밤, 1kg, 1팩",
-          "price": "5,140원",
-          "discount_rate": 44,
-          "priceAt": "11.17 18:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/176908895232999-dcffb420-db43-49a5-ae44-3246e39388c6.jpg",
-          "url": "https://link.coupang.com/a/iKAarOkGAK",
-          "_ts": 1794909025.1944692
         }
       ]
     },
