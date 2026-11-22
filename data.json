@@ -1401,6 +1401,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "제주도산 극조생 햇귤, 10kg, 1박스",
+          "price": "9,990원",
+          "discount_rate": 77,
+          "priceAt": "11.22 19:16",
+          "image": "https://shopping.toss.im/live/temp/2026-11-10/13adb5de-39f5-45f1-87c3-97a1e0b0d3be.png",
+          "url": "https://toss.shopping/_m/tIVVPDmB",
+          "_ts": 1795342607.9315908,
+          "_product_id": "2721978367"
+        },
+        {
           "name": "오프라이스 한촌 사골 양지고기 설렁탕, 500g, 5개",
           "price": "12,900원",
           "discount_rate": 48,
