@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "다슈 데일리 볼륨픽 헤어클립, 블랙, 1개",
+          "price": "8,620원",
+          "discount_rate": 34,
+          "priceAt": "11.22 14:47",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/331003300926640-89bc3848-3054-44fd-b3c7-5c8aa4b7472c.jpg",
+          "url": "https://link.coupang.com/a/iSBk1Cyjgi",
+          "_ts": 1795326460.9928
+        },
+        {
           "name": "프롬데네일 Magnet Gel Promotion, FG 217, 10g, 1개",
           "price": "5,500원",
           "discount_rate": 39,
@@ -1401,15 +1410,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/7cbf/ae9212b2e6b650b5a1b1c100d62325d65254a68d5248615636fa644e0a6f.jpg",
           "url": "https://link.coupang.com/a/iKlKBNowgu",
           "_ts": 1794896921.9983602
-        },
-        {
-          "name": "백설 육수에는 1분링 야채 50개입, 200g, 2개",
-          "price": "11,500원",
-          "discount_rate": 26,
-          "priceAt": "11.17 14:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/0706b655-78c5-481d-8ce1-aeedafd7dc118396906452469154871.png",
-          "url": "https://link.coupang.com/a/iKiJva6cWi",
-          "_ts": 1794894388.227901
         }
       ]
     },
