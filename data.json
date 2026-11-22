@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "세이프 남극솔트 주방세제 유칼립투스향 리필, 1L, 1개",
+          "price": "3,990원",
+          "discount_rate": 41,
+          "priceAt": "11.22 13:25",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/10/9/5/5450992c-2c54-4c1e-ab36-3d1db080280c.jpeg",
+          "url": "https://link.coupang.com/a/iSvtTzgfuu",
+          "_ts": 1795321540.242336
+        },
+        {
           "name": "해태제과 크림 웨하스, 50g, 24개",
           "price": "11,250원",
           "discount_rate": 25,
@@ -1410,15 +1419,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1380474957251333-7f411fc7-3556-4e0c-be94-ba4926ca0632.jpg",
           "url": "https://link.coupang.com/a/iKel68vHKT",
           "_ts": 1794890712.572426
-        },
-        {
-          "name": "갭 캠프 패딩 슬리퍼, 블랙, 270",
-          "price": "27,800원",
-          "discount_rate": 30,
-          "priceAt": "11.17 13:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/09/27/17/1/f3bf8de9-d8e4-4837-9c7c-1dde25fa6d9b.jpg",
-          "url": "https://link.coupang.com/a/iKcFeGdbW0",
-          "_ts": 1794889289.0422678
         }
       ]
     },
