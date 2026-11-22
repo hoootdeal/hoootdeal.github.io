@@ -1410,6 +1410,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "배스킨라빈스 엄마는 외계인 밀키 드링크, 300ml, 10개",
+          "price": "9,900원",
+          "discount_rate": 65,
+          "priceAt": "11.23 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-08-04/8dc69025-7a09-4646-836d-858a45f0d59e.jpeg",
+          "url": "https://toss.shopping/_m/LQmcAuGo",
+          "_ts": 1795388638.9327612,
+          "_flash": true,
+          "_product_id": "2570163987"
+        },
+        {
+          "name": "소소락 닭다리 순살 양념 닭강정, 500g, 4팩",
+          "price": "19,900원",
+          "discount_rate": 54,
+          "priceAt": "11.23 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-09-04/0c823569-764c-49df-90a4-529ede7010fc.jpeg",
+          "url": "https://toss.shopping/_m/D6tnIphv",
+          "_ts": 1795388638.932723,
+          "_flash": true,
+          "_product_id": "2645638693"
+        },
+        {
+          "name": "쏘울너츠 100프로 땅콩버터, 슈퍼 크런치 + 스무스, 1kg, 1세트",
+          "price": "7,830원",
+          "discount_rate": 68,
+          "priceAt": "11.23 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-08-18/ee5c1c02-9eff-448b-9050-c6f463d5ee44.jpeg",
+          "url": "https://toss.shopping/_m/3bsfdYE7",
+          "_ts": 1795388638.93269,
+          "_flash": true,
+          "_product_id": "2620600387"
+        },
+        {
           "name": "유한메디카 바나바 엔 탑 혈당케어, 60정, 3개",
           "price": "14,230원",
           "discount_rate": 88,
@@ -2196,39 +2229,6 @@
           "url": "https://toss.shopping/_m/HiD40uVl",
           "_ts": 1794963265.790619,
           "_product_id": "1323071175"
-        },
-        {
-          "name": "산들내음 산림방사 유정란, 난각번호 1번, 60구, 1박스",
-          "price": "20,940원",
-          "discount_rate": 63,
-          "priceAt": "11.18 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MDc5ODhh/QVBBY01NMEE0YksydGdiYnB4TjlZSmJNWTRkTkU0S2VjSkJQV0dkQkxOZmw.png",
-          "url": "https://toss.shopping/_m/F5Mxnua3",
-          "_ts": 1794956630.163542,
-          "_flash": true,
-          "_product_id": "2451254379"
-        },
-        {
-          "name": "예지미인 순슬림 팬티라이너, 롱, 46매입, 3팩",
-          "price": "9,040원",
-          "discount_rate": 64,
-          "priceAt": "11.18 08:03",
-          "image": "https://shopping.toss.im/live/temp/2025-12-02/f9629cc3-4f1d-4ec2-ae62-d8d9a04f67b8.jpeg",
-          "url": "https://toss.shopping/_m/nPPJG5Vj",
-          "_ts": 1794956630.1635141,
-          "_flash": true,
-          "_product_id": "210250287"
-        },
-        {
-          "name": "제이닭 통닭가슴살, 숯불치킨맛, 100g, 10개 + 돈까스맛, 100g, 10개 + 떡볶이맛, 100g, 10개",
-          "price": "33,220원",
-          "discount_rate": 41,
-          "priceAt": "11.18 08:03",
-          "image": "https://shopping.toss.im/live/temp/2025-07-29/648eb387-568f-449a-943b-2e1f79d271c9.jpeg",
-          "url": "https://toss.shopping/_m/lHUvXxUu",
-          "_ts": 1794956630.163481,
-          "_flash": true,
-          "_product_id": "1444516611"
         }
       ]
     },
