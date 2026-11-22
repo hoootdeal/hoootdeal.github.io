@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "프롬데네일 Magnet Gel Promotion, FG 217, 10g, 1개",
+          "price": "5,500원",
+          "discount_rate": 39,
+          "priceAt": "11.22 14:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/61066756347356-ac87d989-6e83-4cbb-9e84-9ba588e8fb7b.jpg",
+          "url": "https://link.coupang.com/a/iSyoB5l1W0",
+          "_ts": 1795323987.269999
+        },
+        {
           "name": "세이프 남극솔트 주방세제 유칼립투스향 리필, 1L, 1개",
           "price": "3,990원",
           "discount_rate": 41,
@@ -1401,24 +1410,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/0706b655-78c5-481d-8ce1-aeedafd7dc118396906452469154871.png",
           "url": "https://link.coupang.com/a/iKiJva6cWi",
           "_ts": 1794894388.227901
-        },
-        {
-          "name": "홈스타 락스와 세제 허벌시트러스, 750ml, 2개",
-          "price": "4,090원",
-          "discount_rate": 30,
-          "priceAt": "11.17 14:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/29042384652044-77b807b3-ad99-4a48-8493-46b298869015.jpg",
-          "url": "https://link.coupang.com/a/iKfOyW2fLM",
-          "_ts": 1794891939.640626
-        },
-        {
-          "name": "데일리라이크 파스텔 스텐 머그컵 300ml x 4종 세트, 혼합색상, 1개",
-          "price": "11,300원",
-          "discount_rate": 62,
-          "priceAt": "11.17 13:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1380474957251333-7f411fc7-3556-4e0c-be94-ba4926ca0632.jpg",
-          "url": "https://link.coupang.com/a/iKel68vHKT",
-          "_ts": 1794890712.572426
         }
       ]
     },
