@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "콘칲 C 군옥수수맛, 70g, 10개",
+          "price": "7,400원",
+          "discount_rate": 25,
+          "priceAt": "11.22 10:52",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/83475501459261-3644e860-eef2-4e43-a7c2-57e0181743d8.jpg",
+          "url": "https://link.coupang.com/a/iSkyNyh2Sy",
+          "_ts": 1795312374.1141188
+        },
+        {
           "name": "바프 메이플 피칸 믹스넛, 190g, 5개",
           "price": "15,210원",
           "discount_rate": 61,
@@ -1428,15 +1437,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/9511954928521-668ce6dd-ddf8-4bc9-9552-3c4e572a4de8.jpg",
           "url": "https://link.coupang.com/a/iJ23IwUX00",
           "_ts": 1794881227.173223
-        },
-        {
-          "name": "오리온 도도한 나초 치즈맛, 155g, 12개",
-          "price": "15,750원",
-          "discount_rate": 24,
-          "priceAt": "11.17 10:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4703225945339378-545c9d38-a104-42d7-8a65-2b80f2aa8006.png",
-          "url": "https://link.coupang.com/a/iJ0EV4EDMO",
-          "_ts": 1794879209.886657
         }
       ]
     },
