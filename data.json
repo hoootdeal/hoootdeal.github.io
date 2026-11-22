@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "해태제과 맛동산, 70g, 4개",
+          "price": "2,980원",
+          "discount_rate": 26,
+          "priceAt": "11.23 07:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/82026788105857-0e19bf39-5002-4e90-be35-9fbb5e5fb076.jpg",
+          "url": "https://link.coupang.com/a/iTIVFs2RLo",
+          "_ts": 1795384889.297622
+        },
+        {
           "name": "비비고 왕교자 (냉동), 1.4kg, 5개",
           "price": "43,400원",
           "discount_rate": 26,
