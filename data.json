@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기옛날 잡채 75g, 4개",
+          "price": "4,180원",
+          "discount_rate": 28,
+          "priceAt": "11.23 08:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/78366050885242-0a2fc888-5b4a-45b9-bd35-a4e9b404cdaa.jpg",
+          "url": "https://link.coupang.com/a/iTPn6s3AJ2",
+          "_ts": 1795390308.980354
+        },
+        {
           "name": "맑은물에 참좋은 국산 서리태콩물, 1L, 2개",
           "price": "2,826원",
           "discount_rate": 75,
