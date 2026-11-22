@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바프 메이플 피칸 믹스넛, 190g, 5개",
+          "price": "15,210원",
+          "discount_rate": 61,
+          "priceAt": "11.22 10:27",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/223627848161736-144e2436-3714-42e4-ad51-d4cf9dc6a6a0.jpg",
+          "url": "https://link.coupang.com/a/iSiLfH6ZEq",
+          "_ts": 1795310861.8776472
+        },
+        {
           "name": "퍼실 라벤더젤 플러스 드럼용 액상세제 라벤더 코튼향 본품, 2.7L, 1개입, 2개",
           "price": "24,300원",
           "discount_rate": 62,
@@ -1428,15 +1437,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4703225945339378-545c9d38-a104-42d7-8a65-2b80f2aa8006.png",
           "url": "https://link.coupang.com/a/iJ0EV4EDMO",
           "_ts": 1794879209.886657
-        },
-        {
-          "name": "해슬로 가시없는 어린이 순살고등어 (냉동), 400g, 1팩",
-          "price": "5,920원",
-          "discount_rate": 39,
-          "priceAt": "11.17 09:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/31331973764083-8bc6d433-3506-4309-bf0a-3c44058de062.jpg",
-          "url": "https://link.coupang.com/a/iJYbdAve6m",
-          "_ts": 1794877127.920116
         }
       ]
     },
