@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "비비드키친 저당 마라양념소스, 320g, 1개",
+          "price": "4,790원",
+          "discount_rate": 28,
+          "priceAt": "11.22 16:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/04/24/17/3/09a0b394-69de-48f3-b91d-06eaebfb647b.jpg",
+          "url": "https://link.coupang.com/a/iSHLuT1Hzg",
+          "_ts": 1795331856.982024
+        },
+        {
           "name": "옵티프리 퓨어모이스트 렌즈세정액 + 렌즈케이스, 420ml, 1세트",
           "price": "6,240원",
           "discount_rate": 38,
@@ -1383,15 +1392,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2019/12/11/15/5/bf9b2bd9-a6fa-4c28-930b-abd47bc8471c.jpg",
           "url": "https://link.coupang.com/a/iKroqtkb2i",
           "_ts": 1794901660.096319
-        },
-        {
-          "name": "아우라 섬유 향수, 400ml, 1개",
-          "price": "2,870원",
-          "discount_rate": 46,
-          "priceAt": "11.17 16:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/01/17/11/3/4bd3cbaa-5b3c-4067-ab1c-c92fe1e1de70.jpg",
-          "url": "https://link.coupang.com/a/iKoJ7X9Diu",
-          "_ts": 1794899433.899907
         }
       ]
     },
