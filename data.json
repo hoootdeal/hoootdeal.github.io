@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기프레스코 알리오올리오 파스타소스, 380g, 2개",
+          "price": "7,250원",
+          "discount_rate": 27,
+          "priceAt": "11.22 12:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/960797481686342-16f3fcca-c740-4c03-ab07-c1f909b91c4f.jpg",
+          "url": "https://link.coupang.com/a/iSqNEBUyn6",
+          "_ts": 1795317611.5433002
+        },
+        {
           "name": "루카스나인 시그니처 바닐라라떼 커피믹스, 16.9g, 30개입, 2개",
           "price": "16,650원",
           "discount_rate": 25,
@@ -1410,15 +1419,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/e101/c8789e92b208114f5902ae1892db13ef63a45bf8e507d62c7a5a0e0cc92e.jpg",
           "url": "https://link.coupang.com/a/iJ9YoiE7Mq",
           "_ts": 1794887032.155485
-        },
-        {
-          "name": "엠바레 밀크 카라멜, 720g, 2개",
-          "price": "8,960원",
-          "discount_rate": 30,
-          "priceAt": "11.17 12:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/23672115020764-a0355bdf-2392-4373-8f85-f9d25c527567.jpg",
-          "url": "https://link.coupang.com/a/iJ7O6mOYNg",
-          "_ts": 1794885224.0933728
         }
       ]
     },
