@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "마루코메 요리정의 맛 모듬 파 + 두부 + 미역 + 유부 36개입, 600g, 3개",
+          "price": "13,580원",
+          "discount_rate": 40,
+          "priceAt": "11.23 08:48",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/af97/a8c91f542c00660429b61e08242fe229d9df1b65a11b73a383f124a1d9ee.jpg",
+          "url": "https://link.coupang.com/a/iTQz1ge364",
+          "_ts": 1795391313.7015
+        },
+        {
           "name": "오뚜기옛날 잡채 75g, 4개",
           "price": "4,180원",
           "discount_rate": 28,
@@ -1392,24 +1401,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/302341766413831-78e0d06f-24b8-4eef-a32f-c5ae0fc59848.jpg",
           "url": "https://link.coupang.com/a/iLyGGDGmyW",
           "_ts": 1794959839.92
-        },
-        {
-          "name": "세이프 남극솔트 주방세제 유칼립투스향, 1개, 480ml",
-          "price": "3,450원",
-          "discount_rate": 50,
-          "priceAt": "11.18 08:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/10/9/3/0bcdafab-81f4-46b3-b916-be23896dcb22.jpeg",
-          "url": "https://link.coupang.com/a/iLxGz9510S",
-          "_ts": 1794958998.624795
-        },
-        {
-          "name": "하리보 애플 후프 사우어 젤리, 80g, 5개",
-          "price": "6,450원",
-          "discount_rate": 41,
-          "priceAt": "11.18 08:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/18294247398192-3e8599f5-fc39-4927-9338-d91d2f07292b.jpg",
-          "url": "https://link.coupang.com/a/iLw8xgCFKS",
-          "_ts": 1794958537.792445
         }
       ]
     },
