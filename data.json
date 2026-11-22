@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "맑은물에 참좋은 국산 서리태콩물, 1L, 2개",
+          "price": "2,826원",
+          "discount_rate": 75,
+          "priceAt": "11.23 08:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/600143606128273-95dc85e3-e422-462e-885d-94e2cc537b75.jpg",
+          "url": "https://link.coupang.com/a/iTOZDayzUy",
+          "_ts": 1795389981.944179
+        },
+        {
           "name": "일가집 프리미엄 더 맛있는 김밥세트, 525g, 1세트",
           "price": "6,600원",
           "discount_rate": 34,
@@ -1392,15 +1401,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/18294247398192-3e8599f5-fc39-4927-9338-d91d2f07292b.jpg",
           "url": "https://link.coupang.com/a/iLw8xgCFKS",
           "_ts": 1794958537.792445
-        },
-        {
-          "name": "청정원 잇츠팜 햄통조림, 115g, 3개",
-          "price": "4,140원",
-          "discount_rate": 54,
-          "priceAt": "11.18 08:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/8789080562233-52df4b76-b60a-4228-bfe5-f546203034a4.jpg",
-          "url": "https://link.coupang.com/a/iLvbCb3a3w",
-          "_ts": 1794956899.7353559
         }
       ]
     },
