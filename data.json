@@ -1419,6 +1419,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "반건조 민어, 특왕, 37cm급, 300g, 5팩",
+          "price": "31,900원",
+          "discount_rate": 68,
+          "priceAt": "11.22 14:21",
+          "image": "https://shopping.toss.im/live/taca/ai/OWY5MzVh/QUpvL3NqVzNOTm9lZ2hJcG5zbFNHRjl4VDB3bDVZNG9Kd2Fja3V0b2EvdEg.png",
+          "url": "https://toss.shopping/_m/XEsbgBY9",
+          "_ts": 1795324915.477403,
+          "_product_id": "2043710061"
+        },
+        {
           "name": "마이펫닥터 강아지 츄어블 올인원 영양제, 종합영양제, 80g, 100개입, 1개",
           "price": "9,260원",
           "discount_rate": 83,
@@ -2222,16 +2232,6 @@
           "url": "https://toss.shopping/_m/1mLA00ni",
           "_ts": 1794896897.715976,
           "_product_id": "2599285231"
-        },
-        {
-          "name": "배스킨라빈스 과즙워터 애플요거트 + 레인보우샤베트, 120ml, 24팩 + 24팩, 1세트",
-          "price": "13,270원",
-          "discount_rate": 72,
-          "priceAt": "11.17 14:08",
-          "image": "https://shopping.toss.im/live/temp/2025-12-23/2179a0cd-a076-4c11-a733-d8c84fb06a8b.jpeg",
-          "url": "https://toss.shopping/_m/ZKRwYBbx",
-          "_ts": 1794892111.815565,
-          "_product_id": "476577341"
         }
       ]
     },
