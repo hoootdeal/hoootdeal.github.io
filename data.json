@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "해표 포도씨유, 900ml, 1개",
+          "price": "4,860원",
+          "discount_rate": 31,
+          "priceAt": "11.23 18:05",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/8411370832945295-f4cad018-1082-421b-9e09-5e4e35306d2b.jpg",
+          "url": "https://link.coupang.com/a/iUulDOgfNk",
+          "_ts": 1795424703.879464
+        },
+        {
           "name": "순작 통현미 검은콩 저당 율무차, 18g, 10개입, 1개",
           "price": "3,130원",
           "discount_rate": 37,
@@ -1491,15 +1500,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/239715957644755-cd08db84-5e66-46cc-adcf-8f244e7949b4.jpg",
           "url": "https://link.coupang.com/a/iMfaxy89WS",
           "_ts": 1794995506.359825
-        },
-        {
-          "name": "하우하우 매운육수베이스, 600g, 2개",
-          "price": "11,300원",
-          "discount_rate": 26,
-          "priceAt": "11.18 18:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/81178493867746-5fe83ee5-1ce4-4348-8c73-d9b8a1e1a7f2.jpg",
-          "url": "https://link.coupang.com/a/iMbuZHt2kK",
-          "_ts": 1794992425.499415
         }
       ]
     },
