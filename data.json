@@ -1554,6 +1554,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "웅진식품 애사비 오리지널, 500ml, 24개",
+          "price": "14,400원",
+          "discount_rate": 50,
+          "priceAt": "11.24 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-01-09/f0621ce9-a0e8-44ae-8307-9099c62ddbc0.jpeg",
+          "url": "https://toss.shopping/_m/TzaT3K9h",
+          "_ts": 1795446114.775012,
+          "_flash": true,
+          "_product_id": "588859595"
+        },
+        {
+          "name": "센텔리안24 마데카크림 타이트 리프팅, 쇼핑백 증정, 140ml, 1세트",
+          "price": "19,900원",
+          "discount_rate": 83,
+          "priceAt": "11.24 00:01",
+          "image": "https://shopping.toss.im/live/temp/2025-08-11/2e00209d-ea8a-4396-b6b4-cdd96024b539.jpeg",
+          "url": "https://toss.shopping/_m/PRV7p4au",
+          "_ts": 1795446114.774969,
+          "_flash": true,
+          "_product_id": "146763727"
+        },
+        {
+          "name": "동국제약 파워맥스 쏘팔메토 골드, 1000mg, 30캡슐, 2박스",
+          "price": "12,300원",
+          "discount_rate": 89,
+          "priceAt": "11.24 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/Y2EwNDIz/QUxOYmR5YU0yNXV6T3h6b2NYbWNiR0Y1UE1ueDdQRnNac0x4ZlN6aDRaT2I.png",
+          "url": "https://toss.shopping/_m/RpAAhHkD",
+          "_ts": 1795446114.7749188,
+          "_flash": true,
+          "_product_id": "7726685"
+        },
+        {
           "name": "포천이동 양념LA갈비, 500g, 3팩",
           "price": "23,900원",
           "discount_rate": 46,
