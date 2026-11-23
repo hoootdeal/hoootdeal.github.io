@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "MYCHEF 이비가 짬뽕 순두부 밀키트 2인분, 1.025kg, 1개",
+          "price": "7,790원",
+          "discount_rate": 30,
+          "priceAt": "11.23 20:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/406861973933571-d9583fc5-c2eb-46d6-b034-7b6b3649a558.jpg",
+          "url": "https://link.coupang.com/a/iUCD9YKyyW",
+          "_ts": 1795431672.5152571
+        },
+        {
           "name": "하이포크 한돈 뽈항정 (냉동), 500g, 2팩",
           "price": "20,980원",
           "discount_rate": 25,
