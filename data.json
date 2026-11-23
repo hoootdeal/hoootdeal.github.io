@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "듀이트리 하이 아미노 올 클렌징 밀크, 200ml, 2개",
+          "price": "10,070원",
+          "discount_rate": 34,
+          "priceAt": "11.23 14:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/312115903653113-59782d30-0580-4dd4-afa4-a8fbabf6289c.jpg",
+          "url": "https://link.coupang.com/a/iUd2UUBn3Y",
+          "_ts": 1795411012.7360299
+        },
+        {
           "name": "그릭데이 크런치 리얼카카오 그래놀라 시리얼, 150g, 1개",
           "price": "4,830원",
           "discount_rate": 30,
@@ -1464,15 +1473,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/ggzzv7jw/6699573eddfe4c558a4e16944c62c8d2.jpg",
           "url": "https://link.coupang.com/a/iLW9FKn4O4",
           "_ts": 1794980382.4269178
-        },
-        {
-          "name": "광동제약 아이스웨일 플레인 제로 탄산수, 500ml, 40개",
-          "price": "13,300원",
-          "discount_rate": 31,
-          "priceAt": "11.18 14:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/441750504779171-37c18c41-61b7-4f4f-91ab-58c9a19d4345.jpg",
-          "url": "https://link.coupang.com/a/iLUGovXoB2",
-          "_ts": 1794978306.936321
         }
       ]
     },
