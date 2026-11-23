@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "우주쭈꾸미 볶음 (냉동), 300g, 1개",
+          "price": "3,780원",
+          "discount_rate": 40,
+          "priceAt": "11.23 12:47",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/dabymolp/c9cc310aecde4501aa932332c098248f.jpg",
+          "url": "https://link.coupang.com/a/iT7DOQvivs",
+          "_ts": 1795405638.315604
+        },
+        {
           "name": "만전김 미니언즈 두번 구운 삼각김밥용 김 리필용 40매입, 48g, 1개",
           "price": "5,430원",
           "discount_rate": 29,
