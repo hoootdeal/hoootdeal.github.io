@@ -1446,15 +1446,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/25/11/3/332b3c8b-51d4-43b3-a7bb-8f5d2f726d1c.jpg",
           "url": "https://link.coupang.com/a/iLPuxLag1I",
           "_ts": 1794973947.850553
-        },
-        {
-          "name": "빽다방 아메리카노 스틱커피, 1.6g, 100개입, 1개",
-          "price": "14,440원",
-          "discount_rate": 24,
-          "priceAt": "11.18 12:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/12/19/10/7/9dfbc526-cbae-43da-873b-8f2201ff14e4.jpg",
-          "url": "https://link.coupang.com/a/iLMOJhUrYa",
-          "_ts": 1794971703.79172
         }
       ]
     },
@@ -1463,6 +1454,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "메르헨트 그린티 시카 버블 폼클렌징, 500ml, 2개",
+          "price": "11,270원",
+          "discount_rate": 71,
+          "priceAt": "11.23 12:22",
+          "image": "https://shopping.toss.im/live/temp/2025-07-30/3780de0a-fe1e-440e-b61a-d051f04a4758.jpeg",
+          "url": "https://toss.shopping/_m/JVTAnzh5",
+          "_ts": 1795404165.659487,
+          "_product_id": "32227293"
+        },
         {
           "name": "랑카스 하이올레익 땅콩버터 100%, 스무스, 200g, 2개",
           "price": "5,600원",
