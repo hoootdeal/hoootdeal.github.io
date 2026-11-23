@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하림 치킨너겟 2 (냉동), 1kg, 1개",
+          "price": "7,050원",
+          "discount_rate": 30,
+          "priceAt": "11.23 13:28",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/470095914187156-7bb51690-6efd-4d85-a15b-ca3f30a005ec.jpg",
+          "url": "https://link.coupang.com/a/iUaztokLG8",
+          "_ts": 1795408099.723765
+        },
+        {
           "name": "짜파게티 140g, 15개",
           "price": "11,130원",
           "discount_rate": 23,
@@ -1455,15 +1464,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/441750504779171-37c18c41-61b7-4f4f-91ab-58c9a19d4345.jpg",
           "url": "https://link.coupang.com/a/iLUGovXoB2",
           "_ts": 1794978306.936321
-        },
-        {
-          "name": "에코버 섬유유연제 뉴 치자꽃&바닐라향 본품, 750ml, 1개",
-          "price": "6,210원",
-          "discount_rate": 48,
-          "priceAt": "11.18 13:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/20268948551938-00fbfb4c-3af4-4729-8151-f2a11d634d4f.jpg",
-          "url": "https://link.coupang.com/a/iLRJt1fwNU",
-          "_ts": 1794975829.443201
         }
       ]
     },
@@ -2274,16 +2274,6 @@
           "url": "https://toss.shopping/_m/RtHxqPqq",
           "_ts": 1794991249.8703701,
           "_product_id": "2640177923"
-        },
-        {
-          "name": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
-          "price": "8,600원",
-          "discount_rate": 49,
-          "priceAt": "11.18 13:13",
-          "image": "https://shopping.toss.im/live/taca/ai/YjM4MDY0/ZW15MThmWGpjczZ0SGNTSG53d2UvaDYwK0lmNzNIaG5ZVkFOZVZWK291QT0.png",
-          "url": "https://toss.shopping/_m/LRmDYdV4",
-          "_ts": 1794975201.828112,
-          "_product_id": "153902721"
         }
       ]
     },
