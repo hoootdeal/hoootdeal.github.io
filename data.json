@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "육개장 사발면 86g, 12개",
+          "price": "8,560원",
+          "discount_rate": 23,
+          "priceAt": "11.23 10:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1002276733156353-6c2430b4-0bfe-4053-8544-d0f5b013ad03.jpg",
+          "url": "https://link.coupang.com/a/iTVP2Wqb3Q",
+          "_ts": 1795395728.7757592
+        },
+        {
           "name": "다향 1등급 훈제오리, 300g, 2개",
           "price": "10,200원",
           "discount_rate": 23,
@@ -1383,15 +1392,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/images/5eb3e3e8-4902-4767-9cc0-73144ad252e68857220081223580841.png",
           "url": "https://link.coupang.com/a/iLFael1HwG",
           "_ts": 1794965277.9557571
-        },
-        {
-          "name": "오리온 오감자 그라탕, 95g, 10개",
-          "price": "13,850원",
-          "discount_rate": 25,
-          "priceAt": "11.18 10:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/124472196178825-6bf422ca-682c-43d4-8c06-ffc7be46bdac.png",
-          "url": "https://link.coupang.com/a/iLDiF8mUvY",
-          "_ts": 1794963711.227131
         }
       ]
     },
@@ -2202,16 +2202,6 @@
           "url": "https://toss.shopping/_m/TGVNbvd",
           "_ts": 1794971132.333141,
           "_product_id": "503276161"
-        },
-        {
-          "name": "지민푸드 통통왕족발, 800g, 1팩",
-          "price": "8,800원",
-          "discount_rate": 48,
-          "priceAt": "11.18 09:54",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTM5YTc1/SmM4a2hlTHRucFFhTk5zd3EyQlpMeFRiUnE5VUcyYjN0WXc0UTFxMGFzOD0.png",
-          "url": "https://toss.shopping/_m/HiD40uVl",
-          "_ts": 1794963265.790619,
-          "_product_id": "1323071175"
         }
       ]
     },
