@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "삼양라면 120g, 10개",
+          "price": "4,310원",
+          "discount_rate": 26,
+          "priceAt": "11.23 10:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1058726740436568-157892c1-0772-487e-863c-37f1a117f1cd.png",
+          "url": "https://link.coupang.com/a/iTWgmKOVbg",
+          "_ts": 1795396084.71716
+        },
+        {
           "name": "육개장 사발면 86g, 12개",
           "price": "8,560원",
           "discount_rate": 23,
