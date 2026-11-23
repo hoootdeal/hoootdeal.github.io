@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 한강라면 110g, 4개",
+          "price": "4,180원",
+          "discount_rate": 35,
+          "priceAt": "11.23 10:33",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/09/14/9/1/583cfbe6-d4e5-4118-8835-1eba49d54130.jpg",
+          "url": "https://link.coupang.com/a/iTX7fOk0Zg",
+          "_ts": 1795397639.778893
+        },
+        {
           "name": "나뚜루 녹차 아이스크림 (냉동), 474ml, 1개입, 1개",
           "price": "6,160원",
           "discount_rate": 35,
@@ -1401,15 +1410,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/8435039960206843-933e1612-628d-48a5-9295-784e17e68ad1.jpg",
           "url": "https://link.coupang.com/a/iLHr2GupEG",
           "_ts": 1794967196.290126
-        },
-        {
-          "name": "강황 수용성 리포좀 커큐민 골드플러스 식약처인증 100% HACCP, 2개, 30정",
-          "price": "9,900원",
-          "discount_rate": 37,
-          "priceAt": "11.18 10:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/images/5eb3e3e8-4902-4767-9cc0-73144ad252e68857220081223580841.png",
-          "url": "https://link.coupang.com/a/iLFael1HwG",
-          "_ts": 1794965277.9557571
         }
       ]
     },
