@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하이포크 한돈 뽈항정 (냉동), 500g, 2팩",
+          "price": "20,980원",
+          "discount_rate": 25,
+          "priceAt": "11.23 19:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/679a2fa6-c572-4a62-a544-4f329353b3014618850703473633765.png",
+          "url": "https://link.coupang.com/a/iUCmS98KHc",
+          "_ts": 1795431437.562505
+        },
+        {
           "name": "한끼통살 닭가슴살 스테이크 믹스 5종 세트 (냉동), 100g, 1개입, 10개",
           "price": "11,650원",
           "discount_rate": 30,
