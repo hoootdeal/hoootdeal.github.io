@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크라운제과 참쌀 선과, 253g, 2개",
+          "price": "5,460원",
+          "discount_rate": 26,
+          "priceAt": "11.24 08:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/dfa2/9640da7513fa9cd0789933232510f33ec7d1a54aac1b94b9662a2231efc5.jpg",
+          "url": "https://link.coupang.com/a/iVr6IqHdD2",
+          "_ts": 1795474877.6012669
+        },
+        {
           "name": "신라명과 얀스맘 쿠키 세트, 650g, 4세트",
           "price": "20,450원",
           "discount_rate": 52,
