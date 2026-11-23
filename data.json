@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "미에로화이바 PET, 350ml, 12개",
+          "price": "8,260원",
+          "discount_rate": 30,
+          "priceAt": "11.23 19:44",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/214177093153240-c566bb0d-ff94-45b3-8f87-c6e5c437e9a7.jpg",
+          "url": "https://link.coupang.com/a/iUBtTpoltA",
+          "_ts": 1795430692.206887
+        },
+        {
           "name": "파스키에 라즈베리 타르트 2개입 (냉동), 220g, 1개",
           "price": "6,380원",
           "discount_rate": 42,
@@ -1500,24 +1509,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2023/10/25/15/8/603b8339-72d7-423e-8ced-5641f067b284.jpg",
           "url": "https://link.coupang.com/a/iMlaUAVLsO",
           "_ts": 1795000550.634629
-        },
-        {
-          "name": "다르다팝콘 오리지널 버터 팝콘, 170g, 3개",
-          "price": "6,220원",
-          "discount_rate": 30,
-          "priceAt": "11.18 19:37",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/68866078-f55a-4b5d-9f9c-8e27edbcad3511008913814922064906.png",
-          "url": "https://link.coupang.com/a/iMisJUXa32",
-          "_ts": 1794998271.9852538
-        },
-        {
-          "name": "아이원 루테인지아잔틴 미니, 60정, 2개",
-          "price": "21,490원",
-          "discount_rate": 25,
-          "priceAt": "11.18 19:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/207171439678709-919ab53f-2787-455c-a578-3345030ec15e.jpg",
-          "url": "https://link.coupang.com/a/iMhppTBIzs",
-          "_ts": 1794997388.760475
         }
       ]
     },
