@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "알텐바흐 인덕션 헥사 통5중 스텐 프라이팬, 28cm, 1개",
+          "price": "32,780원",
+          "discount_rate": 30,
+          "priceAt": "11.24 08:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/047e/4cf786e98fa56b7bea4c486ede83c08d19682f591a2e3da993fe394d37c4.jpg",
+          "url": "https://link.coupang.com/a/iVsBfGBywe",
+          "_ts": 1795475291.605937
+        },
+        {
           "name": "크라운제과 참쌀 선과, 253g, 2개",
           "price": "5,460원",
           "discount_rate": 26,
@@ -2399,72 +2408,6 @@
           "url": "https://toss.shopping/_m/z3qMewm7",
           "_ts": 1795055291.526114,
           "_product_id": "2401205415"
-        },
-        {
-          "name": "이장네 고궁 진한 들기름, 350ml, 4개",
-          "price": "21,720원",
-          "discount_rate": 63,
-          "priceAt": "11.19 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-07-10/b29fe781-31d6-4806-83a5-5aa0dacc7261.png",
-          "url": "https://toss.shopping/_m/l9qJmQhv",
-          "_ts": 1795043074.41412,
-          "_flash": true,
-          "_product_id": "452329871"
-        },
-        {
-          "name": "바로담은 배추겉절이, 1kg, 2개",
-          "price": "8,670원",
-          "discount_rate": 63,
-          "priceAt": "11.19 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-08-04/e2d3cf3d-47bd-45f6-afb6-8d0776ff494c.jpeg",
-          "url": "https://toss.shopping/_m/TSLxqjB9",
-          "_ts": 1795043074.414083,
-          "_flash": true,
-          "_product_id": "2571346993"
-        },
-        {
-          "name": "스카이 케어 초음파 미니 가습기 MH10, C타입, 화이트, 1개 + 블랙, 1개, 1세트",
-          "price": "9,690원",
-          "discount_rate": 75,
-          "priceAt": "11.19 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-09-17/b3af0b49-0dc9-421c-a608-01e6ded71393.jpeg",
-          "url": "https://toss.shopping/_m/N8NNIkqw",
-          "_ts": 1795043074.4140449,
-          "_flash": true,
-          "_product_id": "2636740529"
-        },
-        {
-          "name": "애경 리큐 프레쉬 실내건조 일반용, 2.1L, 4개, 1세트",
-          "price": "9,780원",
-          "discount_rate": 53,
-          "priceAt": "11.19 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-11-18/39895c3e-bbba-43ba-845b-f1a0fc939fbd.png",
-          "url": "https://toss.shopping/_m/DR7cBkP5",
-          "_ts": 1795043046.936528,
-          "_flash": true,
-          "_product_id": "828134109"
-        },
-        {
-          "name": "대식가 일키로 부대찌개, 1kg, 2팩",
-          "price": "11,900원",
-          "discount_rate": 57,
-          "priceAt": "11.19 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/YjgwY2I2/QUxjd3g4WWVXY1k1MG1tSFBOMHRUVDF3QlQ5OXdXYStYeFVNWFB4VUt2bXA.png",
-          "url": "https://toss.shopping/_m/nSVSZCTy",
-          "_ts": 1795043046.9364932,
-          "_flash": true,
-          "_product_id": "129892747"
-        },
-        {
-          "name": "스위칠랜드아미 IH 저압 냄비, 7L, 1개",
-          "price": "19,500원",
-          "discount_rate": 82,
-          "priceAt": "11.19 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/MGI0NTEy/UkpLWTZabk0xekYwdVUyWU5ua3ljOXpNT2JGNnMyellNeGxpcDVORXBtUT0.png",
-          "url": "https://toss.shopping/_m/xUUkHa2u",
-          "_ts": 1795043046.936457,
-          "_flash": true,
-          "_product_id": "445214021"
         }
       ]
     },
