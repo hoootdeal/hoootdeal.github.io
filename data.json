@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "풀무원샘물 생수 무라벨, 2L, 12개",
+          "price": "4,970원",
+          "discount_rate": 28,
+          "priceAt": "11.23 11:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1185026815783527-27ebcc46-5a24-4fca-8279-d8316f746af5.jpg",
+          "url": "https://link.coupang.com/a/iT0Hw5gB0C",
+          "_ts": 1795399807.443748
+        },
+        {
           "name": "홍영의 붉은대게 백간장, 500ml, 1개",
           "price": "6,770원",
           "discount_rate": 24,
@@ -1419,24 +1428,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/53958715792576-1f8e70ce-1a5e-4160-be1f-7ee99be21301.jpg",
           "url": "https://link.coupang.com/a/iLKeRby56G",
           "_ts": 1794969537.741496
-        },
-        {
-          "name": "더미식 메밀 비빔면 121g, 4개",
-          "price": "3,480원",
-          "discount_rate": 37,
-          "priceAt": "11.18 11:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/106425499074375-6919fd70-d38f-4d68-9fb1-1f3313eb245c.jpg",
-          "url": "https://link.coupang.com/a/iLHQ0QI1q8",
-          "_ts": 1794967535.7164538
-        },
-        {
-          "name": "내츄럴스파이스 크러쉬드 레드페퍼, 340g, 1개",
-          "price": "8,250원",
-          "discount_rate": 32,
-          "priceAt": "11.18 10:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/8435039960206843-933e1612-628d-48a5-9295-784e17e68ad1.jpg",
-          "url": "https://link.coupang.com/a/iLHr2GupEG",
-          "_ts": 1794967196.290126
         }
       ]
     },
