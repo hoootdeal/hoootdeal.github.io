@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아브카 딥클린 탄력 소프트 모 대왕칫솔, 10개입, 1개",
+          "price": "3,860원",
+          "discount_rate": 45,
+          "priceAt": "11.23 20:44",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/300328025678469-206a2d12-fc39-4aba-a2fa-3a4562d4bc56.jpg",
+          "url": "https://link.coupang.com/a/iUFIvKUFUW",
+          "_ts": 1795434246.332065
+        },
+        {
           "name": "세이카 고구마 모찌 캐러멜 사탕, 63g, 2개",
           "price": "3,780원",
           "discount_rate": 32,
@@ -1527,15 +1536,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/178390075491615-1a8021a1-e938-4c6d-a28c-0f7ea18da143.jpg",
           "url": "https://link.coupang.com/a/iMpU6W8beK",
           "_ts": 1795004533.417678
-        },
-        {
-          "name": "바나나킥, 75g, 5세트",
-          "price": "4,540원",
-          "discount_rate": 27,
-          "priceAt": "11.18 20:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/20649852617449-b57a0118-4632-4c90-a756-89bea72159d4.png",
-          "url": "https://link.coupang.com/a/iMm06xF1d6",
-          "_ts": 1795002096.628778
         }
       ]
     },
