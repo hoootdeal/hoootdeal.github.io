@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "애드스윗 스테비아 완숙 토마토, 1kg, 1팩",
+          "price": "3,600원",
+          "discount_rate": 30,
+          "priceAt": "11.23 21:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/55373063785016-3fc2d14c-e82b-4c6d-a1fc-a389b35aebe4.jpg",
+          "url": "https://link.coupang.com/a/iUIJy07FMO",
+          "_ts": 1795436781.893318
+        },
+        {
           "name": "아브카 딥클린 탄력 소프트 모 대왕칫솔, 10개입, 1개",
           "price": "3,860원",
           "discount_rate": 45,
@@ -1527,15 +1536,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/936032439820144-c7f059bb-e93f-49e5-8b10-72b21ece8da1.jpg",
           "url": "https://link.coupang.com/a/iMs1BVyoKa",
           "_ts": 1795007140.566357
-        },
-        {
-          "name": "첫맛 만능 비빔 무침 양념, 2.2kg, 4개",
-          "price": "17,340원",
-          "discount_rate": 59,
-          "priceAt": "11.18 21:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/178390075491615-1a8021a1-e938-4c6d-a28c-0f7ea18da143.jpg",
-          "url": "https://link.coupang.com/a/iMpU6W8beK",
-          "_ts": 1795004533.417678
         }
       ]
     },
@@ -2354,16 +2354,6 @@
           "_ts": 1795014136.2903512,
           "_flash": true,
           "_product_id": "348272509"
-        },
-        {
-          "name": "푸드공식 오리지널 어포튀각, 90g, 4개",
-          "price": "8,970원",
-          "discount_rate": 46,
-          "priceAt": "11.18 21:25",
-          "image": "https://shopping.toss.im/live/taca/ai/NzRiNTIw/YzhubmVHVnBJczBlM0oyM250anNyWEVXMTNJeHpnOWh4bER4MWtZUTBkWT0.png",
-          "url": "https://toss.shopping/_m/t0k0nMOp",
-          "_ts": 1795004757.8919868,
-          "_product_id": "18660435"
         }
       ]
     },
