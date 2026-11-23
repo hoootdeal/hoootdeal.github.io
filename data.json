@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아임비타 멀티비타민 아미노젤, 100g, 10개",
+          "price": "7,700원",
+          "discount_rate": 34,
+          "priceAt": "11.23 16:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/314886285794998-6184afb2-bab7-4b88-8a67-a4262ef1774b.png",
+          "url": "https://link.coupang.com/a/iUmQmxDvrg",
+          "_ts": 1795418404.4605381
+        },
+        {
           "name": "광천김 이모카세 1호 김자반, 50g, 3개",
           "price": "4,410원",
           "discount_rate": 38,
