@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "사옹원 부침명장 해물파전 (냉동), 500g, 1개",
+          "price": "5,650원",
+          "discount_rate": 44,
+          "priceAt": "11.23 15:03",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/96555094908166-c1cb380a-f255-458b-aee9-647c20688938.jpg",
+          "url": "https://link.coupang.com/a/iUhlPqaMIm",
+          "_ts": 1795413791.8020182
+        },
+        {
           "name": "요즘 그릭요거트 플레인, 100g, 5개",
           "price": "11,580원",
           "discount_rate": 27,
@@ -1482,15 +1491,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1780125769470353-c79bbfc6-2e6c-4525-a477-adf9f3bfdaf4.jpg",
           "url": "https://link.coupang.com/a/iLZKPY0ulM",
           "_ts": 1794982563.88316
-        },
-        {
-          "name": "돼지바 요거트 저당 (냉동), 8개, 1개입, 70ml",
-          "price": "4,800원",
-          "discount_rate": 41,
-          "priceAt": "11.18 14:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/ggzzv7jw/6699573eddfe4c558a4e16944c62c8d2.jpg",
-          "url": "https://link.coupang.com/a/iLW9FKn4O4",
-          "_ts": 1794980382.4269178
         }
       ]
     },
