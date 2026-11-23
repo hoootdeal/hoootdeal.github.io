@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "나뚜루 녹차 아이스크림 (냉동), 474ml, 1개입, 1개",
+          "price": "6,160원",
+          "discount_rate": 35,
+          "priceAt": "11.23 10:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/870888222171144-8e5ad4fe-2f63-4feb-9e40-3e63d61aee0c.jpg",
+          "url": "https://link.coupang.com/a/iTWrkj3bvo",
+          "_ts": 1795396232.655725
+        },
+        {
           "name": "삼양라면 120g, 10개",
           "price": "4,310원",
           "discount_rate": 26,
