@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하인즈 토마토 케찹, 650g, 1개",
+          "price": "2,570원",
+          "discount_rate": 35,
+          "priceAt": "11.23 10:46",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/7baa/a3bfdb9a9b4cefaf3aab20cf94f6012a7aa42ed7d782eb1e4b23cc987f89.jpg",
+          "url": "https://link.coupang.com/a/iTYZnndAtM",
+          "_ts": 1795398371.706225
+        },
+        {
           "name": "샘표 토장, 1.9kg, 1개",
           "price": "8,000원",
           "discount_rate": 27,
