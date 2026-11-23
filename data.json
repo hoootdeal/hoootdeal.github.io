@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "신라명과 얀스맘 쿠키 세트, 650g, 4세트",
+          "price": "20,450원",
+          "discount_rate": 52,
+          "priceAt": "11.24 07:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/87713753486968-d0920993-d501-4b0a-b89b-70dcbf697a71.jpg",
+          "url": "https://link.coupang.com/a/iVq0JUi4dM",
+          "_ts": 1795473957.8784
+        },
+        {
           "name": "일본 롯데 SASHA 사샤 초콜릿 69g, 69g, 10개",
           "price": "22,880원",
           "discount_rate": 23,
@@ -1563,15 +1572,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/04/28/11/6/85deda89-cc2d-4d9c-a252-a8edc90b433f.jpg",
           "url": "https://link.coupang.com/a/iNalSMo8S4",
           "_ts": 1795043518.9760041
-        },
-        {
-          "name": "페레로로쉐 라파엘로, 150g, 1개",
-          "price": "7,680원",
-          "discount_rate": 36,
-          "priceAt": "11.19 07:37",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/03/05/17/3/76015e49-f649-43cf-8189-9cd2ba82be00.jpg",
-          "url": "https://link.coupang.com/a/iM7UcGRsrY",
-          "_ts": 1795041468.0947788
         }
       ]
     },
