@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하루견과 카무트 담은 하루견과 선물세트 800g, 2세트",
+          "price": "26,820원",
+          "discount_rate": 44,
+          "priceAt": "11.24 08:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/e1dca46e-e8c0-4d0d-90fd-e9b6e4e4629739775582675571865.png",
+          "url": "https://link.coupang.com/a/iVvhEBh46C",
+          "_ts": 1795477547.801754
+        },
+        {
           "name": "알텐바흐 인덕션 헥사 통5중 스텐 프라이팬, 28cm, 1개",
           "price": "32,780원",
           "discount_rate": 30,
@@ -1572,24 +1581,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/01/10/9/6/6b1f13c5-9f63-4796-9781-6298cfc4681e.jpg",
           "url": "https://link.coupang.com/a/iNdorLFSPQ",
           "_ts": 1795046070.6942852
-        },
-        {
-          "name": "밀크앤허니 스위트크림 치즈케익 (냉동), 520g, 1개",
-          "price": "9,900원",
-          "discount_rate": 29,
-          "priceAt": "11.19 08:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1883556596983-d595d3bc-9400-46b7-944b-553f2300e0f6.jpg",
-          "url": "https://link.coupang.com/a/iNaVjHVxVk",
-          "_ts": 1795044000.143939
-        },
-        {
-          "name": "상하목장 얼려먹는 아이스크림 귤 배, 85ml, 24개",
-          "price": "11,240원",
-          "discount_rate": 30,
-          "priceAt": "11.19 08:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/04/28/11/6/85deda89-cc2d-4d9c-a252-a8edc90b433f.jpg",
-          "url": "https://link.coupang.com/a/iNalSMo8S4",
-          "_ts": 1795043518.9760041
         }
       ]
     },
