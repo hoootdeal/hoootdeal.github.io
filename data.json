@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "순작 통현미 검은콩 저당 율무차, 18g, 10개입, 1개",
+          "price": "3,130원",
+          "discount_rate": 37,
+          "priceAt": "11.23 17:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/39230207341203-fa4a9413-f8bc-43b5-981b-df6dc7e3fbf1.png",
+          "url": "https://link.coupang.com/a/iUtPi1RfYy",
+          "_ts": 1795424265.672253
+        },
+        {
           "name": "팁코 ABC 주스, 1L, 1개",
           "price": "3,170원",
           "discount_rate": 30,
@@ -2309,16 +2318,6 @@
           "url": "https://toss.shopping/_m/HDkniFSb",
           "_ts": 1794996234.7452831,
           "_product_id": "2164114773"
-        },
-        {
-          "name": "탐나유 호풍미 호박고구마, 한입, 5kg, 1개",
-          "price": "9,070원",
-          "discount_rate": 63,
-          "priceAt": "11.18 17:40",
-          "image": "https://shopping.toss.im/live/temp/2025-11-24/0ec0e42c-1e04-4bd9-a0d7-e4192d0c5546.jpeg",
-          "url": "https://toss.shopping/_m/RtHxqPqq",
-          "_ts": 1794991249.8703701,
-          "_product_id": "2640177923"
         }
       ]
     },
