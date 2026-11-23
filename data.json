@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "팁코 ABC 주스, 1L, 1개",
+          "price": "3,170원",
+          "discount_rate": 30,
+          "priceAt": "11.23 17:25",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/07/03/16/2/e83fd9b3-e56a-4f79-8bcb-45b091708dff.jpg",
+          "url": "https://link.coupang.com/a/iUrwoAMuaa",
+          "_ts": 1795422331.732529
+        },
+        {
           "name": "하동녹차 맛있는 밥도둑 명란 맛김 도시락 조미 김, 6g, 12개",
           "price": "5,550원",
           "discount_rate": 30,
@@ -1482,15 +1491,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/81178493867746-5fe83ee5-1ce4-4348-8c73-d9b8a1e1a7f2.jpg",
           "url": "https://link.coupang.com/a/iMbuZHt2kK",
           "_ts": 1794992425.499415
-        },
-        {
-          "name": "자연실록 무항생제 인증 태양초 닭볶음탕 밀키트, 600g, 1개",
-          "price": "7,720원",
-          "discount_rate": 41,
-          "priceAt": "11.18 17:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2020/04/06/18/2/741cf758-0a4b-465c-ad78-bf5a9e588d0e.jpg",
-          "url": "https://link.coupang.com/a/iL8F6JdoUm",
-          "_ts": 1794990056.8883572
         }
       ]
     },
