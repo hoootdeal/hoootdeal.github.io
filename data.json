@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "세이카 고구마 모찌 캐러멜 사탕, 63g, 2개",
+          "price": "3,780원",
+          "discount_rate": 32,
+          "priceAt": "11.23 20:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/073d/f654acba0180cde9a8f058b5ad634513e4b0192cd768529b610dbca2d596.jpg",
+          "url": "https://link.coupang.com/a/iUFaoV6MNw",
+          "_ts": 1795433784.7725592
+        },
+        {
           "name": "MYCHEF 이비가 짬뽕 순두부 밀키트 2인분, 1.025kg, 1개",
           "price": "7,790원",
           "discount_rate": 30,
@@ -1527,15 +1536,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/20649852617449-b57a0118-4632-4c90-a756-89bea72159d4.png",
           "url": "https://link.coupang.com/a/iMm06xF1d6",
           "_ts": 1795002096.628778
-        },
-        {
-          "name": "오즈키즈 유아용 뽀글동글 뽀글이 털안감 슬립온, 브라운, 180",
-          "price": "13,680원",
-          "discount_rate": 31,
-          "priceAt": "11.18 20:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2023/10/25/15/8/603b8339-72d7-423e-8ced-5641f067b284.jpg",
-          "url": "https://link.coupang.com/a/iMlaUAVLsO",
-          "_ts": 1795000550.634629
         }
       ]
     },
