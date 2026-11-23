@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하동녹차 맛있는 밥도둑 명란 맛김 도시락 조미 김, 6g, 12개",
+          "price": "5,550원",
+          "discount_rate": 30,
+          "priceAt": "11.23 16:51",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/04/24/12/9/1a4d4a9a-8634-4700-ba46-401d36e167b2.jpg",
+          "url": "https://link.coupang.com/a/iUo5BW0LL2",
+          "_ts": 1795420288.387268
+        },
+        {
           "name": "아임비타 멀티비타민 아미노젤, 100g, 10개",
           "price": "7,700원",
           "discount_rate": 34,
@@ -1482,24 +1491,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2020/04/06/18/2/741cf758-0a4b-465c-ad78-bf5a9e588d0e.jpg",
           "url": "https://link.coupang.com/a/iL8F6JdoUm",
           "_ts": 1794990056.8883572
-        },
-        {
-          "name": "크래프트 아보카도 오일 마요네즈, 354ml, 1개",
-          "price": "3,220원",
-          "discount_rate": 28,
-          "priceAt": "11.18 16:40",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2500175984165037-c5085c18-0a61-4b4b-b304-e5d02658f7e8.jpg",
-          "url": "https://link.coupang.com/a/iL5On9kC2C",
-          "_ts": 1794987651.3660328
-        },
-        {
-          "name": "려 루트젠 볼류마이징 탈모증상전문케어 두피에센스, 150ml, 1개",
-          "price": "15,900원",
-          "discount_rate": 36,
-          "priceAt": "11.18 16:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/10/12/17/7/1318555b-64bc-4eee-8e0a-7a33d9d45509.jpg",
-          "url": "https://link.coupang.com/a/iL49Fzklno",
-          "_ts": 1794987099.414764
         }
       ]
     },
