@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "해미원 두번 튀겨 더 고소한 맛뻥, 84g, 2개",
+          "price": "5,430원",
+          "discount_rate": 30,
+          "priceAt": "11.23 19:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/126846934581871-15058de5-3eca-4bad-9d6e-776d6a8497a2.jpg",
+          "url": "https://link.coupang.com/a/iUzrgi5Ss8",
+          "_ts": 1795428980.312181
+        },
+        {
           "name": "풀무원 속밥도톰 유부초밥 새콤한맛 4인분, 524g, 2개",
           "price": "8,370원",
           "discount_rate": 30,
@@ -1500,15 +1509,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/207171439678709-919ab53f-2787-455c-a578-3345030ec15e.jpg",
           "url": "https://link.coupang.com/a/iMhppTBIzs",
           "_ts": 1794997388.760475
-        },
-        {
-          "name": "풀무원 얼큰 순두부찌개 킷 2인분, 600g, 2개",
-          "price": "5,400원",
-          "discount_rate": 34,
-          "priceAt": "11.18 18:51",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/239715957644755-cd08db84-5e66-46cc-adcf-8f244e7949b4.jpg",
-          "url": "https://link.coupang.com/a/iMfaxy89WS",
-          "_ts": 1794995506.359825
         }
       ]
     },
@@ -2327,16 +2327,6 @@
           "url": "https://toss.shopping/_m/t0k0nMOp",
           "_ts": 1795004757.8919868,
           "_product_id": "18660435"
-        },
-        {
-          "name": "메르헨트 퍼퓸 대용량 바디워시, 호텔 딥 우드, 1L, 2개",
-          "price": "9,200원",
-          "discount_rate": 69,
-          "priceAt": "11.18 19:03",
-          "image": "https://shopping.toss.im/live/temp/2026-06-17/f20454ba-50de-4383-ae2b-a5eaa2fbd352.jpeg",
-          "url": "https://toss.shopping/_m/HDkniFSb",
-          "_ts": 1794996234.7452831,
-          "_product_id": "2164114773"
         }
       ]
     },
