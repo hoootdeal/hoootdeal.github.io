@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "트루쿡 시그니처 플렉스 TPU 도마, 블랙, 1개, 소형",
+          "price": "9,900원",
+          "discount_rate": 46,
+          "priceAt": "11.23 09:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/edac2254-b475-4ad4-b631-70065e305dac_fixing_v2_gemini_image_fixing.png",
+          "url": "https://link.coupang.com/a/iTTgahDmvY",
+          "_ts": 1795393564.168231
+        },
+        {
           "name": "불닭볶음면 140g, 5개",
           "price": "3,570원",
           "discount_rate": 25,
@@ -1392,24 +1401,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/19110309244545-b34d5911-4729-46c9-8331-b28f93026467.jpg",
           "url": "https://link.coupang.com/a/iLARynUW6u",
           "_ts": 1794961665.8121119
-        },
-        {
-          "name": "로또 남성용 이중 쿠션 중목 스포츠 양말 7켤레, 250~280mm, 혼합색상(화이트 3켤레, 블랙 2켤레, 그레이 2켤레)",
-          "price": "5,990원",
-          "discount_rate": 39,
-          "priceAt": "11.18 09:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4608699164769795-15e6f4a3-b3d0-4779-a3f4-29a47d0cbf0b.jpg",
-          "url": "https://link.coupang.com/a/iLzZFhWrZs",
-          "_ts": 1794960938.8330119
-        },
-        {
-          "name": "일동후디스 유기가공식품 인증 유기농 그릭요거트 달지않은 플레인, 450g, 2개",
-          "price": "7,050원",
-          "discount_rate": 31,
-          "priceAt": "11.18 08:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/302341766413831-78e0d06f-24b8-4eef-a32f-c5ae0fc59848.jpg",
-          "url": "https://link.coupang.com/a/iLyGGDGmyW",
-          "_ts": 1794959839.92
         }
       ]
     },
