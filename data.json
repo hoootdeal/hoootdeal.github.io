@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "광천김 이모카세 1호 김자반, 50g, 3개",
+          "price": "4,410원",
+          "discount_rate": 38,
+          "priceAt": "11.23 15:43",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/115695562856719-675da576-4f59-4dac-b33d-1821a17528e0.jpg",
+          "url": "https://link.coupang.com/a/iUkfdNykjA",
+          "_ts": 1795416220.956404
+        },
+        {
           "name": "그린핑거 마이키즈 얼굴로션, 160ml, 1개",
           "price": "6,990원",
           "discount_rate": 32,
@@ -1491,15 +1500,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1326698982312748-eb1ad7bc-e02c-406e-8465-a565c338e5f0.jpg",
           "url": "https://link.coupang.com/a/iL16UgKFHg",
           "_ts": 1794984541.877008
-        },
-        {
-          "name": "원스탑 제로갭 슬림 납작 컬러 개별 스위치 멀티탭 3구 16A + 안전커버 세트, 1m, 버터옐로우, 1세트",
-          "price": "8,300원",
-          "discount_rate": 39,
-          "priceAt": "11.18 15:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1780125769470353-c79bbfc6-2e6c-4525-a477-adf9f3bfdaf4.jpg",
-          "url": "https://link.coupang.com/a/iLZKPY0ulM",
-          "_ts": 1794982563.88316
         }
       ]
     },
