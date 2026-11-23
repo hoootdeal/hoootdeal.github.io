@@ -1500,6 +1500,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "과일꾼 영암 대봉감, 중과, 20과 내, 5kg, 1박스",
+          "price": "9,820원",
+          "discount_rate": 74,
+          "priceAt": "11.23 16:09",
+          "image": "https://shopping.toss.im/live/temp/2025-09-28/e8b1fd47-7929-42b9-acd3-cf530590821e.jpeg",
+          "url": "https://toss.shopping/_m/5WZsvALB",
+          "_ts": 1795417790.0638678,
+          "_product_id": "219041409"
+        },
+        {
           "name": "메르헨트 그린티 시카 버블 폼클렌징, 500ml, 2개",
           "price": "11,270원",
           "discount_rate": 71,
