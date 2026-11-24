@@ -1572,15 +1572,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5526/c0d6882f866bc04292ff6dcac1439038dd59991759daacd6048804776a80.jpg",
           "url": "https://link.coupang.com/a/iOORCjprbM",
           "_ts": 1795129590.674113
-        },
-        {
-          "name": "켈로그 현미 푸레이크, 550g, 1개",
-          "price": "3,850원",
-          "discount_rate": 36,
-          "priceAt": "11.20 08:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/02/11/17/5/9138d29d-a056-4939-8a72-690cb386dd76.jpg",
-          "url": "https://link.coupang.com/a/iOOARtVaP6",
-          "_ts": 1795129365.96363
         }
       ]
     },
@@ -1589,6 +1580,39 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "슈틸루스터 클린 풋 전동 무선 발각질제거기, 올리브, 1개",
+          "price": "19,600원",
+          "discount_rate": 75,
+          "priceAt": "11.25 08:02",
+          "image": "https://shopping.toss.im/live/taca/ai/ZTk3MmIz/QUlld0xROXFXOExZc1lhL01lRHNXcmxhUjdEZXBiZzlKMXR0d2w1KzFLMlo.png",
+          "url": "https://toss.shopping/_m/lNEL1cpn",
+          "_ts": 1795561378.837774,
+          "_flash": true,
+          "_product_id": "138353753"
+        },
+        {
+          "name": "센토 프라임 고불소 구취케어 치약 120g 4개 + 미백케어 치약 120g 4개, 1세트",
+          "price": "16,440원",
+          "discount_rate": 65,
+          "priceAt": "11.25 08:02",
+          "image": "https://shopping.toss.im/live/temp/2026-09-16/54fc2e24-5c8d-4ff8-bf62-4815264a2be0.jpeg",
+          "url": "https://toss.shopping/_m/XKoqReO3",
+          "_ts": 1795561378.837749,
+          "_flash": true,
+          "_product_id": "2657571589"
+        },
+        {
+          "name": "페페브루노 아보카도 오일, 1L, 1개",
+          "price": "17,800원",
+          "discount_rate": 49,
+          "priceAt": "11.25 08:02",
+          "image": "https://shopping.toss.im/live/taca/ai/ZWVlNzYw/QUpCejlXMVdqYTB0aW5KS1NiYUdXYVNxL05iYXJWSzd0RlNzYXRQdGMzVlM.png",
+          "url": "https://toss.shopping/_m/LQ4WCcMq",
+          "_ts": 1795561378.837719,
+          "_flash": true,
+          "_product_id": "92159825"
+        },
         {
           "name": "슈퍼우먼 에너지바, 35g, 12개입, 3박스",
           "price": "17,900원",
