@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "소와나무 동원 쿨피스 파인애플, 190ml, 45개",
+          "price": "11,670원",
+          "discount_rate": 78,
+          "priceAt": "11.25 07:40",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/291737475829197-d6747d13-6255-44b0-b72d-b1916d6e587c.jpg",
+          "url": "https://link.coupang.com/a/iW5ymIklmC",
+          "_ts": 1795560055.1285381
+        },
+        {
           "name": "가그린 어린이용 구강세정제 딸기향 랜덤발송, 380ml, 3개",
           "price": "6,530원",
           "discount_rate": 35,
@@ -1572,15 +1581,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/02/11/17/5/9138d29d-a056-4939-8a72-690cb386dd76.jpg",
           "url": "https://link.coupang.com/a/iOOARtVaP6",
           "_ts": 1795129365.96363
-        },
-        {
-          "name": "오뚜기 제주담음 제주청귤 갈치구이 (냉동), 222g, 3개",
-          "price": "10,720원",
-          "discount_rate": 66,
-          "priceAt": "11.20 07:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/f27b1ca6-04f9-420b-a614-de3af3f787908673629802703151398.png",
-          "url": "https://link.coupang.com/a/iOLLyJ74iy",
-          "_ts": 1795126989.877462
         }
       ]
     },
