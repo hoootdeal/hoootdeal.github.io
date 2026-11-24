@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "데체코 올리오 엑스트라 버진 디 올리바 올리브오일, 1L, 2개",
+          "price": "27,300원",
+          "discount_rate": 24,
+          "priceAt": "11.24 20:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/178010960546961-475e128c-a538-4263-93ad-352e96fe7906.jpg",
+          "url": "https://link.coupang.com/a/iWkGsS0sW4",
+          "_ts": 1795520700.9684632
+        },
+        {
           "name": "아메리칸투어리스터 HUNDO 경량 PP 캐리어 20인치 25인치 30인치, FLINTSTONE, 20인치 (36 x 24 x 55 cm)",
           "price": "59,760원",
           "discount_rate": 43,
@@ -1572,15 +1581,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/201963097782127-6fa1a96b-cc5a-4f83-bfe0-d5975e8e445a.jpg",
           "url": "https://link.coupang.com/a/iN204YWSFU",
           "_ts": 1795089417.639719
-        },
-        {
-          "name": "PSK 칠레산 블루베리, 310g, 1개",
-          "price": "8,980원",
-          "discount_rate": 29,
-          "priceAt": "11.19 20:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4264201145038356-7050c5f2-9513-42b2-98ed-b6d34011af00.jpg",
-          "url": "https://link.coupang.com/a/iN12tcK5Nk",
-          "_ts": 1795088597.980017
         }
       ]
     },
