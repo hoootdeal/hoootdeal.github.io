@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아메리칸투어리스터 HUNDO 경량 PP 캐리어 20인치 25인치 30인치, FLINTSTONE, 20인치 (36 x 24 x 55 cm)",
+          "price": "59,760원",
+          "discount_rate": 43,
+          "priceAt": "11.24 20:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/eb5qyrs3/3ff881e877864282a3d62f144377afae.jpg",
+          "url": "https://link.coupang.com/a/iWiUQjTBi8",
+          "_ts": 1795519217.315905
+        },
+        {
           "name": "무균무때 뿌리는 락스세제, 900ml, 2개",
           "price": "4,860원",
           "discount_rate": 42,
@@ -1572,15 +1581,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4264201145038356-7050c5f2-9513-42b2-98ed-b6d34011af00.jpg",
           "url": "https://link.coupang.com/a/iN12tcK5Nk",
           "_ts": 1795088597.980017
-        },
-        {
-          "name": "라벨리아이스크림 디 요거트 아이스크림 (냉동), 180ml, 1개입, 24개",
-          "price": "23,500원",
-          "discount_rate": 35,
-          "priceAt": "11.19 19:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1049731660562425-a2da2adf-db2f-452f-9490-4075b75fbb12.jpg",
-          "url": "https://link.coupang.com/a/iNYRI86NPg",
-          "_ts": 1795085931.831703
         }
       ]
     },
