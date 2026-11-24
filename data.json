@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "코코도르 퍼퓸 샤쉐, 20g, 5개, 화이트플로랄",
+          "price": "3,860원",
+          "discount_rate": 46,
+          "priceAt": "11.24 16:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/06/13/15/3/b4d551bf-0bc1-4126-89ea-23a24ad64bb9.jpg",
+          "url": "https://link.coupang.com/a/iV0OO4wvym",
+          "_ts": 1795504023.291475
+        },
+        {
           "name": "하리보 골드베렌 젤리, 100g, 4개",
           "price": "4,800원",
           "discount_rate": 25,
@@ -1581,15 +1590,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/6338647330162274-34750d31-288c-409e-bd10-a5af63b7b9fe.jpg",
           "url": "https://link.coupang.com/a/iNIF5LO5Zs",
           "_ts": 1795072339.779128
-        },
-        {
-          "name": "정품 샤오커오라 캔디 사탕 간식 무설탕 알사탕 개별포장 비타민C, 100g, 3개",
-          "price": "7,950원",
-          "discount_rate": 26,
-          "priceAt": "11.19 16:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/images/1bc085e9-4107-484c-9cd4-66ef8f8d02c67904904516941043800.png",
-          "url": "https://link.coupang.com/a/iNHRo59ZPE",
-          "_ts": 1795071653.777249
         }
       ]
     },
@@ -2386,16 +2386,6 @@
           "url": "https://toss.shopping/_m/NPeeBk0q",
           "_ts": 1795082043.9634502,
           "_product_id": "86788707"
-        },
-        {
-          "name": "허만두 잎새만두, 알찬고기 1.4kg 1봉 + 알찬김치 1.4kg 1봉, 1세트",
-          "price": "11,400원",
-          "discount_rate": 52,
-          "priceAt": "11.19 15:38",
-          "image": "https://shopping.toss.im/live/taca/ai/MThmNTll/QUxOaHNZd1p6Snl4NUxFalBQV2d5MFZTa3FXc3lsRjhVeDJ5MnZRdElWR1Q.png",
-          "url": "https://toss.shopping/_m/DkwAAQV",
-          "_ts": 1795070308.4064581,
-          "_product_id": "148001577"
         }
       ]
     },
