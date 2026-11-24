@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "충남오감 세도농협 GAP 인증 대추방울토마토, 1kg, 3박스",
+          "price": "16,580원",
+          "discount_rate": 31,
+          "priceAt": "11.24 15:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/201175068160268-574761d0-ff88-49e2-91d4-1ac1c8f7d41d.jpg",
+          "url": "https://link.coupang.com/a/iVXlqVdcCy",
+          "_ts": 1795501105.15394
+        },
+        {
           "name": "이치란 라멘 하카타 가는 면 5개입, 1개",
           "price": "16,740원",
           "discount_rate": 32,
@@ -1572,24 +1581,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/images/1bc085e9-4107-484c-9cd4-66ef8f8d02c67904904516941043800.png",
           "url": "https://link.coupang.com/a/iNHRo59ZPE",
           "_ts": 1795071653.777249
-        },
-        {
-          "name": "보쉬 충전 USB 자동 드릴 드라이버 GO 3, 1개",
-          "price": "29,440원",
-          "discount_rate": 35,
-          "priceAt": "11.19 15:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/18/14/0/2b330018-2712-480f-aad4-5ba566a98d89.jpg",
-          "url": "https://link.coupang.com/a/iNELYzqeGG",
-          "_ts": 1795069061.3836942
-        },
-        {
-          "name": "광천김 소문난 두번 구운 김밥김, 22g, 10개",
-          "price": "12,970원",
-          "discount_rate": 31,
-          "priceAt": "11.19 14:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5036732462217800-58861dff-ca1e-4b7d-b0df-720d833507ad.jpg",
-          "url": "https://link.coupang.com/a/iNDnGlE30m",
-          "_ts": 1795067892.803893
         }
       ]
     },
