@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "따옴 빙그레 자몽 주스, 235ml, 5개",
+          "price": "5,830원",
+          "discount_rate": 32,
+          "priceAt": "11.24 22:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/d1u3djic/caca1a23a83b4fa8b80957451336ee9b.jpg",
+          "url": "https://link.coupang.com/a/iWp76SaYAS",
+          "_ts": 1795525275.676743
+        },
+        {
           "name": "이니스프리 히알루론 수분 선크림 기획 세트 50ml + 20ml SPF50+ PA++++, 2개",
           "price": "15,440원",
           "discount_rate": 65,
