@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이니스프리 히알루론 수분 선크림 기획 세트 50ml + 20ml SPF50+ PA++++, 2개",
+          "price": "15,440원",
+          "discount_rate": 65,
+          "priceAt": "11.24 21:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/342983939354563-7e1b3e7a-9ca7-4362-a465-730d28718f77.jpg",
+          "url": "https://link.coupang.com/a/iWndTlu4Rg",
+          "_ts": 1795522832.6296608
+        },
+        {
           "name": "데체코 올리오 엑스트라 버진 디 올리바 올리브오일, 1L, 2개",
           "price": "27,300원",
           "discount_rate": 24,
@@ -1572,15 +1581,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/7c77/d5c6be22f593ef7840c5fd1ceaef0c6b707c4da5b8f65d3fc4b3b57c3217.jpg",
           "url": "https://link.coupang.com/a/iN7218kApM",
           "_ts": 1795093642.4103758
-        },
-        {
-          "name": "허먼밀러 뉴 에어론 풀 의자 방문설치, 미네랄, B",
-          "price": "1,077,900원",
-          "discount_rate": 36,
-          "priceAt": "11.19 20:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/201963097782127-6fa1a96b-cc5a-4f83-bfe0-d5975e8e445a.jpg",
-          "url": "https://link.coupang.com/a/iN204YWSFU",
-          "_ts": 1795089417.639719
         }
       ]
     },
