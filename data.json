@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아라리 투명 맥세이프 범퍼 휴대폰 케이스 듀플 M, 아이폰 15 프로, 클리어",
+          "price": "5,700원",
+          "discount_rate": 87,
+          "priceAt": "11.25 08:29",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2260842643302439-05c517ca-5fbe-46f7-a7be-b27642f16b11.jpg",
+          "url": "https://link.coupang.com/a/iW82eSWlRQ",
+          "_ts": 1795562976.5660899
+        },
+        {
           "name": "소와나무 동원 쿨피스 파인애플, 190ml, 45개",
           "price": "11,670원",
           "discount_rate": 78,
@@ -1554,24 +1563,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/97926624493614-a16df7d1-6099-48f4-a3d7-42cafc7f27fb.jpg",
           "url": "https://link.coupang.com/a/iORuxS7mMu",
           "_ts": 1795131795.416236
-        },
-        {
-          "name": "믈레코비타 3.5퍼센트 멸균우유, 1L, 24개",
-          "price": "30,540원",
-          "discount_rate": 23,
-          "priceAt": "11.20 08:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/563728914392297-14259ecf-37ed-4961-b258-1bf24c3cf06a.png",
-          "url": "https://link.coupang.com/a/iOPivJDM60",
-          "_ts": 1795129954.737348
-        },
-        {
-          "name": "다이쇼 오이 탕탕이 중화요리풍 양념, 150ml, 3개",
-          "price": "6,790원",
-          "discount_rate": 24,
-          "priceAt": "11.20 08:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5526/c0d6882f866bc04292ff6dcac1439038dd59991759daacd6048804776a80.jpg",
-          "url": "https://link.coupang.com/a/iOORCjprbM",
-          "_ts": 1795129590.674113
         }
       ]
     },
@@ -2390,74 +2381,6 @@
           "url": "https://toss.shopping/_m/VHVyYYa4",
           "_ts": 1795137172.159394,
           "_product_id": "160282629"
-        },
-        {
-          "name": "청년 국산 고춧가루, 보통맛, 굵은가루, 1kg, 1개",
-          "price": "20,850원",
-          "discount_rate": 51,
-          "priceAt": "11.20 08:05",
-          "image": "https://shopping.toss.im/live/taca/ai/NWNlOGVl/QVBzSWxhZFlEdFNHU1k1V3IyL3VVcHczYmtyZjByeHFVa3FnbzF1clVVY1M.png",
-          "url": "https://toss.shopping/_m/x3vi56Qh",
-          "_ts": 1795129543.045737,
-          "_flash": true,
-          "_product_id": "166148191"
-        },
-        {
-          "name": "팔공어묵 프리미엄 꼬치어묵 가쓰오소스 세트, 350g, 10개입, 4팩",
-          "price": "12,010원",
-          "discount_rate": 47,
-          "priceAt": "11.20 08:05",
-          "image": "https://shopping.toss.im/live/taca/ai/Yjk2Y2Qx/QUpzbk5seThlc3dqbkhhSkIrR2RjZnMzeU9Nck44bU80dUJGWWgzaXhUSWQ.png",
-          "url": "https://toss.shopping/_m/xpIMW9Ht",
-          "_ts": 1795129543.0457149,
-          "_flash": true,
-          "_product_id": "474617027",
-          "sold_out": true,
-          "_sold_at": 1795531817.0
-        },
-        {
-          "name": "트루나 군고구마빠, 50g, 10팩",
-          "price": "9,900원",
-          "discount_rate": 50,
-          "priceAt": "11.20 08:05",
-          "image": "https://shopping.toss.im/live/taca/ai/OWJmOTRh/WGJvamtRVC81NWZEdXU3MUZXM0FpU0wyY1JkeTNZa1Q5OVY4WW4zSSt1MD0.png",
-          "url": "https://toss.shopping/_m/Bm0VlbJu",
-          "_ts": 1795129543.045686,
-          "_flash": true,
-          "_product_id": "2278596363"
-        },
-        {
-          "name": "들녘 전통압착 더 진한 통들깨 백퍼센트 들기름, 350ml, 2개",
-          "price": "11,000원",
-          "discount_rate": 60,
-          "priceAt": "11.20 08:05",
-          "image": "https://shopping.toss.im/live/taca/ai/M2M5OGM1/QUptT3RaVDNPUEcwL1JpZTZ3cm5aclcyM1V0azZ2KzFtcFVRdHQyVkdFdGw.png",
-          "url": "https://toss.shopping/_m/vDjzQd41",
-          "_ts": 1795129517.526224,
-          "_flash": true,
-          "_product_id": "2138068523"
-        },
-        {
-          "name": "오즈랜드 두부과자, 40g, 12개",
-          "price": "7,900원",
-          "discount_rate": 67,
-          "priceAt": "11.20 08:05",
-          "image": "https://shopping.toss.im/live/temp/2026-10-16/15da9d6a-4f01-48df-8cff-b4c84a8779e0.jpeg",
-          "url": "https://toss.shopping/_m/fchZrge6",
-          "_ts": 1795129517.526189,
-          "_flash": true,
-          "_product_id": "2651739807"
-        },
-        {
-          "name": "해피콜 브릭스 통3중 에칭 IH 프라이팬, 블루, 28cm, 1개",
-          "price": "18,810원",
-          "discount_rate": 76,
-          "priceAt": "11.20 08:05",
-          "image": "https://shopping.toss.im/live/taca/ai/NjBkMmRk/WnRrek0yYk1ablBtekdaTzgra216SG5abXN3OHlabk1uTXh6TXpNTTdMTT0.png",
-          "url": "https://toss.shopping/_m/TOfZaqEm",
-          "_ts": 1795129517.526154,
-          "_flash": true,
-          "_product_id": "2270500571"
         }
       ]
     },
