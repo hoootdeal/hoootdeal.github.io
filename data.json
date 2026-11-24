@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바브키즈 아동용 기본 컬러 맨투맨, 9호, 노랑",
+          "price": "4,870원",
+          "discount_rate": 30,
+          "priceAt": "11.24 12:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/nt0dbfop/55bbc6bac71d4ccfa58d72a29feb8a2e.jpg",
+          "url": "https://link.coupang.com/a/iVLUCJdEyG",
+          "_ts": 1795491507.283087
+        },
+        {
           "name": "스탠리 이지 캐리 쿨러 아이스박스, 로즈 쿼츠, 15.1L",
           "price": "44,840원",
           "discount_rate": 30,
@@ -1563,15 +1572,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/51237923516097-ccb63355-8c12-4abd-93c9-54234cd80221.jpg",
           "url": "https://link.coupang.com/a/iNu3fQhd3A",
           "_ts": 1795060899.651563
-        },
-        {
-          "name": "이금기 팬더 굴소스, 320g, 2개",
-          "price": "4,980원",
-          "discount_rate": 30,
-          "priceAt": "11.19 12:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/dfaa77a1-e3be-4adb-9c62-fca730739a389495682882417082134.png",
-          "url": "https://link.coupang.com/a/iNsiYKAscm",
-          "_ts": 1795058592.7934551
         }
       ]
     },
