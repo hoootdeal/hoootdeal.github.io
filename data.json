@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "도브 (Dove) 뷰티 모이스처 폼 바디 워시 킨모쿠세이, 540g, 2개",
+          "price": "9,640원",
+          "discount_rate": 37,
+          "priceAt": "11.24 13:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/c477/8f98ed314012390ad2bcc98d3b211a0d4675eb6a8a842b2735dda1fa00c8.jpg",
+          "url": "https://link.coupang.com/a/iVNBRgb0CW",
+          "_ts": 1795492932.202261
+        },
+        {
           "name": "바브키즈 아동용 기본 컬러 맨투맨, 9호, 노랑",
           "price": "4,870원",
           "discount_rate": 30,
@@ -1563,15 +1572,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/56163995875305-54976aae-d7bb-46a5-93c4-2c115a48422b.jpg",
           "url": "https://link.coupang.com/a/iNxSofQ3si",
           "_ts": 1795063270.634509
-        },
-        {
-          "name": "프레쉬팜 달콤 허니듀메론, 850g, 1개",
-          "price": "6,070원",
-          "discount_rate": 41,
-          "priceAt": "11.19 13:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/51237923516097-ccb63355-8c12-4abd-93c9-54234cd80221.jpg",
-          "url": "https://link.coupang.com/a/iNu3fQhd3A",
-          "_ts": 1795060899.651563
         }
       ]
     },
@@ -2378,16 +2378,6 @@
           "url": "https://toss.shopping/_m/XB6KoZi6",
           "_ts": 1795061455.9508018,
           "_product_id": "684179983"
-        },
-        {
-          "name": "피죤 무균무때 곰팡이용, 500ml, 4개",
-          "price": "9,350원",
-          "discount_rate": 63,
-          "priceAt": "11.19 12:49",
-          "image": "https://shopping.toss.im/live/temp/2025-07-09/ef4b4cf9-5fd6-4aa0-8e98-06ac3e66337f.jpeg",
-          "url": "https://toss.shopping/_m/3nxcr74q",
-          "_ts": 1795060149.9136798,
-          "_product_id": "128456603"
         }
       ]
     },
