@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "딜라잇가든 망고 (냉동), 1kg, 2봉",
+          "price": "8,880원",
+          "discount_rate": 26,
+          "priceAt": "11.24 13:30",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/428838329857429-3788555b-608f-4c92-bd88-0f8d365ee4d5.jpg",
+          "url": "https://link.coupang.com/a/iVPCRKAg7o",
+          "_ts": 1795494625.437975
+        },
+        {
           "name": "도브 (Dove) 뷰티 모이스처 폼 바디 워시 킨모쿠세이, 540g, 2개",
           "price": "9,640원",
           "discount_rate": 37,
