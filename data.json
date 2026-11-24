@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "클레멘테 리오 유기농 엑스트라 버진 올리브유, 500ml, 1개",
+          "price": "12,930원",
+          "discount_rate": 35,
+          "priceAt": "11.24 09:19",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/0555/db037e471ab31abaa8586731f27dcb8ae5197f1f6fdeb8938183761c5981.jpg",
+          "url": "https://link.coupang.com/a/iVxE14UDHE",
+          "_ts": 1795479541.608414
+        },
+        {
           "name": "하루견과 카무트 담은 하루견과 선물세트 800g, 2세트",
           "price": "26,820원",
           "discount_rate": 44,
@@ -1563,24 +1572,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/2a8c/41ca760d706d857db2c909d4f88c025d16a7c41ee6b0880a02efd0a1b1a4.jpg",
           "url": "https://link.coupang.com/a/iNfIFW7GH6",
           "_ts": 1795048027.693312
-        },
-        {
-          "name": "켈로그 크랜베리 아몬드 그래놀라 시리얼, 550g, 2개",
-          "price": "7,980원",
-          "discount_rate": 34,
-          "priceAt": "11.19 09:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/67185305190641-3b4ca2ee-4a47-48cc-bc1b-d1c19ba289b9.jpg",
-          "url": "https://link.coupang.com/a/iNdUADnJYW",
-          "_ts": 1795046508.83417
-        },
-        {
-          "name": "돈시몬 100% 착즙 토마토 주스, 2L, 1개",
-          "price": "6,300원",
-          "discount_rate": 25,
-          "priceAt": "11.19 08:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/01/10/9/6/6b1f13c5-9f63-4796-9781-6298cfc4681e.jpg",
-          "url": "https://link.coupang.com/a/iNdorLFSPQ",
-          "_ts": 1795046070.6942852
         }
       ]
     },
