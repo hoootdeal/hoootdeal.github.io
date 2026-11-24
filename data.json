@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "테리파머 호텔 수건 200g 30수 면사 2종 x 5p 세트, 베이비블루 + 베이..., 10개, 베이비블루 + 베이비핑크",
+          "price": "26,260원",
+          "discount_rate": 35,
+          "priceAt": "11.24 18:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/advertiser/1754036582901/67a8d346-2822-44ae-b4e4-de2ad8582473.jpg",
+          "url": "https://link.coupang.com/a/iWcNMrH4ay",
+          "_ts": 1795514085.362622
+        },
+        {
           "name": "맛선생 꽃게 새우 국물내기 한알 30개입, 120g, 2개",
           "price": "7,300원",
           "discount_rate": 42,
@@ -1572,15 +1581,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1dc74813-237a-4c8f-8a53-a605ee0553ab17121721329900038458.png",
           "url": "https://link.coupang.com/a/iNVeHEvraK",
           "_ts": 1795082885.657119
-        },
-        {
-          "name": "오뚜기 델리 토마토 케찹, 800g, 1개",
-          "price": "2,510원",
-          "discount_rate": 32,
-          "priceAt": "11.19 18:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/66872725367182-13f2ce28-4be4-4ee0-b264-c7be970a75e2.jpg",
-          "url": "https://link.coupang.com/a/iNSJQyy4hU",
-          "_ts": 1795080786.863939
         }
       ]
     },
@@ -2389,16 +2389,6 @@
           "url": "https://toss.shopping/_m/xIhvYXSo",
           "_ts": 1795091683.5279648,
           "_product_id": "2694960991"
-        },
-        {
-          "name": "가쯔 오래쓰는 자동 변기세정제, 260g, 4개",
-          "price": "6,580원",
-          "discount_rate": 77,
-          "priceAt": "11.19 18:54",
-          "image": "https://shopping.toss.im/live/taca/ai/Nzc2MTU4/QUtsOGJFZHBLZWp3N0h4ZEQxU0dvMUNHMGg0UEtwR1EwQlVyVnFNbEM2clc.png",
-          "url": "https://toss.shopping/_m/NPeeBk0q",
-          "_ts": 1795082043.9634502,
-          "_product_id": "86788707"
         }
       ]
     },
