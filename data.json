@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "디에스도씨 여성용 피치기모 긴팔 카라 잠옷 상하의 세트, XL, 타탄",
+          "price": "11,400원",
+          "discount_rate": 39,
+          "priceAt": "11.24 17:33",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/286457068923048-4b796e26-1da7-40d5-9aae-6cbd3f1faad1.jpg",
+          "url": "https://link.coupang.com/a/iV603ChFp7",
+          "_ts": 1795509226.415352
+        },
+        {
           "name": "곰곰 냉동 망고, 1kg, 2개",
           "price": "11,170원",
           "discount_rate": 28,
@@ -1581,15 +1590,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/160395344247520-6b1d54cf-f6fd-4a2f-b2b1-655189575ec8.jpg",
           "url": "https://link.coupang.com/a/iNOHSceBKC",
           "_ts": 1795077401.463541
-        },
-        {
-          "name": "더바른떡 파베 초코 크림떡 (냉동), 60g, 4개, 6개입",
-          "price": "32,740원",
-          "discount_rate": 29,
-          "priceAt": "11.19 16:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/013f8167-02f8-41f8-b7c7-1b51ec91399216923520608350859693.png",
-          "url": "https://link.coupang.com/a/iNLQHwLah2",
-          "_ts": 1795075001.7761102
         }
       ]
     },
