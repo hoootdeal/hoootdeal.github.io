@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하리보 골드베렌 젤리, 100g, 4개",
+          "price": "4,800원",
+          "discount_rate": 25,
+          "priceAt": "11.24 15:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/46894511636537-25df2b30-0fd1-4715-b7e7-4774e539611c.jpg",
+          "url": "https://link.coupang.com/a/iVXWdcE11g",
+          "_ts": 1795501604.8400698
+        },
+        {
           "name": "충남오감 세도농협 GAP 인증 대추방울토마토, 1kg, 3박스",
           "price": "16,580원",
           "discount_rate": 31,
