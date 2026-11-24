@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스탠리 이지 캐리 쿨러 아이스박스, 로즈 쿼츠, 15.1L",
+          "price": "44,840원",
+          "discount_rate": 30,
+          "priceAt": "11.24 12:05",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/96405894147996-458e5580-fd46-45a7-adc0-b4852e75b948.png",
+          "url": "https://link.coupang.com/a/iVJzbu1rRA",
+          "_ts": 1795489537.319649
+        },
+        {
           "name": "마른파이브 아동용 히트터치 발열내의 기모 내복 세트, 80, 블랙",
           "price": "8,150원",
           "discount_rate": 30,
@@ -1563,15 +1572,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/dfaa77a1-e3be-4adb-9c62-fca730739a389495682882417082134.png",
           "url": "https://link.coupang.com/a/iNsiYKAscm",
           "_ts": 1795058592.7934551
-        },
-        {
-          "name": "후디스그릭요거트 다이어트 무지방 그릭요거트, 400g, 1개",
-          "price": "3,330원",
-          "discount_rate": 40,
-          "priceAt": "11.19 12:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/neakthp8/bdedcf81fae34867861b684dc2ed5fb1.jpg",
-          "url": "https://link.coupang.com/a/iNqLPRlfki",
-          "_ts": 1795057307.075319
         }
       ]
     },
