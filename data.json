@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이상복명과 경주빵, 38g, 10개입, 1개",
+          "price": "7,870원",
+          "discount_rate": 28,
+          "priceAt": "11.24 19:27",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5978501180526379-b3d36d38-933e-40da-9094-8c13d806625f.jpg",
+          "url": "https://link.coupang.com/a/iWe99gsvvM",
+          "_ts": 1795516065.048376
+        },
+        {
           "name": "테리파머 호텔 수건 200g 30수 면사 2종 x 5p 세트, 베이비블루 + 베이..., 10개, 베이비블루 + 베이비핑크",
           "price": "26,260원",
           "discount_rate": 35,
@@ -1563,24 +1572,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1049731660562425-a2da2adf-db2f-452f-9490-4075b75fbb12.jpg",
           "url": "https://link.coupang.com/a/iNYRI86NPg",
           "_ts": 1795085931.831703
-        },
-        {
-          "name": "하림 무항생제 인증 마늘 듬뿍 닭볶음탕 밀키트, 1.085kg, 1개",
-          "price": "8,580원",
-          "discount_rate": 41,
-          "priceAt": "11.19 19:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/71331662173160-47a3c7b0-0822-4ba0-97f6-2fbe6437260a.jpg",
-          "url": "https://link.coupang.com/a/iNVve44wFM",
-          "_ts": 1795083107.82706
-        },
-        {
-          "name": "백설 나폴리맛피아 권성준셰프 베이컨 머쉬룸 크림 파스타소스, 430g, 3개",
-          "price": "11,250원",
-          "discount_rate": 35,
-          "priceAt": "11.19 19:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1dc74813-237a-4c8f-8a53-a605ee0553ab17121721329900038458.png",
-          "url": "https://link.coupang.com/a/iNVeHEvraK",
-          "_ts": 1795082885.657119
         }
       ]
     },
