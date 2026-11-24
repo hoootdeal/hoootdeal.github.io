@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "마른파이브 아동용 히트터치 발열내의 기모 내복 세트, 80, 블랙",
+          "price": "8,150원",
+          "discount_rate": 30,
+          "priceAt": "11.24 11:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/9103607264743533-f29c42b4-c877-4072-bd62-352b450e004f.jpg",
+          "url": "https://link.coupang.com/a/iVG68GTOOy",
+          "_ts": 1795487478.093181
+        },
+        {
           "name": "더페이스샵 더테라피 세럼 인 오일 클렌저, 225ml, 1개",
           "price": "9,240원",
           "discount_rate": 46,
@@ -1563,15 +1572,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/neakthp8/bdedcf81fae34867861b684dc2ed5fb1.jpg",
           "url": "https://link.coupang.com/a/iNqLPRlfki",
           "_ts": 1795057307.075319
-        },
-        {
-          "name": "김정문알로에 라센스 로에 큐어 리알로에 워터 스플래쉬 카밍 톤업 선크림 SPF50+ PA++++, 40g, 2개",
-          "price": "9,000원",
-          "discount_rate": 82,
-          "priceAt": "11.19 11:24",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3708891396496-97e10369-e7ea-4119-96fc-8f2262799855.jpg",
-          "url": "https://link.coupang.com/a/iNn8TP6bZc",
-          "_ts": 1795055099.109836
         }
       ]
     },
@@ -2386,16 +2386,6 @@
           "url": "https://toss.shopping/_m/3nxcr74q",
           "_ts": 1795060149.9136798,
           "_product_id": "128456603"
-        },
-        {
-          "name": "썬리지 호주산 네이블 오렌지, 중과, 3.5kg, 1박스",
-          "price": "8,440원",
-          "discount_rate": 61,
-          "priceAt": "11.19 11:28",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MzY1N2Nl/QU83WjVuWXpuREV6ek56ejQ2SFpCam5uTk0yWm1jeFl5U1ppTTdFMXhuczc.png",
-          "url": "https://toss.shopping/_m/z3qMewm7",
-          "_ts": 1795055291.526114,
-          "_product_id": "2401205415"
         }
       ]
     },
