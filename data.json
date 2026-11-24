@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "하이뮨 아미노포텐 에너지젤, 400g, 1개",
+          "price": "9,050원",
+          "discount_rate": 48,
+          "priceAt": "11.24 14:03",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/41151692902082-9551fe58-9205-4cf4-bb48-d44e8dc5841c.jpg",
+          "url": "https://link.coupang.com/a/iVRZPQFqXA",
+          "_ts": 1795496614.306012
+        },
+        {
           "name": "딜라잇가든 망고 (냉동), 1kg, 2봉",
           "price": "8,880원",
           "discount_rate": 26,
@@ -1572,15 +1581,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/0600/75d3590c88ce5998386268d7648ae740cacc53c4834dad5e49df51f8efa6.jpg",
           "url": "https://link.coupang.com/a/iNAP4CGiOW",
           "_ts": 1795065758.34405
-        },
-        {
-          "name": "피지오겔 데일리 모이스쳐 테라피 포맨 플루이드 올인원 로션, 100ml, 1개",
-          "price": "13,370원",
-          "discount_rate": 36,
-          "priceAt": "11.19 13:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/56163995875305-54976aae-d7bb-46a5-93c4-2c115a48422b.jpg",
-          "url": "https://link.coupang.com/a/iNxSofQ3si",
-          "_ts": 1795063270.634509
         }
       ]
     },
