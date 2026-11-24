@@ -1581,6 +1581,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "슈퍼우먼 에너지바, 35g, 12개입, 3박스",
+          "price": "17,900원",
+          "discount_rate": 66,
+          "priceAt": "11.25 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/NWRiNWYy/ZE5LbHJ2c3lSdFowT3hWbVBQa1I4c2VjTDJMNVJKL2g5VFNyb1VBTVV1RT0.png",
+          "url": "https://toss.shopping/_m/7fIMo5T3",
+          "_ts": 1795532521.3279428,
+          "_flash": true,
+          "_product_id": "189563595"
+        },
+        {
+          "name": "국산 영천 깐마늘, 중, 3kg, 1팩",
+          "price": "21,480원",
+          "discount_rate": 55,
+          "priceAt": "11.25 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/NmRhZTA2/UVMwNDJFOW4xYXh5UGpKcWpUSzNYcmFaWGRDUk1BUXRpZDVzM1FwV3dIST0.png",
+          "url": "https://toss.shopping/_m/z74pP7Cw",
+          "_ts": 1795532521.327915,
+          "_flash": true,
+          "_product_id": "1037092141"
+        },
+        {
+          "name": "리벤스 오리지널 플러스 대용량 엠보싱 캡형 물티슈, 100매, 10팩",
+          "price": "9,800원",
+          "discount_rate": 58,
+          "priceAt": "11.25 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-09-29/90012618-46f3-469c-acfa-bb93e3cbd914.jpeg",
+          "url": "https://toss.shopping/_m/xGxrktyn",
+          "_ts": 1795532521.327882,
+          "_flash": true,
+          "_product_id": "121687325"
+        },
+        {
           "name": "배터지는 고기듬뿍 감자탕, 5kg, 1개",
           "price": "19,800원",
           "discount_rate": 50,
