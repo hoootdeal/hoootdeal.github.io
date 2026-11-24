@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "맛선생 꽃게 새우 국물내기 한알 30개입, 120g, 2개",
+          "price": "7,300원",
+          "discount_rate": 42,
+          "priceAt": "11.24 18:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/d65ce1fc-d1b0-4530-8210-bb44f4eb2d0e2248746895160608102.png",
+          "url": "https://link.coupang.com/a/iV9L5vvfBA",
+          "_ts": 1795511544.610301
+        },
+        {
           "name": "디에스도씨 여성용 피치기모 긴팔 카라 잠옷 상하의 세트, XL, 타탄",
           "price": "11,400원",
           "discount_rate": 39,
@@ -1572,24 +1581,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/66872725367182-13f2ce28-4be4-4ee0-b264-c7be970a75e2.jpg",
           "url": "https://link.coupang.com/a/iNSJQyy4hU",
           "_ts": 1795080786.863939
-        },
-        {
-          "name": "모닝하임 수수부꾸미 (냉동), 1kg, 1개",
-          "price": "6,750원",
-          "discount_rate": 46,
-          "priceAt": "11.19 18:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2879584534665512-46848d7c-8eac-4119-9983-a868fea870c7.jpg",
-          "url": "https://link.coupang.com/a/iNQ5fMU93Q",
-          "_ts": 1795079399.2559092
-        },
-        {
-          "name": "오늘부터 Y케어 질 유래 특허 여성유산균, 60g, 1개",
-          "price": "6,800원",
-          "discount_rate": 30,
-          "priceAt": "11.19 17:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/160395344247520-6b1d54cf-f6fd-4a2f-b2b1-655189575ec8.jpg",
-          "url": "https://link.coupang.com/a/iNOHSceBKC",
-          "_ts": 1795077401.463541
         }
       ]
     },
