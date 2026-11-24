@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크리스찬한센 덴마크 유산균 이야기, 30정, 1개",
+          "price": "11,460원",
+          "discount_rate": 26,
+          "priceAt": "11.24 10:32",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/511160217661541-bfe75eba-82ed-4818-a882-87c611299cab.jpg",
+          "url": "https://link.coupang.com/a/iVCVMg2Zgq",
+          "_ts": 1795483965.395982
+        },
+        {
           "name": "이클립스 4가지 믹스팩, 272g, 1개",
           "price": "11,220원",
           "discount_rate": 29,
@@ -1563,15 +1572,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/2482/c31055fa92caf86ed1d46367efb68ab14a90edf2e7031de782414a31c22a.jpg",
           "url": "https://link.coupang.com/a/iNk52Q3bNI",
           "_ts": 1795052540.67737
-        },
-        {
-          "name": "안드레아밀라노 유기농 사과식초, 1L, 1개",
-          "price": "4,800원",
-          "discount_rate": 34,
-          "priceAt": "11.19 10:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/260426582217554-21c261eb-c2e7-415f-8e94-00d56304cd86.jpg",
-          "url": "https://link.coupang.com/a/iNimNq8CUS",
-          "_ts": 1795050249.8222861
         }
       ]
     },
