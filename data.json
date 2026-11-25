@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "샥즈 E310 오픈닷 원 이어클립형 블루투스 이어폰, 오리지널 블랙, 단일상품",
+          "price": "128,000원",
+          "discount_rate": 61,
+          "priceAt": "11.25 09:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/bde5/0eea262a3c9d95a167dfa163245cb9c3f3e2971abba61d6882f5971a6e2a.png",
+          "url": "https://link.coupang.com/a/iXdr3TVOHQ",
+          "_ts": 1795566684.770046
+        },
+        {
           "name": "비비고 든든 한섬만두 (냉동), 384g, 12개",
           "price": "32,670원",
           "discount_rate": 48,
@@ -1545,15 +1554,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/179465695997182-2fafb62e-4ae0-4111-8f59-4d4de40ddb63.jpg",
           "url": "https://link.coupang.com/a/iOU9zh7fYy",
           "_ts": 1795134870.955193
-        },
-        {
-          "name": "크노르 치킨스톡 파우더, 120g, 4개",
-          "price": "6,780원",
-          "discount_rate": 68,
-          "priceAt": "11.20 09:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/81856978233367-37f18868-ff48-4be9-a0d1-ab95a8a099d6.jpg",
-          "url": "https://link.coupang.com/a/iOT7QsNlmg",
-          "_ts": 1795134008.227455
         }
       ]
     },
