@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "바브키즈 주니어 아동용 후리스 상하의 세트, 11호, 핑크",
+          "price": "16,120원",
+          "discount_rate": 69,
+          "priceAt": "11.25 17:40",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/602563292440371-b26a4606-9873-4e1d-9695-4fbf69bae605.jpg",
+          "url": "https://link.coupang.com/a/iXMoC3oABp",
+          "_ts": 1795596022.5792599
+        },
+        {
           "name": "광동 배도라지 쌍화 스틱, 10ml, 100개입, 1개",
           "price": "16,400원",
           "discount_rate": 38,
@@ -1518,15 +1527,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/238980888332923-6c9b3289-8c5f-4beb-8d07-0960a776f0bb.jpg",
           "url": "https://link.coupang.com/a/iPu9gU9AYe",
           "_ts": 1795165093.434749
-        },
-        {
-          "name": "프로그 라텍스 컴포트 고무장갑, 베이비핑크, 중(M), 5세트",
-          "price": "5,170원",
-          "discount_rate": 44,
-          "priceAt": "11.20 17:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2612953048106585-8d85a6c4-f302-4678-9509-137d6a686cd0.jpg",
-          "url": "https://link.coupang.com/a/iPsvD50nfg",
-          "_ts": 1795162877.020222
         }
       ]
     },
