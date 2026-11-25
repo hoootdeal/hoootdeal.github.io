@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에스트라 테라크네365 액티브 세럼, 30ml, 1개",
+          "price": "16,800원",
+          "discount_rate": 34,
+          "priceAt": "11.25 15:04",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1217201666088-bbe458c9-4e11-42e2-860b-7bd56fdfac03.jpg",
+          "url": "https://link.coupang.com/a/iXBfuXFDno",
+          "_ts": 1795586666.8786292
+        },
+        {
           "name": "버블업 딥 클린 초고농축 캡슐세탁세제 120개입, 120개입, 1개",
           "price": "6,800원",
           "discount_rate": 66,
@@ -1518,24 +1527,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/37437416627168-d59932cd-085b-4759-9b64-e91e47bd888b.jpg",
           "url": "https://link.coupang.com/a/iPllJZf22S",
           "_ts": 1795156867.260134
-        },
-        {
-          "name": "가루비 쟈가리코 명란버터, 52g, 12개",
-          "price": "12,420원",
-          "discount_rate": 39,
-          "priceAt": "11.20 15:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/cc83/88ffde77dcd3abc2e290b01c895d32e2eafe5d30264e906446fcd897b2c3.jpg",
-          "url": "https://link.coupang.com/a/iPiyzQfHm8",
-          "_ts": 1795154520.558149
-        },
-        {
-          "name": "델몬트 필리핀 바나나, 1.4kg 내외, 1개",
-          "price": "2,780원",
-          "discount_rate": 44,
-          "priceAt": "11.20 14:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/370474766020015-8d1402c6-dfce-43c2-aca8-2143c2e41c79.jpg",
-          "url": "https://link.coupang.com/a/iPioxgUQ9c",
-          "_ts": 1795154385.558809
         }
       ]
     },
