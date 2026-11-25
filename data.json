@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "듀이트리 하이 아미노 올 클렌징 밀크 본품 200ml + 리필 200ml, 200ml, 1개",
+          "price": "12,230원",
+          "discount_rate": 34,
+          "priceAt": "11.25 11:28",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/10/27/15/2/4cee8b07-0d22-4a7b-b6d0-ddb459761837.jpg",
+          "url": "https://link.coupang.com/a/iXlOK2fub6",
+          "_ts": 1795573710.337621
+        },
+        {
           "name": "디에스도씨 남성용 피치기모 긴팔 카라 잠옷 상하의 세트, FREE, 타탄",
           "price": "11,400원",
           "discount_rate": 40,
@@ -1536,24 +1545,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/b3c3/1fe1661052618e1275bc25ded08962d0fe3330dd88381a392e6a1584447b.jpg",
           "url": "https://link.coupang.com/a/iO32ajgoM0",
           "_ts": 1795142326.885772
-        },
-        {
-          "name": "퀘이커 마시는 오트밀 오트 앤 그레인 낱봉팩, 50g, 20개",
-          "price": "12,110원",
-          "discount_rate": 44,
-          "priceAt": "11.20 11:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/03/06/13/1/f811d58d-58ca-4ad4-a9e1-d744f8395a0b.jpg",
-          "url": "https://link.coupang.com/a/iO1mYZlbl6",
-          "_ts": 1795140090.987617
-        },
-        {
-          "name": "전두유 완전두유 더진한 서리태 무가당 99.9, 190ml, 24개",
-          "price": "11,830원",
-          "discount_rate": 24,
-          "priceAt": "11.20 10:52",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/08/11/9/615838d0-8e1d-47e7-9604-2f471710b6bd.jpg",
-          "url": "https://link.coupang.com/a/iO0IkNVa0W",
-          "_ts": 1795139541.806447
         }
       ]
     },
