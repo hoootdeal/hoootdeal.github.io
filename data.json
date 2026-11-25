@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "스노우밸리 심플프라이 슈스트링 감자튀김 (냉동), 2kg, 1개",
+          "price": "7,080원",
+          "discount_rate": 35,
+          "priceAt": "11.25 12:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/d6y0piyl/91c204c74ec44889aa04378edd42ac35.jpg",
+          "url": "https://link.coupang.com/a/iXr5Ud5CeW",
+          "_ts": 1795578981.185386
+        },
+        {
           "name": "밀크앤허니 스위트크림 치즈케익 (냉동), 520g, 1개",
           "price": "8,950원",
           "discount_rate": 31,
@@ -1527,33 +1536,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/hbra818y/619602677c944d57a7c40b4146d54bfe.jpg",
           "url": "https://link.coupang.com/a/iPclM40czk",
           "_ts": 1795149311.3922791
-        },
-        {
-          "name": "롯데제과 퀘이커 오트 그래놀라 시리얼 골든넛츠, 350g, 2개",
-          "price": "9,220원",
-          "discount_rate": 45,
-          "priceAt": "11.20 12:52",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/df3b728b-d86b-4f8a-a5aa-5844d43075595486241383359773147.png",
-          "url": "https://link.coupang.com/a/iO9ky7Q9Se",
-          "_ts": 1795146772.628639
-        },
-        {
-          "name": "리더스 인솔루션 바세린 모이스처 마스크, 10개입, 1개",
-          "price": "3,870원",
-          "discount_rate": 51,
-          "priceAt": "11.20 12:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/75fe/ed673d08184fa080fe4ad875f04c823e7f29ab7187654c37294ae8fd5913.jpg",
-          "url": "https://link.coupang.com/a/iO7JTn4OBM",
-          "_ts": 1795145438.353018
-        },
-        {
-          "name": "아가드 모서리 보호대 일반형, 2m, 크림, 1개",
-          "price": "2,990원",
-          "discount_rate": 40,
-          "priceAt": "11.20 12:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/4e50/de0e0985ceb8f360387379c9dc94f15d0ba248f52b57dcdc186435076e35.jpg",
-          "url": "https://link.coupang.com/a/iO6Lbk5wpo",
-          "_ts": 1795144616.430563
         }
       ]
     },
