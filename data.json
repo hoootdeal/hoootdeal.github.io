@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "이금기 팬더 굴소스, 320g, 2개",
+          "price": "4,980원",
+          "discount_rate": 30,
+          "priceAt": "11.25 16:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/dfaa77a1-e3be-4adb-9c62-fca730739a389495682882417082134.png",
+          "url": "https://link.coupang.com/a/iXHYsamL6a",
+          "_ts": 1795592313.930858
+        },
+        {
           "name": "르샤트라1802 섬유탈취제 뮤게부케 본품, 400ml, 2개",
           "price": "5,920원",
           "discount_rate": 32,
@@ -1527,15 +1536,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/06/02/11/8/e541eaf3-33ad-4d27-91f9-13e5a84f9042.jpg",
           "url": "https://link.coupang.com/a/iPp0qr5yKG",
           "_ts": 1795160776.380852
-        },
-        {
-          "name": "데일리라이크 타포린 분리수거함 세트, 혼합색상, 25 x 35 x 60 cm, 1세트",
-          "price": "7,900원",
-          "discount_rate": 39,
-          "priceAt": "11.20 16:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/102381125085611-46732bdf-eea0-40e5-b876-a88b254c6b10.jpg",
-          "url": "https://link.coupang.com/a/iPnK8KN8eq",
-          "_ts": 1795158890.7335522
         }
       ]
     },
