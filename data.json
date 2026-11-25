@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "보솜이 리얼코튼 오가니크 밴드형 기저귀 남여공용, 2단계, 528매",
+          "price": "111,760원",
+          "discount_rate": 41,
+          "priceAt": "11.25 20:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/78e46817-b8f5-4345-8b24-ec5af18375453050873645379611149.png",
+          "url": "https://link.coupang.com/a/iXXPfP63Mq",
+          "_ts": 1795605621.2762518
+        },
+        {
           "name": "빙그레 뽀로로 요구르트, 80ml, 20개입, 1개",
           "price": "6,940원",
           "discount_rate": 25,
@@ -1554,15 +1563,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/22866505581581-3f70f679-ff9c-4f01-a7d4-92b9bebd5be6.jpg",
           "url": "https://link.coupang.com/a/iPF5PNToDA",
           "_ts": 1795174284.312917
-        },
-        {
-          "name": "제이숲 실크 케라틴 단백질 트리트먼트 피치 에디션, 500ml, 2개",
-          "price": "19,650원",
-          "discount_rate": 59,
-          "priceAt": "11.20 19:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/92464057737931-8daef7de-863f-432e-8c15-825da9763d6d.jpg",
-          "url": "https://link.coupang.com/a/iPDGsuqlhI",
-          "_ts": 1795172260.2717
         }
       ]
     },
