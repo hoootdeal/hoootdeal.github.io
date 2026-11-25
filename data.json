@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "남양과수원 제로 사과, 190ml, 48개",
+          "price": "13,110원",
+          "discount_rate": 56,
+          "priceAt": "11.26 08:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2086a568-c3bf-4cb7-96d3-e5247f63948d6760688178313545018.png",
+          "url": "https://link.coupang.com/a/iYPMQINsiG",
+          "_ts": 1795650939.0155141
+        },
+        {
           "name": "호재준 칠레산 블루베리 (냉동), 1kg, 1개",
           "price": "5,900원",
           "discount_rate": 44,
@@ -1527,15 +1536,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/25/11/5/24023116-346c-4943-939b-0ce1e4b9ff08.jpg",
           "url": "https://link.coupang.com/a/iQxwxHBkku",
           "_ts": 1795219141.80074
-        },
-        {
-          "name": "데니그리스 유기농 사과식초, 500ml, 1개",
-          "price": "4,960원",
-          "discount_rate": 27,
-          "priceAt": "11.21 08:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/33042786775771-d55a2fe7-649d-4b4d-9718-28704a5280b3.jpg",
-          "url": "https://link.coupang.com/a/iQwsvTQeFo",
-          "_ts": 1795218249.774281
         }
       ]
     },
