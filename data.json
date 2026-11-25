@@ -1536,6 +1536,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "셰프초이스 한입 치즈 너비아니, 700g, 1개",
+          "price": "8,210원",
+          "discount_rate": 47,
+          "priceAt": "11.25 15:53",
+          "image": "https://shopping.toss.im/live/taca/ai/YmU2MmZm/QU1EUE9aUWJiWDZhWUJKRmRqUDdqUEg4THRrYzJkNjRoSStCRnpKYW1zck0.png",
+          "url": "https://toss.shopping/_m/lD9lW7A5",
+          "_ts": 1795589593.652822,
+          "_product_id": "106842105"
+        },
+        {
           "name": "앙쥬 24K 골드 앤 펄 하이드로겔 아이패치, 60매입, 1개",
           "price": "7,720원",
           "discount_rate": 77,
