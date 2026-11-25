@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "곰곰 대추방울토마토, 750g, 1개",
+          "price": "4,080원",
+          "discount_rate": 35,
+          "priceAt": "11.25 20:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3634332787567614-6b53a5da-bb72-4a60-84a1-952bfe99dd1f.jpg",
+          "url": "https://link.coupang.com/a/iX0pnbo3EG",
+          "_ts": 1795607791.055983
+        },
+        {
           "name": "보솜이 리얼코튼 오가니크 밴드형 기저귀 남여공용, 2단계, 528매",
           "price": "111,760원",
           "discount_rate": 41,
@@ -1545,15 +1554,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/256051856424463-3a22aac9-1d2a-4a35-ae17-52b73be18334.jpg",
           "url": "https://link.coupang.com/a/iPKJSVsICq",
           "_ts": 1795178183.658439
-        },
-        {
-          "name": "하인즈 리듀스드 슈가 토마토 케찹, 369g, 1개",
-          "price": "3,130원",
-          "discount_rate": 28,
-          "priceAt": "11.20 20:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/a337/bc12eb77a94ef4aff632c19e7605ae4b00b78226b33b248af61aa77ee2fa.jpg",
-          "url": "https://link.coupang.com/a/iPHjGiCfRJ",
-          "_ts": 1795175311.1064231
         }
       ]
     },
@@ -2370,16 +2370,6 @@
           "_ts": 1795186944.4430861,
           "_flash": true,
           "_product_id": "2234277879"
-        },
-        {
-          "name": "에브리워터 무라벨, 500ml, 40개",
-          "price": "7,880원",
-          "discount_rate": 60,
-          "priceAt": "11.20 20:50",
-          "image": "https://shopping.toss.im/live/temp/2026-02-17/32d41410-98f1-42d9-a442-9e8820fad904.jpeg",
-          "url": "https://toss.shopping/_m/l2Xvm6oc",
-          "_ts": 1795175442.304278,
-          "_product_id": "12833301"
         }
       ]
     },
