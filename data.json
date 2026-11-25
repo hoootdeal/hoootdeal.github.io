@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "지도표성경 소금없이 기름 발라 구운 순한김, 4g, 32개",
+          "price": "8,650원",
+          "discount_rate": 47,
+          "priceAt": "11.26 07:46",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/03/23/16/9/3e230f8e-e2da-4fcc-924e-f0a8ee282248.jpg",
+          "url": "https://link.coupang.com/a/iYKS4wWJ8m",
+          "_ts": 1795646809.778136
+        },
+        {
           "name": "스니커즈 미니스 초코바, 1.098kg, 1개",
           "price": "12,570원",
           "discount_rate": 31,
@@ -1527,33 +1536,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/07/24/17/9/9b1d8b51-cd68-47e6-bfb9-322502ee839c.jpg",
           "url": "https://link.coupang.com/a/iQtLSI2tXM",
           "_ts": 1795215993.5472362
-        },
-        {
-          "name": "퀘이커 마시는 오트밀 단백질, 80g, 16개",
-          "price": "11,530원",
-          "discount_rate": 60,
-          "priceAt": "11.21 07:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/03/06/17/1/0883b106-8481-4dc5-bacb-5342e3918a6d.png",
-          "url": "https://link.coupang.com/a/iQrNTNQBOK",
-          "_ts": 1795214341.529174
-        },
-        {
-          "name": "오리온 초코칩쿠키 말차라떼맛, 104g, 3개",
-          "price": "3,380원",
-          "discount_rate": 30,
-          "priceAt": "11.21 07:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/d6a5ffb1-b8b7-42df-b5ac-05f3e9afcecb17460439166442798584.png",
-          "url": "https://link.coupang.com/a/iQqQNOqFKS",
-          "_ts": 1795213541.994328
-        },
-        {
-          "name": "페리오 거품의 혁신 칫솔, 1개입, 1개",
-          "price": "990원",
-          "discount_rate": 66,
-          "priceAt": "11.21 07:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/06/16/17/9/ef34d777-5012-40e7-91ab-acce00657509.jpg",
-          "url": "https://link.coupang.com/a/iQppVNmqv6",
-          "_ts": 1795212337.9614038
         }
       ]
     },
