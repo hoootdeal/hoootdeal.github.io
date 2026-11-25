@@ -1554,6 +1554,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "꿀이구마 맛병아리콩, 20g, 20개입, 2개",
+          "price": "12,010원",
+          "discount_rate": 44,
+          "priceAt": "11.25 10:25",
+          "image": "https://shopping.toss.im/fc9/live/product/848052255/fc930015-b552-453e-999d-d2e266011bac.jpg",
+          "url": "https://toss.shopping/_m/FIiPVP3i",
+          "_ts": 1795569910.441314,
+          "_product_id": "2681063325"
+        },
+        {
           "name": "맛생각 시골 전통 된장찌개, 600g, 5개",
           "price": "14,980원",
           "discount_rate": 57,
@@ -2353,16 +2363,6 @@
           "url": "https://toss.shopping/_m/PykC560C",
           "_ts": 1795143989.633018,
           "_product_id": "156685065"
-        },
-        {
-          "name": "수타식 천왕 짜장면, 150g, 10인분",
-          "price": "11,910원",
-          "discount_rate": 54,
-          "priceAt": "11.20 10:12",
-          "image": "https://shopping.toss.im/live/taca/ai/ZGMyNzY2/QUtrMXNHdlZSdENxRXFoV2FQUlNzRnFxM1NKUks0SCt5WkFUYXBzaWRrK1M.png",
-          "url": "https://toss.shopping/_m/VHVyYYa4",
-          "_ts": 1795137172.159394,
-          "_product_id": "160282629"
         }
       ]
     },
