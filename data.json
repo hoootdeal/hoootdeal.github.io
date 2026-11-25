@@ -1554,15 +1554,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/a337/bc12eb77a94ef4aff632c19e7605ae4b00b78226b33b248af61aa77ee2fa.jpg",
           "url": "https://link.coupang.com/a/iPHjGiCfRJ",
           "_ts": 1795175311.1064231
-        },
-        {
-          "name": "헬스헬퍼 맥스컷 CCA 클렌즈 주스 48시간, 1L, 1개",
-          "price": "5,690원",
-          "discount_rate": 64,
-          "priceAt": "11.20 20:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/22866505581581-3f70f679-ff9c-4f01-a7d4-92b9bebd5be6.jpg",
-          "url": "https://link.coupang.com/a/iPF5PNToDA",
-          "_ts": 1795174284.312917
         }
       ]
     },
@@ -1571,6 +1562,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "프로프룻 햇 부사사과, 최대15brix, 5kg, 1박스",
+          "price": "11,900원",
+          "discount_rate": 85,
+          "priceAt": "11.25 20:46",
+          "image": "https://shopping.toss.im/live/temp/2026-10-27/7d371d2d-be93-4ec4-b802-87c03a98c5eb.jpeg",
+          "url": "https://toss.shopping/_m/XVlEOiS4",
+          "_ts": 1795607167.723426,
+          "_product_id": "2701355367"
+        },
         {
           "name": "원김치 쪽파김치, 가정용, 2kg, 1개",
           "price": "8,450원",
