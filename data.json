@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "라라스윗 저당 딥크림 웨하스 헤이즐넛 초코바, 26g, 5개",
+          "price": "7,500원",
+          "discount_rate": 26,
+          "priceAt": "11.25 18:22",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/59fb7b97-7e3a-4feb-90af-7df85fe125301329704263252028768.png",
+          "url": "https://link.coupang.com/a/iXPnN9VWer",
+          "_ts": 1795598531.329642
+        },
+        {
           "name": "솔루시안 PDRN + EGF 리바이탈라이징 크림, 50ml, 3개",
           "price": "22,230원",
           "discount_rate": 69,
@@ -1536,15 +1545,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/fa74/178b88fcc8d5c1f05026f96c5c217b9e22bcc6d6fb949435f96fc3aa58c8.jpg",
           "url": "https://link.coupang.com/a/iPynyxWSzs",
           "_ts": 1795167806.680904
-        },
-        {
-          "name": "비욘드 딥 모이스처 세럼 인 바디오일, 350ml, 1개",
-          "price": "17,600원",
-          "discount_rate": 32,
-          "priceAt": "11.20 17:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/238980888332923-6c9b3289-8c5f-4beb-8d07-0960a776f0bb.jpg",
-          "url": "https://link.coupang.com/a/iPu9gU9AYe",
-          "_ts": 1795165093.434749
         }
       ]
     },
