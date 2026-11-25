@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "청춘농장 오직 약콩두유, 190ml, 40개",
+          "price": "22,680원",
+          "discount_rate": 41,
+          "priceAt": "11.25 18:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1a2a83e4-d9ab-4f9e-9bb6-beedf46f696b5891149035577258729.png",
+          "url": "https://link.coupang.com/a/iXRMu0mBe8",
+          "_ts": 1795600544.907903
+        },
+        {
           "name": "라라스윗 저당 딥크림 웨하스 헤이즐넛 초코바, 26g, 5개",
           "price": "7,500원",
           "discount_rate": 26,
@@ -1536,15 +1545,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/05/18/14/1/57fca133-727f-4401-a5a3-7652d767af33.jpg",
           "url": "https://link.coupang.com/a/iPA8uxbt48",
           "_ts": 1795170121.319554
-        },
-        {
-          "name": "코튼원 순면 100% 여성 맥시팬티 5매입, 105, 혼합색상",
-          "price": "8,900원",
-          "discount_rate": 44,
-          "priceAt": "11.20 18:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/fa74/178b88fcc8d5c1f05026f96c5c217b9e22bcc6d6fb949435f96fc3aa58c8.jpg",
-          "url": "https://link.coupang.com/a/iPynyxWSzs",
-          "_ts": 1795167806.680904
         }
       ]
     },
