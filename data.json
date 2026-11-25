@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "동구밭 설거지 워싱바, 500g, 1개",
+          "price": "9,100원",
+          "discount_rate": 35,
+          "priceAt": "11.25 15:44",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/12153415420725-f6fed3a1-49e1-4184-9819-dc5126db1fe6.jpg",
+          "url": "https://link.coupang.com/a/iXD6wgBWI8",
+          "_ts": 1795589064.737174
+        },
+        {
           "name": "에스트라 테라크네365 액티브 세럼, 30ml, 1개",
           "price": "16,800원",
           "discount_rate": 34,
@@ -1518,15 +1527,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/102381125085611-46732bdf-eea0-40e5-b876-a88b254c6b10.jpg",
           "url": "https://link.coupang.com/a/iPnK8KN8eq",
           "_ts": 1795158890.7335522
-        },
-        {
-          "name": "허쉬 오리지널 핫초코분말, 450g, 1개입, 2개",
-          "price": "12,960원",
-          "discount_rate": 24,
-          "priceAt": "11.20 15:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/37437416627168-d59932cd-085b-4759-9b64-e91e47bd888b.jpg",
-          "url": "https://link.coupang.com/a/iPllJZf22S",
-          "_ts": 1795156867.260134
         }
       ]
     },
