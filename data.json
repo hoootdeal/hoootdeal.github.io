@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "루나 픽서 파우더팩트 8g, 뉴트럴 베이지, 1개",
+          "price": "4,950원",
+          "discount_rate": 57,
+          "priceAt": "11.25 14:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1115931204872428-7bd68c96-7d65-4214-b09f-bdcf2e22eb7e.jpg",
+          "url": "https://link.coupang.com/a/iXxHUZ740W",
+          "_ts": 1795583691.849347
+        },
+        {
           "name": "앤쿡 어린이 한우 사골 곰국 (냉동), 200g, 8개",
           "price": "10,350원",
           "discount_rate": 26,
@@ -1527,24 +1536,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/121717239097512-5bde4ee7-c775-4f6e-84d1-32dc245eba17.jpg",
           "url": "https://link.coupang.com/a/iPfO0DvW2e",
           "_ts": 1795152225.8300958
-        },
-        {
-          "name": "친환경 인증 토마토, 3kg, 1박스",
-          "price": "14,980원",
-          "discount_rate": 44,
-          "priceAt": "11.20 13:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/185913734219372-7b751a70-7038-4aa2-949f-30f99cb7f59f.jpg",
-          "url": "https://link.coupang.com/a/iPdhorZJkq",
-          "_ts": 1795150090.077031
-        },
-        {
-          "name": "바브키즈 절개 면 팬츠, 아이보리, 11호",
-          "price": "8,420원",
-          "discount_rate": 70,
-          "priceAt": "11.20 13:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/hbra818y/619602677c944d57a7c40b4146d54bfe.jpg",
-          "url": "https://link.coupang.com/a/iPclM40czk",
-          "_ts": 1795149311.3922791
         }
       ]
     },
@@ -2351,16 +2342,6 @@
           "url": "https://toss.shopping/_m/1v9cPKZ1",
           "_ts": 1795161007.8902621,
           "_product_id": "209977279"
-        },
-        {
-          "name": "국내산 세척사과, 5kg, 1박스",
-          "price": "15,050원",
-          "discount_rate": 72,
-          "priceAt": "11.20 14:11",
-          "image": "https://shopping.toss.im/live/temp/2026-08-07/a632e06d-22bc-4d02-a12a-6a532bc5197a.png",
-          "url": "https://toss.shopping/_m/b1eqOdqa",
-          "_ts": 1795151487.093813,
-          "_product_id": "2431229133"
         }
       ]
     },
