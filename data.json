@@ -1554,6 +1554,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "익스트림 단백질 20g 슬림쉐이크, 더블초코, 45g, 7포, 1세트",
+          "price": "11,890원",
+          "discount_rate": 66,
+          "priceAt": "11.26 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-10-12/3a39b71e-9914-4874-8cb6-dcdf4d610943.png",
+          "url": "https://toss.shopping/_m/TqZoQR9d",
+          "_ts": 1795618919.616559,
+          "_flash": true,
+          "_product_id": "166431743"
+        },
+        {
+          "name": "베라 무해력 4ZERO 뽑아쓰는 미용티슈, 250매, 6팩",
+          "price": "6,390원",
+          "discount_rate": 69,
+          "priceAt": "11.26 00:01",
+          "image": "https://shopping.toss.im/live/taca/ai/YjY0NWNi/ZS9oQTlrTDRTTDBtZ0ZpcFJJU1NEMHlza2c1b3JkS0VtaVFNSGJ0SEtlZz0.png",
+          "url": "https://toss.shopping/_m/5HQGiDqh",
+          "_ts": 1795618919.616517,
+          "_flash": true,
+          "_product_id": "1487103361"
+        },
+        {
+          "name": "무설탕 비타민C 캔디, 12가지맛, 1kg, 1개",
+          "price": "11,600원",
+          "discount_rate": 53,
+          "priceAt": "11.26 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-08-18/ebcb6989-5b28-471f-a096-21755dd423bd.png",
+          "url": "https://toss.shopping/_m/DevYvYEp",
+          "_ts": 1795618919.616481,
+          "_flash": true,
+          "_product_id": "2155181513"
+        },
+        {
           "name": "프로프룻 햇 부사사과, 최대15brix, 5kg, 1박스",
           "price": "11,900원",
           "discount_rate": 85,
