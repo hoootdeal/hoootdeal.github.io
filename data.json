@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "앤쿡 어린이 한우 사골 곰국 (냉동), 200g, 8개",
+          "price": "10,350원",
+          "discount_rate": 26,
+          "priceAt": "11.25 13:34",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/70766934530670-05dbd27d-8791-4c30-bfb7-352c31fadc13.jpg",
+          "url": "https://link.coupang.com/a/iXuQhRxj2W",
+          "_ts": 1795581286.092194
+        },
+        {
           "name": "스노우밸리 심플프라이 슈스트링 감자튀김 (냉동), 2kg, 1개",
           "price": "7,080원",
           "discount_rate": 35,
