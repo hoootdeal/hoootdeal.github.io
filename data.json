@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "호재준 칠레산 블루베리 (냉동), 1kg, 1개",
+          "price": "5,900원",
+          "discount_rate": 44,
+          "priceAt": "11.26 08:23",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2022/09/02/14/6/61dbbab1-9fe2-4b16-b70f-6b8edea27f7f.jpg",
+          "url": "https://link.coupang.com/a/iYNuYF5XGu",
+          "_ts": 1795649006.629733
+        },
+        {
           "name": "지도표성경 소금없이 기름 발라 구운 순한김, 4g, 32개",
           "price": "8,650원",
           "discount_rate": 47,
@@ -1527,15 +1536,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/33042786775771-d55a2fe7-649d-4b4d-9718-28704a5280b3.jpg",
           "url": "https://link.coupang.com/a/iQwsvTQeFo",
           "_ts": 1795218249.774281
-        },
-        {
-          "name": "에뛰드하우스 립 앤 아이 리무버, 250ml, 1개",
-          "price": "4,370원",
-          "discount_rate": 34,
-          "priceAt": "11.21 08:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/07/24/17/9/9b1d8b51-cd68-47e6-bfb9-322502ee839c.jpg",
-          "url": "https://link.coupang.com/a/iQtLSI2tXM",
-          "_ts": 1795215993.5472362
         }
       ]
     },
@@ -2352,39 +2352,6 @@
           "url": "https://toss.shopping/_m/pW7cbhgD",
           "_ts": 1795221148.066387,
           "_product_id": "2635662717"
-        },
-        {
-          "name": "자동차 하이브리드 와이퍼, 600mm + 450mm, 1세트",
-          "price": "5,110원",
-          "discount_rate": 74,
-          "priceAt": "11.21 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/YTMzZTVl/QU0vbC80M1VHVUE3VFhKMDhqZVB5M0YxNHNvSGhRNTAvUDFZZzRFQ01YK3E.png",
-          "url": "https://toss.shopping/_m/xjBw1u8n",
-          "_ts": 1795215826.142447,
-          "_flash": true,
-          "_product_id": "193293915"
-        },
-        {
-          "name": "프로프룻 샤인머스켓, 특품, 2kg, 1박스",
-          "price": "9,800원",
-          "discount_rate": 85,
-          "priceAt": "11.21 08:03",
-          "image": "https://shopping.toss.im/live/temp/2026-08-05/d1036994-fd95-42f5-82be-741dff71ead8.jpeg",
-          "url": "https://toss.shopping/_m/xhnmVJBp",
-          "_ts": 1795215826.142424,
-          "_flash": true,
-          "_product_id": "2578376693"
-        },
-        {
-          "name": "풍년보감 6년근 고려홍삼정 에브리데이100, 15g, 100포",
-          "price": "16,510원",
-          "discount_rate": 69,
-          "priceAt": "11.21 08:03",
-          "image": "https://shopping.toss.im/live/temp/2026-01-23/c416b67c-4e95-4900-8cf8-2a49bceb77e7.jpeg",
-          "url": "https://toss.shopping/_m/DGvYRSRg",
-          "_ts": 1795215826.142393,
-          "_flash": true,
-          "_product_id": "33427621"
         }
       ]
     },
