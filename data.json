@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "홍영의 금참치액, 480ml, 1개",
+          "price": "6,650원",
+          "discount_rate": 26,
+          "priceAt": "11.25 10:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/172813169066104-25fc18af-84e9-41c1-8b94-80eb2bc989b4.jpg",
+          "url": "https://link.coupang.com/a/iXgnurzddY",
+          "_ts": 1795569144.497586
+        },
+        {
           "name": "샥즈 E310 오픈닷 원 이어클립형 블루투스 이어폰, 오리지널 블랙, 단일상품",
           "price": "128,000원",
           "discount_rate": 61,
@@ -1536,15 +1545,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/08/11/9/615838d0-8e1d-47e7-9604-2f471710b6bd.jpg",
           "url": "https://link.coupang.com/a/iO0IkNVa0W",
           "_ts": 1795139541.806447
-        },
-        {
-          "name": "터치인솔 프리티필터 인마이하트 스틱 블러셔 6g, 펀치핑크, 1개",
-          "price": "5,100원",
-          "discount_rate": 64,
-          "priceAt": "11.20 10:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/02/03/11/2/873e7b4f-fc8f-47d4-9a65-a719440c7934.jpg",
-          "url": "https://link.coupang.com/a/iOXN433zFI",
-          "_ts": 1795137099.069293
         }
       ]
     },
