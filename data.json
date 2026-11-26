@@ -1644,15 +1644,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/db564a77-2960-4d2a-a85e-fce504835e4d560952500723513103.png",
           "url": "https://link.coupang.com/a/iR82BIuIdE",
           "_ts": 1795302702.084859
-        },
-        {
-          "name": "행복한엄마밥상 씻거나 불릴 필요 없는 찰진 체질 균형식 영양8곡, 3kg, 1개",
-          "price": "10,980원",
-          "discount_rate": 50,
-          "priceAt": "11.22 07:52",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1134113956957974-8bb9be1b-a794-46d8-9e06-c6d0d34cc6f8.jpg",
-          "url": "https://link.coupang.com/a/iR7HhWQ0k0",
-          "_ts": 1795301573.2793322
         }
       ]
     },
@@ -1661,6 +1652,39 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "헬로 바이오 생유산균 19 프로바이오틱스, 30캡슐, 3개",
+          "price": "10,000원",
+          "discount_rate": 64,
+          "priceAt": "11.27 08:02",
+          "image": "https://shopping.toss.im/live/temp/2026-04-06/4d90d787-c953-45e0-97d5-a1276f368dfb.jpeg",
+          "url": "https://toss.shopping/_m/J2cJYbuf",
+          "_ts": 1795734175.050804,
+          "_flash": true,
+          "_product_id": "1414687547"
+        },
+        {
+          "name": "오가닉프렌즈 정성 용융소금 구운소금, 250g, 1개",
+          "price": "9,110원",
+          "discount_rate": 64,
+          "priceAt": "11.27 08:02",
+          "image": "https://shopping.toss.im/live/taca/ai/NTc2NzE3/U1B0MUhlY2Q1Wk1oSERMRyt6TFpxSUxqenpXZk9xQmE3amhmMHJFTmNTMD0.png",
+          "url": "https://toss.shopping/_m/nR9frrVu",
+          "_ts": 1795734175.050765,
+          "_flash": true,
+          "_product_id": "640413731"
+        },
+        {
+          "name": "교동 소고기 미역국, 500g, 5개",
+          "price": "11,840원",
+          "discount_rate": 56,
+          "priceAt": "11.27 08:02",
+          "image": "https://shopping.toss.im/live/temp/2026-09-10/3c1be388-b167-46ca-a268-0321e362b07e.jpeg",
+          "url": "https://toss.shopping/_m/PEmw1FH8",
+          "_ts": 1795734175.050729,
+          "_flash": true,
+          "_product_id": "89641005"
+        },
         {
           "name": "센티베르 탈모증상완화 비듬샴푸, 약산성, 두피 쿨링, 정수리냄새, 1000ml, 1+1 구성, 총 2개",
           "price": "13,870원",
