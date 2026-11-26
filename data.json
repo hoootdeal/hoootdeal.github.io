@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "개성 감자만두 (냉동), 400g, 2개",
+          "price": "5,980원",
+          "discount_rate": 37,
+          "priceAt": "11.26 20:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1326698982312748-eb1ad7bc-e02c-406e-8465-a565c338e5f0.jpg",
+          "url": "https://link.coupang.com/a/iZDvpfA9lc",
+          "_ts": 1795692672.233866
+        },
+        {
           "name": "첵스초코 스노우 초코볼 시리얼, 420g, 2개",
           "price": "6,780원",
           "discount_rate": 53,
@@ -2443,16 +2452,6 @@
           "url": "https://toss.shopping/_m/HB6xA0zn",
           "_ts": 1795263280.743521,
           "_product_id": "2725837549"
-        },
-        {
-          "name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
-          "price": "5,490원",
-          "discount_rate": 62,
-          "priceAt": "11.21 19:59",
-          "image": "https://shopping.toss.im/live/taca/ai/YmI1NGJk/QUpobU9jOXRzYlNac25uSVpEbW03Wm1lVTF0TXkweFlNekR6VXNubkhLY00.png",
-          "url": "https://toss.shopping/_m/7cAsXrbr",
-          "_ts": 1795258782.580909,
-          "_product_id": "241796467"
         }
       ]
     },
