@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "CJ제일제당 소바바 황금홀릭 후라이드 뼈있는 치킨 반마리양 (냉동), 410g, 2개",
+          "price": "9,980원",
+          "discount_rate": 45,
+          "priceAt": "11.26 19:19",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/163363727487659-949a582f-da5c-4686-8318-ccd506be8f16.png",
+          "url": "https://link.coupang.com/a/iZym1H3UJw",
+          "_ts": 1795688362.8025112
+        },
+        {
           "name": "프레샤인 못난이사과, 3kg, 1개",
           "price": "11,830원",
           "discount_rate": 31,
@@ -1599,15 +1608,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/157127905251567-bfcfa6e0-e7d9-4757-a005-f3e5e843b3ed.jpg",
           "url": "https://link.coupang.com/a/iRhspSxl4C",
           "_ts": 1795257712.233065
-        },
-        {
-          "name": "파티굿즈 LED 조명 크리스마스장식 인테리어 소품 데코용품, 트리조명가랜드, 1개, 트리, 3.5M",
-          "price": "11,990원",
-          "discount_rate": 31,
-          "priceAt": "11.21 19:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/65df/30cb0dca527316512ed43da7e7b420f8f9966ab5d1281fec61b982038ced.JPG",
-          "url": "https://link.coupang.com/a/iReLR5ru0W",
-          "_ts": 1795255455.5609758
         }
       ]
     },
