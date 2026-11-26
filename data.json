@@ -1545,24 +1545,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/9318016546751-7cf4c7b3-8bf9-4498-8867-ab8c78774704.jpg",
           "url": "https://link.coupang.com/a/iQP3uJnH9U",
           "_ts": 1795234704.489839
-        },
-        {
-          "name": "치토스 매콤달콤한맛, 82g, 3개",
-          "price": "3,930원",
-          "discount_rate": 56,
-          "priceAt": "11.21 12:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/891774781863269-c6e2c923-be41-4dde-bead-726e9d809e80.jpg",
-          "url": "https://link.coupang.com/a/iQNwLU7gJg",
-          "_ts": 1795232580.761239
-        },
-        {
-          "name": "네이쳐러브메레 프리미엄 녹두 물티슈 캡형, 77g, 70매, 10개",
-          "price": "14,410원",
-          "discount_rate": 36,
-          "priceAt": "11.21 12:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/jpblshen/ae3a48702a474cc2804a891963c0b6a6.jpg",
-          "url": "https://link.coupang.com/a/iQNsFJTudo",
-          "_ts": 1795232526.5329542
         }
       ]
     },
@@ -1571,6 +1553,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "계혁명 염지통닭, 600g, 4마리",
+          "price": "12,700원",
+          "discount_rate": 58,
+          "priceAt": "11.26 12:47",
+          "image": "https://shopping.toss.im/live/taca/ai/NTk4ZjMw/VGgvK2F5eFAzaEdMVnM5QU4xNWNiamViak9Dbk1CMkJCK3h3UWZRQzhEOD0.png",
+          "url": "https://toss.shopping/_m/9LwhkWEy",
+          "_ts": 1795664869.682506,
+          "_product_id": "101753995"
+        },
         {
           "name": "애슐리 인기 볶음밥 3종, 갈릭스테이크볶음밥 + 케이준볶음밥 + 통새우볶음밥, 12인분, 920g, 3개",
           "price": "21,893원",
