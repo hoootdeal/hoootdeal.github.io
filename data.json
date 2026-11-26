@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "퀘이커 마시는 오트밀 오트&우리쌀, 50g, 20개",
+          "price": "17,440원",
+          "discount_rate": 38,
+          "priceAt": "11.27 07:39",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/03/09/9/2/e40308c8-23ca-48ca-ab55-8cfef4132f42.png",
+          "url": "https://link.coupang.com/a/i0pghwgEfc",
+          "_ts": 1795732770.255811
+        },
+        {
           "name": "오리온 오감자 감자그라탕맛, 95g, 3개",
           "price": "3,950원",
           "discount_rate": 32,
@@ -1644,15 +1653,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1134113956957974-8bb9be1b-a794-46d8-9e06-c6d0d34cc6f8.jpg",
           "url": "https://link.coupang.com/a/iR7HhWQ0k0",
           "_ts": 1795301573.2793322
-        },
-        {
-          "name": "순수한집 곤약쫀드기 현미맛, 600g, 1개",
-          "price": "8,590원",
-          "discount_rate": 31,
-          "priceAt": "11.22 07:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1280555334973504-0ea97dd3-c304-4bf2-ab51-f47c83fe0775.jpg",
-          "url": "https://link.coupang.com/a/iR4Zb55Y04",
-          "_ts": 1795299295.3396192
         }
       ]
     },
