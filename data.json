@@ -1617,6 +1617,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "예진원 국내산 ABC주스, 80ml, 35개",
+          "price": "8,900원",
+          "discount_rate": 55,
+          "priceAt": "11.26 19:20",
+          "image": "https://shopping.toss.im/live/temp/2026-08-28/780143de-df4a-49b0-9700-2d92628fb408.jpeg",
+          "url": "https://toss.shopping/_m/zJSqrz5u",
+          "_ts": 1795688407.042791,
+          "_product_id": "2637055651"
+        },
+        {
           "name": "퍼기 3중 밀폐 실리콘 지퍼백, 화이트, 500ml, 1개 + 850ml, 1개 + 1.5L, 1개, 1세트",
           "price": "9,900원",
           "discount_rate": 86,
