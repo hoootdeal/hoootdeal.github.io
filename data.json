@@ -1581,15 +1581,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/07/30/10/9/921f9205-6b36-4b82-ab9f-a0f91c23e36c.png",
           "url": "https://link.coupang.com/a/iQ9zm5CRVc",
           "_ts": 1795251088.65081
-        },
-        {
-          "name": "까사니 인덕션 볼리레 샤브샤브 냄비, 24cm, 단일 색상, 1개",
-          "price": "11,800원",
-          "discount_rate": 36,
-          "priceAt": "11.21 17:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3a6b/c6bda941c0cf5695ac5873e8ced41f20384d64e434cfa4c5f3061a120346.jpg",
-          "url": "https://link.coupang.com/a/iQ6F2GZT1o",
-          "_ts": 1795248660.5097978
         }
       ]
     },
@@ -1598,6 +1589,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "퍼기 3중 밀폐 실리콘 지퍼백, 화이트, 500ml, 1개 + 850ml, 1개 + 1.5L, 1개, 1세트",
+          "price": "9,900원",
+          "discount_rate": 86,
+          "priceAt": "11.26 17:22",
+          "image": "https://shopping.toss.im/live/temp/2025-05-30/253859c4-f7b7-4544-ab9b-1a4cf95786c5.jpeg",
+          "url": "https://toss.shopping/_m/7qWDn8lt",
+          "_ts": 1795681353.423278,
+          "_product_id": "109824065"
+        },
         {
           "name": "산들에담다 GAP 제주 노지 감귤, 특품, 대과, 5kg, 1박스",
           "price": "6,910원",
@@ -2416,16 +2417,6 @@
           "url": "https://toss.shopping/_m/dDyRMogi",
           "_ts": 1795251334.36386,
           "_product_id": "418843081"
-        },
-        {
-          "name": "한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 2개",
-          "price": "14,830원",
-          "discount_rate": 56,
-          "priceAt": "11.21 17:16",
-          "image": "https://shopping.toss.im/live/taca/ai/N2MyZTU3/QmF1VnNmcng5K1o0TUhpVXVJWmJCL0hmby95M1pPNHdSdURVWnZ4R3JOaz0.png",
-          "url": "https://toss.shopping/_m/Fwi7rm9h",
-          "_ts": 1795248992.770659,
-          "_product_id": "180195741"
         }
       ]
     },
