@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "모리나가 솔티드 캐러멜, 83g, 3개",
+          "price": "7,040원",
+          "discount_rate": 57,
+          "priceAt": "11.26 10:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1f65/88527861cf9f7c88a5fb5c4e7f5979704330e5a00f8169512627d419d3eb.png",
+          "url": "https://link.coupang.com/a/iYU54gLeou",
+          "_ts": 1795655386.278861
+        },
+        {
           "name": "히말라야 립 밤, 무색, 10g, 2개",
           "price": "3,900원",
           "discount_rate": 37,
@@ -1518,15 +1527,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/10750513201177-6c6f734e-aa50-4170-a2c7-e70b04373ee6.jpg",
           "url": "https://link.coupang.com/a/iQFkd7P4LI",
           "_ts": 1795225692.383635
-        },
-        {
-          "name": "테이크얼라이브 망고 멸균, 200ml, 24개",
-          "price": "7,900원",
-          "discount_rate": 39,
-          "priceAt": "11.21 10:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/07/20/17/0/c05541a1-35a6-47fa-b3ae-4db233c50277.png",
-          "url": "https://link.coupang.com/a/iQCpIhAx3Y",
-          "_ts": 1795223248.214138
         }
       ]
     },
