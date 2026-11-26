@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "꼬북칩 초코츄러스, 120g, 6개",
+          "price": "7,120원",
+          "discount_rate": 35,
+          "priceAt": "11.26 15:49",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/96f9a917-db3e-4054-b501-0f9ac5f2e2c07943128366235803925.png",
+          "url": "https://link.coupang.com/a/iZjlAZuofc",
+          "_ts": 1795675748.039278
+        },
+        {
           "name": "크라운 말차하임 첫잎 에디션, 284g, 3개",
           "price": "10,870원",
           "discount_rate": 52,
