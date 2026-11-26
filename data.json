@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "퀘이커 마시는 오트밀 귀리미숫가루, 50g, 20개",
+          "price": "13,210원",
+          "discount_rate": 36,
+          "priceAt": "11.26 11:56",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/03/06/18/0/a9e0a897-6e9d-4253-a86f-6afc98dc3904.jpg",
+          "url": "https://link.coupang.com/a/iY2GW1QCRM",
+          "_ts": 1795661763.690916
+        },
+        {
           "name": "칙필에이 소스, 473ml, 1개",
           "price": "8,220원",
           "discount_rate": 23,
@@ -1545,15 +1554,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/d58d/c657bae537427440c8c91b349c1d7fa246033bfdc90fd41ac94155327023.jpg",
           "url": "https://link.coupang.com/a/iQKEtx2jyS",
           "_ts": 1795230167.737698
-        },
-        {
-          "name": "베베쿡 유아용 사르르쿵 과자, 치즈요거트맛, 23g, 2개",
-          "price": "3,000원",
-          "discount_rate": 40,
-          "priceAt": "11.21 11:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/101444250545066-1250eac0-f1c7-4465-848c-7e687ce95546.jpg",
-          "url": "https://link.coupang.com/a/iQIh4YfVJs",
-          "_ts": 1795228185.32237
         }
       ]
     },
