@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "에뛰드 마이 쁘띠 팔레트 7.2g, 04 넌 나만 바라..., 1개, 04 넌 나만 바라밤",
+          "price": "9,100원",
+          "discount_rate": 45,
+          "priceAt": "11.27 08:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/28/17/2/044bab1b-bd6d-4d28-97e0-1188122c257a.jpg",
+          "url": "https://link.coupang.com/a/i0uNJNeoX6",
+          "_ts": 1795737421.03603
+        },
+        {
           "name": "세브란스케어 구수한맛 미니 완전균형 영양식, 150ml, 24개",
           "price": "18,530원",
           "discount_rate": 40,
@@ -1626,24 +1635,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1155570306024914-e9962cfd-802d-46a3-8836-be46bf1e68cf.jpg",
           "url": "https://link.coupang.com/a/iSdIlGWZq0",
           "_ts": 1795306625.6674502
-        },
-        {
-          "name": "파스퇴르 위드맘 산양 100일 제왕 분유, 750g, 1개",
-          "price": "26,600원",
-          "discount_rate": 29,
-          "priceAt": "11.22 08:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/172841999549779-5ca129e1-c661-49a0-bd56-22a4d8c8d24d.jpg",
-          "url": "https://link.coupang.com/a/iSbsp6sa04",
-          "_ts": 1795304729.6427898
-        },
-        {
-          "name": "티젠 애플사이다 비니거, 250g, 1개",
-          "price": "9,900원",
-          "discount_rate": 32,
-          "priceAt": "11.22 08:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/01/14/10/4/830edb47-757d-4e7d-83b6-fe072586f4ec.jpg",
-          "url": "https://link.coupang.com/a/iSbb0f1j5M",
-          "_ts": 1795304508.321543
         }
       ]
     },
