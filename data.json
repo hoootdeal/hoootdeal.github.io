@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "호밍스 사골진곰탕, 500g, 5개",
+          "price": "4,360원",
+          "discount_rate": 24,
+          "priceAt": "11.26 19:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/805524090597350-fcd44cc2-2a1b-46c6-a23f-d2798915f5c4.jpg",
+          "url": "https://link.coupang.com/a/iZyt8Fk4UC",
+          "_ts": 1795688459.681511
+        },
+        {
           "name": "CJ제일제당 소바바 황금홀릭 후라이드 뼈있는 치킨 반마리양 (냉동), 410g, 2개",
           "price": "9,980원",
           "discount_rate": 45,
