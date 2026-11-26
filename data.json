@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "깨끗한나라 데일리 천연펄프 키친타올, 200매, 12개",
+          "price": "9,270원",
+          "discount_rate": 31,
+          "priceAt": "11.26 17:24",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/127465352445926-2bbd59ba-ce63-477d-a5bd-cba52585e425.jpg",
+          "url": "https://link.coupang.com/a/iZp956M896",
+          "_ts": 1795681471.865236
+        },
+        {
           "name": "팔도 뽀로로 제로 딸기맛, 235ml, 24개",
           "price": "10,900원",
           "discount_rate": 23,
