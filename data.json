@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "광식이 농장 완숙 토마토, 2kg, 1팩",
+          "price": "7,180원",
+          "discount_rate": 42,
+          "priceAt": "11.26 18:03",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/58900039452819-1029701b-29d2-4edd-963c-7f04cb8c9f05.jpg",
+          "url": "https://link.coupang.com/a/iZsVnZDJLw",
+          "_ts": 1795683791.1507561
+        },
+        {
           "name": "깨끗한나라 데일리 천연펄프 키친타올, 200매, 12개",
           "price": "9,270원",
           "discount_rate": 31,
@@ -1581,15 +1590,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/65df/30cb0dca527316512ed43da7e7b420f8f9966ab5d1281fec61b982038ced.JPG",
           "url": "https://link.coupang.com/a/iReLR5ru0W",
           "_ts": 1795255455.5609758
-        },
-        {
-          "name": "네이쳐밸리 크런치 오츠 앤 허니 바, 210g, 1개",
-          "price": "2,680원",
-          "discount_rate": 62,
-          "priceAt": "11.21 17:51",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/07/30/10/9/921f9205-6b36-4b82-ab9f-a0f91c23e36c.png",
-          "url": "https://link.coupang.com/a/iQ9zm5CRVc",
-          "_ts": 1795251088.65081
         }
       ]
     },
@@ -2416,16 +2416,6 @@
           "url": "https://toss.shopping/_m/7cAsXrbr",
           "_ts": 1795258782.580909,
           "_product_id": "241796467"
-        },
-        {
-          "name": "정성곳간 명인 강순의 국내산 도가니탕, 800g, 10개",
-          "price": "39,110원",
-          "discount_rate": 64,
-          "priceAt": "11.21 17:55",
-          "image": "https://shopping.toss.im/live/temp/2025-12-11/7fa29f7d-c56b-4a2a-9cc9-9d6a0551d4a0.jpeg",
-          "url": "https://toss.shopping/_m/dDyRMogi",
-          "_ts": 1795251334.36386,
-          "_product_id": "418843081"
         }
       ]
     },
