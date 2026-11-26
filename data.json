@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "세브란스케어 구수한맛 미니 완전균형 영양식, 150ml, 24개",
+          "price": "18,530원",
+          "discount_rate": 40,
+          "priceAt": "11.27 08:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/21204668580410-d3220bec-0d1a-4793-a2db-11d2d8b7b9b7.jpg",
+          "url": "https://link.coupang.com/a/i0rYwRzQDQ",
+          "_ts": 1795735049.682522
+        },
+        {
           "name": "퀘이커 마시는 오트밀 오트&우리쌀, 50g, 20개",
           "price": "17,440원",
           "discount_rate": 38,
@@ -1635,15 +1644,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/01/14/10/4/830edb47-757d-4e7d-83b6-fe072586f4ec.jpg",
           "url": "https://link.coupang.com/a/iSbb0f1j5M",
           "_ts": 1795304508.321543
-        },
-        {
-          "name": "오뚜기 실쏙 얇은피 잎새만두 고기 (냉동), 1.5kg, 2개",
-          "price": "16,600원",
-          "discount_rate": 51,
-          "priceAt": "11.22 08:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/db564a77-2960-4d2a-a85e-fce504835e4d560952500723513103.png",
-          "url": "https://link.coupang.com/a/iR82BIuIdE",
-          "_ts": 1795302702.084859
         }
       ]
     },
@@ -2474,72 +2474,6 @@
           "url": "https://toss.shopping/_m/zeNByVJ4",
           "_ts": 1795308356.834971,
           "_product_id": "10321923"
-        },
-        {
-          "name": "하마다 USB C타입 메탈 충전 케이블, 5개입, 1.5m, 혼합, 1세트",
-          "price": "5,670원",
-          "discount_rate": 62,
-          "priceAt": "11.22 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-08-19/a0e3560b-b750-497b-9de7-9e67771981fa.jpeg",
-          "url": "https://toss.shopping/_m/nfaO9i8n",
-          "_ts": 1795302261.322525,
-          "_flash": true,
-          "_product_id": "2622883189"
-        },
-        {
-          "name": "이롬 황성주 과채습관, 퍼플, 140ml, 24개",
-          "price": "8,050원",
-          "discount_rate": 49,
-          "priceAt": "11.22 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/YWZiNTQy/Wm12Tm0yY2JsbWJOazNac3l4NHhqRHBrYTJPVExNdHpsS3dNT1hCeDhNdz0.png",
-          "url": "https://toss.shopping/_m/J2YC4Rpm",
-          "_ts": 1795302261.322498,
-          "_flash": true,
-          "_product_id": "172413425"
-        },
-        {
-          "name": "베라 4ZERO 팝업 뽑아쓰는 키친타올, 3겹, 100매, 9팩",
-          "price": "6,200원",
-          "discount_rate": 68,
-          "priceAt": "11.22 08:04",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/ODQyMGY2/SXl3OGIza2VYQk9jdzhNRWdPR2g3RXVValp0NmNKeHhad2RlRUdjT1BsND0.png",
-          "url": "https://toss.shopping/_m/dZyzomLf",
-          "_ts": 1795302261.322465,
-          "_flash": true,
-          "_product_id": "1052241537"
-        },
-        {
-          "name": "웰니스바이오 홍삼진액365, 10g, 100포, 1박스",
-          "price": "15,710원",
-          "discount_rate": 64,
-          "priceAt": "11.22 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/NTk2OTFh/ZVAzeUdlek01eHZtWE1lYmg4ekdHYmJNWmhrN2VROUpwbG44NXVZWm1lWT0.png",
-          "url": "https://toss.shopping/_m/5lA6w9nz",
-          "_ts": 1795302234.904992,
-          "_flash": true,
-          "_product_id": "83928981"
-        },
-        {
-          "name": "코피코 커피 캔디, 800g, 2개",
-          "price": "10,860원",
-          "discount_rate": 54,
-          "priceAt": "11.22 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/MDRlMmI0/TWt2ZXlhMjBzWWl4eExITXpiazVNWE5QT1laek84WnpuTVk1alJ4T09Zdz0.png",
-          "url": "https://toss.shopping/_m/zfwSchbl",
-          "_ts": 1795302234.904962,
-          "_flash": true,
-          "_product_id": "183834725"
-        },
-        {
-          "name": "데코롤 뜯어쓰는 롤행주, 키친데코 20매 + 과일데코 20매, 1세트",
-          "price": "7,500원",
-          "discount_rate": 62,
-          "priceAt": "11.22 08:03",
-          "image": "https://shopping.toss.im/live/temp/2026-07-29/d5834706-0f76-487a-8afb-974e2dc6251a.jpeg",
-          "url": "https://toss.shopping/_m/jSQQX4UD",
-          "_ts": 1795302234.904922,
-          "_flash": true,
-          "_product_id": "2383840149"
         }
       ]
     },
