@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오리온 포카칩 어니언맛, 66g, 5개",
+          "price": "4,320원",
+          "discount_rate": 33,
+          "priceAt": "11.26 12:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/7979557210513-573e637b-cdcb-41c0-9878-1551750e164c.jpg",
+          "url": "https://link.coupang.com/a/iY5eGke0rs",
+          "_ts": 1795663899.883024
+        },
+        {
           "name": "퀘이커 마시는 오트밀 귀리미숫가루, 50g, 20개",
           "price": "13,210원",
           "discount_rate": 36,
