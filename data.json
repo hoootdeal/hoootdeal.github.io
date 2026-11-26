@@ -1653,6 +1653,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "홀리치 파로효소 프리미엄골드, 3g, 120포, 1개",
+          "price": "19,390원",
+          "discount_rate": 79,
+          "priceAt": "11.27 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/MjZhMTZi/ZU9QR1BCaHJuakhuSEhqajBqbXBhL2F3S2MxYTBEanh0N3gydERHeHg1ND0.png",
+          "url": "https://toss.shopping/_m/LSAD8c0x",
+          "_ts": 1795734202.5472,
+          "_flash": true,
+          "_product_id": "116799819"
+        },
+        {
+          "name": "햅푸드 17곡물쫀디기, 110g, 20개",
+          "price": "11,020원",
+          "discount_rate": 55,
+          "priceAt": "11.27 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/YjQxODVk/T1liMk1jNVpPYzU1NU00NXBoNzJuRzlwem5IK1BMV08rbXM3am84ZXB4dz0.png",
+          "url": "https://toss.shopping/_m/nlWy6jgB",
+          "_ts": 1795734202.547179,
+          "_flash": true,
+          "_product_id": "1621569651"
+        },
+        {
+          "name": "대한다업 순수 호박팥차, 1.5g, 100개입, 1개",
+          "price": "7,250원",
+          "discount_rate": 51,
+          "priceAt": "11.27 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MTY3NDRj/QUxoMEhrbTJjWk16MGN6THpuT3g1elRqUFBOTXdldzQ4Nnp4UERscDRkdFQ.png",
+          "url": "https://toss.shopping/_m/dl7Co8Mu",
+          "_ts": 1795734202.547148,
+          "_flash": true,
+          "_product_id": "96401127"
+        },
+        {
           "name": "헬로 바이오 생유산균 19 프로바이오틱스, 30캡슐, 3개",
           "price": "10,000원",
           "discount_rate": 64,
