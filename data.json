@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "뷰카 오브제 듀얼 초미세 탄력모 칫솔, 18개입, 1세트",
+          "price": "7,860원",
+          "discount_rate": 38,
+          "priceAt": "11.26 15:40",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/10/02/11/4/1b955b0d-6599-4e49-8a89-8aa06c9cc68d.jpg",
+          "url": "https://link.coupang.com/a/iZiKDak6mG",
+          "_ts": 1795675247.068071
+        },
+        {
           "name": "다향 무항생제 인증 우리땅 오리 다리살 슬라이스 (냉장), 500g, 1개",
           "price": "7,690원",
           "discount_rate": 35,
@@ -1554,15 +1563,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/9911513083378-26cdf0aa-889a-4ba0-a15b-cfd0d0921156.png",
           "url": "https://link.coupang.com/a/iQ0VbOkmXI",
           "_ts": 1795243828.051042
-        },
-        {
-          "name": "다르다팝콘 시네마 믹스, 30g, 15개",
-          "price": "9,410원",
-          "discount_rate": 29,
-          "priceAt": "11.21 15:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/398106114345926-f93b0e66-b7b1-484e-9b17-c867177f771e.jpg",
-          "url": "https://link.coupang.com/a/iQYbLcean6",
-          "_ts": 1795241529.3945339
         }
       ]
     },
