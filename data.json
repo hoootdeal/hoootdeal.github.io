@@ -1545,6 +1545,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "애슐리 인기 볶음밥 3종, 갈릭스테이크볶음밥 + 케이준볶음밥 + 통새우볶음밥, 12인분, 920g, 3개",
+          "price": "21,893원",
+          "discount_rate": 33,
+          "priceAt": "11.26 10:26",
+          "image": "https://shopping.toss.im/live/temp/2025-12-24/56f05f67-ab78-4f4e-840f-8b47b74a0761.jpeg",
+          "url": "https://toss.shopping/_m/fuxTFRo1",
+          "_ts": 1795656397.7310898,
+          "_product_id": "2641067443"
+        },
+        {
           "name": "샘표 차오차이 전자레인지용, 짜장 5종 + 마파두부 3종, 1세트",
           "price": "12,150원",
           "discount_rate": 61,
