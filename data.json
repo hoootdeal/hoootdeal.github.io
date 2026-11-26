@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "첵스초코 스노우 초코볼 시리얼, 420g, 2개",
+          "price": "6,780원",
+          "discount_rate": 53,
+          "priceAt": "11.26 19:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1616288289751830-a408ecf2-0e7c-44c4-8d0d-797b2e1802f5.jpg",
+          "url": "https://link.coupang.com/a/iZAYhKaYfI",
+          "_ts": 1795690542.730439
+        },
+        {
           "name": "호밍스 사골진곰탕, 500g, 5개",
           "price": "4,360원",
           "discount_rate": 24,
@@ -1608,15 +1617,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/f67395c8-c6f7-4a81-a1c7-14108d3debf03315522249286506651.png",
           "url": "https://link.coupang.com/a/iRl7sG1GzA",
           "_ts": 1795261625.33758
-        },
-        {
-          "name": "요플레 키즈 포도, 240g, 4개",
-          "price": "5,720원",
-          "discount_rate": 33,
-          "priceAt": "11.21 19:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/157127905251567-bfcfa6e0-e7d9-4757-a005-f3e5e843b3ed.jpg",
-          "url": "https://link.coupang.com/a/iRhspSxl4C",
-          "_ts": 1795257712.233065
         }
       ]
     },
