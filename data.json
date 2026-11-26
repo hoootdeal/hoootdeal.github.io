@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "데니그리스 유기농 사과식초, 500ml, 1개",
+          "price": "3,780원",
+          "discount_rate": 44,
+          "priceAt": "11.26 09:35",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/33042786775771-d55a2fe7-649d-4b4d-9718-28704a5280b3.jpg",
+          "url": "https://link.coupang.com/a/iYSCURK3UW",
+          "_ts": 1795653313.09938
+        },
+        {
           "name": "남양과수원 제로 사과, 190ml, 48개",
           "price": "13,110원",
           "discount_rate": 56,
@@ -1518,24 +1527,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/99200944-08c7-4db5-844f-978cf336e1b3_fixing_v2.png",
           "url": "https://link.coupang.com/a/iQBwI8yenk",
           "_ts": 1795222502.9185011
-        },
-        {
-          "name": "팔도 비빔장 저칼로리, 185g, 1개",
-          "price": "2,740원",
-          "discount_rate": 35,
-          "priceAt": "11.21 09:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/990647491375469-9df535c1-8301-4498-84c7-1725904f7150.jpg",
-          "url": "https://link.coupang.com/a/iQzF5Xq1E4",
-          "_ts": 1795220950.460017
-        },
-        {
-          "name": "뉴에라 아동용 MLB 스몰 로고 맨투맨 샌프란시스코 자이언츠, 150, 그레이",
-          "price": "19,900원",
-          "discount_rate": 68,
-          "priceAt": "11.21 08:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/25/11/5/24023116-346c-4943-939b-0ce1e4b9ff08.jpg",
-          "url": "https://link.coupang.com/a/iQxwxHBkku",
-          "_ts": 1795219141.80074
         }
       ]
     },
@@ -2342,16 +2333,6 @@
           "url": "https://toss.shopping/_m/H4q2lmmk",
           "_ts": 1795238149.798348,
           "_product_id": "349782961"
-        },
-        {
-          "name": "큰나무 호주산 루피니빈 콩, 1kg, 2개",
-          "price": "9,700원",
-          "discount_rate": 79,
-          "priceAt": "11.21 09:32",
-          "image": "https://shopping.toss.im/live/temp/2026-08-25/85af9aa7-6f58-43c9-8b8b-6e99faacbee0.jpeg",
-          "url": "https://toss.shopping/_m/pW7cbhgD",
-          "_ts": 1795221148.066387,
-          "_product_id": "2635662717"
         }
       ]
     },
