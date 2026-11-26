@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "팔도 뽀로로 제로 딸기맛, 235ml, 24개",
+          "price": "10,900원",
+          "discount_rate": 23,
+          "priceAt": "11.26 17:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/03/26/10/9/3a238da5-35ce-47f4-a716-1d0b4ea8b347.jpg",
+          "url": "https://link.coupang.com/a/iZo0JxQ27E",
+          "_ts": 1795680505.769543
+        },
+        {
           "name": "초정탄산수, 190ml, 150개",
           "price": "47,510원",
           "discount_rate": 24,
