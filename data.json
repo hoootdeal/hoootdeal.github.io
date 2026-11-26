@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오리온 오감자 감자그라탕맛, 95g, 3개",
+          "price": "3,950원",
+          "discount_rate": 32,
+          "priceAt": "11.27 07:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/340491695397345-665fbbdc-9dcf-4563-8a96-9e6d7ae9bc83.jpg",
+          "url": "https://link.coupang.com/a/i0muP5X4H6",
+          "_ts": 1795730449.434825
+        },
+        {
           "name": "웰넛 자연두레 탈각 피스타치오, 500g, 1개",
           "price": "21,430원",
           "discount_rate": 35,
