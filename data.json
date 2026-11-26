@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "상하목장 유기농 멸균우유 딸기맛, 125ml, 144개",
+          "price": "71,530원",
+          "discount_rate": 27,
+          "priceAt": "11.26 10:52",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/173081404242015-2be99b98-c6f3-4490-8aae-264d5d59e187.jpg",
+          "url": "https://link.coupang.com/a/iYYaKkeRMG",
+          "_ts": 1795657970.523307
+        },
+        {
           "name": "러버랩 국내산 손목 고무장갑, 그레이, 중(M), 5개",
           "price": "4,870원",
           "discount_rate": 30,
@@ -1536,15 +1545,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/101444250545066-1250eac0-f1c7-4465-848c-7e687ce95546.jpg",
           "url": "https://link.coupang.com/a/iQIh4YfVJs",
           "_ts": 1795228185.32237
-        },
-        {
-          "name": "푸드랩플러스 설탕대신 알룰로스를 사용하여 만든 제로슈가 소불고기, 500g, 1개",
-          "price": "8,900원",
-          "discount_rate": 26,
-          "priceAt": "11.21 10:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/10750513201177-6c6f734e-aa50-4170-a2c7-e70b04373ee6.jpg",
-          "url": "https://link.coupang.com/a/iQFkd7P4LI",
-          "_ts": 1795225692.383635
         }
       ]
     },
