@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "다향 무항생제 인증 우리땅 오리 다리살 슬라이스 (냉장), 500g, 1개",
+          "price": "7,690원",
+          "discount_rate": 35,
+          "priceAt": "11.26 15:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/925859633293643-50ab81f4-1584-4e3f-8543-cfdb6f5a0f0f.jpg",
+          "url": "https://link.coupang.com/a/iZfXKSYRS8",
+          "_ts": 1795672905.453731
+        },
+        {
           "name": "아라리 듀플M 아머 변색에 강한 맥세이프 범퍼 휴대폰 케이스, 아이폰 16 프로, 화이트",
           "price": "7,950원",
           "discount_rate": 86,
@@ -1554,15 +1563,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/398106114345926-f93b0e66-b7b1-484e-9b17-c867177f771e.jpg",
           "url": "https://link.coupang.com/a/iQYbLcean6",
           "_ts": 1795241529.3945339
-        },
-        {
-          "name": "다슈 데일리 비타플렉스 올인원 바디워시, 500ml, 1개",
-          "price": "7,750원",
-          "discount_rate": 33,
-          "priceAt": "11.21 14:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/22575869423725-b8a60c66-1562-4e7d-b5b8-31567b8d7f81.jpg",
-          "url": "https://link.coupang.com/a/iQVBei8tEq",
-          "_ts": 1795239360.304176
         }
       ]
     },
