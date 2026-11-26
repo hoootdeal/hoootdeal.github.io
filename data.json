@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아라리 듀플M 아머 변색에 강한 맥세이프 범퍼 휴대폰 케이스, 아이폰 16 프로, 화이트",
+          "price": "7,950원",
+          "discount_rate": 86,
+          "priceAt": "11.26 14:23",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1068351599212243-8fb81872-eba2-4345-b927-62d02f9c756d.jpg",
+          "url": "https://link.coupang.com/a/iZdfnn1cBM",
+          "_ts": 1795670624.3836958
+        },
+        {
           "name": "[2026년산 햅쌀][당일도정] 하동통합 별천지 하동쌀 영호진미 상등급, 10kg, 1개",
           "price": "25,900원",
           "discount_rate": 47,
@@ -1554,15 +1563,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/22575869423725-b8a60c66-1562-4e7d-b5b8-31567b8d7f81.jpg",
           "url": "https://link.coupang.com/a/iQVBei8tEq",
           "_ts": 1795239360.304176
-        },
-        {
-          "name": "YALE 남녀공용 16수 코마사 스몰아치 루즈핏 반팔 티셔츠 2p, M, WHITE + BLACK",
-          "price": "14,610원",
-          "discount_rate": 33,
-          "priceAt": "11.21 13:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/06/24/11/0/39fdbeb8-793e-4608-aec6-10b44d1b65a2.jpg",
-          "url": "https://link.coupang.com/a/iQSDcy9Fuu",
-          "_ts": 1795236867.841354
         }
       ]
     },
@@ -2391,16 +2391,6 @@
           "url": "https://toss.shopping/_m/Fwi7rm9h",
           "_ts": 1795248992.770659,
           "_product_id": "180195741"
-        },
-        {
-          "name": "예지미인 데일리코튼 팬티라이너 롱, 17.5cm, 81개입, 3팩",
-          "price": "12,980원",
-          "discount_rate": 70,
-          "priceAt": "11.21 14:15",
-          "image": "https://shopping.toss.im/live/temp/2026-04-09/aebec40e-4258-4e4b-a179-97ae1d956b39.jpeg",
-          "url": "https://toss.shopping/_m/H4q2lmmk",
-          "_ts": 1795238149.798348,
-          "_product_id": "349782961"
         }
       ]
     },
