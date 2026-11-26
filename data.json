@@ -1653,6 +1653,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "센티베르 탈모증상완화 비듬샴푸, 약산성, 두피 쿨링, 정수리냄새, 1000ml, 1+1 구성, 총 2개",
+          "price": "13,870원",
+          "discount_rate": 65,
+          "priceAt": "11.27 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-03-11/e20047fb-d5e1-4de1-bbe6-a2b690f3ff86.jpeg",
+          "url": "https://toss.shopping/_m/L5hHPAAg",
+          "_ts": 1795705326.939046,
+          "_flash": true,
+          "_product_id": "106722835"
+        },
+        {
+          "name": "더건강플러스 엑스트라버진 올리브오일, 1L, 1개",
+          "price": "12,700원",
+          "discount_rate": 68,
+          "priceAt": "11.27 00:02",
+          "image": "https://shopping.toss.im/live/temp/2026-11-17/eeffb492-31ed-4b61-a350-426926c3e870.png",
+          "url": "https://toss.shopping/_m/Ru0unTgn",
+          "_ts": 1795705326.93902,
+          "_flash": true,
+          "_product_id": "119672207"
+        },
+        {
+          "name": "청우 초코파이 찰떡, 860g, 1박스",
+          "price": "9,900원",
+          "discount_rate": 50,
+          "priceAt": "11.27 00:02",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/NmMxYzc5/VjhFcUg5WTVxWFM2dEJITlZwNnBhVmN3Q3EwTldpUzErbUFjUEFMRGQ0WT0.png",
+          "url": "https://toss.shopping/_m/X7VGDRFt",
+          "_ts": 1795705326.938986,
+          "_flash": true,
+          "_product_id": "78459747"
+        },
+        {
           "name": "대짜홍가리비, 대짜, 5kg, 1박스",
           "price": "15,840원",
           "discount_rate": 68,
