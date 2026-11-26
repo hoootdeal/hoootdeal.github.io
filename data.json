@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "테이크얼라이브 망고 멸균, 200ml, 24개",
+          "price": "7,900원",
+          "discount_rate": 39,
+          "priceAt": "11.26 13:30",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/07/20/17/0/c05541a1-35a6-47fa-b3ae-4db233c50277.png",
+          "url": "https://link.coupang.com/a/iY9shkSpIP",
+          "_ts": 1795667442.6046422
+        },
+        {
           "name": "POM 원더풀 석류 프레시컷, 120g, 1개",
           "price": "3,480원",
           "discount_rate": 30,
@@ -1545,15 +1554,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/06/24/11/0/39fdbeb8-793e-4608-aec6-10b44d1b65a2.jpg",
           "url": "https://link.coupang.com/a/iQSDcy9Fuu",
           "_ts": 1795236867.841354
-        },
-        {
-          "name": "쁘리엘르 유아 다이노 면 누비 방수패드, 다이노 민트, 대형, 1개",
-          "price": "11,900원",
-          "discount_rate": 32,
-          "priceAt": "11.21 13:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/9318016546751-7cf4c7b3-8bf9-4498-8867-ab8c78774704.jpg",
-          "url": "https://link.coupang.com/a/iQP3uJnH9U",
-          "_ts": 1795234704.489839
         }
       ]
     },
