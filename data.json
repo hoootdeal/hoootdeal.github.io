@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "히말라야 립 밤, 무색, 10g, 2개",
+          "price": "3,900원",
+          "discount_rate": 37,
+          "priceAt": "11.26 10:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/388129544321648-3201fbd8-abf5-481d-8ba7-1f5e34f9c1ba.jpg",
+          "url": "https://link.coupang.com/a/iYUTKV8o9Y",
+          "_ts": 1795655222.8796318
+        },
+        {
           "name": "데니그리스 유기농 사과식초, 500ml, 1개",
           "price": "3,780원",
           "discount_rate": 44,
@@ -1518,15 +1527,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/07/20/17/0/c05541a1-35a6-47fa-b3ae-4db233c50277.png",
           "url": "https://link.coupang.com/a/iQCpIhAx3Y",
           "_ts": 1795223248.214138
-        },
-        {
-          "name": "맑은내일 양파껍질차, 500ml, 24개",
-          "price": "20,930원",
-          "discount_rate": 28,
-          "priceAt": "11.21 09:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/99200944-08c7-4db5-844f-978cf336e1b3_fixing_v2.png",
-          "url": "https://link.coupang.com/a/iQBwI8yenk",
-          "_ts": 1795222502.9185011
         }
       ]
     },
