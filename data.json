@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롬앤 베러 댄 팔레트, 09드리미라일락가든, 1개",
+          "price": "14,600원",
+          "discount_rate": 51,
+          "priceAt": "11.26 21:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/116652212814260-e99c814a-6833-4f75-a0ce-76c108d4918f.jpg",
+          "url": "https://link.coupang.com/a/iZGCbIfHgW",
+          "_ts": 1795695286.686007
+        },
+        {
           "name": "벨킨 어린이용 사운드폼 미니 무선 온이어 헤드폰, 화이트, AUD002",
           "price": "22,400원",
           "discount_rate": 33,
@@ -1626,15 +1635,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/2d46/f4c862767d9d252b86230c18421d1a57f0cd257d1568543c70a226eeaace.jpg",
           "url": "https://link.coupang.com/a/iRo7kGwQZU",
           "_ts": 1795264144.0962718
-        },
-        {
-          "name": "코코도르 고체탈취제 양재동꽃시장, 300g, 3개",
-          "price": "21,610원",
-          "discount_rate": 37,
-          "priceAt": "11.21 20:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/f67395c8-c6f7-4a81-a1c7-14108d3debf03315522249286506651.png",
-          "url": "https://link.coupang.com/a/iRl7sG1GzA",
-          "_ts": 1795261625.33758
         }
       ]
     },
@@ -2451,16 +2451,6 @@
           "_ts": 1795273343.861909,
           "_flash": true,
           "_product_id": "972483019"
-        },
-        {
-          "name": "서귀포 조생 감귤, 최고15Brix, 10kg, 1개",
-          "price": "11,800원",
-          "discount_rate": 70,
-          "priceAt": "11.21 21:14",
-          "image": "https://shopping.toss.im/live/temp/2026-11-12/825daeff-7676-4ebe-9877-62eea3834a46.jpeg",
-          "url": "https://toss.shopping/_m/HB6xA0zn",
-          "_ts": 1795263280.743521,
-          "_product_id": "2725837549"
         }
       ]
     },
