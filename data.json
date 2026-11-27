@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "네이쳐스웨이 삼부커스 구미, 60정, 3개",
+          "price": "43,930원",
+          "discount_rate": 31,
+          "priceAt": "11.28 08:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e852/4abbac30474bae6ad0b09417691e2d40f3d70e1477cb897e9586296762ba.png",
+          "url": "https://link.coupang.com/a/i16ifBhFlc",
+          "_ts": 1795820956.123643
+        },
+        {
           "name": "닛신키츠네우동96g12개한박스, 96g, 12개",
           "price": "24,250원",
           "discount_rate": 25,
@@ -2482,39 +2491,6 @@
           "url": "https://toss.shopping/_m/Jyfo3Msh",
           "_ts": 1795401364.82769,
           "_product_id": "2640973829"
-        },
-        {
-          "name": "배스킨라빈스 엄마는 외계인 밀키 드링크, 300ml, 10개",
-          "price": "9,900원",
-          "discount_rate": 65,
-          "priceAt": "11.23 08:03",
-          "image": "https://shopping.toss.im/live/temp/2026-08-04/8dc69025-7a09-4646-836d-858a45f0d59e.jpeg",
-          "url": "https://toss.shopping/_m/LQmcAuGo",
-          "_ts": 1795388638.9327612,
-          "_flash": true,
-          "_product_id": "2570163987"
-        },
-        {
-          "name": "소소락 닭다리 순살 양념 닭강정, 500g, 4팩",
-          "price": "19,900원",
-          "discount_rate": 54,
-          "priceAt": "11.23 08:03",
-          "image": "https://shopping.toss.im/live/temp/2026-09-04/0c823569-764c-49df-90a4-529ede7010fc.jpeg",
-          "url": "https://toss.shopping/_m/D6tnIphv",
-          "_ts": 1795388638.932723,
-          "_flash": true,
-          "_product_id": "2645638693"
-        },
-        {
-          "name": "쏘울너츠 100프로 땅콩버터, 슈퍼 크런치 + 스무스, 1kg, 1세트",
-          "price": "7,830원",
-          "discount_rate": 68,
-          "priceAt": "11.23 08:03",
-          "image": "https://shopping.toss.im/live/temp/2026-08-18/ee5c1c02-9eff-448b-9050-c6f463d5ee44.jpeg",
-          "url": "https://toss.shopping/_m/3bsfdYE7",
-          "_ts": 1795388638.93269,
-          "_flash": true,
-          "_product_id": "2620600387"
         }
       ]
     },
