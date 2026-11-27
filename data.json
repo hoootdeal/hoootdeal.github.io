@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "넛츠그린 저당 마일드 초코볼 마카다미아, 150g, 2개",
+          "price": "11,340원",
+          "discount_rate": 50,
+          "priceAt": "11.27 16:40",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1228ed10-5422-426d-80c4-fdd2c124aeec11294842900806933375.png",
+          "url": "https://link.coupang.com/a/i01UgzUGeO",
+          "_ts": 1795765219.950725
+        },
+        {
           "name": "호떡당 꿀호떡 (냉동), 70g, 1개, 5개입",
           "price": "4,120원",
           "discount_rate": 28,
@@ -1671,15 +1680,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/20/14/7/96ddb517-bb4d-47d6-a710-cc57f9a1c06e.jpg",
           "url": "https://link.coupang.com/a/iSKPDE3Bdt",
           "_ts": 1795334428.80577
-        },
-        {
-          "name": "비비드키친 저당 마라양념소스, 320g, 1개",
-          "price": "4,790원",
-          "discount_rate": 28,
-          "priceAt": "11.22 16:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/04/24/17/3/09a0b394-69de-48f3-b91d-06eaebfb647b.jpg",
-          "url": "https://link.coupang.com/a/iSHLuT1Hzg",
-          "_ts": 1795331856.982024
         }
       ]
     },
