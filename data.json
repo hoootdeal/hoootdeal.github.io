@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "샘표 조선 국산100% 고추장, 1kg, 1개",
+          "price": "11,490원",
+          "discount_rate": 24,
+          "priceAt": "11.27 15:25",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/286270204859693-6f24ffd6-c763-47ed-845c-95f143fb88c4.jpg",
+          "url": "https://link.coupang.com/a/i0WzyS1PLo",
+          "_ts": 1795760739.3715048
+        },
+        {
           "name": "미정당 쌀 국물떡볶이 (냉동), 530g, 1개",
           "price": "2,950원",
           "discount_rate": 40,
@@ -1662,24 +1671,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/04/24/17/3/09a0b394-69de-48f3-b91d-06eaebfb647b.jpg",
           "url": "https://link.coupang.com/a/iSHLuT1Hzg",
           "_ts": 1795331856.982024
-        },
-        {
-          "name": "옵티프리 퓨어모이스트 렌즈세정액 + 렌즈케이스, 420ml, 1세트",
-          "price": "6,240원",
-          "discount_rate": 38,
-          "priceAt": "11.22 15:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1515737762578799-9477353b-589f-42e5-a6d4-e694cd0e5391.jpg",
-          "url": "https://link.coupang.com/a/iSDUye9LLE",
-          "_ts": 1795328620.400516
-        },
-        {
-          "name": "다슈 데일리 볼륨픽 헤어클립, 블랙, 1개",
-          "price": "8,620원",
-          "discount_rate": 34,
-          "priceAt": "11.22 14:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/331003300926640-89bc3848-3054-44fd-b3c7-5c8aa4b7472c.jpg",
-          "url": "https://link.coupang.com/a/iSBk1Cyjgi",
-          "_ts": 1795326460.9928
         }
       ]
     },
