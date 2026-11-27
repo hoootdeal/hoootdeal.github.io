@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "널담 마카롱 감동세트 8종 (냉동), 50g, 8개입, 2세트",
+          "price": "18,110원",
+          "discount_rate": 23,
+          "priceAt": "11.27 20:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/6982207469104381-4e8df4e2-ca97-4a0f-b543-63b4458fe08e.jpg",
+          "url": "https://link.coupang.com/a/i1kmQAkSzY",
+          "_ts": 1795780720.6486201
+        },
+        {
           "name": "덴티본조르노 구취케어 치약, 170g, 3개",
           "price": "9,380원",
           "discount_rate": 38,
@@ -2491,16 +2500,6 @@
           "_ts": 1795359723.44364,
           "_flash": true,
           "_product_id": "77143499"
-        },
-        {
-          "name": "란센 초음파 렌즈세척기, BPL-04, 화이트, 1개",
-          "price": "10,900원",
-          "discount_rate": 81,
-          "priceAt": "11.22 20:58",
-          "image": "https://shopping.toss.im/live/temp/2026-09-17/07401430-f927-404f-992f-ef2c92a0d715.jpeg",
-          "url": "https://toss.shopping/_m/Dh9sDDc2",
-          "_ts": 1795348703.4471722,
-          "_product_id": "2658087741"
         }
       ]
     },
