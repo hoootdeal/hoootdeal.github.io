@@ -1662,24 +1662,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/600143606128273-95dc85e3-e422-462e-885d-94e2cc537b75.jpg",
           "url": "https://link.coupang.com/a/iTOZDayzUy",
           "_ts": 1795389981.944179
-        },
-        {
-          "name": "일가집 프리미엄 더 맛있는 김밥세트, 525g, 1세트",
-          "price": "6,600원",
-          "discount_rate": 34,
-          "priceAt": "11.23 07:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2531584328309897-32aae1a6-7381-4c35-bf59-e5adb4d2f2ab.jpg",
-          "url": "https://link.coupang.com/a/iTL9kEF7Wm",
-          "_ts": 1795387593.825842
-        },
-        {
-          "name": "오리온 다이제샌드 우도땅콩맛 8p, 392g, 1개",
-          "price": "4,200원",
-          "discount_rate": 26,
-          "priceAt": "11.23 07:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/07/17/6/b8087345-0e0b-4784-aae5-10f43d591ce2.jpg",
-          "url": "https://link.coupang.com/a/iTLFTpFL9o",
-          "_ts": 1795387197.248202
         }
       ]
     },
@@ -1688,6 +1670,39 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "앙쥬 나의 시카토너, 500ml, 1+1 구성, 총 2개",
+          "price": "11,630원",
+          "discount_rate": 87,
+          "priceAt": "11.28 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-02-19/7a3b8720-5513-44d6-8360-09a1bdaf8365.jpeg",
+          "url": "https://toss.shopping/_m/ZYZrUAFh",
+          "_ts": 1795820583.551116,
+          "_flash": true,
+          "_product_id": "147499563"
+        },
+        {
+          "name": "유한메디카 당케어 엔 탑 혈당&유산균, 350mg, 30캡슐, 3개",
+          "price": "14,330원",
+          "discount_rate": 88,
+          "priceAt": "11.28 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/OWViMjQx/WHBhRFJMWTBMekdlSmJ4dHVHV3c4TGNsZWo0OXBYVEIxaFpOa1dxU2trND0.png",
+          "url": "https://toss.shopping/_m/TOKqWI8z",
+          "_ts": 1795820583.551092,
+          "_flash": true,
+          "_product_id": "54176823"
+        },
+        {
+          "name": "할리스 블랙아리아 아메리카노, 550ml, 12개",
+          "price": "11,900원",
+          "discount_rate": 69,
+          "priceAt": "11.28 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/NTQ2MThi/RXBuNDAybHMxaHpUUEs5TXhQTmE0NC9FK0R4cm0zcFRsYVNIc1pwY2FlWT0.png",
+          "url": "https://toss.shopping/_m/PTHB1HWm",
+          "_ts": 1795820583.551059,
+          "_flash": true,
+          "_product_id": "106743491"
+        },
         {
           "name": "리벤스 소프트 클린 화장실 비데티슈, 60매, 10팩",
           "price": "9,600원",
