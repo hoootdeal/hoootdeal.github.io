@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "덴마크 테이크 얼라이브 머스캣 청포도 주스, 120ml, 24개",
+          "price": "6,900원",
+          "discount_rate": 30,
+          "priceAt": "11.27 10:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/209329245141448-e1cc2ab1-c8db-4835-aa6e-48049bdafaec.jpg",
+          "url": "https://link.coupang.com/a/i0AsF8mDgy",
+          "_ts": 1795742175.713095
+        },
+        {
           "name": "얼라이브 멀티 비타 구미, 60정, 2개",
           "price": "28,280원",
           "discount_rate": 24,
