@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "할리스 시그니처 아메리카노 마일드 미니 스틱커피, 900mg, 30개입, 5개",
+          "price": "23,900원",
+          "discount_rate": 35,
+          "priceAt": "11.27 21:32",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/7ebe8cce-98a9-4dc4-a07d-558fcc55f90d7288920638726194544.png",
+          "url": "https://link.coupang.com/a/i1mNuQznOe",
+          "_ts": 1795782758.261248
+        },
+        {
           "name": "널담 마카롱 감동세트 8종 (냉동), 50g, 8개입, 2세트",
           "price": "18,110원",
           "discount_rate": 23,
@@ -1671,15 +1680,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/82026788105857-0e19bf39-5002-4e90-be35-9fbb5e5fb076.jpg",
           "url": "https://link.coupang.com/a/iTIVFs2RLo",
           "_ts": 1795384889.297622
-        },
-        {
-          "name": "비비고 왕교자 (냉동), 1.4kg, 5개",
-          "price": "43,400원",
-          "discount_rate": 26,
-          "priceAt": "11.22 21:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/281591067692646-dc33b586-883e-41c7-9b26-f965004c292f.jpg",
-          "url": "https://link.coupang.com/a/iS2MaBEk0a",
-          "_ts": 1795349496.2419908
         }
       ]
     },
