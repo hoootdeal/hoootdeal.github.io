@@ -1653,24 +1653,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/10/9/5/5450992c-2c54-4c1e-ab36-3d1db080280c.jpeg",
           "url": "https://link.coupang.com/a/iSvtTzgfuu",
           "_ts": 1795321540.242336
-        },
-        {
-          "name": "해태제과 크림 웨하스, 50g, 24개",
-          "price": "11,250원",
-          "discount_rate": 25,
-          "priceAt": "11.22 12:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1371665265202536-43a2b711-8555-45e0-8dcd-264bcc413069.jpg",
-          "url": "https://link.coupang.com/a/iSsPD16c1c",
-          "_ts": 1795319315.199348
-        },
-        {
-          "name": "오뚜기프레스코 알리오올리오 파스타소스, 380g, 2개",
-          "price": "7,250원",
-          "discount_rate": 27,
-          "priceAt": "11.22 12:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/960797481686342-16f3fcca-c740-4c03-ab07-c1f909b91c4f.jpg",
-          "url": "https://link.coupang.com/a/iSqNEBUyn6",
-          "_ts": 1795317611.5433002
         }
       ]
     },
@@ -1679,6 +1661,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "한입과득 청송 부사사과, 가정용, 2kg, 1박스",
+          "price": "6,390원",
+          "discount_rate": 77,
+          "priceAt": "11.27 12:49",
+          "image": "https://shopping.toss.im/live/temp/2026-07-09/e0325247-78d9-4c0e-abce-fec8fb278bb3.jpeg",
+          "url": "https://toss.shopping/_m/xP5s5W7r",
+          "_ts": 1795751371.357994,
+          "_product_id": "2442898037"
+        },
         {
           "name": "훈훈수산 깐새우장, 간장 2통 + 양념 1통, 300g, 1개",
           "price": "19,990원",
