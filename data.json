@@ -1671,15 +1671,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/281591067692646-dc33b586-883e-41c7-9b26-f965004c292f.jpg",
           "url": "https://link.coupang.com/a/iS2MaBEk0a",
           "_ts": 1795349496.2419908
-        },
-        {
-          "name": "듀라셀 알카라인 AA 건전지, 20개입, 1개",
-          "price": "9,730원",
-          "discount_rate": 29,
-          "priceAt": "11.22 20:32",
-          "image": "https://image4.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
-          "url": "https://link.coupang.com/a/iSZY1Hspl6",
-          "_ts": 1795347152.5280461
         }
       ]
     },
@@ -1688,6 +1679,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "한결팜 대봉감, 대과 이상, 10kg, 1박스",
+          "price": "12,890원",
+          "discount_rate": 70,
+          "priceAt": "11.27 20:43",
+          "image": "https://shopping.toss.im/live/temp/2026-10-16/14ccfc4e-597c-46b7-8e98-a52e50c23684.png",
+          "url": "https://toss.shopping/_m/j9x9hg4",
+          "_ts": 1795779804.893059,
+          "_product_id": "2684601477"
+        },
         {
           "name": "크리넥스 마이비데 클린케어 화장실용 물티슈, 리필형, 46매, 12팩",
           "price": "14,500원",
