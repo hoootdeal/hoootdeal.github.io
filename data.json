@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "비비고 초사리곱창돌김, 5g, 40개",
+          "price": "16,900원",
+          "discount_rate": 28,
+          "priceAt": "11.27 13:35",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/178734457224389-54f0e3cd-c3a6-419f-b41e-9793c6929862.png",
+          "url": "https://link.coupang.com/a/i0OFsE0ChE",
+          "_ts": 1795754103.988985
+        },
+        {
           "name": "엘라스틴 살롱 드 컬러 앤 새치 염색 크림, 흑갈색, 3개",
           "price": "12,290원",
           "discount_rate": 66,
@@ -1653,15 +1662,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/61066756347356-ac87d989-6e83-4cbb-9e84-9ba588e8fb7b.jpg",
           "url": "https://link.coupang.com/a/iSyoB5l1W0",
           "_ts": 1795323987.269999
-        },
-        {
-          "name": "세이프 남극솔트 주방세제 유칼립투스향 리필, 1L, 1개",
-          "price": "3,990원",
-          "discount_rate": 41,
-          "priceAt": "11.22 13:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/12/10/9/5/5450992c-2c54-4c1e-ab36-3d1db080280c.jpeg",
-          "url": "https://link.coupang.com/a/iSvtTzgfuu",
-          "_ts": 1795321540.242336
         }
       ]
     },
