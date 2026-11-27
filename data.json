@@ -1671,6 +1671,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크리스찬 딘 화이트 시크릿 톤업 크림, 50g, 1개",
+          "price": "5,920원",
+          "discount_rate": 78,
+          "priceAt": "11.27 13:24",
+          "image": "https://shopping.toss.im/live/temp/2025-04-18/0e06670c-9ca0-430f-9650-c1308551402d.jpeg",
+          "url": "https://toss.shopping/_m/TEANb0ka",
+          "_ts": 1795753466.5880132,
+          "_product_id": "92129269"
+        },
+        {
           "name": "한입과득 청송 부사사과, 가정용, 2kg, 1박스",
           "price": "6,390원",
           "discount_rate": 77,
@@ -2490,16 +2500,6 @@
           "url": "https://toss.shopping/_m/XEsbgBY9",
           "_ts": 1795324915.477403,
           "_product_id": "2043710061"
-        },
-        {
-          "name": "마이펫닥터 강아지 츄어블 올인원 영양제, 종합영양제, 80g, 100개입, 1개",
-          "price": "9,260원",
-          "discount_rate": 83,
-          "priceAt": "11.22 13:05",
-          "image": "https://shopping.toss.im/live/temp/2026-09-17/50f74b19-c627-4380-b8db-7f644ee507f6.jpeg",
-          "url": "https://toss.shopping/_m/PZk5VqZc",
-          "_ts": 1795320305.1039329,
-          "_product_id": "2658005459"
         }
       ]
     },
