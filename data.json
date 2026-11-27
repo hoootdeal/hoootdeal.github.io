@@ -1626,24 +1626,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/223627848161736-144e2436-3714-42e4-ad51-d4cf9dc6a6a0.jpg",
           "url": "https://link.coupang.com/a/iSiLfH6ZEq",
           "_ts": 1795310861.8776472
-        },
-        {
-          "name": "퍼실 라벤더젤 플러스 드럼용 액상세제 라벤더 코튼향 본품, 2.7L, 1개입, 2개",
-          "price": "24,300원",
-          "discount_rate": 62,
-          "priceAt": "11.22 09:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/c2c8297d-e730-4a77-981a-4f840416d2cc8833037875092551158.png",
-          "url": "https://link.coupang.com/a/iSgogNZUFU",
-          "_ts": 1795308883.664062
-        },
-        {
-          "name": "첫맛 만능 멸치육수, 1.95kg, 1개",
-          "price": "9,710원",
-          "discount_rate": 28,
-          "priceAt": "11.22 09:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/07/08/14/9/9ff0e9b2-5598-44cf-b23c-1be5740841a7.jpg",
-          "url": "https://link.coupang.com/a/iSgnsbfBg4",
-          "_ts": 1795308862.8391418
         }
       ]
     },
@@ -1652,6 +1634,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "훈훈수산 깐새우장, 간장 2통 + 양념 1통, 300g, 1개",
+          "price": "19,990원",
+          "discount_rate": 35,
+          "priceAt": "11.27 09:58",
+          "image": "https://shopping.toss.im/live/taca/ai/YjAzOWRh/WG13ejlIdDV4aC81UFMvNW9URjk4eFhrZm84K3RjSGI3aFhlN0ZWU3ZUUT0.png",
+          "url": "https://toss.shopping/_m/t3gTTqNx",
+          "_ts": 1795741086.0272489,
+          "_product_id": "85123293"
+        },
         {
           "name": "홀리치 파로효소 프리미엄골드, 3g, 120포, 1개",
           "price": "19,390원",
