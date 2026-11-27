@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "크라운산도 딸기, 323g, 6개",
+          "price": "11,130원",
+          "discount_rate": 33,
+          "priceAt": "11.27 18:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3034956530543662-4ed46165-fe3a-4e3c-8511-81b2f071289e.jpg",
+          "url": "https://link.coupang.com/a/i1bweYFja0",
+          "_ts": 1795773288.9951842
+        },
+        {
           "name": "오뚜기 실쏙 토마토 스파게티소스, 2kg, 1개",
           "price": "8,260원",
           "discount_rate": 31,
@@ -1662,15 +1671,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/49266304213228-a5c5e1f1-bba9-4e0b-8bfb-172f0ef6ba48.jpg",
           "url": "https://link.coupang.com/a/iSTU04o9sG",
           "_ts": 1795342060.303463
-        },
-        {
-          "name": "인디안밥, 83g, 5개",
-          "price": "4,800원",
-          "discount_rate": 24,
-          "priceAt": "11.22 18:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2485663860150-5d6a79bd-9dde-4308-ba08-a15c1682a7cd.jpg",
-          "url": "https://link.coupang.com/a/iSRxrOBTVI",
-          "_ts": 1795340059.892612
         }
       ]
     },
@@ -2491,16 +2491,6 @@
           "url": "https://toss.shopping/_m/tIVVPDmB",
           "_ts": 1795342607.9315908,
           "_product_id": "2721978367"
-        },
-        {
-          "name": "오프라이스 한촌 사골 양지고기 설렁탕, 500g, 5개",
-          "price": "12,900원",
-          "discount_rate": 48,
-          "priceAt": "11.22 18:31",
-          "image": "https://shopping.toss.im/live/taca/ai/NGViMTI2/QUw4aitEdjJwR2RzRG5ITWh0YmtpTmVvMVl2R01VRXhHNWZKeERORE43L0o.png",
-          "url": "https://toss.shopping/_m/ji3gbRuj",
-          "_ts": 1795339905.805171,
-          "_product_id": "12632865"
         }
       ]
     },
