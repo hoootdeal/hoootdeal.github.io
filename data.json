@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "배스킨라빈스 쫀떡궁합 파이, 264g, 3개",
+          "price": "9,520원",
+          "discount_rate": 23,
+          "priceAt": "11.27 10:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/4881928846197-bb4409ef-c57b-4301-8b2f-5d8ea7fdc53a.jpg",
+          "url": "https://link.coupang.com/a/i0BSnyCpz2",
+          "_ts": 1795743363.048194
+        },
+        {
           "name": "덴마크 테이크 얼라이브 머스캣 청포도 주스, 120ml, 24개",
           "price": "6,900원",
           "discount_rate": 30,
@@ -1635,15 +1644,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/83475501459261-3644e860-eef2-4e43-a7c2-57e0181743d8.jpg",
           "url": "https://link.coupang.com/a/iSkyNyh2Sy",
           "_ts": 1795312374.1141188
-        },
-        {
-          "name": "바프 메이플 피칸 믹스넛, 190g, 5개",
-          "price": "15,210원",
-          "discount_rate": 61,
-          "priceAt": "11.22 10:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/223627848161736-144e2436-3714-42e4-ad51-d4cf9dc6a6a0.jpg",
-          "url": "https://link.coupang.com/a/iSiLfH6ZEq",
-          "_ts": 1795310861.8776472
         }
       ]
     },
