@@ -1671,6 +1671,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오즈랜드 오트 초코칩쿠키, 480g, 1개",
+          "price": "5,900원",
+          "discount_rate": 65,
+          "priceAt": "11.28 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/OGZkM2Iw/S3huT3hpbkV4NXZTMWxOYVpMUHJqdFR3b1U2dkVHeVJaeFIxS3RNSW5LVT0.png",
+          "url": "https://toss.shopping/_m/DcgV2B21",
+          "_ts": 1795820611.056911,
+          "_flash": true,
+          "_product_id": "128376941"
+        },
+        {
+          "name": "리버티 딥슬립 입는 오버나이트, 중형, 4매입, 5팩",
+          "price": "8,250원",
+          "discount_rate": 66,
+          "priceAt": "11.28 08:03",
+          "image": "https://shopping.toss.im/live/taca/ai/MzgyNmJj/QU9VdWozbFMxclZtbk5aa3RnZlVrOWx0cEZzSkQzRzhlZndGNWJiWkNVOWI.png",
+          "url": "https://toss.shopping/_m/ZP8pThma",
+          "_ts": 1795820611.05689,
+          "_flash": true,
+          "_product_id": "861976335"
+        },
+        {
+          "name": "파이토메이드 고칼슘&비타민D 두유 아몬드잣, 190ml, 48개",
+          "price": "15,430원",
+          "discount_rate": 69,
+          "priceAt": "11.28 08:03",
+          "image": "https://shopping.toss.im/live/temp/2026-06-15/8ceb6b97-5820-4479-b8d2-82afeed8731b.jpeg",
+          "url": "https://toss.shopping/_m/Fi6kzRq1",
+          "_ts": 1795820611.056863,
+          "_flash": true,
+          "_product_id": "2263944785"
+        },
+        {
           "name": "앙쥬 나의 시카토너, 500ml, 1+1 구성, 총 2개",
           "price": "11,630원",
           "discount_rate": 87,
@@ -2482,39 +2515,6 @@
           "_ts": 1795388638.93269,
           "_flash": true,
           "_product_id": "2620600387"
-        },
-        {
-          "name": "유한메디카 바나바 엔 탑 혈당케어, 60정, 3개",
-          "price": "14,230원",
-          "discount_rate": 88,
-          "priceAt": "11.23 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/YmJkZGI3/UENRY2FkdTBQaHZZSmFaUzJoYmsrQnloZXp4ZUpaeW12SHhqaHFIU0hVaz0.png",
-          "url": "https://toss.shopping/_m/313bitfg",
-          "_ts": 1795388610.0895722,
-          "_flash": true,
-          "_product_id": "63385"
-        },
-        {
-          "name": "프로프룻 껍질째 먹는 세척사과, 3kg, 1박스",
-          "price": "10,900원",
-          "discount_rate": 75,
-          "priceAt": "11.23 08:03",
-          "image": "https://shopping.toss.im/live/temp/2026-08-21/d289f62f-61d3-4143-b707-8a62b8fc5858.png",
-          "url": "https://toss.shopping/_m/rGM9n1vn",
-          "_ts": 1795388610.089532,
-          "_flash": true,
-          "_product_id": "2226153335"
-        },
-        {
-          "name": "한예지 페르니 도톰 순수 3겹 화장지, 30m, 30롤입, 2개",
-          "price": "17,490원",
-          "discount_rate": 53,
-          "priceAt": "11.23 08:03",
-          "image": "https://shopping.toss.im/live/temp/2026-08-04/7ebd2287-f80a-4060-a01a-6c20cfa1ed85.jpeg",
-          "url": "https://toss.shopping/_m/vr6oV1G",
-          "_ts": 1795388610.089503,
-          "_flash": true,
-          "_product_id": "2154422491"
         }
       ]
     },
