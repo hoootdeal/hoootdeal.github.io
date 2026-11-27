@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오뚜기 실쏙 토마토 스파게티소스, 2kg, 1개",
+          "price": "8,260원",
+          "discount_rate": 31,
+          "priceAt": "11.27 18:23",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/57a0/9b640b057f72888f05d97407f70dc99b307199b8ab2ba964b09b12b93f8f.jpg",
+          "url": "https://link.coupang.com/a/i09fDj0ldk",
+          "_ts": 1795771385.202621
+        },
+        {
           "name": "폴앤박 유레카 블루베리, 125g, 1개",
           "price": "4,000원",
           "discount_rate": 27,
@@ -1662,15 +1671,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2485663860150-5d6a79bd-9dde-4308-ba08-a15c1682a7cd.jpg",
           "url": "https://link.coupang.com/a/iSRxrOBTVI",
           "_ts": 1795340059.892612
-        },
-        {
-          "name": "곰곰 완숙 토마토, 5kg, 1개",
-          "price": "15,860원",
-          "discount_rate": 45,
-          "priceAt": "11.22 18:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/500389728553835-ad3cf8bb-7d4c-4ae0-99ba-501da1ee5480.jpg",
-          "url": "https://link.coupang.com/a/iSPFebhiYS",
-          "_ts": 1795338486.52913
         }
       ]
     },
