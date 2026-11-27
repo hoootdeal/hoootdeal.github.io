@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "미정당 쌀 국물떡볶이 (냉동), 530g, 1개",
+          "price": "2,950원",
+          "discount_rate": 40,
+          "priceAt": "11.27 14:47",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2023/02/08/18/8/3df670e3-d2f8-4022-9e65-8ec19effd618.jpg",
+          "url": "https://link.coupang.com/a/i0TP4q0B7Q",
+          "_ts": 1795758444.373613
+        },
+        {
           "name": "레오나르디 모데나산 콘디멘토 화이트 발사믹, 250ml, 2개",
           "price": "24,410원",
           "discount_rate": 42,
@@ -2499,16 +2508,6 @@
           "url": "https://toss.shopping/_m/fhRWN0i3",
           "_ts": 1795334621.457433,
           "_product_id": "92679849"
-        },
-        {
-          "name": "반건조 민어, 특왕, 37cm급, 300g, 5팩",
-          "price": "31,900원",
-          "discount_rate": 68,
-          "priceAt": "11.22 14:21",
-          "image": "https://shopping.toss.im/live/taca/ai/OWY5MzVh/QUpvL3NqVzNOTm9lZ2hJcG5zbFNHRjl4VDB3bDVZNG9Kd2Fja3V0b2EvdEg.png",
-          "url": "https://toss.shopping/_m/XEsbgBY9",
-          "_ts": 1795324915.477403,
-          "_product_id": "2043710061"
         }
       ]
     },
