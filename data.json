@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "곰곰 완숙 토마토, 1kg, 1개",
+          "price": "3,950원",
+          "discount_rate": 37,
+          "priceAt": "11.27 19:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/712722502290473-7cd913a1-5d74-470c-aea5-e74f54190a8d.jpg",
+          "url": "https://link.coupang.com/a/i1evxoeFbM",
+          "_ts": 1795775798.821271
+        },
+        {
           "name": "크라운산도 딸기, 323g, 6개",
           "price": "11,130원",
           "discount_rate": 33,
@@ -1662,15 +1671,6 @@
           "image": "https://image4.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
           "url": "https://link.coupang.com/a/iSZY1Hspl6",
           "_ts": 1795347152.5280461
-        },
-        {
-          "name": "동원 노르웨이 두툼한 생연어회, 200g, 2개",
-          "price": "18,860원",
-          "discount_rate": 35,
-          "priceAt": "11.22 19:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/49266304213228-a5c5e1f1-bba9-4e0b-8bfb-172f0ef6ba48.jpg",
-          "url": "https://link.coupang.com/a/iSTU04o9sG",
-          "_ts": 1795342060.303463
         }
       ]
     },
@@ -2481,16 +2481,6 @@
           "url": "https://toss.shopping/_m/Dh9sDDc2",
           "_ts": 1795348703.4471722,
           "_product_id": "2658087741"
-        },
-        {
-          "name": "제주도산 극조생 햇귤, 10kg, 1박스",
-          "price": "9,990원",
-          "discount_rate": 77,
-          "priceAt": "11.22 19:16",
-          "image": "https://shopping.toss.im/live/temp/2026-11-10/13adb5de-39f5-45f1-87c3-97a1e0b0d3be.png",
-          "url": "https://toss.shopping/_m/tIVVPDmB",
-          "_ts": 1795342607.9315908,
-          "_product_id": "2721978367"
         }
       ]
     },
