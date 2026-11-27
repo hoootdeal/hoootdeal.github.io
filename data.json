@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "부르본 페투치니 젤리 포도, 50g, 2개",
+          "price": "1,960원",
+          "discount_rate": 41,
+          "priceAt": "11.28 07:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/c4da1792-065f-47fa-b2bf-d84821713638376988147895344424.png",
+          "url": "https://link.coupang.com/a/i11rT4rSH6",
+          "_ts": 1795816890.657009
+        },
+        {
           "name": "QCY 에일리버즈 프로 HT10 무선 블루투스 이어폰, 보라색, ht10",
           "price": "15,250원",
           "discount_rate": 34,
@@ -1680,15 +1689,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/33508706508858-ad978f3d-2853-423d-9175-a94ddacc2403.png",
           "url": "https://link.coupang.com/a/iTI6DNiwJE",
           "_ts": 1795385038.174019
-        },
-        {
-          "name": "해태제과 맛동산, 70g, 4개",
-          "price": "2,980원",
-          "discount_rate": 26,
-          "priceAt": "11.23 07:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/82026788105857-0e19bf39-5002-4e90-be35-9fbb5e5fb076.jpg",
-          "url": "https://link.coupang.com/a/iTIVFs2RLo",
-          "_ts": 1795384889.297622
         }
       ]
     },
