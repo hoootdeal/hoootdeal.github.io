@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "비타500 광도르방 비타민음료, 100ml, 10개",
+          "price": "4,690원",
+          "discount_rate": 35,
+          "priceAt": "11.28 07:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/01/10/12/5/4b4f8ad4-3ee8-4a64-829e-879abf0e5184.jpg",
+          "url": "https://link.coupang.com/a/i12DXlV1dA",
+          "_ts": 1795817893.86373
+        },
+        {
           "name": "부르본 페투치니 젤리 포도, 50g, 2개",
           "price": "1,960원",
           "discount_rate": 41,
@@ -1662,33 +1671,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/01/07/17/6/b8087345-0e0b-4784-aae5-10f43d591ce2.jpg",
           "url": "https://link.coupang.com/a/iTLFTpFL9o",
           "_ts": 1795387197.248202
-        },
-        {
-          "name": "에코맘의산골이유식 산골 과일참 통째로 사과칩, 10g, 4개",
-          "price": "5,600원",
-          "discount_rate": 43,
-          "priceAt": "11.23 07:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1893706401969450-f5035cf5-25f6-476b-ae36-2d46ba0e8486.jpg",
-          "url": "https://link.coupang.com/a/iTJnER7qmb",
-          "_ts": 1795385272.4992902
-        },
-        {
-          "name": "롯데웰푸드 티코 밀크초코 아이스크림 (냉동), 34ml, 15개입, 2개",
-          "price": "8,080원",
-          "discount_rate": 39,
-          "priceAt": "11.23 07:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/195050555921885-304e9476-2f7f-4bfe-a4c4-ee8d4b5c955b.jpg",
-          "url": "https://link.coupang.com/a/iTJiEN5Nee",
-          "_ts": 1795385200.696993
-        },
-        {
-          "name": "맛있는우유GT 멸균우유 초코, 190ml, 24개",
-          "price": "11,980원",
-          "discount_rate": 27,
-          "priceAt": "11.23 07:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/33508706508858-ad978f3d-2853-423d-9175-a94ddacc2403.png",
-          "url": "https://link.coupang.com/a/iTI6DNiwJE",
-          "_ts": 1795385038.174019
         }
       ]
     },
