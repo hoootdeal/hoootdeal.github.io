@@ -1680,6 +1680,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "한입 삼겹살, 500g, 2개",
+          "price": "10,280원",
+          "discount_rate": 57,
+          "priceAt": "11.27 17:28",
+          "image": "https://shopping.toss.im/live/temp/2026-03-13/30aa1e46-6b24-4fc6-b71c-87755667a028.jpeg",
+          "url": "https://toss.shopping/_m/nE7jh90k",
+          "_ts": 1795768109.098103,
+          "_product_id": "1531714183"
+        },
+        {
           "name": "크리스찬 딘 화이트 시크릿 톤업 크림, 50g, 1개",
           "price": "5,920원",
           "discount_rate": 78,
