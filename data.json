@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "돈시몬 생과일 착즙 100% 오렌지주스, 200ml, 15개",
+          "price": "14,820원",
+          "discount_rate": 29,
+          "priceAt": "11.27 17:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1216397295573561-764c9d2e-e5a2-4203-b1d4-b3bfd7386135.png",
+          "url": "https://link.coupang.com/a/i04xP1ooYS",
+          "_ts": 1795767432.806002
+        },
+        {
           "name": "넛츠그린 저당 마일드 초코볼 마카다미아, 150g, 2개",
           "price": "11,340원",
           "discount_rate": 50,
@@ -1662,24 +1671,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/21/11/4/d850245f-1b72-4df6-a79e-07824ba3591f.jpg",
           "url": "https://link.coupang.com/a/iSMWLfStoa",
           "_ts": 1795336205.1311371
-        },
-        {
-          "name": "무균무때 곰팡이용 세정제, 900ml, 2개",
-          "price": "5,390원",
-          "discount_rate": 30,
-          "priceAt": "11.22 17:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/267113984909838-6bb901c4-ea4c-410f-af14-88d640d3416b.jpg",
-          "url": "https://link.coupang.com/a/iSK40gR7Js",
-          "_ts": 1795334638.7883132
-        },
-        {
-          "name": "바겐슈타이거 실리콘 플레티넘 인덕션 보호매트 원형, 브라운, 20cm, 2개",
-          "price": "7,990원",
-          "discount_rate": 36,
-          "priceAt": "11.22 17:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/20/14/7/96ddb517-bb4d-47d6-a710-cc57f9a1c06e.jpg",
-          "url": "https://link.coupang.com/a/iSKPDE3Bdt",
-          "_ts": 1795334428.80577
         }
       ]
     },
@@ -2500,16 +2491,6 @@
           "url": "https://toss.shopping/_m/ji3gbRuj",
           "_ts": 1795339905.805171,
           "_product_id": "12632865"
-        },
-        {
-          "name": "맛장군 열무김치, 2kg, 1팩",
-          "price": "8,310원",
-          "discount_rate": 76,
-          "priceAt": "11.22 17:03",
-          "image": "https://shopping.toss.im/live/temp/2026-04-21/af86d4da-e1ab-4491-b61f-c32e0c5c1f69.jpeg",
-          "url": "https://toss.shopping/_m/fhRWN0i3",
-          "_ts": 1795334621.457433,
-          "_product_id": "92679849"
         }
       ]
     },
