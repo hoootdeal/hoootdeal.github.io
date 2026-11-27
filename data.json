@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "굿나잇 쿠마랑 흑하랑 상추 시럽 스틱, 3박스, 14회분, 10g",
+          "price": "26,530원",
+          "discount_rate": 65,
+          "priceAt": "11.27 09:49",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/stage/manual/ef127fba-15e0-4716-b684-e33a33f49ee317420499819284349466_1779266820939.png",
+          "url": "https://link.coupang.com/a/i0ywRGYICG",
+          "_ts": 1795740552.309504
+        },
+        {
           "name": "테이크얼라이브 아사이베리 주스, 200ml, 24개",
           "price": "7,900원",
           "discount_rate": 36,
@@ -2453,16 +2462,6 @@
           "url": "https://toss.shopping/_m/PZk5VqZc",
           "_ts": 1795320305.1039329,
           "_product_id": "2658005459"
-        },
-        {
-          "name": "노랑 곱빼기 왕 떡갈비, 160g, 5봉",
-          "price": "9,000원",
-          "discount_rate": 54,
-          "priceAt": "11.22 09:45",
-          "image": "https://shopping.toss.im/955d5c28-ce13-4baa-9f0a-f06de476fcc0.jpg",
-          "url": "https://toss.shopping/_m/zeNByVJ4",
-          "_ts": 1795308356.834971,
-          "_product_id": "10321923"
         }
       ]
     },
