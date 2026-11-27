@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "참스토리 도가니탕, 500g, 5개",
+          "price": "23,870원",
+          "discount_rate": 29,
+          "priceAt": "11.27 11:42",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/90624466921855-aff277ff-218f-4e5e-b3f0-e9e8ba5483a1.jpg",
+          "url": "https://link.coupang.com/a/i0GDN3TOqy",
+          "_ts": 1795747361.651853
+        },
+        {
           "name": "이클립스 페퍼민트향 캔디, 34g, 12개",
           "price": "15,130원",
           "discount_rate": 24,
