@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "메디폼 스카겔 연고, 12g, 1개",
+          "price": "6,990원",
+          "discount_rate": 37,
+          "priceAt": "11.28 10:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/7b8b80cb-04dc-48b6-9413-62120a406dd3_fixing_v2.png",
+          "url": "https://link.coupang.com/a/i2eT5hNCns",
+          "_ts": 1795828185.757304
+        },
+        {
           "name": "오리온 미쯔 황치즈 6p, 222g, 4개",
           "price": "6,700원",
           "discount_rate": 49,
@@ -1635,33 +1644,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/870888222171144-8e5ad4fe-2f63-4feb-9e40-3e63d61aee0c.jpg",
           "url": "https://link.coupang.com/a/iTWrkj3bvo",
           "_ts": 1795396232.655725
-        },
-        {
-          "name": "삼양라면 120g, 10개",
-          "price": "4,310원",
-          "discount_rate": 26,
-          "priceAt": "11.23 10:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1058726740436568-157892c1-0772-487e-863c-37f1a117f1cd.png",
-          "url": "https://link.coupang.com/a/iTWgmKOVbg",
-          "_ts": 1795396084.71716
-        },
-        {
-          "name": "육개장 사발면 86g, 12개",
-          "price": "8,560원",
-          "discount_rate": 23,
-          "priceAt": "11.23 10:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1002276733156353-6c2430b4-0bfe-4053-8544-d0f5b013ad03.jpg",
-          "url": "https://link.coupang.com/a/iTVP2Wqb3Q",
-          "_ts": 1795395728.7757592
-        },
-        {
-          "name": "다향 1등급 훈제오리, 300g, 2개",
-          "price": "10,200원",
-          "discount_rate": 23,
-          "priceAt": "11.23 09:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/pisbrdfe/6a79933abe6a40f2afa58c3da8f1d154.jpg",
-          "url": "https://link.coupang.com/a/iTUZ5DNhN6",
-          "_ts": 1795395024.5844889
         }
       ]
     },
