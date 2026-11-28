@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "Modern Fashion 여성 발편한 털 샌들 따뜻한 뮬 슬리퍼 F89, 베이지, 250",
+          "price": "15,180원",
+          "discount_rate": 36,
+          "priceAt": "11.28 20:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/b1ec/db586b64d09217de4ecb68a345d0600ccab9aa63b571517dc928ac51fcad.jpg",
+          "url": "https://link.coupang.com/a/i2XPuIMUvc",
+          "_ts": 1795865907.179492
+        },
+        {
           "name": "Savelio 초강력 내구성 스테인레스 길이조절 뜰채 해루질 낚시 물고기, 삼각형 (36 x 80~150 cm), 블랙",
           "price": "3,900원",
           "discount_rate": 56,
@@ -1473,15 +1482,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/300328025678469-206a2d12-fc39-4aba-a2fa-3a4562d4bc56.jpg",
           "url": "https://link.coupang.com/a/iUFIvKUFUW",
           "_ts": 1795434246.332065
-        },
-        {
-          "name": "세이카 고구마 모찌 캐러멜 사탕, 63g, 2개",
-          "price": "3,780원",
-          "discount_rate": 32,
-          "priceAt": "11.23 20:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/073d/f654acba0180cde9a8f058b5ad634513e4b0192cd768529b610dbca2d596.jpg",
-          "url": "https://link.coupang.com/a/iUFaoV6MNw",
-          "_ts": 1795433784.7725592
         }
       ]
     },
