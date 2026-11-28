@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "밀카 초코무, 200g, 4개",
+          "price": "9,570원",
+          "discount_rate": 34,
+          "priceAt": "11.28 13:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/167356560066871-4220a16c-eb76-48de-9825-20ead813c1dd.jpg",
+          "url": "https://link.coupang.com/a/i2rec3zR7I",
+          "_ts": 1795838534.528251
+        },
+        {
           "name": "옛날 찹쌀떡 (냉동), 60g, 30개입, 1박스",
           "price": "11,470원",
           "discount_rate": 30,
@@ -1581,24 +1590,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/825503405708-feffb758-f22a-4383-b512-d263d8401026.png",
           "url": "https://link.coupang.com/a/iT80ADexa0",
           "_ts": 1795406785.972193
-        },
-        {
-          "name": "우주쭈꾸미 볶음 (냉동), 300g, 1개",
-          "price": "3,780원",
-          "discount_rate": 40,
-          "priceAt": "11.23 12:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/dabymolp/c9cc310aecde4501aa932332c098248f.jpg",
-          "url": "https://link.coupang.com/a/iT7DOQvivs",
-          "_ts": 1795405638.315604
-        },
-        {
-          "name": "만전김 미니언즈 두번 구운 삼각김밥용 김 리필용 40매입, 48g, 1개",
-          "price": "5,430원",
-          "discount_rate": 29,
-          "priceAt": "11.23 12:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/d7f7/0ad8850c16df5deea3081db29b830ff80fa6c3cd7aa8e376a105be4eb8a7.jpg",
-          "url": "https://link.coupang.com/a/iT6EyffwPs",
-          "_ts": 1795404809.348602
         }
       ]
     },
