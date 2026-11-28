@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "대상 ALL 샌드위치햄, 200g, 4개",
+          "price": "9,960원",
+          "discount_rate": 50,
+          "priceAt": "11.28 09:21",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/111258267379491-51259327-3b88-408a-8da6-dcfcc7b61ec6.jpg",
+          "url": "https://link.coupang.com/a/i2bqdEXSlU",
+          "_ts": 1795825264.3158212
+        },
+        {
           "name": "티젠 에너지티 부스트 스틱, 5g, 30개",
           "price": "5,750원",
           "discount_rate": 52,
@@ -1653,24 +1662,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/edac2254-b475-4ad4-b631-70065e305dac_fixing_v2_gemini_image_fixing.png",
           "url": "https://link.coupang.com/a/iTTgahDmvY",
           "_ts": 1795393564.168231
-        },
-        {
-          "name": "불닭볶음면 140g, 5개",
-          "price": "3,570원",
-          "discount_rate": 25,
-          "priceAt": "11.23 08:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/344801787593852-567aaca7-a965-4d97-adc9-4214051864f5.png",
-          "url": "https://link.coupang.com/a/iTQ2wb6bim",
-          "_ts": 1795391698.513145
-        },
-        {
-          "name": "마루코메 요리정의 맛 모듬 파 + 두부 + 미역 + 유부 36개입, 600g, 3개",
-          "price": "13,580원",
-          "discount_rate": 40,
-          "priceAt": "11.23 08:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/af97/a8c91f542c00660429b61e08242fe229d9df1b65a11b73a383f124a1d9ee.jpg",
-          "url": "https://link.coupang.com/a/iTQz1ge364",
-          "_ts": 1795391313.7015
         }
       ]
     },
