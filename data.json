@@ -1455,6 +1455,39 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "던킨 미니 글레이즈드, 15g, 10개, 3팩",
+          "price": "10,900원",
+          "discount_rate": 62,
+          "priceAt": "11.29 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-05-20/cd8c9328-da99-40ea-a335-e890e3270a29.png",
+          "url": "https://toss.shopping/_m/dBVrXlQ5",
+          "_ts": 1795878118.8491352,
+          "_flash": true,
+          "_product_id": "2163303921"
+        },
+        {
+          "name": "꿀이구마 호박 찹쌀 약과, 30g, 30개",
+          "price": "8,400원",
+          "discount_rate": 39,
+          "priceAt": "11.29 00:01",
+          "image": "https://shopping.toss.im/live/temp/2025-12-18/0ca30fd4-88c9-4293-9819-051b311e8efe.jpeg",
+          "url": "https://toss.shopping/_m/h27Qc0Se",
+          "_ts": 1795878118.8491058,
+          "_flash": true,
+          "_product_id": "423535267"
+        },
+        {
+          "name": "란센 무선 전동식 발각질제거기, BPL-03, 1개",
+          "price": "8,900원",
+          "discount_rate": 81,
+          "priceAt": "11.29 00:01",
+          "image": "https://shopping.toss.im/live/temp/2026-09-10/c8124045-d20e-49c3-8aa8-3f301d24ef90.jpeg",
+          "url": "https://toss.shopping/_m/V7IWiNQC",
+          "_ts": 1795878118.849073,
+          "_flash": true,
+          "_product_id": "2652972117"
+        },
+        {
           "name": "탐나유 햇밤 알밤, 2kg, 1개",
           "price": "9,810원",
           "discount_rate": 67,
@@ -2233,41 +2266,6 @@
           "_ts": 1795475003.7443562,
           "_flash": true,
           "_product_id": "2310519841"
-        },
-        {
-          "name": "웅진식품 애사비 오리지널, 500ml, 24개",
-          "price": "14,400원",
-          "discount_rate": 50,
-          "priceAt": "11.24 00:01",
-          "image": "https://shopping.toss.im/live/temp/2026-01-09/f0621ce9-a0e8-44ae-8307-9099c62ddbc0.jpeg",
-          "url": "https://toss.shopping/_m/TzaT3K9h",
-          "_ts": 1795446114.775012,
-          "_flash": true,
-          "_product_id": "588859595"
-        },
-        {
-          "name": "센텔리안24 마데카크림 타이트 리프팅, 쇼핑백 증정, 140ml, 1세트",
-          "price": "19,900원",
-          "discount_rate": 83,
-          "priceAt": "11.24 00:01",
-          "image": "https://shopping.toss.im/live/temp/2025-08-11/2e00209d-ea8a-4396-b6b4-cdd96024b539.jpeg",
-          "url": "https://toss.shopping/_m/PRV7p4au",
-          "_ts": 1795446114.774969,
-          "_flash": true,
-          "_product_id": "146763727",
-          "sold_out": true,
-          "_sold_at": 1795877415.0
-        },
-        {
-          "name": "동국제약 파워맥스 쏘팔메토 골드, 1000mg, 30캡슐, 2박스",
-          "price": "12,300원",
-          "discount_rate": 89,
-          "priceAt": "11.24 00:01",
-          "image": "https://shopping.toss.im/live/taca/ai/Y2EwNDIz/QUxOYmR5YU0yNXV6T3h6b2NYbWNiR0Y1UE1ueDdQRnNac0x4ZlN6aDRaT2I.png",
-          "url": "https://toss.shopping/_m/RpAAhHkD",
-          "_ts": 1795446114.7749188,
-          "_flash": true,
-          "_product_id": "7726685"
         }
       ]
     },
