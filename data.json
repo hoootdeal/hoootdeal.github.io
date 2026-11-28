@@ -1536,15 +1536,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/314886285794998-6184afb2-bab7-4b88-8a67-a4262ef1774b.png",
           "url": "https://link.coupang.com/a/iUmQmxDvrg",
           "_ts": 1795418404.4605381
-        },
-        {
-          "name": "광천김 이모카세 1호 김자반, 50g, 3개",
-          "price": "4,410원",
-          "discount_rate": 38,
-          "priceAt": "11.23 15:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/115695562856719-675da576-4f59-4dac-b33d-1821a17528e0.jpg",
-          "url": "https://link.coupang.com/a/iUkfdNykjA",
-          "_ts": 1795416220.956404
         }
       ]
     },
@@ -1553,6 +1544,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "지그비 컴팩트 초미세모 칫솔, 22개입, 1세트",
+          "price": "7,500원",
+          "discount_rate": 76,
+          "priceAt": "11.28 15:50",
+          "image": "https://shopping.toss.im/live/temp/2025-11-24/17bf3af3-1a4f-45f0-bd43-f2047cced52a.jpeg",
+          "url": "https://toss.shopping/_m/fOEc53ox",
+          "_ts": 1795848650.243105,
+          "_product_id": "174867349"
+        },
         {
           "name": "꼬기다 스틱 닭가슴살, 5종혼합, 100g, 30개",
           "price": "32,000원",
