@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "옛날 찹쌀떡 (냉동), 60g, 30개입, 1박스",
+          "price": "11,470원",
+          "discount_rate": 30,
+          "priceAt": "11.28 12:25",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/316248180894524-26322524-b30c-497d-a374-870b08b02072.jpg",
+          "url": "https://link.coupang.com/a/i2oCcL7tVA",
+          "_ts": 1795836340.8863559
+        },
+        {
           "name": "롬앤 글래스팅 컬러 글로스, 21 토피 크림, 1개",
           "price": "6,230원",
           "discount_rate": 34,
@@ -2394,16 +2403,6 @@
           "url": "https://toss.shopping/_m/5WZsvALB",
           "_ts": 1795417790.0638678,
           "_product_id": "219041409"
-        },
-        {
-          "name": "메르헨트 그린티 시카 버블 폼클렌징, 500ml, 2개",
-          "price": "11,270원",
-          "discount_rate": 71,
-          "priceAt": "11.23 12:22",
-          "image": "https://shopping.toss.im/live/temp/2025-07-30/3780de0a-fe1e-440e-b61a-d051f04a4758.jpeg",
-          "url": "https://toss.shopping/_m/JVTAnzh5",
-          "_ts": 1795404165.659487,
-          "_product_id": "32227293"
         }
       ]
     },
