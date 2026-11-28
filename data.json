@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아띠홈 딥모드 전자레인지 라면용기, 애쉬블랙, 2개",
+          "price": "8,580원",
+          "discount_rate": 21,
+          "priceAt": "11.28 18:44",
+          "image": "https://image6.coupangcdn.com/image/retail/images/2035579995393-7cae20f9-6fc8-4c1e-b311-66660475fe1d.png",
+          "url": "https://link.coupang.com/a/i2PEJQ5HqK",
+          "_ts": 1795859045.2468941
+        },
+        {
           "name": "래핑카우 벨큐브 스패니시 스타일 치즈, 5.2g, 24개입, 1개",
           "price": "6,030원",
           "discount_rate": 37,
@@ -1509,33 +1518,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/126846934581871-15058de5-3eca-4bad-9d6e-776d6a8497a2.jpg",
           "url": "https://link.coupang.com/a/iUzrgi5Ss8",
           "_ts": 1795428980.312181
-        },
-        {
-          "name": "풀무원 속밥도톰 유부초밥 새콤한맛 4인분, 524g, 2개",
-          "price": "8,370원",
-          "discount_rate": 30,
-          "priceAt": "11.23 18:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/dc0e22ac-5369-4d92-8c0e-25e267c3bfa01149122800069102541.png",
-          "url": "https://link.coupang.com/a/iUwPvEfIiW",
-          "_ts": 1795426786.138056
-        },
-        {
-          "name": "해표 포도씨유, 900ml, 1개",
-          "price": "4,860원",
-          "discount_rate": 31,
-          "priceAt": "11.23 18:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/8411370832945295-f4cad018-1082-421b-9e09-5e4e35306d2b.jpg",
-          "url": "https://link.coupang.com/a/iUulDOgfNk",
-          "_ts": 1795424703.879464
-        },
-        {
-          "name": "순작 통현미 검은콩 저당 율무차, 18g, 10개입, 1개",
-          "price": "3,130원",
-          "discount_rate": 37,
-          "priceAt": "11.23 17:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/39230207341203-fa4a9413-f8bc-43b5-981b-df6dc7e3fbf1.png",
-          "url": "https://link.coupang.com/a/iUtPi1RfYy",
-          "_ts": 1795424265.672253
         }
       ]
     },
@@ -2344,16 +2326,6 @@
           "url": "https://toss.shopping/_m/xRiFLg8x",
           "_ts": 1795434263.1495402,
           "_product_id": "109807449"
-        },
-        {
-          "name": "셰프초이스 육즙가득 도톰도톰 떡갈비, 2kg, 1개",
-          "price": "15,900원",
-          "discount_rate": 38,
-          "priceAt": "11.23 18:16",
-          "image": "https://shopping.toss.im/live/temp/2026-06-23/f38ffe28-178e-40c9-aae9-4f118e14eb6c.png",
-          "url": "https://toss.shopping/_m/DH6EmYpn",
-          "_ts": 1795425410.346174,
-          "_product_id": "2551902583"
         }
       ]
     },
