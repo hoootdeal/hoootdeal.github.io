@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "롬앤 글래스팅 컬러 글로스, 21 토피 크림, 1개",
+          "price": "6,230원",
+          "discount_rate": 34,
+          "priceAt": "11.28 11:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/06/24/10/9/03ea2c05-d011-4d33-84b9-2b9918454622.jpg",
+          "url": "https://link.coupang.com/a/i2mms77GXk",
+          "_ts": 1795834448.677589
+        },
+        {
           "name": "돌 후룻팝 딸기, 496ml, 20개",
           "price": "32,830원",
           "discount_rate": 79,
@@ -1599,24 +1608,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/f780/d9795a4d78f6f5c46919c00a70d4f532c63a1d158783cdc33f2878c54161.jpg",
           "url": "https://link.coupang.com/a/iT30Grmic0",
           "_ts": 1795402587.506156
-        },
-        {
-          "name": "스너글 허거블 코튼 더블 소프트 섬유탈취제 본품, 470ml, 1개",
-          "price": "3,850원",
-          "discount_rate": 52,
-          "priceAt": "11.23 11:51",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/06/20/10/6/f9b90ce3-43dc-47e5-9a81-b20f21d9f124.jpg",
-          "url": "https://link.coupang.com/a/iT3GUFKE1I",
-          "_ts": 1795402318.6340852
-        },
-        {
-          "name": "옐로욜로 카카오칩스, 25g, 3개",
-          "price": "4,690원",
-          "discount_rate": 38,
-          "priceAt": "11.23 11:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/b230ec17-352b-4e6c-bfc8-fa8f01625b4618149113920209961852.png",
-          "url": "https://link.coupang.com/a/iT3pkgPJZc",
-          "_ts": 1795402083.182142
         }
       ]
     },
@@ -2431,16 +2422,6 @@
           "url": "https://toss.shopping/_m/JVTAnzh5",
           "_ts": 1795404165.659487,
           "_product_id": "32227293"
-        },
-        {
-          "name": "랑카스 하이올레익 땅콩버터 100%, 스무스, 200g, 2개",
-          "price": "5,600원",
-          "discount_rate": 71,
-          "priceAt": "11.23 11:36",
-          "image": "https://shopping.toss.im/live/temp/2026-10-21/1b921cbe-b3e1-4446-8356-06b32ed3e13c.jpeg",
-          "url": "https://toss.shopping/_m/Jyfo3Msh",
-          "_ts": 1795401364.82769,
-          "_product_id": "2640973829"
         }
       ]
     },
