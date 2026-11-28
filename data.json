@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "EZn이지엔 위생장갑 플러스, 500개입, 1개",
+          "price": "7,990원",
+          "discount_rate": 30,
+          "priceAt": "11.28 14:48",
+          "image": "https://image9.coupangcdn.com/image/retail/images/5959831660056-6ec74f32-a549-491e-a62b-6e34a8b1635c.jpg",
+          "url": "https://link.coupang.com/a/i2yOIslrDU",
+          "_ts": 1795844905.763034
+        },
+        {
           "name": "컴포트랩 빅사이즈 마카롱 웰핏 브라렛, 글램90, 그린",
           "price": "9,400원",
           "discount_rate": 32,
@@ -1545,42 +1554,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/96555094908166-c1cb380a-f255-458b-aee9-647c20688938.jpg",
           "url": "https://link.coupang.com/a/iUhlPqaMIm",
           "_ts": 1795413791.8020182
-        },
-        {
-          "name": "요즘 그릭요거트 플레인, 100g, 5개",
-          "price": "11,580원",
-          "discount_rate": 27,
-          "priceAt": "11.23 14:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/111a/162ea36b2043bd04c09629f39f50594259fd936c047a2b542c06173bad60.jpg",
-          "url": "https://link.coupang.com/a/iUe29WHpqm",
-          "_ts": 1795411867.915713
-        },
-        {
-          "name": "오리온초코파이 망고라씨맛 12p, 408g, 2개",
-          "price": "6,020원",
-          "discount_rate": 30,
-          "priceAt": "11.23 14:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/423757265604721-6e571dd2-b87e-4f3c-aa6c-a01daaeb998e.jpg",
-          "url": "https://link.coupang.com/a/iUePfdclmS",
-          "_ts": 1795411667.770803
-        },
-        {
-          "name": "듀이트리 하이 아미노 올 클렌징 밀크, 200ml, 2개",
-          "price": "10,070원",
-          "discount_rate": 34,
-          "priceAt": "11.23 14:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/312115903653113-59782d30-0580-4dd4-afa4-a8fbabf6289c.jpg",
-          "url": "https://link.coupang.com/a/iUd2UUBn3Y",
-          "_ts": 1795411012.7360299
-        },
-        {
-          "name": "그릭데이 크런치 리얼카카오 그래놀라 시리얼, 150g, 1개",
-          "price": "4,830원",
-          "discount_rate": 30,
-          "priceAt": "11.23 14:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1659862516342-65721666-68b2-4253-a5a8-ddb8e3d75e16.jpg",
-          "url": "https://link.coupang.com/a/iUc39CYB2W",
-          "_ts": 1795410191.810774
         }
       ]
     },
