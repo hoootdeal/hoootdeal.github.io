@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "래핑카우 벨큐브 스패니시 스타일 치즈, 5.2g, 24개입, 1개",
+          "price": "6,030원",
+          "discount_rate": 37,
+          "priceAt": "11.28 17:32",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/asn1hvaw/5ead857969c144adadc2aa824d6ef704.jpg",
+          "url": "https://link.coupang.com/a/i2KxhqGwdo",
+          "_ts": 1795854745.913959
+        },
+        {
           "name": "아띠래빗 까꿍놀이 아기 병풍 + 토끼 거울 세트, 프리미엄 (8장)",
           "price": "29,900원",
           "discount_rate": 24,
@@ -1527,15 +1536,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/39230207341203-fa4a9413-f8bc-43b5-981b-df6dc7e3fbf1.png",
           "url": "https://link.coupang.com/a/iUtPi1RfYy",
           "_ts": 1795424265.672253
-        },
-        {
-          "name": "팁코 ABC 주스, 1L, 1개",
-          "price": "3,170원",
-          "discount_rate": 30,
-          "priceAt": "11.23 17:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/07/03/16/2/e83fd9b3-e56a-4f79-8bcb-45b091708dff.jpg",
-          "url": "https://link.coupang.com/a/iUrwoAMuaa",
-          "_ts": 1795422331.732529
         }
       ]
     },
@@ -2342,16 +2342,6 @@
           "url": "https://toss.shopping/_m/DH6EmYpn",
           "_ts": 1795425410.346174,
           "_product_id": "2551902583"
-        },
-        {
-          "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
-          "price": "9,600원",
-          "discount_rate": 65,
-          "priceAt": "11.23 17:16",
-          "image": "https://shopping.toss.im/live/temp/2026-07-03/6b083d0c-c74f-467a-9ec8-a46fe748c635.png",
-          "url": "https://toss.shopping/_m/PMmtWFLt",
-          "_ts": 1795421800.234741,
-          "_product_id": "2401832945"
         }
       ]
     },
