@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "셰프초이스 한돈 양념 돼지 불고기, 1kg, 2개",
+          "price": "17,100원",
+          "discount_rate": 33,
+          "priceAt": "11.28 19:23",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/f2e14c5b-a829-412b-9005-9e781e562f871379455737712823221.png",
+          "url": "https://link.coupang.com/a/i2Sr29NNfw",
+          "_ts": 1795861391.585022
+        },
+        {
           "name": "아띠홈 딥모드 전자레인지 라면용기, 애쉬블랙, 2개",
           "price": "8,580원",
           "discount_rate": 21,
@@ -1500,24 +1509,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/214177093153240-c566bb0d-ff94-45b3-8f87-c6e5c437e9a7.jpg",
           "url": "https://link.coupang.com/a/iUBtTpoltA",
           "_ts": 1795430692.206887
-        },
-        {
-          "name": "파스키에 라즈베리 타르트 2개입 (냉동), 220g, 1개",
-          "price": "6,380원",
-          "discount_rate": 42,
-          "priceAt": "11.23 19:19",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5289760856670806-34a6228c-ecd9-4d5f-a898-da05ff45abea.jpg",
-          "url": "https://link.coupang.com/a/iUzHg30UAS",
-          "_ts": 1795429193.465037
-        },
-        {
-          "name": "해미원 두번 튀겨 더 고소한 맛뻥, 84g, 2개",
-          "price": "5,430원",
-          "discount_rate": 30,
-          "priceAt": "11.23 19:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/126846934581871-15058de5-3eca-4bad-9d6e-776d6a8497a2.jpg",
-          "url": "https://link.coupang.com/a/iUzrgi5Ss8",
-          "_ts": 1795428980.312181
         }
       ]
     },
