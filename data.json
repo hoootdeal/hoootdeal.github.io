@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "락토핏 슈퍼슬림 30p, 60g, 2개",
+          "price": "27,930원",
+          "discount_rate": 35,
+          "priceAt": "11.28 11:19",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/dca035c1-8d0f-484e-abdd-5e89d30f76564719551770702821205.png",
+          "url": "https://link.coupang.com/a/i2jSQpuxmS",
+          "_ts": 1795832367.639703
+        },
+        {
           "name": "면사랑 갓튀긴 오징어튀김 (냉동), 350g, 2개",
           "price": "10,980원",
           "discount_rate": 42,
@@ -1599,33 +1608,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/b230ec17-352b-4e6c-bfc8-fa8f01625b4618149113920209961852.png",
           "url": "https://link.coupang.com/a/iT3pkgPJZc",
           "_ts": 1795402083.182142
-        },
-        {
-          "name": "풀무원샘물 생수 무라벨, 2L, 12개",
-          "price": "4,970원",
-          "discount_rate": 28,
-          "priceAt": "11.23 11:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1185026815783527-27ebcc46-5a24-4fca-8279-d8316f746af5.jpg",
-          "url": "https://link.coupang.com/a/iT0Hw5gB0C",
-          "_ts": 1795399807.443748
-        },
-        {
-          "name": "홍영의 붉은대게 백간장, 500ml, 1개",
-          "price": "6,770원",
-          "discount_rate": 24,
-          "priceAt": "11.23 10:52",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/13779973240795-2b82dcf3-28c0-4029-850b-62fc12f35a34.jpg",
-          "url": "https://link.coupang.com/a/iTZsFqOBlk",
-          "_ts": 1795398767.608374
-        },
-        {
-          "name": "하인즈 토마토 케찹, 650g, 1개",
-          "price": "2,570원",
-          "discount_rate": 35,
-          "priceAt": "11.23 10:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/7baa/a3bfdb9a9b4cefaf3aab20cf94f6012a7aa42ed7d782eb1e4b23cc987f89.jpg",
-          "url": "https://link.coupang.com/a/iTYZnndAtM",
-          "_ts": 1795398371.706225
         }
       ]
     },
