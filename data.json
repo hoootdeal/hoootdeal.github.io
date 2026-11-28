@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "아띠래빗 까꿍놀이 아기 병풍 + 토끼 거울 세트, 프리미엄 (8장)",
+          "price": "29,900원",
+          "discount_rate": 24,
+          "priceAt": "11.28 17:08",
+          "image": "https://img1c.coupangcdn.com/image/retail/images/519058518039343-2a0aa4e9-9b93-425e-9a5b-259d658e140d.jpg",
+          "url": "https://link.coupang.com/a/i2IQ9eOzxQ",
+          "_ts": 1795853335.02684
+        },
+        {
           "name": "파이 피젯토이 스트레스 해소 장난감 포켓 힐링 트위스트링, 레인보우, 1개",
           "price": "3,500원",
           "discount_rate": 86,
@@ -1527,24 +1536,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/07/03/16/2/e83fd9b3-e56a-4f79-8bcb-45b091708dff.jpg",
           "url": "https://link.coupang.com/a/iUrwoAMuaa",
           "_ts": 1795422331.732529
-        },
-        {
-          "name": "하동녹차 맛있는 밥도둑 명란 맛김 도시락 조미 김, 6g, 12개",
-          "price": "5,550원",
-          "discount_rate": 30,
-          "priceAt": "11.23 16:51",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/04/24/12/9/1a4d4a9a-8634-4700-ba46-401d36e167b2.jpg",
-          "url": "https://link.coupang.com/a/iUo5BW0LL2",
-          "_ts": 1795420288.387268
-        },
-        {
-          "name": "아임비타 멀티비타민 아미노젤, 100g, 10개",
-          "price": "7,700원",
-          "discount_rate": 34,
-          "priceAt": "11.23 16:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/314886285794998-6184afb2-bab7-4b88-8a67-a4262ef1774b.png",
-          "url": "https://link.coupang.com/a/iUmQmxDvrg",
-          "_ts": 1795418404.4605381
         }
       ]
     },
@@ -2361,16 +2352,6 @@
           "url": "https://toss.shopping/_m/PMmtWFLt",
           "_ts": 1795421800.234741,
           "_product_id": "2401832945"
-        },
-        {
-          "name": "과일꾼 영암 대봉감, 중과, 20과 내, 5kg, 1박스",
-          "price": "9,820원",
-          "discount_rate": 74,
-          "priceAt": "11.23 16:09",
-          "image": "https://shopping.toss.im/live/temp/2025-09-28/e8b1fd47-7929-42b9-acd3-cf530590821e.jpeg",
-          "url": "https://toss.shopping/_m/5WZsvALB",
-          "_ts": 1795417790.0638678,
-          "_product_id": "219041409"
         }
       ]
     },
