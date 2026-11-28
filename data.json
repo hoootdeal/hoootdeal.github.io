@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "컴포트랩 빅사이즈 마카롱 웰핏 브라렛, 글램90, 그린",
+          "price": "9,400원",
+          "discount_rate": 32,
+          "priceAt": "11.28 13:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/8617011154101-014113ce-86ef-4249-a316-dbeda4e5e112.jpg",
+          "url": "https://link.coupang.com/a/i2tG3MnhrU",
+          "_ts": 1795840601.8279092
+        },
+        {
           "name": "밀카 초코무, 200g, 4개",
           "price": "9,570원",
           "discount_rate": 34,
