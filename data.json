@@ -1671,6 +1671,16 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "미미네 오리지널 국물떡볶이, 570g, 4봉",
+          "price": "14,880원",
+          "discount_rate": 35,
+          "priceAt": "11.28 09:45",
+          "image": "https://shopping.toss.im/live/temp/2025-06-16/175dd140-c026-4092-b0fe-83912e77fb2b.png",
+          "url": "https://toss.shopping/_m/HHO7iX4b",
+          "_ts": 1795826755.845091,
+          "_product_id": "123678795"
+        },
+        {
           "name": "오즈랜드 오트 초코칩쿠키, 480g, 1개",
           "price": "5,900원",
           "discount_rate": 65,
