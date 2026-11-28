@@ -1572,24 +1572,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1659862516342-65721666-68b2-4253-a5a8-ddb8e3d75e16.jpg",
           "url": "https://link.coupang.com/a/iUc39CYB2W",
           "_ts": 1795410191.810774
-        },
-        {
-          "name": "하림 치킨너겟 2 (냉동), 1kg, 1개",
-          "price": "7,050원",
-          "discount_rate": 30,
-          "priceAt": "11.23 13:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/470095914187156-7bb51690-6efd-4d85-a15b-ca3f30a005ec.jpg",
-          "url": "https://link.coupang.com/a/iUaztokLG8",
-          "_ts": 1795408099.723765
-        },
-        {
-          "name": "짜파게티 140g, 15개",
-          "price": "11,130원",
-          "discount_rate": 23,
-          "priceAt": "11.23 13:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/825503405708-feffb758-f22a-4383-b512-d263d8401026.png",
-          "url": "https://link.coupang.com/a/iT80ADexa0",
-          "_ts": 1795406785.972193
         }
       ]
     },
@@ -1598,6 +1580,16 @@
       "name": "토스 모아보기",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
+        {
+          "name": "꼬기다 스틱 닭가슴살, 5종혼합, 100g, 30개",
+          "price": "32,000원",
+          "discount_rate": 67,
+          "priceAt": "11.28 13:28",
+          "image": "https://shopping.toss.im/live/taca/ai/NDIyODk1/QU94QnhTczZuREpoak53T1IxS0d5Rnd4T1NHODNpTXBpY1MrWGdNQnk4QjI.png",
+          "url": "https://toss.shopping/_m/3PRa3czt",
+          "_ts": 1795840129.705747,
+          "_product_id": "1113227935"
+        },
         {
           "name": "미미네 오리지널 국물떡볶이, 570g, 4봉",
           "price": "14,880원",
