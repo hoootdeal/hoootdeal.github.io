@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "퀘이커 오트 그래놀라 시리얼 골든넛츠, 350g, 1개",
+          "price": "3,770원",
+          "discount_rate": 52,
+          "priceAt": "11.28 15:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/03/06/14/3/a81269d3-d124-4176-b37e-49f5fcfad540.jpg",
+          "url": "https://link.coupang.com/a/i2ASwVuNCm",
+          "_ts": 1795846637.13342
+        },
+        {
           "name": "EZn이지엔 위생장갑 플러스, 500개입, 1개",
           "price": "7,990원",
           "discount_rate": 30,
@@ -1536,24 +1545,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/115695562856719-675da576-4f59-4dac-b33d-1821a17528e0.jpg",
           "url": "https://link.coupang.com/a/iUkfdNykjA",
           "_ts": 1795416220.956404
-        },
-        {
-          "name": "그린핑거 마이키즈 얼굴로션, 160ml, 1개",
-          "price": "6,990원",
-          "discount_rate": 32,
-          "priceAt": "11.23 15:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/111754085184536-6023d7cf-ee44-4e2f-a5f3-d18bcd68dd92.jpg",
-          "url": "https://link.coupang.com/a/iUhPbnH3ls",
-          "_ts": 1795414188.463985
-        },
-        {
-          "name": "사옹원 부침명장 해물파전 (냉동), 500g, 1개",
-          "price": "5,650원",
-          "discount_rate": 44,
-          "priceAt": "11.23 15:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/96555094908166-c1cb380a-f255-458b-aee9-647c20688938.jpg",
-          "url": "https://link.coupang.com/a/iUhlPqaMIm",
-          "_ts": 1795413791.8020182
         }
       ]
     },
