@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 구매를 권하지 않습니다.",
       "products": [
         {
+          "name": "오리온 미쯔 황치즈 6p, 222g, 4개",
+          "price": "6,700원",
+          "discount_rate": 49,
+          "priceAt": "11.28 09:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/bc159891-01c5-484f-813f-cc64b95990976287868428184767733.png",
+          "url": "https://link.coupang.com/a/i2bOLA0xWK",
+          "_ts": 1795825595.673621
+        },
+        {
           "name": "대상 ALL 샌드위치햄, 200g, 4개",
           "price": "9,960원",
           "discount_rate": 50,
@@ -1653,15 +1662,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/pisbrdfe/6a79933abe6a40f2afa58c3da8f1d154.jpg",
           "url": "https://link.coupang.com/a/iTUZ5DNhN6",
           "_ts": 1795395024.5844889
-        },
-        {
-          "name": "트루쿡 시그니처 플렉스 TPU 도마, 블랙, 1개, 소형",
-          "price": "9,900원",
-          "discount_rate": 46,
-          "priceAt": "11.23 09:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/edac2254-b475-4ad4-b631-70065e305dac_fixing_v2_gemini_image_fixing.png",
-          "url": "https://link.coupang.com/a/iTTgahDmvY",
-          "_ts": 1795393564.168231
         }
       ]
     },
